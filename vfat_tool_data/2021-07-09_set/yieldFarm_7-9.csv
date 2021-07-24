@@ -1,0 +1,255 @@
+pair1,pair2,apr,tvl,where,network
+WETH,USDT,12.81,258536006.3,https://app.sushi.com/farms,ETH
+USDC,WETH,11.56,362487636.3,https://app.sushi.com/farms,ETH
+DAI,WETH,14.18,224085916.7,https://app.sushi.com/farms,ETH
+sUSD,WETH,17.01,10331566.09,https://app.sushi.com/farms,ETH
+COMP,WETH,7.96,27158281.1,https://app.sushi.com/farms,ETH
+SNX,WETH,32.18,12605488.82,https://app.sushi.com/farms,ETH
+UMA,WETH,14.85,9103524.84,https://app.sushi.com/farms,ETH
+LINK,WETH,14.99,85698123.97,https://app.sushi.com/farms,ETH
+BAND,WETH,21.61,2502671.75,https://app.sushi.com/farms,ETH
+YFI,WETH,13.8,166529217.2,https://app.sushi.com/farms,ETH
+SUSHI,WETH,20.68,313866690.7,https://app.sushi.com/farms,ETH
+REN,WETH,20.45,6611665.66,https://app.sushi.com/farms,ETH
+WETH,CRV,11.14,18202648.42,https://app.sushi.com/farms,ETH
+UNI,WETH,4.77,2834024.95,https://app.sushi.com/farms,ETH
+xSUSHI,WETH,16.53,26583769.53,https://app.sushi.com/farms,ETH
+WBTC,WETH,8.07,443984817.1,https://app.sushi.com/farms,ETH
+CREAM,WETH,22.7,1786421.65,https://app.sushi.com/farms,ETH
+HEGIC,WETH,10.36,652716.1,https://app.sushi.com/farms,ETH
+MKR,WETH,8.53,31713773.48,https://app.sushi.com/farms,ETH
+PICKLE,WETH,25.51,264970.74,https://app.sushi.com/farms,ETH
+WETH,OMG,15.17,2674230.76,https://app.sushi.com/farms,ETH
+AAVE,WETH,9.74,114459499.1,https://app.sushi.com/farms,ETH
+WETH,AMP,23.27,3485200.49,https://app.sushi.com/farms,ETH
+WETH,RARI,15.55,1738769.83,https://app.sushi.com/farms,ETH
+DPI,WETH,16.76,3630530.45,https://app.sushi.com/farms,ETH
+YAM,WETH,22.8,1778739.49,https://app.sushi.com/farms,ETH
+REDUCE,,NaN,0,https://app.sushi.com/farms,ETH
+FARM,WETH SLP,57.62,117310.31,https://app.sushi.com/farms,ETH
+DOUGH,WETH SLP,163.36,"82,761.80",https://app.sushi.com/farms,ETH
+STAKE,WETH SLP,57.5,587851.4,https://app.sushi.com/farms,ETH
+AKRO,WETH SLP,28.18,239896.35,https://app.sushi.com/farms,ETH
+KP3R,WETH SLP,33.66,2811604.15,https://app.sushi.com/farms,ETH
+WETH,SEEN SLP,9.94,680244.87,https://app.sushi.com/farms,ETH
+ESD,WETH SLP,3.05,2214403.58,https://app.sushi.com/farms,ETH
+PNK,WETH SLP,15.56,434310.12,https://app.sushi.com/farms,ETH
+CVP,WETH SLP,17.96,150593.96,https://app.sushi.com/farms,ETH
+YETI,WETH SLP,19.72,548507.83,https://app.sushi.com/farms,ETH
+ARCH,WETH SLP,15.61,865872.88,https://app.sushi.com/farms,ETH
+WETH,INJ SLP,39.12,518389.53,https://app.sushi.com/farms,ETH
+BOR,WETH SLP,54.35,373135.21,https://app.sushi.com/farms,ETH
+DFD,WETH SLP,18.89,1073704.52,https://app.sushi.com/farms,ETH
+WBTC,BADGER SLP,19.17,10576827.08,https://app.sushi.com/farms,ETH
+INDEX,WETH SLP,24.08,1122900.31,https://app.sushi.com/farms,ETH
+JRT,WETH SLP,27.53,245528.82,https://app.sushi.com/farms,ETH
+ICHI,WETH SLP,55.78,121187.13,https://app.sushi.com/farms,ETH
+UST,WETH SLP,32.28,1507530.92,https://app.sushi.com/farms,ETH
+WETH,BCP SLP,14.69,920170.85,https://app.sushi.com/farms,ETH
+YPIE,WETH SLP,10.63,636160.58,https://app.sushi.com/farms,ETH
+DDX,USDC SLP,8.72,155075.86,https://app.sushi.com/farms,ETH
+MPH,WETH SLP,44.05,153467.33,https://app.sushi.com/farms,ETH
+TRU,WETH SLP,71.59,566572.13,https://app.sushi.com/farms,ETH
+ALPHA,WETH SLP,31.88,5513402.87,https://app.sushi.com/farms,ETH
+WETH,CRETH2 SLP,2.92,4636645.71,https://app.sushi.com/farms,ETH
+DUSD,WETH SLP,14.41,187666.22,https://app.sushi.com/farms,ETH
+ANT,WETH SLP,2.35,1149169.2,https://app.sushi.com/farms,ETH
+COVER,WETH SLP,29.68,910911.14,https://app.sushi.com/farms,ETH
+WBTC,DIGG SLP,18.51,3651545,https://app.sushi.com/farms,ETH
+NFTX,WETH SLP,119.68,847227.06,https://app.sushi.com/farms,ETH
+API3,WETH SLP,26.16,1291782.16,https://app.sushi.com/farms,ETH
+LDO,WETH SLP,20.19,6696388.19,https://app.sushi.com/farms,ETH
+WETH,pWING SLP,34.06,"39,698.33",https://app.sushi.com/farms,ETH
+TUSD,WETH SLP,24.95,1896310.51,https://app.sushi.com/farms,ETH
+ALEPH,WETH SLP,49.62,136237.04,https://app.sushi.com/farms,ETH
+MTA,WETH SLP,10.97,246446.16,https://app.sushi.com/farms,ETH
+WETH,RGT SLP,15.23,2662382.34,https://app.sushi.com/farms,ETH
+IDLE,WETH SLP,3.59,1883726.48,https://app.sushi.com/farms,ETH
+SDT,WETH SLP,120.62,448326.84,https://app.sushi.com/farms,ETH
+GNO,WETH SLP,7.39,182882.41,https://app.sushi.com/farms,ETH
+MITHCHEF,,NaN,0,https://app.sushi.com/farms,ETH
+ARMOR,WETH SLP,49.56,136408.72,https://app.sushi.com/farms,ETH
+ALPHA,ibETHv2...,15.44,4377915.42,https://app.sushi.com/farms,ETH
+renDOGE,WETH SLP,85.66,631284.9,https://app.sushi.com/farms,ETH
+TORN,WETH SLP,49.6,817694.51,https://app.sushi.com/farms,ETH
+VSP,WETH SLP,30.22,3355270.59,https://app.sushi.com/farms,ETH
+WETH,YLD SLP,72.14,"37,479.21",https://app.sushi.com/farms,ETH
+DAO,WETH SLP,22,307258.23,https://app.sushi.com/farms,ETH
+WETH,GRT SLP,23.78,1705893.3,https://app.sushi.com/farms,ETH
+FTM,WETH SLP,16.96,4782908.08,https://app.sushi.com/farms,ETH
+WETH,ANY SLP,9.68,2792359.43,https://app.sushi.com/farms,ETH
+PUNK,WETH SLP,20.19,"66,967.00",https://app.sushi.com/farms,ETH
+MASK,WETH SLP,36.38,"37,160.64",https://app.sushi.com/farms,ETH
+PUNK,FEMALE,118.57,"11,401.91",https://app.sushi.com/farms,ETH
+PUNK,ATTR,8.93,151424.7,https://app.sushi.com/farms,ETH
+PUNK,ATTR,10.4,130006.69,https://app.sushi.com/farms,ETH
+WETH,PUNK,7.61,177544.86,https://app.sushi.com/farms,ETH
+XFT,WETH SLP,27.01,250243.8,https://app.sushi.com/farms,ETH
+WETH,ZRX SLP,23.84,1417797.75,https://app.sushi.com/farms,ETH
+DERI,USDT SLP,6.74,1002221.18,https://app.sushi.com/farms,ETH
+PREMIA,WETH SLP,2.43,2778613.7,https://app.sushi.com/farms,ETH
+BANK,WETH SLP,78.35,1380436.39,https://app.sushi.com/farms,ETH
+LINA,WETH SLP,53.16,127166.44,https://app.sushi.com/farms,ETH
+PERP,WETH SLP,95.12,412185.53,https://app.sushi.com/farms,ETH
+WSCRT,WETH SLP,26.93,251039.03,https://app.sushi.com/farms,ETH
+USDP,WETH SLP,39.22,172344.74,https://app.sushi.com/farms,ETH
+USDP,DUCK SLP,47.82,141362.14,https://app.sushi.com/farms,ETH
+TRDL,WETH SLP,141.58,"28,647.64",https://app.sushi.com/farms,ETH
+RLC,WETH SLP,27.12,747899.32,https://app.sushi.com/farms,ETH
+bDIGG,WETH SLP,48.82,"83,070.31",https://app.sushi.com/farms,ETH
+bBADGER,WETH SLP,46.33,145889.8,https://app.sushi.com/farms,ETH
+YLA,USDC SLP,14.09,671614.04,https://app.sushi.com/farms,ETH
+PUNK,BASIC,239.44,"16,939.14",https://app.sushi.com/farms,ETH
+MASK,USDC SLP,92.71,437488.89,https://app.sushi.com/farms,ETH
+WETH,ROOK SLP,14.04,2407281.62,https://app.sushi.com/farms,ETH
+DFX,WETH SLP,105.13,"64,299.20",https://app.sushi.com/farms,ETH
+INV,WETH SLP,118.57,456093.07,https://app.sushi.com/farms,ETH
+OCEAN,WETH SLP,22.77,296926.65,https://app.sushi.com/farms,ETH
+WOO,USDC SLP,94.34,1074854.28,https://app.sushi.com/farms,ETH
+pONT,pWING SLP,117.3,"57,627.98",https://app.sushi.com/farms,ETH
+DNT,WETH SLP,10.19,663331.76,https://app.sushi.com/farms,ETH
+AERGO,WETH SLP,65.11,103817.01,https://app.sushi.com/farms,ETH
+EGT,WETH SLP,17.25,391810.02,https://app.sushi.com/farms,ETH
+MUST,WETH SLP,18.83,359067.6,https://app.sushi.com/farms,ETH
+OHM,DAI SLP,52.52,5148618.24,https://app.sushi.com/farms,ETH
+POOL,WETH SLP,105.14,192877.53,https://app.sushi.com/farms,ETH
+WETH,YLD SLP,23.96,846240.79,https://app.sushi.com/farms,ETH
+BZRX,WETH SLP,15.67,862646.12,https://app.sushi.com/farms,ETH
+kmWETH/USDT,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmWETH/USDC,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmWETH/DAI,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmWBTC/USDT,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmWBTC/DAI,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmWBTC/USDC,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmLINK/USDT,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmLINK/DAI,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmLINK/USDC,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmUSDC/1INCH,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmUSDC/AAVE,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmUSDC/BADGER,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmUSDC/ALPHA,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmUSDC/BZRX,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmUSDC/COMP,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmUSDC/COVER,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmUSDC/CREAM,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmUSDC/GRT,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmUSDC/HEGIC,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmUSDC/LINK,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmUSDC/REN,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmUSDC/SRM,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmUSDC/SUSHI,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmUSDC/UNI,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmUSDC/wNXM,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmUSDC/YFI,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmSUSHI/UNI,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmUNI/SUSHI,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmSUSHI/USDC,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmSUSHI/USDT,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmSUSHI/DAI,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmWETH/1INCH,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmYFI/USDC,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmAAVE/USDC,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmALPHA/USDC,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmBADGER/USDC,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmRUNE/USDT,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmUMA/DAI,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmDAI/CRV,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmDPI/sUSD,LINK,NaN,0,https://app.sushi.com/farms,ETH
+yvBOOST,WETH SLP,24.46,16579975.93,https://app.sushi.com/farms,ETH
+AXS,WETH SLP,21.21,3187507.6,https://app.sushi.com/farms,ETH
+BDI,WETH SLP,10.18,16595339.53,https://app.sushi.com/farms,ETH
+BASK,WETH SLP,34.5,2938694.95,https://app.sushi.com/farms,ETH
+BTC2x,FLI,28.01,6034325.9,https://app.sushi.com/farms,ETH
+WBTC,ibBTC SLP,4.99,33841830.9,https://app.sushi.com/farms,ETH
+ZIG,WETH SLP,192.41,"35,132.07",https://app.sushi.com/farms,ETH
+MM,WETH SLP,50.68,213427.23,https://app.sushi.com/farms,ETH
+PENDLE,WETH SLP,141.61,954687.8,https://app.sushi.com/farms,ETH
+PMON,WETH SLP,58.33,115880.36,https://app.sushi.com/farms,ETH
+MANA,WETH SLP,26.56,5089893.52,https://app.sushi.com/farms,ETH
+WASABI,WETH SLP,107.1,"63,114.35",https://app.sushi.com/farms,ETH
+DRC,WETH SLP,67.54,200162.27,https://app.sushi.com/farms,ETH
+WETH,DG SLP,70.15,192723.61,https://app.sushi.com/farms,ETH
+ILV,WETH SLP,147.43,458514.82,https://app.sushi.com/farms,ETH
+kmxSUSHI/UST,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmxSUSHI/DAI,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmxSUSHI/USDC,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmxSUSHI/TUSD,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmxSUSHI/USDT,LINK,NaN,0,https://app.sushi.com/farms,ETH
+BLO,WETH SLP,99.8,"27,093.55",https://app.sushi.com/farms,ETH
+LDN,WETH SLP,63.08,"42,865.21",https://app.sushi.com/farms,ETH
+WETH,WOOFY SLP,33.75,"40,055.50",https://app.sushi.com/farms,ETH
+YFI,WOOFY SLP,5.15,262506.6,https://app.sushi.com/farms,ETH
+NAOS,WETH SLP,157.84,214129.72,https://app.sushi.com/farms,ETH
+UMB,WETH SLP,125.24,161918.62,https://app.sushi.com/farms,ETH
+MOVE,WETH SLP,22.5,600900.75,https://app.sushi.com/farms,ETH
+LEV,WETH SLP,61.3,110271.54,https://app.sushi.com/farms,ETH
+WETH,MLN SLP,42.08,3212616.39,https://app.sushi.com/farms,ETH
+RULER,WETH SLP,122.24,132719.1,https://app.sushi.com/farms,ETH
+kmCOMP/USDC,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmFTM/USDC,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmSNX/USDC,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmRUNE/sUSD,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmREN/USDC,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmAAVE/DAI,LINK,NaN,0,https://app.sushi.com/farms,ETH
+kmUNI/DAI,LINK,NaN,0,https://app.sushi.com/farms,ETH
+BPT,WETH SLP,62.3,108509.41,https://app.sushi.com/farms,ETH
+NEAR,WETH SLP,15.09,447873.11,https://app.sushi.com/farms,ETH
+BANK,WETH SLP,34.93,193510.01,https://app.sushi.com/farms,ETH
+alUSD,WETH SLP,29.26,923951.79,https://app.sushi.com/farms,ETH
+USDC,SAK3 SLP,108.27,212275.52,https://app.sushi.com/farms,ETH
+BOND,WETH SLP,92.27,366296.19,https://app.sushi.com/farms,ETH
+bb_cDAI,DAI SLP,36.47,185368.94,https://app.sushi.com/farms,ETH
+WETH,FOLD SLP,29.13,232081.25,https://app.sushi.com/farms,ETH
+NDX,WETH SLP,49.26,192127.82,https://app.sushi.com/farms,ETH
+DEGEN,WETH SLP,49.56,272767.51,https://app.sushi.com/farms,ETH
+WETH,1ONE SLP,98.14,"68,877.71",https://app.sushi.com/farms,ETH
+USDC,CQT SLP,132.03,"51,198.95",https://app.sushi.com/farms,ETH
+WETH,BAMBOO,232.95,"60,075.70",https://www.bamboodefi.com,ETH
+USDT,BAMBOO,268.48,"52,127.10",https://www.bamboodefi.com,ETH
+DAI,BAMBOO,180.6,"77,489.79",https://www.bamboodefi.com,ETH
+WBTC,BAMBOO,283.49,"49,367.12",https://www.bamboodefi.com,ETH
+WBTC,WETH,569.2,"11,064.22",https://www.bamboodefi.com,ETH
+DAI,USDT,103.26,"60,991.32",https://www.bamboodefi.com,ETH
+AAVE,,0,557258108.1,https://aave.com,ETH
+BAL,,10.22,4695594.32,https://aave.com,ETH
+BAT,,0.78,2167363.24,https://aave.com,ETH
+BUSD,,2.56,10858110.21,https://aave.com,ETH
+CRV,,3.81,20424412,https://aave.com,ETH
+DAI,,2.37,1326645624,https://aave.com,ETH
+ENJ,,0.01,13312539.05,https://aave.com,ETH
+GUSD,,2.76,25316216.63,https://aave.com,ETH
+KNC,,0.48,1787359.89,https://aave.com,ETH
+LINK,,0.01,368891824.2,https://aave.com,ETH
+MANA,,0.41,4770173.47,https://aave.com,ETH
+MKR,,0,119968686.2,https://aave.com,ETH
+REN,,0.16,16310076.76,https://aave.com,ETH
+SNX,,7.56,15358106.88,https://aave.com,ETH
+sUSD,,0.94,74580794.6,https://aave.com,ETH
+TUSD,,1.13,174719981.7,https://aave.com,ETH
+UNI,,0.62,78915061.03,https://aave.com,ETH
+USDC,,1.96,3950606253,https://aave.com,ETH
+USDT,,2.85,1011318986,https://aave.com,ETH
+WVTC,,0.07,1312371878,https://aave.com,ETH
+WETH,,0.03,2670980321,https://aave.com,ETH
+xSUSHI,,0.14,194179278.5,https://aave.com,ETH
+YFI,,0.48,65799816.6,https://aave.com,ETH
+ZRX,,0.11,2466926.09,https://aave.com,ETH
+DAI,,2.69,954744878.1,https://aave.com,MATIC
+USDC,,2.45,1113391934,https://aave.com,MATIC
+USDT,,3.24,204111742.1,https://aave.com,MATIC
+WBTC,,0.06,391207534,https://aave.com,MATIC
+WETH,,0.13,948722085.4,https://aave.com,MATIC
+WMATIC,,1.06,179395648.3,https://aave.com,MATIC
+AAVE,,0,80597327.4,https://aave.com,MATIC
+WMATIC,,286.01,"62,806",https://50cent.network,MATIC
+WETH,,142430.42,126,https://50cent.network,MATIC
+USDC,,358.2,"50,148",https://50cent.network,MATIC
+50C,USDC,324382.94,554,https://50cent.network,MATIC
+50C,WMATIC,3160.41,"85,128",https://50cent.network,MATIC
+50K,USDC,5516.15,"20,322",https://50cent.network,MATIC
+50C,,1604.95,"41,908",https://50cent.network,MATIC
+WMATIC,DAI,43.81,4260570.37,https://dmm.exchange/,MATIC
+WMATIC,KNC,96.65,2928140.2,https://dmm.exchange/,MATIC
+USDC,USDT,12.16,45427408.59,https://dmm.exchange/,MATIC
+USDC,DAI,16.49,33802024.65,https://dmm.exchange/,MATIC
+USDC,WETH,36.18,26717507.49,https://dmm.exchange/,MATIC

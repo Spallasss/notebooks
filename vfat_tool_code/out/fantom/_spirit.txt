@@ -1,0 +1,533 @@
+INFO  : https://app.spiritswap.finance
+***************************************************************************************
+
+Tue Jul 13 2021 23:52:53 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 38 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+SPIRIT
+ Price: $0.03 Market Cap: $6,779,824.09 
+Staked: 93212120.5532 SPIRIT ($2,417,005.15)
+SPIRIT Per Week: 942120.88 ($24,429.34)
+APR: Day 0.14% Week 1.01% Year 52.56%
+You are staking 0.00 SPIRIT ($0.00), 0.00% of the pool.
+Stake 0.00 SPIRIT
+Unstake 0.00 SPIRIT
+Claim 0.00 SPIRIT ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WFTM]-[SPIRIT] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.17 TVL: $3,736,916.53
+WFTM Price: $0.22
+SPIRIT Price: $0.03
+Staked: 21068089.8165 SPIRIT-LP ($3,650,366.74)
+SPIRIT Per Week: 2826362.65 ($73,288.03)
+APR: Day 0.29% Week 2.01% Year 104.40%
+You are staking 0.00 [WFTM]-[SPIRIT] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SPIRIT] SPIRIT LP
+Unstake 0.00 [WFTM]-[SPIRIT] SPIRIT LP
+Claim 0.00 SPIRIT ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WFTM]-[BTC] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $17,648,380.40 TVL: $1,703,266.48
+WFTM Price: $0.22
+BTC Price: $32,587.70
+Staked: 0.0958 SPIRIT-LP ($1,691,276.64)
+SPIRIT Per Week: 471060.44 ($12,214.67)
+APR: Day 0.10% Week 0.72% Year 37.56%
+You are staking 0.00 [WFTM]-[BTC] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BTC] SPIRIT LP
+Unstake 0.00 [WFTM]-[BTC] SPIRIT LP
+Claim 0.00 SPIRIT ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WFTM]-[ETH] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $43.63 TVL: $2,748,910.26
+WFTM Price: $0.22
+ETH Price: $1,985.74
+Staked: 61987.2544 SPIRIT-LP ($2,704,432.24)
+SPIRIT Per Week: 471060.44 ($12,214.67)
+APR: Day 0.06% Week 0.45% Year 23.49%
+You are staking 0.00 [WFTM]-[ETH] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] SPIRIT LP
+Unstake 0.00 [WFTM]-[ETH] SPIRIT LP
+Claim 0.00 SPIRIT ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDC]-[WFTM] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,110,127.48 TVL: $2,379,009.07
+USDC Price: $1.00
+WFTM Price: $0.22
+Staked: 2.0543 SPIRIT-LP ($2,280,551.88)
+SPIRIT Per Week: 706590.66 ($18,322.01)
+APR: Day 0.11% Week 0.80% Year 41.78%
+You are staking 0.00 [USDC]-[WFTM] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPIRIT LP
+Unstake 0.00 [USDC]-[WFTM] SPIRIT LP
+Claim 0.00 SPIRIT ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[ZOO]-[WFTM] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $82,241,532.89 TVL: $1,654,324.92
+ZOO Price: $0.006866
+WFTM Price: $0.22
+Staked: 0.0200 SPIRIT-LP ($1,645,571.53)
+SPIRIT Per Week: 235530.22 ($6,107.34)
+APR: Day 0.05% Week 0.37% Year 19.30%
+You are staking 0.00 [ZOO]-[WFTM] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZOO]-[WFTM] SPIRIT LP
+Unstake 0.00 [ZOO]-[WFTM] SPIRIT LP
+Claim 0.00 SPIRIT ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[WFTM]-[ICE] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.46 TVL: $447,605.59
+WFTM Price: $0.22
+ICE Price: $2.29
+Staked: 302835.4268 SPIRIT-LP ($440,970.20)
+SPIRIT Per Week: 117765.11 ($3,053.67)
+APR: Day 0.10% Week 0.69% Year 36.01%
+You are staking 0.00 [WFTM]-[ICE] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ICE] SPIRIT LP
+Unstake 0.00 [WFTM]-[ICE] SPIRIT LP
+Claim 0.00 SPIRIT ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[WFTM]-[SUSHI] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.60 TVL: $1,422,282.38
+WFTM Price: $0.22
+SUSHI Price: $7.21
+Staked: 545158.1503 SPIRIT-LP ($1,416,837.26)
+SPIRIT Per Week: 235530.22 ($6,107.34)
+APR: Day 0.06% Week 0.43% Year 22.41%
+You are staking 0.00 [WFTM]-[SUSHI] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SUSHI] SPIRIT LP
+Unstake 0.00 [WFTM]-[SUSHI] SPIRIT LP
+Claim 0.00 SPIRIT ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[WFTM]-[CREAM] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6.14 TVL: $113,706.72
+WFTM Price: $0.22
+CREAM Price: $0.001382
+Staked: 18121.2456 SPIRIT-LP ($111,287.18)
+SPIRIT Per Week: 47106.04 ($1,221.47)
+APR: Day 0.16% Week 1.10% Year 57.07%
+You are staking 0.00 [WFTM]-[CREAM] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[CREAM] SPIRIT LP
+Unstake 0.00 [WFTM]-[CREAM] SPIRIT LP
+Claim 0.00 SPIRIT ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[CRV]-[WFTM] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.23 TVL: $892,446.63
+CRV Price: $1.61
+WFTM Price: $0.22
+Staked: 723330.4788 SPIRIT-LP ($888,133.21)
+SPIRIT Per Week: 235530.22 ($6,107.34)
+APR: Day 0.10% Week 0.69% Year 35.76%
+You are staking 0.00 [CRV]-[WFTM] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRV]-[WFTM] SPIRIT LP
+Unstake 0.00 [CRV]-[WFTM] SPIRIT LP
+Claim 0.00 SPIRIT ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[WFTM]-[LINK] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.04 TVL: $562,670.95
+WFTM Price: $0.22
+LINK Price: $17.19
+Staked: 138080.6465 SPIRIT-LP ($557,645.80)
+SPIRIT Per Week: 235530.22 ($6,107.34)
+APR: Day 0.16% Week 1.10% Year 56.95%
+You are staking 0.00 [WFTM]-[LINK] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[LINK] SPIRIT LP
+Unstake 0.00 [WFTM]-[LINK] SPIRIT LP
+Claim 0.00 SPIRIT ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WFTM]-[COVER] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $12.65 TVL: $164,387.44
+WFTM Price: $0.22
+COVER Price: $174.12
+Staked: 12409.7862 SPIRIT-LP ($157,019.15)
+SPIRIT Per Week: 23553.02 ($610.73)
+APR: Day 0.06% Week 0.39% Year 20.23%
+You are staking 0.00 [WFTM]-[COVER] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[COVER] SPIRIT LP
+Unstake 0.00 [WFTM]-[COVER] SPIRIT LP
+Claim 0.00 SPIRIT ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WFTM]-[YFI] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $177.85 TVL: $755,104.78
+WFTM Price: $0.22
+YFI Price: $33,483.00
+Staked: 4216.4309 SPIRIT-LP ($749,912.40)
+SPIRIT Per Week: 235530.22 ($6,107.34)
+APR: Day 0.12% Week 0.81% Year 42.35%
+You are staking 0.00 [WFTM]-[YFI] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[YFI] SPIRIT LP
+Unstake 0.00 [WFTM]-[YFI] SPIRIT LP
+Claim 0.00 SPIRIT ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[WFTM]-[FRAX] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.97 TVL: $625,823.87
+WFTM Price: $0.22
+FRAX Price: $0.99
+Staked: 633724.6678 SPIRIT-LP ($613,299.82)
+SPIRIT Per Week: 235530.22 ($6,107.34)
+APR: Day 0.14% Week 1.00% Year 51.78%
+You are staking 0.00 [WFTM]-[FRAX] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[FRAX] SPIRIT LP
+Unstake 0.00 [WFTM]-[FRAX] SPIRIT LP
+Claim 0.00 SPIRIT ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[FXS]-[FRAX] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.46 TVL: $890,022.70
+FXS Price: $2.96
+FRAX Price: $0.99
+Staked: 256595.9483 SPIRIT-LP ($887,841.64)
+SPIRIT Per Week: 235530.22 ($6,107.34)
+APR: Day 0.10% Week 0.69% Year 35.77%
+You are staking 0.00 [FXS]-[FRAX] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FXS]-[FRAX] SPIRIT LP
+Unstake 0.00 [FXS]-[FRAX] SPIRIT LP
+Claim 0.00 SPIRIT ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[fUSDT]-[WFTM] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,031,924.08 TVL: $566,149.61
+fUSDT Price: $1.00
+WFTM Price: $0.22
+Staked: 0.5367 SPIRIT-LP ($553,846.74)
+SPIRIT Per Week: 235530.22 ($6,107.34)
+APR: Day 0.16% Week 1.10% Year 57.34%
+You are staking 0.00 [fUSDT]-[WFTM] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[WFTM] SPIRIT LP
+Unstake 0.00 [fUSDT]-[WFTM] SPIRIT LP
+Claim 0.00 SPIRIT ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[WFTM]-[ANY] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.14 TVL: $577,609.94
+WFTM Price: $0.22
+ANY Price: $1.40
+Staked: 504847.4013 SPIRIT-LP ($576,469.87)
+SPIRIT Per Week: 235530.22 ($6,107.34)
+APR: Day 0.15% Week 1.06% Year 55.09%
+You are staking 0.00 [WFTM]-[ANY] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ANY] SPIRIT LP
+Unstake 0.00 [WFTM]-[ANY] SPIRIT LP
+Claim 0.00 SPIRIT ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[SPIRIT]-[BITB] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7,600.99 TVL: $23,631.19
+SPIRIT Price: $0.03
+BITB Price: $0.0000000005
+Staked: 3.0841 SPIRIT-LP ($23,441.98)
+SPIRIT Per Week: 23553.02 ($610.73)
+APR: Day 0.37% Week 2.61% Year 135.48%
+You are staking 0.00 [SPIRIT]-[BITB] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SPIRIT]-[BITB] SPIRIT LP
+Unstake 0.00 [SPIRIT]-[BITB] SPIRIT LP
+Claim 0.00 SPIRIT ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[WFTM]-[BNB] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $17.34 TVL: $1,149,154.68
+WFTM Price: $0.22
+BNB Price: $310.89
+Staked: 65934.7338 SPIRIT-LP ($1,143,341.21)
+SPIRIT Per Week: 471060.44 ($12,214.67)
+APR: Day 0.15% Week 1.07% Year 55.55%
+You are staking 0.00 [WFTM]-[BNB] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BNB] SPIRIT LP
+Unstake 0.00 [WFTM]-[BNB] SPIRIT LP
+Claim 0.00 SPIRIT ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[SPIRIT]-[BNB] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.75 TVL: $115,421.79
+SPIRIT Price: $0.03
+BNB Price: $310.89
+Staked: 19972.8350 SPIRIT-LP ($114,867.54)
+SPIRIT Per Week: 117765.11 ($3,053.67)
+APR: Day 0.38% Week 2.66% Year 138.24%
+You are staking 0.00 [SPIRIT]-[BNB] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SPIRIT]-[BNB] SPIRIT LP
+Unstake 0.00 [SPIRIT]-[BNB] SPIRIT LP
+Claim 0.00 SPIRIT ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[YFI]-[WOOFY] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $66,753.11 TVL: $651,954.51
+YFI Price: $33,483.00
+WOOFY Price: $0.03
+Staked: 9.7520 SPIRIT-LP ($650,976.03)
+SPIRIT Per Week: 117765.11 ($3,053.67)
+APR: Day 0.07% Week 0.47% Year 24.39%
+You are staking 0.00 [YFI]-[WOOFY] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [YFI]-[WOOFY] SPIRIT LP
+Unstake 0.00 [YFI]-[WOOFY] SPIRIT LP
+Claim 0.00 SPIRIT ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[SPIRIT]-[DAI] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.33 TVL: $488,195.30
+SPIRIT Price: $0.03
+DAI Price: $1.00
+Staked: 1463836.0285 SPIRIT-LP ($484,021.01)
+SPIRIT Per Week: 471060.44 ($12,214.67)
+APR: Day 0.36% Week 2.52% Year 131.23%
+You are staking 0.00 [SPIRIT]-[DAI] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SPIRIT]-[DAI] SPIRIT LP
+Unstake 0.00 [SPIRIT]-[DAI] SPIRIT LP
+Claim 0.00 SPIRIT ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+[fUSDT]-[BUSD] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,000,439.04 TVL: $923,396.38
+fUSDT Price: $1.00
+BUSD Price: $0.99
+Staked: 0.4608 SPIRIT-LP ($921,727.49)
+SPIRIT Per Week: 117765.11 ($3,053.67)
+APR: Day 0.05% Week 0.33% Year 17.23%
+You are staking 0.00 [fUSDT]-[BUSD] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[BUSD] SPIRIT LP
+Unstake 0.00 [fUSDT]-[BUSD] SPIRIT LP
+Claim 0.00 SPIRIT ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+[USDC]-[GTON] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,521,591.35 TVL: $266,784.54
+USDC Price: $1.00
+GTON Price: $5.03
+Staked: 0.0308 SPIRIT-LP ($139,426.57)
+SPIRIT Per Week: 23553.02 ($610.73)
+APR: Day 0.06% Week 0.44% Year 22.78%
+You are staking 0.00 [USDC]-[GTON] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[GTON] SPIRIT LP
+Unstake 0.00 [USDC]-[GTON] SPIRIT LP
+Claim 0.00 SPIRIT ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+[WFTM]-[MIM] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.94 TVL: $639,604.55
+WFTM Price: $0.22
+MIM Price: $0.97
+Staked: 683236.4790 SPIRIT-LP ($639,269.56)
+SPIRIT Per Week: 471060.44 ($12,214.67)
+APR: Day 0.27% Week 1.91% Year 99.36%
+You are staking 0.00 [WFTM]-[MIM] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[MIM] SPIRIT LP
+Unstake 0.00 [WFTM]-[MIM] SPIRIT LP
+Claim 0.00 SPIRIT ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+[DIS]-[WFTM] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6.35 TVL: $204,912.31
+DIS Price: $45.15
+WFTM Price: $0.22
+Staked: 4752.1410 SPIRIT-LP ($30,184.56)
+SPIRIT Per Week: 47106.04 ($1,221.47)
+APR: Day 0.58% Week 4.05% Year 210.43%
+You are staking 0.00 [DIS]-[WFTM] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DIS]-[WFTM] SPIRIT LP
+Unstake 0.00 [DIS]-[WFTM] SPIRIT LP
+Claim 0.00 SPIRIT ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $25,489,723.40
+supraSPIRIT Price: $0.03 TVL: $142,352.83
+You are staking 0.0000 supraSPIRIT ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[SPIRIT] SPIRIT LP
+ Price: $0.35 TVL: $1,297,491.74
+You are staking 0.0000 Wrapped 
+[WFTM]-[SPIRIT] SPIRIT LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[BTC] SPIRIT LP
+ Price: $24,780,010.94 TVL: $265,856.11
+You are staking 0.0000 Wrapped 
+[WFTM]-[BTC] SPIRIT LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[ETH] SPIRIT LP
+ Price: $54.55 TVL: $35,889.94
+You are staking 0.0000 Wrapped 
+[WFTM]-[ETH] SPIRIT LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[USDC]-[WFTM] SPIRIT LP
+ Price: $1,502,660.92 TVL: $58,225.20
+You are staking 0.0000 Wrapped 
+[USDC]-[WFTM] SPIRIT LP
+ ($0.00), 0.00% of the pool.
+
+Total Value Locked: $1,799,815.82

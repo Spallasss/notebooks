@@ -1,0 +1,1050 @@
+INFO  : https://swap.cometh.io/#/stake
+***************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Tue Jul 13 2021 23:48:48 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+[WMATIC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $92.95 TVL: $564,259.50
+WMATIC Price: $0.96
+WETH Price: $1,986.46
+Staked: 5390.0012 UNI-V2 ($501,019.09)
+MUST Per Week: 40.00 ($2,588.40)
+APR: Day 0.07% Week 0.52% Year 26.86%
+You are staking 0.000000 [WMATIC]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WMATIC]-[WETH] Uni LP
+Unstake 0.000000 [WMATIC]-[WETH] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[LADZ]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $311,399,492.06 TVL: $22,695.18
+LADZ Price: $0.12
+WETH Price: $1,986.46
+Staked: 0.0000 UNI-V2 ($915.32)
+MUST Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [LADZ]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [LADZ]-[WETH] Uni LP
+Unstake 0.000000 [LADZ]-[WETH] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[LADZ]-[MUST] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $56,341,265.37 TVL: $13,834.50
+LADZ Price: $0.12
+MUST Price: $64.71
+Staked: 0.0000 UNI-V2 ($0.00)
+MUST Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [LADZ]-[MUST] Uni LP $0.00 (NaN% of the pool).
+Polygon Explorer
+Stake 0.000000 [LADZ]-[MUST] Uni LP
+Unstake 0.000000 [LADZ]-[MUST] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[MUST]-[pBTC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,962.79 TVL: $14,267.74
+MUST Price: $64.71
+pBTC Price: $32,319.69
+Staked: 4.8077 UNI-V2 ($14,244.21)
+MUST Per Week: 2.00 ($129.42)
+APR: Day 0.13% Week 0.91% Year 47.25%
+You are staking 0.000000 [MUST]-[pBTC] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [MUST]-[pBTC] Uni LP
+Unstake 0.000000 [MUST]-[pBTC] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[WBTC]-[pBTC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6,617,150,874.99 TVL: $29,892.35
+WBTC Price: $32,762.00
+pBTC Price: $32,319.69
+Staked: 0.0000 UNI-V2 ($29,890.59)
+MUST Per Week: 1.00 ($64.71)
+APR: Day 0.03% Week 0.22% Year 11.26%
+You are staking 0.000000 [WBTC]-[pBTC] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WBTC]-[pBTC] Uni LP
+Unstake 0.000000 [WBTC]-[pBTC] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[BND]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $183.79 TVL: $330,130.66
+BND Price: $3.85
+WETH Price: $1,986.46
+Staked: 1788.4716 UNI-V2 ($328,710.11)
+MUST Per Week: 1.00 ($64.71)
+APR: Day 0.00% Week 0.02% Year 1.02%
+You are staking 0.000000 [BND]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [BND]-[WETH] Uni LP
+Unstake 0.000000 [BND]-[WETH] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[USDC]-[pBTC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $363,994,277.04 TVL: $1,721.05
+USDC Price: $1.00
+pBTC Price: $32,319.69
+Staked: 0.0000 UNI-V2 ($1,570.90)
+MUST Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [USDC]-[pBTC] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [USDC]-[pBTC] Uni LP
+Unstake 0.000000 [USDC]-[pBTC] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[BND]-[MUST] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $33.55 TVL: $34,712.13
+BND Price: $3.85
+MUST Price: $64.71
+Staked: 1034.2833 UNI-V2 ($34,700.27)
+MUST Per Week: 2.00 ($129.42)
+APR: Day 0.05% Week 0.37% Year 19.39%
+You are staking 0.000000 [BND]-[MUST] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [BND]-[MUST] Uni LP
+Unstake 0.000000 [BND]-[MUST] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[KIF]-[MUST] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $91.67 TVL: $8,616.07
+KIF Price: $31.67
+MUST Price: $64.71
+Staked: 65.7319 UNI-V2 ($6,025.54)
+MUST Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [KIF]-[MUST] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [KIF]-[MUST] Uni LP
+Unstake 0.000000 [KIF]-[MUST] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[DAI]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64,288,453.05 TVL: $24,657.68
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 0.0004 UNI-V2 ($24,448.40)
+MUST Per Week: 1.00 ($64.71)
+APR: Day 0.04% Week 0.26% Year 13.76%
+You are staking 0.000000 [DAI]-[USDT] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [DAI]-[USDT] Uni LP
+Unstake 0.000000 [DAI]-[USDT] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[USDC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,637,207.34 TVL: $32,732.84
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0122 UNI-V2 ($32,228.71)
+MUST Per Week: 1.00 ($64.71)
+APR: Day 0.03% Week 0.20% Year 10.44%
+You are staking 0.000000 [USDC]-[DAI] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [USDC]-[DAI] Uni LP
+Unstake 0.000000 [USDC]-[DAI] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,074,577,629,677.85 TVL: $36,114.84
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($36,106.00)
+MUST Per Week: 1.00 ($64.71)
+APR: Day 0.03% Week 0.18% Year 9.32%
+You are staking 0.000000 [USDC]-[USDT] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [USDC]-[USDT] Uni LP
+Unstake 0.000000 [USDC]-[USDT] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[PICKLE]-[MUST] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $43.61 TVL: $215,421.29
+PICKLE Price: $7.07
+MUST Price: $64.71
+Staked: 4911.2022 UNI-V2 ($214,176.82)
+MUST Per Week: 60.00 ($3,882.60)
+APR: Day 0.26% Week 1.81% Year 94.27%
+You are staking 0.000000 [PICKLE]-[MUST] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [PICKLE]-[MUST] Uni LP
+Unstake 0.000000 [PICKLE]-[MUST] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[WBTC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,640,806,769.16 TVL: $920,262.44
+WBTC Price: $32,762.00
+WETH Price: $1,986.46
+Staked: 0.0006 UNI-V2 ($916,322.64)
+MUST Per Week: 30.00 ($1,941.30)
+APR: Day 0.03% Week 0.21% Year 11.02%
+You are staking 0.000000 [WBTC]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WBTC]-[WETH] Uni LP
+Unstake 0.000000 [WBTC]-[WETH] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[bBADGER]-[MUST] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.33 TVL: $4,746.19
+bBADGER Price: $9.26
+MUST Price: $64.71
+Staked: 95.9240 UNI-V2 ($4,731.89)
+MUST Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [bBADGER]-[MUST] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [bBADGER]-[MUST] Uni LP
+Unstake 0.000000 [bBADGER]-[MUST] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[MUST]-[bDIGG] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,107.73 TVL: $6,480.60
+MUST Price: $64.71
+bDIGG Price: $4,668.40
+Staked: 5.8068 UNI-V2 ($6,432.42)
+MUST Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [MUST]-[bDIGG] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [MUST]-[bDIGG] Uni LP
+Unstake 0.000000 [MUST]-[bDIGG] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[MUST]-[xSDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $19.85 TVL: $44,362.70
+MUST Price: $64.71
+xSDT Price: $1.47
+Staked: 2232.3881 UNI-V2 ($44,306.13)
+MUST Per Week: 2.00 ($129.42)
+APR: Day 0.04% Week 0.29% Year 15.19%
+You are staking 0.000000 [MUST]-[xSDT] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [MUST]-[xSDT] Uni LP
+Unstake 0.000000 [MUST]-[xSDT] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[SDT]-[xSDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.87 TVL: $357,557.30
+SDT Price: $1.39
+xSDT Price: $1.47
+Staked: 124508.0465 UNI-V2 ($357,059.18)
+MUST Per Week: 2.00 ($129.42)
+APR: Day 0.01% Week 0.04% Year 1.88%
+You are staking 0.000000 [SDT]-[xSDT] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [SDT]-[xSDT] Uni LP
+Unstake 0.000000 [SDT]-[xSDT] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[sd3Crv]-[xSDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.55 TVL: $38.26
+sd3Crv Price: $0.41
+xSDT Price: $1.47
+Staked: 0.0000 UNI-V2 ($0.00)
+MUST Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [sd3Crv]-[xSDT] Uni LP $0.00 (NaN% of the pool).
+Polygon Explorer
+Stake 0.000000 [sd3Crv]-[xSDT] Uni LP
+Unstake 0.000000 [sd3Crv]-[xSDT] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[xSDT]-[sdcrvRenWSBTC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $431.76 TVL: $1,242.93
+xSDT Price: $1.47
+sdcrvRenWSBTC Price: $31,177.82
+Staked: 2.5094 UNI-V2 ($1,083.46)
+MUST Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [xSDT]-[sdcrvRenWSBTC] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [xSDT]-[sdcrvRenWSBTC] Uni LP
+Unstake 0.000000 [xSDT]-[sdcrvRenWSBTC] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[USDC]-[MUST] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $20,046,403.53 TVL: $126,776.61
+USDC Price: $1.00
+MUST Price: $64.71
+Staked: 0.0063 UNI-V2 ($126,221.34)
+MUST Per Week: 30.00 ($1,941.30)
+APR: Day 0.22% Week 1.54% Year 79.98%
+You are staking 0.000000 [USDC]-[MUST] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [USDC]-[MUST] Uni LP
+Unstake 0.000000 [USDC]-[MUST] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[WBTC]-[MUST] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $316,361,402.85 TVL: $45,504.45
+WBTC Price: $32,762.00
+MUST Price: $64.71
+Staked: 0.0001 UNI-V2 ($45,336.28)
+MUST Per Week: 5.00 ($323.55)
+APR: Day 0.10% Week 0.71% Year 37.11%
+You are staking 0.000000 [WBTC]-[MUST] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WBTC]-[MUST] Uni LP
+Unstake 0.000000 [WBTC]-[MUST] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[JULIEN]-[MUST] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $121,390,320.22 TVL: $254,191.88
+JULIEN Price: $0.55
+MUST Price: $64.71
+Staked: 0.0021 UNI-V2 ($253,323.26)
+MUST Per Week: 1.00 ($64.71)
+APR: Day 0.00% Week 0.03% Year 1.33%
+You are staking 0.000000 [JULIEN]-[MUST] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [JULIEN]-[MUST] Uni LP
+Unstake 0.000000 [JULIEN]-[MUST] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[SDT]-[MUST] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $20.23 TVL: $40,506.90
+SDT Price: $1.39
+MUST Price: $64.71
+Staked: 691.9453 UNI-V2 ($13,995.84)
+MUST Per Week: 1.00 ($64.71)
+APR: Day 0.07% Week 0.46% Year 24.04%
+You are staking 0.000000 [SDT]-[MUST] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [SDT]-[MUST] Uni LP
+Unstake 0.000000 [SDT]-[MUST] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[WBTC]-[sdcrvRenWSBTC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6,482,360,242.74 TVL: $830.94
+WBTC Price: $32,762.00
+sdcrvRenWSBTC Price: $31,177.82
+Staked: 0.0000 UNI-V2 ($572.94)
+MUST Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WBTC]-[sdcrvRenWSBTC] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WBTC]-[sdcrvRenWSBTC] Uni LP
+Unstake 0.000000 [WBTC]-[sdcrvRenWSBTC] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[maUSDC]-[MUST] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $17,405,637.57 TVL: $503.10
+maUSDC Price: $1.03
+MUST Price: $64.71
+Staked: 0.0000 UNI-V2 ($428.45)
+MUST Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [maUSDC]-[MUST] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [maUSDC]-[MUST] Uni LP
+Unstake 0.000000 [maUSDC]-[MUST] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[GHST]-[MUST] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $16.95 TVL: $99,343.74
+GHST Price: $1.01
+MUST Price: $64.71
+Staked: 5827.5326 UNI-V2 ($98,765.34)
+MUST Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [GHST]-[MUST] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [GHST]-[MUST] Uni LP
+Unstake 0.000000 [GHST]-[MUST] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[MUST]-[AAVE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $288.51 TVL: $7,388.04
+MUST Price: $64.71
+AAVE Price: $289.91
+Staked: 25.4625 UNI-V2 ($7,346.28)
+MUST Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [MUST]-[AAVE] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [MUST]-[AAVE] Uni LP
+Unstake 0.000000 [MUST]-[AAVE] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[SUSHI]-[MUST] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $46.26 TVL: $5,394.90
+SUSHI Price: $7.22
+MUST Price: $64.71
+Staked: 110.5352 UNI-V2 ($5,113.63)
+MUST Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [SUSHI]-[MUST] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [SUSHI]-[MUST] Uni LP
+Unstake 0.000000 [SUSHI]-[MUST] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $94,914,655.79 TVL: $779,957.63
+USDC Price: $1.00
+WETH Price: $1,986.46
+Staked: 0.0082 UNI-V2 ($775,406.09)
+MUST Per Week: 25.00 ($1,617.75)
+APR: Day 0.03% Week 0.21% Year 10.85%
+You are staking 0.000000 [USDC]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [USDC]-[WETH] Uni LP
+Unstake 0.000000 [USDC]-[WETH] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[WETH]-[MUST] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $785.88 TVL: $397,036.80
+WETH Price: $1,986.46
+MUST Price: $64.71
+Staked: 492.8409 UNI-V2 ($387,313.64)
+MUST Per Week: 100.00 ($6,471.00)
+APR: Day 0.24% Week 1.67% Year 86.88%
+You are staking 0.000000 [WETH]-[MUST] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WETH]-[MUST] Uni LP
+Unstake 0.000000 [WETH]-[MUST] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[WMATIC]-[MUST] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $17.06 TVL: $705,074.27
+WMATIC Price: $0.96
+MUST Price: $64.71
+Staked: 39035.8300 UNI-V2 ($665,848.56)
+MUST Per Week: 200.00 ($12,942.00)
+APR: Day 0.28% Week 1.94% Year 101.07%
+You are staking 0.000000 [WMATIC]-[MUST] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WMATIC]-[MUST] Uni LP
+Unstake 0.000000 [WMATIC]-[MUST] Uni LP
+Claim 0.000000 MUST ($0.00)
+Revoke (set approval to 0)
+Exit
+[DOKI]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $504.98 TVL: $233,002.72
+DOKI Price: $31.10
+WETH Price: $1,986.46
+Staked: 453.6791 UNI-V2 ($229,100.00)
+MUST Per Week: 30.00 ($1,941.30)
+DOKI Per Week: 50.00 ($1,555.12)
+Total Per Week: $3,496.42
+APR: MUST Day 0.12% Week 0.85% Year 44.06%
+APR: DOKI Day 0.10% Week 0.68% Year 35.30%
+You are staking 0.000000 [DOKI]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Unstake 0.000000 [DOKI]-[WETH] Uni LP
+Claim 0.000000 MUST + 0.000000 DOKI ($0.00)
+Revoke (set approval to 0)
+Exit
+[DOKI]-[MUST] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $92.20 TVL: $75,378.87
+DOKI Price: $31.10
+MUST Price: $64.71
+Staked: 809.6623 UNI-V2 ($74,650.58)
+MUST Per Week: 10.00 ($647.10)
+DOKI Per Week: 20.00 ($622.05)
+Total Per Week: $1,269.15
+APR: MUST Day 0.12% Week 0.87% Year 45.08%
+APR: DOKI Day 0.12% Week 0.83% Year 43.33%
+You are staking 0.000000 [DOKI]-[MUST] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Unstake 0.000000 [DOKI]-[MUST] Uni LP
+Claim 0.000000 MUST + 0.000000 DOKI ($0.00)
+Revoke (set approval to 0)
+Exit
+[AZUKI]-[MUST] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.75 TVL: $96,495.77
+AZUKI Price: $0.08
+MUST Price: $64.71
+Staked: 19771.5795 UNI-V2 ($93,893.57)
+MUST Per Week: 30.00 ($1,941.30)
+AZUKI Per Week: 7500.00 ($603.08)
+Total Per Week: $2,544.38
+APR: MUST Day 0.30% Week 2.07% Year 107.51%
+APR: AZUKI Day 0.09% Week 0.64% Year 33.40%
+You are staking 0.000000 [AZUKI]-[MUST] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Unstake 0.000000 [AZUKI]-[MUST] Uni LP
+Claim 0.000000 MUST + 0.000000 AZUKI ($0.00)
+Revoke (set approval to 0)
+Exit
+[AZUKI]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $25.89 TVL: $277,334.88
+AZUKI Price: $0.08
+WETH Price: $1,986.46
+Staked: 10549.5561 UNI-V2 ($273,169.76)
+MUST Per Week: 50.00 ($3,235.50)
+AZUKI Per Week: 15000.00 ($1,206.16)
+Total Per Week: $4,441.66
+APR: MUST Day 0.17% Week 1.18% Year 61.59%
+APR: AZUKI Day 0.06% Week 0.44% Year 22.96%
+You are staking 0.000000 [AZUKI]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Unstake 0.000000 [AZUKI]-[WETH] Uni LP
+Claim 0.000000 MUST + 0.000000 AZUKI ($0.00)
+Revoke (set approval to 0)
+Exit
+[MUST]-[STR] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.98 TVL: $16,545.38
+MUST Price: $64.71
+STR Price: $0.13
+Staked: 2512.8743 UNI-V2 ($15,015.85)
+MUST Per Week: 0.00 ($0.00)
+STR Per Week: 0.00 ($0.00)
+Total Per Week: $0.00
+APR: MUST Day 0.00% Week 0.00% Year 0.00%
+APR: STR Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [MUST]-[STR] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Unstake 0.000000 [MUST]-[STR] Uni LP
+Claim 0.000000 MUST + 0.000000 STR ($0.00)
+Revoke (set approval to 0)
+Exit
+[MUST]-[NDR] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $62.42 TVL: $26,544.78
+MUST Price: $64.71
+NDR Price: $14.88
+Staked: 212.8000 UNI-V2 ($13,283.25)
+MUST Per Week: 0.00 ($0.00)
+NDR Per Week: 0.00 ($0.00)
+Total Per Week: $0.00
+APR: MUST Day 0.00% Week 0.00% Year 0.00%
+APR: NDR Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [MUST]-[NDR] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Unstake 0.000000 [MUST]-[NDR] Uni LP
+Claim 0.000000 MUST + 0.000000 NDR ($0.00)
+Revoke (set approval to 0)
+Exit
+[ELET]-[MUST] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.44 TVL: $8,295.16
+ELET Price: $0.02
+MUST Price: $64.71
+Staked: 3397.9417 UNI-V2 ($8,293.83)
+MUST Per Week: 2.00 ($129.42)
+ELET Per Week: 1250.00 ($27.90)
+Total Per Week: $157.32
+APR: MUST Day 0.22% Week 1.56% Year 81.14%
+APR: ELET Day 0.05% Week 0.34% Year 17.49%
+You are staking 0.000000 [ELET]-[MUST] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Unstake 0.000000 [ELET]-[MUST] Uni LP
+Claim 0.000000 MUST + 0.000000 ELET ($0.00)
+Revoke (set approval to 0)
+Exit
+[VBTC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,124.71 TVL: $8,148.19
+VBTC Price: $12,315.97
+WETH Price: $1,986.46
+Staked: 0.0070 UNI-V2 ($70.92)
+MUST Per Week: 0.00 ($0.00)
+$TRDL Per Week: 0.00 ($0.00)
+Total Per Week: $0.00
+APR: MUST Day 0.00% Week 0.00% Year 0.00%
+APR: $TRDL Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [VBTC]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Unstake 0.000000 [VBTC]-[WETH] Uni LP
+Claim 0.000000 MUST + 0.000000 $TRDL ($0.00)
+Revoke (set approval to 0)
+Exit
+[VBTC]-[MUST] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,835.57 TVL: $7,026.97
+VBTC Price: $12,315.97
+MUST Price: $64.71
+Staked: 3.8184 UNI-V2 ($7,008.91)
+MUST Per Week: 1.00 ($64.71)
+$TRDL Per Week: 0.00 ($0.00)
+Total Per Week: $64.71
+APR: MUST Day 0.13% Week 0.92% Year 48.01%
+APR: $TRDL Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [VBTC]-[MUST] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Unstake 0.000000 [VBTC]-[MUST] Uni LP
+Claim 0.000000 MUST + 0.000000 $TRDL ($0.00)
+Revoke (set approval to 0)
+Exit
+[VBTC]-[WBTC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,120,292,657.64 TVL: $14,578.33
+VBTC Price: $12,315.97
+WBTC Price: $32,762.00
+Staked: 0.0000 UNI-V2 ($14,573.66)
+MUST Per Week: 1.00 ($64.71)
+$TRDL Per Week: 0.00 ($0.00)
+Total Per Week: $64.71
+APR: MUST Day 0.06% Week 0.44% Year 23.09%
+APR: $TRDL Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [VBTC]-[WBTC] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Unstake 0.000000 [VBTC]-[WBTC] Uni LP
+Claim 0.000000 MUST + 0.000000 $TRDL ($0.00)
+Revoke (set approval to 0)
+Exit
+[ELET]-[WMATIC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.30 TVL: $30,060.99
+ELET Price: $0.02
+WMATIC Price: $0.96
+Staked: 100712.9503 UNI-V2 ($30,056.63)
+MUST Per Week: 2.00 ($129.42)
+ELET Per Week: 1250.00 ($27.90)
+Total Per Week: $157.32
+APR: MUST Day 0.06% Week 0.43% Year 22.39%
+APR: ELET Day 0.01% Week 0.09% Year 4.83%
+You are staking 0.000000 [ELET]-[WMATIC] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Unstake 0.000000 [ELET]-[WMATIC] Uni LP
+Claim 0.000000 MUST + 0.000000 ELET ($0.00)
+Revoke (set approval to 0)
+Exit
+[MUST]-[$TRDL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6.59 TVL: $5,628.31
+MUST Price: $64.71
+$TRDL Price: $0.16
+Staked: 32.7434 UNI-V2 ($215.75)
+MUST Per Week: 0.00 ($0.00)
+$TRDL Per Week: 0.00 ($0.00)
+Total Per Week: $0.00
+APR: MUST Day 0.00% Week 0.00% Year 0.00%
+APR: $TRDL Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [MUST]-[$TRDL] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Unstake 0.000000 [MUST]-[$TRDL] Uni LP
+Claim 0.000000 MUST + 0.000000 $TRDL ($0.00)
+Revoke (set approval to 0)
+Exit
+[SDT]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $107.71 TVL: $343,792.11
+SDT Price: $1.39
+WETH Price: $1,986.46
+Staked: 3156.8101 UNI-V2 ($340,013.77)
+MUST Per Week: 30.00 ($1,941.30)
+SDT Per Week: 7000.00 ($9,730.00)
+Total Per Week: $11,671.30
+APR: MUST Day 0.08% Week 0.57% Year 29.69%
+APR: SDT Day 0.41% Week 2.86% Year 148.81%
+You are staking 0.000000 [SDT]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Unstake 0.000000 [SDT]-[WETH] Uni LP
+Claim 0.000000 MUST + 0.000000 SDT ($0.00)
+Revoke (set approval to 0)
+Exit
+[MM]-[MUST] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $26.99 TVL: $58,338.07
+MM Price: $2.80
+MUST Price: $64.71
+Staked: 2161.3348 UNI-V2 ($58,333.89)
+MUST Per Week: 14.00 ($905.94)
+MM Per Week: 50.00 ($139.85)
+Total Per Week: $1,045.79
+APR: MUST Day 0.22% Week 1.55% Year 80.76%
+APR: MM Day 0.03% Week 0.24% Year 12.47%
+You are staking 0.000000 [MM]-[MUST] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Unstake 0.000000 [MM]-[MUST] Uni LP
+Claim 0.000000 MUST + 0.000000 MM ($0.00)
+Revoke (set approval to 0)
+Exit
+[MUST]-[mWETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $665.18 TVL: $40,213.28
+MUST Price: $64.71
+mWETH Price: $1,701.82
+Staked: 60.4535 UNI-V2 ($40,212.66)
+MUST Per Week: 12.00 ($776.52)
+MM Per Week: 50.00 ($139.85)
+Total Per Week: $916.37
+APR: MUST Day 0.28% Week 1.93% Year 100.41%
+APR: MM Day 0.05% Week 0.35% Year 18.08%
+You are staking 0.000000 [MUST]-[mWETH] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Unstake 0.000000 [MUST]-[mWETH] Uni LP
+Claim 0.000000 MUST + 0.000000 MM ($0.00)
+Revoke (set approval to 0)
+Exit
+[mWBTC]-[MUST] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $258,537,981.75 TVL: $31,322.46
+mWBTC Price: $25,667.64
+MUST Price: $64.71
+Staked: 0.0001 UNI-V2 ($31,258.00)
+MUST Per Week: 12.00 ($776.52)
+MM Per Week: 50.00 ($139.85)
+Total Per Week: $916.37
+APR: MUST Day 0.35% Week 2.48% Year 129.18%
+APR: MM Day 0.06% Week 0.45% Year 23.27%
+You are staking 0.000000 [mWBTC]-[MUST] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Unstake 0.000000 [mWBTC]-[MUST] Uni LP
+Claim 0.000000 MUST + 0.000000 MM ($0.00)
+Revoke (set approval to 0)
+Exit
+[WETH]-[RAZOR] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $19.61 TVL: $57,903.50
+WETH Price: $1,986.46
+RAZOR Price: $0.05
+Staked: 618.5459 UNI-V2 ($12,128.98)
+MUST Per Week: 1.00 ($64.71)
+RAZOR Per Week: 0.00 ($0.00)
+Total Per Week: $64.71
+APR: MUST Day 0.08% Week 0.53% Year 27.74%
+APR: RAZOR Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WETH]-[RAZOR] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Unstake 0.000000 [WETH]-[RAZOR] Uni LP
+Claim 0.000000 MUST + 0.000000 RAZOR ($0.00)
+Revoke (set approval to 0)
+Exit
+[MUST]-[RAZOR] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.57 TVL: $17,975.84
+MUST Price: $64.71
+RAZOR Price: $0.05
+Staked: 4989.6200 UNI-V2 ($17,824.49)
+MUST Per Week: 1.00 ($64.71)
+RAZOR Per Week: 0.00 ($0.00)
+Total Per Week: $64.71
+APR: MUST Day 0.05% Week 0.36% Year 18.88%
+APR: RAZOR Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [MUST]-[RAZOR] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Unstake 0.000000 [MUST]-[RAZOR] Uni LP
+Claim 0.000000 MUST + 0.000000 RAZOR ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $6,192,747.85

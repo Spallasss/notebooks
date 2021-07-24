@@ -1,0 +1,172 @@
+INFO  : https://app.0.exchange
+*********************************************************************
+
+Tue Jul 13 2021 23:51:24 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+[ZERO]-[zUSDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $118,751,078.80 TVL: $19,422.07
+ZERO Price: $0.02
+zUSDC Price: $1.02
+Staked: 0.0001 ZERO-LP ($7,884.99)
+ZERO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [ZERO]-[zUSDC] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [ZERO]-[zUSDC] Uni LP
+Unstake 0.000000 [ZERO]-[zUSDC] Uni LP
+Claim 0.000000 ZERO ($0.00)
+Revoke (set approval to 0)
+Exit
+[ZERO]-[WAVAX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.20 TVL: $315,735.48
+ZERO Price: $0.02
+WAVAX Price: $12.34
+Staked: 84211.1717 ZERO-LP ($101,320.54)
+ZERO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [ZERO]-[WAVAX] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [ZERO]-[WAVAX] Uni LP
+Unstake 0.000000 [ZERO]-[WAVAX] Uni LP
+Claim 0.000000 ZERO ($0.00)
+Revoke (set approval to 0)
+Exit
+[ZERO]-[zETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $14.87 TVL: $49,635.46
+ZERO Price: $0.02
+zETH Price: $2,042.29
+Staked: 295.3982 ZERO-LP ($4,393.40)
+ZERO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [ZERO]-[zETH] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [ZERO]-[zETH] Uni LP
+Unstake 0.000000 [ZERO]-[zETH] Uni LP
+Claim 0.000000 ZERO ($0.00)
+Revoke (set approval to 0)
+Exit
+[ZERO]-[zUSDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $327,380.47 TVL: $30,183.75
+ZERO Price: $0.02
+zUSDT Price: $1.03
+Staked: 0.0385 ZERO-LP ($12,587.87)
+ZERO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [ZERO]-[zUSDT] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [ZERO]-[zUSDT] Uni LP
+Unstake 0.000000 [ZERO]-[zUSDT] Uni LP
+Claim 0.000000 ZERO ($0.00)
+Revoke (set approval to 0)
+Exit
+[ZERO]-[zBTC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5,537,471.57 TVL: $22,984.93
+ZERO Price: $0.02
+zBTC Price: $31,748.08
+Staked: 0.0037 ZERO-LP ($20,347.08)
+ZERO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [ZERO]-[zBTC] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [ZERO]-[zBTC] Uni LP
+Unstake 0.000000 [ZERO]-[zBTC] Uni LP
+Claim 0.000000 ZERO ($0.00)
+Revoke (set approval to 0)
+Exit
+[ZERO]-[zUNI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.37 TVL: $9,903.77
+ZERO Price: $0.02
+zUNI Price: $19.43
+Staked: 2722.6300 ZERO-LP ($3,718.96)
+ZERO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [ZERO]-[zUNI] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [ZERO]-[zUNI] Uni LP
+Unstake 0.000000 [ZERO]-[zUNI] Uni LP
+Claim 0.000000 ZERO ($0.00)
+Revoke (set approval to 0)
+Exit
+[ZERO]-[zSUSHI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.85 TVL: $27,911.97
+ZERO Price: $0.02
+zSUSHI Price: $7.56
+Staked: 30647.4265 ZERO-LP ($25,964.84)
+ZERO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [ZERO]-[zSUSHI] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [ZERO]-[zSUSHI] Uni LP
+Unstake 0.000000 [ZERO]-[zSUSHI] Uni LP
+Claim 0.000000 ZERO ($0.00)
+Revoke (set approval to 0)
+Exit
+[ZERO]-[zDAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.32 TVL: $11,363.28
+ZERO Price: $0.02
+zDAI Price: $1.03
+Staked: 33939.4848 ZERO-LP ($10,957.36)
+ZERO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [ZERO]-[zDAI] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [ZERO]-[zDAI] Uni LP
+Unstake 0.000000 [ZERO]-[zDAI] Uni LP
+Claim 0.000000 ZERO ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $187,175.04

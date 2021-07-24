@@ -1,0 +1,630 @@
+INFO  : https://hyperjump.fi
+**************************************************************************************
+
+There is a 1% deposit fee on all LP farms
+
+Tue Jul 13 2021 23:53:40 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Wrapped 
+[ORI]-[WFTM] Uni LP
+ Price: $0.59 TVL: $673,407.68
+You are staking 0.0000 Wrapped 
+[ORI]-[WFTM] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[AURORA] Uni LP
+ Price: $0.67 TVL: $438,170.29
+You are staking 0.0000 Wrapped 
+[WFTM]-[AURORA] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[USDC]-[ORI] Uni LP
+ Price: $1,138,349.12 TVL: $83,978.25
+You are staking 0.0000 Wrapped 
+[USDC]-[ORI] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[USDC]-[WFTM] Uni LP
+ Price: $1,226,896.49 TVL: $110,825.06
+You are staking 0.0000 Wrapped 
+[USDC]-[WFTM] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[USDC]-[DAI] Uni LP
+ Price: $2,155,061.24 TVL: $207,076.33
+You are staking 0.0000 Wrapped 
+[USDC]-[DAI] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[DAI] Uni LP
+ Price: $1.16 TVL: $31,361.70
+You are staking 0.0000 Wrapped 
+[WFTM]-[DAI] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[ETH] Uni LP
+ Price: $48.95 TVL: $34,610.00
+You are staking 0.0000 Wrapped 
+[WFTM]-[ETH] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[BTC] Uni LP
+ Price: $20,504,749.93 TVL: $9,035.08
+You are staking 0.0000 Wrapped 
+[WFTM]-[BTC] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[LINK] Uni LP
+ Price: $4.58 TVL: $121,455.78
+You are staking 0.0000 Wrapped 
+[WFTM]-[LINK] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[ORI]-[ETH] Uni LP
+ Price: $47.37 TVL: $55,776.12
+You are staking 0.0000 Wrapped 
+[ORI]-[ETH] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[ORI]-[BTC] Uni LP
+ Price: $21,884,092.57 TVL: $26,724.15
+You are staking 0.0000 Wrapped 
+[ORI]-[BTC] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[ORI]-[LINK] Uni LP
+ Price: $5.19 TVL: $44,403.20
+You are staking 0.0000 Wrapped 
+[ORI]-[LINK] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[BOO] SPOOKY LP
+ Price: $2.63 TVL: $190,815.24
+You are staking 0.0000 Wrapped 
+[WFTM]-[BOO] SPOOKY LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[fUSDT]-[WFTM] SPOOKY LP
+ Price: $1,261,160.37 TVL: $1,076.53
+You are staking 0.0000 Wrapped 
+[fUSDT]-[WFTM] SPOOKY LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[ICE] SPOOKY LP
+ Price: $1.85 TVL: $1,875.37
+You are staking 0.0000 Wrapped 
+[WFTM]-[ICE] SPOOKY LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[COVER] SPOOKY LP
+ Price: $45.30 TVL: $5,797.29
+You are staking 0.0000 Wrapped 
+[WFTM]-[COVER] SPOOKY LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[BAND] SPOOKY LP
+ Price: $3.03 TVL: $14,659.50
+You are staking 0.0000 Wrapped 
+[WFTM]-[BAND] SPOOKY LP
+ ($0.00), 0.00% of the pool.
+
+Total Value Locked: $2,051,047.57
+Staking Contract
+Found 29 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+ORI
+ Price: $0.03 Market Cap: $533,179.76 
+Staked: 9156752.2242 ORI ($241,672.14)
+ORI Per Week: 380007.05 ($10,029.44)
+APR: Day 0.59% Week 4.15% Year 215.80%
+You are staking 0.00 ORI ($0.00), 0.00% of the pool.
+Stake 0.00 ORI
+Unstake 0.00 ORI
+Claim 0.00 ORI ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[ORI]-[WFTM] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.16 TVL: $357,052.18
+ORI Price: $0.03
+WFTM Price: $0.22
+Staked: 2212783.6213 HLP ($354,925.80)
+ORI Per Week: 706989.86 ($18,659.43)
+APR: Day 0.75% Week 5.26% Year 273.38%
+You are staking 0.00 [ORI]-[WFTM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ORI]-[WFTM] Uni LP
+Unstake 0.00 [ORI]-[WFTM] Uni LP
+Claim 0.00 ORI ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WFTM]-[AURORA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.41 TVL: $507,694.09
+WFTM Price: $0.22
+AURORA Price: $0.15
+Staked: 1005296.4851 HLP ($412,217.80)
+ORI Per Week: 176747.46 ($4,664.86)
+APR: Day 0.16% Week 1.13% Year 58.85%
+You are staking 0.00 [WFTM]-[AURORA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[AURORA] Uni LP
+Unstake 0.00 [WFTM]-[AURORA] Uni LP
+Claim 0.00 ORI ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[WFTM] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,033,584.13 TVL: $227,938.19
+USDC Price: $1.00
+WFTM Price: $0.22
+Staked: 0.2043 HLP ($211,179.97)
+ORI Per Week: 35349.49 ($932.97)
+APR: Day 0.06% Week 0.44% Year 22.97%
+You are staking 0.00 [USDC]-[WFTM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] Uni LP
+Unstake 0.00 [USDC]-[WFTM] Uni LP
+Claim 0.00 ORI ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WFTM]-[ETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $42.91 TVL: $79,009.70
+WFTM Price: $0.22
+ETH Price: $1,985.75
+Staked: 1807.0779 HLP ($77,549.47)
+ORI Per Week: 17674.75 ($466.49)
+APR: Day 0.09% Week 0.60% Year 31.28%
+You are staking 0.00 [WFTM]-[ETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] Uni LP
+Unstake 0.00 [WFTM]-[ETH] Uni LP
+Claim 0.00 ORI ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WFTM]-[BTC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $17,393,970.29 TVL: $55,729.22
+WFTM Price: $0.22
+BTC Price: $32,564.60
+Staked: 0.0031 HLP ($54,473.38)
+ORI Per Week: 17674.75 ($466.49)
+APR: Day 0.12% Week 0.86% Year 44.53%
+You are staking 0.00 [WFTM]-[BTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BTC] Uni LP
+Unstake 0.00 [WFTM]-[BTC] Uni LP
+Claim 0.00 ORI ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[WFTM]-[LINK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.97 TVL: $119,647.54
+WFTM Price: $0.22
+LINK Price: $17.19
+Staked: 30076.7281 HLP ($119,383.91)
+ORI Per Week: 17674.75 ($466.49)
+APR: Day 0.06% Week 0.39% Year 20.32%
+You are staking 0.00 [WFTM]-[LINK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[LINK] Uni LP
+Unstake 0.00 [WFTM]-[LINK] Uni LP
+Claim 0.00 ORI ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[WFTM]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.99 TVL: $82,710.30
+WFTM Price: $0.22
+DAI Price: $1.00
+Staked: 78965.8614 HLP ($78,456.54)
+ORI Per Week: 17674.75 ($466.49)
+APR: Day 0.08% Week 0.59% Year 30.92%
+You are staking 0.00 [WFTM]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[DAI] Uni LP
+Unstake 0.00 [WFTM]-[DAI] Uni LP
+Claim 0.00 ORI ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[USDC]-[ORI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $339,330.30 TVL: $39,695.48
+USDC Price: $1.00
+ORI Price: $0.03
+Staked: 0.1128 HLP ($38,265.08)
+ORI Per Week: 70698.99 ($1,865.94)
+APR: Day 0.70% Week 4.88% Year 253.57%
+You are staking 0.00 [USDC]-[ORI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[ORI] Uni LP
+Unstake 0.00 [USDC]-[ORI] Uni LP
+Claim 0.00 ORI ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[USDC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,052,977.89 TVL: $366,577.80
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.1600 HLP ($328,388.37)
+ORI Per Week: 17674.75 ($466.49)
+APR: Day 0.02% Week 0.14% Year 7.39%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 ORI ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[ORI]-[ETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $14.66 TVL: $19,083.35
+ORI Price: $0.03
+ETH Price: $1,985.75
+Staked: 1279.2720 HLP ($18,748.21)
+ORI Per Week: 35349.49 ($932.97)
+APR: Day 0.71% Week 4.98% Year 258.77%
+You are staking 0.00 [ORI]-[ETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ORI]-[ETH] Uni LP
+Unstake 0.00 [ORI]-[ETH] Uni LP
+Claim 0.00 ORI ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[ORI]-[BTC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5,934,577.94 TVL: $20,022.11
+ORI Price: $0.03
+BTC Price: $32,564.60
+Staked: 0.0033 HLP ($19,531.11)
+ORI Per Week: 35349.49 ($932.97)
+APR: Day 0.68% Week 4.78% Year 248.40%
+You are staking 0.00 [ORI]-[BTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ORI]-[BTC] Uni LP
+Unstake 0.00 [ORI]-[BTC] Uni LP
+Claim 0.00 ORI ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[ORI]-[LINK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.36 TVL: $15,873.43
+ORI Price: $0.03
+LINK Price: $17.19
+Staked: 11418.7944 HLP ($15,566.80)
+ORI Per Week: 35349.49 ($932.97)
+APR: Day 0.86% Week 5.99% Year 311.65%
+You are staking 0.00 [ORI]-[LINK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ORI]-[LINK] Uni LP
+Unstake 0.00 [ORI]-[LINK] Uni LP
+Claim 0.00 ORI ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WFTM]-[SUSHI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.57 TVL: $45,690.05
+WFTM Price: $0.22
+SUSHI Price: $7.21
+Staked: 17730.9346 HLP ($45,564.89)
+ORI Per Week: 17674.75 ($466.49)
+APR: Day 0.15% Week 1.02% Year 53.24%
+You are staking 0.00 [WFTM]-[SUSHI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SUSHI] Uni LP
+Unstake 0.00 [WFTM]-[SUSHI] Uni LP
+Claim 0.00 ORI ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[WFTM]-[YFI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $183.78 TVL: $88,139.76
+WFTM Price: $0.22
+YFI Price: $33,482.00
+Staked: 478.7112 HLP ($87,975.89)
+ORI Per Week: 17674.75 ($466.49)
+APR: Day 0.08% Week 0.53% Year 27.57%
+You are staking 0.00 [WFTM]-[YFI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[YFI] Uni LP
+Unstake 0.00 [WFTM]-[YFI] Uni LP
+Claim 0.00 ORI ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[WFTM]-[SNX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.23 TVL: $297,800.08
+WFTM Price: $0.22
+SNX Price: $11.38
+Staked: 14138.9349 HLP ($45,602.49)
+ORI Per Week: 17674.75 ($466.49)
+APR: Day 0.15% Week 1.02% Year 53.19%
+You are staking 0.00 [WFTM]-[SNX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SNX] Uni LP
+Unstake 0.00 [WFTM]-[SNX] Uni LP
+Claim 0.00 ORI ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[WFTM]-[BNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $16.89 TVL: $85,012.71
+WFTM Price: $0.22
+BNB Price: $310.89
+Staked: 4929.6909 HLP ($83,260.61)
+ORI Per Week: 35349.49 ($932.97)
+APR: Day 0.16% Week 1.12% Year 58.27%
+You are staking 0.00 [WFTM]-[BNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BNB] Uni LP
+Unstake 0.00 [WFTM]-[BNB] Uni LP
+Claim 0.00 ORI ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[ZOO]-[WFTM] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $81,535,760.74 TVL: $92,751.16
+ZOO Price: $0.006890
+WFTM Price: $0.22
+Staked: 0.0009 HLP ($71,212.00)
+ORI Per Week: 17674.75 ($466.49)
+APR: Day 0.09% Week 0.66% Year 34.06%
+You are staking 0.00 [ZOO]-[WFTM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZOO]-[WFTM] Uni LP
+Unstake 0.00 [ZOO]-[WFTM] Uni LP
+Claim 0.00 ORI ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[WFTM]-[ICE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.46 TVL: $25,554.49
+WFTM Price: $0.22
+ICE Price: $2.29
+Staked: 16266.4752 HLP ($23,754.16)
+ORI Per Week: 17674.75 ($466.49)
+APR: Day 0.28% Week 1.96% Year 102.12%
+You are staking 0.00 [WFTM]-[ICE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ICE] Uni LP
+Unstake 0.00 [WFTM]-[ICE] Uni LP
+Claim 0.00 ORI ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[WFTM]-[ESWAP] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $59,904.43 TVL: $13,983.28
+WFTM Price: $0.22
+ESWAP Price: $0.39
+Staked: 0.1792 HLP ($10,734.14)
+ORI Per Week: 17674.75 ($466.49)
+APR: Day 0.62% Week 4.35% Year 225.98%
+You are staking 0.00 [WFTM]-[ESWAP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ESWAP] Uni LP
+Unstake 0.00 [WFTM]-[ESWAP] Uni LP
+Claim 0.00 ORI ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[ORI]-[ESWAP] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $20,513.94 TVL: $16,258.20
+ORI Price: $0.03
+ESWAP Price: $0.39
+Staked: 0.7341 HLP ($15,058.99)
+ORI Per Week: 35349.49 ($932.97)
+APR: Day 0.89% Week 6.20% Year 322.16%
+You are staking 0.00 [ORI]-[ESWAP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ORI]-[ESWAP] Uni LP
+Unstake 0.00 [ORI]-[ESWAP] Uni LP
+Claim 0.00 ORI ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[WFTM]-[renBTC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $17,129,745.73 TVL: $36,362.31
+WFTM Price: $0.22
+renBTC Price: $32,675.25
+Staked: 0.0021 HLP ($35,511.32)
+ORI Per Week: 17674.75 ($466.49)
+APR: Day 0.19% Week 1.31% Year 68.31%
+You are staking 0.00 [WFTM]-[renBTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[renBTC] Uni LP
+Unstake 0.00 [WFTM]-[renBTC] Uni LP
+Claim 0.00 ORI ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[ORI]-[renBTC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5,898,126.02 TVL: $12,956.08
+ORI Price: $0.03
+renBTC Price: $32,675.25
+Staked: 0.0021 HLP ($12,308.22)
+ORI Per Week: 35349.49 ($932.97)
+APR: Day 1.08% Week 7.58% Year 394.16%
+You are staking 0.00 [ORI]-[renBTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ORI]-[renBTC] Uni LP
+Unstake 0.00 [ORI]-[renBTC] Uni LP
+Claim 0.00 ORI ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[WFTM]-[renZEC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $965,677.84 TVL: $25,657.00
+WFTM Price: $0.22
+renZEC Price: $103.60
+Staked: 0.0259 HLP ($24,967.07)
+ORI Per Week: 17674.75 ($466.49)
+APR: Day 0.27% Week 1.87% Year 97.16%
+You are staking 0.00 [WFTM]-[renZEC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[renZEC] Uni LP
+Unstake 0.00 [WFTM]-[renZEC] Uni LP
+Claim 0.00 ORI ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+[ORI]-[renZEC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $333,856.69 TVL: $15,262.30
+ORI Price: $0.03
+renZEC Price: $103.60
+Staked: 0.0450 HLP ($15,027.92)
+ORI Per Week: 35349.49 ($932.97)
+APR: Day 0.89% Week 6.21% Year 322.83%
+You are staking 0.00 [ORI]-[renZEC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ORI]-[renZEC] Uni LP
+Unstake 0.00 [ORI]-[renZEC] Uni LP
+Claim 0.00 ORI ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+[WFTM]-[renBCH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,046,971.51 TVL: $37,181.23
+WFTM Price: $0.22
+renBCH Price: $460.05
+Staked: 0.0178 HLP ($36,421.86)
+ORI Per Week: 17674.75 ($466.49)
+APR: Day 0.18% Week 1.28% Year 66.60%
+You are staking 0.00 [WFTM]-[renBCH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[renBCH] Uni LP
+Unstake 0.00 [WFTM]-[renBCH] Uni LP
+Claim 0.00 ORI ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+[ORI]-[renBCH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $707,132.00 TVL: $16,571.18
+ORI Price: $0.03
+renBCH Price: $460.05
+Staked: 0.0230 HLP ($16,279.09)
+ORI Per Week: 35349.49 ($932.97)
+APR: Day 0.82% Week 5.73% Year 298.02%
+You are staking 0.00 [ORI]-[renBCH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ORI]-[renBCH] Uni LP
+Unstake 0.00 [ORI]-[renBCH] Uni LP
+Claim 0.00 ORI ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $2,494,037.25

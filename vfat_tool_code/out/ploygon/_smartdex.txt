@@ -1,0 +1,154 @@
+INFO  : https://swap.smartdex.app
+***************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Tue Jul 13 2021 23:50:14 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+[USDC]-[NIOX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5,925,664,373,083.43 TVL: $510,044.74
+USDC Price: $1.00
+NIOX Price: $0.08
+Staked: 0.0000 NIOXV2 ($488,195.84)
+NIOX Per Week: 104993.28 ($8,779.90)
+APR: Day 0.26% Week 1.80% Year 93.52%
+You are staking 0.000000 [USDC]-[NIOX] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [USDC]-[NIOX] Uni LP
+Unstake 0.000000 [USDC]-[NIOX] Uni LP
+Claim 0.000000 NIOX ($0.00)
+Revoke (set approval to 0)
+Exit
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,187,769.11 TVL: $100,538.13
+WMATIC Price: $0.96
+USDC Price: $1.00
+Staked: 0.0456 NIOXV2 ($99,722.96)
+NIOX Per Week: 31449.60 ($2,629.93)
+APR: Day 0.38% Week 2.64% Year 137.14%
+You are staking 0.000000 [WMATIC]-[USDC] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WMATIC]-[USDC] Uni LP
+Unstake 0.000000 [WMATIC]-[USDC] Uni LP
+Claim 0.000000 NIOX ($0.00)
+Revoke (set approval to 0)
+Exit
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $93,410,446.82 TVL: $152,444.65
+USDC Price: $1.00
+WETH Price: $1,986.17
+Staked: 0.0016 NIOXV2 ($146,435.92)
+NIOX Per Week: 31449.60 ($2,629.93)
+APR: Day 0.26% Week 1.80% Year 93.39%
+You are staking 0.000000 [USDC]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [USDC]-[WETH] Uni LP
+Unstake 0.000000 [USDC]-[WETH] Uni LP
+Claim 0.000000 NIOX ($0.00)
+Revoke (set approval to 0)
+Exit
+[AGI]-[NIOX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $107,792,215,931.46 TVL: $2,066.59
+AGI Price: $0.03
+NIOX Price: $0.08
+Staked: 0.0000 NIOXV2 ($0.66)
+NIOX Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [AGI]-[NIOX] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [AGI]-[NIOX] Uni LP
+Unstake 0.000000 [AGI]-[NIOX] Uni LP
+Claim 0.000000 NIOX ($0.00)
+Revoke (set approval to 0)
+Exit
+[GLQ]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $16.83 TVL: $2.39
+GLQ Price: $0.04
+WETH Price: $1,986.17
+Staked: 0.0869 NIOXV2 ($1.46)
+NIOX Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [GLQ]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [GLQ]-[WETH] Uni LP
+Unstake 0.000000 [GLQ]-[WETH] Uni LP
+Claim 0.000000 NIOX ($0.00)
+Revoke (set approval to 0)
+Exit
+[ALOHA]-[NIOX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $121,786,583.91 TVL: $19,418.50
+ALOHA Price: $0.02
+NIOX Price: $0.08
+Staked: 0.0000 NIOXV2 ($607.64)
+NIOX Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [ALOHA]-[NIOX] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [ALOHA]-[NIOX] Uni LP
+Unstake 0.000000 [ALOHA]-[NIOX] Uni LP
+Claim 0.000000 NIOX ($0.00)
+Revoke (set approval to 0)
+Exit
+[USDC]-[pBTC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $362,827,211.04 TVL: $98,341.40
+USDC Price: $1.00
+pBTC Price: $32,384.46
+Staked: 0.0003 NIOXV2 ($91,808.33)
+NIOX Per Week: 10463.04 ($874.96)
+APR: Day 0.14% Week 0.95% Year 49.56%
+You are staking 0.000000 [USDC]-[pBTC] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [USDC]-[pBTC] Uni LP
+Unstake 0.000000 [USDC]-[pBTC] Uni LP
+Claim 0.000000 NIOX ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $826,772.80

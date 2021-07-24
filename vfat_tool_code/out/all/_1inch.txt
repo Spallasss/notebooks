@@ -1,0 +1,137 @@
+INFO  : https://1inch.exchange/#/dao/farming
+**************************************************************************
+
+Tue Jul 13 2021 23:45:36 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[ETH]-[1INCH] 1INCH LP
+ Price: $5.24 TVL: $8,535,735.04
+ETH Price: $2,001.71
+1INCH Price: $2.37
+Staked: 32880.9182 1LP-ETH-1INCH ($172,437.62)
+1INCH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [ETH]-[1INCH] 1INCH LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [ETH]-[1INCH] 1INCH LP
+Unstake 0.000000 [ETH]-[1INCH] 1INCH LP
+Claim 0.000000 1INCH ($0.00)
+Revoke (set approval to 0)
+Exit
+[1INCH]-[VSP] 1INCH LP
+ Price: $6.07 TVL: $3,239,651.95
+1INCH Price: $2.37
+VSP Price: $5.96
+Staked: 1597.1155 1LP-1INCH-VSP ($9,693.31)
+1INCH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [1INCH]-[VSP] 1INCH LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [1INCH]-[VSP] 1INCH LP
+Unstake 0.000000 [1INCH]-[VSP] 1INCH LP
+Claim 0.000000 1INCH ($0.00)
+Revoke (set approval to 0)
+Exit
+[ETH]-[TORN] 1INCH LP
+ Price: $202.56 TVL: $312,102.78
+ETH Price: $2,001.71
+TORN Price: $31.74
+Staked: 192.7562 1LP-ETH-TORN ($39,044.03)
+1INCH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [ETH]-[TORN] 1INCH LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [ETH]-[TORN] 1INCH LP
+Unstake 0.000000 [ETH]-[TORN] 1INCH LP
+Claim 0.000000 1INCH ($0.00)
+Revoke (set approval to 0)
+Exit
+[ETH]-[OPIUM] 1INCH LP
+ Price: $6.13 TVL: $1,320,763.45
+ETH Price: $2,001.71
+OPIUM Price: $1.53
+Staked: 198447.7331 1LP-ETH-OPIUM ($1,216,434.86)
+1INCH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [ETH]-[OPIUM] 1INCH LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [ETH]-[OPIUM] 1INCH LP
+Unstake 0.000000 [ETH]-[OPIUM] 1INCH LP
+Claim 0.000000 1INCH ($0.00)
+Revoke (set approval to 0)
+Exit
+[LDO]-[stETH] 1INCH LP
+ Price: $4.51 TVL: $3,327,411.83
+LDO Price: $1.64
+stETH Price: $1,990.78
+Staked: 448565.1076 1LP-LDO-0xae7ab96520de3a18e5e111b5eaab095312d7fe84 ($2,022,936.74)
+1INCH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [LDO]-[stETH] 1INCH LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [LDO]-[stETH] 1INCH LP
+Unstake 0.000000 [LDO]-[stETH] 1INCH LP
+Claim 0.000000 1INCH ($0.00)
+Revoke (set approval to 0)
+Exit
+[ETH]-[WBTC] 1INCH LP
+ Price: $2,945.46 TVL: $969,220.15
+ETH Price: $2,001.71
+WBTC Price: $32,754.00
+Staked: 30.9904 1LP-ETH-WBTC ($91,280.85)
+1INCH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [ETH]-[WBTC] 1INCH LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [ETH]-[WBTC] 1INCH LP
+Unstake 0.000000 [ETH]-[WBTC] 1INCH LP
+Claim 0.000000 1INCH ($0.00)
+Revoke (set approval to 0)
+Exit
+[ETH]-[USDC] 1INCH LP
+ Price: $3,397.18 TVL: $599,352.82
+ETH Price: $2,001.71
+USDC Price: $1.00
+Staked: 1.7945 1LP-ETH-USDC ($6,096.25)
+1INCH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [ETH]-[USDC] 1INCH LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [ETH]-[USDC] 1INCH LP
+Unstake 0.000000 [ETH]-[USDC] 1INCH LP
+Claim 0.000000 1INCH ($0.00)
+Revoke (set approval to 0)
+Exit
+[ETH]-[DAI] 1INCH LP
+ Price: $2.65 TVL: $247,448.69
+ETH Price: $2,001.71
+DAI Price: $1.00
+Staked: 41309.8808 1LP-ETH-DAI ($109,474.98)
+1INCH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [ETH]-[DAI] 1INCH LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [ETH]-[DAI] 1INCH LP
+Unstake 0.000000 [ETH]-[DAI] 1INCH LP
+Claim 0.000000 1INCH ($0.00)
+Revoke (set approval to 0)
+Exit
+[ETH]-[USDT] 1INCH LP
+ Price: $3,527.93 TVL: $358,214.37
+ETH Price: $2,001.71
+USDT Price: $1.00
+Staked: 4.8727 1LP-ETH-USDT ($17,190.55)
+1INCH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [ETH]-[USDT] 1INCH LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [ETH]-[USDT] 1INCH LP
+Unstake 0.000000 [ETH]-[USDT] 1INCH LP
+Claim 0.000000 1INCH ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $3,684,589.19

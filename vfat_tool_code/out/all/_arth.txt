@@ -1,0 +1,94 @@
+INFO  : https://www.arthcoin.com
+******************************************************************************
+
+Tue Jul 13 2021 23:46:04 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[MAHA]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $164.26 TVL: $567,486.94
+MAHA Price: $1.72
+WETH Price: $1,988.60
+Staked: 1.2834 UNI-V2 ($210.81)
+MAHA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [MAHA]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [MAHA]-[WETH] Uni LP
+Unstake 0.000000 [MAHA]-[WETH] Uni LP
+Claim 0.000000 MAHA ($0.00)
+Revoke (set approval to 0)
+Exit
+[ARTH]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.46 TVL: $10,529.04
+ARTH Price: $0.01
+DAI Price: $1.00
+Staked: 917.1592 UNI-V2 ($418.69)
+MAHA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [ARTH]-[DAI] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [ARTH]-[DAI] Uni LP
+Unstake 0.000000 [ARTH]-[DAI] Uni LP
+Claim 0.000000 MAHA ($0.00)
+Revoke (set approval to 0)
+Exit
+ARTH
+ Price: $0.01 Market Cap: $8,084,733.11 
+[%]
+Staked: 50225.4479 ARTH ($642.97)
+MAHA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 ARTH $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 ARTH
+Unstake 0.000000 ARTH
+Claim 0.000000 MAHA ($0.00)
+Revoke (set approval to 0)
+Exit
+Boardroom
+There is a total 12401.01 ARTH-DAI LP ($5,661.17) staked in the Boardroom.
+You are staking 0 ARTH-DAI LP ($0.00), 0.00% of the pool.
+Stake 0.00 ARTH-DAI LP
+Unstake 0.00 ARTH-DAI LP
+Claim 0.00 ARTH ($0.00)
+Revoke (set approval to 0)
+Exit
+
+
+Boardroom
+There is a total 1.54 MAHA-ETH LP ($252.96) staked in the Boardroom.
+You are staking 0 MAHA-ETH LP ($0.00), 0.00% of the pool.
+Stake 0.00 MAHA-ETH LP
+Unstake 0.00 MAHA-ETH LP
+Claim 0.00 ARTH ($0.00)
+Revoke (set approval to 0)
+Exit
+
+
+Boardroom
+There is a total 39503.69 ARTH ($505.71) staked in the Boardroom.
+You are staking 0 ARTH ($0.00), 0.00% of the pool.
+Stake 0.00 ARTH
+Unstake 0.00 ARTH
+Claim 0.00 ARTH ($0.00)
+Revoke (set approval to 0)
+Exit
+
+
+Total staked: $7,692.31

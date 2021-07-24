@@ -1,0 +1,132 @@
+INFO  : https://exchange.yetiswap.app
+*********************************************************************
+
+Tue Jul 13 2021 23:51:34 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+[YTS]-[WAVAX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.40 TVL: $42,552.62
+YTS Price: $0.002436
+WAVAX Price: $12.34
+Staked: 102074.9105 YSL ($40,551.92)
+YTS Per Week: 503314.17 ($1,225.96)
+APR: Day 0.43% Week 3.02% Year 157.21%
+You are staking 0.000000 [YTS]-[WAVAX] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [YTS]-[WAVAX] Uni LP
+Unstake 0.000000 [YTS]-[WAVAX] Uni LP
+Claim 0.000000 YTS ($0.00)
+Revoke (set approval to 0)
+Exit
+[WAVAX]-[ETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $320.43 TVL: $82,596.50
+WAVAX Price: $12.34
+ETH Price: $2,021.23
+Staked: 249.1326 YSL ($79,830.75)
+YTS Per Week: 180406.66 ($439.43)
+APR: Day 0.08% Week 0.55% Year 28.62%
+You are staking 0.000000 [WAVAX]-[ETH] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [WAVAX]-[ETH] Uni LP
+Unstake 0.000000 [WAVAX]-[ETH] Uni LP
+Claim 0.000000 YTS ($0.00)
+Revoke (set approval to 0)
+Exit
+[WAVAX]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $174,440,632.96 TVL: $41,245.92
+WAVAX Price: $12.34
+USDT Price: $1.00
+Staked: 0.0002 YSL ($40,338.19)
+YTS Per Week: 255933.48 ($623.40)
+APR: Day 0.22% Week 1.55% Year 80.36%
+You are staking 0.000000 [WAVAX]-[USDT] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [WAVAX]-[USDT] Uni LP
+Unstake 0.000000 [WAVAX]-[USDT] Uni LP
+Claim 0.000000 YTS ($0.00)
+Revoke (set approval to 0)
+Exit
+[YTS]-[ETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.79 TVL: $268.41
+YTS Price: $0.002436
+ETH Price: $2,021.23
+Staked: 48.1412 YSL ($230.59)
+YTS Per Week: 2624.85 ($6.39)
+APR: Day 0.40% Week 2.77% Year 144.18%
+You are staking 0.000000 [YTS]-[ETH] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [YTS]-[ETH] Uni LP
+Unstake 0.000000 [YTS]-[ETH] Uni LP
+Claim 0.000000 YTS ($0.00)
+Revoke (set approval to 0)
+Exit
+[YTS]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $102,020.10 TVL: $873.73
+YTS Price: $0.002436
+USDT Price: $1.00
+Staked: 0.0085 YSL ($866.98)
+YTS Per Week: 7013.19 ($17.08)
+APR: Day 0.28% Week 1.97% Year 102.46%
+You are staking 0.000000 [YTS]-[USDT] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [YTS]-[USDT] Uni LP
+Unstake 0.000000 [YTS]-[USDT] Uni LP
+Claim 0.000000 YTS ($0.00)
+Revoke (set approval to 0)
+Exit
+[YTS]-[PNG] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.11 TVL: $16,859.85
+YTS Price: $0.002436
+PNG Price: $1.23
+Staked: 144449.1789 YSL ($16,581.06)
+YTS Per Week: 266140.15 ($648.26)
+APR: Day 0.56% Week 3.91% Year 203.30%
+You are staking 0.000000 [YTS]-[PNG] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [YTS]-[PNG] Uni LP
+Unstake 0.000000 [YTS]-[PNG] Uni LP
+Claim 0.000000 YTS ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $178,399.49

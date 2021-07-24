@@ -1,0 +1,93 @@
+INFO  : https://popsicle.finance
+*************************************************************************************
+
+Tue Jul 13 2021 23:52:19 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+0 - 
+[WFTM]-[ICE] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.57 TVL: $3,749,211.19
+WFTM Price: $0.22
+ICE Price: $2.29
+Staked: 2270216.6769 SLP ($3,569,475.44)
+ICE Per Week: 51017 ($116,828.93)
+APR: Day 0.47% Week 3.27% Year 170.20%
+You are staking 0 [WFTM]-[ICE] SLP ($0.00), 0.00% of the pool.
+Stake 0 [WFTM]-[ICE] SLP
+Unstake 0 [WFTM]-[ICE] SLP
+Claim 0 ICE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WFTM]-[ICE] SPOOKY LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.48 TVL: $3,965,696.25
+WFTM Price: $0.22
+ICE Price: $2.29
+Staked: 2451798.0978 spLP ($3,621,168.65)
+ICE Per Week: 51017 ($116,828.93)
+APR: Day 0.46% Week 3.23% Year 167.77%
+You are staking 0 [WFTM]-[ICE] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0 [WFTM]-[ICE] SPOOKY LP
+Unstake 0 [WFTM]-[ICE] SPOOKY LP
+Claim 0 ICE ($0.00)
+Staking or unstaking also claims rewards.
+The following farms have been DISCONTINUED. You can unstake at any time.
+
+0 - 
+ICE
+ Price: $2.29 Market Cap: $8,350,856.43 
+Staked: 47593.6053 ICE ($108,989.36)
+ICE Per Week: 0 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0 ICE ($0.00), 0.00% of the pool.
+Stake 0 ICE
+Unstake 0 ICE
+Claim 0 ICE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WFTM]-[ICE] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.57 TVL: $3,749,211.19
+WFTM Price: $0.22
+ICE Price: $2.29
+Staked: 70763.4910 SLP ($111,261.87)
+ICE Per Week: 0 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0 [WFTM]-[ICE] SLP ($0.00), 0.00% of the pool.
+Stake 0 [WFTM]-[ICE] SLP
+Unstake 0 [WFTM]-[ICE] SLP
+Claim 0 ICE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+fUSDT+DAI+USDC
+ Price: $1.00 Market Cap: $12,513,469.40 
+Staked: 22086.6160 fUSDT+DAI+USDC ($22,086.62)
+ICE Per Week: 0 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0 fUSDT+DAI+USDC ($0.00), 0.00% of the pool.
+Stake 0 fUSDT+DAI+USDC
+Unstake 0 fUSDT+DAI+USDC
+Claim 0 ICE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $7,432,981.93
