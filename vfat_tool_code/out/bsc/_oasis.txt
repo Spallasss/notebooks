@@ -1,0 +1,276 @@
+INFO  : https://defioasis.finance
+****************************************************************************************
+
+Mon Aug 23 2021 14:13:27 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 15 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[OASIS]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $28.76
+OASIS Price: $0.0000180311
+BUSD Price: $1.00
+Staked: 1508.9376 Cake-LP ($13.86)
+OASIS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [OASIS]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [OASIS]-[BUSD] Cake LP
+Unstake 0.00 [OASIS]-[BUSD] Cake LP
+Claim 0.00 OASIS ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[OASIS]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.20 TVL: $52.49
+OASIS Price: $0.0000180311
+WBNB Price: $484.34
+Staked: 206.6604 Cake-LP ($42.16)
+OASIS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [OASIS]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [OASIS]-[WBNB] Cake LP
+Unstake 0.00 [OASIS]-[WBNB] Cake LP
+Claim 0.00 OASIS ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.51 TVL: $3,329,012.61
+WBNB Price: $484.34
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+OASIS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 OASIS ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.13 TVL: $4,004,212.09
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.1000 Cake-LP ($0.21)
+OASIS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 OASIS ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,859.33 TVL: $3,519,306.56
+ETH Price: $3,323.54
+WBNB Price: $484.34
+Staked: 0.0012 Cake-LP ($3.29)
+OASIS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 OASIS ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.25 TVL: $1,018,667.76
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.1000 Cake-LP ($0.23)
+OASIS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 OASIS ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $252.20 TVL: $673,158.11
+DOT Price: $28.00
+WBNB Price: $484.34
+Staked: 0.0000 Cake-LP ($0.00)
+OASIS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 OASIS ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[Cake]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $15.66 TVL: $179,953.72
+Cake Price: $24.98
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+OASIS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 OASIS ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $260.68 TVL: $8,041,627.60
+Cake Price: $24.98
+WBNB Price: $484.34
+Staked: 0.0096 Cake-LP ($2.51)
+OASIS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 OASIS ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+OASIS
+ Price: $0.0000180311 Market Cap: $448.69 
+[%]
+Staked: 5357913.6357 OASIS ($96.61)
+OASIS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 OASIS ($0.00), 0.00% of the pool.
+Stake 0.00 OASIS
+Unstake 0.00 OASIS
+Claim 0.00 OASIS ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+BUSD
+ Price: $1.00 Market Cap: $4,194,664,292.90 
+[%]
+Staked: 0.9400 BUSD ($0.94)
+OASIS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 OASIS ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+DOT
+ Price: $28.00 Market Cap: $391,999,999.86 
+[%]
+Staked: 34.5900 DOT ($968.52)
+OASIS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 6%
+Unstake 0.00 DOT
+Claim 0.00 OASIS ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+Cake
+ Price: $24.98 Market Cap: $10,394,652,011.49 
+[%]
+Staked: 0.0015 Cake ($0.04)
+OASIS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 2%
+Unstake 0.00 Cake
+Claim 0.00 OASIS ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[USDT]-[OASIS] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $39.69
+USDT Price: $1.00
+OASIS Price: $0.0000180311
+Staked: 612.1036 Cake-LP ($5.41)
+OASIS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT]-[OASIS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[OASIS] Cake LP
+Unstake 0.00 [USDT]-[OASIS] Cake LP
+Claim 0.00 OASIS ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[USDC]-[OASIS] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $2.62
+USDC Price: $1.00
+OASIS Price: $0.0000180311
+Staked: 261.5829 Cake-LP ($2.29)
+OASIS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[OASIS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[OASIS] Cake LP
+Unstake 0.00 [USDC]-[OASIS] Cake LP
+Claim 0.00 OASIS ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,136.06

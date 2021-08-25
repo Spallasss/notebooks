@@ -1,0 +1,325 @@
+INFO  : https://ball.polypup.finance
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:49:18 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 22 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[BALL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $12,811,829.15 TVL: $407,679.40
+USDC Price: $1.00
+BALL Price: $31.86
+Staked: 0.0297 UNI-V2 ($380,085.04)
+BALL Per Week: 2222.22 ($70,799.24)
+APR: Day 2.66% Week 18.63% Year 968.61%
+You are staking 0.00 [USDC]-[BALL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BALL] Uni LP
+Unstake 0.00 [USDC]-[BALL] Uni LP
+Claim 0.00 BALL ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[BALL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $16.01 TVL: $390,118.03
+WMATIC Price: $1.64
+BALL Price: $31.86
+Staked: 22250.5605 UNI-V2 ($356,341.30)
+BALL Per Week: 2222.22 ($70,799.24)
+APR: Day 2.84% Week 19.87% Year 1033.16%
+You are staking 0.00 [WMATIC]-[BALL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[BALL] Uni LP
+Unstake 0.00 [WMATIC]-[BALL] Uni LP
+Claim 0.00 BALL ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[USDC]-[BONE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7,684,320.21 TVL: $194,447.77
+USDC Price: $1.00
+BONE Price: $10.58
+Staked: 0.0095 UNI-V2 ($73,181.75)
+BALL Per Week: 333.33 ($10,619.89)
+APR: Day 2.07% Week 14.51% Year 754.61%
+You are staking 0.00 [USDC]-[BONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BONE] Uni LP
+Unstake 0.00 [USDC]-[BONE] Uni LP
+Claim 0.00 BALL ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[PUP] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $12,682,517.45 TVL: $169,477.14
+USDC Price: $1.00
+PUP Price: $30.87
+Staked: 0.0091 UNI-V2 ($115,570.79)
+BALL Per Week: 333.33 ($10,619.89)
+APR: Day 1.31% Week 9.19% Year 477.83%
+You are staking 0.00 [USDC]-[PUP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[PUP] Uni LP
+Unstake 0.00 [USDC]-[PUP] Uni LP
+Claim 0.00 BALL ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDC]-[miMATIC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,081,588.12 TVL: $89,160,361.73
+USDC Price: $1.00
+miMATIC Price: $0.99
+Staked: 0.3715 UNI-V2 ($773,373.37)
+BALL Per Week: 333.33 ($10,619.89)
+APR: Day 0.20% Week 1.37% Year 71.41%
+You are staking 0.00 [USDC]-[miMATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[miMATIC] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[miMATIC] Uni LP
+Claim 0.00 BALL ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[USDC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $74,948,717.80 TVL: $21,381,518.26
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0116 UNI-V2 ($866,426.48)
+BALL Per Week: 333.33 ($10,619.89)
+APR: Day 0.18% Week 1.23% Year 63.74%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 BALL ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+BALL
+ Price: $31.86 Market Cap: $1,102,891.87 
+[%]
+Staked: 10535.1423 BALL ($335,646.05)
+BALL Per Week: 1888.89 ($60,179.36)
+APR: Day 2.56% Week 17.93% Year 932.33%
+You are staking 0.00 BALL ($0.00), 0.00% of the pool.
+Stake 0.00 BALL
+Unstake 0.00 BALL
+Claim 0.00 BALL ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+BONE
+ Price: $10.58 Market Cap: $573,807.51 
+[%]
+Staked: 11822.8513 BONE ($125,068.51)
+BALL Per Week: 333.33 ($10,619.89)
+APR: Day 1.21% Week 8.49% Year 441.55%
+You are staking 0.00 BONE ($0.00), 0.00% of the pool.
+Stake 0.00 BONE
+Unstake 0.00 BONE
+Claim 0.00 BALL ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+PUP
+ Price: $30.87 Market Cap: $977,331.71 
+[%]
+Staked: 17322.4018 PUP ($534,757.14)
+BALL Per Week: 333.33 ($10,619.89)
+APR: Day 0.28% Week 1.99% Year 103.27%
+You are staking 0.00 PUP ($0.00), 0.00% of the pool.
+Stake 0.00 PUP
+Unstake 0.00 PUP
+Claim 0.00 BALL ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+WMATIC
+ Price: $1.64 Market Cap: $603,091,191.32 
+[%]
+Staked: 878596.0558 WMATIC ($1,440,897.53)
+BALL Per Week: 555.56 ($17,699.81)
+APR: Day 0.18% Week 1.23% Year 63.88%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 BALL ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+miMATIC
+ Price: $0.99 Market Cap: $94,494,276.95 
+[%]
+Staked: 986858.6293 miMATIC ($973,682.34)
+BALL Per Week: 444.44 ($14,159.85)
+APR: Day 0.21% Week 1.45% Year 75.62%
+You are staking 0.00 miMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 miMATIC - Fee 4%
+Unstake 0.00 miMATIC
+Claim 0.00 BALL ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+LINK
+ Price: $28.57 Market Cap: $64,832,014.27 
+[%]
+Staked: 40380.6739 LINK ($1,153,675.85)
+BALL Per Week: 466.67 ($14,867.84)
+APR: Day 0.18% Week 1.29% Year 67.01%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 BALL ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+DFYN
+ Price: $1.22 Market Cap: $44,681,465.36 
+[%]
+Staked: 300688.4951 DFYN ($366,839.96)
+BALL Per Week: 333.33 ($10,619.89)
+APR: Day 0.41% Week 2.89% Year 150.54%
+You are staking 0.00 DFYN ($0.00), 0.00% of the pool.
+Stake 0.00 DFYN - Fee 4%
+Unstake 0.00 DFYN
+Claim 0.00 BALL ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+QUICK
+ Price: $725.76 Market Cap: $694,745,862.95 
+[%]
+Staked: 1322.9953 QUICK ($960,177.04)
+BALL Per Week: 333.33 ($10,619.89)
+APR: Day 0.16% Week 1.11% Year 57.51%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 BALL ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+SUSHI
+ Price: $13.79 Market Cap: $13,993,738.77 
+[%]
+Staked: 86892.4791 SUSHI ($1,198,247.29)
+BALL Per Week: 466.67 ($14,867.84)
+APR: Day 0.18% Week 1.24% Year 64.52%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 4%
+Unstake 0.00 SUSHI
+Claim 0.00 BALL ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+WETH
+ Price: $3,320.98 Market Cap: $2,024,914,639.55 
+[%]
+Staked: 372.3481 WETH ($1,236,560.44)
+BALL Per Week: 511.11 ($16,283.83)
+APR: Day 0.19% Week 1.32% Year 68.48%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 BALL ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+WBTC
+ Price: $50,020.00 Market Cap: $696,971,538.86 
+[%]
+Staked: 21.6865 WBTC ($1,084,759.51)
+BALL Per Week: 400.00 ($12,743.86)
+APR: Day 0.17% Week 1.17% Year 61.09%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 BALL ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+AAVE
+ Price: $408.13 Market Cap: $155,221,869.62 
+[%]
+Staked: 2777.7621 AAVE ($1,133,688.04)
+BALL Per Week: 466.67 ($14,867.84)
+APR: Day 0.19% Week 1.31% Year 68.20%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 BALL ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+DAI
+ Price: $1.00 Market Cap: $376,570,223.86 
+[%]
+Staked: 1401294.7834 DAI ($1,399,785.59)
+BALL Per Week: 622.22 ($19,823.79)
+APR: Day 0.20% Week 1.42% Year 73.64%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 BALL ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+USDT
+ Price: $1.00 Market Cap: $314,972,885.37 
+[%]
+Staked: 1375883.6986 USDT ($1,374,562.85)
+BALL Per Week: 622.22 ($19,823.79)
+APR: Day 0.21% Week 1.44% Year 74.99%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 BALL ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+USDC
+ Price: $1.00 Market Cap: $1,042,540,155.91 
+[%]
+Staked: 1417792.9465 USDC ($1,415,927.13)
+BALL Per Week: 622.22 ($19,823.79)
+APR: Day 0.20% Week 1.40% Year 72.80%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 BALL ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+ARCADIUM
+ Price: $0.00 Market Cap: $0.00 
+Staked: 12159.3227 ARCADIUM ($0.00)
+BALL Per Week: 222.22 ($7,079.92)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ARCADIUM ($0.00), NaN% of the pool.
+Stake 0.00 ARCADIUM - Fee 4%
+Unstake 0.00 ARCADIUM
+Claim 0.00 BALL ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $17,299,254.01

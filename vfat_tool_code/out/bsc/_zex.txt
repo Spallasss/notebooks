@@ -1,0 +1,167 @@
+INFO  : https://www.zexswap.finance
+********************************************************************************
+
+Mon Aug 23 2021 14:05:08 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 10 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[ZEX]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.15 TVL: $2,950.51
+ZEX Price: $0.005074
+BUSD Price: $1.00
+Staked: 18740.2150 Cake-LP ($2,742.92)
+ZEX Per Week: 43046.26 ($218.42)
+APR: Day 1.14% Week 7.96% Year 414.08%
+You are staking 0.00 [ZEX]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZEX]-[BUSD] Cake LP
+Unstake 0.00 [ZEX]-[BUSD] Cake LP
+Claim 0.00 ZEX ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WBNB]-[ZEX] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.28 TVL: $5,804.49
+WBNB Price: $484.49
+ZEX Price: $0.005074
+Staked: 546.6818 Cake-LP ($1,793.86)
+ZEX Per Week: 28697.51 ($145.61)
+APR: Day 1.16% Week 8.12% Year 422.10%
+You are staking 0.00 [WBNB]-[ZEX] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[ZEX] Cake LP
+Unstake 0.00 [WBNB]-[ZEX] Cake LP
+Claim 0.00 ZEX ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.56 TVL: $3,331,444.62
+WBNB Price: $484.49
+BUSD Price: $1.00
+Staked: 0.4373 Cake-LP ($28.23)
+ZEX Per Week: 1793.59 ($9.10)
+APR: Day 4.61% Week 32.24% Year 1676.33%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 ZEX ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[ZEX] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.15 TVL: $758.47
+USDT Price: $1.00
+ZEX Price: $0.005074
+Staked: 5166.1784 Cake-LP ($750.50)
+ZEX Per Week: 17935.94 ($91.01)
+APR: Day 1.73% Week 12.13% Year 630.56%
+You are staking 0.00 [USDT]-[ZEX] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[ZEX] Cake LP
+Unstake 0.00 [USDT]-[ZEX] Cake LP
+Claim 0.00 ZEX ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+ZEX
+ Price: $0.005074 Market Cap: $9,419.00 
+[%]
+Staked: 511289.1066 ZEX ($2,594.30)
+ZEX Per Week: 3587.19 ($18.20)
+APR: Day 0.10% Week 0.70% Year 36.48%
+You are staking 0.00 ZEX ($0.00), 0.00% of the pool.
+Stake 0.00 ZEX
+Unstake 0.00 ZEX
+Claim 0.00 ZEX ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+BUSD
+ Price: $1.00 Market Cap: $4,199,503,844.21 
+[%]
+Staked: 99.3686 BUSD ($99.33)
+ZEX Per Week: 717.44 ($3.64)
+APR: Day 0.52% Week 3.66% Year 190.57%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 1.5%
+Unstake 0.00 BUSD
+Claim 0.00 ZEX ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WBNB
+ Price: $484.49 Market Cap: $3,432,916,558.93 
+[%]
+Staked: 0.5562 WBNB ($269.47)
+ZEX Per Week: 1434.88 ($7.28)
+APR: Day 0.39% Week 2.70% Year 140.50%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 3%
+Unstake 0.00 WBNB
+Claim 0.00 ZEX ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+USDT
+ Price: $1.00 Market Cap: $3,377,097,883.96 
+[%]
+Staked: 19400.0000 USDT ($19,383.35)
+ZEX Per Week: 1434.88 ($7.28)
+APR: Day 0.01% Week 0.04% Year 1.95%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 3%
+Unstake 0.00 USDT
+Claim 0.00 ZEX ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+Cake
+ Price: $25.00 Market Cap: $10,402,908,230.48 
+[%]
+Staked: 11.9513 Cake ($298.78)
+ZEX Per Week: 717.44 ($3.64)
+APR: Day 0.17% Week 1.22% Year 63.36%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 1.5%
+Unstake 0.00 Cake
+Claim 0.00 ZEX ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+BANANA
+ Price: $4.78 Market Cap: $302,851,000.45 
+[%]
+Staked: 15.7357 BANANA ($75.22)
+ZEX Per Week: 1434.88 ($7.28)
+APR: Day 1.38% Week 9.68% Year 503.34%
+You are staking 0.00 BANANA ($0.00), 0.00% of the pool.
+Stake 0.00 BANANA - Fee 1.5%
+Unstake 0.00 BANANA
+Claim 0.00 ZEX ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $28,035.97

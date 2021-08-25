@@ -1,0 +1,341 @@
+INFO  : https://app.acryptos.com
+*************************************************************************************
+
+Mon Aug 23 2021 13:46:38 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 26 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[ACS]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $241.57 TVL: $51,210.89
+ACS Price: $21.71
+WBNB Price: $483.88
+Staked: 39.8740 Cake-LP ($9,632.32)
+ACS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ACS]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ACS]-[WBNB] Cake LP
+Unstake 0.00 [ACS]-[WBNB] Cake LP
+Claim 0.00 ACS ($0.00)
+Staking or unstaking also claims rewards.
+1 - acsCake Price: $86.12 TVL: $62,804,861.87
+Staked: 1274.2650 acsCake ($109,740.08)
+ACS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 acsCake ($0.00), 0.00% of the pool.
+Stake 0.00 acsCake
+Unstake 0.00 acsCake
+Claim 0.00 ACS ($0.00)
+Staking or unstaking also claims rewards.
+2 - Wrapped 
+[BTCB]-[WBNB] Cake LP
+ Price: $12,294.25 TVL: $104.69
+Staked: 0.0000 acsCake-LP ($0.00)
+ACS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 acsCake-LP ($0.00), NaN% of the pool.
+Stake 0.00 acsCake-LP
+Unstake 0.00 acsCake-LP
+Claim 0.00 ACS ($0.00)
+Staking or unstaking also claims rewards.
+3 - Wrapped 
+[ETH]-[WBNB] Cake LP
+ Price: $3,262.88 TVL: $10,576.22
+Staked: 0.0023 acsCake-LP ($7.62)
+ACS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 acsCake-LP ($0.00), 0.00% of the pool.
+Stake 0.00 acsCake-LP
+Unstake 0.00 acsCake-LP
+Claim 0.00 ACS ($0.00)
+Staking or unstaking also claims rewards.
+4 - Wrapped 
+[WBNB]-[XVS] Cake LP
+ Price: $514.78 TVL: $3,350.07
+Staked: 0.8912 acsCake-LP ($458.78)
+ACS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 acsCake-LP ($0.00), 0.00% of the pool.
+Stake 0.00 acsCake-LP
+Unstake 0.00 acsCake-LP
+Claim 0.00 ACS ($0.00)
+Staking or unstaking also claims rewards.
+5 - Wrapped 
+[SXP]-[WBNB] Cake LP
+ Price: $122.31 TVL: $56,433.31
+Staked: 324.7563 acsCake-LP ($39,722.29)
+ACS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 acsCake-LP ($0.00), 0.00% of the pool.
+Stake 0.00 acsCake-LP
+Unstake 0.00 acsCake-LP
+Claim 0.00 ACS ($0.00)
+Staking or unstaking also claims rewards.
+6 - Wrapped 
+[WBNB]-[BUSD] Cake LP
+ Price: $79.28 TVL: $656,032.32
+Staked: 6713.1466 acsCake-LP ($532,228.54)
+ACS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 acsCake-LP ($0.00), 0.00% of the pool.
+Stake 0.00 acsCake-LP
+Unstake 0.00 acsCake-LP
+Claim 0.00 ACS ($0.00)
+Staking or unstaking also claims rewards.
+7 - Wrapped 
+[Cake]-[WBNB] Cake LP
+ Price: $521.01 TVL: $20,036.43
+Staked: 14.1833 acsCake-LP ($7,389.66)
+ACS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 acsCake-LP ($0.00), 0.00% of the pool.
+Stake 0.00 acsCake-LP
+Unstake 0.00 acsCake-LP
+Claim 0.00 ACS ($0.00)
+Staking or unstaking also claims rewards.
+9 - acsBUSD Price: $1.16 TVL: $6,711,940.18
+Staked: 112158.6662 acsBUSD ($129,578.86)
+ACS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 acsBUSD ($0.00), 0.00% of the pool.
+Stake 0.00 acsBUSD
+Unstake 0.00 acsBUSD
+Claim 0.00 ACS ($0.00)
+Staking or unstaking also claims rewards.
+10 - acsWBNB Price: $548.04 TVL: $26,216,403.74
+Staked: 251.7830 acsWBNB ($137,987.59)
+ACS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 acsWBNB ($0.00), 0.00% of the pool.
+Stake 0.00 acsWBNB
+Unstake 0.00 acsWBNB
+Claim 0.00 ACS ($0.00)
+Staking or unstaking also claims rewards.
+11 - acsUSDT Price: $1.16 TVL: $3,834,992.24
+Staked: 451.0413 acsUSDT ($521.11)
+ACS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 acsUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 acsUSDT
+Unstake 0.00 acsUSDT
+Claim 0.00 ACS ($0.00)
+Staking or unstaking also claims rewards.
+12 - acsXVS Price: $46.72 TVL: $14,781,053.38
+Staked: 1699.3272 acsXVS ($79,399.52)
+ACS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 acsXVS ($0.00), 0.00% of the pool.
+Stake 0.00 acsXVS
+Unstake 0.00 acsXVS
+Claim 0.00 ACS ($0.00)
+Staking or unstaking also claims rewards.
+13 - acsUSDC Price: $1.16 TVL: $6,176,153.55
+Staked: 6058.9964 acsUSDC ($7,000.41)
+ACS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 acsUSDC ($0.00), 0.00% of the pool.
+Stake 0.00 acsUSDC
+Unstake 0.00 acsUSDC
+Claim 0.00 ACS ($0.00)
+Staking or unstaking also claims rewards.
+14 - acsSXP Price: $4.18 TVL: $18,743,125.22
+Staked: 3622.4038 acsSXP ($15,144.29)
+ACS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 acsSXP ($0.00), 0.00% of the pool.
+Stake 0.00 acsSXP
+Unstake 0.00 acsSXP
+Claim 0.00 ACS ($0.00)
+Staking or unstaking also claims rewards.
+15 - acsBTCB Price: $54,367.63 TVL: $27,259,919.77
+Staked: 0.0897 acsBTCB ($4,879.12)
+ACS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 acsBTCB ($0.00), 0.00% of the pool.
+Stake 0.00 acsBTCB
+Unstake 0.00 acsBTCB
+Claim 0.00 ACS ($0.00)
+Staking or unstaking also claims rewards.
+16 - acsETH Price: $3,542.07 TVL: $15,003,763.74
+Staked: 1957.3555 acsETH ($6,933,090.72)
+ACS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 acsETH ($0.00), 0.00% of the pool.
+Stake 0.00 acsETH
+Unstake 0.00 acsETH
+Claim 0.00 ACS ($0.00)
+Staking or unstaking also claims rewards.
+17 - acsVAI Price: $0.88 TVL: $357,576.83
+Staked: 6945.7167 acsVAI ($6,118.78)
+ACS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 acsVAI ($0.00), 0.00% of the pool.
+Stake 0.00 acsVAI
+Unstake 0.00 acsVAI
+Claim 0.00 ACS ($0.00)
+Staking or unstaking also claims rewards.
+18 - Wrapped 
+[TWT]-[WBNB] Cake LP
+ Price: $70.33 TVL: $250,786.53
+Staked: 148.0271 acsCake-LP ($10,411.23)
+ACS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 acsCake-LP ($0.00), 0.00% of the pool.
+Stake 0.00 acsCake-LP
+Unstake 0.00 acsCake-LP
+Claim 0.00 ACS ($0.00)
+Staking or unstaking also claims rewards.
+19 - acsDAI Price: $1.08 TVL: $99,454.47
+Staked: 3198.3976 acsDAI ($3,440.67)
+ACS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 acsDAI ($0.00), 0.00% of the pool.
+Stake 0.00 acsDAI
+Unstake 0.00 acsDAI
+Claim 0.00 ACS ($0.00)
+Staking or unstaking also claims rewards.
+20 - Wrapped 
+[BTCST]-[WBNB] Cake LP
+ Price: $1,367.52 TVL: $4,182.45
+Staked: 1.2649 acsCake-LP ($1,729.75)
+ACS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 acsCake-LP ($0.00), 0.00% of the pool.
+Stake 0.00 acsCake-LP
+Unstake 0.00 acsCake-LP
+Claim 0.00 ACS ($0.00)
+Staking or unstaking also claims rewards.
+21 - Wrapped 
+[LTC]-[WBNB] Cake LP
+ Price: $764.61 TVL: $18,480.83
+Staked: 20.6415 acsCake-LP ($15,782.79)
+ACS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 acsCake-LP ($0.00), 0.00% of the pool.
+Stake 0.00 acsCake-LP
+Unstake 0.00 acsCake-LP
+Claim 0.00 ACS ($0.00)
+Staking or unstaking also claims rewards.
+23 - Wrapped 
+[ADA]-[WBNB] Cake LP
+ Price: $92.98 TVL: $39,784.06
+Staked: 371.7332 acsCake-LP ($34,565.36)
+ACS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 acsCake-LP ($0.00), 0.00% of the pool.
+Stake 0.00 acsCake-LP
+Unstake 0.00 acsCake-LP
+Claim 0.00 ACS ($0.00)
+Staking or unstaking also claims rewards.
+24 - Wrapped 
+[YFI]-[WBNB] Cake LP
+ Price: $11,090.17 TVL: $2,146.09
+Staked: 0.1650 acsCake-LP ($1,829.48)
+ACS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 acsCake-LP ($0.00), 0.00% of the pool.
+Stake 0.00 acsCake-LP
+Unstake 0.00 acsCake-LP
+Claim 0.00 ACS ($0.00)
+Staking or unstaking also claims rewards.
+25 - Wrapped 
+[ETH]-[BETH] Cake LP
+ Price: $6,837.20 TVL: $3,090.36
+Staked: 0.2555 acsCake-LP ($1,747.18)
+ACS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 acsCake-LP ($0.00), 0.00% of the pool.
+Stake 0.00 acsCake-LP
+Unstake 0.00 acsCake-LP
+Claim 0.00 ACS ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $8,082,406.14
+Staking Contract
+Found 5 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[ACS]-[ACSI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $20.66 TVL: $117,101.98
+ACS Price: $21.71
+ACSI Price: $4.26
+Staked: 224.8130 Cake-LP ($4,643.79)
+ACS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ACS]-[ACSI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ACS]-[ACSI] Cake LP
+Unstake 0.00 [ACS]-[ACSI] Cake LP
+Claim 0.00 ACS ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+ACS4
+ Price: $0.00 Market Cap: $0.00 
+Staked: 5064.9012 ACS4 ($0.00)
+ACS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ACS4 ($0.00), NaN% of the pool.
+Stake 0.00 ACS4
+Unstake 0.00 ACS4
+Claim 0.00 ACS ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+ACS4VAI
+ Price: $0.00 Market Cap: $0.00 
+Staked: 32937.8703 ACS4VAI ($0.00)
+ACS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ACS4VAI ($0.00), NaN% of the pool.
+Stake 0.00 ACS4VAI
+Unstake 0.00 ACS4VAI
+Claim 0.00 ACS ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+ACS4QUSD
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1020.3245 ACS4QUSD ($0.00)
+ACS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ACS4QUSD ($0.00), NaN% of the pool.
+Stake 0.00 ACS4QUSD
+Unstake 0.00 ACS4QUSD
+Claim 0.00 ACS ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+ACS4UST
+ Price: $1.08 Market Cap: $3,037,313.76 
+[%]
+Staked: 3424.3530 ACS4UST ($3,682.09)
+ACS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ACS4UST ($0.00), 0.00% of the pool.
+Stake 0.00 ACS4UST
+Unstake 0.00 ACS4UST
+Claim 0.00 ACS ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $8,325.88

@@ -1,0 +1,30 @@
+INFO  : https://forcedao.com/
+*****************************************************************************
+
+Mon Aug 23 2021 15:38:14 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[FORCE]-[WETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $28.16 TVL: $317,610.37
+FORCE Price: $0.05
+WETH Price: $3,332.98
+Staked: 8757.5603 SLP ($246,608.96)
+FORCE Per Week: 416666.67 ($21,055.83)
+APR: Day 1.22% Week 8.54% Year 443.98%
+You are staking 0.000000 [FORCE]-[WETH] SLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [FORCE]-[WETH] SLP
+Unstake 0.000000 [FORCE]-[WETH] SLP
+Revoke (set approval to 0)
+Exit
+Total staked: $246,608.96

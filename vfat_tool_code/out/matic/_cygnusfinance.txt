@@ -1,0 +1,185 @@
+INFO  : https://www.cygnusdefi.com/
+**************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:32:48 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 12 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[CYGNUS] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $106,317.75 TVL: $226.02
+USDC Price: $1.00
+CYGNUS Price: $0.002472
+Staked: 0.0007 UNI-V2 ($73.43)
+CYGNUS Per Week: 99.60 ($0.25)
+APR: Day 0.05% Week 0.34% Year 17.43%
+You are staking 0.00 [USDC]-[CYGNUS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[CYGNUS] Uni LP
+Unstake 0.00 [USDC]-[CYGNUS] Uni LP
+Claim 0.00 CYGNUS ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[CYGNUS] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.14 TVL: $219.51
+WMATIC Price: $1.64
+CYGNUS Price: $0.002472
+Staked: 50.6164 UNI-V2 ($6.91)
+CYGNUS Per Week: 99.60 ($0.25)
+APR: Day 0.51% Week 3.56% Year 185.26%
+You are staking 0.00 [WMATIC]-[CYGNUS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[CYGNUS] Uni LP
+Unstake 0.00 [WMATIC]-[CYGNUS] Uni LP
+Claim 0.00 CYGNUS ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,604,777.55 TVL: $33,318,136.55
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($49.04)
+CYGNUS Per Week: 19.92 ($0.05)
+APR: Day 0.01% Week 0.10% Year 5.22%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 CYGNUS ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+CYGNUS
+ Price: $0.002472 Market Cap: $477.39 
+[%]
+Staked: 55091.2864 CYGNUS ($136.16)
+CYGNUS Per Week: 59.76 ($0.15)
+APR: Day 0.02% Week 0.11% Year 5.64%
+You are staking 0.00 CYGNUS ($0.00), 0.00% of the pool.
+Stake 0.00 CYGNUS
+Unstake 0.00 CYGNUS
+Claim 0.00 CYGNUS ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WMATIC
+ Price: $1.64 Market Cap: $602,079,851.92 
+[%]
+Staked: 57.5599 WMATIC ($94.40)
+CYGNUS Per Week: 19.92 ($0.05)
+APR: Day 0.01% Week 0.05% Year 2.71%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 CYGNUS ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WETH
+ Price: $3,325.41 Market Cap: $2,027,858,629.82 
+[%]
+Staked: 0.0023 WETH ($7.65)
+CYGNUS Per Week: 19.92 ($0.05)
+APR: Day 0.09% Week 0.64% Year 33.45%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 CYGNUS ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WBTC
+ Price: $50,085.00 Market Cap: $698,077,579.58 
+[%]
+Staked: 0.0001 WBTC ($4.90)
+CYGNUS Per Week: 19.92 ($0.05)
+APR: Day 0.14% Week 1.01% Year 52.26%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 CYGNUS ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+DAI
+ Price: $1.00 Market Cap: $376,699,668.04 
+[%]
+Staked: 98.9221 DAI ($98.85)
+CYGNUS Per Week: 19.92 ($0.05)
+APR: Day 0.01% Week 0.05% Year 2.59%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 CYGNUS ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+USDT
+ Price: $1.00 Market Cap: $315,032,588.68 
+[%]
+Staked: 9.9154 USDT ($9.91)
+CYGNUS Per Week: 19.92 ($0.05)
+APR: Day 0.07% Week 0.50% Year 25.84%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 CYGNUS ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+USDC
+ Price: $1.00 Market Cap: $1,043,205,123.54 
+[%]
+Staked: 58.8273 USDC ($58.77)
+CYGNUS Per Week: 19.92 ($0.05)
+APR: Day 0.01% Week 0.08% Year 4.36%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 CYGNUS ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+AAVE
+ Price: $408.33 Market Cap: $155,297,934.54 
+[%]
+Staked: 0.0840 AAVE ($34.29)
+CYGNUS Per Week: 19.92 ($0.05)
+APR: Day 0.02% Week 0.14% Year 7.47%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 CYGNUS ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+QUICK
+ Price: $726.71 Market Cap: $695,655,266.29 
+[%]
+Staked: 0.0591 QUICK ($42.92)
+CYGNUS Per Week: 19.92 ($0.05)
+APR: Day 0.02% Week 0.11% Year 5.96%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 CYGNUS ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $617.22

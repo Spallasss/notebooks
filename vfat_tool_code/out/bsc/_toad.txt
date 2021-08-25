@@ -1,0 +1,372 @@
+INFO  : https://toad.farm
+**********************************************************************************
+
+Mon Aug 23 2021 13:47:38 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 24 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[BUSD]-[TOAD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $NaN.N TVL: $1.00
+BUSD Price: $1.00
+TOAD Price: $0.001802
+Staked: 0.0000 Toad-LP ($0.00)
+TOAD Per Week: 43354.84 ($78.13)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [BUSD]-[TOAD] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [BUSD]-[TOAD] Uni LP
+Unstake 0.00 [BUSD]-[TOAD] Uni LP
+Claim 0.00 TOAD ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WBNB]-[TOAD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.00
+WBNB Price: $483.90
+TOAD Price: $0.001802
+Staked: 0.0000 Toad-LP ($0.00)
+TOAD Per Week: 26012.90 ($46.88)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WBNB]-[TOAD] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[TOAD] Uni LP
+Unstake 0.00 [WBNB]-[TOAD] Uni LP
+Claim 0.00 TOAD ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.00
+WBNB Price: $483.90
+BUSD Price: $1.00
+Staked: 0.0000 Toad-LP ($0.00)
+TOAD Per Week: 5419.35 ($9.77)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 TOAD ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+TOAD
+ Price: $0.001802 Market Cap: $5,996.88 
+[%]
+Staked: 1359541.4899 TOAD ($2,449.96)
+TOAD Per Week: 10838.71 ($19.53)
+APR: Day 0.11% Week 0.80% Year 41.46%
+You are staking 0.00 TOAD ($0.00), 0.00% of the pool.
+Stake 0.00 TOAD
+Unstake 0.00 TOAD
+Claim 0.00 TOAD ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[TOAD]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.09 TVL: $2,332.12
+TOAD Price: $0.001802
+BUSD Price: $1.00
+Staked: 24369.9469 Cake-LP ($2,265.62)
+TOAD Per Week: 43354.84 ($78.13)
+APR: Day 0.49% Week 3.45% Year 179.32%
+You are staking 0.00 [TOAD]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TOAD]-[BUSD] Cake LP
+Unstake 0.00 [TOAD]-[BUSD] Cake LP
+Claim 0.00 TOAD ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[TOAD]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $652.92
+TOAD Price: $0.001802
+WBNB Price: $483.90
+Staked: 254.1207 Cake-LP ($524.28)
+TOAD Per Week: 26012.90 ($46.88)
+APR: Day 1.28% Week 8.94% Year 464.94%
+You are staking 0.00 [TOAD]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TOAD]-[WBNB] Cake LP
+Unstake 0.00 [TOAD]-[WBNB] Cake LP
+Claim 0.00 TOAD ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.52 TVL: $3,329,316.13
+WBNB Price: $483.90
+BUSD Price: $1.00
+Staked: 286.5765 Cake-LP ($18,489.48)
+TOAD Per Week: 5419.35 ($9.77)
+APR: Day 0.01% Week 0.05% Year 2.75%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 TOAD ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.14 TVL: $4,006,459.22
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 1495.9349 Cake-LP ($3,193.90)
+TOAD Per Week: 4335.48 ($7.81)
+APR: Day 0.03% Week 0.24% Year 12.72%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 TOAD ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,901.81 TVL: $1,952,837.98
+BTCB Price: $50,221.00
+WBNB Price: $483.90
+Staked: 0.3200 Cake-LP ($3,488.89)
+TOAD Per Week: 6503.23 ($11.72)
+APR: Day 0.05% Week 0.34% Year 17.47%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 TOAD ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,857.95 TVL: $3,517,610.96
+ETH Price: $3,323.40
+WBNB Price: $483.90
+Staked: 0.2766 Cake-LP ($790.62)
+TOAD Per Week: 5419.35 ($9.77)
+APR: Day 0.18% Week 1.24% Year 64.23%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 TOAD ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $2,586,543.83
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 1271.9922 Cake-LP ($2,603.32)
+TOAD Per Week: 4335.48 ($7.81)
+APR: Day 0.04% Week 0.30% Year 15.61%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 TOAD ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[BUSD]-[TOAD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $NaN.N TVL: $1.00
+BUSD Price: $1.00
+TOAD Price: $0.001802
+Staked: 0.0000 Toad-LP ($0.00)
+TOAD Per Week: 2167.74 ($3.91)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [BUSD]-[TOAD] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [BUSD]-[TOAD] Uni LP - Fee 4%
+Unstake 0.00 [BUSD]-[TOAD] Uni LP
+Claim 0.00 TOAD ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+BUSD
+ Price: $1.00 Market Cap: $4,199,386,216.23 
+[%]
+Staked: 580.4941 BUSD ($580.27)
+TOAD Per Week: 2167.74 ($3.91)
+APR: Day 0.10% Week 0.67% Year 35.01%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 TOAD ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+WBNB
+ Price: $483.90 Market Cap: $3,429,007,108.04 
+[%]
+Staked: 1.6085 WBNB ($778.33)
+TOAD Per Week: 3251.61 ($5.86)
+APR: Day 0.11% Week 0.75% Year 39.15%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 TOAD ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+USDT
+ Price: $1.00 Market Cap: $3,377,097,883.96 
+[%]
+Staked: 804.5133 USDT ($803.82)
+TOAD Per Week: 1083.87 ($1.95)
+APR: Day 0.03% Week 0.24% Year 12.64%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 TOAD ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+BTCB
+ Price: $50,221.00 Market Cap: $4,293,945,721.00 
+[%]
+Staked: 0.0258 BTCB ($1,294.50)
+TOAD Per Week: 2167.74 ($3.91)
+APR: Day 0.04% Week 0.30% Year 15.69%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 TOAD ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+ETH
+ Price: $3,323.40 Market Cap: $4,337,037,000.00 
+[%]
+Staked: 0.0978 ETH ($324.91)
+TOAD Per Week: 2167.74 ($3.91)
+APR: Day 0.17% Week 1.20% Year 62.52%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 TOAD ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+DAI
+ Price: $1.00 Market Cap: $261,817,648.00 
+[%]
+Staked: 57.3081 DAI ($57.27)
+TOAD Per Week: 1083.87 ($1.95)
+APR: Day 0.49% Week 3.41% Year 177.35%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 TOAD ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+USDC
+ Price: $1.00 Market Cap: $1,776,763,797.00 
+[%]
+Staked: 99.6000 USDC ($99.47)
+TOAD Per Week: 1083.87 ($1.95)
+APR: Day 0.28% Week 1.96% Year 102.10%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 TOAD ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+DOT
+ Price: $27.97 Market Cap: $391,579,999.86 
+[%]
+Staked: 1.2211 DOT ($34.16)
+TOAD Per Week: 2167.74 ($3.91)
+APR: Day 1.63% Week 11.44% Year 594.73%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 TOAD ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+Cake
+ Price: $25.01 Market Cap: $10,406,919,207.82 
+[%]
+Staked: 2.2838 Cake ($57.12)
+TOAD Per Week: 1083.87 ($1.95)
+APR: Day 0.49% Week 3.42% Year 177.82%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 TOAD ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+BSCX
+ Price: $2.47 Market Cap: $24,658,988.12 
+[%]
+Staked: 28.8901 BSCX ($71.36)
+TOAD Per Week: 1083.87 ($1.95)
+APR: Day 0.39% Week 2.74% Year 142.33%
+You are staking 0.00 BSCX ($0.00), 0.00% of the pool.
+Stake 0.00 BSCX - Fee 4%
+Unstake 0.00 BSCX
+Claim 0.00 TOAD ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+AUTO
+ Price: $1,420.35 Market Cap: $91,067,759.25 
+[%]
+Staked: 0.4165 AUTO ($591.58)
+TOAD Per Week: 1083.87 ($1.95)
+APR: Day 0.05% Week 0.33% Year 17.17%
+You are staking 0.00 AUTO ($0.00), 0.00% of the pool.
+Stake 0.00 AUTO - Fee 4%
+Unstake 0.00 AUTO
+Claim 0.00 TOAD ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $38,498.85

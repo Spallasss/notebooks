@@ -1,0 +1,343 @@
+INFO  : https://area51defi.com/
+****************************************************************************************
+
+Mon Aug 23 2021 09:35:20 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 20 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[AFOD]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.04 TVL: $214.49
+AFOD Price: $0.000341
+BUSD Price: $1.00
+Staked: 74.1234 Cake-LP ($2.81)
+AFOD Per Week: 55440.00 ($18.88)
+APR: Day 96.04% Week 672.25% Year 34957.06%
+You are staking 0.00 [AFOD]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AFOD]-[BUSD] Cake LP
+Unstake 0.00 [AFOD]-[BUSD] Cake LP
+Claim 0.00 AFOD ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[AFOD]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.86 TVL: $84.59
+AFOD Price: $0.000341
+WBNB Price: $488.46
+Staked: 7.0644 Cake-LP ($6.07)
+AFOD Per Week: 55440.00 ($18.88)
+APR: Day 44.40% Week 310.82% Year 16162.83%
+You are staking 0.00 [AFOD]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AFOD]-[WBNB] Cake LP
+Unstake 0.00 [AFOD]-[WBNB] Cake LP
+Claim 0.00 AFOD ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.96 TVL: $526,043,244.10
+WBNB Price: $488.46
+BUSD Price: $1.00
+Staked: 0.0004 Cake-LP ($0.02)
+AFOD Per Week: 4320.00 ($1.47)
+APR: Day 1095.38% Week 7667.66% Year 398718.19%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 AFOD ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,247.49 TVL: $174,479,277.41
+BTCB Price: $49,844.00
+WBNB Price: $488.46
+Staked: 0.0017 Cake-LP ($17.56)
+AFOD Per Week: 4320.00 ($1.47)
+APR: Day 1.20% Week 8.38% Year 435.51%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 AFOD ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,665.67 TVL: $263,101,587.26
+ETH Price: $3,334.68
+WBNB Price: $488.46
+Staked: 0.0002 Cake-LP ($0.51)
+AFOD Per Week: 4320.00 ($1.47)
+APR: Day 40.86% Week 285.99% Year 14871.37%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 AFOD ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $242.30 TVL: $83,309,815.76
+DOT Price: $28.19
+WBNB Price: $488.46
+Staked: 0.0000 Cake-LP ($0.01)
+AFOD Per Week: 4320.00 ($1.47)
+APR: Day 2258.61% Week 15810.26% Year 822133.71%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 AFOD ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $226.69 TVL: $1,037,074,745.78
+Cake Price: $25.16
+WBNB Price: $488.46
+Staked: 0.0004 Cake-LP ($0.09)
+AFOD Per Week: 4320.00 ($1.47)
+APR: Day 223.68% Week 1565.76% Year 81419.66%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 AFOD ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[BTCB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $471.93 TVL: $137,372,791.06
+BTCB Price: $49,844.00
+BUSD Price: $1.00
+Staked: 0.0521 Cake-LP ($24.60)
+AFOD Per Week: 2880.00 ($0.98)
+APR: Day 0.57% Week 3.99% Year 207.27%
+You are staking 0.00 [BTCB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[BUSD] Cake LP
+Claim 0.00 AFOD ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[ETH]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $208.16 TVL: $360,379.45
+ETH Price: $3,334.68
+BUSD Price: $1.00
+Staked: 0.5846 Cake-LP ($121.70)
+AFOD Per Week: 2880.00 ($0.98)
+APR: Day 0.12% Week 0.81% Year 41.90%
+You are staking 0.00 [ETH]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[BUSD] Cake LP
+Claim 0.00 AFOD ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[Cake]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13.45 TVL: $66,487,708.37
+Cake Price: $25.16
+BUSD Price: $1.00
+Staked: 0.0001 Cake-LP ($0.00)
+AFOD Per Week: 2880.00 ($0.98)
+APR: Day 10853.38% Week 75973.64% Year 3950629.36%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 AFOD ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,264,380.70
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.4705 Cake-LP ($0.96)
+AFOD Per Week: 2880.00 ($0.98)
+APR: Day 14.55% Week 101.83% Year 5295.21%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 AFOD ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,351,769.27
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 6.3410 Cake-LP ($12.91)
+AFOD Per Week: 2880.00 ($0.98)
+APR: Day 1.09% Week 7.60% Year 395.11%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 AFOD ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+AFOD
+ Price: $0.000341 Market Cap: $273.73 
+[%]
+Staked: 224408.3653 AFOD ($76.41)
+AFOD Per Week: 39600.00 ($13.48)
+APR: Day 2.52% Week 17.65% Year 917.61%
+You are staking 0.00 AFOD ($0.00), 0.00% of the pool.
+Stake 0.00 AFOD
+Unstake 0.00 AFOD
+Claim 0.00 AFOD ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+BUSD
+ Price: $1.00 Market Cap: $4,196,420,310.65 
+[%]
+Staked: 3.6360 BUSD ($3.63)
+AFOD Per Week: 2160.00 ($0.74)
+APR: Day 2.89% Week 20.25% Year 1053.05%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 AFOD ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 5.4095 USDT ($5.41)
+AFOD Per Week: 2160.00 ($0.74)
+APR: Day 1.94% Week 13.60% Year 707.17%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 AFOD ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 3.8400 DAI ($3.84)
+AFOD Per Week: 2160.00 ($0.74)
+APR: Day 2.74% Week 19.15% Year 996.01%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 AFOD ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+WBNB
+ Price: $488.46 Market Cap: $3,443,711,058.40 
+[%]
+Staked: 0.0000 WBNB ($0.00)
+AFOD Per Week: 2160.00 ($0.74)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 WBNB ($0.00), NaN% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 AFOD ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+BTCB
+ Price: $49,844.00 Market Cap: $4,261,711,844.00 
+[%]
+Staked: 0.0001 BTCB ($7.16)
+AFOD Per Week: 2160.00 ($0.74)
+APR: Day 1.47% Week 10.28% Year 534.39%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 AFOD ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+ETH
+ Price: $3,334.68 Market Cap: $4,351,757,400.00 
+[%]
+Staked: 0.0000 ETH ($0.02)
+AFOD Per Week: 2160.00 ($0.74)
+APR: Day 514.24% Week 3599.65% Year 187181.72%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 AFOD ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+Cake
+ Price: $25.16 Market Cap: $10,470,002,027.58 
+[%]
+Staked: 6.5054 Cake ($163.67)
+AFOD Per Week: 2160.00 ($0.74)
+APR: Day 0.06% Week 0.45% Year 23.37%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 AFOD ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $447.40

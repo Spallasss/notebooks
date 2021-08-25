@@ -1,0 +1,81 @@
+INFO  : https://app.sirenmarkets.com/stake
+*****************************************************************************
+
+Mon Aug 23 2021 15:36:06 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Finished reading smart contracts.
+
+[WETH]-[SI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $101.78 TVL: $2,731,649.29
+WETH Price: $3,330.89
+SI Price: $0.70
+Staked: 10967.8530 UNI-V2 ($1,116,356.06)
+SI Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WETH]-[SI] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [WETH]-[SI] Uni LP
+Unstake 0.000000 [WETH]-[SI] Uni LP
+Claim 0.000000 SI ($0.00)
+Revoke (set approval to 0)
+Exit
+WBTC
+ Price: $50,306.00 Market Cap: $9,785,677,048.03 
+[%]
+Staked: 10.0308 WBTC ($504,610.65)
+SI Per Week: 31250.0000 ($21,784.38)
+APR: Day 0.62% Week 4.32% Year 224.49%
+You are staking 0.0000 WBTC ($0.00), 0.00% of the pool.
+USDC
+ Price: $1.00 Market Cap: $25,873,169,471.93 
+[%]
+Staked: 74564.9124 USDC ($74,509.44)
+SI Per Week: 31250.0000 ($21,784.38)
+APR: Day 4.18% Week 29.24% Year 1520.33%
+You are staking 0.0000 USDC ($0.00), 0.00% of the pool.
+SUSHI
+ Price: $13.92 Market Cap: $3,230,086,616.24 
+[%]
+Staked: 48282.6652 SUSHI ($672,094.70)
+SI Per Week: 31250.0000 ($21,784.38)
+APR: Day 0.46% Week 3.24% Year 168.55%
+You are staking 0.0000 SUSHI ($0.00), 0.00% of the pool.
+USDC
+ Price: $1.00 Market Cap: $25,873,169,471.93 
+[%]
+Staked: 60.1000 USDC ($60.06)
+SI Per Week: 31250.0000 ($21,784.38)
+APR: Day 5181.98% Week 36273.85% Year 1886240.38%
+You are staking 0.0000 USDC ($0.00), 0.00% of the pool.
+[WETH]-[SI] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $96.79 TVL: $4,796,137.60
+WETH Price: $3,330.89
+SI Price: $0.70
+Staked: 19.5600 SLP ($1,893.29)
+SI Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WETH]-[SI] SLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [WETH]-[SI] SLP
+Unstake 0.000000 [WETH]-[SI] SLP
+Claim 0.000000 SI ($0.00)
+Revoke (set approval to 0)
+Exit

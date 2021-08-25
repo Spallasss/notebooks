@@ -1,0 +1,97 @@
+INFO  : https://tsuki.finance
+**********************************************************************************
+
+Mon Aug 23 2021 13:51:16 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+TSUKI
+ Price: $1.13 Market Cap: $113,000.00 
+[%]
+Staked: 24941.2117 TSUKI ($28,183.57)
+BNBC Per Week: 0.02 ($0.89)
+APR: Day 0.00% Week 0.00% Year 0.16%
+You are staking 0.000000 TSUKI $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 TSUKI
+Unstake 0.000000 TSUKI
+Claim 0.000000 BNBC ($0.00)
+Revoke (set approval to 0)
+Exit
+[TSUKI]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $47.56 TVL: $16,570.75
+TSUKI Price: $1.13
+WBNB Price: $483.98
+Staked: 330.7430 Cake-LP ($15,730.14)
+BNBC Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [TSUKI]-[WBNB] Cake LP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [TSUKI]-[WBNB] Cake LP
+Unstake 0.000000 [TSUKI]-[WBNB] Cake LP
+Claim 0.000000 BNBC ($0.00)
+Revoke (set approval to 0)
+Exit
+[BNBC]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $58.59 TVL: $3,637.61
+BNBC Price: $44.03
+WBNB Price: $483.98
+Staked: 61.9321 Cake-LP ($3,628.50)
+BNBC Per Week: 2.60 ($114.66)
+APR: Day 0.45% Week 3.16% Year 164.32%
+You are staking 0.000000 [BNBC]-[WBNB] Cake LP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [BNBC]-[WBNB] Cake LP
+Unstake 0.000000 [BNBC]-[WBNB] Cake LP
+Claim 0.000000 BNBC ($0.00)
+Revoke (set approval to 0)
+Exit
+[TREAT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $220.50 TVL: $307,056.25
+TREAT Price: $19.55
+WBNB Price: $483.98
+Staked: 3.5703 Cake-LP ($787.24)
+BNBC Per Week: 2.08 ($91.73)
+APR: Day 1.66% Week 11.65% Year 605.90%
+You are staking 0.000000 [TREAT]-[WBNB] Cake LP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [TREAT]-[WBNB] Cake LP
+Unstake 0.000000 [TREAT]-[WBNB] Cake LP
+Claim 0.000000 BNBC ($0.00)
+Revoke (set approval to 0)
+Exit
+Cake
+ Price: $25.02 Market Cap: $10,411,111,908.61 
+[%]
+Staked: 107.3422 Cake ($2,685.70)
+BNBC Per Week: 1.04 ($45.86)
+APR: Day 0.24% Week 1.71% Year 88.80%
+You are staking 0.000000 Cake $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 Cake
+Unstake 0.000000 Cake
+Claim 0.000000 BNBC ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $51,015.15

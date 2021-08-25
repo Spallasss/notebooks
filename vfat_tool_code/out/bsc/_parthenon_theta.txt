@@ -1,0 +1,343 @@
+INFO  : https://theta.parthenon.finance
+********************************************************************************************
+
+Mon Aug 23 2021 14:31:31 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 22 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[THETA]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.10 TVL: $770.43
+THETA Price: $0.002095
+BUSD Price: $1.00
+Staked: 240.8956 Cake-LP ($23.55)
+THETA Per Week: 42824.35 ($89.73)
+APR: Day 54.44% Week 381.07% Year 19815.67%
+You are staking 0.00 [THETA]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [THETA]-[BUSD] Cake LP
+Unstake 0.00 [THETA]-[BUSD] Cake LP
+Claim 0.00 THETA ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[THETA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.11 TVL: $240.72
+THETA Price: $0.002095
+WBNB Price: $483.95
+Staked: 8.8005 Cake-LP ($18.60)
+THETA Per Week: 42824.35 ($89.73)
+APR: Day 68.93% Week 482.50% Year 25089.81%
+You are staking 0.00 [THETA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [THETA]-[WBNB] Cake LP
+Unstake 0.00 [THETA]-[WBNB] Cake LP
+Claim 0.00 THETA ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.71 TVL: $527,142,465.50
+WBNB Price: $483.95
+BUSD Price: $1.00
+Staked: 1.2656 Cake-LP ($62.91)
+THETA Per Week: 4507.83 ($9.45)
+APR: Day 2.14% Week 15.01% Year 780.75%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 THETA ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,048,890.18
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 14.1171 Cake-LP ($28.87)
+THETA Per Week: 4507.83 ($9.45)
+APR: Day 4.67% Week 32.71% Year 1701.02%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 THETA ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,211.17 TVL: $173,694,975.05
+BTCB Price: $49,954.00
+WBNB Price: $483.95
+Staked: 0.0063 Cake-LP ($64.09)
+THETA Per Week: 4507.83 ($9.45)
+APR: Day 2.11% Week 14.74% Year 766.32%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 THETA ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,648.30 TVL: $261,409,562.04
+ETH Price: $3,322.25
+WBNB Price: $483.95
+Staked: 0.0248 Cake-LP ($65.65)
+THETA Per Week: 4507.83 ($9.45)
+APR: Day 2.06% Week 14.39% Year 748.12%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 THETA ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.03 TVL: $81,288,630.56
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 139.5839 Cake-LP ($283.97)
+THETA Per Week: 4507.83 ($9.45)
+APR: Day 0.48% Week 3.33% Year 172.96%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 THETA ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,808,847.51
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 789.7320 Cake-LP ($1,624.13)
+THETA Per Week: 4507.83 ($9.45)
+APR: Day 0.08% Week 0.58% Year 30.24%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 THETA ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $240.23 TVL: $82,598,883.23
+DOT Price: $27.97
+WBNB Price: $483.95
+Staked: 0.5294 Cake-LP ($127.19)
+THETA Per Week: 4507.83 ($9.45)
+APR: Day 1.06% Week 7.43% Year 386.17%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 THETA ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+THETA
+ Price: $0.002095 Market Cap: $5,420.59 
+[%]
+Staked: 774970.4679 THETA ($1,623.82)
+THETA Per Week: 31554.78 ($66.12)
+APR: Day 0.58% Week 4.07% Year 211.73%
+You are staking 0.00 THETA ($0.00), 0.00% of the pool.
+Stake 0.00 THETA
+Unstake 0.00 THETA
+Claim 0.00 THETA ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+BUSD
+ Price: $1.00 Market Cap: $4,193,504,817.07 
+[%]
+Staked: 388.8000 BUSD ($388.11)
+THETA Per Week: 4507.83 ($9.45)
+APR: Day 0.35% Week 2.43% Year 126.55%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 THETA ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+WBNB
+ Price: $483.95 Market Cap: $3,427,209,726.58 
+[%]
+Staked: 1.4342 WBNB ($694.10)
+THETA Per Week: 6761.74 ($14.17)
+APR: Day 0.29% Week 2.04% Year 106.14%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 THETA ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+USDT
+ Price: $1.00 Market Cap: $3,377,097,883.96 
+[%]
+Staked: 91.5575 USDT ($91.48)
+THETA Per Week: 2253.91 ($4.72)
+APR: Day 0.74% Week 5.16% Year 268.46%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 THETA ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.0048 BTCB ($239.78)
+THETA Per Week: 2253.91 ($4.72)
+APR: Day 0.28% Week 1.97% Year 102.42%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 THETA ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+ETH
+ Price: $3,322.25 Market Cap: $4,335,536,250.00 
+[%]
+Staked: 0.0098 ETH ($32.69)
+THETA Per Week: 2253.91 ($4.72)
+APR: Day 2.06% Week 14.45% Year 751.22%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 THETA ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+DAI
+ Price: $1.00 Market Cap: $261,927,426.00 
+[%]
+Staked: 57.4162 DAI ($57.40)
+THETA Per Week: 2253.91 ($4.72)
+APR: Day 1.18% Week 8.23% Year 427.84%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 THETA ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+USDC
+ Price: $1.00 Market Cap: $1,775,954,352.00 
+[%]
+Staked: 96.0000 USDC ($95.84)
+THETA Per Week: 2253.91 ($4.72)
+APR: Day 0.70% Week 4.93% Year 256.25%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 THETA ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+DOT
+ Price: $27.97 Market Cap: $391,579,999.86 
+[%]
+Staked: 1.2784 DOT ($35.76)
+THETA Per Week: 2253.91 ($4.72)
+APR: Day 1.89% Week 13.21% Year 686.83%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 THETA ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+Cake
+ Price: $24.98 Market Cap: $10,394,812,306.85 
+[%]
+Staked: 0.8485 Cake ($21.20)
+THETA Per Week: 2253.91 ($4.72)
+APR: Day 3.18% Week 22.28% Year 1158.63%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 THETA ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+MUSCLE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 96.7243 MUSCLE ($0.00)
+THETA Per Week: 1690.43 ($3.54)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MUSCLE ($0.00), NaN% of the pool.
+Stake 0.00 MUSCLE - Fee 1%
+Unstake 0.00 MUSCLE
+Claim 0.00 THETA ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+ETA
+ Price: $0.00 Market Cap: $0.00 
+Staked: 122754.5264 ETA ($0.00)
+THETA Per Week: 3380.87 ($7.08)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ETA ($0.00), NaN% of the pool.
+Stake 0.00 ETA - Fee 4%
+Unstake 0.00 ETA
+Claim 0.00 THETA ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+TAKO
+ Price: $0.00 Market Cap: $0.00 
+Staked: 217.4024 TAKO ($0.00)
+THETA Per Week: 563.48 ($1.18)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 TAKO ($0.00), NaN% of the pool.
+Stake 0.00 TAKO - Fee 2.5%
+Unstake 0.00 TAKO
+Claim 0.00 THETA ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $5,579.13

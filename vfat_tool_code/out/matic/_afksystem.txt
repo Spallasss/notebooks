@@ -1,0 +1,163 @@
+INFO  : https://afksystem.finance
+*****************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 13:05:11 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 2 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[SILVER] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9,087,969.78 TVL: $49,527.09
+USDC Price: $1.00
+SILVER Price: $18.12
+Staked: 0.0054 DFYNLP ($49,179.92)
+SILVER Per Week: 3511.35 ($63,628.27)
+APR: Day 18.48% Week 129.38% Year 6727.69%
+You are staking 0.00 [USDC]-[SILVER] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[SILVER] DFYN LP
+Unstake 0.00 [USDC]-[SILVER] DFYN LP
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+SILVER
+ Price: $18.12 Market Cap: $1,409,377.06 
+[%]
+Staked: 1463.9484 SILVER ($26,527.83)
+SILVER Per Week: 1170.45 ($21,209.42)
+APR: Day 11.42% Week 79.95% Year 4157.48%
+You are staking 0.00 SILVER ($0.00), 0.00% of the pool.
+Stake 0.00 SILVER
+Unstake 0.00 SILVER
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $75,707.75
+Found 8 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+IS3USD
+ Price: $1.00 Market Cap: $136,035,366.57 
+[%]
+Staked: 215275.1742 IS3USD ($215,275.17)
+SILVER Per Week: 276.36 ($5,007.78)
+APR: Day 0.33% Week 2.33% Year 120.96%
+You are staking 0.00 IS3USD ($0.00), 0.00% of the pool.
+Stake 0.00 IS3USD - Fee 3%
+Unstake 0.00 IS3USD
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+WMATIC
+ Price: $1.64 Market Cap: $603,122,937.24 
+[%]
+Staked: 56458.9957 WMATIC ($92,592.75)
+SILVER Per Week: 207.27 ($3,755.84)
+APR: Day 0.58% Week 4.06% Year 210.93%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 3%
+Unstake 0.00 WMATIC
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+USDC
+ Price: $1.00 Market Cap: $1,042,435,379.17 
+[%]
+Staked: 109896.4634 USDC ($109,757.33)
+SILVER Per Week: 138.18 ($2,503.89)
+APR: Day 0.33% Week 2.28% Year 118.63%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 3%
+Unstake 0.00 USDC
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WETH
+ Price: $3,316.94 Market Cap: $2,022,237,199.74 
+[%]
+Staked: 34.3850 WETH ($114,052.96)
+SILVER Per Week: 207.27 ($3,755.84)
+APR: Day 0.47% Week 3.29% Year 171.24%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 3%
+Unstake 0.00 WETH
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDC]-[ICE] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,291,784.65 TVL: $8,832,093.99
+USDC Price: $1.00
+ICE Price: $0.28
+Staked: 0.0707 DFYNLP ($91,310.38)
+SILVER Per Week: 241.81 ($4,381.81)
+APR: Day 0.69% Week 4.80% Year 249.54%
+You are staking 0.00 [USDC]-[ICE] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[ICE] DFYN LP - Fee 3%
+Unstake 0.00 [USDC]-[ICE] DFYN LP
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[ICE]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $66.59 TVL: $8,155,204.19
+ICE Price: $0.28
+WETH Price: $3,316.94
+Staked: 1579.3012 FLP ($105,170.53)
+SILVER Per Week: 241.81 ($4,381.81)
+APR: Day 0.60% Week 4.17% Year 216.65%
+You are staking 0.00 [ICE]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ICE]-[WETH] Uni LP
+Unstake 0.00 [ICE]-[WETH] Uni LP
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[USDC]-[SILVER] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9,087,969.78 TVL: $49,527.09
+USDC Price: $1.00
+SILVER Price: $18.12
+Staked: 0.0008 DFYNLP ($7,193.49)
+SILVER Per Week: 13.82 ($250.39)
+APR: Day 0.50% Week 3.48% Year 181.00%
+You are staking 0.00 [USDC]-[SILVER] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[SILVER] DFYN LP
+Unstake 0.00 [USDC]-[SILVER] DFYN LP
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $735,352.62

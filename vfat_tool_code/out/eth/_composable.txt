@@ -1,0 +1,43 @@
+INFO  : https://composable.finance
+**************************************************************************
+
+Mon Aug 23 2021 15:49:06 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+
+
+------------------ Strategies ------------------
+Portfolio
+Docs
+
+
+L1 Ethereum - DAI
+Staking token: 0x6B175474E89094C44Da98b954EedeAC495271d0F (Dai Stablecoin)
+Parachain Auction Token: 0x8e1FbC00590F636542B0ea76FFd7622AC66f4a99 (pAT-DAI)
+Staked amount: 0 (DAI)
+Sent to treasury so far: 0 (ETH)
+Collected fees so far: 0 (ETH)
+  ---> Deposit/Withdraw
+
+
+L1 Ethereum - USDC
+Staking token: 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48 (USD Coin)
+Parachain Auction Token: 0xfAC81D57c48acB3EdbAA033e2fe15eC5290AbD76 (pAT-USDC)
+Staked amount: 0 (USDC)
+Sent to treasury so far: 0 (ETH)
+Collected fees so far: 0 (ETH)
+  ---> Deposit/Withdraw
+
+
+L1 Ethereum - USDT
+Staking token: 0xdAC17F958D2ee523a2206206994597C13D831ec7 (Tether USD)
+Parachain Auction Token: 0xa0BEe079FE252eEC4D7FDf6A33ceD3B0642398d2 (pAT-USDT)
+Staked amount: 0 (USDT)
+Sent to treasury so far: 0 (ETH)
+Collected fees so far: 0 (ETH)
+  ---> Deposit/Withdraw
+

@@ -1,0 +1,171 @@
+INFO  : https://polywhale.finance
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 15:54:50 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 15 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[Krill]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $686,615.41 TVL: $209,966.82
+Krill Price: $0.09
+USDC Price: $1.00
+Staked: 0.2654 UNI-V2 ($182,214.45)
+DB Per Week: 127594.94 ($11,130.11)
+APR: Day 0.87% Week 6.11% Year 317.63%
+You are staking 0.00 [Krill]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Krill]-[USDC] Uni LP
+Unstake 0.00 [Krill]-[USDC] Uni LP
+Claim 0.00 DB ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+WMATIC
+ Price: $1.64 Market Cap: $603,145,808.36 
+[%]
+Staked: 711973.6675 WMATIC ($1,167,636.81)
+DB Per Week: 63797.47 ($5,565.05)
+APR: Day 0.07% Week 0.48% Year 24.78%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 DB ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+WBTC
+ Price: $50,107.00 Market Cap: $697,934,330.53 
+[%]
+Staked: 8.3475 WBTC ($418,268.94)
+DB Per Week: 36455.70 ($3,180.03)
+APR: Day 0.11% Week 0.76% Year 39.53%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 DB ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WETH
+ Price: $3,335.09 Market Cap: $2,047,959,332.41 
+[%]
+Staked: 333.4320 WETH ($1,112,025.80)
+DB Per Week: 82025.32 ($7,155.07)
+APR: Day 0.09% Week 0.64% Year 33.46%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 DB ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+QUICK
+ Price: $715.50 Market Cap: $684,957,740.51 
+[%]
+Staked: 375.5927 QUICK ($268,736.58)
+DB Per Week: 9113.92 ($795.01)
+APR: Day 0.04% Week 0.30% Year 15.38%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 DB ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+USDT
+ Price: $1.00 Market Cap: $322,958,787.81 
+[%]
+Staked: 335762.2092 USDT ($335,323.03)
+DB Per Week: 45569.62 ($3,975.04)
+APR: Day 0.17% Week 1.19% Year 61.64%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 DB ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+USDC
+ Price: $1.00 Market Cap: $1,056,466,510.26 
+[%]
+Staked: 805543.3130 USDC ($803,067.88)
+DB Per Week: 63797.47 ($5,565.05)
+APR: Day 0.10% Week 0.69% Year 36.03%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 DB ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+Krill
+ Price: $0.09 Market Cap: $642,334.83 
+[%]
+Staked: 4820239.6259 Krill ($420,469.50)
+DB Per Week: 54683.54 ($4,770.05)
+APR: Day 0.16% Week 1.13% Year 58.99%
+You are staking 0.00 Krill ($0.00), 0.00% of the pool.
+Stake 0.00 Krill
+Unstake 0.00 Krill
+Claim 0.00 DB ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+AAVE
+ Price: $411.21 Market Cap: $156,393,269.32 
+[%]
+Staked: 317.4633 AAVE ($130,544.07)
+DB Per Week: 18227.85 ($1,590.02)
+APR: Day 0.17% Week 1.22% Year 63.34%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 DB ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+LINK
+ Price: $28.72 Market Cap: $64,955,670.38 
+[%]
+Staked: 16924.0568 LINK ($486,058.91)
+DB Per Week: 54683.54 ($4,770.05)
+APR: Day 0.14% Week 0.98% Year 51.03%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 DB ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+DAI
+ Price: $1.00 Market Cap: $383,361,394.43 
+[%]
+Staked: 117156.6288 DAI ($117,134.37)
+DB Per Week: 13670.89 ($1,192.51)
+APR: Day 0.15% Week 1.02% Year 52.94%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 DB ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+SUSHI
+ Price: $13.84 Market Cap: $14,054,647.18 
+[%]
+Staked: 5532.0563 SUSHI ($76,563.66)
+DB Per Week: 6379.75 ($556.51)
+APR: Day 0.10% Week 0.73% Year 37.80%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 4%
+Unstake 0.00 SUSHI
+Claim 0.00 DB ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $5,518,044.01

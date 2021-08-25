@@ -1,0 +1,236 @@
+INFO  : https://hippolygon.com
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:00:28 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 14 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[HIPPO] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.02
+USDC Price: $1.00
+HIPPO Price: $0.0000000000
+Staked: 0.0030 UNI-V2 ($0.00)
+HIPPO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[HIPPO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[HIPPO] Uni LP
+Unstake 0.00 [USDC]-[HIPPO] Uni LP
+Claim 0.00 HIPPO ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[HIPPO] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.00
+WMATIC Price: $1.65
+HIPPO Price: $0.0000000000
+Staked: 1102.7764 UNI-V2 ($0.00)
+HIPPO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[HIPPO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[HIPPO] Uni LP
+Unstake 0.00 [WMATIC]-[HIPPO] Uni LP
+Claim 0.00 HIPPO ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+HIPPO
+ Price: $0.0000000000 Market Cap: $917,163.85 
+[%]
+Staked: 2.4690718438665705e+23 HIPPO ($604,531.02)
+HIPPO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 HIPPO ($0.00), 0.00% of the pool.
+Stake 0.00 HIPPO
+Unstake 0.00 HIPPO
+Claim 0.00 HIPPO ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WMATIC
+ Price: $1.65 Market Cap: $605,597,502.02 
+[%]
+Staked: 0.2026 WMATIC ($0.33)
+HIPPO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 HIPPO ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+USDC
+ Price: $1.00 Market Cap: $1,046,633,361.84 
+[%]
+Staked: 206.8528 USDC ($206.44)
+HIPPO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 HIPPO ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+USDT
+ Price: $1.00 Market Cap: $314,825,905.66 
+[%]
+Staked: 55.7061 USDT ($55.64)
+HIPPO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 HIPPO ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+DAI
+ Price: $1.00 Market Cap: $375,664,195.61 
+[%]
+Staked: 0.0000 DAI ($0.00)
+HIPPO Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DAI ($0.00), NaN% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 HIPPO ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+FRAX
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 FRAX ($0.00)
+HIPPO Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FRAX ($0.00), NaN% of the pool.
+Stake 0.00 FRAX - Fee 4%
+Unstake 0.00 FRAX
+Claim 0.00 HIPPO ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+WBTC
+ Price: $50,109.00 Market Cap: $698,823,413.20 
+[%]
+Staked: 0.0000 WBTC ($0.00)
+HIPPO Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WBTC ($0.00), NaN% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 HIPPO ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,562,620,756,581.66 TVL: $33,952,819.01
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($676.85)
+HIPPO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 HIPPO ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[USDC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $74,904,325.82 TVL: $21,368,843.79
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 UNI-V2 ($7.08)
+HIPPO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 HIPPO ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[FRAX]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,996,028,000.00 TVL: $0.00
+FRAX Price: $1.03
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+HIPPO Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [FRAX]-[USDC] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [FRAX]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [FRAX]-[USDC] Uni LP
+Claim 0.00 HIPPO ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,850,432.54 TVL: $148,142,576.15
+USDC Price: $1.00
+WETH Price: $3,325.82
+Staked: 0.0000 UNI-V2 ($0.00)
+HIPPO Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 HIPPO ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WBTC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50,662,082,625,718.15 TVL: $16,282,612.02
+WBTC Price: $50,109.00
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($23.66)
+HIPPO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBTC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WBTC]-[USDC] Uni LP
+Claim 0.00 HIPPO ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $605,501.03

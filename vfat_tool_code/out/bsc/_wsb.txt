@@ -1,0 +1,66 @@
+INFO  : https://farm.wsbdapp.com
+************************************************************************************
+
+Mon Aug 23 2021 14:19:03 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 3 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+WSB
+ Price: $0.02 Market Cap: $22,460,475.61 
+[%]
+Staked: 155398307.4565 WSB ($3,490,319.89)
+WSB Per Week: 291666.67 ($6,550.97)
+APR: Day 0.03% Week 0.19% Year 9.76%
+You are staking 0.00 WSB ($0.00), 0.00% of the pool.
+Stake 0.00 WSB
+Unstake 0.00 WSB
+Claim 0.00 WSB ($0.00)
+Staking or unstaking also claims rewards.
+[WSB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7.71 TVL: $1,255,552.76
+WSB Price: $0.02
+WBNB Price: $484.02
+Staked: 154139.0308 Cake-LP ($1,188,814.58)
+WSB Per Week: 583333.33 ($13,101.94)
+APR: Day 0.16% Week 1.10% Year 57.31%
+You are staking 0.00 [WSB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WSB]-[WBNB] Cake LP
+Unstake 0.00 [WSB]-[WBNB] Cake LP
+Claim 0.00 WSB ($0.00)
+Staking or unstaking also claims rewards.
+[WSB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.31 TVL: $1,196,930.08
+WSB Price: $0.02
+BUSD Price: $1.00
+Staked: 3832565.9355 Cake-LP ($1,178,079.54)
+WSB Per Week: 583333.33 ($13,101.94)
+APR: Day 0.16% Week 1.11% Year 57.83%
+You are staking 0.00 [WSB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WSB]-[BUSD] Cake LP
+Unstake 0.00 [WSB]-[BUSD] Cake LP
+Claim 0.00 WSB ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $5,857,214.02

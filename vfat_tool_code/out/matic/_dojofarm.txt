@@ -1,0 +1,273 @@
+INFO  : https://dojofarm.finance
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:09:03 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 17 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WMATIC]-[DOJO] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.33 TVL: $7,233.15
+WMATIC Price: $1.65
+DOJO Price: $0.01
+Staked: 5274.2436 UNI-V2 ($1,725.22)
+DOJO Per Week: 21600.00 ($247.59)
+APR: Day 2.05% Week 14.35% Year 746.25%
+You are staking 0.00 [WMATIC]-[DOJO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[DOJO] Uni LP
+Unstake 0.00 [WMATIC]-[DOJO] Uni LP
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[USDC]-[DOJO] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $282,146.39 TVL: $1,816.08
+USDC Price: $1.00
+DOJO Price: $0.01
+Staked: 0.0042 UNI-V2 ($1,172.76)
+DOJO Per Week: 17280.00 ($198.07)
+APR: Day 2.41% Week 16.89% Year 878.24%
+You are staking 0.00 [USDC]-[DOJO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DOJO] Uni LP
+Unstake 0.00 [USDC]-[DOJO] Uni LP
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+DOJO
+ Price: $0.01 Market Cap: $7,570.09 
+[%]
+Staked: 134375.2434 DOJO ($1,540.26)
+DOJO Per Week: 21600.00 ($247.59)
+APR: Day 2.30% Week 16.07% Year 835.87%
+You are staking 0.00 DOJO ($0.00), 0.00% of the pool.
+Stake 0.00 DOJO
+Unstake 0.00 DOJO
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WMATIC
+ Price: $1.65 Market Cap: $605,577,520.68 
+[%]
+Staked: 2284.3889 WMATIC ($3,769.24)
+DOJO Per Week: 2880.00 ($33.01)
+APR: Day 0.13% Week 0.88% Year 45.54%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+USDC
+ Price: $1.00 Market Cap: $1,046,024,160.63 
+[%]
+Staked: 8904.7346 USDC ($8,881.88)
+DOJO Per Week: 2880.00 ($33.01)
+APR: Day 0.05% Week 0.37% Year 19.33%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,614,994.96 TVL: $33,392,387.03
+WMATIC Price: $1.65
+USDC Price: $1.00
+Staked: 0.0001 UNI-V2 ($536.32)
+DOJO Per Week: 2880.00 ($33.01)
+APR: Day 0.88% Week 6.16% Year 320.07%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WBTC
+ Price: $50,018.00 Market Cap: $697,143,853.15 
+[%]
+Staked: 0.6698 WBTC ($33,499.80)
+DOJO Per Week: 2880.00 ($33.01)
+APR: Day 0.01% Week 0.10% Year 5.12%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WETH
+ Price: $3,319.67 Market Cap: $2,027,620,227.75 
+[%]
+Staked: 5.8402 WETH ($19,387.54)
+DOJO Per Week: 2880.00 ($33.01)
+APR: Day 0.02% Week 0.17% Year 8.85%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+USDT
+ Price: $1.00 Market Cap: $314,845,845.99 
+[%]
+Staked: 8102.4000 USDT ($8,093.10)
+DOJO Per Week: 2880.00 ($33.01)
+APR: Day 0.06% Week 0.41% Year 21.21%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+DAI
+ Price: $1.00 Market Cap: $375,664,195.61 
+[%]
+Staked: 7308.7160 DAI ($7,297.11)
+DOJO Per Week: 2880.00 ($33.01)
+APR: Day 0.06% Week 0.45% Year 23.52%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+QUICK
+ Price: $728.33 Market Cap: $697,206,038.30 
+[%]
+Staked: 1.0287 QUICK ($749.24)
+DOJO Per Week: 2880.00 ($33.01)
+APR: Day 0.63% Week 4.41% Year 229.11%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+LINK
+ Price: $28.56 Market Cap: $64,809,321.93 
+[%]
+Staked: 13.9488 LINK ($398.38)
+DOJO Per Week: 2880.00 ($33.01)
+APR: Day 1.18% Week 8.29% Year 430.90%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+AAVE
+ Price: $408.21 Market Cap: $155,395,171.29 
+[%]
+Staked: 2.0821 AAVE ($849.91)
+DOJO Per Week: 2880.00 ($33.01)
+APR: Day 0.55% Week 3.88% Year 201.97%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,561,876,203,953.47 TVL: $33,946,513.97
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($977.12)
+DOJO Per Week: 2880.00 ($33.01)
+APR: Day 0.48% Week 3.38% Year 175.68%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,652,332.43 TVL: $147,962,420.69
+USDC Price: $1.00
+WETH Price: $3,319.67
+Staked: 0.0000 UNI-V2 ($1,140.74)
+DOJO Per Week: 2880.00 ($33.01)
+APR: Day 0.41% Week 2.89% Year 150.48%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[WMATIC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $188.91 TVL: $122,922,346.11
+WMATIC Price: $1.65
+WETH Price: $3,319.67
+Staked: 7.8852 UNI-V2 ($1,489.61)
+DOJO Per Week: 2880.00 ($33.01)
+APR: Day 0.32% Week 2.22% Year 115.24%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[WMATIC]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $94.24 TVL: $31,775,766.16
+WMATIC Price: $1.65
+QUICK Price: $728.33
+Staked: 3.5453 UNI-V2 ($334.11)
+DOJO Per Week: 2880.00 ($33.01)
+APR: Day 1.41% Week 9.88% Year 513.78%
+You are staking 0.00 [WMATIC]-[QUICK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[QUICK] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[QUICK] Uni LP
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $91,842.34

@@ -1,0 +1,13 @@
+INFO  : https://app.btcst.finance
+****************************************************************************
+
+Mon Aug 23 2021 09:18:23 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+{}
+Oops something went wrong. Try refreshing the page.

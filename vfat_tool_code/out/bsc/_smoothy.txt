@@ -1,0 +1,50 @@
+INFO  : https://smoothy.finance
+**************************************************************************************
+
+Mon Aug 23 2021 14:26:02 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 3 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+syUSD
+ Price: $1.00 Market Cap: $3,002,287.42 
+[%]
+Staked: 2931810.2260 syUSD ($2,931,810.23)
+SMTY Per Week: 80547.95 ($21,040.25)
+APR: Day 0.10% Week 0.72% Year 37.32%
+You are staking 0.00 syUSD ($0.00), 0.00% of the pool.
+Stake 0.00 syUSD
+Unstake 0.00 syUSD
+Claim 0.00 SMTY ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WBNB]-[SMTY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $24.25 TVL: $354,370.21
+WBNB Price: $483.87
+SMTY Price: $0.26
+Staked: 14435.1262 Cake-LP ($350,111.10)
+SMTY Per Week: 34520.55 ($9,017.25)
+APR: Day 0.37% Week 2.58% Year 133.93%
+You are staking 0.00 [WBNB]-[SMTY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[SMTY] Cake LP
+Unstake 0.00 [WBNB]-[SMTY] Cake LP
+Claim 0.00 SMTY ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $3,281,921.33

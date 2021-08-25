@@ -1,0 +1,27 @@
+INFO  : https://defi.instadapp.io
+***************************************************************************
+
+Mon Aug 23 2021 15:47:58 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+In order to use this page, please copy your DSAv2 address from Instadapp and navigate to vfat.tools/insta?addr=0xYOUR_ADDRESS_HERE
+
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[Gelato Uniswap V3 INST/ETH LP 1]
+ Price: $15.39 TVL: $17,816,747.48
+INST Price: $8.31
+WETH Price: $3,328.40
+Staked: 1157439.5581 G-UNI ($17,816,744.48)
+INST Per Week: 57692.31 ($479,423.08)
+APR: Day 0.38% Week 2.69% Year 139.92%
+You are staking 0.000000 [Gelato Uniswap V3 INST/ETH LP 1] $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [Gelato Uniswap V3 INST/ETH LP 1]
+Unstake 0.000000 [Gelato Uniswap V3 INST/ETH LP 1]
+Claim 0.000000 INST ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $17,816,744.48

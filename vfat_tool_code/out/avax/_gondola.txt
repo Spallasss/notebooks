@@ -1,0 +1,114 @@
+INFO  : https://app.gondola.finance
+********************************************************************************
+
+Mon Aug 23 2021 13:14:48 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 21 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+11 - 
+GDL
+ Price: $0.008139 Market Cap: $4,069,741.41 
+Staked: 62830991.1470 GDL ($511,411.77)
+GDL Per Week: 1632960.00 ($13,291.45)
+APR: Day 0.37% Week 2.60% Year 135.15%
+You are staking 0.00 GDL ($0.00), 0.00% of the pool.
+Stake 0.00 GDL
+Unstake 0.00 GDL
+Claim 0.00 GDL ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WAVAX]-[GDL] PGL
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.43 TVL: $450,924.91
+WAVAX Price: $49.33
+GDL Price: $0.008139
+Staked: 313832.5368 PGL ($450,005.48)
+GDL Per Week: 2721600.00 ($22,152.42)
+APR: Day 0.70% Week 4.92% Year 255.98%
+You are staking 0.00 [WAVAX]-[GDL] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[GDL] PGL
+Unstake 0.00 [WAVAX]-[GDL] PGL
+Claim 0.00 GDL ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+gondolaRenBtc
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.3762 gondolaRenBtc ($0.00)
+GDL Per Week: 54432.00 ($443.05)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 gondolaRenBtc ($0.00), NaN% of the pool.
+Stake 0.00 gondolaRenBtc
+Unstake 0.00 gondolaRenBtc
+Claim 0.00 GDL ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+gondolaWETHe
+ Price: $0.00 Market Cap: $0.00 
+Staked: 11.9313 gondolaWETHe ($0.00)
+GDL Per Week: 326592.00 ($2,658.29)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 gondolaWETHe ($0.00), NaN% of the pool.
+Stake 0.00 gondolaWETHe
+Unstake 0.00 gondolaWETHe
+Claim 0.00 GDL ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+gondolaUSDTe
+ Price: $0.00 Market Cap: $0.00 
+Staked: 13591.1569 gondolaUSDTe ($0.00)
+GDL Per Week: 326592.00 ($2,658.29)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 gondolaUSDTe ($0.00), NaN% of the pool.
+Stake 0.00 gondolaUSDTe
+Unstake 0.00 gondolaUSDTe
+Claim 0.00 GDL ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+gondolaDAIe
+ Price: $0.00 Market Cap: $0.00 
+Staked: 4000.1365 gondolaDAIe ($0.00)
+GDL Per Week: 108864.00 ($886.10)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 gondolaDAIe ($0.00), NaN% of the pool.
+Stake 0.00 gondolaDAIe
+Unstake 0.00 gondolaDAIe
+Claim 0.00 GDL ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+gondolaDAIeUSDTe
+ Price: $0.00 Market Cap: $0.00 
+Staked: 21947.3363 gondolaDAIeUSDTe ($0.00)
+GDL Per Week: 108864.00 ($886.10)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 gondolaDAIeUSDTe ($0.00), NaN% of the pool.
+Stake 0.00 gondolaDAIeUSDTe
+Unstake 0.00 gondolaDAIeUSDTe
+Claim 0.00 GDL ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+gondolaWBTCe
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.2000 gondolaWBTCe ($0.00)
+GDL Per Week: 163296.00 ($1,329.14)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 gondolaWBTCe ($0.00), NaN% of the pool.
+Stake 0.00 gondolaWBTCe
+Unstake 0.00 gondolaWBTCe
+Claim 0.00 GDL ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $961,417.25

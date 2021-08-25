@@ -1,0 +1,260 @@
+*************** 👨‍🌶️ UNOFFICIAL PEPPER FINANCE v2 FARMING CALCULATOR 👨‍🌶️ *****************
+Farms : 
+https://app.pepr.finance
+ | 
+Telegram
+ 
+*********************************************************************************************
+
+Mon Aug 23 2021 14:11:58 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 18 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+4 - 
+PEPR
+ Price: $0.00 Market Cap: $0.00 
+Staked: 253748.0093 PEPR ($0.00)
+PEPR Per Week: 5103.80 ($100.89)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 PEPR ($0.00), NaN% of the pool.
+Stake 0.00 PEPR
+Unstake 0.00 PEPR
+Claim 0.00 PEPR ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WBNB
+ Price: $484.42 Market Cap: $3,433,327,041.47 
+[%]
+Staked: 1.5817 WBNB ($766.21)
+PEPR Per Week: 204.15 ($4.04)
+APR: Day 0.08% Week 0.53% Year 27.39%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 3.5%
+Unstake 0.00 WBNB
+Claim 0.00 PEPR ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+BUSD
+ Price: $1.00 Market Cap: $4,194,773,518.89 
+[%]
+Staked: 422.4708 BUSD ($421.84)
+PEPR Per Week: 204.15 ($4.04)
+APR: Day 0.14% Week 0.96% Year 49.74%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 3.5%
+Unstake 0.00 BUSD
+Claim 0.00 PEPR ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WPEPS
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1159202.4148 WPEPS ($0.00)
+PEPR Per Week: 51.04 ($1.01)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WPEPS ($0.00), NaN% of the pool.
+Stake 0.00 WPEPS - Fee 3.5%
+Unstake 0.00 WPEPS
+Claim 0.00 PEPR ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[PEPR]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.29 TVL: $3,782.25
+PEPR Price: $0.02
+BUSD Price: $1.00
+Staked: 12104.6284 Cake-LP ($3,464.91)
+PEPR Per Week: 8166.08 ($161.42)
+APR: Day 0.67% Week 4.66% Year 242.25%
+You are staking 0.00 [PEPR]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PEPR]-[BUSD] Cake LP
+Unstake 0.00 [PEPR]-[BUSD] Cake LP
+Claim 0.00 PEPR ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[PEPR]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6.28 TVL: $2,041.88
+PEPR Price: $0.02
+WBNB Price: $484.42
+Staked: 324.5836 Cake-LP ($2,039.19)
+PEPR Per Week: 4899.65 ($96.85)
+APR: Day 0.68% Week 4.75% Year 246.97%
+You are staking 0.00 [PEPR]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PEPR]-[WBNB] Cake LP
+Unstake 0.00 [PEPR]-[WBNB] Cake LP
+Claim 0.00 PEPR ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,650.15 TVL: $261,602,346.88
+ETH Price: $3,323.71
+WBNB Price: $484.42
+Staked: 0.1834 Cake-LP ($485.96)
+PEPR Per Week: 204.15 ($4.04)
+APR: Day 0.12% Week 0.83% Year 43.18%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 3.5%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 PEPR ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.74 TVL: $526,752,421.63
+WBNB Price: $484.42
+BUSD Price: $1.00
+Staked: 4.9713 Cake-LP ($247.27)
+PEPR Per Week: 204.15 ($4.04)
+APR: Day 0.23% Week 1.63% Year 84.86%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 3.5%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 PEPR ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,853,807.98
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 18.2568 Cake-LP ($37.55)
+PEPR Per Week: 204.15 ($4.04)
+APR: Day 1.54% Week 10.75% Year 558.85%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 3.5%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 PEPR ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[BUSD]-[WPEPS] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.05 TVL: $211.32
+BUSD Price: $1.00
+WPEPS Price: $0.000623
+Staked: 4042.0473 Cake-LP ($202.78)
+PEPR Per Week: 102.08 ($2.02)
+APR: Day 0.14% Week 1.00% Year 51.74%
+You are staking 0.00 [BUSD]-[WPEPS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[WPEPS] Cake LP - Fee 3.5%
+Unstake 0.00 [BUSD]-[WPEPS] Cake LP
+Claim 0.00 PEPR ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[WBNB]-[EMBY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $180.51
+WBNB Price: $484.42
+EMBY Price: $0.0000000009
+Staked: 85197.4177 Cake-LP ($118.63)
+PEPR Per Week: 204.15 ($4.04)
+APR: Day 0.49% Week 3.40% Year 176.88%
+You are staking 0.00 [WBNB]-[EMBY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[EMBY] Cake LP - Fee 1%
+Unstake 0.00 [WBNB]-[EMBY] Cake LP
+Claim 0.00 PEPR ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[PEPR]-[WCMG] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $63.54
+PEPR Price: $0.02
+WCMG Price: $0.002402
+Staked: 3301.3720 Cake-LP ($45.54)
+PEPR Per Week: 102.08 ($2.02)
+APR: Day 0.63% Week 4.43% Year 230.40%
+You are staking 0.00 [PEPR]-[WCMG] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PEPR]-[WCMG] Cake LP - Fee 3.5%
+Unstake 0.00 [PEPR]-[WCMG] Cake LP
+Claim 0.00 PEPR ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[WLQX]-[PEPR] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $105.02
+WLQX Price: $0.003502
+PEPR Price: $0.02
+Staked: 6148.4891 Cake-LP ($102.38)
+PEPR Per Week: 408.30 ($8.07)
+APR: Day 1.13% Week 7.88% Year 409.92%
+You are staking 0.00 [WLQX]-[PEPR] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WLQX]-[PEPR] Cake LP - Fee 3.5%
+Unstake 0.00 [WLQX]-[PEPR] Cake LP
+Claim 0.00 PEPR ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[PEPR]-[Latte] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $9.83
+PEPR Price: $0.02
+Latte Price: $0.0000207033
+Staked: 7132.2939 Cake-LP ($9.13)
+PEPR Per Week: 102.08 ($2.02)
+APR: Day 3.16% Week 22.09% Year 1148.69%
+You are staking 0.00 [PEPR]-[Latte] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PEPR]-[Latte] Cake LP - Fee 3.5%
+Unstake 0.00 [PEPR]-[Latte] Cake LP
+Claim 0.00 PEPR ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $7,941.42

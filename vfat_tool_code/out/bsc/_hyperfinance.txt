@@ -1,0 +1,335 @@
+INFO  : https://hyfi.pro
+**********************************************************************************
+
+Mon Aug 23 2021 14:12:47 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 38 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - fWBNB Price: $497.31 TVL: $824,061.59
+Staked: 1526.9422 fWBNB ($759,364.31)
+HYFI Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 fWBNB ($0.00), 0.00% of the pool.
+Stake 0.00 fWBNB
+Unstake 0.00 fWBNB
+Claim 0.00 HYFI ($0.00)
+Staking or unstaking also claims rewards.
+1 - fUSDT Price: $1.03 TVL: $641,107.17
+Staked: 592276.5748 fUSDT ($608,799.12)
+HYFI Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 fUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 fUSDT
+Unstake 0.00 fUSDT
+Claim 0.00 HYFI ($0.00)
+Staking or unstaking also claims rewards.
+2 - fUSDC Price: $1.02 TVL: $136,484.50
+Staked: 125923.9830 fUSDC ($128,949.29)
+HYFI Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 fUSDC ($0.00), 0.00% of the pool.
+Stake 0.00 fUSDC
+Unstake 0.00 fUSDC
+Claim 0.00 HYFI ($0.00)
+Staking or unstaking also claims rewards.
+3 - fBUSD Price: $1.02 TVL: $163,772.87
+Staked: 107497.5416 fBUSD ($110,142.75)
+HYFI Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 fBUSD ($0.00), 0.00% of the pool.
+Stake 0.00 fBUSD
+Unstake 0.00 fBUSD
+Claim 0.00 HYFI ($0.00)
+Staking or unstaking also claims rewards.
+4 - fDAI Price: $1.01 TVL: $72,332.14
+Staked: 70220.8776 fDAI ($71,233.31)
+HYFI Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 fDAI ($0.00), 0.00% of the pool.
+Stake 0.00 fDAI
+Unstake 0.00 fDAI
+Claim 0.00 HYFI ($0.00)
+Staking or unstaking also claims rewards.
+5 - fBTCB Price: $50,492.43 TVL: $2,487,921.41
+Staked: 48.8933 fBTCB ($2,468,743.69)
+HYFI Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 fBTCB ($0.00), 0.00% of the pool.
+Stake 0.00 fBTCB
+Unstake 0.00 fBTCB
+Claim 0.00 HYFI ($0.00)
+Staking or unstaking also claims rewards.
+6 - fETH Price: $3,346.20 TVL: $632,197.00
+Staked: 174.6600 fETH ($584,446.43)
+HYFI Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 fETH ($0.00), 0.00% of the pool.
+Stake 0.00 fETH
+Unstake 0.00 fETH
+Claim 0.00 HYFI ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+dao30HYFI
+ Price: $0.00 Market Cap: $0.00 
+Staked: 18701022.2461 dao30HYFI ($0.00)
+HYFI Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 dao30HYFI ($0.00), NaN% of the pool.
+Stake 0.00 dao30HYFI
+Unstake 0.00 dao30HYFI
+Claim 0.00 HYFI ($0.00)
+Staking or unstaking also claims rewards.
+13 - f3EPS Price: $1.03 TVL: $1,144,880.26
+Staked: 1075144.9176 f3EPS ($1,108,642.40)
+HYFI Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 f3EPS ($0.00), 0.00% of the pool.
+Stake 0.00 f3EPS
+Unstake 0.00 f3EPS
+Claim 0.00 HYFI ($0.00)
+Staking or unstaking also claims rewards.
+14 - fCake Price: $33.53 TVL: $2,340,884.76
+Staked: 44160.2976 fCake ($1,480,593.62)
+HYFI Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 fCake ($0.00), 0.00% of the pool.
+Stake 0.00 fCake
+Unstake 0.00 fCake
+Claim 0.00 HYFI ($0.00)
+Staking or unstaking also claims rewards.
+16 - fHMDX Price: $0.00 TVL: $0.00
+Staked: 3589.5137 fHMDX ($0.00)
+HYFI Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 fHMDX ($0.00), NaN% of the pool.
+Stake 0.00 fHMDX
+Unstake 0.00 fHMDX
+Claim 0.00 HYFI ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+TPT
+ Price: $0.00 Market Cap: $0.00 
+Staked: 22325252.8923 TPT ($0.00)
+HYFI Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 TPT ($0.00), NaN% of the pool.
+Stake 0.00 TPT
+Unstake 0.00 TPT
+Claim 0.00 HYFI ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+IOTX
+ Price: $0.00 Market Cap: $0.00 
+Staked: 11063561.8863 IOTX ($0.00)
+HYFI Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 IOTX ($0.00), NaN% of the pool.
+Stake 0.00 IOTX
+Unstake 0.00 IOTX
+Claim 0.00 HYFI ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+DOGE
+ Price: $0.32 Market Cap: $642,970,000.00 
+[%]
+Staked: 1083716.3581 DOGE ($348,398.55)
+HYFI Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DOGE ($0.00), 0.00% of the pool.
+Stake 0.00 DOGE
+Unstake 0.00 DOGE
+Claim 0.00 HYFI ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+AUTO
+ Price: $1,421.74 Market Cap: $91,162,861.27 
+[%]
+Staked: 24.3838 AUTO ($34,667.47)
+HYFI Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 AUTO ($0.00), 0.00% of the pool.
+Stake 0.00 AUTO
+Unstake 0.00 AUTO
+Claim 0.00 HYFI ($0.00)
+Staking or unstaking also claims rewards.
+21 - Wrapped 
+[USDT]-[WBNB] Uni LP
+ Price: $49.54 TVL: $14,436.74
+Staked: 259.6563 fMDEX LP ($12,863.64)
+HYFI Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 fMDEX LP ($0.00), 0.00% of the pool.
+Stake 0.00 fMDEX LP
+Unstake 0.00 fMDEX LP
+Claim 0.00 HYFI ($0.00)
+Staking or unstaking also claims rewards.
+22 - Wrapped 
+[USDT]-[BTCB] Uni LP
+ Price: $481.67 TVL: $13,291.22
+Staked: 25.6482 fMDEX LP ($12,353.86)
+HYFI Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 fMDEX LP ($0.00), 0.00% of the pool.
+Stake 0.00 fMDEX LP
+Unstake 0.00 fMDEX LP
+Claim 0.00 HYFI ($0.00)
+Staking or unstaking also claims rewards.
+23 - Wrapped 
+[ETH]-[USDT] Uni LP
+ Price: $126.66 TVL: $17,311.92
+Staked: 125.7674 fMDEX LP ($15,929.17)
+HYFI Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 fMDEX LP ($0.00), 0.00% of the pool.
+Stake 0.00 fMDEX LP
+Unstake 0.00 fMDEX LP
+Claim 0.00 HYFI ($0.00)
+Staking or unstaking also claims rewards.
+24 - Wrapped 
+[USDT]-[BUSD] Uni LP
+ Price: $2.06 TVL: $11,607.22
+Staked: 5491.7926 fMDEX LP ($11,293.40)
+HYFI Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 fMDEX LP ($0.00), 0.00% of the pool.
+Stake 0.00 fMDEX LP
+Unstake 0.00 fMDEX LP
+Claim 0.00 HYFI ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+Helmet
+ Price: $0.00 Market Cap: $0.00 
+Staked: 117412.6711 Helmet ($0.00)
+HYFI Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 Helmet ($0.00), NaN% of the pool.
+Stake 0.00 Helmet
+Unstake 0.00 Helmet
+Claim 0.00 HYFI ($0.00)
+Staking or unstaking also claims rewards.
+26 - fBUNNY Price: $10.77 TVL: $33,993.91
+Staked: 2225.6297 fBUNNY ($23,976.66)
+HYFI Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 fBUNNY ($0.00), 0.00% of the pool.
+Stake 0.00 fBUNNY
+Unstake 0.00 fBUNNY
+Claim 0.00 HYFI ($0.00)
+Staking or unstaking also claims rewards.
+27 - f4Belt Price: $0.00 TVL: $0.00
+Staked: 243563.5486 f4Belt ($0.00)
+HYFI Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 f4Belt ($0.00), NaN% of the pool.
+Stake 0.00 f4Belt
+Unstake 0.00 f4Belt
+Claim 0.00 HYFI ($0.00)
+Staking or unstaking also claims rewards.
+28 - Wrapped 
+[Cake]-[WBNB] Cake LP
+ Price: $257.21 TVL: $68,457.01
+Staked: 228.5820 fCake-LP ($58,794.25)
+HYFI Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 fCake-LP ($0.00), 0.00% of the pool.
+Stake 0.00 fCake-LP
+Unstake 0.00 fCake-LP
+Claim 0.00 HYFI ($0.00)
+Staking or unstaking also claims rewards.
+29 - Wrapped 
+[WBNB]-[BUSD] Cake LP
+ Price: $52.15 TVL: $27,023.99
+Staked: 493.8367 fCake-LP ($25,753.22)
+HYFI Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 fCake-LP ($0.00), 0.00% of the pool.
+Stake 0.00 fCake-LP
+Unstake 0.00 fCake-LP
+Claim 0.00 HYFI ($0.00)
+Staking or unstaking also claims rewards.
+30 - Wrapped 
+[BTCB]-[WBNB] Cake LP
+ Price: $10,572.07 TVL: $86,755.54
+Staked: 7.9442 fCake-LP ($83,986.21)
+HYFI Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 fCake-LP ($0.00), 0.00% of the pool.
+Stake 0.00 fCake-LP
+Unstake 0.00 fCake-LP
+Claim 0.00 HYFI ($0.00)
+Staking or unstaking also claims rewards.
+31 - Wrapped 
+[BUSD]-[TPT] Cake LP
+ Price: $4,776,736.48 TVL: $42,623.73
+Staked: 0.0077 fCake-LP ($36,674.05)
+HYFI Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 fCake-LP ($0.00), 0.00% of the pool.
+Stake 0.00 fCake-LP
+Unstake 0.00 fCake-LP
+Claim 0.00 HYFI ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+[HYFI]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.06 TVL: $158,081.52
+HYFI Price: $0.007623
+WBNB Price: $484.42
+Staked: 11943.9583 Cake-LP ($48,458.60)
+HYFI Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [HYFI]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HYFI]-[WBNB] Cake LP
+Unstake 0.00 [HYFI]-[WBNB] Cake LP
+Claim 0.00 HYFI ($0.00)
+Staking or unstaking also claims rewards.
+33 - 
+SWFTC
+ Price: $0.00 Market Cap: $0.00 
+Staked: 34761133.4759 SWFTC ($0.00)
+HYFI Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SWFTC ($0.00), NaN% of the pool.
+Stake 0.00 SWFTC
+Unstake 0.00 SWFTC
+Claim 0.00 HYFI ($0.00)
+Staking or unstaking also claims rewards.
+34 - 
+ALPA
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1180941.4728 ALPA ($0.00)
+HYFI Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ALPA ($0.00), NaN% of the pool.
+Stake 0.00 ALPA
+Unstake 0.00 ALPA
+Claim 0.00 HYFI ($0.00)
+Staking or unstaking also claims rewards.
+37 - 
+WOO
+ Price: $0.00 Market Cap: $0.00 
+Staked: 9000.0000 WOO ($0.00)
+HYFI Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WOO ($0.00), NaN% of the pool.
+Stake 0.00 WOO
+Unstake 0.00 WOO
+Claim 0.00 HYFI ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $8,034,064.03

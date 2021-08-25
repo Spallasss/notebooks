@@ -1,0 +1,223 @@
+INFO  : https://polytoken.finance
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:16:02 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 14 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+POLYTOKEN
+ Price: $0.13 Market Cap: $4,690.23 
+[%]
+Staked: 14989.6671 POLYTOKEN ($2,017.54)
+POLYTOKEN Per Week: 508.24 ($68.41)
+APR: Day 0.48% Week 3.39% Year 176.31%
+You are staking 0.00 POLYTOKEN ($0.00), 0.00% of the pool.
+Stake 0.00 POLYTOKEN
+Unstake 0.00 POLYTOKEN
+Claim 0.00 POLYTOKEN ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+WMATIC
+ Price: $1.64 Market Cap: $601,957,567.28 
+[%]
+Staked: 3057.6951 WMATIC ($5,014.62)
+POLYTOKEN Per Week: 254.12 ($34.20)
+APR: Day 0.10% Week 0.68% Year 35.47%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 2%
+Unstake 0.00 WMATIC
+Claim 0.00 POLYTOKEN ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+WBTC
+ Price: $50,001.00 Market Cap: $696,956,800.58 
+[%]
+Staked: 0.0854 WBTC ($4,272.33)
+POLYTOKEN Per Week: 254.12 ($34.20)
+APR: Day 0.11% Week 0.80% Year 41.63%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 2%
+Unstake 0.00 WBTC
+Claim 0.00 POLYTOKEN ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WETH
+ Price: $3,319.22 Market Cap: $2,027,366,623.58 
+[%]
+Staked: 3.4741 WETH ($11,531.30)
+POLYTOKEN Per Week: 254.12 ($34.20)
+APR: Day 0.04% Week 0.30% Year 15.42%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 2%
+Unstake 0.00 WETH
+Claim 0.00 POLYTOKEN ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+QUICK
+ Price: $726.72 Market Cap: $695,664,838.95 
+[%]
+Staked: 2.9894 QUICK ($2,172.47)
+POLYTOKEN Per Week: 254.12 ($34.20)
+APR: Day 0.22% Week 1.57% Year 81.87%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 2%
+Unstake 0.00 QUICK
+Claim 0.00 POLYTOKEN ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+USDT
+ Price: $1.00 Market Cap: $314,846,345.41 
+[%]
+Staked: 5376.3046 USDT ($5,370.13)
+POLYTOKEN Per Week: 169.41 ($22.80)
+APR: Day 0.06% Week 0.42% Year 22.08%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 2%
+Unstake 0.00 USDT
+Claim 0.00 POLYTOKEN ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+USDC
+ Price: $1.00 Market Cap: $1,045,510,944.61 
+[%]
+Staked: 586.6443 USDC ($584.97)
+POLYTOKEN Per Week: 169.41 ($22.80)
+APR: Day 0.56% Week 3.90% Year 202.70%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 2%
+Unstake 0.00 USDC
+Claim 0.00 POLYTOKEN ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+LINK
+ Price: $28.56 Market Cap: $64,809,321.93 
+[%]
+Staked: 30.4724 LINK ($870.29)
+POLYTOKEN Per Week: 169.41 ($22.80)
+APR: Day 0.37% Week 2.62% Year 136.24%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 2%
+Unstake 0.00 LINK
+Claim 0.00 POLYTOKEN ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+DAI
+ Price: $1.00 Market Cap: $375,664,195.61 
+[%]
+Staked: 3398.1944 DAI ($3,392.80)
+POLYTOKEN Per Week: 169.41 ($22.80)
+APR: Day 0.10% Week 0.67% Year 34.95%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 2%
+Unstake 0.00 DAI
+Claim 0.00 POLYTOKEN ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[USDC]-[POLYTOKEN] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $806,082.58 TVL: $586.99
+USDC Price: $1.00
+POLYTOKEN Price: $0.13
+Staked: 0.0007 SLP ($577.74)
+POLYTOKEN Per Week: 847.06 ($114.01)
+APR: Day 2.82% Week 19.73% Year 1026.16%
+You are staking 0.00 [USDC]-[POLYTOKEN] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[POLYTOKEN] SLP
+Unstake 0.00 [USDC]-[POLYTOKEN] SLP
+Claim 0.00 POLYTOKEN ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[WMATIC]-[POLYTOKEN] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.01 TVL: $714.99
+WMATIC Price: $1.64
+POLYTOKEN Price: $0.13
+Staked: 658.4558 SLP ($668.12)
+POLYTOKEN Per Week: 847.06 ($114.01)
+APR: Day 2.44% Week 17.06% Year 887.34%
+You are staking 0.00 [WMATIC]-[POLYTOKEN] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[POLYTOKEN] SLP
+Unstake 0.00 [WMATIC]-[POLYTOKEN] SLP
+Claim 0.00 POLYTOKEN ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[WMATIC]-[USDC] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,867,641.35 TVL: $4,897,113.85
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0003 SLP ($1,126.59)
+POLYTOKEN Per Week: 169.41 ($22.80)
+APR: Day 0.29% Week 2.02% Year 105.25%
+You are staking 0.00 [WMATIC]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] SLP - Fee 2%
+Unstake 0.00 [WMATIC]-[USDC] SLP
+Claim 0.00 POLYTOKEN ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[USDC]-[POLYTOKEN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $841,595.14 TVL: $806.49
+USDC Price: $1.00
+POLYTOKEN Price: $0.13
+Staked: 0.0007 UNI-V2 ($626.82)
+POLYTOKEN Per Week: 847.06 ($114.01)
+APR: Day 2.60% Week 18.19% Year 945.81%
+You are staking 0.00 [USDC]-[POLYTOKEN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[POLYTOKEN] Uni LP
+Unstake 0.00 [USDC]-[POLYTOKEN] Uni LP
+Claim 0.00 POLYTOKEN ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WMATIC]-[POLYTOKEN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.04 TVL: $1,065.64
+WMATIC Price: $1.64
+POLYTOKEN Price: $0.13
+Staked: 914.3292 UNI-V2 ($954.68)
+POLYTOKEN Per Week: 847.06 ($114.01)
+APR: Day 1.71% Week 11.94% Year 621.00%
+You are staking 0.00 [WMATIC]-[POLYTOKEN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[POLYTOKEN] Uni LP
+Unstake 0.00 [WMATIC]-[POLYTOKEN] Uni LP
+Claim 0.00 POLYTOKEN ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $39,180.40

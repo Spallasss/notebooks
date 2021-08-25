@@ -1,0 +1,470 @@
+INFO  : https://harvest.finance/
+**************************************************************************
+
+Mon Aug 23 2021 15:24:44 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+The APR shown only contains the FARM rewards, the native APR from other protocols is not added.
+
+FARM
+ Price: $240.81 Market Cap: $154,800,621.95 
+[%]
+Staked: 233023.0176 FARM ($56,114,272.86)
+FARM Per Week: 925.41 ($222,848.83)
+APR: Day 0.06% Week 0.40% Year 20.65%
+You are staking 0.00 FARM ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 FARM
+Unstake 0.000000 FARM
+Claim 0.000000 FARM
+Exit
+
+
+[FARM]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,532.77 TVL: $2,038,595.79
+FARM Price: $240.81
+WETH Price: $3,329.65
+Staked: 680.9640 UNI-V2 ($1,724,725.26)
+FARM Per Week: 2.43 ($585.31)
+APR: Day 0.00% Week 0.03% Year 1.76%
+You are staking 0.00 [FARM]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 [FARM]-[WETH] Uni LP
+Unstake 0.000000 [FARM]-[WETH] Uni LP
+Claim 0.000000 FARM
+Exit
+
+
+[FARM]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $38,420,646.53 TVL: $233,878.91
+FARM Price: $240.81
+USDC Price: $1.00
+Staked: 0.0012 UNI-V2 ($46,973.56)
+FARM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [FARM]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 [FARM]-[USDC] Uni LP
+Unstake 0.000000 [FARM]-[USDC] Uni LP
+Claim 0.000000 FARM
+Exit
+
+
+[GRAIN]-[FARM] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7.35 TVL: $61,247.53
+GRAIN Price: $0.05
+FARM Price: $240.81
+Staked: 7154.6383 UNI-V2 ($52,616.83)
+FARM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [GRAIN]-[FARM] Uni LP ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 [GRAIN]-[FARM] Uni LP
+Unstake 0.000000 [GRAIN]-[FARM] Uni LP
+Claim 0.000000 FARM
+Exit
+
+
+fWETH Price: $3,337.43 TVL: $30,301,735.74
+Staked: 8998.5459 fWETH ($30,031,993.24)
+FARM Per Week: 7.43 ($1,788.45)
+APR: Day 0.00% Week 0.01% Year 0.31%
+You are staking 0.00 fWETH ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 fWETH
+Unstake 0.000000 fWETH
+Claim 0.000000 FARM
+Exit
+
+
+Wrapped 
+[DPI]-[WETH] Uni LP
+ Price: $2,873.39 TVL: $1,613,250.85
+Staked: 510.6218 fUNI-V2 ($1,467,213.55)
+FARM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 fUNI-V2 ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 fUNI-V2
+Unstake 0.000000 fUNI-V2
+Claim 0.000000 FARM
+Exit
+
+
+Wrapped 
+[DAI]-[BSG] Uni LP
+ Price: $17.27 TVL: $1,147.45
+Staked: 65.0661 fUNI-V2 ($1,123.88)
+FARM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 fUNI-V2 ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 fUNI-V2
+Unstake 0.000000 fUNI-V2
+Claim 0.000000 FARM
+Exit
+
+
+Wrapped 
+[DAI]-[BSGS] Uni LP
+ Price: $0.85 TVL: $3,388.92
+Staked: 3269.1639 fUNI-V2 ($2,769.87)
+FARM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 fUNI-V2 ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 fUNI-V2
+Unstake 0.000000 fUNI-V2
+Claim 0.000000 FARM
+Exit
+
+
+fBAC Price: $0.05 TVL: $62.53
+Staked: 802.2039 fBAC ($44.09)
+FARM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 fBAC ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 fBAC
+Unstake 0.000000 fBAC
+Claim 0.000000 FARM
+Exit
+
+
+fESD Price: $0.05 TVL: $10,231.46
+Staked: 211750.8008 fESD ($9,652.61)
+FARM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 fESD ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 fESD
+Unstake 0.000000 fESD
+Claim 0.000000 FARM
+Exit
+
+
+fDSD Price: $0.02 TVL: $1,236.76
+Staked: 60247.9388 fDSD ($1,153.64)
+FARM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 fDSD ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 fDSD
+Unstake 0.000000 fDSD
+Claim 0.000000 FARM
+Exit
+
+
+fyDAI+yUSDC+yUSDT+yTUSD Price: $1.15 TVL: $639,149.14
+Staked: 448382.4082 fyDAI+yUSDC+yUSDT+yTUSD ($517,443.66)
+FARM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 fyDAI+yUSDC+yUSDT+yTUSD ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 fyDAI+yUSDC+yUSDT+yTUSD
+Unstake 0.000000 fyDAI+yUSDC+yUSDT+yTUSD
+Claim 0.000000 FARM
+Exit
+
+
+fhusd3CRV Price: $0.00 TVL: $0.00
+Staked: 1590072.5546 fhusd3CRV ($0.00)
+FARM Per Week: 3.24 ($780.42)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 fhusd3CRV ($0.00), NaN% of the pool.
+Staking Contract
+Stake 0.000000 fhusd3CRV
+Unstake 0.000000 fhusd3CRV
+Claim 0.000000 FARM
+Exit
+
+
+fcDAI+cUSDC Price: $1.11 TVL: $1,060,033.32
+Staked: 898380.7237 fcDAI+cUSDC ($999,781.32)
+FARM Per Week: 2.63 ($634.08)
+APR: Day 0.01% Week 0.06% Year 3.30%
+You are staking 0.00 fcDAI+cUSDC ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 fcDAI+cUSDC
+Unstake 0.000000 fcDAI+cUSDC
+Claim 0.000000 FARM
+Exit
+
+
+fyDAI+yUSDC+yUSDT+yBUSD Price: $1.14 TVL: $2,157,965.24
+Staked: 1615704.7079 fyDAI+yUSDC+yUSDT+yBUSD ($1,848,127.90)
+FARM Per Week: 5.47 ($1,316.94)
+APR: Day 0.01% Week 0.07% Year 3.71%
+You are staking 0.00 fyDAI+yUSDC+yUSDT+yBUSD ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 fyDAI+yUSDC+yUSDT+yBUSD
+Unstake 0.000000 fyDAI+yUSDC+yUSDT+yBUSD
+Claim 0.000000 FARM
+Exit
+
+
+fusdn3CRV Price: $0.00 TVL: $0.00
+Staked: 2091284.2719 fusdn3CRV ($0.00)
+FARM Per Week: 12.15 ($2,926.54)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 fusdn3CRV ($0.00), NaN% of the pool.
+Staking Contract
+Stake 0.000000 fusdn3CRV
+Unstake 0.000000 fusdn3CRV
+Claim 0.000000 FARM
+Exit
+
+
+fUSDC Price: $0.91 TVL: $32,502,528.38
+Staked: 38459623.8285 fUSDC ($35,140,105.55)
+FARM Per Week: 26.33 ($6,340.86)
+APR: Day 0.00% Week 0.02% Year 0.94%
+You are staking 0.00 fUSDC ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 fUSDC
+Unstake 0.000000 fUSDC
+Claim 0.000000 FARM
+Exit
+
+
+fUSDT Price: $0.92 TVL: $21,410,643.99
+Staked: 25230366.2543 fUSDT ($23,214,247.60)
+FARM Per Week: 30.09 ($7,246.70)
+APR: Day 0.00% Week 0.03% Year 1.62%
+You are staking 0.00 fUSDT ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 fUSDT
+Unstake 0.000000 fUSDT
+Claim 0.000000 FARM
+Exit
+
+
+fTUSD Price: $1.05 TVL: $24,857.02
+Staked: 2332.9010 fTUSD ($2,458.88)
+FARM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 fTUSD ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 fTUSD
+Unstake 0.000000 fTUSD
+Claim 0.000000 FARM
+Exit
+
+
+fDAI Price: $1.06 TVL: $31,234,225.56
+Staked: 27749035.1358 fDAI ($29,399,027.30)
+FARM Per Week: 22.57 ($5,435.03)
+APR: Day 0.00% Week 0.02% Year 0.96%
+You are staking 0.00 fDAI ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 fDAI
+Unstake 0.000000 fDAI
+Claim 0.000000 FARM
+Exit
+
+
+Wrapped 
+[BAC]-[DAI] Uni LP
+ Price: $0.56 TVL: $437,285.64
+Staked: 731309.2873 fUNI-V2 ($410,616.49)
+FARM Per Week: 4.46 ($1,074.51)
+APR: Day 0.04% Week 0.26% Year 13.61%
+You are staking 0.00 fUNI-V2 ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 fUNI-V2
+Unstake 0.000000 fUNI-V2
+Claim 0.000000 FARM
+Exit
+
+
+Wrapped 
+[BASv2]-[DAI] Uni LP
+ Price: $6.97 TVL: $47,014.29
+Staked: 4475.4218 fUNI-V2 ($31,214.02)
+FARM Per Week: 0.37 ($89.89)
+APR: Day 0.04% Week 0.29% Year 14.98%
+You are staking 0.00 fUNI-V2 ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 fUNI-V2
+Unstake 0.000000 fUNI-V2
+Claim 0.000000 FARM
+Exit
+
+
+Wrapped 
+[MIC]-[USDT] SLP
+ Price: $711,361.28 TVL: $608,858.31
+Staked: 0.7380 fSLP ($524,954.41)
+FARM Per Week: 24.08 ($5,799.23)
+APR: Day 0.16% Week 1.10% Year 57.45%
+You are staking 0.00 fSLP ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 fSLP
+Unstake 0.000000 fSLP
+Claim 0.000000 FARM
+Exit
+
+
+Wrapped 
+[MIS]-[USDT] SLP
+ Price: $4,176,447.86 TVL: $67,690.37
+Staked: 0.0130 fSLP ($54,469.97)
+FARM Per Week: 13.05 ($3,141.67)
+APR: Day 0.82% Week 5.77% Year 299.92%
+You are staking 0.00 fSLP ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 fSLP
+Unstake 0.000000 fSLP
+Claim 0.000000 FARM
+Exit
+
+
+fhCRV Price: $0.00 TVL: $0.00
+Staked: 214.5392 fhCRV ($0.00)
+FARM Per Week: 13.17 ($3,170.43)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 fhCRV ($0.00), NaN% of the pool.
+Staking Contract
+Stake 0.000000 fhCRV
+Unstake 0.000000 fhCRV
+Claim 0.000000 FARM
+Exit
+
+
+foBTC/sbtcCRV Price: $52,051.54 TVL: $9,024,511.70
+Staked: 160.0751 foBTC/sbtcCRV ($8,332,155.34)
+FARM Per Week: 21.27 ($5,121.47)
+APR: Day 0.01% Week 0.06% Year 3.20%
+You are staking 0.00 foBTC/sbtcCRV ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 foBTC/sbtcCRV
+Unstake 0.000000 foBTC/sbtcCRV
+Claim 0.000000 FARM
+Exit
+
+
+ftbtc/sbtcCrv Price: $52,302.56 TVL: $103,664.46
+Staked: 1.9339 ftbtc/sbtcCrv ($101,150.54)
+FARM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ftbtc/sbtcCrv ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 ftbtc/sbtcCrv
+Unstake 0.000000 ftbtc/sbtcCrv
+Claim 0.000000 FARM
+Exit
+
+
+fcrvRenWBTC Price: $51,890.78 TVL: $32,342,307.31
+Staked: 612.4074 fcrvRenWBTC ($31,778,293.07)
+FARM Per Week: 24.31 ($5,853.10)
+APR: Day 0.00% Week 0.02% Year 0.96%
+You are staking 0.00 fcrvRenWBTC ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 fcrvRenWBTC
+Unstake 0.000000 fcrvRenWBTC
+Claim 0.000000 FARM
+Exit
+
+
+fWBTC Price: $50,840.49 TVL: $580,316.00
+Staked: 8.6533 fWBTC ($439,939.52)
+FARM Per Week: 0.61 ($146.32)
+APR: Day 0.00% Week 0.03% Year 1.73%
+You are staking 0.00 fWBTC ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 fWBTC
+Unstake 0.000000 fWBTC
+Claim 0.000000 FARM
+Exit
+
+
+frenBTC Price: $50,229.88 TVL: $120,855.36
+Staked: 2.3888 frenBTC ($119,987.00)
+FARM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 frenBTC ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 frenBTC
+Unstake 0.000000 frenBTC
+Claim 0.000000 FARM
+Exit
+
+
+Wrapped 
+[DAI]-[WETH] SLP
+ Price: $170.43 TVL: $19,116,603.10
+Staked: 100220.6820 fSLP ($17,080,704.25)
+FARM Per Week: 27.55 ($6,633.52)
+APR: Day 0.01% Week 0.04% Year 2.02%
+You are staking 0.00 fSLP ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 fSLP
+Unstake 0.000000 fSLP
+Claim 0.000000 FARM
+Exit
+
+
+Wrapped 
+[USDC]-[WETH] SLP
+ Price: $181,720,365.89 TVL: $8,947,113.10
+Staked: 0.0448 fSLP ($8,136,447.40)
+FARM Per Week: 19.24 ($4,633.71)
+APR: Day 0.01% Week 0.06% Year 2.96%
+You are staking 0.00 fSLP ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 fSLP
+Unstake 0.000000 fSLP
+Claim 0.000000 FARM
+Exit
+
+
+Wrapped 
+[WETH]-[USDT] SLP
+ Price: $180,679,558.75 TVL: $23,459,396.24
+Staked: 0.1167 fSLP ($21,092,035.04)
+FARM Per Week: 43.55 ($10,486.82)
+APR: Day 0.01% Week 0.05% Year 2.59%
+You are staking 0.00 fSLP ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 fSLP
+Unstake 0.000000 fSLP
+Claim 0.000000 FARM
+Exit
+
+
+Wrapped 
+[WBTC]-[WETH] SLP
+ Price: $66,494,411,217.99 TVL: $9,594,651.79
+Staked: 0.0001 fSLP ($9,083,078.24)
+FARM Per Week: 10.53 ($2,536.36)
+APR: Day 0.00% Week 0.03% Year 1.45%
+You are staking 0.00 fSLP ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 fSLP
+Unstake 0.000000 fSLP
+Claim 0.000000 FARM
+Exit
+

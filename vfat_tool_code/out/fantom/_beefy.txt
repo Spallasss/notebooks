@@ -1,0 +1,183 @@
+INFO  : https://fantom.beefy.finance
+**********************************************************************************
+
+Mon Aug 23 2021 13:18:44 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+mooFroyo3Pool Price: $0.00 TVL: $0.00
+You are staking 0.0000 mooFroyo3Pool ($0.00), NaN% of the pool.
+Wrapped 
+[WFTM]-[FROYO] SLP
+ Price: $0.02 TVL: $3,742.92
+You are staking 0.0000 Wrapped 
+[WFTM]-[FROYO] SLP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[LINK] SPOOKY LP
+ Price: $10.49 TVL: $900,967.47
+You are staking 0.0000 Wrapped 
+[WFTM]-[LINK] SPOOKY LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[COVER] SPOOKY LP
+ Price: $34.94 TVL: $4,009.90
+You are staking 0.0000 Wrapped 
+[WFTM]-[COVER] SPOOKY LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[CREAM] SPOOKY LP
+ Price: $12.96 TVL: $177,285.89
+You are staking 0.0000 Wrapped 
+[WFTM]-[CREAM] SPOOKY LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[SNX] SPOOKY LP
+ Price: $7.66 TVL: $346,861.92
+You are staking 0.0000 Wrapped 
+[WFTM]-[SNX] SPOOKY LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[YFI] SPOOKY LP
+ Price: $NaN.N TVL: $NaN.N
+You are staking 0.0000 Wrapped 
+[WFTM]-[YFI] SPOOKY LP
+ ($0.00), NaN% of the pool.
+Wrapped 
+[fUSDT]-[WFTM] SPOOKY LP
+ Price: $2,110,257.72 TVL: $1,134,798.80
+You are staking 0.0000 Wrapped 
+[fUSDT]-[WFTM] SPOOKY LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[BTC] SPOOKY LP
+ Price: $7,967,227,587.67 TVL: $2,398,584.12
+You are staking 0.0000 Wrapped 
+[WFTM]-[BTC] SPOOKY LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[ETH] SPOOKY LP
+ Price: $107.96 TVL: $901,588.60
+You are staking 0.0000 Wrapped 
+[WFTM]-[ETH] SPOOKY LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[AAVE] SPOOKY LP
+ Price: $39.77 TVL: $977,492.87
+You are staking 0.0000 Wrapped 
+[WFTM]-[AAVE] SPOOKY LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[CRV]-[WFTM] SPOOKY LP
+ Price: $3.34 TVL: $390,471.94
+You are staking 0.0000 Wrapped 
+[CRV]-[WFTM] SPOOKY LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[BOO] SPOOKY LP
+ Price: $8.20 TVL: $8,672,012.52
+You are staking 0.0000 Wrapped 
+[WFTM]-[BOO] SPOOKY LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[USDC]-[WFTM] SPOOKY LP
+ Price: $2,236,939.44 TVL: $1,727,339.65
+You are staking 0.0000 Wrapped 
+[USDC]-[WFTM] SPOOKY LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[EST]-[WFTM] SPIRIT LP
+ Price: $0.35 TVL: $12,651.02
+You are staking 0.0000 Wrapped 
+[EST]-[WFTM] SPIRIT LP
+ ($0.00), 0.00% of the pool.
+mooFantomBIFI Price: $0.00 TVL: $0.00
+You are staking 0.0000 mooFantomBIFI ($0.00), NaN% of the pool.
+mooCurveRenBTC Price: $0.00 TVL: $0.00
+You are staking 0.0000 mooCurveRenBTC ($0.00), NaN% of the pool.
+Wrapped 
+[WFTM]-[TOMB] SPOOKY LP
+ Price: $8.64 TVL: $15,956,257.57
+You are staking 0.0000 Wrapped 
+[WFTM]-[TOMB] SPOOKY LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[ANY] SPOOKY LP
+ Price: $3.07 TVL: $845,553.41
+You are staking 0.0000 Wrapped 
+[WFTM]-[ANY] SPOOKY LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[TSHARE] SPOOKY LP
+ Price: $305.79 TVL: $5,218,364.41
+You are staking 0.0000 Wrapped 
+[WFTM]-[TSHARE] SPOOKY LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[DAI] SPOOKY LP
+ Price: $1.94 TVL: $971,257.20
+You are staking 0.0000 Wrapped 
+[WFTM]-[DAI] SPOOKY LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[WOOFY] SPOOKY LP
+ Price: $372.24 TVL: $134,734.13
+You are staking 0.0000 Wrapped 
+[WFTM]-[WOOFY] SPOOKY LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[BIFI] SPOOKY LP
+ Price: $66.29 TVL: $577,390.45
+You are staking 0.0000 Wrapped 
+[WFTM]-[BIFI] SPOOKY LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[BNB] SPOOKY LP
+ Price: $41.66 TVL: $807,212.74
+You are staking 0.0000 Wrapped 
+[WFTM]-[BNB] SPOOKY LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[SUSHI] SPOOKY LP
+ Price: $6.40 TVL: $529,954.48
+You are staking 0.0000 Wrapped 
+[WFTM]-[SUSHI] SPOOKY LP
+ ($0.00), 0.00% of the pool.
+mooBooBOO Price: $13.93 TVL: $1,034,470.73
+You are staking 0.0000 mooBooBOO ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[BADGER] SPOOKY LP
+ Price: $8.49 TVL: $177,394.61
+You are staking 0.0000 Wrapped 
+[WFTM]-[BADGER] SPOOKY LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[BAND] SPOOKY LP
+ Price: $5.41 TVL: $141,546.68
+You are staking 0.0000 Wrapped 
+[WFTM]-[BAND] SPOOKY LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[ICE] SPOOKY LP
+ Price: $2.60 TVL: $149,828.28
+You are staking 0.0000 Wrapped 
+[WFTM]-[ICE] SPOOKY LP
+ ($0.00), 0.00% of the pool.
+mooCurveFUSDT Price: $0.00 TVL: $0.00
+You are staking 0.0000 mooCurveFUSDT ($0.00), NaN% of the pool.
+Wrapped 
+[WFTM]-[MIM] SPOOKY LP
+ Price: $1.69 TVL: $15,618.89
+You are staking 0.0000 Wrapped 
+[WFTM]-[MIM] SPOOKY LP
+ ($0.00), 0.00% of the pool.
+mooEsterEST Price: $0.00 TVL: $0.00
+You are staking 0.0000 mooEsterEST ($0.00), NaN% of the pool.
+mooCurve2Pool Price: $0.00 TVL: $0.00
+You are staking 0.0000 mooCurve2Pool ($0.00), NaN% of the pool.
+
+Total Value Locked: $NaN.N

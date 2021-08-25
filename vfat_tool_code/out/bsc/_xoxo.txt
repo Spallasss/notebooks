@@ -1,0 +1,190 @@
+INFO  : https://xoxo.finance
+*********************************************************************************
+
+Mon Aug 23 2021 13:38:07 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized' 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 9 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,874.10 TVL: $1,947,874.02
+BTCB Price: $50,236.00
+WBNB Price: $481.29
+Staked: 0.0945 Cake-LP ($1,027.80)
+XOXO Per Week: 347586.21 ($0.42)
+APR: Day 0.01% Week 0.04% Year 2.12%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 XOXO ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.13 TVL: $4,006,156.39
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 99.1570 Cake-LP ($211.69)
+XOXO Per Week: 1737931.03 ($2.09)
+APR: Day 0.14% Week 0.99% Year 51.45%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 XOXO ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,848.66 TVL: $3,506,167.56
+ETH Price: $3,319.68
+WBNB Price: $481.29
+Staked: 0.0008 Cake-LP ($2.32)
+XOXO Per Week: 1737931.03 ($2.09)
+APR: Day 12.88% Week 90.18% Year 4689.15%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 XOXO ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[AUTO]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,732.93 TVL: $29,685,215.35
+AUTO Price: $1,420.07
+WBNB Price: $481.29
+Staked: 0.0012 Cake-LP ($2.09)
+XOXO Per Week: 1737931.03 ($2.09)
+APR: Day 14.32% Week 100.25% Year 5212.81%
+You are staking 0.00 [AUTO]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AUTO]-[WBNB] Cake LP
+Unstake 0.00 [AUTO]-[WBNB] Cake LP
+Claim 0.00 XOXO ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WBNB]-[LINK] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $250.39 TVL: $106,879.76
+WBNB Price: $481.29
+LINK Price: $28.69
+Staked: 0.4356 Cake-LP ($109.08)
+XOXO Per Week: 1737931.03 ($2.09)
+APR: Day 0.27% Week 1.92% Year 99.84%
+You are staking 0.00 [WBNB]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LINK] Cake LP
+Unstake 0.00 [WBNB]-[LINK] Cake LP
+Claim 0.00 XOXO ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[BDO]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.49 TVL: $242,997.26
+BDO Price: $0.05
+BUSD Price: $1.00
+Staked: 88.6401 Cake-LP ($43.30)
+XOXO Per Week: 1737931.03 ($2.09)
+APR: Day 0.69% Week 4.84% Year 251.53%
+You are staking 0.00 [BDO]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BDO]-[BUSD] Cake LP
+Unstake 0.00 [BDO]-[BUSD] Cake LP
+Claim 0.00 XOXO ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[WBNB]-[XOXO] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.06 TVL: $103.61
+WBNB Price: $481.29
+XOXO Price: $0.0000012051
+Staked: 1386.1633 Cake-LP ($79.55)
+XOXO Per Week: 5213793.10 ($6.28)
+APR: Day 1.13% Week 7.90% Year 410.68%
+You are staking 0.00 [WBNB]-[XOXO] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[XOXO] Cake LP
+Unstake 0.00 [WBNB]-[XOXO] Cake LP
+Claim 0.00 XOXO ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[XOXO]-[sXOXO] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $29.64
+XOXO Price: $0.0000012051
+sXOXO Price: $0.0000087158
+Staked: 1316089.6871 Cake-LP ($28.30)
+XOXO Per Week: 5213793.10 ($6.28)
+APR: Day 3.17% Week 22.20% Year 1154.65%
+You are staking 0.00 [XOXO]-[sXOXO] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XOXO]-[sXOXO] Cake LP
+Unstake 0.00 [XOXO]-[sXOXO] Cake LP
+Claim 0.00 XOXO ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[XOXO]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $19.52
+XOXO Price: $0.0000012051
+BUSD Price: $1.00
+Staked: 6672.7915 Cake-LP ($18.81)
+XOXO Per Week: 695172.41 ($0.84)
+APR: Day 0.64% Week 4.45% Year 231.55%
+You are staking 0.00 [XOXO]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XOXO]-[BUSD] Cake LP
+Unstake 0.00 [XOXO]-[BUSD] Cake LP
+Claim 0.00 XOXO ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,522.94

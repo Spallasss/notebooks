@@ -1,0 +1,136 @@
+INFO  : https://www.moonwolf.io
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:23:29 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 9 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+WOLF
+ Price: $0.0000035227 Market Cap: $3,522,726.26 
+[%]
+Staked: 67559796482.8106 WOLF ($237,994.67)
+MOON Per Week: 21261.74 ($3,248.88)
+APR: Day 0.20% Week 1.37% Year 70.99%
+You are staking 0.00 WOLF ($0.00), 0.00% of the pool.
+Stake 0.00 WOLF - Fee 2%
+Unstake 0.00 WOLF
+Claim 0.00 MOON ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+MOON
+ Price: $0.15 Market Cap: $75,033.40 
+[%]
+Staked: 143371.5926 MOON ($21,907.75)
+MOON Per Week: 1932.89 ($295.35)
+APR: Day 0.19% Week 1.35% Year 70.10%
+You are staking 0.00 MOON ($0.00), 0.00% of the pool.
+Stake 0.00 MOON - Fee 10%
+Unstake 0.00 MOON
+Claim 0.00 MOON ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[USDC]-[MOON] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $813,718.70 TVL: $35,108.82
+USDC Price: $1.00
+MOON Price: $0.15
+Staked: 0.0157 UNI-V2 ($12,757.58)
+MOON Per Week: 2577.18 ($393.80)
+APR: Day 0.44% Week 3.09% Year 160.51%
+You are staking 0.00 [USDC]-[MOON] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[MOON] Uni LP
+Unstake 0.00 [USDC]-[MOON] Uni LP
+Claim 0.00 MOON ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[WOLF] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $407,434,048.42 TVL: $105,709.52
+USDC Price: $1.00
+WOLF Price: $0.0000035227
+Staked: 0.0000 UNI-V2 ($12,580.61)
+MOON Per Week: 1159.73 ($177.21)
+APR: Day 0.20% Week 1.41% Year 73.25%
+You are staking 0.00 [USDC]-[WOLF] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WOLF] Uni LP
+Unstake 0.00 [USDC]-[WOLF] Uni LP
+Claim 0.00 MOON ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+LINK
+ Price: $28.77 Market Cap: $65,285,861.06 
+[%]
+Staked: 301.1775 LINK ($8,664.88)
+MOON Per Week: 515.44 ($78.76)
+APR: Day 0.13% Week 0.91% Year 47.27%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 MOON ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+AAVE
+ Price: $410.52 Market Cap: $156,274,529.58 
+[%]
+Staked: 11.7055 AAVE ($4,805.35)
+MOON Per Week: 386.58 ($59.07)
+APR: Day 0.18% Week 1.23% Year 63.92%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 MOON ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+CEL
+ Price: $0.00 Market Cap: $0.00 
+Staked: 4172.8712 CEL ($0.00)
+MOON Per Week: 193.29 ($29.54)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CEL ($0.00), NaN% of the pool.
+Stake 0.00 CEL - Fee 4%
+Unstake 0.00 CEL
+Claim 0.00 MOON ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[USDC]-[WOLF] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $123,938,245.18 TVL: $21,208.83
+USDC Price: $1.00
+WOLF Price: $0.0000035227
+Staked: 0.0001 SLP ($8,140.75)
+MOON Per Week: 773.15 ($118.14)
+APR: Day 0.21% Week 1.45% Year 75.46%
+You are staking 0.00 [USDC]-[WOLF] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WOLF] SLP
+Unstake 0.00 [USDC]-[WOLF] SLP
+Claim 0.00 MOON ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $306,851.58

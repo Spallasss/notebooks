@@ -1,0 +1,294 @@
+INFO  : https://goatswap.finance
+****************************************************************************************
+
+Mon Aug 23 2021 14:10:21 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 16 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[GOAT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.10 TVL: $4,789.77
+GOAT Price: $0.002204
+BUSD Price: $1.00
+Staked: 32580.1178 Cake-LP ($3,234.35)
+GOAT Per Week: 52705.88 ($116.14)
+APR: Day 0.51% Week 3.59% Year 186.72%
+You are staking 0.00 [GOAT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GOAT]-[BUSD] Cake LP
+Unstake 0.00 [GOAT]-[BUSD] Cake LP
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[GOAT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.20 TVL: $3,878.22
+GOAT Price: $0.002204
+WBNB Price: $485.10
+Staked: 1101.0501 Cake-LP ($2,427.67)
+GOAT Per Week: 31623.53 ($69.68)
+APR: Day 0.41% Week 2.87% Year 149.26%
+You are staking 0.00 [GOAT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GOAT]-[WBNB] Cake LP
+Unstake 0.00 [GOAT]-[WBNB] Cake LP
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,864.22 TVL: $3,525,323.44
+ETH Price: $3,329.69
+WBNB Price: $485.10
+Staked: 0.3031 Cake-LP ($868.00)
+GOAT Per Week: 7905.88 ($17.42)
+APR: Day 0.29% Week 2.01% Year 104.36%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.59 TVL: $3,333,110.22
+WBNB Price: $485.10
+BUSD Price: $1.00
+Staked: 9.7187 Cake-LP ($627.75)
+GOAT Per Week: 6588.24 ($14.52)
+APR: Day 0.33% Week 2.31% Year 120.25%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $2,586,243.36
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 137.0529 Cake-LP ($280.47)
+GOAT Per Week: 5270.59 ($11.61)
+APR: Day 0.59% Week 4.14% Year 215.33%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.13 TVL: $4,006,000.17
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 158.3945 Cake-LP ($338.14)
+GOAT Per Week: 5270.59 ($11.61)
+APR: Day 0.49% Week 3.43% Year 178.60%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+GOAT
+ Price: $0.00 Market Cap: $0.00 
+Staked: 4224.0147 GOAT ($0.00)
+GOAT Per Week: 13176.47 ($29.03)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 GOAT ($0.00), NaN% of the pool.
+Stake 0.00 GOAT
+Unstake 0.00 GOAT
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[Cake]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $15.68 TVL: $180,106.08
+Cake Price: $25.00
+BUSD Price: $1.00
+Staked: 149.4925 Cake-LP ($2,343.45)
+GOAT Per Week: 2635.29 ($5.81)
+APR: Day 0.04% Week 0.25% Year 12.89%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $260.99 TVL: $8,051,397.02
+Cake Price: $25.00
+WBNB Price: $485.10
+Staked: 1.4748 Cake-LP ($384.92)
+GOAT Per Week: 2635.29 ($5.81)
+APR: Day 0.22% Week 1.51% Year 78.45%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[GOAT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.10 TVL: $4,789.77
+GOAT Price: $0.002204
+BUSD Price: $1.00
+Staked: 32580.1178 Cake-LP ($3,234.35)
+GOAT Per Week: 13176.47 ($29.03)
+APR: Day 0.13% Week 0.90% Year 46.68%
+You are staking 0.00 [GOAT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GOAT]-[BUSD] Cake LP
+Unstake 0.00 [GOAT]-[BUSD] Cake LP
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+GOAT
+ Price: $0.002204 Market Cap: $10,908.61 
+[%]
+Staked: 2301331.4562 GOAT ($5,071.04)
+GOAT Per Week: 13176.47 ($29.03)
+APR: Day 0.08% Week 0.57% Year 29.77%
+You are staking 0.00 GOAT ($0.00), 0.00% of the pool.
+Stake 0.00 GOAT
+Unstake 0.00 GOAT
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $252.44 TVL: $673,806.52
+DOT Price: $28.01
+WBNB Price: $485.10
+Staked: 7.7037 Cake-LP ($1,944.75)
+GOAT Per Week: 7905.88 ($17.42)
+APR: Day 0.13% Week 0.90% Year 46.58%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.13 TVL: $4,006,000.17
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 158.3945 Cake-LP ($338.14)
+GOAT Per Week: 5270.59 ($11.61)
+APR: Day 0.49% Week 3.43% Year 178.60%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+GOAT
+ Price: $0.002204 Market Cap: $10,908.61 
+[%]
+Staked: 2301331.4562 GOAT ($5,071.04)
+GOAT Per Week: 13176.47 ($29.03)
+APR: Day 0.08% Week 0.57% Year 29.77%
+You are staking 0.00 GOAT ($0.00), 0.00% of the pool.
+Stake 0.00 GOAT
+Unstake 0.00 GOAT
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+GOAT
+ Price: $0.002204 Market Cap: $10,908.61 
+[%]
+Staked: 2301331.4562 GOAT ($5,071.04)
+GOAT Per Week: 13176.47 ($29.03)
+APR: Day 0.08% Week 0.57% Year 29.77%
+You are staking 0.00 GOAT ($0.00), 0.00% of the pool.
+Stake 0.00 GOAT
+Unstake 0.00 GOAT
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,905.95 TVL: $1,953,579.35
+BTCB Price: $50,135.00
+WBNB Price: $485.10
+Staked: 0.1478 Cake-LP ($1,611.43)
+GOAT Per Week: 7905.88 ($17.42)
+APR: Day 0.15% Week 1.08% Year 56.22%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $32,846.55

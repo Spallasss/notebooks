@@ -1,0 +1,197 @@
+INFO  : https://eleven.finance
+***********************************************************************************
+
+Mon Aug 23 2021 13:59:50 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 227 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+102 - 
+DUMMY
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 DUMMY ($0.00)
+ELE Per Week: 16660.49 ($24,395.15)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DUMMY ($0.00), NaN% of the pool.
+Stake 0.00 DUMMY
+Unstake 0.00 DUMMY
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+104 - 
+[ELE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $55.27 TVL: $1,082,397.98
+ELE Price: $1.46
+WBNB Price: $483.59
+Staked: 19555.3206 Cake-LP ($1,080,867.63)
+ELE Per Week: 11106.99 ($16,263.43)
+APR: Day 0.21% Week 1.50% Year 78.24%
+You are staking 0.00 [ELE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ELE]-[WBNB] Cake LP
+Unstake 0.00 [ELE]-[WBNB] Cake LP
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+224 - 
+DUMMY
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 DUMMY ($0.00)
+ELE Per Week: 15734.90 ($23,039.86)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DUMMY ($0.00), NaN% of the pool.
+Stake 0.00 DUMMY
+Unstake 0.00 DUMMY
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+226 - 
+DUMMY
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 DUMMY ($0.00)
+ELE Per Week: 4442.80 ($6,505.37)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DUMMY ($0.00), NaN% of the pool.
+Stake 0.00 DUMMY
+Unstake 0.00 DUMMY
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,080,867.63
+11 Nerve Nerve Price: $2.58 TVL: $281,921.28
+You are staking 0.0000 11 Nerve Nerve ($0.00), 0.00% of the pool.
+11 nrvETH Nerve Price: $0.00 TVL: $0.00
+You are staking 0.0000 11 nrvETH Nerve ($0.00), NaN% of the pool.
+11 nrvBTC Nerve Price: $0.00 TVL: $0.00
+You are staking 0.0000 11 nrvBTC Nerve ($0.00), 0.00% of the pool.
+Wrapped 
+[NRV]-[BUSD] Cake LP
+ Price: $0.00 TVL: $0.00
+You are staking 0.0000 Wrapped 
+[NRV]-[BUSD] Cake LP
+ ($0.00), 0.00% of the pool.
+11 pool3 Nerve Price: $0.00 TVL: $0.00
+You are staking 0.0000 11 pool3 Nerve ($0.00), 0.00% of the pool.
+Wrapped 
+[NRV]-[WBNB] Cake LP
+ Price: $120.09 TVL: $166,953.36
+You are staking 0.0000 Wrapped 
+[NRV]-[WBNB] Cake LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WEX]-[WBNB] Uni LP
+ Price: $15.94 TVL: $8,272,962.17
+You are staking 0.0000 Wrapped 
+[WEX]-[WBNB] Uni LP
+ ($0.00), 0.00% of the pool.
+11WEX Price: $0.00 TVL: $0.00
+You are staking 0.0000 11WEX ($0.00), NaN% of the pool.
+Wrapped 
+[WAULTx]-[WBNB] Uni LP
+ Price: $13.76 TVL: $1,869,374.85
+You are staking 0.0000 Wrapped 
+[WAULTx]-[WBNB] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WBNB]-[BUSD] Uni LP
+ Price: $57.59 TVL: $521,584.27
+You are staking 0.0000 Wrapped 
+[WBNB]-[BUSD] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[Cake]-[WBNB] Uni LP
+ Price: $286.94 TVL: $242,346.99
+You are staking 0.0000 Wrapped 
+[Cake]-[WBNB] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[BTCB]-[WBNB] Uni LP
+ Price: $11,258.41 TVL: $37,664.62
+You are staking 0.0000 Wrapped 
+[BTCB]-[WBNB] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[ETH]-[WBNB] Uni LP
+ Price: $2,889.35 TVL: $23,279.92
+You are staking 0.0000 Wrapped 
+[ETH]-[WBNB] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[VAI]-[WBNB] Uni LP
+ Price: $56.84 TVL: $982.23
+You are staking 0.0000 Wrapped 
+[VAI]-[WBNB] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[USDT]-[WBNB] Uni LP
+ Price: $57.66 TVL: $306,284.94
+You are staking 0.0000 Wrapped 
+[USDT]-[WBNB] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[USDC]-[WBNB] Uni LP
+ Price: $60.01 TVL: $4,824.26
+You are staking 0.0000 Wrapped 
+[USDC]-[WBNB] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[DOT]-[WBNB] Uni LP
+ Price: $277.81 TVL: $21,933.21
+You are staking 0.0000 Wrapped 
+[DOT]-[WBNB] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WBNB]-[LINK] Uni LP
+ Price: $286.58 TVL: $309,769.21
+You are staking 0.0000 Wrapped 
+[WBNB]-[LINK] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[DOGE]-[WBNB] Uni LP
+ Price: $3,255,281.28 TVL: $82,768.16
+You are staking 0.0000 Wrapped 
+[DOGE]-[WBNB] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[SWIRL]-[WBNB] Uni LP
+ Price: $51.07 TVL: $310,589.49
+You are staking 0.0000 Wrapped 
+[SWIRL]-[WBNB] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[USDT]-[WBNB] Cake LP
+ Price: $52.17 TVL: $17,165.50
+You are staking 0.0000 Wrapped 
+[USDT]-[WBNB] Cake LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[BOR]-[WBNB] Cake LP
+ Price: $2,711.61 TVL: $13.21
+You are staking 0.0000 Wrapped 
+[BOR]-[WBNB] Cake LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[EULER]-[WBNB] Cake LP
+ Price: $16.87 TVL: $3,909.63
+You are staking 0.0000 Wrapped 
+[EULER]-[WBNB] Cake LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[SWIRL]-[WBNB] Cake LP
+ Price: $73.81 TVL: $17,651.99
+You are staking 0.0000 Wrapped 
+[SWIRL]-[WBNB] Cake LP
+ ($0.00), 0.00% of the pool.
+
+Total Value Locked: $12,491,979.29

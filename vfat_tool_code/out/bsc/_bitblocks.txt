@@ -1,0 +1,667 @@
+INFO  : https://bitblocks.finance
+****************************************************************************************
+
+Mon Aug 23 2021 14:10:30 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 56 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+9 - 
+BBKFI
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1432517.2542 BBKFI ($0.00)
+BBKFI Per Week: 10534.46 ($348.83)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BBKFI ($0.00), NaN% of the pool.
+Stake 0.00 BBKFI
+Unstake 0.00 BBKFI
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+BTCB
+ Price: $50,135.00 Market Cap: $4,286,592,635.00 
+[%]
+Staked: 0.2805 BTCB ($14,064.86)
+BBKFI Per Week: 842.76 ($27.91)
+APR: Day 0.03% Week 0.20% Year 10.32%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+ETH
+ Price: $3,329.69 Market Cap: $4,345,245,450.00 
+[%]
+Staked: 3.8394 ETH ($12,783.98)
+BBKFI Per Week: 842.76 ($27.91)
+APR: Day 0.03% Week 0.22% Year 11.35%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+BUSD
+ Price: $1.00 Market Cap: $4,198,411,584.37 
+[%]
+Staked: 4234.0210 BUSD ($4,231.41)
+BBKFI Per Week: 842.76 ($27.91)
+APR: Day 0.09% Week 0.66% Year 34.29%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+WBNB
+ Price: $485.10 Market Cap: $3,437,723,435.65 
+[%]
+Staked: 14.6144 WBNB ($7,089.46)
+BBKFI Per Week: 1264.13 ($41.86)
+APR: Day 0.08% Week 0.59% Year 30.70%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+WBBK
+ Price: $0.00 Market Cap: $0.00 
+Staked: 9579919.2539 WBBK ($0.00)
+BBKFI Per Week: 2106.89 ($69.77)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WBBK ($0.00), NaN% of the pool.
+Stake 0.00 WBBK - Fee 4%
+Unstake 0.00 WBBK
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[SAFEMOON]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $21,293.24 TVL: $66,434,397.21
+SAFEMOON Price: $0.0000020221
+WBNB Price: $485.10
+Staked: 0.0250 Cake-LP ($532.64)
+BBKFI Per Week: 421.38 ($13.95)
+APR: Day 0.37% Week 2.62% Year 136.22%
+You are staking 0.00 [SAFEMOON]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SAFEMOON]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [SAFEMOON]-[WBNB] Cake LP
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[SAFEMOON]-[BBKFI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $23.99 TVL: $1,066.43
+SAFEMOON Price: $0.0000020221
+BBKFI Price: $0.03
+Staked: 41.1929 Cake-LP ($988.02)
+BBKFI Per Week: 632.07 ($20.93)
+APR: Day 0.30% Week 2.12% Year 110.15%
+You are staking 0.00 [SAFEMOON]-[BBKFI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SAFEMOON]-[BBKFI] Cake LP
+Unstake 0.00 [SAFEMOON]-[BBKFI] Cake LP
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[REAU]-[BBKFI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.05 TVL: $637.52
+REAU Price: $0.0000000050
+BBKFI Price: $0.03
+Staked: 601.6129 Cake-LP ($628.87)
+BBKFI Per Week: 632.07 ($20.93)
+APR: Day 0.48% Week 3.33% Year 173.06%
+You are staking 0.00 [REAU]-[BBKFI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [REAU]-[BBKFI] Cake LP
+Unstake 0.00 [REAU]-[BBKFI] Cake LP
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+[WLQX]-[BBKFI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $2,639.18
+WLQX Price: $0.003864
+BBKFI Price: $0.03
+Staked: 113130.8673 Cake-LP ($2,600.41)
+BBKFI Per Week: 1264.13 ($41.86)
+APR: Day 0.23% Week 1.61% Year 83.71%
+You are staking 0.00 [WLQX]-[BBKFI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WLQX]-[BBKFI] Cake LP
+Unstake 0.00 [WLQX]-[BBKFI] Cake LP
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+[WBBK]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.71 TVL: $4,853.57
+WBBK Price: $0.001405
+WBNB Price: $485.10
+Staked: 2834.8877 Cake-LP ($4,840.27)
+BBKFI Per Week: 1685.51 ($55.81)
+APR: Day 0.16% Week 1.15% Year 59.96%
+You are staking 0.00 [WBBK]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBBK]-[WBNB] Cake LP
+Unstake 0.00 [WBBK]-[WBNB] Cake LP
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+[WBBK]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.08 TVL: $2,675.82
+WBBK Price: $0.001405
+BUSD Price: $1.00
+Staked: 34517.2129 Cake-LP ($2,670.37)
+BBKFI Per Week: 1685.51 ($55.81)
+APR: Day 0.30% Week 2.09% Year 108.68%
+You are staking 0.00 [WBBK]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBBK]-[BUSD] Cake LP
+Unstake 0.00 [WBBK]-[BUSD] Cake LP
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+[WBBK]-[BBKFI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $23,079.21
+WBBK Price: $0.001405
+BBKFI Price: $0.03
+Staked: 1653305.8368 Cake-LP ($22,981.23)
+BBKFI Per Week: 10534.46 ($348.83)
+APR: Day 0.22% Week 1.52% Year 78.93%
+You are staking 0.00 [WBBK]-[BBKFI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBBK]-[BBKFI] Cake LP
+Unstake 0.00 [WBBK]-[BBKFI] Cake LP
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+[BUSD]-[BBKFI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.38 TVL: $23,998.72
+BUSD Price: $1.00
+BBKFI Price: $0.03
+Staked: 63002.9431 Cake-LP ($23,833.07)
+BBKFI Per Week: 21068.91 ($697.66)
+APR: Day 0.42% Week 2.93% Year 152.22%
+You are staking 0.00 [BUSD]-[BBKFI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[BBKFI] Cake LP
+Unstake 0.00 [BUSD]-[BBKFI] Cake LP
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+[WBNB]-[BBKFI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8.53 TVL: $63,989.27
+WBNB Price: $485.10
+BBKFI Price: $0.03
+Staked: 7474.5523 Cake-LP ($63,768.52)
+BBKFI Per Week: 42137.83 ($1,395.32)
+APR: Day 0.31% Week 2.19% Year 113.78%
+You are staking 0.00 [WBNB]-[BBKFI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BBKFI] Cake LP
+Unstake 0.00 [WBNB]-[BBKFI] Cake LP
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+Cake
+ Price: $25.00 Market Cap: $10,402,952,405.78 
+[%]
+Staked: 133.1319 Cake ($3,328.30)
+BBKFI Per Week: 1264.13 ($41.86)
+APR: Day 0.18% Week 1.26% Year 65.40%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+33 - 
+[Cake]-[BBKFI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.85 TVL: $2,214.55
+Cake Price: $25.00
+BBKFI Price: $0.03
+Staked: 1185.9900 Cake-LP ($2,197.87)
+BBKFI Per Week: 1685.51 ($55.81)
+APR: Day 0.36% Week 2.54% Year 132.05%
+You are staking 0.00 [Cake]-[BBKFI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BBKFI] Cake LP
+Unstake 0.00 [Cake]-[BBKFI] Cake LP
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+34 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $225.19 TVL: $1,030,668,224.34
+Cake Price: $25.00
+WBNB Price: $485.10
+Staked: 16.7530 Cake-LP ($3,772.58)
+BBKFI Per Week: 1685.51 ($55.81)
+APR: Day 0.21% Week 1.48% Year 76.93%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+36 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,241.77 TVL: $172,179,719.35
+BTCB Price: $50,135.00
+WBNB Price: $485.10
+Staked: 0.5410 Cake-LP ($5,541.09)
+BBKFI Per Week: 1685.51 ($55.81)
+APR: Day 0.14% Week 1.01% Year 52.38%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+37 - 
+[REAU]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $494.70 TVL: $1,819.68
+REAU Price: $0.0000000050
+WBNB Price: $485.10
+Staked: 1.0099 Cake-LP ($499.59)
+BBKFI Per Week: 421.38 ($13.95)
+APR: Day 0.40% Week 2.79% Year 145.23%
+You are staking 0.00 [REAU]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [REAU]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [REAU]-[WBNB] Cake LP
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+38 - 
+[DOGE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,764,812.50 TVL: $26,004,849.38
+DOGE Price: $0.32
+WBNB Price: $485.10
+Staked: 0.0003 Cake-LP ($905.95)
+BBKFI Per Week: 842.76 ($27.91)
+APR: Day 0.44% Week 3.08% Year 160.18%
+You are staking 0.00 [DOGE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOGE]-[WBNB] Cake LP
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+39 - 
+[DOGE]-[BBKFI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $20,770.49 TVL: $1,252.25
+DOGE Price: $0.32
+BBKFI Price: $0.03
+Staked: 0.0601 Cake-LP ($1,248.52)
+BBKFI Per Week: 842.76 ($27.91)
+APR: Day 0.32% Week 2.24% Year 116.23%
+You are staking 0.00 [DOGE]-[BBKFI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[BBKFI] Cake LP
+Unstake 0.00 [DOGE]-[BBKFI] Cake LP
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+40 - 
+[ADA]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.63 TVL: $30,572.73
+ADA Price: $2.84
+BUSD Price: $1.00
+Staked: 1280.5919 Cake-LP ($4,648.08)
+BBKFI Per Week: 2528.27 ($83.72)
+APR: Day 0.26% Week 1.80% Year 93.66%
+You are staking 0.00 [ADA]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[BUSD] Cake LP
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+41 - 
+[ADA]-[BBKFI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.62 TVL: $5,004.44
+ADA Price: $2.84
+BBKFI Price: $0.03
+Staked: 8073.7270 Cake-LP ($4,986.46)
+BBKFI Per Week: 2528.27 ($83.72)
+APR: Day 0.24% Week 1.68% Year 87.30%
+You are staking 0.00 [ADA]-[BBKFI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[BBKFI] Cake LP
+Unstake 0.00 [ADA]-[BBKFI] Cake LP
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+42 - 
+[WXDN]-[BBKFI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $1,800.84
+WXDN Price: $0.001958
+BBKFI Price: $0.03
+Staked: 110399.5415 Cake-LP ($1,794.92)
+BBKFI Per Week: 842.76 ($27.91)
+APR: Day 0.22% Week 1.55% Year 80.85%
+You are staking 0.00 [WXDN]-[BBKFI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WXDN]-[BBKFI] Cake LP
+Unstake 0.00 [WXDN]-[BBKFI] Cake LP
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+43 - 
+[WBNB]-[WXDN] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $2,001.52
+WBNB Price: $485.10
+WXDN Price: $0.001958
+Staked: 607.8457 Cake-LP ($1,254.89)
+BBKFI Per Week: 842.76 ($27.91)
+APR: Day 0.32% Week 2.22% Year 115.64%
+You are staking 0.00 [WBNB]-[WXDN] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[WXDN] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[WXDN] Cake LP
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+44 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.80 TVL: $527,350,252.96
+WBNB Price: $485.10
+BUSD Price: $1.00
+Staked: 82.2323 Cake-LP ($4,094.88)
+BBKFI Per Week: 1685.51 ($55.81)
+APR: Day 0.19% Week 1.36% Year 70.88%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+45 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,654.40 TVL: $262,021,304.48
+ETH Price: $3,329.69
+WBNB Price: $485.10
+Staked: 1.0970 Cake-LP ($2,911.81)
+BBKFI Per Week: 1685.51 ($55.81)
+APR: Day 0.27% Week 1.92% Year 99.67%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+46 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,334,123.59
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 3784.7959 Cake-LP ($7,702.79)
+BBKFI Per Week: 1685.51 ($55.81)
+APR: Day 0.10% Week 0.72% Year 37.68%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+47 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,988,366.27
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 8869.8145 Cake-LP ($18,258.41)
+BBKFI Per Week: 1685.51 ($55.81)
+APR: Day 0.04% Week 0.31% Year 15.90%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+48 - 
+[WLQX]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.77 TVL: $80,338.14
+WLQX Price: $0.003864
+WBNB Price: $485.10
+Staked: 1456.3897 Cake-LP ($4,027.49)
+BBKFI Per Week: 1685.51 ($55.81)
+APR: Day 0.20% Week 1.39% Year 72.06%
+You are staking 0.00 [WLQX]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WLQX]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [WLQX]-[WBNB] Cake LP
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+49 - 
+ADA
+ Price: $2.84 Market Cap: $795,200,000.00 
+[%]
+Staked: 3597.4593 ADA ($10,216.78)
+BBKFI Per Week: 1264.13 ($41.86)
+APR: Day 0.06% Week 0.41% Year 21.31%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+50 - 
+ERTB
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 ERTB ($0.00)
+BBKFI Per Week: 76450.66 ($2,531.54)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ERTB ($0.00), NaN% of the pool.
+Stake 0.00 ERTB
+Unstake 0.00 ERTB
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+51 - 
+CBRL
+ Price: $0.00 Market Cap: $0.00 
+Staked: 19853.0334 CBRL ($0.00)
+BBKFI Per Week: 421.38 ($13.95)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CBRL ($0.00), NaN% of the pool.
+Stake 0.00 CBRL - Fee 4%
+Unstake 0.00 CBRL
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+52 - 
+[CBRL]-[BBKFI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $161,199.41 TVL: $962.39
+CBRL Price: $0.19
+BBKFI Price: $0.03
+Staked: 0.0060 Cake-LP ($960.70)
+BBKFI Per Week: 842.76 ($27.91)
+APR: Day 0.41% Week 2.90% Year 151.05%
+You are staking 0.00 [CBRL]-[BBKFI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CBRL]-[BBKFI] Cake LP
+Unstake 0.00 [CBRL]-[BBKFI] Cake LP
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+53 - 
+[WBBK]-[CBRL] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $33,199.97 TVL: $651.73
+WBBK Price: $0.001405
+CBRL Price: $0.19
+Staked: 0.0195 Cake-LP ($646.98)
+BBKFI Per Week: 842.76 ($27.91)
+APR: Day 0.62% Week 4.31% Year 224.30%
+You are staking 0.00 [WBBK]-[CBRL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBBK]-[CBRL] Cake LP - Fee 4%
+Unstake 0.00 [WBBK]-[CBRL] Cake LP
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+54 - 
+[ZAIF]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.25 TVL: $11,839.56
+ZAIF Price: $0.003259
+WBNB Price: $485.10
+Staked: 276.4227 Cake-LP ($897.10)
+BBKFI Per Week: 842.76 ($27.91)
+APR: Day 0.44% Week 3.11% Year 161.76%
+You are staking 0.00 [ZAIF]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZAIF]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ZAIF]-[WBNB] Cake LP
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+55 - 
+[ZAIF]-[BBKFI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $507.95
+ZAIF Price: $0.003259
+BBKFI Price: $0.03
+Staked: 20780.2976 Cake-LP ($505.46)
+BBKFI Per Week: 842.76 ($27.91)
+APR: Day 0.79% Week 5.52% Year 287.09%
+You are staking 0.00 [ZAIF]-[BBKFI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZAIF]-[BBKFI] Cake LP
+Unstake 0.00 [ZAIF]-[BBKFI] Cake LP
+Claim 0.00 BBKFI ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $241,413.77

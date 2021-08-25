@@ -1,0 +1,332 @@
+INFO  : https://app.elk.finance
+********************************************************************************
+
+Mon Aug 23 2021 13:20:54 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+[WFTM]-[ELK] ELK LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.32 TVL: $159,389.15
+WFTM Price: $0.56
+ELK Price: $2.20
+Staked: 65944.6951 ELP ($152,702.41)
+ELK Per Week: 1680.00 ($3,698.72)
+APR: Day 0.35% Week 2.42% Year 125.95%
+You are staking 0.000000 [WFTM]-[ELK] ELK LP $0.00 (0.00% of the pool).
+FTM Scan
+Stake 0.000000 [WFTM]-[ELK] ELK LP
+Unstake 0.000000 [WFTM]-[ELK] ELK LP
+Claim 0.000000 ELK ($0.00)
+Revoke (set approval to 0)
+Exit
+[DAI]-[ELK] ELK LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.02 TVL: $29,363.16
+DAI Price: $1.00
+ELK Price: $2.20
+Staked: 9725.9648 ELP ($29,337.00)
+ELK Per Week: 525.00 ($1,155.85)
+APR: Day 0.56% Week 3.94% Year 204.87%
+You are staking 0.000000 [DAI]-[ELK] ELK LP $0.00 (0.00% of the pool).
+FTM Scan
+Stake 0.000000 [DAI]-[ELK] ELK LP
+Unstake 0.000000 [DAI]-[ELK] ELK LP
+Claim 0.000000 ELK ($0.00)
+Revoke (set approval to 0)
+Exit
+[BTC]-[ELK] ELK LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $66,747,276.93 TVL: $10,741.43
+BTC Price: $49,527.25
+ELK Price: $2.20
+Staked: 0.0002 ELP ($10,722.39)
+ELK Per Week: 280.00 ($616.45)
+APR: Day 0.82% Week 5.75% Year 298.96%
+You are staking 0.000000 [BTC]-[ELK] ELK LP $0.00 (0.00% of the pool).
+FTM Scan
+Stake 0.000000 [BTC]-[ELK] ELK LP
+Unstake 0.000000 [BTC]-[ELK] ELK LP
+Claim 0.000000 ELK ($0.00)
+Revoke (set approval to 0)
+Exit
+[ETH]-[ELK] ELK LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $173.20 TVL: $22,699.33
+ETH Price: $3,318.54
+ELK Price: $2.20
+Staked: 129.9929 ELP ($22,514.54)
+ELK Per Week: 350.00 ($770.57)
+APR: Day 0.49% Week 3.42% Year 177.97%
+You are staking 0.000000 [ETH]-[ELK] ELK LP $0.00 (0.00% of the pool).
+FTM Scan
+Stake 0.000000 [ETH]-[ELK] ELK LP
+Unstake 0.000000 [ETH]-[ELK] ELK LP
+Claim 0.000000 ELK ($0.00)
+Revoke (set approval to 0)
+Exit
+[LINK]-[ELK] ELK LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $16.06 TVL: $9,023.60
+LINK Price: $28.70
+ELK Price: $2.20
+Staked: 558.1518 ELP ($8,962.62)
+ELK Per Week: 140.00 ($308.23)
+APR: Day 0.49% Week 3.44% Year 178.83%
+You are staking 0.000000 [LINK]-[ELK] ELK LP $0.00 (0.00% of the pool).
+FTM Scan
+Stake 0.000000 [LINK]-[ELK] ELK LP
+Unstake 0.000000 [LINK]-[ELK] ELK LP
+Claim 0.000000 ELK ($0.00)
+Revoke (set approval to 0)
+Exit
+[fUSDT]-[ELK] ELK LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,015,998.52 TVL: $16,901.66
+fUSDT Price: $1.00
+ELK Price: $2.20
+Staked: 0.0056 ELP ($16,746.66)
+ELK Per Week: 259.00 ($570.22)
+APR: Day 0.49% Week 3.40% Year 177.06%
+You are staking 0.000000 [fUSDT]-[ELK] ELK LP $0.00 (0.00% of the pool).
+FTM Scan
+Stake 0.000000 [fUSDT]-[ELK] ELK LP
+Unstake 0.000000 [fUSDT]-[ELK] ELK LP
+Claim 0.000000 ELK ($0.00)
+Revoke (set approval to 0)
+Exit
+[USDC]-[ELK] ELK LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,051,579.17 TVL: $17,937.08
+USDC Price: $1.00
+ELK Price: $2.20
+Staked: 0.0058 ELP ($17,763.86)
+ELK Per Week: 259.00 ($570.22)
+APR: Day 0.46% Week 3.21% Year 166.92%
+You are staking 0.000000 [USDC]-[ELK] ELK LP $0.00 (0.00% of the pool).
+FTM Scan
+Stake 0.000000 [USDC]-[ELK] ELK LP
+Unstake 0.000000 [USDC]-[ELK] ELK LP
+Claim 0.000000 ELK ($0.00)
+Revoke (set approval to 0)
+Exit
+[SPIRIT]-[ELK] ELK LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.75 TVL: $10,242.19
+SPIRIT Price: $0.06
+ELK Price: $2.20
+Staked: 13561.2916 ELP ($10,172.51)
+ELK Per Week: 210.00 ($462.34)
+APR: Day 0.65% Week 4.54% Year 236.34%
+You are staking 0.000000 [SPIRIT]-[ELK] ELK LP $0.00 (0.00% of the pool).
+FTM Scan
+Stake 0.000000 [SPIRIT]-[ELK] ELK LP
+Unstake 0.000000 [SPIRIT]-[ELK] ELK LP
+Claim 0.000000 ELK ($0.00)
+Revoke (set approval to 0)
+Exit
+[BOO]-[ELK] ELK LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9.53 TVL: $16,159.97
+BOO Price: $10.07
+ELK Price: $2.20
+Staked: 1427.6196 ELP ($13,607.66)
+ELK Per Week: 140.00 ($308.23)
+APR: Day 0.32% Week 2.27% Year 117.78%
+You are staking 0.000000 [BOO]-[ELK] ELK LP $0.00 (0.00% of the pool).
+FTM Scan
+Stake 0.000000 [BOO]-[ELK] ELK LP
+Unstake 0.000000 [BOO]-[ELK] ELK LP
+Claim 0.000000 ELK ($0.00)
+Revoke (set approval to 0)
+Exit
+[CREAM]-[ELK] ELK LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $20.16 TVL: $2,508.25
+CREAM Price: $0.000843
+ELK Price: $2.20
+Staked: 114.5250 ELP ($2,308.56)
+ELK Per Week: 70.00 ($154.11)
+APR: Day 0.95% Week 6.68% Year 347.14%
+You are staking 0.000000 [CREAM]-[ELK] ELK LP $0.00 (0.00% of the pool).
+FTM Scan
+Stake 0.000000 [CREAM]-[ELK] ELK LP
+Unstake 0.000000 [CREAM]-[ELK] ELK LP
+Claim 0.000000 ELK ($0.00)
+Revoke (set approval to 0)
+Exit
+[SUSHI]-[ELK] ELK LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11.14 TVL: $4,526.16
+SUSHI Price: $13.81
+ELK Price: $2.20
+Staked: 404.4477 ELP ($4,505.70)
+ELK Per Week: 70.00 ($154.11)
+APR: Day 0.49% Week 3.42% Year 177.86%
+You are staking 0.000000 [SUSHI]-[ELK] ELK LP $0.00 (0.00% of the pool).
+FTM Scan
+Stake 0.000000 [SUSHI]-[ELK] ELK LP
+Unstake 0.000000 [SUSHI]-[ELK] ELK LP
+Claim 0.000000 ELK ($0.00)
+Revoke (set approval to 0)
+Exit
+[AAVE]-[ELK] ELK LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $60.40 TVL: $5,780.25
+AAVE Price: $406.23
+ELK Price: $2.20
+Staked: 95.3658 ELP ($5,760.39)
+ELK Per Week: 105.00 ($231.17)
+APR: Day 0.57% Week 4.01% Year 208.68%
+You are staking 0.000000 [AAVE]-[ELK] ELK LP $0.00 (0.00% of the pool).
+FTM Scan
+Stake 0.000000 [AAVE]-[ELK] ELK LP
+Unstake 0.000000 [AAVE]-[ELK] ELK LP
+Claim 0.000000 ELK ($0.00)
+Revoke (set approval to 0)
+Exit
+[BNB]-[ELK] ELK LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $65.88 TVL: $4,267.60
+BNB Price: $481.52
+ELK Price: $2.20
+Staked: 64.4846 ELP ($4,248.38)
+ELK Per Week: 70.00 ($154.11)
+APR: Day 0.52% Week 3.63% Year 188.63%
+You are staking 0.000000 [BNB]-[ELK] ELK LP $0.00 (0.00% of the pool).
+FTM Scan
+Stake 0.000000 [BNB]-[ELK] ELK LP
+Unstake 0.000000 [BNB]-[ELK] ELK LP
+Claim 0.000000 ELK ($0.00)
+Revoke (set approval to 0)
+Exit
+[ELK]-[ICE] ELK LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.07 TVL: $5,530.98
+ELK Price: $2.20
+ICE Price: $1.82
+Staked: 1320.8275 ELP ($5,370.57)
+ELK Per Week: 140.00 ($308.23)
+APR: Day 0.82% Week 5.74% Year 298.44%
+You are staking 0.000000 [ELK]-[ICE] ELK LP $0.00 (0.00% of the pool).
+FTM Scan
+Stake 0.000000 [ELK]-[ICE] ELK LP
+Unstake 0.000000 [ELK]-[ICE] ELK LP
+Claim 0.000000 ELK ($0.00)
+Revoke (set approval to 0)
+Exit
+[ZOO]-[ELK] ELK LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $569,466,748.70 TVL: $16,464.05
+ZOO Price: $0.04
+ELK Price: $2.20
+Staked: 0.0000 ELP ($16,433.34)
+ELK Per Week: 140.00 ($308.23)
+APR: Day 0.27% Week 1.88% Year 97.53%
+You are staking 0.000000 [ZOO]-[ELK] ELK LP $0.00 (0.00% of the pool).
+FTM Scan
+Stake 0.000000 [ZOO]-[ELK] ELK LP
+Unstake 0.000000 [ZOO]-[ELK] ELK LP
+Claim 0.000000 ELK ($0.00)
+Revoke (set approval to 0)
+Exit
+[YFI]-[ELK] ELK LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $598.81 TVL: $7,613.84
+YFI Price: $40,025.00
+ELK Price: $2.20
+Staked: 11.5515 ELP ($6,917.16)
+ELK Per Week: 70.00 ($154.11)
+APR: Day 0.32% Week 2.23% Year 115.86%
+You are staking 0.000000 [YFI]-[ELK] ELK LP $0.00 (0.00% of the pool).
+FTM Scan
+Stake 0.000000 [YFI]-[ELK] ELK LP
+Unstake 0.000000 [YFI]-[ELK] ELK LP
+Claim 0.000000 ELK ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $328,073.76

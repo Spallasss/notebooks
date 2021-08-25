@@ -1,0 +1,490 @@
+INFO  : https://greedy.smurf.money
+*********************************************************************************
+
+Mon Aug 23 2021 15:13:24 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 30 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[GREEDY]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.04 TVL: $28.76
+GREEDY Price: $0.000323
+BUSD Price: $1.00
+Staked: 541.4020 Cake-LP ($20.08)
+GREEDY Per Week: 10581.36 ($3.42)
+APR: Day 2.43% Week 17.03% Year 885.74%
+You are staking 0.00 [GREEDY]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GREEDY]-[BUSD] Cake LP
+Unstake 0.00 [GREEDY]-[BUSD] Cake LP
+Claim 0.00 GREEDY ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[GREEDY]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.91 TVL: $10.64
+GREEDY Price: $0.000323
+WBNB Price: $492.52
+Staked: 11.5782 Cake-LP ($10.58)
+GREEDY Per Week: 8817.80 ($2.85)
+APR: Day 3.85% Week 26.95% Year 1401.48%
+You are staking 0.00 [GREEDY]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GREEDY]-[WBNB] Cake LP
+Unstake 0.00 [GREEDY]-[WBNB] Cake LP
+Claim 0.00 GREEDY ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+GREEDY
+ Price: $0.000323 Market Cap: $112.38 
+[%]
+Staked: 190397.6023 GREEDY ($61.55)
+GREEDY Per Week: 6298.43 ($2.04)
+APR: Day 0.47% Week 3.31% Year 172.02%
+You are staking 0.00 GREEDY ($0.00), 0.00% of the pool.
+Stake 0.00 GREEDY
+Unstake 0.00 GREEDY
+Claim 0.00 GREEDY ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[SMRF]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.12 TVL: $142.46
+SMRF Price: $0.002388
+BUSD Price: $1.00
+Staked: 492.8858 Cake-LP ($57.53)
+GREEDY Per Week: 2519.37 ($0.81)
+APR: Day 0.20% Week 1.42% Year 73.61%
+You are staking 0.00 [SMRF]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SMRF]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [SMRF]-[BUSD] Cake LP
+Claim 0.00 GREEDY ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[SMURF]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $1,117.44
+SMURF Price: $0.88
+BUSD Price: $1.00
+Staked: 1.4051 Cake-LP ($2.89)
+GREEDY Per Week: 2519.37 ($0.81)
+APR: Day 4.03% Week 28.22% Year 1467.51%
+You are staking 0.00 [SMURF]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SMURF]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [SMURF]-[BUSD] Cake LP
+Claim 0.00 GREEDY ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[PAPAS]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.11 TVL: $104.93
+PAPAS Price: $0.002092
+BUSD Price: $1.00
+Staked: 11.1010 Cake-LP ($1.24)
+GREEDY Per Week: 2519.37 ($0.81)
+APR: Day 9.38% Week 65.69% Year 3415.75%
+You are staking 0.00 [PAPAS]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PAPAS]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [PAPAS]-[BUSD] Cake LP
+Claim 0.00 GREEDY ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[SMURF]-[SMRF] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.10 TVL: $4.65
+SMURF Price: $0.88
+SMRF Price: $0.002388
+Staked: 20.3203 Cake-LP ($2.07)
+GREEDY Per Week: 1889.53 ($0.61)
+APR: Day 4.22% Week 29.57% Year 1537.48%
+You are staking 0.00 [SMURF]-[SMRF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SMURF]-[SMRF] Cake LP - Fee 1%
+Unstake 0.00 [SMURF]-[SMRF] Cake LP
+Claim 0.00 GREEDY ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+SMRF
+ Price: $0.002388 Market Cap: $438.91 
+[%]
+Staked: 37666.2679 SMRF ($89.96)
+GREEDY Per Week: 1889.53 ($0.61)
+APR: Day 0.10% Week 0.68% Year 35.31%
+You are staking 0.00 SMRF ($0.00), 0.00% of the pool.
+Stake 0.00 SMRF - Fee 1%
+Unstake 0.00 SMRF
+Claim 0.00 GREEDY ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+SMURF
+ Price: $0.88 Market Cap: $3,548.00 
+[%]
+Staked: 20.3991 SMURF ($17.97)
+GREEDY Per Week: 1889.53 ($0.61)
+APR: Day 0.49% Week 3.40% Year 176.71%
+You are staking 0.00 SMURF ($0.00), 0.00% of the pool.
+Stake 0.00 SMURF - Fee 1%
+Unstake 0.00 SMURF
+Claim 0.00 GREEDY ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+PAPAS
+ Price: $0.002092 Market Cap: $822.00 
+[%]
+Staked: 41927.1776 PAPAS ($87.72)
+GREEDY Per Week: 1889.53 ($0.61)
+APR: Day 0.10% Week 0.70% Year 36.21%
+You are staking 0.00 PAPAS ($0.00), 0.00% of the pool.
+Stake 0.00 PAPAS - Fee 1%
+Unstake 0.00 PAPAS
+Claim 0.00 GREEDY ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.16 TVL: $528,479,279.38
+WBNB Price: $492.52
+BUSD Price: $1.00
+Staked: 0.1133 Cake-LP ($5.68)
+GREEDY Per Week: 1259.69 ($0.41)
+APR: Day 1.02% Week 7.17% Year 372.58%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 GREEDY ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[USDT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $51.06 TVL: $253,077,509.79
+USDT Price: $1.00
+WBNB Price: $492.52
+Staked: 0.2112 Cake-LP ($10.78)
+GREEDY Per Week: 1133.72 ($0.37)
+APR: Day 0.49% Week 3.40% Year 176.72%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 GREEDY ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,289.92 TVL: $175,202,975.59
+BTCB Price: $49,844.00
+WBNB Price: $492.52
+Staked: 0.0002 Cake-LP ($2.48)
+GREEDY Per Week: 1133.72 ($0.37)
+APR: Day 2.11% Week 14.75% Year 766.99%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 GREEDY ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,676.35 TVL: $264,156,307.69
+ETH Price: $3,333.86
+WBNB Price: $492.52
+Staked: 0.0048 Cake-LP ($12.85)
+GREEDY Per Week: 1133.72 ($0.37)
+APR: Day 0.41% Week 2.85% Year 148.34%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 GREEDY ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,325,753.76
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 1.8489 Cake-LP ($3.76)
+GREEDY Per Week: 1007.75 ($0.33)
+APR: Day 1.24% Week 8.66% Year 450.21%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 GREEDY ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,907,234.28
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+GREEDY Per Week: 1007.75 ($0.33)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 GREEDY ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,213,992.96
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 10.9530 Cake-LP ($22.41)
+GREEDY Per Week: 1007.75 ($0.33)
+APR: Day 0.21% Week 1.45% Year 75.58%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 GREEDY ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.91 TVL: $47,238,350.47
+ADA Price: $2.83
+WBNB Price: $492.52
+Staked: 0.0506 Cake-LP ($3.94)
+GREEDY Per Week: 755.81 ($0.24)
+APR: Day 0.89% Week 6.20% Year 322.37%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 GREEDY ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[WBNB]-[UNI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $245.19 TVL: $34,202,489.45
+WBNB Price: $492.52
+UNI Price: $29.38
+Staked: 0.0690 Cake-LP ($16.91)
+GREEDY Per Week: 755.81 ($0.24)
+APR: Day 0.21% Week 1.44% Year 75.11%
+You are staking 0.00 [WBNB]-[UNI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[UNI] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[UNI] Cake LP
+Claim 0.00 GREEDY ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $228.62 TVL: $1,045,899,159.48
+Cake Price: $25.38
+WBNB Price: $492.52
+Staked: 0.0259 Cake-LP ($5.93)
+GREEDY Per Week: 755.81 ($0.24)
+APR: Day 0.59% Week 4.12% Year 214.39%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 GREEDY ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+BUSD
+ Price: $1.00 Market Cap: $4,194,840,734.88 
+[%]
+Staked: 96.0000 BUSD ($95.86)
+GREEDY Per Week: 881.78 ($0.29)
+APR: Day 0.04% Week 0.30% Year 15.46%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 GREEDY ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 0.0000 USDT ($0.00)
+GREEDY Per Week: 881.78 ($0.29)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDT ($0.00), NaN% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 GREEDY ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+WBNB
+ Price: $492.52 Market Cap: $3,471,996,905.56 
+[%]
+Staked: 0.0323 WBNB ($15.90)
+GREEDY Per Week: 881.78 ($0.29)
+APR: Day 0.26% Week 1.79% Year 93.20%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 GREEDY ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 0.0000 DAI ($0.00)
+GREEDY Per Week: 503.87 ($0.16)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DAI ($0.00), NaN% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 GREEDY ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+ETH
+ Price: $3,333.86 Market Cap: $4,350,687,300.00 
+[%]
+Staked: 0.0010 ETH ($3.37)
+GREEDY Per Week: 503.87 ($0.16)
+APR: Day 0.69% Week 4.83% Year 251.21%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 GREEDY ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+BTCB
+ Price: $49,844.00 Market Cap: $4,261,711,844.00 
+[%]
+Staked: 0.0007 BTCB ($37.07)
+GREEDY Per Week: 503.87 ($0.16)
+APR: Day 0.06% Week 0.44% Year 22.85%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 GREEDY ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+Cake
+ Price: $25.38 Market Cap: $10,561,622,679.62 
+[%]
+Staked: 1.0572 Cake ($26.83)
+GREEDY Per Week: 503.87 ($0.16)
+APR: Day 0.09% Week 0.61% Year 31.57%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 GREEDY ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+DOT
+ Price: $28.20 Market Cap: $394,799,999.86 
+[%]
+Staked: 0.0547 DOT ($1.54)
+GREEDY Per Week: 503.87 ($0.16)
+APR: Day 1.51% Week 10.57% Year 549.56%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 GREEDY ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+ADA
+ Price: $2.83 Market Cap: $792,400,000.00 
+[%]
+Staked: 2.0847 ADA ($5.90)
+GREEDY Per Week: 503.87 ($0.16)
+APR: Day 0.39% Week 2.76% Year 143.56%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 GREEDY ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+JUNGLE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 40.0794 JUNGLE ($0.00)
+GREEDY Per Week: 503.87 ($0.16)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 JUNGLE ($0.00), NaN% of the pool.
+Stake 0.00 JUNGLE - Fee 2%
+Unstake 0.00 JUNGLE
+Claim 0.00 GREEDY ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $622.81

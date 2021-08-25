@@ -1,0 +1,174 @@
+INFO  : https://takoyakidefi.com
+****************************************************************************************
+
+Mon Aug 23 2021 14:10:41 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 10 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[TAKO]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.07 TVL: $1,187.26
+TAKO Price: $0.001037
+BUSD Price: $1.00
+Staked: 5905.4592 Cake-LP ($396.86)
+TAKO Per Week: 97324.14 ($100.93)
+APR: Day 3.63% Week 25.43% Year 1322.47%
+You are staking 0.00 [TAKO]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TAKO]-[BUSD] Cake LP
+Unstake 0.00 [TAKO]-[BUSD] Cake LP
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[TAKO]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.49 TVL: $2,410.77
+TAKO Price: $0.001037
+WBNB Price: $485.10
+Staked: 140.8558 Cake-LP ($209.40)
+TAKO Per Week: 55613.79 ($57.67)
+APR: Day 3.93% Week 27.54% Year 1432.23%
+You are staking 0.00 [TAKO]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TAKO]-[WBNB] Cake LP
+Unstake 0.00 [TAKO]-[WBNB] Cake LP
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.59 TVL: $3,333,110.22
+WBNB Price: $485.10
+BUSD Price: $1.00
+Staked: 8.8880 Cake-LP ($574.09)
+TAKO Per Week: 11586.21 ($12.02)
+APR: Day 0.30% Week 2.09% Year 108.83%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.13 TVL: $4,006,000.17
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 42.3271 Cake-LP ($90.36)
+TAKO Per Week: 4634.48 ($4.81)
+APR: Day 0.76% Week 5.32% Year 276.58%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,905.95 TVL: $1,953,579.35
+BTCB Price: $50,135.00
+WBNB Price: $485.10
+Staked: 0.0184 Cake-LP ($200.27)
+TAKO Per Week: 6951.72 ($7.21)
+APR: Day 0.51% Week 3.60% Year 187.19%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+TAKO
+ Price: $0.001037 Market Cap: $3,805.92 
+[%]
+Staked: 1766559.2240 TAKO ($1,831.99)
+TAKO Per Week: 11586.21 ($12.02)
+APR: Day 0.09% Week 0.66% Year 34.10%
+You are staking 0.00 TAKO ($0.00), 0.00% of the pool.
+Stake 0.00 TAKO
+Unstake 0.00 TAKO
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+BUSD
+ Price: $1.00 Market Cap: $4,198,411,584.37 
+[%]
+Staked: 97.0276 BUSD ($96.97)
+TAKO Per Week: 4634.48 ($4.81)
+APR: Day 0.71% Week 4.96% Year 257.73%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WBNB
+ Price: $485.10 Market Cap: $3,437,722,041.63 
+[%]
+Staked: 0.3796 WBNB ($184.14)
+TAKO Per Week: 4634.48 ($4.81)
+APR: Day 0.37% Week 2.61% Year 135.72%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+USDT
+ Price: $1.00 Market Cap: $3,377,097,883.96 
+[%]
+Staked: 13.8488 USDT ($13.84)
+TAKO Per Week: 2317.24 ($2.40)
+APR: Day 2.48% Week 17.37% Year 903.09%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+BTCB
+ Price: $50,135.00 Market Cap: $4,286,592,635.00 
+[%]
+Staked: 0.0003 BTCB ($16.70)
+TAKO Per Week: 2317.24 ($2.40)
+APR: Day 2.06% Week 14.39% Year 748.29%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $3,614.60

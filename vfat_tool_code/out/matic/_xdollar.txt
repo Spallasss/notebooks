@@ -1,0 +1,133 @@
+INFO  : https://xdollar.mcn.ventures
+********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:35:56 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+[WMATIC]-[xUSD] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.78 TVL: $17,435.18
+WMATIC Price: $1.65
+xUSD Price: $1.07
+Staked: 5886.0893 SLP ($16,357.72)
+XDO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WMATIC]-[xUSD] SLP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WMATIC]-[xUSD] SLP
+Unstake 0.000000 [WMATIC]-[xUSD] SLP
+Claim 0.000000 XDO ($0.00)
+Revoke (set approval to 0)
+Exit
+[USDC]-[xUSD] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,110,650.51 TVL: $407,273.91
+USDC Price: $1.00
+xUSD Price: $1.07
+Staked: 0.0010 DFYNLP ($2,215.10)
+XDO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [USDC]-[xUSD] DFYN LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [USDC]-[xUSD] DFYN LP
+Unstake 0.000000 [USDC]-[xUSD] DFYN LP
+Claim 0.000000 XDO ($0.00)
+Revoke (set approval to 0)
+Exit
+[USDC]-[xUSD] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,110,650.51 TVL: $407,273.91
+USDC Price: $1.00
+xUSD Price: $1.07
+Staked: 0.1667 DFYNLP ($351,896.18)
+XDO Per Week: 32666.67 ($4,845.41)
+APR: Day 0.20% Week 1.38% Year 71.60%
+You are staking 0.000000 [USDC]-[xUSD] DFYN LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [USDC]-[xUSD] DFYN LP
+Unstake 0.000000 [USDC]-[xUSD] DFYN LP
+Claim 0.000000 XDO ($0.00)
+Revoke (set approval to 0)
+Exit
+[xUSD]-[DAI] Kyber LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.07 TVL: $271,409.90
+xUSD Price: $1.07
+DAI Price: $1.00
+Staked: 131219.5714 DMM-LP xUSD-DAI ($271,384.04)
+XDO Per Week: 32666.67 ($4,845.41)
+APR: Day 0.26% Week 1.79% Year 92.84%
+You are staking 0.000000 [xUSD]-[DAI] Kyber LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [xUSD]-[DAI] Kyber LP
+Unstake 0.000000 [xUSD]-[DAI] Kyber LP
+Claim 0.000000 XDO ($0.00)
+Revoke (set approval to 0)
+Exit
+[IS3USD]-[xUSD] IRON-LP
+ Price: $1.02 TVL: $132,086.39
+IS3USD Price: $1.00
+xUSD Price: $1.07
+Staked: 129,837.00 [IS3USD]-[xUSD] IRON-LP ($132,086.39)
+XDO Per Week: 10500.00 ($1,557.45)
+APR (avg. GYSR multipliers 2.66x): Day 0.16% Week 1.12% Year 58.37%
+APR (w/o GYSR multipliers 1x): Day 0.06% Week 0.42% Year 21.92%
+You are staking 0.000000 [IS3USD]-[xUSD] IRON-LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [IS3USD]-[xUSD] IRON-LP
+Unstake 0.000000 [IS3USD]-[xUSD] IRON-LP
+Claim 0.000000 XDO ($0.00)
+Revoke (set approval to 0)
+Exit
+xUSD
+ Price: $1.07 Market Cap: $2,256,017.35 
+[%]
+Staked: 1480605.2333 xUSD ($1,586,643.03)
+XDO Per Week: 92592.59 ($13,734.17)
+APR: Day 0.12% Week 0.87% Year 45.01%
+You are staking 0.000000 xUSD $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 xUSD
+Unstake 0.000000 xUSD
+Claim 0.000000 XDO ($0.00) + 0.000000 WMATIC ($0.00)
+Revoke (set approval to 0)
+Exit
+XDO
+ Price: $0.15 Market Cap: $9,493,056.00 
+[%]
+Staked: 496410.7442 XDO ($73,632.11)
+You are staking 0.000000 XDO $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 XDO
+Unstake 0.000000 XDO
+Claim 0.000000 xUSD ($0.00) + 0.000000 WMATIC ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $2,431,972.79

@@ -1,0 +1,63 @@
+INFO  : https://morph.finance/
+**********************************************************************************
+
+Mon Aug 23 2021 15:26:33 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[DAI]-[MORT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.60 TVL: $3,393.23
+DAI Price: $1.00
+MORT Price: $0.06
+Staked: 5222.5891 UNI-V2 ($3,144.38)
+MORT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [DAI]-[MORT] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [DAI]-[MORT] Uni LP
+Unstake 0.000000 [DAI]-[MORT] Uni LP
+Claim 0.000000 MORT ($0.00)
+Revoke (set approval to 0)
+Exit
+[MORC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.27 TVL: $2,112.50
+MORC Price: $0.04
+DAI Price: $1.00
+Staked: 7959.7058 UNI-V2 ($2,111.60)
+MORT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [MORC]-[DAI] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [MORC]-[DAI] Uni LP
+Unstake 0.000000 [MORC]-[DAI] Uni LP
+Claim 0.000000 MORT ($0.00)
+Revoke (set approval to 0)
+Exit
+Boardroom
+There is a total 99863.25 MORT ($5,805.95) staked in the Boardroom.
+You are staking 0 MORT ($0.00), 0.00% of the pool.
+There will be 22440.16 MORC issued at next expansion.
+Boardroom APR: Day 62.41% Week 436.90% Year 22781.21%
+Stake 0.00 MORT
+Unstake 0.00 MORT
+Claim 0.00 MORC ($0.00)
+Revoke (set approval to 0)
+Exit
+
+
+Total staked: $11,061.93

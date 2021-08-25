@@ -1,0 +1,197 @@
+INFO  : https://polyvalent.finance
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:13:43 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 14 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[ELECTRON] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $139,489.30 TVL: $370.56
+USDC Price: $1.00
+ELECTRON Price: $0.004411
+Staked: 0.0019 SLP ($270.04)
+ELECTRON Per Week: 3990.36 ($17.60)
+APR: Day 0.93% Week 6.52% Year 338.97%
+You are staking 0.00 [USDC]-[ELECTRON] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[ELECTRON] SLP
+Unstake 0.00 [USDC]-[ELECTRON] SLP
+Claim 0.00 ELECTRON ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[ELECTRON] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.18 TVL: $157.66
+WMATIC Price: $1.66
+ELECTRON Price: $0.004411
+Staked: 641.0114 SLP ($114.38)
+ELECTRON Per Week: 3990.36 ($17.60)
+APR: Day 2.20% Week 15.39% Year 800.29%
+You are staking 0.00 [WMATIC]-[ELECTRON] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[ELECTRON] SLP
+Unstake 0.00 [WMATIC]-[ELECTRON] SLP
+Claim 0.00 ELECTRON ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+ELECTRON
+ Price: $0.004411 Market Cap: $568.97 
+[%]
+Staked: 60504.0837 ELECTRON ($266.91)
+ELECTRON Per Week: 1214.46 ($5.36)
+APR: Day 0.29% Week 2.01% Year 104.38%
+You are staking 0.00 ELECTRON ($0.00), 0.00% of the pool.
+Stake 0.00 ELECTRON
+Unstake 0.00 ELECTRON
+Claim 0.00 ELECTRON ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WMATIC]-[USDC] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,892,458.46 TVL: $4,928,535.20
+WMATIC Price: $1.66
+USDC Price: $1.00
+Staked: 0.0000 SLP ($32.89)
+ELECTRON Per Week: 520.48 ($2.30)
+APR: Day 1.00% Week 6.98% Year 362.98%
+You are staking 0.00 [WMATIC]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] SLP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] SLP
+Claim 0.00 ELECTRON ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+USDC
+ Price: $1.00 Market Cap: $1,045,991,510.07 
+[%]
+Staked: 251.8151 USDC ($251.27)
+ELECTRON Per Week: 520.48 ($2.30)
+APR: Day 0.13% Week 0.91% Year 47.52%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 ELECTRON ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WMATIC
+ Price: $1.66 Market Cap: $609,119,686.83 
+[%]
+Staked: 406.0816 WMATIC ($674.10)
+ELECTRON Per Week: 520.48 ($2.30)
+APR: Day 0.05% Week 0.34% Year 17.71%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 ELECTRON ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WETH
+ Price: $3,335.37 Market Cap: $2,036,418,232.53 
+[%]
+Staked: 0.1656 WETH ($552.42)
+ELECTRON Per Week: 520.48 ($2.30)
+APR: Day 0.06% Week 0.42% Year 21.61%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 ELECTRON ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+USDT
+ Price: $1.00 Market Cap: $314,853,423.03 
+[%]
+Staked: 549.5225 USDT ($548.97)
+ELECTRON Per Week: 520.48 ($2.30)
+APR: Day 0.06% Week 0.42% Year 21.75%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 ELECTRON ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+WBTC
+ Price: $50,243.00 Market Cap: $700,845,357.71 
+[%]
+Staked: 0.0179 WBTC ($900.76)
+ELECTRON Per Week: 520.48 ($2.30)
+APR: Day 0.04% Week 0.25% Year 13.25%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 ELECTRON ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+AAVE
+ Price: $411.24 Market Cap: $156,548,615.27 
+[%]
+Staked: 0.2500 AAVE ($102.81)
+ELECTRON Per Week: 520.48 ($2.30)
+APR: Day 0.32% Week 2.23% Year 116.13%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 ELECTRON ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+SUSHI
+ Price: $13.91 Market Cap: $14,100,370.29 
+[%]
+Staked: 2.1287 SUSHI ($29.61)
+ELECTRON Per Week: 520.48 ($2.30)
+APR: Day 1.11% Week 7.75% Year 403.22%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 4%
+Unstake 0.00 SUSHI
+Claim 0.00 ELECTRON ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+QUICK
+ Price: $742.33 Market Cap: $710,607,771.77 
+[%]
+Staked: 0.3000 QUICK ($222.72)
+ELECTRON Per Week: 520.48 ($2.30)
+APR: Day 0.15% Week 1.03% Year 53.61%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 ELECTRON ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+DAI
+ Price: $1.00 Market Cap: $376,284,571.53 
+[%]
+Staked: 170.8282 DAI ($170.83)
+ELECTRON Per Week: 520.48 ($2.30)
+APR: Day 0.19% Week 1.34% Year 69.89%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 ELECTRON ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $4,137.70

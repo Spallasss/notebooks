@@ -1,0 +1,374 @@
+INFO  : https://exchange.dfyn.network
+**************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:15:37 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+[UST]-[USDT] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,024,307.91 TVL: $27,957,597.53
+UST Price: $1.00
+USDT Price: $1.00
+Staked: 5.6946 DFYNLP ($11,527,562.14)
+DFYN Per Week: 63000.00 ($76,230.00)
+APR: Day 0.09% Week 0.66% Year 34.39%
+You are staking 0.000000 [UST]-[USDT] DFYN LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [UST]-[USDT] DFYN LP
+Unstake 0.000000 [UST]-[USDT] DFYN LP
+Claim 0.000000 DFYN ($0.00)
+Revoke (set approval to 0)
+Exit
+[USDC]-[DFYN] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,642,518.72 TVL: $3,835,465.08
+USDC Price: $1.00
+DFYN Price: $1.21
+Staked: 1.1766 DFYNLP ($3,109,146.48)
+DFYN Per Week: 84000.00 ($101,640.00)
+APR: Day 0.47% Week 3.27% Year 169.99%
+You are staking 0.000000 [USDC]-[DFYN] DFYN LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [USDC]-[DFYN] DFYN LP
+Unstake 0.000000 [USDC]-[DFYN] DFYN LP
+Claim 0.000000 DFYN ($0.00)
+Revoke (set approval to 0)
+Exit
+[WETH]-[DFYN] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $154.86 TVL: $6,791,310.67
+WETH Price: $3,331.27
+DFYN Price: $1.21
+Staked: 19537.9706 DFYNLP ($3,025,554.49)
+DFYN Per Week: 84000.00 ($101,640.00)
+APR: Day 0.48% Week 3.36% Year 174.69%
+You are staking 0.000000 [WETH]-[DFYN] DFYN LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WETH]-[DFYN] DFYN LP
+Unstake 0.000000 [WETH]-[DFYN] DFYN LP
+Claim 0.000000 DFYN ($0.00)
+Revoke (set approval to 0)
+Exit
+[WBTC]-[WETH] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $138,752,158,385.18 TVL: $21,743,803.94
+WBTC Price: $50,228.00
+WETH Price: $3,331.27
+Staked: 0.0002 DFYNLP ($21,252,849.38)
+DFYN Per Week: 122500.00 ($148,225.00)
+APR: Day 0.10% Week 0.70% Year 36.27%
+You are staking 0.000000 [WBTC]-[WETH] DFYN LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WBTC]-[WETH] DFYN LP
+Unstake 0.000000 [WBTC]-[WETH] DFYN LP
+Claim 0.000000 DFYN ($0.00)
+Revoke (set approval to 0)
+Exit
+[USDC]-[USDT] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,308,600,694,115.22 TVL: $20,113,658.34
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 DFYNLP ($19,749,759.11)
+DFYN Per Week: 122500.00 ($148,225.00)
+APR: Day 0.11% Week 0.75% Year 39.03%
+You are staking 0.000000 [USDC]-[USDT] DFYN LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [USDC]-[USDT] DFYN LP
+Unstake 0.000000 [USDC]-[USDT] DFYN LP
+Claim 0.000000 DFYN ($0.00)
+Revoke (set approval to 0)
+Exit
+[DAI]-[USDT] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,125,999.22 TVL: $17,480,853.04
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 7.9874 DFYNLP ($16,981,181.93)
+DFYN Per Week: 105000.00 ($127,050.00)
+APR: Day 0.11% Week 0.75% Year 38.91%
+You are staking 0.000000 [DAI]-[USDT] DFYN LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [DAI]-[USDT] DFYN LP
+Unstake 0.000000 [DAI]-[USDT] DFYN LP
+Claim 0.000000 DFYN ($0.00)
+Revoke (set approval to 0)
+Exit
+[USDC]-[DAI] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,224,115.46 TVL: $19,539,054.94
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 8.6932 DFYNLP ($19,334,618.22)
+DFYN Per Week: 105000.00 ($127,050.00)
+APR: Day 0.09% Week 0.66% Year 34.17%
+You are staking 0.000000 [USDC]-[DAI] DFYN LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [USDC]-[DAI] DFYN LP
+Unstake 0.000000 [USDC]-[DAI] DFYN LP
+Claim 0.000000 DFYN ($0.00)
+Revoke (set approval to 0)
+Exit
+[USDC]-[WETH] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $137,203,110.02 TVL: $8,694,547.33
+USDC Price: $1.00
+WETH Price: $3,331.27
+Staked: 0.0618 DFYNLP ($8,484,702.58)
+DFYN Per Week: 70000.00 ($84,700.00)
+APR: Day 0.14% Week 1.00% Year 51.91%
+You are staking 0.000000 [USDC]-[WETH] DFYN LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [USDC]-[WETH] DFYN LP
+Unstake 0.000000 [USDC]-[WETH] DFYN LP
+Claim 0.000000 DFYN ($0.00)
+Revoke (set approval to 0)
+Exit
+[ROUTE (PoS)]-[USDC] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,828,807.04 TVL: $1,279,738.79
+ROUTE (PoS) Price: $4.71
+USDC Price: $1.00
+Staked: 0.2612 DFYNLP ($1,261,070.31)
+DFYN Per Week: 42000.00 ($50,820.00)
+APR: Day 0.58% Week 4.03% Year 209.56%
+You are staking 0.000000 [ROUTE (PoS)]-[USDC] DFYN LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [ROUTE (PoS)]-[USDC] DFYN LP
+Unstake 0.000000 [ROUTE (PoS)]-[USDC] DFYN LP
+Claim 0.000000 DFYN ($0.00)
+Revoke (set approval to 0)
+Exit
+[ROUTE (PoS)]-[WETH] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $264.98 TVL: $4,973,569.97
+ROUTE (PoS) Price: $4.71
+WETH Price: $3,331.27
+Staked: 8752.5834 DFYNLP ($2,319,240.34)
+DFYN Per Week: 42000.00 ($50,820.00)
+APR: Day 0.31% Week 2.19% Year 113.94%
+You are staking 0.000000 [ROUTE (PoS)]-[WETH] DFYN LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [ROUTE (PoS)]-[WETH] DFYN LP
+Unstake 0.000000 [ROUTE (PoS)]-[WETH] DFYN LP
+Claim 0.000000 DFYN ($0.00)
+Revoke (set approval to 0)
+Exit
+[WMATIC]-[WETH] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $189.26 TVL: $13,327,181.71
+WMATIC Price: $1.66
+WETH Price: $3,331.27
+Staked: 61316.6499 DFYNLP ($11,604,751.95)
+DFYN Per Week: 70000.00 ($84,700.00)
+APR: Day 0.10% Week 0.73% Year 37.95%
+You are staking 0.000000 [WMATIC]-[WETH] DFYN LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WMATIC]-[WETH] DFYN LP
+Unstake 0.000000 [WMATIC]-[WETH] DFYN LP
+Claim 0.000000 DFYN ($0.00)
+Revoke (set approval to 0)
+Exit
+[CRV]-[WETH] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $181.98 TVL: $2,196,931.10
+CRV Price: $2.44
+WETH Price: $3,331.27
+Staked: 12062.8171 DFYNLP ($2,195,241.97)
+DFYN Per Week: 21000.00 ($25,410.00)
+APR: Day 0.17% Week 1.16% Year 60.19%
+You are staking 0.000000 [CRV]-[WETH] DFYN LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [CRV]-[WETH] DFYN LP
+Unstake 0.000000 [CRV]-[WETH] DFYN LP
+Claim 0.000000 DFYN ($0.00)
+Revoke (set approval to 0)
+Exit
+[WETH]-[UNI] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $640.72 TVL: $4,012,530.04
+WETH Price: $3,331.27
+UNI Price: $29.34
+Staked: 5624.7948 DFYNLP ($3,603,937.10)
+DFYN Per Week: 17500.00 ($21,175.00)
+APR: Day 0.08% Week 0.59% Year 30.55%
+You are staking 0.000000 [WETH]-[UNI] DFYN LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WETH]-[UNI] DFYN LP
+Unstake 0.000000 [WETH]-[UNI] DFYN LP
+Claim 0.000000 DFYN ($0.00)
+Revoke (set approval to 0)
+Exit
+[USDC]-[UNI] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11,638,780.89 TVL: $1,245,054.61
+USDC Price: $1.00
+UNI Price: $29.34
+Staked: 0.1066 DFYNLP ($1,241,106.34)
+DFYN Per Week: 17500.00 ($21,175.00)
+APR: Day 0.24% Week 1.71% Year 88.72%
+You are staking 0.000000 [USDC]-[UNI] DFYN LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [USDC]-[UNI] DFYN LP
+Unstake 0.000000 [USDC]-[UNI] DFYN LP
+Claim 0.000000 DFYN ($0.00)
+Revoke (set approval to 0)
+Exit
+[WMATIC]-[QUICK] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $78.04 TVL: $1,488,639.29
+WMATIC Price: $1.66
+QUICK Price: $742.09
+Staked: 18881.7923 DFYNLP ($1,473,580.14)
+DFYN Per Week: 17500.00 ($21,175.00)
+APR: Day 0.21% Week 1.44% Year 74.72%
+You are staking 0.000000 [WMATIC]-[QUICK] DFYN LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WMATIC]-[QUICK] DFYN LP
+Unstake 0.000000 [WMATIC]-[QUICK] DFYN LP
+Claim 0.000000 DFYN ($0.00)
+Revoke (set approval to 0)
+Exit
+[WETH]-[AAVE] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,372.86 TVL: $5,108,850.96
+WETH Price: $3,331.27
+AAVE Price: $411.14
+Staked: 1539.4572 DFYNLP ($3,652,917.79)
+DFYN Per Week: 17500.00 ($21,175.00)
+APR: Day 0.08% Week 0.58% Year 30.14%
+You are staking 0.000000 [WETH]-[AAVE] DFYN LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WETH]-[AAVE] DFYN LP
+Unstake 0.000000 [WETH]-[AAVE] DFYN LP
+Claim 0.000000 DFYN ($0.00)
+Revoke (set approval to 0)
+Exit
+[USDC]-[AAVE] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $41,271,142.45 TVL: $1,271,390.86
+USDC Price: $1.00
+AAVE Price: $411.14
+Staked: 0.0308 DFYNLP ($1,269,826.99)
+DFYN Per Week: 17500.00 ($21,175.00)
+APR: Day 0.24% Week 1.67% Year 86.71%
+You are staking 0.000000 [USDC]-[AAVE] DFYN LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [USDC]-[AAVE] DFYN LP
+Unstake 0.000000 [USDC]-[AAVE] DFYN LP
+Claim 0.000000 DFYN ($0.00)
+Revoke (set approval to 0)
+Exit
+[USDC]-[LINK] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13,286,108.92 TVL: $1,610,051.79
+USDC Price: $1.00
+LINK Price: $28.85
+Staked: 0.1205 DFYNLP ($1,600,917.47)
+DFYN Per Week: 21000.00 ($25,410.00)
+APR: Day 0.23% Week 1.59% Year 82.54%
+You are staking 0.000000 [USDC]-[LINK] DFYN LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [USDC]-[LINK] DFYN LP
+Unstake 0.000000 [USDC]-[LINK] DFYN LP
+Claim 0.000000 DFYN ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $133,687,964.73

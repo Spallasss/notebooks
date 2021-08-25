@@ -1,0 +1,807 @@
+INFO  : https://julswap.com
+****************************************************************************
+
+Mon Aug 23 2021 13:50:21 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[JULb]-[WBNB] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $102.25 TVL: $459,300.19
+JULb Price: $3.06
+WBNB Price: $483.93
+Staked: 120.1091 SLP ($12,280.76)
+JULb Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [JULb]-[WBNB] SLP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [JULb]-[WBNB] SLP
+Unstake 0.000000 [JULb]-[WBNB] SLP
+Claim 0.000000 JULb ($0.00)
+Revoke (set approval to 0)
+Exit
+[JULb]-[JulD] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.79 TVL: $126,792.01
+JULb Price: $3.06
+JulD Price: $0.04
+Staked: 52026.2171 SLP ($41,086.53)
+JulD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [JULb]-[JulD] SLP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [JULb]-[JulD] SLP
+Unstake 0.000000 [JULb]-[JulD] SLP
+Claim 0.000000 JulD ($0.00)
+Revoke (set approval to 0)
+Exit
+JULb
+ Price: $3.06 Market Cap: $1,865,127.92 
+[%]
+Staked: 125.9874 JULb ($385.18)
+JULb Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 JULb $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 JULb
+Unstake 0.000000 JULb
+Claim 0.000000 JULb ($0.00)
+Revoke (set approval to 0)
+Exit
+[JULb]-[BUSD] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.57 TVL: $19,830.10
+JULb Price: $3.06
+BUSD Price: $1.00
+Staked: 696.2063 SLP ($3,183.21)
+JULb Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [JULb]-[BUSD] SLP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [JULb]-[BUSD] SLP
+Unstake 0.000000 [JULb]-[BUSD] SLP
+Claim 0.000000 JULb ($0.00)
+Revoke (set approval to 0)
+Exit
+[WBNB]-[BUSD] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $85.75 TVL: $10,128.12
+WBNB Price: $483.93
+BUSD Price: $1.00
+Staked: 60.2015 SLP ($5,162.56)
+JULb Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [WBNB]-[BUSD] SLP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [WBNB]-[BUSD] SLP
+Unstake 0.000000 [WBNB]-[BUSD] SLP
+Claim 0.000000 JULb ($0.00)
+Revoke (set approval to 0)
+Exit
+[WBNB]-[VOXb] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $214.36 TVL: $10,774.76
+WBNB Price: $483.93
+VOXb Price: $17.73
+Staked: 0.0000 SLP ($0.00)
+VOXb Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [WBNB]-[VOXb] SLP $0.00 (NaN% of the pool).
+BSC Scan
+Stake 0.000000 [WBNB]-[VOXb] SLP
+Unstake 0.000000 [WBNB]-[VOXb] SLP
+Claim 0.000000 VOXb ($0.00)
+Revoke (set approval to 0)
+Exit
+[WBNB]-[OBRb] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $286.07 TVL: $27,193.60
+WBNB Price: $483.93
+OBRb Price: $30.62
+Staked: 0.0812 SLP ($23.23)
+OBRb Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WBNB]-[OBRb] SLP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [WBNB]-[OBRb] SLP
+Unstake 0.000000 [WBNB]-[OBRb] SLP
+Claim 0.000000 OBRb ($0.00)
+Revoke (set approval to 0)
+Exit
+[JULb]-[WBNB] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $102.25 TVL: $459,300.19
+JULb Price: $3.06
+WBNB Price: $483.93
+Staked: 118.1573 SLP ($12,081.19)
+JulD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [JULb]-[WBNB] SLP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [JULb]-[WBNB] SLP
+Unstake 0.000000 [JULb]-[WBNB] SLP
+Claim 0.000000 JulD ($0.00)
+Revoke (set approval to 0)
+Exit
+[JULb]-[BUSD] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.57 TVL: $19,830.10
+JULb Price: $3.06
+BUSD Price: $1.00
+Staked: 61.2777 SLP ($280.17)
+JulD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [JULb]-[BUSD] SLP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [JULb]-[BUSD] SLP
+Unstake 0.000000 [JULb]-[BUSD] SLP
+Claim 0.000000 JulD ($0.00)
+Revoke (set approval to 0)
+Exit
+[JULb]-[BTCB] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $833.68 TVL: $14,749.27
+JULb Price: $3.06
+BTCB Price: $50,221.00
+Staked: 10.4532 SLP ($8,714.65)
+JulD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [JULb]-[BTCB] SLP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [JULb]-[BTCB] SLP
+Unstake 0.000000 [JULb]-[BTCB] SLP
+Claim 0.000000 JulD ($0.00)
+Revoke (set approval to 0)
+Exit
+[BHC]-[WBNB] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $361.33 TVL: $4,868.98
+BHC Price: $42.49
+WBNB Price: $483.93
+Staked: 0.9523 SLP ($344.10)
+JulD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [BHC]-[WBNB] SLP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [BHC]-[WBNB] SLP
+Unstake 0.000000 [BHC]-[WBNB] SLP
+Claim 0.000000 JulD ($0.00)
+Revoke (set approval to 0)
+Exit
+[TWT]-[WBNB] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $51.32 TVL: $16,838.81
+TWT Price: $0.97
+WBNB Price: $483.93
+Staked: 79.2008 SLP ($4,064.79)
+JulD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [TWT]-[WBNB] SLP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [TWT]-[WBNB] SLP
+Unstake 0.000000 [TWT]-[WBNB] SLP
+Claim 0.000000 JulD ($0.00)
+Revoke (set approval to 0)
+Exit
+[VIDT]-[WBNB] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $38.90 TVL: $123,328.90
+VIDT Price: $0.63
+WBNB Price: $483.93
+Staked: 4.3696 SLP ($169.96)
+JulD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [VIDT]-[WBNB] SLP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [VIDT]-[WBNB] SLP
+Unstake 0.000000 [VIDT]-[WBNB] SLP
+Claim 0.000000 JulD ($0.00)
+Revoke (set approval to 0)
+Exit
+[BTCB]-[WBNB] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,408.12 TVL: $1,201.98
+BTCB Price: $50,221.00
+WBNB Price: $483.93
+Staked: 0.0139 SLP ($144.38)
+JulD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [BTCB]-[WBNB] SLP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [BTCB]-[WBNB] SLP
+Unstake 0.000000 [BTCB]-[WBNB] SLP
+Claim 0.000000 JulD ($0.00)
+Revoke (set approval to 0)
+Exit
+[WBNB]-[XVS] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $309.08 TVL: $10,864.37
+WBNB Price: $483.93
+XVS Price: $37.46
+Staked: 1.7507 SLP ($541.09)
+JulD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WBNB]-[XVS] SLP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [WBNB]-[XVS] SLP
+Unstake 0.000000 [WBNB]-[XVS] SLP
+Claim 0.000000 JulD ($0.00)
+Revoke (set approval to 0)
+Exit
+[DOT]-[WBNB] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $243.61 TVL: $8,305.69
+DOT Price: $27.97
+WBNB Price: $483.93
+Staked: 0.0000 SLP ($0.00)
+JulD Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [DOT]-[WBNB] SLP $0.00 (NaN% of the pool).
+BSC Scan
+Stake 0.000000 [DOT]-[WBNB] SLP
+Unstake 0.000000 [DOT]-[WBNB] SLP
+Claim 0.000000 JulD ($0.00)
+Revoke (set approval to 0)
+Exit
+[WBNB]-[UNI] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $246.52 TVL: $10,547.64
+WBNB Price: $483.93
+UNI Price: $29.31
+Staked: 0.0000 SLP ($0.00)
+JulD Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [WBNB]-[UNI] SLP $0.00 (NaN% of the pool).
+BSC Scan
+Stake 0.000000 [WBNB]-[UNI] SLP
+Unstake 0.000000 [WBNB]-[UNI] SLP
+Claim 0.000000 JulD ($0.00)
+Revoke (set approval to 0)
+Exit
+[JulD]-[WBNB] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $18.21 TVL: $860,511.69
+JulD Price: $0.04
+WBNB Price: $483.93
+Staked: 12412.5467 SLP ($226,093.40)
+JulD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [JulD]-[WBNB] SLP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [JulD]-[WBNB] SLP
+Unstake 0.000000 [JulD]-[WBNB] SLP
+Claim 0.000000 JulD ($0.00)
+Revoke (set approval to 0)
+Exit
+[WBNB]-[SWGb] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.85 TVL: $389.34
+WBNB Price: $483.93
+SWGb Price: $0.001654
+Staked: 45.2088 SLP ($128.88)
+SWGb Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WBNB]-[SWGb] SLP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [WBNB]-[SWGb] SLP
+Unstake 0.000000 [WBNB]-[SWGb] SLP
+Claim 0.000000 SWGb ($0.00)
+Revoke (set approval to 0)
+Exit
+[JULb]-[ETHb] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $229.12 TVL: $6,416.57
+JULb Price: $3.06
+ETHb Price: $3,585.09
+Staked: 1.7434 SLP ($399.44)
+JulD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [JULb]-[ETHb] SLP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [JULb]-[ETHb] SLP
+Unstake 0.000000 [JULb]-[ETHb] SLP
+Claim 0.000000 JulD ($0.00)
+Revoke (set approval to 0)
+Exit
+[WBNB]-[ETHb] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,946.53 TVL: $3,042.72
+WBNB Price: $483.93
+ETHb Price: $3,585.09
+Staked: 1.0278 SLP ($3,028.58)
+JulD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WBNB]-[ETHb] SLP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [WBNB]-[ETHb] SLP
+Unstake 0.000000 [WBNB]-[ETHb] SLP
+Claim 0.000000 JulD ($0.00)
+Revoke (set approval to 0)
+Exit
+[ETHb]-[BUSD] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $128.02 TVL: $0.01
+ETHb Price: $3,585.09
+BUSD Price: $1.00
+Staked: 0.0000 SLP ($0.00)
+JulD Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [ETHb]-[BUSD] SLP $0.00 (NaN% of the pool).
+BSC Scan
+Stake 0.000000 [ETHb]-[BUSD] SLP
+Unstake 0.000000 [ETHb]-[BUSD] SLP
+Claim 0.000000 JulD ($0.00)
+Revoke (set approval to 0)
+Exit
+JulD
+ Price: $0.04 Market Cap: $32,623,447.50 
+[%]
+Staked: 1608783.8526 JulD ($65,655.66)
+JulD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 JulD $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 JulD
+Unstake 0.000000 JulD
+Claim 0.000000 JulD ($0.00)
+Revoke (set approval to 0)
+Exit
+[JULb]-[SBS] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $20,324.09 TVL: $12,179.30
+JULb Price: $3.06
+SBS Price: $0.03
+Staked: 0.0423 SLP ($858.72)
+JulD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [JULb]-[SBS] SLP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [JULb]-[SBS] SLP
+Unstake 0.000000 [JULb]-[SBS] SLP
+Claim 0.000000 JulD ($0.00)
+Revoke (set approval to 0)
+Exit
+[JulD]-[BUSD] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.58 TVL: $634,472.77
+JulD Price: $0.04
+BUSD Price: $1.00
+Staked: 12209.6424 SLP ($7,038.95)
+JulD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [JulD]-[BUSD] SLP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [JulD]-[BUSD] SLP
+Unstake 0.000000 [JulD]-[BUSD] SLP
+Claim 0.000000 JulD ($0.00)
+Revoke (set approval to 0)
+Exit
+[USDT]-[BUSD] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.75 TVL: $14,794.59
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 45.7391 SLP ($125.90)
+JulD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [USDT]-[BUSD] SLP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [USDT]-[BUSD] SLP
+Unstake 0.000000 [USDT]-[BUSD] SLP
+Claim 0.000000 JulD ($0.00)
+Revoke (set approval to 0)
+Exit
+[YVS]-[WBNB] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $28.68 TVL: $7,789.67
+YVS Price: $0.30
+WBNB Price: $483.93
+Staked: 6.3933 SLP ($183.34)
+JulD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [YVS]-[WBNB] SLP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [YVS]-[WBNB] SLP
+Unstake 0.000000 [YVS]-[WBNB] SLP
+Claim 0.000000 JulD ($0.00)
+Revoke (set approval to 0)
+Exit
+[WBNB]-[BIFI] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,769.07 TVL: $6,168.78
+WBNB Price: $483.93
+BIFI Price: $1,255.35
+Staked: 1.1325 SLP ($2,003.45)
+JulD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WBNB]-[BIFI] SLP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [WBNB]-[BIFI] SLP
+Unstake 0.000000 [WBNB]-[BIFI] SLP
+Claim 0.000000 JulD ($0.00)
+Revoke (set approval to 0)
+Exit
+[XCUR]-[WBNB] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13,660,850.97 TVL: $3,606.99
+XCUR Price: $5.13
+WBNB Price: $483.93
+Staked: 0.0000 SLP ($481.70)
+JulD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [XCUR]-[WBNB] SLP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [XCUR]-[WBNB] SLP
+Unstake 0.000000 [XCUR]-[WBNB] SLP
+Claim 0.000000 JulD ($0.00)
+Revoke (set approval to 0)
+Exit
+[LEAD]-[WBNB] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7.05 TVL: $32,453.22
+LEAD Price: $0.004958
+WBNB Price: $483.93
+Staked: 335.4741 SLP ($2,363.86)
+JulD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [LEAD]-[WBNB] SLP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [LEAD]-[WBNB] SLP
+Unstake 0.000000 [LEAD]-[WBNB] SLP
+Claim 0.000000 JulD ($0.00)
+Revoke (set approval to 0)
+Exit
+[SHIELD]-[WBNB] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $129.41 TVL: $3,394.27
+SHIELD Price: $6.20
+WBNB Price: $483.93
+Staked: 2.6265 SLP ($339.89)
+JulD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [SHIELD]-[WBNB] SLP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [SHIELD]-[WBNB] SLP
+Unstake 0.000000 [SHIELD]-[WBNB] SLP
+Claim 0.000000 JulD ($0.00)
+Revoke (set approval to 0)
+Exit
+[TFT]-[WBNB] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $17,559,656.32 TVL: $2,584.60
+TFT Price: $13.52
+WBNB Price: $483.93
+Staked: 0.0001 SLP ($1,299.45)
+JulD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [TFT]-[WBNB] SLP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [TFT]-[WBNB] SLP
+Unstake 0.000000 [TFT]-[WBNB] SLP
+Claim 0.000000 JulD ($0.00)
+Revoke (set approval to 0)
+Exit
+[RAMP]-[BUSD] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.29 TVL: $3,387.91
+RAMP Price: $0.32
+BUSD Price: $1.00
+Staked: 1565.9706 SLP ($2,020.49)
+JulD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [RAMP]-[BUSD] SLP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [RAMP]-[BUSD] SLP
+Unstake 0.000000 [RAMP]-[BUSD] SLP
+Claim 0.000000 JulD ($0.00)
+Revoke (set approval to 0)
+Exit
+[BUSD]-[TPT] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,148,904.77 TVL: $2,148.63
+BUSD Price: $1.00
+TPT Price: $0.04
+Staked: 0.0003 SLP ($1,279.30)
+JulD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [BUSD]-[TPT] SLP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [BUSD]-[TPT] SLP
+Unstake 0.000000 [BUSD]-[TPT] SLP
+Claim 0.000000 JulD ($0.00)
+Revoke (set approval to 0)
+Exit
+JulD
+ Price: $0.04 Market Cap: $32,623,447.50 
+[%]
+Staked: 34715.8207 JulD ($1,416.78)
+XCUR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 JulD $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 JulD
+Unstake 0.000000 JulD
+Claim 0.000000 XCUR ($0.00)
+Revoke (set approval to 0)
+Exit
+JULb
+ Price: $3.06 Market Cap: $1,865,127.92 
+[%]
+Staked: 0.0045 JULb ($0.01)
+XCUR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 JULb $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 JULb
+Unstake 0.000000 JULb
+Claim 0.000000 XCUR ($0.00)
+Revoke (set approval to 0)
+Exit
+JulD
+ Price: $0.04 Market Cap: $32,623,447.50 
+[%]
+Staked: 35687.0857 JulD ($1,456.42)
+SRK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 JulD $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 JulD
+Unstake 0.000000 JulD
+Claim 0.000000 SRK ($0.00)
+Revoke (set approval to 0)
+Exit
+JULb
+ Price: $3.06 Market Cap: $1,865,127.92 
+[%]
+Staked: 2.5861 JULb ($7.91)
+SRK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 JULb $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 JULb
+Unstake 0.000000 JULb
+Claim 0.000000 SRK ($0.00)
+Revoke (set approval to 0)
+Exit
+JulD
+ Price: $0.04 Market Cap: $32,623,447.50 
+[%]
+Staked: 65395.2132 JulD ($2,668.83)
+LEAD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 JulD $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 JulD
+Unstake 0.000000 JulD
+Claim 0.000000 LEAD ($0.00)
+Revoke (set approval to 0)
+Exit
+JULb
+ Price: $3.06 Market Cap: $1,865,127.92 
+[%]
+Staked: 10.0053 JULb ($30.59)
+LEAD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 JULb $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 JULb
+Unstake 0.000000 JULb
+Claim 0.000000 LEAD ($0.00)
+Revoke (set approval to 0)
+Exit
+JulD
+ Price: $0.04 Market Cap: $32,623,447.50 
+[%]
+Staked: 28955.7154 JulD ($1,181.70)
+SHIELD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 JulD $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 JulD
+Unstake 0.000000 JulD
+Claim 0.000000 SHIELD ($0.00)
+Revoke (set approval to 0)
+Exit
+JULb
+ Price: $3.06 Market Cap: $1,865,127.92 
+[%]
+Staked: 20.4286 JULb ($62.46)
+SHIELD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 JULb $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 JULb
+Unstake 0.000000 JULb
+Claim 0.000000 SHIELD ($0.00)
+Revoke (set approval to 0)
+Exit
+JulD
+ Price: $0.04 Market Cap: $32,623,447.50 
+[%]
+Staked: 81014.3485 JulD ($3,306.26)
+TFT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 JulD $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 JulD
+Unstake 0.000000 JulD
+Claim 0.000000 TFT ($0.00)
+Revoke (set approval to 0)
+Exit
+JULb
+ Price: $3.06 Market Cap: $1,865,127.92 
+[%]
+Staked: 38.5172 JULb ($117.76)
+TFT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 JULb $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 JULb
+Unstake 0.000000 JULb
+Claim 0.000000 TFT ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $412,011.52

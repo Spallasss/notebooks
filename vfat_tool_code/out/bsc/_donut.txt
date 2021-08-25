@@ -1,0 +1,360 @@
+INFO  : https://donutdefi.com
+**********************************************************************************
+
+Mon Aug 23 2021 13:34:46 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 22 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[DONUT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.08 TVL: $1,753.06
+DONUT Price: $0.001359
+BUSD Price: $1.00
+Staked: 21275.9316 Cake-LP ($1,683.07)
+DONUT Per Week: 62511.63 ($84.98)
+APR: Day 0.72% Week 5.05% Year 262.56%
+You are staking 0.00 [DONUT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DONUT]-[BUSD] Cake LP
+Unstake 0.00 [DONUT]-[BUSD] Cake LP
+Claim 0.00 DONUT ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[DONUT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.77 TVL: $2,949.08
+DONUT Price: $0.001359
+WBNB Price: $481.19
+Staked: 596.8955 Cake-LP ($1,055.11)
+DONUT Per Week: 37506.98 ($50.99)
+APR: Day 0.69% Week 4.83% Year 251.29%
+You are staking 0.00 [DONUT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DONUT]-[WBNB] Cake LP
+Unstake 0.00 [DONUT]-[WBNB] Cake LP
+Claim 0.00 DONUT ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.34 TVL: $3,320,181.28
+WBNB Price: $481.19
+BUSD Price: $1.00
+Staked: 6.4548 Cake-LP ($415.31)
+DONUT Per Week: 7813.95 ($10.62)
+APR: Day 0.37% Week 2.56% Year 133.00%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 DONUT ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.14 TVL: $4,007,056.15
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 454.9171 Cake-LP ($971.42)
+DONUT Per Week: 6251.16 ($8.50)
+APR: Day 0.12% Week 0.87% Year 45.49%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 DONUT ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,872.98 TVL: $1,947,672.64
+BTCB Price: $50,236.00
+WBNB Price: $481.19
+Staked: 0.0299 Cake-LP ($325.42)
+DONUT Per Week: 9376.74 ($12.75)
+APR: Day 0.56% Week 3.92% Year 203.69%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 DONUT ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,848.55 TVL: $3,506,034.04
+ETH Price: $3,320.11
+WBNB Price: $481.19
+Staked: 0.1333 Cake-LP ($379.78)
+DONUT Per Week: 9376.74 ($12.75)
+APR: Day 0.48% Week 3.36% Year 174.53%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 DONUT ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $2,587,194.29
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 254.9876 Cake-LP ($522.00)
+DONUT Per Week: 6251.16 ($8.50)
+APR: Day 0.23% Week 1.63% Year 84.66%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 DONUT ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.26 TVL: $1,019,716.87
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 115.2909 Cake-LP ($260.06)
+DONUT Per Week: 6251.16 ($8.50)
+APR: Day 0.47% Week 3.27% Year 169.92%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 DONUT ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $251.38 TVL: $670,968.84
+DOT Price: $28.00
+WBNB Price: $481.19
+Staked: 10.3496 Cake-LP ($2,601.69)
+DONUT Per Week: 9376.74 ($12.75)
+APR: Day 0.07% Week 0.49% Year 25.48%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 DONUT ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[Cake]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $15.68 TVL: $180,208.31
+Cake Price: $25.02
+BUSD Price: $1.00
+Staked: 10.9052 Cake-LP ($171.05)
+DONUT Per Week: 3125.58 ($4.25)
+APR: Day 0.35% Week 2.48% Year 129.18%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 DONUT ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $260.04 TVL: $8,022,109.24
+Cake Price: $25.02
+WBNB Price: $481.19
+Staked: 3.9875 Cake-LP ($1,036.91)
+DONUT Per Week: 3125.58 ($4.25)
+APR: Day 0.06% Week 0.41% Year 21.31%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 DONUT ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+DONUT
+ Price: $0.001359 Market Cap: $7,232.29 
+[%]
+Staked: 2373495.0618 DONUT ($3,226.63)
+DONUT Per Week: 15627.91 ($21.25)
+APR: Day 0.09% Week 0.66% Year 34.24%
+You are staking 0.00 DONUT ($0.00), 0.00% of the pool.
+Stake 0.00 DONUT
+Unstake 0.00 DONUT
+Claim 0.00 DONUT ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+BUSD
+ Price: $1.00 Market Cap: $4,199,848,326.16 
+[%]
+Staked: 327.2436 BUSD ($327.15)
+DONUT Per Week: 3125.58 ($4.25)
+APR: Day 0.19% Week 1.30% Year 67.54%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 DONUT ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+WBNB
+ Price: $481.19 Market Cap: $3,410,090,728.75 
+[%]
+Staked: 4.4199 WBNB ($2,126.81)
+DONUT Per Week: 4688.37 ($6.37)
+APR: Day 0.04% Week 0.30% Year 15.58%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 DONUT ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+USDT
+ Price: $1.00 Market Cap: $3,377,736,703.57 
+[%]
+Staked: 886.0531 USDT ($885.46)
+DONUT Per Week: 1562.79 ($2.12)
+APR: Day 0.03% Week 0.24% Year 12.48%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 DONUT ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+BTCB
+ Price: $50,236.00 Market Cap: $4,295,228,236.00 
+[%]
+Staked: 0.0055 BTCB ($276.91)
+DONUT Per Week: 3125.58 ($4.25)
+APR: Day 0.22% Week 1.53% Year 79.79%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 DONUT ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+ETH
+ Price: $3,320.11 Market Cap: $4,332,743,550.00 
+[%]
+Staked: 0.0512 ETH ($169.97)
+DONUT Per Week: 3125.58 ($4.25)
+APR: Day 0.36% Week 2.50% Year 129.99%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 DONUT ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+DAI
+ Price: $1.00 Market Cap: $261,920,614.00 
+[%]
+Staked: 129.4471 DAI ($129.41)
+DONUT Per Week: 1562.79 ($2.12)
+APR: Day 0.23% Week 1.64% Year 85.37%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 DONUT ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,181,862.00 
+[%]
+Staked: 540.6302 USDC ($540.08)
+DONUT Per Week: 1562.79 ($2.12)
+APR: Day 0.06% Week 0.39% Year 20.46%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 DONUT ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+DOT
+ Price: $28.00 Market Cap: $391,999,999.86 
+[%]
+Staked: 10.4993 DOT ($293.98)
+DONUT Per Week: 3125.58 ($4.25)
+APR: Day 0.21% Week 1.45% Year 75.16%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 DONUT ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+Cake
+ Price: $25.02 Market Cap: $10,410,973,525.22 
+[%]
+Staked: 6.3688 Cake ($159.35)
+DONUT Per Week: 1562.79 ($2.12)
+APR: Day 0.19% Week 1.33% Year 69.33%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 DONUT ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+BSCX
+ Price: $2.45 Market Cap: $24,459,320.20 
+[%]
+Staked: 54.1406 BSCX ($132.64)
+DONUT Per Week: 1562.79 ($2.12)
+APR: Day 0.23% Week 1.60% Year 83.29%
+You are staking 0.00 BSCX ($0.00), 0.00% of the pool.
+Stake 0.00 BSCX - Fee 4%
+Unstake 0.00 BSCX
+Claim 0.00 DONUT ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $17,690.21

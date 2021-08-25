@@ -1,0 +1,179 @@
+***************************** POLYGON NETWORK ***************************************
+
+
+__   __           __  ___  __   __  
+|__) /  \ |    \ /  / |__  |__) /  \ 
+|    \__/ |___  |  /_ |___ |  \ \__/ 
+                                     
+vfat + contracts = PolyZero
+
+zero Telegram, zero Twitter, zero Website
+
+Showing support for the PolyMaple team - check them out.
+
+
+
+LINKS:
+  * 
+BUY ZERO
+
+  * 
+ADD LIQUIDITY
+
+
+TOKEN:
+  * Symbol: 
+ZERO
+
+  * Anti-whale  (0.5% Max total supply transfer amount)
+  * 5% Transfer Fee - 5% Burned
+  * 10000 Tokens Pre-mined: 10000 to LP 
+  * Liquidity Locked: 
+0xe654f4B8fe6552CaC2809Ef0226a9c07b0291f0C
+
+  * Timelock - 24 hrs - https://polygonscan.com/tx/0x7a05e23dace3314c17f3c679a2ceba8dd341da86f4bf364c52e3dcf4200e9aae
+
+FARMING:
+  * Masterchef: 
+0xbcEbb61CCC0e468103BDecC538356191BC55dB32
+
+  * Farming Starts on Block:          15880000 — Fri Jun 18 2021 - https://polygonscan.com/block/countdown/15880000
+  * Purchase ZERO Starting on Block:  15920000 - Sat Jun 19 2021 - https://polygonscan.com/block/countdown/15920000
+  * Harvest Starts on Block:          15960000 - Sun Jun 20 2021 - https://polygonscan.com/block/countdown/15960000
+  * Harvest Cooldowns:
+      - Native:     12 Hours
+      - Non-Native: 23 Hours
+
+DEPOSIT FEES:
+  * 0% On Native Farms
+  * 3% On Non-Native Farms
+    * 1% for Buyback and Burns
+
+NOTES:
+  * Use 6% slippage when swapping tokens due to transfer fee.
+
+
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:37:55 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 7 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+Zero
+ Price: $0.000116 Market Cap: $109.99 
+[%]
+Staked: 438910.4076 Zero ($50.95)
+ZERO Per Week: 23225.81 ($2.70)
+APR: Day 0.76% Week 5.29% Year 275.17%
+You are staking 0.00 Zero ($0.00), 0.00% of the pool.
+Stake 0.00 Zero
+Unstake 0.00 Zero
+Claim 0.00 ZERO ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[Zero] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $82.49
+WMATIC Price: $1.65
+Zero Price: $0.000116
+Staked: 520.0713 UNI-V2 ($15.18)
+ZERO Per Week: 74322.58 ($8.63)
+APR: Day 8.12% Week 56.84% Year 2955.86%
+You are staking 0.00 [WMATIC]-[Zero] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[Zero] Uni LP
+Unstake 0.00 [WMATIC]-[Zero] Uni LP
+Claim 0.00 ZERO ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+USDC
+ Price: $1.00 Market Cap: $1,046,055,346.92 
+[%]
+Staked: 204.1055 USDC ($203.67)
+ZERO Per Week: 9290.32 ($1.08)
+APR: Day 0.08% Week 0.53% Year 27.53%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 3%
+Unstake 0.00 USDC
+Claim 0.00 ZERO ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WMATIC
+ Price: $1.65 Market Cap: $605,444,572.09 
+[%]
+Staked: 218.1973 WMATIC ($360.03)
+ZERO Per Week: 9290.32 ($1.08)
+APR: Day 0.04% Week 0.30% Year 15.58%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 3%
+Unstake 0.00 WMATIC
+Claim 0.00 ZERO ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WETH
+ Price: $3,322.30 Market Cap: $2,028,656,906.11 
+[%]
+Staked: 0.0060 WETH ($19.93)
+ZERO Per Week: 9290.32 ($1.08)
+APR: Day 0.77% Week 5.41% Year 281.33%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 3%
+Unstake 0.00 WETH
+Claim 0.00 ZERO ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WMATIC]-[MAPLE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.60 TVL: $19,042.57
+WMATIC Price: $1.65
+MAPLE Price: $0.04
+Staked: 346.5928 UNI-V2 ($209.65)
+ZERO Per Week: 9290.32 ($1.08)
+APR: Day 0.07% Week 0.51% Year 26.75%
+You are staking 0.00 [WMATIC]-[MAPLE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[MAPLE] Uni LP - Fee 1.5%
+Unstake 0.00 [WMATIC]-[MAPLE] Uni LP
+Claim 0.00 ZERO ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[WBTC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,291,672,960,511.17 TVL: $97,795,576.91
+WBTC Price: $50,162.00
+WETH Price: $3,322.30
+Staked: 0.0000 UNI-V2 ($18.08)
+ZERO Per Week: 9290.32 ($1.08)
+APR: Day 0.85% Week 5.96% Year 310.12%
+You are staking 0.00 [WBTC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] Uni LP - Fee 3%
+Unstake 0.00 [WBTC]-[WETH] Uni LP
+Claim 0.00 ZERO ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $877.50

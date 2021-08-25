@@ -1,0 +1,266 @@
+INFO  : https://www.chickenfarms.live
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:13:09 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 18 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[Chicken] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $91,868.09 TVL: $3.81
+USDC Price: $1.00
+Chicken Price: $0.001762
+Staked: 0.0000 UNI-V2 ($1.53)
+CHICKEN Per Week: 61.28 ($0.11)
+APR: Day 1.01% Week 7.07% Year 367.56%
+You are staking 0.00 [USDC]-[Chicken] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[Chicken] Uni LP
+Unstake 0.00 [USDC]-[Chicken] Uni LP
+Claim 0.00 CHICKEN ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[Chicken] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.12 TVL: $3.51
+WMATIC Price: $1.64
+Chicken Price: $0.001762
+Staked: 3.0015 UNI-V2 ($0.35)
+CHICKEN Per Week: 61.28 ($0.11)
+APR: Day 4.38% Week 30.67% Year 1594.82%
+You are staking 0.00 [WMATIC]-[Chicken] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[Chicken] Uni LP
+Unstake 0.00 [WMATIC]-[Chicken] Uni LP
+Claim 0.00 CHICKEN ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,600,990.64 TVL: $33,291,066.03
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($3.37)
+CHICKEN Per Week: 49.02 ($0.09)
+APR: Day 0.37% Week 2.56% Year 133.26%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 CHICKEN ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WMATIC]-[USDC] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,868,219.43 TVL: $4,897,845.79
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0000 SLP ($5.57)
+CHICKEN Per Week: 49.02 ($0.09)
+APR: Day 0.22% Week 1.55% Year 80.63%
+You are staking 0.00 [WMATIC]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] SLP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] SLP
+Claim 0.00 CHICKEN ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $74,882,644.00 TVL: $21,362,669.89
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 UNI-V2 ($1.92)
+CHICKEN Per Week: 49.02 ($0.09)
+APR: Day 0.64% Week 4.50% Year 234.01%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 CHICKEN ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[USDC]-[DAI] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,030,979.74 TVL: $23,046,624.42
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 SLP ($1.21)
+CHICKEN Per Week: 49.02 ($0.09)
+APR: Day 1.02% Week 7.16% Year 372.38%
+You are staking 0.00 [USDC]-[DAI] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] SLP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] SLP
+Claim 0.00 CHICKEN ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+Chicken
+ Price: $0.001762 Market Cap: $6.07 
+[%]
+Staked: 627.6707 Chicken ($1.11)
+CHICKEN Per Week: 55.15 ($0.10)
+APR: Day 1.26% Week 8.79% Year 456.89%
+You are staking 0.00 Chicken ($0.00), 0.00% of the pool.
+Stake 0.00 Chicken
+Unstake 0.00 Chicken
+Claim 0.00 CHICKEN ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WMATIC
+ Price: $1.64 Market Cap: $601,970,880.06 
+[%]
+Staked: 96.1901 WMATIC ($157.75)
+CHICKEN Per Week: 49.02 ($0.09)
+APR: Day 0.01% Week 0.05% Year 2.85%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 CHICKEN ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+DAI
+ Price: $1.00 Market Cap: $375,664,195.61 
+[%]
+Staked: 1.3240 DAI ($1.32)
+CHICKEN Per Week: 49.02 ($0.09)
+APR: Day 0.93% Week 6.53% Year 339.81%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 CHICKEN ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+WETH
+ Price: $3,320.03 Market Cap: $2,027,862,868.46 
+[%]
+Staked: 0.0004 WETH ($1.47)
+CHICKEN Per Week: 45.96 ($0.08)
+APR: Day 0.79% Week 5.50% Year 286.26%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 CHICKEN ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+QUICK
+ Price: $727.30 Market Cap: $696,220,053.63 
+[%]
+Staked: 0.0034 QUICK ($2.45)
+CHICKEN Per Week: 42.89 ($0.08)
+APR: Day 0.44% Week 3.08% Year 160.40%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 CHICKEN ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+WBTC
+ Price: $50,015.00 Market Cap: $697,151,944.58 
+[%]
+Staked: 0.0002 WBTC ($8.37)
+CHICKEN Per Week: 36.77 ($0.06)
+APR: Day 0.11% Week 0.77% Year 40.27%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 CHICKEN ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+AAVE
+ Price: $408.06 Market Cap: $155,338,070.10 
+[%]
+Staked: 0.0115 AAVE ($4.68)
+CHICKEN Per Week: 30.64 ($0.05)
+APR: Day 0.16% Week 1.15% Year 60.05%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 CHICKEN ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+SUSHI
+ Price: $13.80 Market Cap: $13,988,864.84 
+[%]
+Staked: 0.0530 SUSHI ($0.73)
+CHICKEN Per Week: 30.64 ($0.05)
+APR: Day 1.06% Week 7.39% Year 384.03%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 4%
+Unstake 0.00 SUSHI
+Claim 0.00 CHICKEN ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+UNI
+ Price: $29.16 Market Cap: $11,901,064.28 
+[%]
+Staked: 0.0218 UNI ($0.63)
+CHICKEN Per Week: 30.64 ($0.05)
+APR: Day 1.22% Week 8.51% Year 442.37%
+You are staking 0.00 UNI ($0.00), 0.00% of the pool.
+Stake 0.00 UNI - Fee 4%
+Unstake 0.00 UNI
+Claim 0.00 CHICKEN ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+CRV
+ Price: $2.43 Market Cap: $6,972,979.67 
+[%]
+Staked: 2.0376 CRV ($4.95)
+CHICKEN Per Week: 15.32 ($0.03)
+APR: Day 0.08% Week 0.55% Year 28.35%
+You are staking 0.00 CRV ($0.00), 0.00% of the pool.
+Stake 0.00 CRV - Fee 4%
+Unstake 0.00 CRV
+Claim 0.00 CHICKEN ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+PolyDoge
+ Price: $0.0000000064 Market Cap: $6,408,000.00 
+[%]
+Staked: 93973806.4833 PolyDoge ($0.60)
+CHICKEN Per Week: 15.32 ($0.03)
+APR: Day 0.64% Week 4.48% Year 233.11%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 4%
+Unstake 0.00 PolyDoge
+Claim 0.00 CHICKEN ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $198.01

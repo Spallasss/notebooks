@@ -1,0 +1,84 @@
+INFO  : https://debaseonomics.io/
+***************************************************************************
+
+Mon Aug 23 2021 15:23:11 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Beta Version: APR is not being calculated for the Stabilizer pool.
+
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[DAI]-[DEBASE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.77 TVL: $33,192.64
+DAI Price: $1.00
+DEBASE Price: $0.12
+Staked: 8.8408 UNI-V2 ($42.14)
+DEBASE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 undefined $0.00 (0.00% of the pool).
+Stake 0.000000 undefined
+Unstake 0.000000 undefined
+Claim 0.000000 DEBASE
+Exit
+
+
+DAI
+ Price: $1.00 Market Cap: $5,780,474,857.49 
+[%]
+Staked: 11433.9947 DAI ($11,433.99)
+DEBASE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 undefined $0.00 (0.00% of the pool).
+Stake 0.000000 undefined
+Unstake 0.000000 undefined
+Claim 0.000000 DEBASE
+Exit
+
+
+[DAI]-[DEBASE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.77 TVL: $33,192.64
+DAI Price: $1.00
+DEBASE Price: $0.12
+Staked: 416.3060 UNI-V2 ($1,984.22)
+DEGOV Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 undefined $0.00 (0.00% of the pool).
+Stake 0.000000 undefined
+Unstake 0.000000 undefined
+Claim 0.000000 DEGOV
+Exit
+
+
+[DAI]-[DEBASE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.77 TVL: $33,192.64
+DAI Price: $1.00
+DEBASE Price: $0.12
+Staked: 1378.9136 UNI-V2 ($6,572.25)
+DEBASE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 undefined $0.00 (0.00% of the pool).
+Stake 0.000000 undefined
+Unstake 0.000000 undefined
+Claim 0.000000 DEBASE
+Exit
+

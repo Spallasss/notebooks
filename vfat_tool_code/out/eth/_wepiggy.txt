@@ -1,0 +1,74 @@
+INFO  : https://www.wepiggy.com/markets
+*****************************************************************
+
+Mon Aug 23 2021 15:48:46 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Deposit Market Size : $37,020,029.25
+Borrow Market Size : $14,518,249.23
+TVL : $22,541,630.10
+ETH ($3,349.94)
+Supplied : 2,982.71 ($9,991,911.23) at 2.00% APY
+Borrowed : 1,262.04 ($4,227,749.43) at 5.35% APY
+Reserves : 1.61 ($5,397.02)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 2.00% Borrow -5.35%
+DAI ($1.00)
+Supplied : 1,747,338.51 ($1,748,463.28) at 3.92% APY
+Borrowed : 1,404,018.16 ($1,404,921.93) at 5.46% APY
+Reserves : 4,292.47 ($4,295.23)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 3.92% Borrow -5.46%
+USDT ($1.00)
+Supplied : 3,243,901.14 ($3,243,901.14) at 1.13% APY
+Borrowed : 1,623,467.42 ($1,623,467.42) at 2.53% APY
+Reserves : 8,444.03 ($8,444.03)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 1.13% Borrow -2.53%
+USDC ($1.00)
+Supplied : 2,819,137.77 ($2,819,137.77) at 2.61% APY
+Borrowed : 2,132,784.52 ($2,132,784.52) at 3.86% APY
+Reserves : 7,815.42 ($7,815.42)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 2.61% Borrow -3.86%
+WBTC ($50,319.62)
+Supplied : 285.07 ($14,344,616.47) at 0.93% APY
+Borrowed : 87.42 ($4,399,160.02) at 3.85% APY
+Reserves : 0.22 ($10,919.29)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 0.93% Borrow -3.85%
+UNI ($29.47)
+Supplied : 29,548.48 ($870,673.97) at 0.14% APY
+Borrowed : 1,429.34 ($42,116.88) at 3.76% APY
+Reserves : 26.67 ($785.95)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 0.14% Borrow -3.76%
+YFII ($4,290.11)
+Supplied : 204.00 ($875,198.67) at 1.27% APY
+Borrowed : 37.82 ($162,245.85) at 8.86% APY
+Reserves : 0.37 ($1,593.94)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 1.27% Borrow -8.86%
+LRC ($0.51)
+Supplied : 3,074,467.24 ($1,575,482.91) at 2.77% APY
+Borrowed : 877,056.28 ($449,439.55) at 12.73% APY
+Reserves : 1,145.70 ($587.11)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 2.77% Borrow -12.73%
+xLON ($3.20)
+Supplied : 419,250.79 ($1,343,065.79) at 0.05% APY
+Borrowed : 9,502.05 ($30,439.71) at 2.83% APY
+Reserves : 3.58 ($11.45)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 0.05% Borrow -2.83%
+RAI ($3.06)
+Supplied : 67,809.83 ($207,578.02) at 0.20% APY
+Borrowed : 15,002.04 ($45,923.92) at 1.11% APY
+Reserves : 0.21 ($0.63)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 0.20% Borrow -1.11%

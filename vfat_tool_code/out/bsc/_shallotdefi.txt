@@ -1,0 +1,311 @@
+INFO  : https://shallotdefi.com/
+************************************************************************************
+
+Mon Aug 23 2021 15:12:58 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 18 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,667.26 TVL: $263,258,641.03
+ETH Price: $3,334.12
+WBNB Price: $489.12
+Staked: 0.0010 Cake-LP ($2.57)
+SHALLOT Per Week: 59950.21 ($5.22)
+APR: Day 29.08% Week 203.58% Year 10586.32%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,207,879.86
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 66.4257 Cake-LP ($135.93)
+SHALLOT Per Week: 36248.96 ($3.16)
+APR: Day 0.33% Week 2.32% Year 120.82%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,254.41 TVL: $174,597,359.06
+BTCB Price: $49,844.00
+WBNB Price: $489.12
+Staked: 0.0000 Cake-LP ($0.00)
+SHALLOT Per Week: 59950.21 ($5.22)
+APR: Day 7523264.58% Week 52662852.07% Year 2738468307.54%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[ETH]-[BTCB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $26,809.35 TVL: $153,747,797.79
+ETH Price: $3,334.12
+BTCB Price: $49,844.00
+Staked: 0.0007 Cake-LP ($18.32)
+SHALLOT Per Week: 59950.21 ($5.22)
+APR: Day 4.07% Week 28.52% Year 1482.81%
+You are staking 0.00 [ETH]-[BTCB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BTCB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[BTCB] Cake LP
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $227.70 TVL: $1,041,677,408.26
+Cake Price: $25.35
+WBNB Price: $489.12
+Staked: 0.0000 Cake-LP ($0.00)
+SHALLOT Per Week: 59950.21 ($5.22)
+APR: Day 2586085.11% Week 18102595.76% Year 941334979.42%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WBNB]-[LINK] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $242.49 TVL: $47,923,280.30
+WBNB Price: $489.12
+LINK Price: $28.79
+Staked: 0.0229 Cake-LP ($5.56)
+SHALLOT Per Week: 59950.21 ($5.22)
+APR: Day 13.43% Week 94.02% Year 4889.16%
+You are staking 0.00 [WBNB]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LINK] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[LINK] Cake LP
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $242.51 TVL: $83,394,952.78
+DOT Price: $28.20
+WBNB Price: $489.12
+Staked: 0.0701 Cake-LP ($17.00)
+SHALLOT Per Week: 59950.21 ($5.22)
+APR: Day 4.39% Week 30.72% Year 1597.39%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[WBNB]-[BUNNY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $156.96 TVL: $11,332,175.36
+WBNB Price: $489.12
+BUNNY Price: $7.66
+Staked: 0.0958 Cake-LP ($15.04)
+SHALLOT Per Week: 59950.21 ($5.22)
+APR: Day 4.96% Week 34.74% Year 1806.44%
+You are staking 0.00 [WBNB]-[BUNNY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUNNY] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUNNY] Cake LP
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+SHALLOT
+ Price: $0.00 Market Cap: $0.00 
+Staked: 710439.9320 SHALLOT ($0.00)
+SHALLOT Per Week: 65526.97 ($5.71)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SHALLOT ($0.00), NaN% of the pool.
+Stake 0.00 SHALLOT
+Unstake 0.00 SHALLOT
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+BUSD
+ Price: $1.00 Market Cap: $4,194,840,734.88 
+[%]
+Staked: 10.2154 BUSD ($10.20)
+SHALLOT Per Week: 28580.91 ($2.49)
+APR: Day 3.49% Week 24.41% Year 1269.45%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 15.9377 USDT ($15.93)
+SHALLOT Per Week: 28580.91 ($2.49)
+APR: Day 2.23% Week 15.63% Year 812.63%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+ETH
+ Price: $3,334.12 Market Cap: $4,351,026,600.00 
+[%]
+Staked: 0.0580 ETH ($193.23)
+SHALLOT Per Week: 52282.16 ($4.56)
+APR: Day 0.34% Week 2.36% Year 122.58%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+WBNB
+ Price: $489.12 Market Cap: $3,448,020,068.69 
+[%]
+Staked: 0.2986 WBNB ($146.03)
+SHALLOT Per Week: 52282.16 ($4.56)
+APR: Day 0.45% Week 3.12% Year 162.21%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+BTCB
+ Price: $49,844.00 Market Cap: $4,261,711,844.00 
+[%]
+Staked: 0.0000 BTCB ($0.00)
+SHALLOT Per Week: 52282.16 ($4.56)
+APR: Day 19257.41% Week 134801.86% Year 7009696.55%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+Cake
+ Price: $25.35 Market Cap: $10,549,135,101.43 
+[%]
+Staked: 0.9958 Cake ($25.24)
+SHALLOT Per Week: 52282.16 ($4.56)
+APR: Day 2.58% Week 18.04% Year 938.33%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.98 TVL: $526,663,602.53
+WBNB Price: $489.12
+BUSD Price: $1.00
+Staked: 0.2385 Cake-LP ($11.92)
+SHALLOT Per Week: 59950.21 ($5.22)
+APR: Day 6.26% Week 43.81% Year 2277.99%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[SHALLOT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $13.29
+SHALLOT Price: $0.0000871273
+BUSD Price: $1.00
+Staked: 437.9930 Cake-LP ($9.01)
+SHALLOT Per Week: 83651.45 ($7.29)
+APR: Day 11.56% Week 80.91% Year 4207.34%
+You are staking 0.00 [SHALLOT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SHALLOT]-[BUSD] Cake LP
+Unstake 0.00 [SHALLOT]-[BUSD] Cake LP
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[SHALLOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.52 TVL: $29.60
+SHALLOT Price: $0.0000871273
+WBNB Price: $489.12
+Staked: 26.8154 Cake-LP ($13.86)
+SHALLOT Per Week: 76680.50 ($6.68)
+APR: Day 6.89% Week 48.20% Year 2506.63%
+You are staking 0.00 [SHALLOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SHALLOT]-[WBNB] Cake LP
+Unstake 0.00 [SHALLOT]-[WBNB] Cake LP
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $619.85

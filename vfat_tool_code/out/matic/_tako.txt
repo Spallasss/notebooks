@@ -1,0 +1,153 @@
+INFO  : https://takodefi.com
+********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:57:00 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 7 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WMATIC]-[TAKO] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.60 TVL: $51,202.70
+WMATIC Price: $1.65
+TAKO Price: $0.38
+Staked: 5807.4328 APE-LP ($9,291.74)
+TAKO Per Week: 1998.00 ($753.74)
+APR: Day 1.16% Week 8.11% Year 421.82%
+You are staking 0.00 [WMATIC]-[TAKO] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[TAKO] APE LP
+Unstake 0.00 [WMATIC]-[TAKO] APE LP
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[WETH] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $148.86 TVL: $22,002,982.59
+WMATIC Price: $1.65
+WETH Price: $3,325.62
+Staked: 34.5662 APE-LP ($5,145.43)
+TAKO Per Week: 1598.40 ($603.00)
+APR: Day 1.67% Week 11.72% Year 609.39%
+You are staking 0.00 [WMATIC]-[WETH] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] APE LP - Fee 1.5%
+Unstake 0.00 [WMATIC]-[WETH] APE LP
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[USDT] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,595,775.25 TVL: $5,891,029.71
+WMATIC Price: $1.65
+USDT Price: $1.00
+Staked: 0.0020 APE-LP ($5,136.03)
+TAKO Per Week: 1598.40 ($603.00)
+APR: Day 1.68% Week 11.74% Year 610.51%
+You are staking 0.00 [WMATIC]-[USDT] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDT] APE LP - Fee 1.5%
+Unstake 0.00 [WMATIC]-[USDT] APE LP
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[USDT] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,009,292,783,319.40 TVL: $1,096,144.09
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 APE-LP ($12,616.29)
+TAKO Per Week: 799.20 ($301.50)
+APR: Day 0.34% Week 2.39% Year 124.27%
+You are staking 0.00 [USDC]-[USDT] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] APE LP - Fee 1.5%
+Unstake 0.00 [USDC]-[USDT] APE LP
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BANANA]-[WETH] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $250.07 TVL: $1,996,347.06
+BANANA Price: $4.65
+WETH Price: $3,325.62
+Staked: 4.3261 APE-LP ($1,081.80)
+TAKO Per Week: 1198.80 ($452.25)
+APR: Day 5.97% Week 41.81% Year 2173.87%
+You are staking 0.00 [BANANA]-[WETH] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BANANA]-[WETH] APE LP - Fee 1.5%
+Unstake 0.00 [BANANA]-[WETH] APE LP
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WMATIC]-[CRYSTL] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.81 TVL: $3,005,276.31
+WMATIC Price: $1.65
+CRYSTL Price: $1.14
+Staked: 1555.0258 APE-LP ($4,364.00)
+TAKO Per Week: 1198.80 ($452.25)
+APR: Day 1.48% Week 10.36% Year 538.88%
+You are staking 0.00 [WMATIC]-[CRYSTL] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[CRYSTL] APE LP
+Unstake 0.00 [WMATIC]-[CRYSTL] APE LP
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[WMATIC]-[INKU] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.49 TVL: $6,225.59
+WMATIC Price: $1.65
+INKU Price: $3.00
+Staked: 1210.9616 APE-LP ($5,435.90)
+TAKO Per Week: 1198.80 ($452.25)
+APR: Day 1.19% Week 8.32% Year 432.62%
+You are staking 0.00 [WMATIC]-[INKU] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[INKU] APE LP
+Unstake 0.00 [WMATIC]-[INKU] APE LP
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $43,071.17

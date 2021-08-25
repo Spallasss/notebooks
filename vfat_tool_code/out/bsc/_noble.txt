@@ -1,0 +1,243 @@
+INFO  : https://app.noblefinance.co
+****************************************************************************************
+
+Mon Aug 23 2021 09:31:29 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 14 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.94 TVL: $529,489,905.98
+WBNB Price: $488.03
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+NOBLE Per Week: 935.03 ($0.17)
+APR: Day 10095.50% Week 70668.47% Year 3674760.59%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 NOBLE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,242.92 TVL: $174,401,421.39
+BTCB Price: $49,844.00
+WBNB Price: $488.03
+Staked: 0.0000 Cake-LP ($0.03)
+NOBLE Per Week: 623.35 ($0.11)
+APR: Day 48.18% Week 337.28% Year 17538.68%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 NOBLE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $242.15 TVL: $83,258,316.13
+DOT Price: $28.18
+WBNB Price: $488.03
+Staked: 0.0002 Cake-LP ($0.04)
+NOBLE Per Week: 623.35 ($0.11)
+APR: Day 37.69% Week 263.82% Year 13718.52%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 NOBLE ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,664.33 TVL: $262,969,050.49
+ETH Price: $3,334.33
+WBNB Price: $488.03
+Staked: 0.0000 Cake-LP ($0.04)
+NOBLE Per Week: 623.35 ($0.11)
+APR: Day 45.68% Week 319.74% Year 16626.41%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 NOBLE ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,995,001.91
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+NOBLE Per Week: 623.35 ($0.11)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 NOBLE ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[USDT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.82 TVL: $252,805,852.59
+USDT Price: $1.00
+WBNB Price: $488.03
+Staked: 0.0000 Cake-LP ($0.00)
+NOBLE Per Week: 623.35 ($0.11)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 NOBLE ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+BUSD
+ Price: $1.00 Market Cap: $4,196,932,832.58 
+[%]
+Staked: 1.6416 BUSD ($1.64)
+NOBLE Per Week: 935.03 ($0.17)
+APR: Day 1.48% Week 10.39% Year 540.48%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 NOBLE ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WBNB
+ Price: $488.03 Market Cap: $3,446,415,549.95 
+[%]
+Staked: 0.0000 WBNB ($0.00)
+NOBLE Per Week: 935.03 ($0.17)
+APR: Day 5197.65% Week 36383.54% Year 1891943.86%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 NOBLE ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 0.0096 USDT ($0.01)
+NOBLE Per Week: 311.68 ($0.06)
+APR: Day 84.57% Week 591.99% Year 30783.45%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 NOBLE ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+BTCB
+ Price: $49,844.00 Market Cap: $4,261,711,844.00 
+[%]
+Staked: 0.0000 BTCB ($1.48)
+NOBLE Per Week: 311.68 ($0.06)
+APR: Day 0.55% Week 3.85% Year 200.23%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 NOBLE ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+ETH
+ Price: $3,334.33 Market Cap: $4,351,300,650.00 
+[%]
+Staked: 0.0000 ETH ($0.00)
+NOBLE Per Week: 311.68 ($0.06)
+APR: Day 253.58% Week 1775.09% Year 92304.94%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 NOBLE ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[NOBLE]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $18.13
+NOBLE Price: $0.000182
+BUSD Price: $1.00
+Staked: 56.6797 Cake-LP ($1.54)
+NOBLE Per Week: 7791.89 ($1.42)
+APR: Day 13.14% Week 91.95% Year 4781.48%
+You are staking 0.00 [NOBLE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NOBLE]-[BUSD] Cake LP
+Unstake 0.00 [NOBLE]-[BUSD] Cake LP
+Claim 0.00 NOBLE ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[NOBLE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.72 TVL: $2.05
+NOBLE Price: $0.000182
+WBNB Price: $488.03
+Staked: 2.7035 Cake-LP ($1.96)
+NOBLE Per Week: 7791.89 ($1.42)
+APR: Day 10.38% Week 72.66% Year 3778.25%
+You are staking 0.00 [NOBLE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NOBLE]-[WBNB] Cake LP
+Unstake 0.00 [NOBLE]-[WBNB] Cake LP
+Claim 0.00 NOBLE ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+NOBLE
+ Price: $0.000182 Market Cap: $18.46 
+[%]
+Staked: 24922.2586 NOBLE ($4.54)
+NOBLE Per Week: 3116.76 ($0.57)
+APR: Day 1.79% Week 12.51% Year 650.31%
+You are staking 0.00 NOBLE ($0.00), 0.00% of the pool.
+Stake 0.00 NOBLE
+Unstake 0.00 NOBLE
+Claim 0.00 NOBLE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $11.28

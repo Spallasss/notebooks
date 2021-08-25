@@ -1,0 +1,912 @@
+INFO  : https://snakedefi.com
+****************************************************************************************
+
+Mon Aug 23 2021 14:20:47 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 53 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+SNKE
+ Price: $0.000240 Market Cap: $618.38 
+[%]
+Staked: 453032.0346 SNKE ($108.88)
+SNKE Per Week: 4917.07 ($1.18)
+APR: Day 0.16% Week 1.09% Year 56.44%
+You are staking 0.00 SNKE ($0.00), 0.00% of the pool.
+Stake 0.00 SNKE
+Unstake 0.00 SNKE
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[SNKE]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $47.04
+SNKE Price: $0.000240
+BUSD Price: $1.00
+Staked: 1076.5653 Cake-LP ($34.48)
+SNKE Per Week: 24585.37 ($5.91)
+APR: Day 2.45% Week 17.14% Year 891.12%
+You are staking 0.00 [SNKE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SNKE]-[BUSD] Cake LP
+Unstake 0.00 [SNKE]-[BUSD] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[SNKE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.72 TVL: $202.14
+SNKE Price: $0.000240
+WBNB Price: $483.99
+Staked: 272.7134 Cake-LP ($196.00)
+SNKE Per Week: 49170.73 ($11.82)
+APR: Day 0.86% Week 6.03% Year 313.53%
+You are staking 0.00 [SNKE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SNKE]-[WBNB] Cake LP
+Unstake 0.00 [SNKE]-[WBNB] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.13 TVL: $4,004,093.82
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 5.5405 Cake-LP ($11.82)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 0.71% Week 5.00% Year 259.91%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4.00%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+BTCB
+ Price: $50,135.00 Market Cap: $4,286,592,635.00 
+[%]
+Staked: 0.0001 BTCB ($7.45)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 1.13% Week 7.94% Year 412.64%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4.00%
+Unstake 0.00 BTCB
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+ETH
+ Price: $3,322.90 Market Cap: $4,336,384,500.00 
+[%]
+Staked: 0.0047 ETH ($15.61)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 0.54% Week 3.79% Year 196.90%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4.00%
+Unstake 0.00 ETH
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+WBNB
+ Price: $483.99 Market Cap: $3,430,037,582.64 
+[%]
+Staked: 0.0471 WBNB ($22.80)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 0.37% Week 2.59% Year 134.77%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4.00%
+Unstake 0.00 WBNB
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $260.59 TVL: $8,038,712.94
+Cake Price: $24.98
+WBNB Price: $483.99
+Staked: 0.0078 Cake-LP ($2.02)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 4.18% Week 29.24% Year 1520.23%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4.00%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+ADA
+ Price: $2.83 Market Cap: $792,400,000.00 
+[%]
+Staked: 7.2044 ADA ($20.39)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 0.41% Week 2.90% Year 150.71%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4.00%
+Unstake 0.00 ADA
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+pBTC
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0076 pBTC ($0.00)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 pBTC ($0.00), NaN% of the pool.
+Stake 0.00 pBTC - Fee 4.00%
+Unstake 0.00 pBTC
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[ZIL]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $15,305.79 TVL: $36,530.30
+ZIL Price: $0.11
+WBNB Price: $483.99
+Staked: 0.0004 Cake-LP ($6.65)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 1.27% Week 8.88% Year 461.86%
+You are staking 0.00 [ZIL]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZIL]-[WBNB] Cake LP - Fee 4.00%
+Unstake 0.00 [ZIL]-[WBNB] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[UST]-[MIR] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.25 TVL: $277,595.20
+UST Price: $1.00
+MIR Price: $4.29
+Staked: 3.3895 Cake-LP ($14.40)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 0.59% Week 4.10% Year 213.41%
+You are staking 0.00 [UST]-[MIR] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[MIR] Cake LP - Fee 4.00%
+Unstake 0.00 [UST]-[MIR] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[WBNB]-[BIFI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,940.67 TVL: $98,122.39
+WBNB Price: $483.99
+BIFI Price: $1,261.40
+Staked: 0.0120 Cake-LP ($35.35)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 0.24% Week 1.67% Year 86.93%
+You are staking 0.00 [WBNB]-[BIFI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BIFI] Cake LP - Fee 4.00%
+Unstake 0.00 [WBNB]-[BIFI] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[WBNB]-[BUNNY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $136.22 TVL: $834,722.90
+WBNB Price: $483.99
+BUNNY Price: $7.78
+Staked: 0.3805 Cake-LP ($51.83)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 0.16% Week 1.14% Year 59.28%
+You are staking 0.00 [WBNB]-[BUNNY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUNNY] Cake LP - Fee 4.00%
+Unstake 0.00 [WBNB]-[BUNNY] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[WATCH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $33.24 TVL: $83,301.13
+WATCH Price: $0.52
+WBNB Price: $483.99
+Staked: 0.1223 Cake-LP ($4.07)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 2.08% Week 14.53% Year 755.74%
+You are staking 0.00 [WATCH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WATCH]-[WBNB] Cake LP - Fee 4.00%
+Unstake 0.00 [WATCH]-[WBNB] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[WBNB]-[BRY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.34 TVL: $475,982.04
+WBNB Price: $483.99
+BRY Price: $1.17
+Staked: 0.2138 Cake-LP ($10.76)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 0.78% Week 5.49% Year 285.46%
+You are staking 0.00 [WBNB]-[BRY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BRY] Cake LP - Fee 4.00%
+Unstake 0.00 [WBNB]-[BRY] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[WBNB]-[SWGb] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.23 TVL: $2,135.05
+WBNB Price: $483.99
+SWGb Price: $0.001701
+Staked: 7.1215 Cake-LP ($15.87)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 0.53% Week 3.72% Year 193.59%
+You are staking 0.00 [WBNB]-[SWGb] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[SWGb] Cake LP - Fee 4.00%
+Unstake 0.00 [WBNB]-[SWGb] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[ETH]-[COMP] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,550.22 TVL: $1,034,358.61
+ETH Price: $3,322.90
+COMP Price: $469.28
+Staked: 0.0221 Cake-LP ($56.31)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 0.15% Week 1.05% Year 54.57%
+You are staking 0.00 [ETH]-[COMP] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[COMP] Cake LP - Fee 4.00%
+Unstake 0.00 [ETH]-[COMP] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.25 TVL: $1,018,610.90
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 11.2615 Cake-LP ($25.38)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 0.33% Week 2.33% Year 121.09%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4.00%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $2,585,011.71
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 9.7559 Cake-LP ($19.96)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 0.42% Week 2.96% Year 153.98%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4.00%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[WBNB]-[REEF] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7.85 TVL: $119,823.22
+WBNB Price: $483.99
+REEF Price: $0.03
+Staked: 3.3559 Cake-LP ($26.36)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 0.32% Week 2.24% Year 116.58%
+You are staking 0.00 [WBNB]-[REEF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[REEF] Cake LP - Fee 4.00%
+Unstake 0.00 [WBNB]-[REEF] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $80.80 TVL: $2,623,689.16
+ADA Price: $2.83
+WBNB Price: $483.99
+Staked: 0.6430 Cake-LP ($51.95)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 0.16% Week 1.14% Year 59.14%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4.00%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $252.07 TVL: $672,794.66
+DOT Price: $27.99
+WBNB Price: $483.99
+Staked: 0.0842 Cake-LP ($21.23)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 0.40% Week 2.78% Year 144.74%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4.00%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,858.02 TVL: $3,517,697.90
+ETH Price: $3,322.90
+WBNB Price: $483.99
+Staked: 0.0236 Cake-LP ($67.33)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 0.13% Week 0.88% Year 45.63%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4.00%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,893.47 TVL: $1,951,344.11
+BTCB Price: $50,135.00
+WBNB Price: $483.99
+Staked: 0.0035 Cake-LP ($38.56)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 0.22% Week 1.53% Year 79.68%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4.00%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[USDT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $72.25 TVL: $1,092,204.60
+USDT Price: $1.00
+WBNB Price: $483.99
+Staked: 1.9318 Cake-LP ($139.58)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 0.06% Week 0.42% Year 22.01%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP - Fee 4.00%
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[XRP]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $59.55 TVL: $53,502.62
+XRP Price: $1.25
+WBNB Price: $483.99
+Staked: 0.1867 Cake-LP ($11.12)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 0.76% Week 5.31% Year 276.32%
+You are staking 0.00 [XRP]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XRP]-[WBNB] Cake LP - Fee 4.00%
+Unstake 0.00 [XRP]-[WBNB] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[RAIL]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.19 TVL: $2.68
+RAIL Price: $0.008964
+BUSD Price: $1.00
+Staked: 1.2220 Cake-LP ($0.24)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 35.60% Week 249.17% Year 12956.62%
+You are staking 0.00 [RAIL]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RAIL]-[BUSD] Cake LP - Fee 4.00%
+Unstake 0.00 [RAIL]-[BUSD] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[RAIL]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.92 TVL: $13.22
+RAIL Price: $0.008964
+WBNB Price: $483.99
+Staked: 1.0003 Cake-LP ($4.92)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 1.71% Week 12.00% Year 624.24%
+You are staking 0.00 [RAIL]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RAIL]-[WBNB] Cake LP - Fee 4.00%
+Unstake 0.00 [RAIL]-[WBNB] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.49 TVL: $3,327,719.04
+WBNB Price: $483.99
+BUSD Price: $1.00
+Staked: 0.1144 Cake-LP ($7.38)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 1.14% Week 8.01% Year 416.54%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4.00%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[PIZZA]-[SNKE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $2.89
+PIZZA Price: $0.26
+SNKE Price: $0.000240
+Staked: 174.1865 Cake-LP ($2.76)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 3.05% Week 21.38% Year 1111.84%
+You are staking 0.00 [PIZZA]-[SNKE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PIZZA]-[SNKE] Cake LP - Fee 4.00%
+Unstake 0.00 [PIZZA]-[SNKE] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[SALT]-[SNKE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $1.73
+SALT Price: $0.03
+SNKE Price: $0.000240
+Staked: 0.0000 Cake-LP ($0.00)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [SALT]-[SNKE] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [SALT]-[SNKE] Cake LP - Fee 4.00%
+Unstake 0.00 [SALT]-[SNKE] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[SPACE]-[SNKE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.13
+SPACE Price: $0.007352
+SNKE Price: $0.000240
+Staked: 0.0000 Cake-LP ($0.00)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [SPACE]-[SNKE] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [SPACE]-[SNKE] Cake LP - Fee 4.00%
+Unstake 0.00 [SPACE]-[SNKE] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[1INCH]-[SNKE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.04 TVL: $0.76
+1INCH Price: $1.36
+SNKE Price: $0.000240
+Staked: 9.6000 Cake-LP ($0.35)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 24.15% Week 169.08% Year 8791.98%
+You are staking 0.00 [1INCH]-[SNKE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [1INCH]-[SNKE] Cake LP - Fee 4.00%
+Unstake 0.00 [1INCH]-[SNKE] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[SNKE]-[EGG] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $0.29
+SNKE Price: $0.000240
+EGG Price: $0.72
+Staked: 0.0000 Cake-LP ($0.00)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [SNKE]-[EGG] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [SNKE]-[EGG] Cake LP - Fee 4.00%
+Unstake 0.00 [SNKE]-[EGG] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[MOUSE]-[SNKE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.57
+MOUSE Price: $0.004884
+SNKE Price: $0.000240
+Staked: 98.7487 Cake-LP ($0.22)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 39.24% Week 274.66% Year 14282.17%
+You are staking 0.00 [MOUSE]-[SNKE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MOUSE]-[SNKE] Cake LP - Fee 4.00%
+Unstake 0.00 [MOUSE]-[SNKE] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[TOAD]-[SNKE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.03
+TOAD Price: $0.001913
+SNKE Price: $0.000240
+Staked: 0.0000 Cake-LP ($0.00)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [TOAD]-[SNKE] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [TOAD]-[SNKE] Cake LP - Fee 4.00%
+Unstake 0.00 [TOAD]-[SNKE] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[SNKE]-[CRL] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.34
+SNKE Price: $0.000240
+CRL Price: $0.003742
+Staked: 100.1764 Cake-LP ($0.19)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 44.12% Week 308.82% Year 16058.50%
+You are staking 0.00 [SNKE]-[CRL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SNKE]-[CRL] Cake LP - Fee 4.00%
+Unstake 0.00 [SNKE]-[CRL] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[SNKE]-[BUNNY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.09 TVL: $1.49
+SNKE Price: $0.000240
+BUNNY Price: $7.78
+Staked: 5.3563 Cake-LP ($0.47)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 17.86% Week 125.02% Year 6501.17%
+You are staking 0.00 [SNKE]-[BUNNY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SNKE]-[BUNNY] Cake LP - Fee 4.00%
+Unstake 0.00 [SNKE]-[BUNNY] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[SNKE]-[BIFI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.17 TVL: $3.37
+SNKE Price: $0.000240
+BIFI Price: $1,261.40
+Staked: 2.7141 Cake-LP ($3.17)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 2.66% Week 18.62% Year 968.03%
+You are staking 0.00 [SNKE]-[BIFI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SNKE]-[BIFI] Cake LP - Fee 4.00%
+Unstake 0.00 [SNKE]-[BIFI] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[SNKE]-[ALPACA] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.04 TVL: $1.41
+SNKE Price: $0.000240
+ALPACA Price: $1.40
+Staked: 33.0147 Cake-LP ($1.22)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 6.91% Week 48.40% Year 2516.72%
+You are staking 0.00 [SNKE]-[ALPACA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SNKE]-[ALPACA] Cake LP - Fee 4.00%
+Unstake 0.00 [SNKE]-[ALPACA] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[SLIME]-[SNKE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $0.02
+SLIME Price: $0.04
+SNKE Price: $0.000240
+Staked: 0.0000 Cake-LP ($0.00)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [SLIME]-[SNKE] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [SLIME]-[SNKE] Cake LP - Fee 4.00%
+Unstake 0.00 [SLIME]-[SNKE] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[SNKE]-[AUTO] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.77 TVL: $0.19
+SNKE Price: $0.000240
+AUTO Price: $1,417.80
+Staked: 0.0000 Cake-LP ($0.00)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [SNKE]-[AUTO] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [SNKE]-[AUTO] Cake LP - Fee 4.00%
+Unstake 0.00 [SNKE]-[AUTO] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[GLTO]-[SNKE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $2.19
+GLTO Price: $0.01
+SNKE Price: $0.000240
+Staked: 592.3245 Cake-LP ($2.11)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 4.00% Week 27.97% Year 1454.53%
+You are staking 0.00 [GLTO]-[SNKE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GLTO]-[SNKE] Cake LP - Fee 4.00%
+Unstake 0.00 [GLTO]-[SNKE] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[SNKE]-[BAKE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.07 TVL: $0.12
+SNKE Price: $0.000240
+BAKE Price: $3.14
+Staked: 0.0000 Cake-LP ($0.00)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [SNKE]-[BAKE] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [SNKE]-[BAKE] Cake LP - Fee 4.00%
+Unstake 0.00 [SNKE]-[BAKE] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[SNKE]-[BELT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.11 TVL: $12.32
+SNKE Price: $0.000240
+BELT Price: $11.82
+Staked: 109.6309 Cake-LP ($11.79)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 0.72% Week 5.01% Year 260.64%
+You are staking 0.00 [SNKE]-[BELT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SNKE]-[BELT] Cake LP - Fee 4.00%
+Unstake 0.00 [SNKE]-[BELT] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[BANANA]-[SNKE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.07 TVL: $8.15
+BANANA Price: $4.77
+SNKE Price: $0.000240
+Staked: 88.1270 Cake-LP ($6.32)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 1.33% Week 9.34% Year 485.94%
+You are staking 0.00 [BANANA]-[SNKE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BANANA]-[SNKE] Cake LP - Fee 4.00%
+Unstake 0.00 [BANANA]-[SNKE] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[SNKE]-[LYPTUS] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $4.25
+SNKE Price: $0.000240
+LYPTUS Price: $0.31
+Staked: 228.5109 Cake-LP ($4.01)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 2.11% Week 14.75% Year 766.90%
+You are staking 0.00 [SNKE]-[LYPTUS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SNKE]-[LYPTUS] Cake LP - Fee 4.00%
+Unstake 0.00 [SNKE]-[LYPTUS] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[BLUE]-[SNKE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $2.42
+BLUE Price: $0.07
+SNKE Price: $0.000240
+Staked: 241.8898 Cake-LP ($1.96)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 4.30% Week 30.08% Year 1564.23%
+You are staking 0.00 [BLUE]-[SNKE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BLUE]-[SNKE] Cake LP - Fee 4.00%
+Unstake 0.00 [BLUE]-[SNKE] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[BLZD]-[SNKE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $0.01
+BLZD Price: $0.38
+SNKE Price: $0.000240
+Staked: 0.0000 Cake-LP ($0.00)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BLZD]-[SNKE] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BLZD]-[SNKE] Cake LP - Fee 4.00%
+Unstake 0.00 [BLZD]-[SNKE] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[MIR]-[SNKE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.07 TVL: $3.85
+MIR Price: $4.29
+SNKE Price: $0.000240
+Staked: 0.0000 Cake-LP ($0.00)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [MIR]-[SNKE] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [MIR]-[SNKE] Cake LP - Fee 4.00%
+Unstake 0.00 [MIR]-[SNKE] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+[RAIL]-[SNKE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $1.83
+RAIL Price: $0.008964
+SNKE Price: $0.000240
+Staked: 95.6422 Cake-LP ($0.29)
+SNKE Per Week: 2458.54 ($0.59)
+APR: Day 29.61% Week 207.25% Year 10777.23%
+You are staking 0.00 [RAIL]-[SNKE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RAIL]-[SNKE] Cake LP - Fee 4.00%
+Unstake 0.00 [RAIL]-[SNKE] Cake LP
+Claim 0.00 SNKE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,063.55

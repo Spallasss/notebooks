@@ -1,0 +1,405 @@
+INFO  : https://jungleswap.cash
+*******************************************************************************
+
+Mon Aug 23 2021 09:25:57 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 24 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[JUNGLE]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,235.40 TVL: $1,066.82
+JUNGLE Price: $0.04
+BUSD Price: $1.00
+Staked: 0.0181 Cake-LP ($185.33)
+JUNGLE Per Week: 4.89 ($0.17)
+APR: Day 0.01% Week 0.09% Year 4.81%
+You are staking 0.00 [JUNGLE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JUNGLE]-[BUSD] Cake LP
+Unstake 0.00 [JUNGLE]-[BUSD] Cake LP
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[JUNGLE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $421.64 TVL: $823.25
+JUNGLE Price: $0.04
+WBNB Price: $486.99
+Staked: 0.2105 Cake-LP ($88.75)
+JUNGLE Per Week: 4.07 ($0.14)
+APR: Day 0.02% Week 0.16% Year 8.37%
+You are staking 0.00 [JUNGLE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JUNGLE]-[WBNB] Cake LP
+Unstake 0.00 [JUNGLE]-[WBNB] Cake LP
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+JUNGLE
+ Price: $0.04 Market Cap: $5,870.48 
+[%]
+Staked: 18644.5489 JUNGLE ($653.88)
+JUNGLE Per Week: 3.05 ($0.11)
+APR: Day 0.00% Week 0.02% Year 0.85%
+You are staking 0.00 JUNGLE ($0.00), 0.00% of the pool.
+Stake 0.00 JUNGLE
+Unstake 0.00 JUNGLE
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.89 TVL: $528,458,490.43
+WBNB Price: $486.99
+BUSD Price: $1.00
+Staked: 5.5041 Cake-LP ($274.58)
+JUNGLE Per Week: 0.61 ($0.02)
+APR: Day 0.00% Week 0.01% Year 0.41%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,232.03 TVL: $174,216,036.54
+BTCB Price: $49,844.00
+WBNB Price: $486.99
+Staked: 0.0000 Cake-LP ($0.00)
+JUNGLE Per Week: 0.51 ($0.02)
+APR: Day 722.54% Week 5057.81% Year 263006.10%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,661.24 TVL: $262,692,544.65
+ETH Price: $3,333.67
+WBNB Price: $486.99
+Staked: 0.0674 Cake-LP ($179.37)
+JUNGLE Per Week: 0.51 ($0.02)
+APR: Day 0.00% Week 0.01% Year 0.52%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $226.30 TVL: $1,035,681,897.38
+Cake Price: $25.15
+WBNB Price: $486.99
+Staked: 0.0038 Cake-LP ($0.87)
+JUNGLE Per Week: 0.41 ($0.01)
+APR: Day 0.24% Week 1.65% Year 85.76%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[Cake]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13.44 TVL: $66,594,715.67
+Cake Price: $25.15
+BUSD Price: $1.00
+Staked: 3.6231 Cake-LP ($48.71)
+JUNGLE Per Week: 0.31 ($0.01)
+APR: Day 0.00% Week 0.02% Year 1.14%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $241.89 TVL: $83,169,183.16
+DOT Price: $28.18
+WBNB Price: $486.99
+Staked: 0.0035 Cake-LP ($0.86)
+JUNGLE Per Week: 0.31 ($0.01)
+APR: Day 0.18% Week 1.25% Year 65.08%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.47 TVL: $46,984,366.84
+ADA Price: $2.83
+WBNB Price: $486.99
+Staked: 0.4627 Cake-LP ($35.85)
+JUNGLE Per Week: 0.41 ($0.01)
+APR: Day 0.01% Week 0.04% Year 2.07%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,312,177.08
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+JUNGLE Per Week: 0.46 ($0.02)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,353,830.22
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 246.9490 Cake-LP ($502.68)
+JUNGLE Per Week: 0.46 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.17%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,995,954.30
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 1.8681 Cake-LP ($3.85)
+JUNGLE Per Week: 0.46 ($0.02)
+APR: Day 0.06% Week 0.42% Year 21.73%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+BUSD
+ Price: $1.00 Market Cap: $4,196,924,430.58 
+[%]
+Staked: 75.4891 BUSD ($75.42)
+JUNGLE Per Week: 0.36 ($0.01)
+APR: Day 0.00% Week 0.02% Year 0.86%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 2577.1922 USDT ($2,576.69)
+JUNGLE Per Week: 0.31 ($0.01)
+APR: Day 0.00% Week 0.00% Year 0.02%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+WBNB
+ Price: $486.99 Market Cap: $3,440,371,363.52 
+[%]
+Staked: 0.0569 WBNB ($27.72)
+JUNGLE Per Week: 0.36 ($0.01)
+APR: Day 0.01% Week 0.05% Year 2.34%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+BTCB
+ Price: $49,844.00 Market Cap: $4,261,711,844.00 
+[%]
+Staked: 0.0000 BTCB ($0.00)
+JUNGLE Per Week: 0.20 ($0.01)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BTCB ($0.00), NaN% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+ETH
+ Price: $3,333.67 Market Cap: $4,350,439,350.00 
+[%]
+Staked: 0.0643 ETH ($214.42)
+JUNGLE Per Week: 0.20 ($0.01)
+APR: Day 0.00% Week 0.00% Year 0.17%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+Cake
+ Price: $25.15 Market Cap: $10,465,762,662.08 
+[%]
+Staked: 2.0960 Cake ($52.71)
+JUNGLE Per Week: 0.20 ($0.01)
+APR: Day 0.00% Week 0.01% Year 0.70%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 0.0000 DAI ($0.00)
+JUNGLE Per Week: 0.20 ($0.01)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DAI ($0.00), NaN% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+USDC
+ Price: $1.00 Market Cap: $1,778,087,373.00 
+[%]
+Staked: 685.7038 USDC ($685.35)
+JUNGLE Per Week: 0.20 ($0.01)
+APR: Day 0.00% Week 0.00% Year 0.05%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+DOT
+ Price: $28.18 Market Cap: $394,519,999.86 
+[%]
+Staked: 2.5764 DOT ($72.60)
+JUNGLE Per Week: 0.20 ($0.01)
+APR: Day 0.00% Week 0.01% Year 0.51%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[JUNGLE]-[BR34P] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $131,051.34 TVL: $683.13
+JUNGLE Price: $0.04
+BR34P Price: $9.20
+Staked: 0.0017 Cake-LP ($225.38)
+JUNGLE Per Week: 2.55 ($0.09)
+APR: Day 0.01% Week 0.04% Year 2.06%
+You are staking 0.00 [JUNGLE]-[BR34P] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JUNGLE]-[BR34P] Cake LP
+Unstake 0.00 [JUNGLE]-[BR34P] Cake LP
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[BR34P]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $14,423,115.22 TVL: $629,708.22
+BR34P Price: $9.20
+WBNB Price: $486.99
+Staked: 0.0007 Cake-LP ($9,458.30)
+JUNGLE Per Week: 0.61 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.01%
+You are staking 0.00 [BR34P]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BR34P]-[WBNB] Cake LP - Fee 1.99%
+Unstake 0.00 [BR34P]-[WBNB] Cake LP
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $15,363.30

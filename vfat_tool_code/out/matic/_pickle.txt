@@ -1,0 +1,137 @@
+INFO  : https://app.pickle.finance/
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:59:37 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 14 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+Wrapped 
+[USDC]-[WETH] Uni LP
+ Price: $126,771,883.65 TVL: $819,087.11
+Staked: 0.0063 pUNI-V2 ($799,914.68)
+PICKLE Per Week: 357.87 ($3,789.84)
+MATIC Per Week: 876.92 ($1,446.92)
+APR PICKLE: Day 0.07% Week 0.47% Year 24.64%
+APR MATIC: Day 0.03% Week 0.18% Year 9.41%
+Total Per Week: $5,236.76
+Total APR: Day 0.0935% Week 0.65% Year 34.04%
+You are staking 0.00 pUNI-V2 ($0.00), 0.00% of the pool.
+Wrapped 
+[PICKLE]-[MUST] Uni LP
+ Price: $825.86 TVL: $3,218,147.01
+Staked: 325.9292 pUNI-V2 ($269,171.13)
+PICKLE Per Week: 357.87 ($3,789.84)
+MATIC Per Week: 876.92 ($1,446.92)
+APR PICKLE: Day 0.20% Week 1.41% Year 73.21%
+APR MATIC: Day 0.08% Week 0.54% Year 27.95%
+Total Per Week: $5,236.76
+Total APR: Day 0.2779% Week 1.95% Year 101.17%
+You are staking 0.00 pUNI-V2 ($0.00), 0.00% of the pool.
+Wrapped 
+[WMATIC]-[MUST] Uni LP
+ Price: $34.91 TVL: $341,554.35
+Staked: 8012.6383 pUNI-V2 ($279,732.02)
+PICKLE Per Week: 357.87 ($3,789.84)
+MATIC Per Week: 876.92 ($1,446.92)
+APR PICKLE: Day 0.19% Week 1.35% Year 70.45%
+APR MATIC: Day 0.07% Week 0.52% Year 26.90%
+Total Per Week: $5,236.76
+Total APR: Day 0.2674% Week 1.87% Year 97.35%
+You are staking 0.00 pUNI-V2 ($0.00), 0.00% of the pool.
+pDAI Price: $1.01 TVL: $3,030,478.83
+Staked: 2931920.3616 pDAI ($2,973,597.73)
+PICKLE Per Week: 357.87 ($3,789.84)
+MATIC Per Week: 876.92 ($1,446.92)
+APR PICKLE: Day 0.02% Week 0.13% Year 6.63%
+APR MATIC: Day 0.01% Week 0.05% Year 2.53%
+Total Per Week: $5,236.76
+Total APR: Day 0.0252% Week 0.18% Year 9.16%
+You are staking 0.00 pDAI ($0.00), 0.00% of the pool.
+Wrapped 
+[WETH]-[USDT] SLP
+ Price: $124,312,455.13 TVL: $1,297,412.67
+Staked: 0.0101 pSLP ($1,254,297.40)
+PICKLE Per Week: 357.87 ($3,789.84)
+MATIC Per Week: 876.92 ($1,446.92)
+APR PICKLE: Day 0.04% Week 0.30% Year 15.71%
+APR MATIC: Day 0.02% Week 0.12% Year 6.00%
+Total Per Week: $5,236.76
+Total APR: Day 0.0596% Week 0.42% Year 21.71%
+You are staking 0.00 pSLP ($0.00), 0.00% of the pool.
+Wrapped 
+[WMATIC]-[WETH] SLP
+ Price: $169.14 TVL: $1,588,464.97
+Staked: 9011.9388 pSLP ($1,524,275.10)
+PICKLE Per Week: 357.87 ($3,789.84)
+MATIC Per Week: 876.92 ($1,446.92)
+APR PICKLE: Day 0.04% Week 0.25% Year 12.93%
+APR MATIC: Day 0.01% Week 0.09% Year 4.94%
+Total Per Week: $5,236.76
+Total APR: Day 0.0491% Week 0.34% Year 17.87%
+You are staking 0.00 pSLP ($0.00), 0.00% of the pool.
+Wrapped 
+[USDC]-[miMATIC] Uni LP
+ Price: $2,139,689.38 TVL: $7,139,477.80
+Staked: 3.2333 pUNI-V2 ($6,918,207.18)
+PICKLE Per Week: 715.74 ($7,579.68)
+MATIC Per Week: 1753.85 ($2,893.85)
+APR PICKLE: Day 0.02% Week 0.11% Year 5.70%
+APR MATIC: Day 0.01% Week 0.04% Year 2.18%
+Total Per Week: $10,473.53
+Total APR: Day 0.0216% Week 0.15% Year 7.87%
+You are staking 0.00 pUNI-V2 ($0.00), 0.00% of the pool.
+Wrapped 
+[QI]-[miMATIC] Uni LP
+ Price: $2.81 TVL: $1,008,277.78
+Staked: 286639.3932 pUNI-V2 ($805,155.38)
+PICKLE Per Week: 357.87 ($3,789.84)
+MATIC Per Week: 876.92 ($1,446.92)
+APR PICKLE: Day 0.07% Week 0.47% Year 24.48%
+APR MATIC: Day 0.03% Week 0.18% Year 9.34%
+Total Per Week: $5,236.76
+Total APR: Day 0.0929% Week 0.65% Year 33.82%
+You are staking 0.00 pUNI-V2 ($0.00), 0.00% of the pool.
+pIS3USD Price: $0.00 TVL: $0.00
+Staked: 2090543.8754 pIS3USD ($0.00)
+PICKLE Per Week: 357.87 ($3,789.84)
+MATIC Per Week: 876.92 ($1,446.92)
+APR PICKLE: Day NaN% Week NaN% Year NaN%
+APR MATIC: Day NaN% Week NaN% Year NaN%
+Total Per Week: $5,236.76
+Total APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 pIS3USD ($0.00), NaN% of the pool.
+Wrapped 
+[USDC]-[DINO] SLP
+ Price: $2,128,358.99 TVL: $55,002.24
+Staked: 0.0223 pSLP ($47,505.44)
+PICKLE Per Week: 357.87 ($3,789.84)
+MATIC Per Week: 876.92 ($1,446.92)
+APR PICKLE: Day 1.14% Week 7.98% Year 414.84%
+APR MATIC: Day 0.44% Week 3.05% Year 158.38%
+Total Per Week: $5,236.76
+Total APR: Day 1.5748% Week 11.02% Year 573.22%
+You are staking 0.00 pSLP ($0.00), 0.00% of the pool.
+Wrapped 
+[WETH]-[DINO] Uni LP
+ Price: $127.29 TVL: $185,745.48
+Staked: 985.4221 pUNI-V2 ($125,429.47)
+PICKLE Per Week: 357.87 ($3,789.84)
+MATIC Per Week: 876.92 ($1,446.92)
+APR PICKLE: Day 0.43% Week 3.02% Year 157.12%
+APR MATIC: Day 0.16% Week 1.15% Year 59.99%
+Total Per Week: $5,236.76
+Total APR: Day 0.5964% Week 4.18% Year 217.10%
+You are staking 0.00 pUNI-V2 ($0.00), 0.00% of the pool.
+Total Staked: $14,997,285.53

@@ -1,0 +1,182 @@
+INFO  : https://polycomet.com
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:42:45 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 13 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[Comet] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7,965.07 TVL: $0.39
+USDC Price: $1.00
+Comet Price: $0.0000116156
+Staked: 0.0000 UNI-V2 ($0.33)
+COMET Per Week: 1469.39 ($0.02)
+APR: Day 0.73% Week 5.13% Year 266.86%
+You are staking 0.00 [USDC]-[Comet] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[Comet] Uni LP
+Unstake 0.00 [USDC]-[Comet] Uni LP
+Claim 0.00 COMET ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+USDC
+ Price: $1.00 Market Cap: $1,046,548,484.23 
+[%]
+Staked: 1.1346 USDC ($1.13)
+COMET Per Week: 734.69 ($0.01)
+APR: Day 0.11% Week 0.75% Year 39.17%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 COMET ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+Comet
+ Price: $0.0000116156 Market Cap: $0.73 
+[%]
+Staked: 24501.9962 Comet ($0.28)
+COMET Per Week: 1175.51 ($0.01)
+APR: Day 0.69% Week 4.80% Year 249.48%
+You are staking 0.00 Comet ($0.00), 0.00% of the pool.
+Stake 0.00 Comet
+Unstake 0.00 Comet
+Claim 0.00 COMET ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WMATIC
+ Price: $1.65 Market Cap: $605,526,943.36 
+[%]
+Staked: 38.4010 WMATIC ($63.36)
+COMET Per Week: 1028.57 ($0.01)
+APR: Day 0.00% Week 0.02% Year 0.98%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 COMET ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WBTC
+ Price: $50,195.00 Market Cap: $700,159,685.91 
+[%]
+Staked: 0.0000 WBTC ($0.00)
+COMET Per Week: 1175.51 ($0.01)
+APR: Day 388.61% Week 2720.24% Year 141452.28%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 COMET ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WETH
+ Price: $3,330.29 Market Cap: $2,033,523,143.20 
+[%]
+Staked: 0.0002 WETH ($0.76)
+COMET Per Week: 1028.57 ($0.01)
+APR: Day 0.23% Week 1.58% Year 82.29%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 COMET ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+USDT
+ Price: $1.00 Market Cap: $314,823,907.95 
+[%]
+Staked: 0.0000 USDT ($0.00)
+COMET Per Week: 1028.57 ($0.01)
+APR: Day 170873.98% Week 1196117.84% Year 62198127.63%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 COMET ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+DAI
+ Price: $1.00 Market Cap: $375,659,203.55 
+[%]
+Staked: 2.8800 DAI ($2.88)
+COMET Per Week: 1175.51 ($0.01)
+APR: Day 0.07% Week 0.47% Year 24.69%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 COMET ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+QUICK
+ Price: $737.88 Market Cap: $706,347,935.06 
+[%]
+Staked: 0.0002 QUICK ($0.17)
+COMET Per Week: 1175.51 ($0.01)
+APR: Day 1.17% Week 8.19% Year 425.87%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 COMET ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+Krill
+ Price: $0.09 Market Cap: $656,563.05 
+[%]
+Staked: 0.0040 Krill ($0.00)
+COMET Per Week: 1175.51 ($0.01)
+APR: Day 545.85% Week 3820.95% Year 198689.16%
+You are staking 0.00 Krill ($0.00), 0.00% of the pool.
+Stake 0.00 Krill - Fee 4%
+Unstake 0.00 Krill
+Claim 0.00 COMET ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+FISH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 FISH ($0.00)
+COMET Per Week: 1028.57 ($0.01)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+Stake 0.00 FISH - Fee 4%
+Unstake 0.00 FISH
+Claim 0.00 COMET ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+AAVE
+ Price: $410.21 Market Cap: $156,156,520.45 
+[%]
+Staked: 0.0000 AAVE ($0.00)
+COMET Per Week: 1028.57 ($0.01)
+APR: Day 416074239232018.81% Week 2912519674624131.50% Year 151451023080454848.00%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 COMET ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+PolyDoge
+ Price: $0.0000000063 Market Cap: $6,335,000.00 
+[%]
+Staked: 0.7673 PolyDoge ($0.00)
+COMET Per Week: 1175.51 ($0.01)
+APR: Day 40129499.65% Week 280906497.58% Year 14607137874.24%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 4%
+Unstake 0.00 PolyDoge
+Claim 0.00 COMET ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $68.91

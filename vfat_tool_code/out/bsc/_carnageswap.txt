@@ -1,0 +1,422 @@
+INFO  : https://www.carnageswap.net
+*************************************************************************************
+
+Mon Aug 23 2021 09:17:41 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 26 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[BUSD]-[CARNAGE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.06 TVL: $91.92
+BUSD Price: $1.00
+CARNAGE Price: $0.000531
+Staked: 531.1920 Cake-LP ($30.77)
+CARNAGE Per Week: 3686.85 ($1.96)
+APR: Day 0.91% Week 6.36% Year 330.59%
+You are staking 0.00 [BUSD]-[CARNAGE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[CARNAGE] Cake LP
+Unstake 0.00 [BUSD]-[CARNAGE] Cake LP
+Claim 0.00 CARNAGE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WBNB]-[CARNAGE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.28 TVL: $143.15
+WBNB Price: $486.14
+CARNAGE Price: $0.000531
+Staked: 3.8666 Cake-LP ($4.96)
+CARNAGE Per Week: 4301.33 ($2.28)
+APR: Day 6.57% Week 46.00% Year 2391.82%
+You are staking 0.00 [WBNB]-[CARNAGE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[CARNAGE] Cake LP
+Unstake 0.00 [WBNB]-[CARNAGE] Cake LP
+Claim 0.00 CARNAGE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.83 TVL: $527,919,544.06
+WBNB Price: $486.14
+BUSD Price: $1.00
+Staked: 0.0502 Cake-LP ($2.50)
+CARNAGE Per Week: 491.58 ($0.26)
+APR: Day 1.49% Week 10.42% Year 541.75%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 CARNAGE ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,356,959.17
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 4090.5715 Cake-LP ($8,370.99)
+CARNAGE Per Week: 491.58 ($0.26)
+APR: Day 0.00% Week 0.00% Year 0.16%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 CARNAGE ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,234.40 TVL: $174,090,288.75
+BTCB Price: $49,954.00
+WBNB Price: $486.14
+Staked: 0.0052 Cake-LP ($53.38)
+CARNAGE Per Week: 491.58 ($0.26)
+APR: Day 0.07% Week 0.49% Year 25.41%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 CARNAGE ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,657.98 TVL: $262,371,612.40
+ETH Price: $3,331.38
+WBNB Price: $486.14
+Staked: 0.7359 Cake-LP ($1,955.89)
+CARNAGE Per Week: 491.58 ($0.26)
+APR: Day 0.00% Week 0.01% Year 0.69%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 CARNAGE ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,315,014.52
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 1.8647 Cake-LP ($3.79)
+CARNAGE Per Week: 491.58 ($0.26)
+APR: Day 0.98% Week 6.87% Year 357.45%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 CARNAGE ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,918,419.01
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 7063.9009 Cake-LP ($14,535.37)
+CARNAGE Per Week: 491.58 ($0.26)
+APR: Day 0.00% Week 0.00% Year 0.09%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 CARNAGE ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $241.24 TVL: $82,948,268.65
+DOT Price: $28.08
+WBNB Price: $486.14
+Staked: 0.0000 Cake-LP ($0.00)
+CARNAGE Per Week: 491.58 ($0.26)
+APR: Day 1608.86% Week 11262.01% Year 585624.38%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 CARNAGE ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+CARNAGE
+ Price: $0.000531 Market Cap: $560.50 
+[%]
+Staked: 396337.3503 CARNAGE ($210.31)
+CARNAGE Per Week: 1843.43 ($0.98)
+APR: Day 0.07% Week 0.47% Year 24.19%
+You are staking 0.00 CARNAGE ($0.00), 0.00% of the pool.
+Stake 0.00 CARNAGE
+Unstake 0.00 CARNAGE
+Claim 0.00 CARNAGE ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+BUSD
+ Price: $1.00 Market Cap: $4,195,071,789.84 
+[%]
+Staked: 453.6821 BUSD ($453.04)
+CARNAGE Per Week: 307.24 ($0.16)
+APR: Day 0.01% Week 0.04% Year 1.87%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 CARNAGE ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+WBNB
+ Price: $486.14 Market Cap: $3,438,024,782.81 
+[%]
+Staked: 0.9026 WBNB ($438.81)
+CARNAGE Per Week: 307.24 ($0.16)
+APR: Day 0.01% Week 0.04% Year 1.93%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 CARNAGE ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 141.4681 USDT ($141.44)
+CARNAGE Per Week: 307.24 ($0.16)
+APR: Day 0.02% Week 0.12% Year 5.99%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 CARNAGE ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.0088 BTCB ($439.43)
+CARNAGE Per Week: 307.24 ($0.16)
+APR: Day 0.01% Week 0.04% Year 1.93%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 CARNAGE ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+ETH
+ Price: $3,331.38 Market Cap: $4,347,450,900.00 
+[%]
+Staked: 0.0082 ETH ($27.22)
+CARNAGE Per Week: 307.24 ($0.16)
+APR: Day 0.09% Week 0.60% Year 31.15%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 CARNAGE ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 1181.5952 DAI ($1,181.60)
+CARNAGE Per Week: 307.24 ($0.16)
+APR: Day 0.00% Week 0.01% Year 0.72%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 CARNAGE ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,247,685.00 
+[%]
+Staked: 59.0237 USDC ($58.97)
+CARNAGE Per Week: 307.24 ($0.16)
+APR: Day 0.04% Week 0.28% Year 14.38%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 CARNAGE ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+DOT
+ Price: $28.08 Market Cap: $393,119,999.86 
+[%]
+Staked: 14.5263 DOT ($407.90)
+CARNAGE Per Week: 307.24 ($0.16)
+APR: Day 0.01% Week 0.04% Year 2.08%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 CARNAGE ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $225.79 TVL: $1,033,409,611.53
+Cake Price: $25.08
+WBNB Price: $486.14
+Staked: 0.0859 Cake-LP ($19.39)
+CARNAGE Per Week: 307.24 ($0.16)
+APR: Day 0.12% Week 0.84% Year 43.71%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 CARNAGE ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.40 TVL: $46,943,932.97
+ADA Price: $2.83
+WBNB Price: $486.14
+Staked: 117.2983 Cake-LP ($9,079.34)
+CARNAGE Per Week: 307.24 ($0.16)
+APR: Day 0.00% Week 0.00% Year 0.09%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 CARNAGE ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+Cake
+ Price: $25.08 Market Cap: $10,436,558,468.11 
+[%]
+Staked: 0.9490 Cake ($23.80)
+CARNAGE Per Week: 307.24 ($0.16)
+APR: Day 0.10% Week 0.69% Year 35.62%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 CARNAGE ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+ADA
+ Price: $2.83 Market Cap: $792,400,000.00 
+[%]
+Staked: 99.9947 ADA ($282.99)
+CARNAGE Per Week: 307.24 ($0.16)
+APR: Day 0.01% Week 0.06% Year 3.00%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 CARNAGE ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[VENOM]-[CARNAGE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $119.14
+VENOM Price: $0.003361
+CARNAGE Price: $0.000531
+Staked: 29840.0215 Cake-LP ($101.00)
+CARNAGE Per Week: 2765.14 ($1.47)
+APR: Day 0.21% Week 1.45% Year 75.55%
+You are staking 0.00 [VENOM]-[CARNAGE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VENOM]-[CARNAGE] Cake LP
+Unstake 0.00 [VENOM]-[CARNAGE] Cake LP
+Claim 0.00 CARNAGE ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+VENOM
+ Price: $0.003361 Market Cap: $2,002.79 
+[%]
+Staked: 40510.3894 VENOM ($136.17)
+CARNAGE Per Week: 1228.95 ($0.65)
+APR: Day 0.07% Week 0.48% Year 24.90%
+You are staking 0.00 VENOM ($0.00), 0.00% of the pool.
+Stake 0.00 VENOM - Fee 2%
+Unstake 0.00 VENOM
+Claim 0.00 CARNAGE ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+LINK
+ Price: $28.71 Market Cap: $246,906,000.00 
+[%]
+Staked: 1.5380 LINK ($44.16)
+CARNAGE Per Week: 368.69 ($0.20)
+APR: Day 0.06% Week 0.44% Year 23.04%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 CARNAGE ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[Cake]-[CARNAGE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.27 TVL: $42.51
+Cake Price: $25.08
+CARNAGE Price: $0.000531
+Staked: 110.1273 Cake-LP ($30.00)
+CARNAGE Per Week: 6144.75 ($3.26)
+APR: Day 1.55% Week 10.87% Year 565.15%
+You are staking 0.00 [Cake]-[CARNAGE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[CARNAGE] Cake LP
+Unstake 0.00 [Cake]-[CARNAGE] Cake LP
+Claim 0.00 CARNAGE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $38,033.22

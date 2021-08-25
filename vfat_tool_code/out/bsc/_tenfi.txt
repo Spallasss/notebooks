@@ -1,0 +1,645 @@
+INFO  : https://ten.finance
+****************************************************************************************
+
+Mon Aug 23 2021 14:31:05 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 39 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.09 TVL: $46,754,766.36
+ADA Price: $2.82
+WBNB Price: $483.95
+Staked: 4575.0219 Cake-LP ($352,697.37)
+TENFI Per Week: 6492.75 ($1,434.76)
+APR: Day 0.06% Week 0.41% Year 21.15%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,211.17 TVL: $173,694,972.11
+BTCB Price: $49,954.00
+WBNB Price: $483.95
+Staked: 57.7945 Cake-LP ($590,149.30)
+TENFI Per Week: 17314.01 ($3,826.02)
+APR: Day 0.09% Week 0.65% Year 33.71%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.71 TVL: $527,142,472.23
+WBNB Price: $483.95
+BUSD Price: $1.00
+Staked: 5327.2464 Cake-LP ($264,811.85)
+TENFI Per Week: 8657.00 ($1,913.01)
+APR: Day 0.10% Week 0.72% Year 37.56%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $224.83 TVL: $1,029,024,050.99
+Cake Price: $24.98
+WBNB Price: $483.95
+Staked: 4611.8054 Cake-LP ($1,036,878.07)
+TENFI Per Week: 28135.27 ($6,217.27)
+APR: Day 0.09% Week 0.60% Year 31.18%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.03 TVL: $81,288,630.46
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 403619.2863 Cake-LP ($821,135.41)
+TENFI Per Week: 19478.26 ($4,304.27)
+APR: Day 0.07% Week 0.52% Year 27.26%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $240.23 TVL: $82,599,004.42
+DOT Price: $27.97
+WBNB Price: $483.95
+Staked: 2079.1593 Cake-LP ($499,472.58)
+TENFI Per Week: 15149.76 ($3,347.76)
+APR: Day 0.10% Week 0.67% Year 34.85%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,648.30 TVL: $261,409,442.45
+ETH Price: $3,322.25
+WBNB Price: $483.95
+Staked: 212.5304 Cake-LP ($562,844.10)
+TENFI Per Week: 12985.51 ($2,869.51)
+APR: Day 0.07% Week 0.51% Year 26.51%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[WBNB]-[LINK] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $240.86 TVL: $47,601,908.84
+WBNB Price: $483.95
+LINK Price: $28.71
+Staked: 1727.8307 Cake-LP ($416,170.36)
+TENFI Per Week: 12985.51 ($2,869.51)
+APR: Day 0.10% Week 0.69% Year 35.85%
+You are staking 0.00 [WBNB]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LINK] Cake LP
+Unstake 0.00 [WBNB]-[LINK] Cake LP
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[WBNB]-[UNI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $243.09 TVL: $33,908,698.36
+WBNB Price: $483.95
+UNI Price: $29.39
+Staked: 1194.0176 Cake-LP ($290,249.51)
+TENFI Per Week: 15149.76 ($3,347.76)
+APR: Day 0.16% Week 1.15% Year 59.98%
+You are staking 0.00 [WBNB]-[UNI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[UNI] Cake LP
+Unstake 0.00 [WBNB]-[UNI] Cake LP
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,808,847.32
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 548612.9459 Cake-LP ($1,128,256.30)
+TENFI Per Week: 25971.01 ($5,739.02)
+APR: Day 0.07% Week 0.51% Year 26.45%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,044,602.20
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 466515.9050 Cake-LP ($954,187.06)
+TENFI Per Week: 21642.51 ($4,782.52)
+APR: Day 0.07% Week 0.50% Year 26.06%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[USDT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.59 TVL: $251,826,624.56
+USDT Price: $1.00
+WBNB Price: $483.95
+Staked: 9393.1204 Cake-LP ($475,228.77)
+TENFI Per Week: 17314.01 ($3,826.02)
+APR: Day 0.12% Week 0.81% Year 41.86%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[VAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.82 TVL: $25,434,217.52
+VAI Price: $0.78
+BUSD Price: $1.00
+Staked: 293244.7033 Cake-LP ($533,340.05)
+TENFI Per Week: 17314.01 ($3,826.02)
+APR: Day 0.10% Week 0.72% Year 37.30%
+You are staking 0.00 [VAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VAI]-[BUSD] Cake LP
+Unstake 0.00 [VAI]-[BUSD] Cake LP
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[XRP]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.78 TVL: $38,888,313.56
+XRP Price: $1.25
+WBNB Price: $483.95
+Staked: 9246.5720 Cake-LP ($469,553.27)
+TENFI Per Week: 8657.00 ($1,913.01)
+APR: Day 0.06% Week 0.41% Year 21.19%
+You are staking 0.00 [XRP]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XRP]-[WBNB] Cake LP
+Unstake 0.00 [XRP]-[WBNB] Cake LP
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+TENFI
+ Price: $0.22 Market Cap: $4,626,549.50 
+[%]
+Staked: 15490079.0947 TENFI ($3,422,966.70)
+TENFI Per Week: 129855.07 ($28,695.11)
+APR: Day 0.12% Week 0.84% Year 43.59%
+You are staking 0.00 TENFI ($0.00), 0.00% of the pool.
+Stake 0.00 TENFI
+Unstake 0.00 TENFI
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[WBNB]-[TENFI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $21.99 TVL: $1,086,779.53
+WBNB Price: $483.95
+TENFI Price: $0.22
+Staked: 49355.0642 Cake-LP ($1,085,089.67)
+TENFI Per Week: 199111.11 ($43,999.18)
+APR: Day 0.58% Week 4.05% Year 210.85%
+You are staking 0.00 [WBNB]-[TENFI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[TENFI] Cake LP
+Unstake 0.00 [WBNB]-[TENFI] Cake LP
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[TENFI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.99 TVL: $685,052.17
+TENFI Price: $0.22
+BUSD Price: $1.00
+Staked: 690140.1075 Cake-LP ($684,064.51)
+TENFI Per Week: 121198.07 ($26,782.11)
+APR: Day 0.56% Week 3.92% Year 203.59%
+You are staking 0.00 [TENFI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TENFI]-[BUSD] Cake LP
+Unstake 0.00 [TENFI]-[BUSD] Cake LP
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[ALPHA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $47.95 TVL: $22,457,661.10
+ALPHA Price: $1.12
+WBNB Price: $483.95
+Staked: 2486.4579 Cake-LP ($119,220.56)
+TENFI Per Week: 4328.50 ($956.50)
+APR: Day 0.11% Week 0.80% Year 41.72%
+You are staking 0.00 [ALPHA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALPHA]-[WBNB] Cake LP
+Unstake 0.00 [ALPHA]-[WBNB] Cake LP
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[BTCB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $472.28 TVL: $139,146,262.37
+BTCB Price: $49,954.00
+BUSD Price: $1.00
+Staked: 344.9173 Cake-LP ($162,898.00)
+TENFI Per Week: 6492.75 ($1,434.76)
+APR: Day 0.13% Week 0.88% Year 45.80%
+You are staking 0.00 [BTCB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[BUSD] Cake LP
+Unstake 0.00 [BTCB]-[BUSD] Cake LP
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[TWT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $44.01 TVL: $12,346,670.45
+TWT Price: $0.94
+WBNB Price: $483.95
+Staked: 2102.4367 Cake-LP ($92,530.95)
+TENFI Per Week: 4328.50 ($956.50)
+APR: Day 0.15% Week 1.03% Year 53.75%
+You are staking 0.00 [TWT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TWT]-[WBNB] Cake LP
+Unstake 0.00 [TWT]-[WBNB] Cake LP
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+Cake
+ Price: $24.98 Market Cap: $10,394,805,885.65 
+[%]
+Staked: 97989.1632 Cake ($2,447,769.30)
+TENFI Per Week: 25971.01 ($5,739.02)
+APR: Day 0.03% Week 0.23% Year 12.19%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[ETH]-[BTCB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $26,790.84 TVL: $153,433,738.86
+ETH Price: $3,322.25
+BTCB Price: $49,954.00
+Staked: 14.7898 Cake-LP ($396,230.06)
+TENFI Per Week: 8657.00 ($1,913.01)
+APR: Day 0.07% Week 0.48% Year 25.11%
+You are staking 0.00 [ETH]-[BTCB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BTCB] Cake LP
+Unstake 0.00 [ETH]-[BTCB] Cake LP
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[ETH]-[USDC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $118.52 TVL: $71,542,276.77
+ETH Price: $3,322.25
+USDC Price: $1.00
+Staked: 2667.9028 Cake-LP ($316,196.63)
+TENFI Per Week: 8657.00 ($1,913.01)
+APR: Day 0.09% Week 0.61% Year 31.46%
+You are staking 0.00 [ETH]-[USDC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[USDC] Cake LP
+Unstake 0.00 [ETH]-[USDC] Cake LP
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+[TUSD]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $120,714,395.45
+TUSD Price: $1.00
+BUSD Price: $1.00
+Staked: 191167.5188 Cake-LP ($382,451.03)
+TENFI Per Week: 8657.00 ($1,913.01)
+APR: Day 0.07% Week 0.50% Year 26.01%
+You are staking 0.00 [TUSD]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TUSD]-[BUSD] Cake LP
+Unstake 0.00 [TUSD]-[BUSD] Cake LP
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+27 - beltBTC Price: $0.00 TVL: $0.00
+Staked: 27.8381 beltBTC ($0.00)
+TENFI Per Week: 10821.26 ($2,391.26)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 beltBTC ($0.00), NaN% of the pool.
+Stake 0.00 beltBTC
+Unstake 0.00 beltBTC
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+28 - beltBNB Price: $0.00 TVL: $0.00
+Staked: 1758.0097 beltBNB ($0.00)
+TENFI Per Week: 15149.76 ($3,347.76)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 beltBNB ($0.00), NaN% of the pool.
+Stake 0.00 beltBNB
+Unstake 0.00 beltBNB
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+29 - beltETH Price: $0.00 TVL: $0.00
+Staked: 242.5032 beltETH ($0.00)
+TENFI Per Week: 10821.26 ($2,391.26)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 beltETH ($0.00), NaN% of the pool.
+Stake 0.00 beltETH
+Unstake 0.00 beltETH
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+4Belt
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1063007.0892 4Belt ($0.00)
+TENFI Per Week: 17314.01 ($3,826.02)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 4Belt ($0.00), NaN% of the pool.
+Stake 0.00 4Belt
+Unstake 0.00 4Belt
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+[TRX]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.63 TVL: $30,254,873.64
+TRX Price: $0.09
+BUSD Price: $1.00
+Staked: 144317.4513 Cake-LP ($90,797.64)
+TENFI Per Week: 4328.50 ($956.50)
+APR: Day 0.15% Week 1.05% Year 54.78%
+You are staking 0.00 [TRX]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TRX]-[BUSD] Cake LP
+Unstake 0.00 [TRX]-[BUSD] Cake LP
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+[SKILL]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $816.42 TVL: $5,650,835.93
+SKILL Price: $41.47
+WBNB Price: $483.95
+Staked: 64.4824 Cake-LP ($52,644.72)
+TENFI Per Week: 8657.00 ($1,913.01)
+APR: Day 0.52% Week 3.63% Year 188.96%
+You are staking 0.00 [SKILL]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SKILL]-[WBNB] Cake LP
+Unstake 0.00 [SKILL]-[WBNB] Cake LP
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+33 - 
+[AXS]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $420.68 TVL: $35,848,458.14
+AXS Price: $76.16
+WBNB Price: $483.95
+Staked: 189.6460 Cake-LP ($79,781.22)
+TENFI Per Week: 6492.75 ($1,434.76)
+APR: Day 0.26% Week 1.80% Year 93.51%
+You are staking 0.00 [AXS]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AXS]-[WBNB] Cake LP
+Unstake 0.00 [AXS]-[WBNB] Cake LP
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+34 - 
+[UST]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $50,235,276.27
+UST Price: $1.00
+BUSD Price: $1.00
+Staked: 202129.5210 Cake-LP ($414,953.54)
+TENFI Per Week: 8657.00 ($1,913.01)
+APR: Day 0.07% Week 0.46% Year 23.97%
+You are staking 0.00 [UST]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[BUSD] Cake LP
+Unstake 0.00 [UST]-[BUSD] Cake LP
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+35 - 
+[POTS]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9.16 TVL: $4,362,689.16
+POTS Price: $17.78
+BUSD Price: $1.00
+Staked: 5466.3101 Cake-LP ($50,051.71)
+TENFI Per Week: 8657.00 ($1,913.01)
+APR: Day 0.55% Week 3.82% Year 198.75%
+You are staking 0.00 [POTS]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [POTS]-[BUSD] Cake LP
+Unstake 0.00 [POTS]-[BUSD] Cake LP
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+36 - 
+[C98]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $84.34 TVL: $26,435,031.02
+C98 Price: $3.20
+WBNB Price: $483.95
+Staked: 1315.0585 Cake-LP ($110,917.31)
+TENFI Per Week: 6492.75 ($1,434.76)
+APR: Day 0.18% Week 1.29% Year 67.26%
+You are staking 0.00 [C98]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [C98]-[WBNB] Cake LP
+Unstake 0.00 [C98]-[WBNB] Cake LP
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+37 - 
+[USDT]-[USDC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $122,414,030.97
+USDT Price: $1.00
+USDC Price: $1.00
+Staked: 188334.9395 Cake-LP ($388,489.79)
+TENFI Per Week: 8657.00 ($1,913.01)
+APR: Day 0.07% Week 0.49% Year 25.61%
+You are staking 0.00 [USDT]-[USDC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] Cake LP
+Unstake 0.00 [USDT]-[USDC] Cake LP
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+38 - 
+BANANA
+ Price: $4.77 Market Cap: $302,241,643.49 
+[%]
+Staked: 38161.6251 BANANA ($182,030.95)
+TENFI Per Week: 15149.76 ($3,347.76)
+APR: Day 0.26% Week 1.84% Year 95.63%
+You are staking 0.00 BANANA ($0.00), 0.00% of the pool.
+Stake 0.00 BANANA
+Unstake 0.00 BANANA
+Claim 0.00 TENFI ($0.00)
+Staking or unstaking also claims rewards.
+{}
+Oops something went wrong. Try refreshing the page.

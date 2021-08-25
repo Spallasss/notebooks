@@ -1,0 +1,155 @@
+INFO  : https://aave.com
+*****************************************************************
+
+Mon Aug 23 2021 15:44:30 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+AAVE ($411.29)
+Supplied : 1,717,359.59 ($706,332,826.71) at 0.00% APR
+Borrowed : 0.00 ($0.00) at 0.00% APR
+Reserves : 1,717,359.59 ($706,332,826.71)
+Farming APR Supply 0.00% Borrow NaN%
+Net APR Supply 0.00% Borrow NaN%
+BAL ($31.00)
+Supplied : 294,254.08 ($9,121,876.54) at 1.75% APR
+Borrowed : 110,464.36 ($3,424,395.19) at 5.84% APR
+Reserves : 183,790.04 ($5,697,491.23)
+Farming APR Supply 0.00% Borrow 0.00%
+Net APR Supply 1.75% Borrow -5.84%
+BAT ($0.86)
+Supplied : 4,291,991.73 ($3,675,910.66) at 0.70% APR
+Borrowed : 995,014.64 ($852,188.25) at 3.69% APR
+Reserves : 3,274,585.74 ($2,804,545.15)
+Farming APR Supply 0.00% Borrow 0.00%
+Net APR Supply 0.70% Borrow -3.69%
+BUSD ($1.00)
+Supplied : 9,693,026.27 ($9,654,428.64) at 7.08% APR
+Borrowed : 7,865,055.28 ($7,833,736.63) at 9.69% APR
+Reserves : 1,828,116.19 ($1,820,836.63)
+Farming APR Supply 0.00% Borrow 0.00%
+Net APR Supply 7.08% Borrow -9.69%
+CRV ($2.38)
+Supplied : 19,402,342.06 ($46,177,574.10) at 2.75% APR
+Borrowed : 8,753,408.24 ($20,833,111.61) at 7.62% APR
+Reserves : 10,648,998.06 ($25,344,615.38)
+Farming APR Supply 0.00% Borrow 0.00%
+Net APR Supply 2.75% Borrow -7.62%
+DAI ($1.00)
+Supplied : 1,673,083,315.61 ($1,672,765,429.78) at 5.57% APR
+Borrowed : 1,343,877,767.10 ($1,343,622,430.32) at 7.62% APR
+Reserves : 318,459,931.83 ($318,399,424.44)
+Farming APR Supply 1.32% Borrow 1.64%
+Net APR Supply 6.89% Borrow -5.98%
+ENJ ($1.91)
+Supplied : 10,835,905.38 ($20,696,579.28) at 0.01% APR
+Borrowed : 99,524.34 ($190,091.48) at 0.52% APR
+Reserves : 10,471,277.91 ($20,000,140.81)
+Farming APR Supply 0.00% Borrow 0.00%
+Net APR Supply 0.01% Borrow -0.52%
+GUSD ($0.99)
+Supplied : 33,343,762.68 ($33,105,854.93) at 4.19% APR
+Borrowed : 26,794,702.84 ($26,603,522.64) at 5.79% APR
+Reserves : 6,549,108.54 ($6,502,380.65)
+Farming APR Supply 3.63% Borrow 4.52%
+Net APR Supply 7.82% Borrow -1.27%
+KNC ($2.16)
+Supplied : 892,784.99 ($1,928,415.58) at 0.97% APR
+Borrowed : 214,264.71 ($462,811.77) at 3.62% APR
+Reserves : 630,089.93 ($1,360,994.25)
+Farming APR Supply 0.00% Borrow 0.00%
+Net APR Supply 0.97% Borrow -3.62%
+LINK ($28.72)
+Supplied : 20,154,001.49 ($578,822,922.69) at 0.01% APR
+Borrowed : 229,686.45 ($6,596,594.97) at 0.20% APR
+Reserves : 19,892,077.48 ($571,300,465.21)
+Farming APR Supply 0.00% Borrow 0.00%
+Net APR Supply 0.01% Borrow -0.20%
+MANA ($0.89)
+Supplied : 10,006,972.56 ($8,901,622.39) at 0.37% APR
+Borrowed : 1,865,563.38 ($1,659,496.98) at 2.96% APR
+Reserves : 8,099,956.56 ($7,205,251.55)
+Farming APR Supply 0.00% Borrow 0.00%
+Net APR Supply 0.37% Borrow -2.96%
+MKR ($3,966.18)
+Supplied : 50,952.90 ($202,088,370.04) at 0.00% APR
+Borrowed : 394.75 ($1,565,651.56) at 0.13% APR
+Reserves : 50,533.74 ($200,425,907.63)
+Farming APR Supply 0.00% Borrow 0.00%
+Net APR Supply 0.00% Borrow -0.13%
+REN ($0.63)
+Supplied : 46,920,227.17 ($29,656,258.02) at 0.09% APR
+Borrowed : 1,276,239.28 ($806,655.97) at 1.43% APR
+Reserves : 42,618,892.86 ($26,937,569.57)
+Farming APR Supply 0.00% Borrow 0.00%
+Net APR Supply 0.09% Borrow -1.43%
+SNX ($13.99)
+Supplied : 1,318,989.76 ($18,452,666.70) at 1.53% APR
+Borrowed : 406,432.56 ($5,685,991.57) at 7.62% APR
+Reserves : 912,561.37 ($12,766,733.57)
+Farming APR Supply 0.00% Borrow 0.00%
+Net APR Supply 1.53% Borrow -7.62%
+sUSD ($1.00)
+Supplied : 126,512,710.03 ($126,063,336.88) at 0.44% APR
+Borrowed : 41,870,392.76 ($41,721,669.12) at 1.65% APR
+Reserves : 84,642,340.88 ($84,341,691.28)
+Farming APR Supply 0.00% Borrow 0.00%
+Net APR Supply 0.44% Borrow -1.65%
+TUSD ($1.00)
+Supplied : 15,713,641.96 ($15,647,094.68) at 1.47% APR
+Borrowed : 6,741,611.15 ($6,713,060.42) at 2.48% APR
+Reserves : 7,919,517.64 ($7,885,978.49)
+Farming APR Supply 0.00% Borrow 0.00%
+Net APR Supply 1.47% Borrow -2.48%
+UNI ($29.23)
+Supplied : 3,460,798.62 ($101,159,143.75) at 0.00% APR
+Borrowed : 58,206.57 ($1,701,377.98) at 0.26% APR
+Reserves : 3,402,590.53 ($99,457,721.30)
+Farming APR Supply 0.00% Borrow 0.00%
+Net APR Supply 0.00% Borrow -0.26%
+USDC ($1.00)
+Supplied : 5,716,296,549.08 ($5,695,597,839.28) at 6.41% APR
+Borrowed : 5,134,111,837.09 ($5,115,521,218.13) at 7.84% APR
+Reserves : 535,058,882.68 ($533,121,434.47)
+Farming APR Supply 1.20% Borrow 1.34%
+Net APR Supply 7.62% Borrow -6.50%
+USDT ($1.00)
+Supplied : 1,129,553,499.13 ($1,128,076,043.15) at 3.07% APR
+Borrowed : 964,719,740.08 ($963,457,886.66) at 3.85% APR
+Reserves : 152,147,927.31 ($151,948,917.82)
+Farming APR Supply 3.78% Borrow 4.42%
+Net APR Supply 6.84% Borrow 0.58%
+WBTC ($50,205.00)
+Supplied : 41,831.44 ($2,100,147,247.75) at 0.03% APR
+Borrowed : 2,316.04 ($116,276,974.68) at 0.68% APR
+Reserves : 39,506.83 ($1,983,440,342.86)
+Farming APR Supply 1.23% Borrow 1.17%
+Net APR Supply 1.26% Borrow 0.48%
+WETH ($3,326.01)
+Supplied : 1,903,826.61 ($6,332,146,327.66) at 0.02% APR
+Borrowed : 85,741.99 ($285,178,705.18) at 0.56% APR
+Reserves : 1,817,324.61 ($6,044,439,829.56)
+Farming APR Supply 0.50% Borrow 0.59%
+Net APR Supply 0.53% Borrow 0.03%
+xSUSHI ($16.38)
+Supplied : 14,699,444.06 ($240,776,893.77) at 0.01% APR
+Borrowed : 358,686.73 ($5,875,288.71) at 0.38% APR
+Reserves : 14,340,757.48 ($234,901,607.52)
+Farming APR Supply 0.00% Borrow 0.00%
+Net APR Supply 0.01% Borrow -0.38%
+YFI ($40,152.00)
+Supplied : 1,837.15 ($73,765,130.11) at 0.05% APR
+Borrowed : 115.51 ($4,637,803.34) at 0.98% APR
+Reserves : 1,721.64 ($69,127,336.48)
+Farming APR Supply 0.00% Borrow 0.00%
+Net APR Supply 0.05% Borrow -0.98%
+ZRX ($1.13)
+Supplied : 2,526,185.60 ($2,854,589.73) at 0.31% APR
+Borrowed : 77,202.54 ($87,238.87) at 1.76% APR
+Reserves : 2,241,062.85 ($2,532,401.02)
+Farming APR Supply 0.00% Borrow 0.00%
+Net APR Supply 0.31% Borrow -1.76%

@@ -1,0 +1,156 @@
+INFO  : https://farm.project69.network
+****************************************************************************************
+
+Mon Aug 23 2021 14:29:20 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 10 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+BLT
+ Price: $0.00 Market Cap: $0.00 
+Staked: 178114.6698 BLT ($0.00)
+BLT Per Week: 2747.84 ($4.20)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLT ($0.00), NaN% of the pool.
+Stake 0.00 BLT
+Unstake 0.00 BLT
+Claim 0.00 BLT ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[BLT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.75 TVL: $43.24
+BLT Price: $0.001527
+WBNB Price: $483.91
+Staked: 20.8147 Cake-LP ($36.44)
+BLT Per Week: 2747.84 ($4.20)
+APR: Day 1.64% Week 11.51% Year 598.73%
+You are staking 0.00 [BLT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BLT]-[WBNB] Cake LP
+Unstake 0.00 [BLT]-[WBNB] Cake LP
+Claim 0.00 BLT ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[BLT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.08 TVL: $46.84
+BLT Price: $0.001527
+BUSD Price: $1.00
+Staked: 581.1331 Cake-LP ($46.53)
+BLT Per Week: 4579.74 ($6.99)
+APR: Day 2.15% Week 15.03% Year 781.66%
+You are staking 0.00 [BLT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BLT]-[BUSD] Cake LP
+Unstake 0.00 [BLT]-[BUSD] Cake LP
+Claim 0.00 BLT ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[P69]-[BLT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $6.73
+P69 Price: $0.001909
+BLT Price: $0.001527
+Staked: 1125.3378 Cake-LP ($3.88)
+BLT Per Week: 2289.87 ($3.50)
+APR: Day 12.87% Week 90.12% Year 4686.29%
+You are staking 0.00 [P69]-[BLT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [P69]-[BLT] Cake LP
+Unstake 0.00 [P69]-[BLT] Cake LP
+Claim 0.00 BLT ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[P69]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.97 TVL: $8.10
+P69 Price: $0.001909
+WBNB Price: $483.91
+Staked: 2.8162 Cake-LP ($5.54)
+BLT Per Week: 2289.87 ($3.50)
+APR: Day 9.02% Week 63.17% Year 3285.00%
+You are staking 0.00 [P69]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [P69]-[WBNB] Cake LP
+Unstake 0.00 [P69]-[WBNB] Cake LP
+Claim 0.00 BLT ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[P69]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.09 TVL: $81.09
+P69 Price: $0.001909
+BUSD Price: $1.00
+Staked: 127.8905 Cake-LP ($11.53)
+BLT Per Week: 3663.79 ($5.59)
+APR: Day 6.93% Week 48.53% Year 2523.63%
+You are staking 0.00 [P69]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [P69]-[BUSD] Cake LP
+Unstake 0.00 [P69]-[BUSD] Cake LP
+Claim 0.00 BLT ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+P69
+ Price: $0.001909 Market Cap: $13,174.35 
+[%]
+Staked: 35395.7502 P69 ($67.58)
+BLT Per Week: 1831.89 ($2.80)
+APR: Day 0.59% Week 4.14% Year 215.24%
+You are staking 0.00 P69 ($0.00), 0.00% of the pool.
+Stake 0.00 P69
+Unstake 0.00 P69
+Claim 0.00 BLT ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.70 TVL: $527,094,280.84
+WBNB Price: $483.91
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+BLT Per Week: 9.16 ($0.01)
+APR: Day 1161.59% Week 8131.11% Year 422817.56%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 BLT ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $171.49

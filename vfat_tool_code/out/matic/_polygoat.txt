@@ -1,0 +1,166 @@
+INFO  : https://www.polygoat.finance
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:22:51 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 11 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[Goat] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13,744.03 TVL: $6.32
+USDC Price: $1.00
+Goat Price: $0.0000325614
+Staked: 0.0004 UNI-V2 ($4.96)
+GOAT Per Week: 18000.00 ($0.59)
+APR: Day 1.69% Week 11.82% Year 614.46%
+You are staking 0.00 [USDC]-[Goat] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[Goat] Uni LP
+Unstake 0.00 [USDC]-[Goat] Uni LP
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[Goat] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $5.72
+WMATIC Price: $1.66
+Goat Price: $0.0000325614
+Staked: 173.4144 UNI-V2 ($2.99)
+GOAT Per Week: 18000.00 ($0.59)
+APR: Day 2.80% Week 19.57% Year 1017.72%
+You are staking 0.00 [WMATIC]-[Goat] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[Goat] Uni LP
+Unstake 0.00 [WMATIC]-[Goat] Uni LP
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+Goat
+ Price: $0.0000325614 Market Cap: $29.83 
+[%]
+Staked: 601086.6263 Goat ($19.57)
+GOAT Per Week: 27000.00 ($0.88)
+APR: Day 0.64% Week 4.49% Year 233.58%
+You are staking 0.00 Goat ($0.00), 0.00% of the pool.
+Stake 0.00 Goat
+Unstake 0.00 Goat
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WMATIC
+ Price: $1.66 Market Cap: $609,160,987.09 
+[%]
+Staked: 896.1812 WMATIC ($1,487.66)
+GOAT Per Week: 18000.00 ($0.59)
+APR: Day 0.01% Week 0.04% Year 2.05%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+QUICK
+ Price: $741.37 Market Cap: $709,688,795.76 
+[%]
+Staked: 0.0702 QUICK ($52.04)
+GOAT Per Week: 9000.00 ($0.29)
+APR: Day 0.08% Week 0.56% Year 29.28%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WETH
+ Price: $3,323.42 Market Cap: $2,029,036,784.17 
+[%]
+Staked: 0.0095 WETH ($31.70)
+GOAT Per Week: 9000.00 ($0.29)
+APR: Day 0.13% Week 0.92% Year 48.07%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WBTC
+ Price: $50,162.00 Market Cap: $699,715,479.44 
+[%]
+Staked: 0.0003 WBTC ($13.80)
+GOAT Per Week: 9000.00 ($0.29)
+APR: Day 0.30% Week 2.12% Year 110.39%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+USDT
+ Price: $1.00 Market Cap: $314,853,059.77 
+[%]
+Staked: 39.0425 USDT ($39.00)
+GOAT Per Week: 9000.00 ($0.29)
+APR: Day 0.11% Week 0.75% Year 39.07%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+AAVE
+ Price: $410.53 Market Cap: $156,278,336.32 
+[%]
+Staked: 0.2132 AAVE ($87.52)
+GOAT Per Week: 9000.00 ($0.29)
+APR: Day 0.05% Week 0.33% Year 17.41%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+LINK
+ Price: $28.77 Market Cap: $65,285,861.06 
+[%]
+Staked: 1.0241 LINK ($29.46)
+GOAT Per Week: 9000.00 ($0.29)
+APR: Day 0.14% Week 0.99% Year 51.72%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+Krill
+ Price: $0.09 Market Cap: $658,965.02 
+[%]
+Staked: 1.5415 Krill ($0.14)
+GOAT Per Week: 9000.00 ($0.29)
+APR: Day 30.28% Week 211.96% Year 11022.07%
+You are staking 0.00 Krill ($0.00), 0.00% of the pool.
+Stake 0.00 Krill - Fee 4%
+Unstake 0.00 Krill
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,768.86

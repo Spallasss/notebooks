@@ -1,0 +1,256 @@
+INFO  : https://evo-matic.com
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 13:12:06 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 16 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+GENX
+ Price: $0.36 Market Cap: $696,111.85 
+[%]
+Staked: 546200.3539 GENX ($194,401.55)
+GENX Per Week: 7619.05 ($2,711.74)
+APR: Day 0.20% Week 1.39% Year 72.54%
+You are staking 0.00 GENX ($0.00), 0.00% of the pool.
+Stake 0.00 GENX
+Unstake 0.00 GENX
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[USDC]-[GENX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,252,696.45 TVL: $121,582.26
+USDC Price: $1.00
+GENX Price: $0.36
+Staked: 0.0955 UNI-V2 ($119,583.27)
+GENX Per Week: 15238.10 ($5,423.48)
+APR: Day 0.65% Week 4.54% Year 235.84%
+You are staking 0.00 [USDC]-[GENX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[GENX] Uni LP
+Unstake 0.00 [USDC]-[GENX] Uni LP
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[GENX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.58 TVL: $84,930.79
+WMATIC Price: $1.64
+GENX Price: $0.36
+Staked: 53209.8044 UNI-V2 ($84,307.96)
+GENX Per Week: 12190.48 ($4,338.79)
+APR: Day 0.74% Week 5.15% Year 267.61%
+You are staking 0.00 [WMATIC]-[GENX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[GENX] Uni LP
+Unstake 0.00 [WMATIC]-[GENX] Uni LP
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WMATIC]-[WBTC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,446,461,134,437.42 TVL: $121,636.59
+WMATIC Price: $1.64
+WBTC Price: $50,012.00
+Staked: 0.0000 UNI-V2 ($49,455.12)
+GENX Per Week: 2285.71 ($813.52)
+APR: Day 0.23% Week 1.64% Year 85.54%
+You are staking 0.00 [WMATIC]-[WBTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WBTC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[WBTC] Uni LP
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WMATIC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $188.29 TVL: $122,502,061.04
+WMATIC Price: $1.64
+WETH Price: $3,317.88
+Staked: 208.3201 UNI-V2 ($39,224.64)
+GENX Per Week: 1523.81 ($542.35)
+APR: Day 0.20% Week 1.38% Year 71.90%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,563,977,787,481.46 TVL: $34,034,326.71
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($150,105.61)
+GENX Per Week: 1219.05 ($433.88)
+APR: Day 0.04% Week 0.29% Year 15.03%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[USDC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $74,956,048.16 TVL: $21,383,631.11
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0003 UNI-V2 ($26,176.54)
+GENX Per Week: 761.90 ($271.17)
+APR: Day 0.15% Week 1.04% Year 53.87%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WMATIC
+ Price: $1.64 Market Cap: $603,172,567.04 
+[%]
+Staked: 27285.5430 WMATIC ($44,748.29)
+GENX Per Week: 1523.81 ($542.35)
+APR: Day 0.17% Week 1.21% Year 63.02%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+WBTC
+ Price: $50,012.00 Market Cap: $696,871,337.21 
+[%]
+Staked: 3.1683 WBTC ($158,453.01)
+GENX Per Week: 1523.81 ($542.35)
+APR: Day 0.05% Week 0.34% Year 17.80%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+USDC
+ Price: $1.00 Market Cap: $1,042,303,731.07 
+[%]
+Staked: 38368.6365 USDC ($38,325.63)
+GENX Per Week: 761.90 ($271.17)
+APR: Day 0.10% Week 0.71% Year 36.79%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+USDT
+ Price: $1.00 Market Cap: $314,851,568.06 
+[%]
+Staked: 26936.5080 USDT ($26,910.65)
+GENX Per Week: 761.90 ($271.17)
+APR: Day 0.14% Week 1.01% Year 52.40%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+DAI
+ Price: $1.00 Market Cap: $376,547,249.16 
+[%]
+Staked: 100642.3355 DAI ($100,533.94)
+GENX Per Week: 761.90 ($271.17)
+APR: Day 0.04% Week 0.27% Year 14.03%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+WETH
+ Price: $3,317.88 Market Cap: $2,022,801,341.80 
+[%]
+Staked: 7.5626 WETH ($25,091.70)
+GENX Per Week: 761.90 ($271.17)
+APR: Day 0.15% Week 1.08% Year 56.20%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[FISH]-[GENX] PolyCat LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.81 TVL: $34,440.58
+FISH Price: $5.53
+GENX Price: $0.36
+Staked: 12022.9938 CAT-LP ($33,760.36)
+GENX Per Week: 1523.81 ($542.35)
+APR: Day 0.23% Week 1.61% Year 83.54%
+You are staking 0.00 [FISH]-[GENX] PolyCat LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FISH]-[GENX] PolyCat LP - Fee 2%
+Unstake 0.00 [FISH]-[GENX] PolyCat LP
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[FISH]-[GENX] PolyCat LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.81 TVL: $34,440.58
+FISH Price: $5.53
+GENX Price: $0.36
+Staked: 12022.9938 CAT-LP ($33,760.36)
+GENX Per Week: 9142.86 ($3,254.09)
+APR: Day 1.38% Week 9.64% Year 501.22%
+You are staking 0.00 [FISH]-[GENX] PolyCat LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FISH]-[GENX] PolyCat LP
+Unstake 0.00 [FISH]-[GENX] PolyCat LP
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,124,838.63

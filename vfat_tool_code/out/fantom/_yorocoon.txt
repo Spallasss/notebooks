@@ -1,0 +1,353 @@
+INFO  : https://yorocoon.com
+*****************************************************************************
+
+Mon Aug 23 2021 13:23:25 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 25 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WFTM]-[YORO] ZooDex LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.19 TVL: $1,616.38
+WFTM Price: $0.57
+YORO Price: $0.0000000000
+Staked: 7757.5204 ZDEXLP ($1,438.96)
+CATNIP Per Week: 614.45 ($14.07)
+APR: Day 0.14% Week 0.98% Year 50.84%
+You are staking 0.00 [WFTM]-[YORO] ZooDex LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[YORO] ZooDex LP
+Unstake 0.00 [WFTM]-[YORO] ZooDex LP
+Claim 0.00 CATNIP ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WFTM]-[CATNIP] ZooDex LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.24 TVL: $1,049.46
+WFTM Price: $0.57
+CATNIP Price: $0.02
+Staked: 3876.0571 ZDEXLP ($933.99)
+CATNIP Per Week: 1843.35 ($42.21)
+APR: Day 0.65% Week 4.52% Year 235.00%
+You are staking 0.00 [WFTM]-[CATNIP] ZooDex LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[CATNIP] ZooDex LP
+Unstake 0.00 [WFTM]-[CATNIP] ZooDex LP
+Claim 0.00 CATNIP ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+CATNIP
+ Price: $0.02 Market Cap: $1,654.50 
+Staked: 16115.5207 CATNIP ($369.02)
+CATNIP Per Week: 368.67 ($8.44)
+APR: Day 0.33% Week 2.29% Year 118.96%
+You are staking 0.00 CATNIP ($0.00), 0.00% of the pool.
+Stake 0.00 CATNIP - Fee 1%
+Unstake 0.00 CATNIP
+Claim 0.00 CATNIP ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[ZOO]-[YORO] ZooDex LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $43,287,236.43 TVL: $2,135.44
+ZOO Price: $0.04
+YORO Price: $0.0000000000
+Staked: 0.0000 ZDEXLP ($2,082.36)
+CATNIP Per Week: 122.89 ($2.81)
+APR: Day 0.02% Week 0.14% Year 7.03%
+You are staking 0.00 [ZOO]-[YORO] ZooDex LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZOO]-[YORO] ZooDex LP - Fee 1%
+Unstake 0.00 [ZOO]-[YORO] ZooDex LP
+Claim 0.00 CATNIP ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[GRIM]-[YORO] ZooDex LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.04 TVL: $1,629.52
+GRIM Price: $0.006059
+YORO Price: $0.0000000000
+Staked: 27523.5119 ZDEXLP ($1,227.86)
+CATNIP Per Week: 122.89 ($2.81)
+APR: Day 0.03% Week 0.23% Year 11.92%
+You are staking 0.00 [GRIM]-[YORO] ZooDex LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GRIM]-[YORO] ZooDex LP - Fee 1%
+Unstake 0.00 [GRIM]-[YORO] ZooDex LP
+Claim 0.00 CATNIP ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[REAPER]-[CATNIP] ZooDex LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $83.19
+REAPER Price: $0.001809
+CATNIP Price: $0.02
+Staked: 6255.7354 ZDEXLP ($81.51)
+CATNIP Per Week: 122.89 ($2.81)
+APR: Day 0.49% Week 3.45% Year 179.51%
+You are staking 0.00 [REAPER]-[CATNIP] ZooDex LP ($0.00), 0.00% of the pool.
+Stake 0.00 [REAPER]-[CATNIP] ZooDex LP - Fee 1%
+Unstake 0.00 [REAPER]-[CATNIP] ZooDex LP
+Claim 0.00 CATNIP ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[ZOO]-[ATRI] ZooDex LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $91,783,123,787,016,660.00 TVL: $3,467.47
+ZOO Price: $0.04
+ATRI Price: $0.06
+Staked: 0.0000 ZDEXLP ($3,304.47)
+CATNIP Per Week: 122.89 ($2.81)
+APR: Day 0.01% Week 0.09% Year 4.43%
+You are staking 0.00 [ZOO]-[ATRI] ZooDex LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZOO]-[ATRI] ZooDex LP - Fee 1%
+Unstake 0.00 [ZOO]-[ATRI] ZooDex LP
+Claim 0.00 CATNIP ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[WFTM]-[ECHO] ZooDex LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8,513.83 TVL: $17,338.94
+WFTM Price: $0.57
+ECHO Price: $0.03
+Staked: 0.0140 ZDEXLP ($119.20)
+CATNIP Per Week: 122.89 ($2.81)
+APR: Day 0.34% Week 2.36% Year 122.76%
+You are staking 0.00 [WFTM]-[ECHO] ZooDex LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ECHO] ZooDex LP - Fee 1%
+Unstake 0.00 [WFTM]-[ECHO] ZooDex LP
+Claim 0.00 CATNIP ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[BABYBOO]-[YORO] ZooDex LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $17.58
+BABYBOO Price: $0.0000075082
+YORO Price: $0.0000000000
+Staked: 8864.5203 ZDEXLP ($7.46)
+CATNIP Per Week: 122.89 ($2.81)
+APR: Day 5.39% Week 37.71% Year 1960.93%
+You are staking 0.00 [BABYBOO]-[YORO] ZooDex LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BABYBOO]-[YORO] ZooDex LP - Fee 1%
+Unstake 0.00 [BABYBOO]-[YORO] ZooDex LP
+Claim 0.00 CATNIP ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[ZOO]-[WFTM] ZooDex LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $288,482,151.44 TVL: $2,419,582.20
+ZOO Price: $0.04
+WFTM Price: $0.57
+Staked: 0.0000 ZDEXLP ($669.22)
+CATNIP Per Week: 614.45 ($14.07)
+APR: Day 0.30% Week 2.10% Year 109.33%
+You are staking 0.00 [ZOO]-[WFTM] ZooDex LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZOO]-[WFTM] ZooDex LP - Fee 1%
+Unstake 0.00 [ZOO]-[WFTM] ZooDex LP
+Claim 0.00 CATNIP ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[WFTM]-[YORO] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.17 TVL: $4,126.85
+WFTM Price: $0.57
+YORO Price: $0.0000000000
+Staked: 1191.5203 SPIRIT-LP ($206.08)
+CATNIP Per Week: 614.45 ($14.07)
+APR: Day 0.98% Week 6.83% Year 355.02%
+You are staking 0.00 [WFTM]-[YORO] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[YORO] SPIRIT LP
+Unstake 0.00 [WFTM]-[YORO] SPIRIT LP
+Claim 0.00 CATNIP ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[WFTM]-[CATNIP] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.23 TVL: $242.45
+WFTM Price: $0.57
+CATNIP Price: $0.02
+Staked: 1045.1273 SPIRIT-LP ($241.28)
+CATNIP Per Week: 1843.35 ($42.21)
+APR: Day 2.50% Week 17.49% Year 909.69%
+You are staking 0.00 [WFTM]-[CATNIP] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[CATNIP] SPIRIT LP
+Unstake 0.00 [WFTM]-[CATNIP] SPIRIT LP
+Claim 0.00 CATNIP ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[USDC]-[WFTM] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,828,262.54 TVL: $3,263,844.04
+USDC Price: $1.00
+WFTM Price: $0.57
+Staked: 0.0001 SPIRIT-LP ($168.27)
+CATNIP Per Week: 614.45 ($14.07)
+APR: Day 1.19% Week 8.36% Year 434.79%
+You are staking 0.00 [USDC]-[WFTM] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPIRIT LP - Fee 1%
+Unstake 0.00 [USDC]-[WFTM] SPIRIT LP
+Claim 0.00 CATNIP ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[WFTM]-[SPIRIT] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.43 TVL: $10,208,979.87
+WFTM Price: $0.57
+SPIRIT Price: $0.06
+Staked: 303.1774 SPIRIT-LP ($131.15)
+CATNIP Per Week: 614.45 ($14.07)
+APR: Day 1.53% Week 10.73% Year 557.87%
+You are staking 0.00 [WFTM]-[SPIRIT] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SPIRIT] SPIRIT LP - Fee 1%
+Unstake 0.00 [WFTM]-[SPIRIT] SPIRIT LP
+Claim 0.00 CATNIP ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[WFTM]-[CATNIP] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.23 TVL: $133.70
+WFTM Price: $0.57
+CATNIP Price: $0.02
+Staked: 576.2974 Shiba-LP ($132.10)
+CATNIP Per Week: 1843.35 ($42.21)
+APR: Day 4.56% Week 31.95% Year 1661.58%
+You are staking 0.00 [WFTM]-[CATNIP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[CATNIP] Uni LP
+Unstake 0.00 [WFTM]-[CATNIP] Uni LP
+Claim 0.00 CATNIP ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[WFTM]-[Shiba] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.16 TVL: $60,072.44
+WFTM Price: $0.57
+Shiba Price: $0.0000000000
+Staked: 707.9151 Shiba-LP ($110.43)
+CATNIP Per Week: 614.45 ($14.07)
+APR: Day 1.82% Week 12.74% Year 662.55%
+You are staking 0.00 [WFTM]-[Shiba] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[Shiba] Uni LP - Fee 1%
+Unstake 0.00 [WFTM]-[Shiba] Uni LP
+Claim 0.00 CATNIP ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[WFTM]-[YORO] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.17 TVL: $149.98
+WFTM Price: $0.57
+YORO Price: $0.0000000000
+Staked: 275.3455 Shiba-LP ($45.58)
+CATNIP Per Week: 614.45 ($14.07)
+APR: Day 4.41% Week 30.87% Year 1605.02%
+You are staking 0.00 [WFTM]-[YORO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[YORO] Uni LP
+Unstake 0.00 [WFTM]-[YORO] Uni LP
+Claim 0.00 CATNIP ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[WFTM]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.51 TVL: $2,423.23
+WFTM Price: $0.57
+DAI Price: $1.00
+Staked: 89.3312 Shiba-LP ($135.24)
+CATNIP Per Week: 614.45 ($14.07)
+APR: Day 1.49% Week 10.40% Year 541.01%
+You are staking 0.00 [WFTM]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[DAI] Uni LP - Fee 1%
+Unstake 0.00 [WFTM]-[DAI] Uni LP
+Claim 0.00 CATNIP ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $11,404.19

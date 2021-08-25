@@ -1,0 +1,391 @@
+INFO  : https://www.blacksheepdefi.com
+*************************************************************************************
+
+Mon Aug 23 2021 09:15:52 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 24 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[BLACKSHEEP]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.04 TVL: $26.65
+BLACKSHEEP Price: $0.000218
+BUSD Price: $1.00
+Staked: 138.0600 Cake-LP ($4.85)
+BLACKSHEEP Per Week: 29096.91 ($6.35)
+APR: Day 18.71% Week 130.96% Year 6809.76%
+You are staking 0.00 [BLACKSHEEP]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BLACKSHEEP]-[BUSD] Cake LP
+Unstake 0.00 [BLACKSHEEP]-[BUSD] Cake LP
+Claim 0.00 BLACKSHEEP ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[BLACKSHEEP]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.71 TVL: $147.46
+BLACKSHEEP Price: $0.000218
+WBNB Price: $484.10
+Staked: 48.4939 Cake-LP ($34.52)
+BLACKSHEEP Per Week: 21822.68 ($4.76)
+APR: Day 1.97% Week 13.79% Year 717.31%
+You are staking 0.00 [BLACKSHEEP]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BLACKSHEEP]-[WBNB] Cake LP
+Unstake 0.00 [BLACKSHEEP]-[WBNB] Cake LP
+Claim 0.00 BLACKSHEEP ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.73 TVL: $527,295,144.25
+WBNB Price: $484.10
+BUSD Price: $1.00
+Staked: 4.7517 Cake-LP ($236.28)
+BLACKSHEEP Per Week: 3879.59 ($0.85)
+APR: Day 0.05% Week 0.36% Year 18.63%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 BLACKSHEEP ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,212.93 TVL: $173,725,009.11
+BTCB Price: $49,954.00
+WBNB Price: $484.10
+Staked: 0.0001 Cake-LP ($0.82)
+BLACKSHEEP Per Week: 3879.59 ($0.85)
+APR: Day 14.67% Week 102.72% Year 5341.55%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 BLACKSHEEP ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,652.05 TVL: $261,786,236.91
+ETH Price: $3,330.52
+WBNB Price: $484.10
+Staked: 0.0003 Cake-LP ($0.71)
+BLACKSHEEP Per Week: 3879.59 ($0.85)
+APR: Day 16.96% Week 118.72% Year 6173.23%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 BLACKSHEEP ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,336,213.55
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 2.2200 Cake-LP ($4.54)
+BLACKSHEEP Per Week: 3879.59 ($0.85)
+APR: Day 2.66% Week 18.64% Year 969.05%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 BLACKSHEEP ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,312,249.01
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 4.8984 Cake-LP ($9.97)
+BLACKSHEEP Per Week: 3879.59 ($0.85)
+APR: Day 1.21% Week 8.49% Year 441.63%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 BLACKSHEEP ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,903,620.57
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 4.6746 Cake-LP ($9.62)
+BLACKSHEEP Per Week: 3879.59 ($0.85)
+APR: Day 1.26% Week 8.80% Year 457.72%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 BLACKSHEEP ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $240.48 TVL: $82,685,491.69
+DOT Price: $28.02
+WBNB Price: $484.10
+Staked: 0.0266 Cake-LP ($6.40)
+BLACKSHEEP Per Week: 3879.59 ($0.85)
+APR: Day 1.89% Week 13.23% Year 687.79%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 BLACKSHEEP ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $225.00 TVL: $1,029,798,936.08
+Cake Price: $25.01
+WBNB Price: $484.10
+Staked: 0.0037 Cake-LP ($0.83)
+BLACKSHEEP Per Week: 3879.59 ($0.85)
+APR: Day 14.49% Week 101.43% Year 5274.54%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 BLACKSHEEP ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.10 TVL: $46,762,247.44
+ADA Price: $2.82
+WBNB Price: $484.10
+Staked: 0.0507 Cake-LP ($3.91)
+BLACKSHEEP Per Week: 3879.59 ($0.85)
+APR: Day 3.09% Week 21.66% Year 1126.52%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 BLACKSHEEP ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[WBNB]-[UNI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $243.00 TVL: $33,897,062.90
+WBNB Price: $484.10
+UNI Price: $29.36
+Staked: 0.0032 Cake-LP ($0.77)
+BLACKSHEEP Per Week: 3879.59 ($0.85)
+APR: Day 15.77% Week 110.39% Year 5740.23%
+You are staking 0.00 [WBNB]-[UNI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[UNI] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[UNI] Cake LP
+Claim 0.00 BLACKSHEEP ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+BLACKSHEEP
+ Price: $0.000218 Market Cap: $255.75 
+[%]
+Staked: 379225.9211 BLACKSHEEP ($82.75)
+BLACKSHEEP Per Week: 19397.94 ($4.23)
+APR: Day 0.73% Week 5.12% Year 265.99%
+You are staking 0.00 BLACKSHEEP ($0.00), 0.00% of the pool.
+Stake 0.00 BLACKSHEEP
+Unstake 0.00 BLACKSHEEP
+Claim 0.00 BLACKSHEEP ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+BUSD
+ Price: $1.00 Market Cap: $4,194,786,121.88 
+[%]
+Staked: 5.5821 BUSD ($5.57)
+BLACKSHEEP Per Week: 2909.69 ($0.63)
+APR: Day 1.63% Week 11.39% Year 592.36%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 BLACKSHEEP ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+WBNB
+ Price: $484.10 Market Cap: $3,425,432,581.44 
+[%]
+Staked: 1.2008 WBNB ($581.31)
+BLACKSHEEP Per Week: 2909.69 ($0.63)
+APR: Day 0.02% Week 0.11% Year 5.68%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 BLACKSHEEP ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 0.6720 USDT ($0.67)
+BLACKSHEEP Per Week: 2909.69 ($0.63)
+APR: Day 13.50% Week 94.50% Year 4914.21%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 BLACKSHEEP ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+ETH
+ Price: $3,330.52 Market Cap: $4,346,328,600.00 
+[%]
+Staked: 0.0002 ETH ($0.69)
+BLACKSHEEP Per Week: 2909.69 ($0.63)
+APR: Day 13.09% Week 91.66% Year 4766.23%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 BLACKSHEEP ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.0031 BTCB ($152.77)
+BLACKSHEEP Per Week: 2909.69 ($0.63)
+APR: Day 0.06% Week 0.42% Year 21.61%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 BLACKSHEEP ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 1.9093 DAI ($1.91)
+BLACKSHEEP Per Week: 2909.69 ($0.63)
+APR: Day 4.75% Week 33.26% Year 1729.31%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 BLACKSHEEP ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,035,984.00 
+[%]
+Staked: 0.6720 USDC ($0.67)
+BLACKSHEEP Per Week: 2909.69 ($0.63)
+APR: Day 13.51% Week 94.59% Year 4918.69%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 BLACKSHEEP ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+DOT
+ Price: $28.02 Market Cap: $392,279,999.86 
+[%]
+Staked: 0.0100 DOT ($0.28)
+BLACKSHEEP Per Week: 2909.69 ($0.63)
+APR: Day 32.37% Week 226.60% Year 11783.41%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 BLACKSHEEP ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+Cake
+ Price: $25.01 Market Cap: $10,407,413,379.88 
+[%]
+Staked: 0.0326 Cake ($0.82)
+BLACKSHEEP Per Week: 2909.69 ($0.63)
+APR: Day 11.11% Week 77.77% Year 4044.03%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 BLACKSHEEP ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+ADA
+ Price: $2.82 Market Cap: $789,600,000.00 
+[%]
+Staked: 2.1360 ADA ($6.02)
+BLACKSHEEP Per Week: 2909.69 ($0.63)
+APR: Day 1.51% Week 10.54% Year 548.14%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 BLACKSHEEP ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+UNI
+ Price: $29.36 Market Cap: $108,632,000.00 
+[%]
+Staked: 0.4078 UNI ($11.97)
+BLACKSHEEP Per Week: 2909.69 ($0.63)
+APR: Day 0.76% Week 5.30% Year 275.78%
+You are staking 0.00 UNI ($0.00), 0.00% of the pool.
+Stake 0.00 UNI - Fee 4%
+Unstake 0.00 UNI
+Claim 0.00 BLACKSHEEP ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,158.67

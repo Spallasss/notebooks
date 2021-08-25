@@ -1,0 +1,668 @@
+INFO  : https://dogen.finance
+**********************************************************************************
+
+Mon Aug 23 2021 15:44:18 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 36 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[renDOGE]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8,129,682.82 TVL: $13,035.44
+renDOGE Price: $0.33
+WETH Price: $3,326.01
+Staked: 0.0000 UNI-V2 ($0.00)
+DOGEN Per Week: 48176.97 ($0.02)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [renDOGE]-[WETH] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [renDOGE]-[WETH] Uni LP
+Unstake 0.00 [renDOGE]-[WETH] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[SHIB]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.51 TVL: $5,296,206.66
+SHIB Price: $0.0000083000
+WETH Price: $3,326.01
+Staked: 761.2952 UNI-V2 ($1,148.69)
+DOGEN Per Week: 573.54 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SHIB]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SHIB]-[WETH] Uni LP
+Unstake 0.00 [SHIB]-[WETH] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[AKITA]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.46 TVL: $4,177,423.48
+AKITA Price: $0.0000013400
+WETH Price: $3,326.01
+Staked: 0.0000 UNI-V2 ($0.00)
+DOGEN Per Week: 48176.97 ($0.02)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [AKITA]-[WETH] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [AKITA]-[WETH] Uni LP
+Unstake 0.00 [AKITA]-[WETH] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WETH]-[HOKK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $132.14 TVL: $754,197.15
+WETH Price: $3,326.01
+HOKK Price: $0.0000000002
+Staked: 0.0000 UNI-V2 ($0.00)
+DOGEN Per Week: 48176.97 ($0.02)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WETH]-[HOKK] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WETH]-[HOKK] Uni LP
+Unstake 0.00 [WETH]-[HOKK] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[KISHU]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $410.13 TVL: $2,825,694.13
+KISHU Price: $0.0000000009
+WETH Price: $3,326.01
+Staked: 0.0000 UNI-V2 ($0.00)
+DOGEN Per Week: 48176.97 ($0.02)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [KISHU]-[WETH] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [KISHU]-[WETH] Uni LP
+Unstake 0.00 [KISHU]-[WETH] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[SNOGE]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $709,806.49 TVL: $174,642.20
+SNOGE Price: $0.03
+WETH Price: $3,326.01
+Staked: 0.0000 UNI-V2 ($0.06)
+DOGEN Per Week: 48176.97 ($0.02)
+APR: Day 5.10% Week 35.69% Year 1855.76%
+You are staking 0.00 [SNOGE]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SNOGE]-[WETH] Uni LP
+Unstake 0.00 [SNOGE]-[WETH] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[WETH]-[HUSKY] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $507.13 TVL: $339,285.35
+WETH Price: $3,326.01
+HUSKY Price: $0.0000000057
+Staked: 0.5213 UNI-V2 ($264.37)
+DOGEN Per Week: 48176.97 ($0.02)
+APR: Day 0.00% Week 0.01% Year 0.42%
+You are staking 0.00 [WETH]-[HUSKY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[HUSKY] Uni LP
+Unstake 0.00 [WETH]-[HUSKY] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[WOGE]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.75 TVL: $132.75
+WOGE Price: $0.001908
+WETH Price: $3,326.01
+Staked: 0.0000 UNI-V2 ($0.00)
+DOGEN Per Week: 573.54 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WOGE]-[WETH] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WOGE]-[WETH] Uni LP
+Unstake 0.00 [WOGE]-[WETH] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[DOGEN]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.09 TVL: $21,211.95
+DOGEN Price: $0.0000004477
+WETH Price: $3,326.01
+Staked: 227016.6841 UNI-V2 ($19,983.72)
+DOGEN Per Week: 10117164.12 ($4.53)
+APR: Day 0.00% Week 0.02% Year 1.18%
+You are staking 0.00 [DOGEN]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGEN]-[WETH] Uni LP
+Unstake 0.00 [DOGEN]-[WETH] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[DOGEN]-[renDOGE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $79.33 TVL: $5,470.47
+DOGEN Price: $0.0000004477
+renDOGE Price: $0.33
+Staked: 66.6187 UNI-V2 ($5,284.96)
+DOGEN Per Week: 10117164.12 ($4.53)
+APR: Day 0.01% Week 0.09% Year 4.46%
+You are staking 0.00 [DOGEN]-[renDOGE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGEN]-[renDOGE] Uni LP
+Unstake 0.00 [DOGEN]-[renDOGE] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[POODL]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $207.56 TVL: $3,115.58
+POODL Price: $0.0000000007
+WETH Price: $3,326.01
+Staked: 2.6140 UNI-V2 ($542.56)
+DOGEN Per Week: 48176.97 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.21%
+You are staking 0.00 [POODL]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [POODL]-[WETH] Uni LP
+Unstake 0.00 [POODL]-[WETH] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[CHONK]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,331.21 TVL: $619,795.93
+CHONK Price: $68.28
+WETH Price: $3,326.01
+Staked: 0.2750 UNI-V2 ($366.12)
+DOGEN Per Week: 48176.97 ($0.02)
+APR: Day 0.00% Week 0.01% Year 0.31%
+You are staking 0.00 [CHONK]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CHONK]-[WETH] Uni LP
+Unstake 0.00 [CHONK]-[WETH] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[ROGE]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13.37 TVL: $132,177.90
+ROGE Price: $0.0000000000
+WETH Price: $3,326.01
+Staked: 15.5326 UNI-V2 ($207.68)
+DOGEN Per Week: 48176.97 ($0.02)
+APR: Day 0.00% Week 0.01% Year 0.54%
+You are staking 0.00 [ROGE]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ROGE]-[WETH] Uni LP
+Unstake 0.00 [ROGE]-[WETH] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[CoShi]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $300.28 TVL: $643,778.87
+CoShi Price: $0.0000000036
+WETH Price: $3,326.01
+Staked: 1.5232 UNI-V2 ($457.40)
+DOGEN Per Week: 48176.97 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.25%
+You are staking 0.00 [CoShi]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CoShi]-[WETH] Uni LP
+Unstake 0.00 [CoShi]-[WETH] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[DOGEFI]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $128.39 TVL: $25,714.34
+DOGEFI Price: $0.52
+WETH Price: $3,326.01
+Staked: 0.0000 UNI-V2 ($0.00)
+DOGEN Per Week: 48176.97 ($0.02)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DOGEFI]-[WETH] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [DOGEFI]-[WETH] Uni LP
+Unstake 0.00 [DOGEFI]-[WETH] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[PUP]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $151,700.05
+PUP Price: $0.0000000005
+WETH Price: $3,326.01
+Staked: 44766.2976 UNI-V2 ($128.78)
+DOGEN Per Week: 48176.97 ($0.02)
+APR: Day 0.00% Week 0.02% Year 0.87%
+You are staking 0.00 [PUP]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PUP]-[WETH] Uni LP
+Unstake 0.00 [PUP]-[WETH] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[ELON]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.04 TVL: $6,366,676.44
+ELON Price: $0.0000000659
+WETH Price: $3,326.01
+Staked: 152407.1274 UNI-V2 ($6,791.53)
+DOGEN Per Week: 48176.97 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.02%
+You are staking 0.00 [ELON]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ELON]-[WETH] Uni LP
+Unstake 0.00 [ELON]-[WETH] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[STOGE]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.66 TVL: $184,685.42
+STOGE Price: $0.000877
+WETH Price: $3,326.01
+Staked: 127.1564 UNI-V2 ($464.84)
+DOGEN Per Week: 48176.97 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.24%
+You are staking 0.00 [STOGE]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [STOGE]-[WETH] Uni LP
+Unstake 0.00 [STOGE]-[WETH] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[SHIBAKEN]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $653,854.20 TVL: $508,771.37
+SHIBAKEN Price: $0.0000000000
+WETH Price: $3,326.01
+Staked: 0.0000 UNI-V2 ($0.00)
+DOGEN Per Week: 48176.97 ($0.02)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [SHIBAKEN]-[WETH] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [SHIBAKEN]-[WETH] Uni LP
+Unstake 0.00 [SHIBAKEN]-[WETH] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[Tosa]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $20,412.70
+Tosa Price: $0.0000000083
+WETH Price: $3,326.01
+Staked: 10581.7154 UNI-V2 ($152.34)
+DOGEN Per Week: 48176.97 ($0.02)
+APR: Day 0.00% Week 0.01% Year 0.74%
+You are staking 0.00 [Tosa]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Tosa]-[WETH] Uni LP
+Unstake 0.00 [Tosa]-[WETH] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[WETH]-[HOGE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $85,885.43 TVL: $1,477,892.79
+WETH Price: $3,326.01
+HOGE Price: $0.000127
+Staked: 0.0304 UNI-V2 ($2,615.12)
+DOGEN Per Week: 48176.97 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.04%
+You are staking 0.00 [WETH]-[HOGE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[HOGE] Uni LP
+Unstake 0.00 [WETH]-[HOGE] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[DOGEN]-[MUSKY] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $1,640.55
+DOGEN Price: $0.0000004477
+MUSKY Price: $0.0000000623
+Staked: 2258658625.7175 UNI-V2 ($769.64)
+DOGEN Per Week: 1011716.41 ($0.45)
+APR: Day 0.01% Week 0.06% Year 3.06%
+You are staking 0.00 [DOGEN]-[MUSKY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGEN]-[MUSKY] Uni LP
+Unstake 0.00 [DOGEN]-[MUSKY] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[JSHIBA]-[DOGEN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $1,176.86
+JSHIBA Price: $0.0000000000
+DOGEN Price: $0.0000004477
+Staked: 3346105.5692 UNI-V2 ($479.15)
+DOGEN Per Week: 1011716.41 ($0.45)
+APR: Day 0.01% Week 0.09% Year 4.92%
+You are staking 0.00 [JSHIBA]-[DOGEN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JSHIBA]-[DOGEN] Uni LP
+Unstake 0.00 [JSHIBA]-[DOGEN] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[DOGEN]-[BDOG] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $105.38
+DOGEN Price: $0.0000004477
+BDOG Price: $0.0000000001
+Staked: 0.0000 UNI-V2 ($0.00)
+DOGEN Per Week: 1011716.41 ($0.45)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DOGEN]-[BDOG] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [DOGEN]-[BDOG] Uni LP
+Unstake 0.00 [DOGEN]-[BDOG] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[MUSKY]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $32,289.12
+MUSKY Price: $0.0000000623
+WETH Price: $3,326.01
+Staked: 0.0000 UNI-V2 ($0.00)
+DOGEN Per Week: 48176.97 ($0.02)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [MUSKY]-[WETH] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [MUSKY]-[WETH] Uni LP
+Unstake 0.00 [MUSKY]-[WETH] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[DOGEN]-[HACHIKO] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $151.58
+DOGEN Price: $0.0000004477
+HACHIKO Price: $0.0000000003
+Staked: 705671142.8186 UNI-V2 ($17.65)
+DOGEN Per Week: 1011716.41 ($0.45)
+APR: Day 0.37% Week 2.57% Year 133.43%
+You are staking 0.00 [DOGEN]-[HACHIKO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGEN]-[HACHIKO] Uni LP
+Unstake 0.00 [DOGEN]-[HACHIKO] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+[DOGEN]-[POODL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $503.21
+DOGEN Price: $0.0000004477
+POODL Price: $0.0000000007
+Staked: 273576.9819 UNI-V2 ($348.17)
+DOGEN Per Week: 1011716.41 ($0.45)
+APR: Day 0.02% Week 0.13% Year 6.76%
+You are staking 0.00 [DOGEN]-[POODL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGEN]-[POODL] Uni LP
+Unstake 0.00 [DOGEN]-[POODL] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+[DOGEN]-[WDOGE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $5,765.64
+DOGEN Price: $0.0000004477
+WDOGE Price: $0.32
+Staked: 923462.2139 UNI-V2 ($708.28)
+DOGEN Per Week: 10117164.12 ($4.53)
+APR: Day 0.09% Week 0.64% Year 33.25%
+You are staking 0.00 [DOGEN]-[WDOGE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGEN]-[WDOGE] Uni LP
+Unstake 0.00 [DOGEN]-[WDOGE] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+[DOGEN]-[PUP] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $132.34
+DOGEN Price: $0.0000004477
+PUP Price: $0.0000000005
+Staked: 4428703793.4364 UNI-V2 ($132.34)
+DOGEN Per Week: 4335927.48 ($1.94)
+APR: Day 0.21% Week 1.47% Year 76.27%
+You are staking 0.00 [DOGEN]-[PUP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGEN]-[PUP] Uni LP
+Unstake 0.00 [DOGEN]-[PUP] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+[DOGEN]-[SOGE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $65.20
+DOGEN Price: $0.0000004477
+SOGE Price: $0.0000000027
+Staked: 676806641.0034 UNI-V2 ($54.32)
+DOGEN Per Week: 240884.86 ($0.11)
+APR: Day 0.03% Week 0.20% Year 10.32%
+You are staking 0.00 [DOGEN]-[SOGE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGEN]-[SOGE] Uni LP
+Unstake 0.00 [DOGEN]-[SOGE] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+[DOGEN]-[Tosa] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.00
+DOGEN Price: $0.0000004477
+Tosa Price: $0.0000000083
+Staked: 0.0000 UNI-V2 ($0.00)
+DOGEN Per Week: 240884.86 ($0.11)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DOGEN]-[Tosa] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [DOGEN]-[Tosa] Uni LP
+Unstake 0.00 [DOGEN]-[Tosa] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+[WETH]-[DIASPORA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,020,484.15 TVL: $12,577.49
+WETH Price: $3,326.01
+DIASPORA Price: $7,444,106,492.42
+Staked: 0.0006 UNI-V2 ($6,332.16)
+DOGEN Per Week: 2408848.60 ($1.08)
+APR: Day 0.00% Week 0.02% Year 0.89%
+You are staking 0.00 [WETH]-[DIASPORA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[DIASPORA] Uni LP
+Unstake 0.00 [WETH]-[DIASPORA] Uni LP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+33 - 
+dUSD
+ Price: $0.00 Market Cap: $0.00 
+Staked: 4954.6405 dUSD ($0.00)
+DOGEN Per Week: 2408848.60 ($1.08)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 dUSD ($0.00), NaN% of the pool.
+Stake 0.00 dUSD
+Unstake 0.00 dUSD
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+34 - 
+[DOGEN]-[dUSD] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $1,722.90
+DOGEN Price: $0.0000004477
+dUSD Price: $1.12
+Staked: 1212025.6440 SLP ($1,722.56)
+DOGEN Per Week: 24088486.00 ($10.78)
+APR: Day 0.09% Week 0.63% Year 32.55%
+You are staking 0.00 [DOGEN]-[dUSD] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGEN]-[dUSD] SLP
+Unstake 0.00 [DOGEN]-[dUSD] SLP
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+35 - 
+DOG5
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.1000 DOG5 ($0.00)
+DOGEN Per Week: 2408848.60 ($1.08)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DOG5 ($0.00), NaN% of the pool.
+Stake 0.00 DOG5
+Unstake 0.00 DOG5
+Claim 0.00 DOGEN ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $48,972.46

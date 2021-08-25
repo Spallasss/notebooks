@@ -1,0 +1,204 @@
+INFO  : https://floatprotocol.com/#/stake
+***********************************************************************************
+
+Mon Aug 23 2021 15:36:13 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+Float pools start at 2021-05-16 22:00 UTC
+
+BANK
+ Price: $126.21 Market Cap: $21,639,891.84 
+[%]
+Staked: 2893.5623 BANK ($365,196.50)
+BANK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 BANK $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 BANK
+Unstake 0.000000 BANK
+Claim 0.000000 BANK ($0.00)
+Revoke (set approval to 0)
+Exit
+[BANK]-[WETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,420.63 TVL: $8,097,816.84
+BANK Price: $126.21
+WETH Price: $3,331.95
+Staked: 429.0962 SLP ($609,584.98)
+BANK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [BANK]-[WETH] SLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [BANK]-[WETH] SLP
+Unstake 0.000000 [BANK]-[WETH] SLP
+Claim 0.000000 BANK ($0.00)
+Revoke (set approval to 0)
+Exit
+[FLOAT]-[WETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $141.27 TVL: $6,245,265.25
+FLOAT Price: $1.47
+WETH Price: $3,331.95
+Staked: 2086.9651 SLP ($294,832.50)
+BANK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [FLOAT]-[WETH] SLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [FLOAT]-[WETH] SLP
+Unstake 0.000000 [FLOAT]-[WETH] SLP
+Claim 0.000000 BANK ($0.00)
+Revoke (set approval to 0)
+Exit
+FLOAT
+ Price: $1.47 Market Cap: $5,685,669.98 
+[%]
+Staked: 34860.9524 FLOAT ($51,245.60)
+BANK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 FLOAT $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 FLOAT
+Unstake 0.000000 FLOAT
+Claim 0.000000 BANK ($0.00)
+Revoke (set approval to 0)
+Exit
+*** Old Pools ***
+
+[BANK]-[WETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,420.63 TVL: $8,097,816.84
+BANK Price: $126.21
+WETH Price: $3,331.95
+Staked: 107.5397 SLP ($152,773.71)
+BANK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [BANK]-[WETH] SLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [BANK]-[WETH] SLP
+Unstake 0.000000 [BANK]-[WETH] SLP
+Claim 0.000000 BANK ($0.00)
+Revoke (set approval to 0)
+Exit
+DAI
+ Price: $1.00 Market Cap: $5,779,577,726.96 
+[%]
+Staked: 455.9861 DAI ($455.90)
+BANK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 DAI $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 DAI
+Unstake 0.000000 DAI
+Claim 0.000000 BANK ($0.00)
+Revoke (set approval to 0)
+Exit
+USDC
+ Price: $1.00 Market Cap: $25,873,169,471.93 
+[%]
+Staked: 4427.6086 USDC ($4,424.31)
+BANK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 USDC $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 USDC
+Unstake 0.000000 USDC
+Claim 0.000000 BANK ($0.00)
+Revoke (set approval to 0)
+Exit
+USDT
+ Price: $1.00 Market Cap: $31,868,030,215.77 
+[%]
+Staked: 1004.7379 USDT ($1,003.42)
+BANK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 USDT $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 USDT
+Unstake 0.000000 USDT
+Claim 0.000000 BANK ($0.00)
+Revoke (set approval to 0)
+Exit
+SUSHI
+ Price: $13.92 Market Cap: $3,230,086,616.24 
+[%]
+Staked: 876.1391 SUSHI ($12,195.86)
+BANK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 SUSHI $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 SUSHI
+Unstake 0.000000 SUSHI
+Claim 0.000000 BANK ($0.00)
+Revoke (set approval to 0)
+Exit
+WBTC
+ Price: $50,306.00 Market Cap: $9,785,677,048.03 
+[%]
+Staked: 0.2225 WBTC ($11,193.46)
+BANK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 WBTC $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 WBTC
+Unstake 0.000000 WBTC
+Claim 0.000000 BANK ($0.00)
+Revoke (set approval to 0)
+Exit
+YAM
+ Price: $0.89 Market Cap: $12,400,483.62 
+[%]
+Staked: 119461.8259 YAM ($106,529.72)
+BANK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 YAM $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 YAM
+Unstake 0.000000 YAM
+Claim 0.000000 BANK ($0.00)
+Revoke (set approval to 0)
+Exit
+YFI
+ Price: $40,317.00 Market Cap: $1,478,263,122.00 
+[%]
+Staked: 0.0818 YFI ($3,296.17)
+BANK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 YFI $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 YFI
+Unstake 0.000000 YFI
+Claim 0.000000 BANK ($0.00)
+Revoke (set approval to 0)
+Exit
+ETH
+ Price: $3,331.95 Market Cap: $0.00 
+[%]
+Staked: 38.6488 ETH ($128,775.91)
+BANK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 ETH $0.00 (0.00% of the pool).
+Etherscan
+Please use the official website to stake ETH.
+Unstake 0.000000 ETH
+Claim 0.000000 BANK ($0.00)
+Exit
+Total staked: $1,741,508.05

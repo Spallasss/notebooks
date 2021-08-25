@@ -1,0 +1,187 @@
+INFO  : https://brainswap.finance
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:10:01 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 16 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+2 - 
+B-POLYBASE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 952.8340 B-POLYBASE ($0.00)
+BRAIN Per Week: 240.00 ($17.04)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 B-POLYBASE ($0.00), NaN% of the pool.
+Stake 0.00 B-POLYBASE - Fee 1%
+Unstake 0.00 B-POLYBASE
+Claim 0.00 BRAIN ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+B-POLYDEFI
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1.2318 B-POLYDEFI ($0.00)
+BRAIN Per Week: 240.00 ($17.04)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 B-POLYDEFI ($0.00), NaN% of the pool.
+Stake 0.00 B-POLYDEFI - Fee 1%
+Unstake 0.00 B-POLYDEFI
+Claim 0.00 BRAIN ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+B-POLYDEFI
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.1003 B-POLYDEFI ($0.00)
+BRAIN Per Week: 240.00 ($17.04)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 B-POLYDEFI ($0.00), NaN% of the pool.
+Stake 0.00 B-POLYDEFI - Fee 1%
+Unstake 0.00 B-POLYDEFI
+Claim 0.00 BRAIN ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+B-QIPOOL
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1.0843 B-QIPOOL ($0.00)
+BRAIN Per Week: 240.00 ($17.04)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 B-QIPOOL ($0.00), NaN% of the pool.
+Stake 0.00 B-QIPOOL - Fee 1%
+Unstake 0.00 B-QIPOOL
+Claim 0.00 BRAIN ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+B-POLYIDX
+ Price: $0.00 Market Cap: $0.00 
+Staked: 7.0132 B-POLYIDX ($0.00)
+BRAIN Per Week: 240.00 ($17.04)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 B-POLYIDX ($0.00), NaN% of the pool.
+Stake 0.00 B-POLYIDX - Fee 1%
+Unstake 0.00 B-POLYIDX
+Claim 0.00 BRAIN ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WBTC
+ Price: $50,018.00 Market Cap: $697,143,853.15 
+[%]
+Staked: 0.1000 WBTC ($5,001.80)
+BRAIN Per Week: 102.86 ($7.30)
+APR: Day 0.02% Week 0.15% Year 7.59%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 3%
+Unstake 0.00 WBTC
+Claim 0.00 BRAIN ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+WETH
+ Price: $3,319.67 Market Cap: $2,027,620,967.08 
+[%]
+Staked: 0.0203 WETH ($67.52)
+BRAIN Per Week: 102.86 ($7.30)
+APR: Day 1.54% Week 10.81% Year 562.26%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 3%
+Unstake 0.00 WETH
+Claim 0.00 BRAIN ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+miMATIC
+ Price: $0.00 Market Cap: $0.00 
+Staked: 59.9388 miMATIC ($0.00)
+BRAIN Per Week: 102.86 ($7.30)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 miMATIC ($0.00), NaN% of the pool.
+Stake 0.00 miMATIC - Fee 3%
+Unstake 0.00 miMATIC
+Claim 0.00 BRAIN ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+USDT
+ Price: $1.00 Market Cap: $314,845,845.99 
+[%]
+Staked: 344.9058 USDT ($344.51)
+BRAIN Per Week: 68.57 ($4.87)
+APR: Day 0.20% Week 1.41% Year 73.47%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 3%
+Unstake 0.00 USDT
+Claim 0.00 BRAIN ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+USDC
+ Price: $1.00 Market Cap: $1,046,020,585.58 
+[%]
+Staked: 250.4037 USDC ($249.76)
+BRAIN Per Week: 68.57 ($4.87)
+APR: Day 0.28% Week 1.95% Year 101.34%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 3%
+Unstake 0.00 USDC
+Claim 0.00 BRAIN ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+DAI
+ Price: $1.00 Market Cap: $375,664,195.61 
+[%]
+Staked: 44.6297 DAI ($44.56)
+BRAIN Per Week: 68.57 ($4.87)
+APR: Day 1.56% Week 10.92% Year 568.01%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 3%
+Unstake 0.00 DAI
+Claim 0.00 BRAIN ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WMATIC]-[BRAIN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.75 TVL: $1,212.45
+WMATIC Price: $1.65
+BRAIN Price: $0.07
+Staked: 259.5176 UNI-V2 ($194.42)
+BRAIN Per Week: 685.71 ($48.67)
+APR: Day 3.58% Week 25.04% Year 1301.84%
+You are staking 0.00 [WMATIC]-[BRAIN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[BRAIN] Uni LP
+Unstake 0.00 [WMATIC]-[BRAIN] Uni LP
+Claim 0.00 BRAIN ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+BPTC
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0100 BPTC ($0.00)
+BRAIN Per Week: 240.00 ($17.04)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BPTC ($0.00), NaN% of the pool.
+Stake 0.00 BPTC - Fee 1%
+Unstake 0.00 BPTC
+Claim 0.00 BRAIN ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+BPSG
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.4159 BPSG ($0.00)
+BRAIN Per Week: 240.00 ($17.04)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BPSG ($0.00), NaN% of the pool.
+Stake 0.00 BPSG - Fee 1%
+Unstake 0.00 BPSG
+Claim 0.00 BRAIN ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $5,902.57

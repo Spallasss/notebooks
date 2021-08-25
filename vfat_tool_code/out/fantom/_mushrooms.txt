@@ -1,0 +1,137 @@
+INFO  : https://mushrooms.finance/farms
+**************************************************************************************
+
+Mon Aug 23 2021 13:19:25 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 11 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+MM
+ Price: $4.39 Market Cap: $48,256.13 
+Staked: 5926.8199 MM ($25,996.38)
+MM Per Week: 6.00 ($26.33)
+APR: Day 0.01% Week 0.10% Year 5.27%
+You are staking 0.00 MM ($0.00), 0.00% of the pool.
+Stake 0.00 MM
+Unstake 0.00 MM
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WFTM]-[MM] SPOOKY LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.26 TVL: $20,979.64
+WFTM Price: $0.56
+MM Price: $4.39
+Staked: 6376.9449 spLP ($20,783.76)
+MM Per Week: 48.02 ($210.61)
+APR: Day 0.14% Week 1.01% Year 52.69%
+You are staking 0.00 [WFTM]-[MM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[MM] SPOOKY LP
+Unstake 0.00 [WFTM]-[MM] SPOOKY LP
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+2 - mBOO Price: $12.91 TVL: $39,103.78
+Staked: 2220.0468 mBOO ($28,667.83)
+MM Per Week: 6.00 ($26.33)
+APR: Day 0.01% Week 0.09% Year 4.78%
+You are staking 0.00 mBOO ($0.00), 0.00% of the pool.
+Stake 0.00 mBOO
+Unstake 0.00 mBOO
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+4 - Wrapped 
+[WFTM]-[ICE] SPOOKY LP
+ Price: $2.54 TVL: $19,210.58
+Staked: 6309.9995 mspLP ($16,013.49)
+MM Per Week: 6.00 ($26.33)
+APR: Day 0.02% Week 0.16% Year 8.55%
+You are staking 0.00 mspLP ($0.00), 0.00% of the pool.
+Stake 0.00 mspLP
+Unstake 0.00 mspLP
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+5 - Wrapped 
+[WFTM]-[BOO] SPOOKY LP
+ Price: $6.17 TVL: $10,462.31
+Staked: 1043.2676 mspLP ($6,435.97)
+MM Per Week: 12.00 ($52.65)
+APR: Day 0.12% Week 0.82% Year 42.54%
+You are staking 0.00 mspLP ($0.00), 0.00% of the pool.
+Stake 0.00 mspLP
+Unstake 0.00 mspLP
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+6 - Wrapped 
+[WFTM]-[SPIRIT] SPIRIT LP
+ Price: $0.53 TVL: $12,494.37
+Staked: 19120.5340 mSPIRIT-LP ($10,144.18)
+MM Per Week: 6.00 ($26.33)
+APR: Day 0.04% Week 0.26% Year 13.50%
+You are staking 0.00 mSPIRIT-LP ($0.00), 0.00% of the pool.
+Stake 0.00 mSPIRIT-LP
+Unstake 0.00 mSPIRIT-LP
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[WFTM]-[MM] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.22 TVL: $13,394.31
+WFTM Price: $0.56
+MM Price: $4.39
+Staked: 2283.7338 SPIRIT-LP ($7,362.62)
+MM Per Week: 48.02 ($210.61)
+APR: Day 0.41% Week 2.86% Year 148.75%
+You are staking 0.00 [WFTM]-[MM] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[MM] SPIRIT LP
+Unstake 0.00 [WFTM]-[MM] SPIRIT LP
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+8 - mUSDC Price: $1.01 TVL: $13,467.81
+Staked: 13265.5727 mUSDC ($13,353.48)
+MM Per Week: 24.01 ($105.31)
+APR: Day 0.11% Week 0.79% Year 41.01%
+You are staking 0.00 mUSDC ($0.00), 0.00% of the pool.
+Stake 0.00 mUSDC
+Unstake 0.00 mUSDC
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+9 - mBTC Price: $0.00 TVL: $0.00
+Staked: 2.3930 mBTC ($0.00)
+MM Per Week: 24.01 ($105.31)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 mBTC ($0.00), NaN% of the pool.
+Stake 0.00 mBTC
+Unstake 0.00 mBTC
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+10 - mWFTM Price: $0.57 TVL: $47,506.79
+Staked: 0.0000 mWFTM ($0.00)
+MM Per Week: 12.00 ($52.65)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 mWFTM ($0.00), NaN% of the pool.
+Stake 0.00 mWFTM
+Unstake 0.00 mWFTM
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $128,757.72

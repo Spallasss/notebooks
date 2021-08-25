@@ -1,0 +1,161 @@
+INFO  : https://clash.werewolf.farm
+*****************************************************************************************
+
+Mon Aug 23 2021 15:17:31 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 9 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[ICE]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $27.12 TVL: $1,218.09
+ICE Price: $171.36
+BUSD Price: $1.00
+Staked: 44.8351 Cake-LP ($1,215.89)
+ICE Per Week: 0.70 ($119.13)
+APR: Day 1.40% Week 9.80% Year 509.47%
+You are staking 0.00 [ICE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ICE]-[BUSD] Cake LP
+Unstake 0.00 [ICE]-[BUSD] Cake LP
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[ICE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $599.49 TVL: $13,969.45
+ICE Price: $171.36
+WBNB Price: $495.85
+Staked: 2.0052 Cake-LP ($1,202.08)
+ICE Per Week: 0.70 ($119.13)
+APR: Day 1.42% Week 9.91% Year 515.32%
+You are staking 0.00 [ICE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ICE]-[WBNB] Cake LP
+Unstake 0.00 [ICE]-[WBNB] Cake LP
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.34 TVL: $531,115,681.50
+WBNB Price: $495.85
+BUSD Price: $1.00
+Staked: 5.7435 Cake-LP ($289.15)
+ICE Per Week: 0.09 ($14.89)
+APR: Day 0.74% Week 5.15% Year 267.79%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $314,816,350.57
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 139.3829 Cake-LP ($285.33)
+ICE Per Week: 0.09 ($14.89)
+APR: Day 0.75% Week 5.22% Year 271.38%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+ICE
+ Price: $171.36 Market Cap: $17,529.24 
+[%]
+Staked: 2.2685 ICE ($388.73)
+ICE Per Week: 0.17 ($29.78)
+APR: Day 1.09% Week 7.66% Year 398.38%
+You are staking 0.00 ICE ($0.00), 0.00% of the pool.
+Stake 0.00 ICE
+Unstake 0.00 ICE
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+FIRE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 2239.8286 FIRE ($0.00)
+ICE Per Week: 0.07 ($11.91)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FIRE ($0.00), NaN% of the pool.
+Stake 0.00 FIRE
+Unstake 0.00 FIRE
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WBNB
+ Price: $495.85 Market Cap: $3,496,281,746.14 
+[%]
+Staked: 1.0628 WBNB ($527.00)
+ICE Per Week: 0.07 ($11.91)
+APR: Day 0.32% Week 2.26% Year 117.54%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+BUSD
+ Price: $1.00 Market Cap: $4,197,752,027.46 
+[%]
+Staked: 551.5964 BUSD ($551.17)
+ICE Per Week: 0.07 ($11.91)
+APR: Day 0.31% Week 2.16% Year 112.39%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[WBNB]-[SugarRush] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.05 TVL: $16,987.14
+WBNB Price: $495.85
+SugarRush Price: $0.0000011132
+Staked: 896.8299 Cake-LP ($43.34)
+ICE Per Week: 0.07 ($11.91)
+APR: Day 3.93% Week 27.49% Year 1429.31%
+You are staking 0.00 [WBNB]-[SugarRush] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[SugarRush] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[SugarRush] Cake LP
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $4,502.69

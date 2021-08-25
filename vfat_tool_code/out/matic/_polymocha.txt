@@ -1,0 +1,220 @@
+INFO  : https://polymocha.finance
+**********************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:06:30 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 15 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[MOCHA]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $168,585.28 TVL: $25.28
+MOCHA Price: $0.005544
+USDC Price: $1.00
+Staked: 0.0001 UNI-V2 ($23.71)
+MOCHA Per Week: 457.14 ($2.53)
+APR: Day 1.53% Week 10.69% Year 555.84%
+You are staking 0.00 [MOCHA]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MOCHA]-[USDC] Uni LP
+Unstake 0.00 [MOCHA]-[USDC] Uni LP
+Claim 0.00 MOCHA ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+MOCHA
+ Price: $0.005544 Market Cap: $54.75 
+[%]
+Staked: 2589.7244 MOCHA ($14.36)
+MOCHA Per Week: 457.14 ($2.53)
+APR: Day 2.52% Week 17.65% Year 917.91%
+You are staking 0.00 MOCHA ($0.00), 0.00% of the pool.
+Stake 0.00 MOCHA
+Unstake 0.00 MOCHA
+Claim 0.00 MOCHA ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+WMATIC
+ Price: $1.65 Market Cap: $605,598,724.25 
+[%]
+Staked: 198.5937 WMATIC ($327.68)
+MOCHA Per Week: 91.43 ($0.51)
+APR: Day 0.02% Week 0.15% Year 8.04%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 MOCHA ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WBTC
+ Price: $50,019.00 Market Cap: $697,194,073.44 
+[%]
+Staked: 0.0201 WBTC ($1,003.92)
+MOCHA Per Week: 91.43 ($0.51)
+APR: Day 0.01% Week 0.05% Year 2.63%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 MOCHA ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WETH
+ Price: $3,319.35 Market Cap: $2,027,428,816.65 
+[%]
+Staked: 0.0583 WETH ($193.67)
+MOCHA Per Week: 91.43 ($0.51)
+APR: Day 0.04% Week 0.26% Year 13.61%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 MOCHA ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+DAI
+ Price: $1.00 Market Cap: $375,664,195.61 
+[%]
+Staked: 158.4000 DAI ($158.15)
+MOCHA Per Week: 91.43 ($0.51)
+APR: Day 0.05% Week 0.32% Year 16.67%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 MOCHA ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+USDT
+ Price: $1.00 Market Cap: $314,825,905.66 
+[%]
+Staked: 100.8000 USDT ($100.68)
+MOCHA Per Week: 91.43 ($0.51)
+APR: Day 0.07% Week 0.50% Year 26.18%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 MOCHA ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+USDC
+ Price: $1.00 Market Cap: $1,045,990,498.86 
+[%]
+Staked: 0.0261 USDC ($0.03)
+MOCHA Per Week: 91.43 ($0.51)
+APR: Day 277.93% Week 1945.54% Year 101167.86%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 MOCHA ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+LINK
+ Price: $28.56 Market Cap: $64,809,321.93 
+[%]
+Staked: 0.0000 LINK ($0.00)
+MOCHA Per Week: 91.43 ($0.51)
+APR: Day 253528010454406208.00% Week 1774696073180843520.00% Year 92284195805403856896.00%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 MOCHA ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+QUICK
+ Price: $731.76 Market Cap: $700,489,463.00 
+[%]
+Staked: 0.2813 QUICK ($205.83)
+MOCHA Per Week: 91.43 ($0.51)
+APR: Day 0.04% Week 0.25% Year 12.80%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 MOCHA ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+AAVE
+ Price: $408.22 Market Cap: $155,398,978.04 
+[%]
+Staked: 0.3905 AAVE ($159.41)
+MOCHA Per Week: 91.43 ($0.51)
+APR: Day 0.05% Week 0.32% Year 16.53%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 MOCHA ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+BREW
+ Price: $0.00 Market Cap: $0.00 
+Staked: 42696.2153 BREW ($0.00)
+MOCHA Per Week: 137.14 ($0.76)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BREW ($0.00), NaN% of the pool.
+Stake 0.00 BREW
+Unstake 0.00 BREW
+Claim 0.00 MOCHA ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+PolyDoge
+ Price: $0.0000000064 Market Cap: $6,412,000.00 
+[%]
+Staked: 0.0000 PolyDoge ($0.00)
+MOCHA Per Week: 91.43 ($0.51)
+APR: Day 1.1292514002772678e+27% Week 7.904759801940875e+27% Year 4.1104750970092546e+29%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 4%
+Unstake 0.00 PolyDoge
+Claim 0.00 MOCHA ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WMATIC]-[MOCHA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.21 TVL: $23.80
+WMATIC Price: $1.65
+MOCHA Price: $0.005544
+Staked: 97.4436 UNI-V2 ($20.64)
+MOCHA Per Week: 457.14 ($2.53)
+APR: Day 1.75% Week 12.28% Year 638.50%
+You are staking 0.00 [WMATIC]-[MOCHA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[MOCHA] Uni LP
+Unstake 0.00 [WMATIC]-[MOCHA] Uni LP
+Claim 0.00 MOCHA ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[MOCHA]-[USDC] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $158,094.27 TVL: $10.34
+MOCHA Price: $0.005544
+USDC Price: $1.00
+Staked: 0.0001 SLP ($8.59)
+MOCHA Per Week: 457.14 ($2.53)
+APR: Day 4.21% Week 29.49% Year 1533.68%
+You are staking 0.00 [MOCHA]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [MOCHA]-[USDC] SLP
+Unstake 0.00 [MOCHA]-[USDC] SLP
+Claim 0.00 MOCHA ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $2,216.66

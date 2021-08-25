@@ -1,0 +1,661 @@
+INFO  : https://snorre.farmwiki.xyz
+************************************************************************************
+
+Mon Aug 23 2021 15:17:59 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 39 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[SNORRE]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.07 TVL: $27.47
+SNORRE Price: $0.001035
+BUSD Price: $1.00
+Staked: 288.7086 Cake-LP ($18.96)
+SNORRE Per Week: 16128.00 ($16.69)
+APR: Day 12.57% Week 88.01% Year 4576.32%
+You are staking 0.00 [SNORRE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SNORRE]-[BUSD] Cake LP
+Unstake 0.00 [SNORRE]-[BUSD] Cake LP
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[SNORRE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.49 TVL: $32.37
+SNORRE Price: $0.001035
+WBNB Price: $495.68
+Staked: 15.8724 Cake-LP ($23.65)
+SNORRE Per Week: 14336.00 ($14.84)
+APR: Day 8.96% Week 62.73% Year 3261.96%
+You are staking 0.00 [SNORRE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SNORRE]-[WBNB] Cake LP
+Unstake 0.00 [SNORRE]-[WBNB] Cake LP
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+SNORRE
+ Price: $0.001035 Market Cap: $70.94 
+[%]
+Staked: 27764.8974 SNORRE ($28.73)
+SNORRE Per Week: 8960.00 ($9.27)
+APR: Day 4.61% Week 32.27% Year 1678.09%
+You are staking 0.00 SNORRE ($0.00), 0.00% of the pool.
+Stake 0.00 SNORRE
+Unstake 0.00 SNORRE
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[SNORRE]-[SVIKI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $2.54
+SNORRE Price: $0.001035
+SVIKI Price: $0.000701
+Staked: 1478.7660 Cake-LP ($2.52)
+SNORRE Per Week: 13440.00 ($13.91)
+APR: Day 78.83% Week 551.78% Year 28692.67%
+You are staking 0.00 [SNORRE]-[SVIKI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SNORRE]-[SVIKI] Cake LP
+Unstake 0.00 [SNORRE]-[SVIKI] Cake LP
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[SNORRE]-[WIKI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.13
+SNORRE Price: $0.001035
+WIKI Price: $0.0000402797
+Staked: 300.7532 Cake-LP ($0.13)
+SNORRE Per Week: 13440.00 ($13.91)
+APR: Day 1563.35% Week 10943.46% Year 569059.90%
+You are staking 0.00 [SNORRE]-[WIKI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SNORRE]-[WIKI] Cake LP
+Unstake 0.00 [SNORRE]-[WIKI] Cake LP
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WIKI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $159.16
+WIKI Price: $0.0000402797
+BUSD Price: $1.00
+Staked: 1262.0315 Cake-LP ($37.92)
+SNORRE Per Week: 5376.00 ($5.56)
+APR: Day 2.10% Week 14.67% Year 762.96%
+You are staking 0.00 [WIKI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WIKI]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [WIKI]-[BUSD] Cake LP
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[HALVAR]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.11 TVL: $153.36
+HALVAR Price: $0.002063
+BUSD Price: $1.00
+Staked: 605.6852 Cake-LP ($63.69)
+SNORRE Per Week: 5376.00 ($5.56)
+APR: Day 1.25% Week 8.73% Year 454.21%
+You are staking 0.00 [HALVAR]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HALVAR]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [HALVAR]-[BUSD] Cake LP
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[FAXE]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.09 TVL: $145.55
+FAXE Price: $0.001501
+BUSD Price: $1.00
+Staked: 516.3623 Cake-LP ($46.92)
+SNORRE Per Week: 5376.00 ($5.56)
+APR: Day 1.69% Week 11.86% Year 616.54%
+You are staking 0.00 [FAXE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FAXE]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [FAXE]-[BUSD] Cake LP
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[WIKI]-[USDC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $18.53
+WIKI Price: $0.0000402797
+USDC Price: $1.00
+Staked: 593.1493 Cake-LP ($15.18)
+SNORRE Per Week: 5376.00 ($5.56)
+APR: Day 5.24% Week 36.66% Year 1906.22%
+You are staking 0.00 [WIKI]-[USDC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WIKI]-[USDC] Cake LP - Fee 1%
+Unstake 0.00 [WIKI]-[USDC] Cake LP
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[WIKI]-[FAXE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $2.51
+WIKI Price: $0.0000402797
+FAXE Price: $0.001501
+Staked: 1163.8624 Cake-LP ($1.27)
+SNORRE Per Week: 5376.00 ($5.56)
+APR: Day 62.35% Week 436.47% Year 22696.26%
+You are staking 0.00 [WIKI]-[FAXE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WIKI]-[FAXE] Cake LP - Fee 1%
+Unstake 0.00 [WIKI]-[FAXE] Cake LP
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[sWIKI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.83 TVL: $382.91
+sWIKI Price: $1.81
+BUSD Price: $1.00
+Staked: 1.4986 Cake-LP ($4.25)
+SNORRE Per Week: 5376.00 ($5.56)
+APR: Day 18.71% Week 130.98% Year 6811.00%
+You are staking 0.00 [sWIKI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [sWIKI]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [sWIKI]-[BUSD] Cake LP
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+FAXE
+ Price: $0.001501 Market Cap: $459.68 
+[%]
+Staked: 33916.3567 FAXE ($50.92)
+SNORRE Per Week: 3584.00 ($3.71)
+APR: Day 1.04% Week 7.28% Year 378.76%
+You are staking 0.00 FAXE ($0.00), 0.00% of the pool.
+Stake 0.00 FAXE
+Unstake 0.00 FAXE
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+HALVAR
+ Price: $0.002063 Market Cap: $896.66 
+[%]
+Staked: 21884.4865 HALVAR ($45.15)
+SNORRE Per Week: 3584.00 ($3.71)
+APR: Day 1.17% Week 8.21% Year 427.18%
+You are staking 0.00 HALVAR ($0.00), 0.00% of the pool.
+Stake 0.00 HALVAR
+Unstake 0.00 HALVAR
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+WIKI
+ Price: $0.0000402797 Market Cap: $45.64 
+[%]
+Staked: 37156.3336 WIKI ($1.50)
+SNORRE Per Week: 3584.00 ($3.71)
+APR: Day 35.40% Week 247.82% Year 12886.43%
+You are staking 0.00 WIKI ($0.00), 0.00% of the pool.
+Stake 0.00 WIKI
+Unstake 0.00 WIKI
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+sWIKI
+ Price: $1.81 Market Cap: $3,617.99 
+[%]
+Staked: 13.0668 sWIKI ($23.64)
+SNORRE Per Week: 3584.00 ($3.71)
+APR: Day 2.24% Week 15.69% Year 815.92%
+You are staking 0.00 sWIKI ($0.00), 0.00% of the pool.
+Stake 0.00 sWIKI
+Unstake 0.00 sWIKI
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+FOX
+ Price: $0.00 Market Cap: $0.00 
+Staked: 480482510.6753 FOX ($0.00)
+SNORRE Per Week: 1792.00 ($1.85)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FOX ($0.00), NaN% of the pool.
+Stake 0.00 FOX - Fee 4%
+Unstake 0.00 FOX
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.34 TVL: $531,032,094.56
+WBNB Price: $495.68
+BUSD Price: $1.00
+Staked: 20.6400 Cake-LP ($1,038.92)
+SNORRE Per Week: 2240.00 ($2.32)
+APR: Day 0.03% Week 0.22% Year 11.60%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[USDT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $51.22 TVL: $253,914,688.18
+USDT Price: $1.00
+WBNB Price: $495.68
+Staked: 21.7783 Cake-LP ($1,115.50)
+SNORRE Per Week: 2240.00 ($2.32)
+APR: Day 0.03% Week 0.21% Year 10.81%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,326.75 TVL: $175,827,439.79
+BTCB Price: $49,881.00
+WBNB Price: $495.68
+Staked: 0.0006 Cake-LP ($6.13)
+SNORRE Per Week: 1792.00 ($1.85)
+APR: Day 4.32% Week 30.27% Year 1573.86%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,686.58 TVL: $265,163,172.19
+ETH Price: $3,337.99
+WBNB Price: $495.68
+Staked: 0.0818 Cake-LP ($219.72)
+SNORRE Per Week: 1792.00 ($1.85)
+APR: Day 0.12% Week 0.84% Year 43.89%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $229.99 TVL: $1,052,135,730.18
+Cake Price: $25.52
+WBNB Price: $495.68
+Staked: 0.0499 Cake-LP ($11.48)
+SNORRE Per Week: 1568.00 ($1.62)
+APR: Day 2.02% Week 14.13% Year 734.92%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[Cake]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13.54 TVL: $66,960,220.32
+Cake Price: $25.52
+BUSD Price: $1.00
+Staked: 0.0768 Cake-LP ($1.04)
+SNORRE Per Week: 1568.00 ($1.62)
+APR: Day 22.29% Week 156.00% Year 8112.03%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $244.25 TVL: $83,994,296.87
+DOT Price: $28.23
+WBNB Price: $495.68
+Staked: 0.9766 Cake-LP ($238.52)
+SNORRE Per Week: 1568.00 ($1.62)
+APR: Day 0.10% Week 0.68% Year 35.38%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $78.02 TVL: $47,302,817.75
+ADA Price: $2.82
+WBNB Price: $495.68
+Staked: 2.8800 Cake-LP ($224.70)
+SNORRE Per Week: 1568.00 ($1.62)
+APR: Day 0.10% Week 0.72% Year 37.55%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[WBNB]-[LINK] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $244.53 TVL: $48,326,454.30
+WBNB Price: $495.68
+LINK Price: $28.89
+Staked: 1.2177 Cake-LP ($297.77)
+SNORRE Per Week: 1568.00 ($1.62)
+APR: Day 0.08% Week 0.54% Year 28.34%
+You are staking 0.00 [WBNB]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LINK] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[LINK] Cake LP
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[WBNB]-[UNI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $245.89 TVL: $34,300,033.79
+WBNB Price: $495.68
+UNI Price: $29.36
+Staked: 0.0187 Cake-LP ($4.60)
+SNORRE Per Week: 1568.00 ($1.62)
+APR: Day 5.03% Week 35.24% Year 1832.63%
+You are staking 0.00 [WBNB]-[UNI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[UNI] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[UNI] Cake LP
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,351,405.58
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 226.8799 Cake-LP ($461.88)
+SNORRE Per Week: 1568.00 ($1.62)
+APR: Day 0.05% Week 0.35% Year 18.27%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $158,005,042.33
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 231.7766 Cake-LP ($477.14)
+SNORRE Per Week: 1568.00 ($1.62)
+APR: Day 0.05% Week 0.34% Year 17.68%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $314,822,163.41
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.9600 Cake-LP ($1.97)
+SNORRE Per Week: 1568.00 ($1.62)
+APR: Day 11.80% Week 82.57% Year 4293.57%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+BUSD
+ Price: $1.00 Market Cap: $4,197,911,665.44 
+[%]
+Staked: 11.1861 BUSD ($11.18)
+SNORRE Per Week: 1568.00 ($1.62)
+APR: Day 2.07% Week 14.52% Year 754.87%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+WBNB
+ Price: $495.68 Market Cap: $3,495,233,948.63 
+[%]
+Staked: 0.0127 WBNB ($6.29)
+SNORRE Per Week: 1568.00 ($1.62)
+APR: Day 3.69% Week 25.80% Year 1341.79%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+BTCB
+ Price: $49,881.00 Market Cap: $4,264,875,381.00 
+[%]
+Staked: 0.0001 BTCB ($2.80)
+SNORRE Per Week: 1344.00 ($1.39)
+APR: Day 7.11% Week 49.74% Year 2586.26%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+ETH
+ Price: $3,337.99 Market Cap: $4,356,076,950.00 
+[%]
+Staked: 0.0041 ETH ($13.62)
+SNORRE Per Week: 1344.00 ($1.39)
+APR: Day 1.46% Week 10.21% Year 530.97%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+33 - 
+Cake
+ Price: $25.52 Market Cap: $10,619,922,711.27 
+[%]
+Staked: 0.4442 Cake ($11.34)
+SNORRE Per Week: 1344.00 ($1.39)
+APR: Day 1.75% Week 12.27% Year 638.01%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+34 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 9.6000 USDT ($9.60)
+SNORRE Per Week: 1344.00 ($1.39)
+APR: Day 2.07% Week 14.49% Year 753.52%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+35 - 
+DOT
+ Price: $28.23 Market Cap: $395,219,999.86 
+[%]
+Staked: 11.5200 DOT ($325.21)
+SNORRE Per Week: 1344.00 ($1.39)
+APR: Day 0.06% Week 0.43% Year 22.24%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+36 - 
+ADA
+ Price: $2.82 Market Cap: $789,600,000.00 
+[%]
+Staked: 147.4863 ADA ($415.91)
+SNORRE Per Week: 1344.00 ($1.39)
+APR: Day 0.05% Week 0.33% Year 17.39%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+37 - 
+[SNORRE]-[SVIKI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $2.54
+SNORRE Price: $0.001035
+SVIKI Price: $0.000701
+Staked: 1478.7660 Cake-LP ($2.52)
+SNORRE Per Week: 13440.00 ($13.91)
+APR: Day 78.83% Week 551.78% Year 28692.67%
+You are staking 0.00 [SNORRE]-[SVIKI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SNORRE]-[SVIKI] Cake LP
+Unstake 0.00 [SNORRE]-[SVIKI] Cake LP
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+38 - 
+[WBNB]-[SugarRush] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.05 TVL: $16,981.32
+WBNB Price: $495.68
+SugarRush Price: $0.0000011128
+Staked: 191.1000 Cake-LP ($9.23)
+SNORRE Per Week: 1792.00 ($1.85)
+APR: Day 2.87% Week 20.09% Year 1044.57%
+You are staking 0.00 [WBNB]-[SugarRush] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[SugarRush] Cake LP - Fee 2%
+Unstake 0.00 [WBNB]-[SugarRush] Cake LP
+Claim 0.00 SNORRE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $5,271.49

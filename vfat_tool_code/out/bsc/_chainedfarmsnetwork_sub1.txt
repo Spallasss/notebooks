@@ -1,0 +1,131 @@
+INFO  : The RollerCoaster - https://sub1.chainedfarms.network
+*************************************************************************************************
+
+Mon Aug 23 2021 14:38:53 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 17 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.74 TVL: $527,391,744.64
+WBNB Price: $484.17
+BUSD Price: $1.00
+Staked: 0.0492 Cake-LP ($2.45)
+SFN1 Per Week: 979118.93 ($0.17)
+APR: Day 0.97% Week 6.80% Year 353.81%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SFN1 ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,652.34 TVL: $261,815,408.90
+ETH Price: $3,330.87
+WBNB Price: $484.17
+Staked: 0.0000 Cake-LP ($0.00)
+SFN1 Per Week: 1174942.71 ($0.20)
+APR: Day 2048887.83% Week 14342214.82% Year 745795170.68%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 SFN1 ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WBNB
+ Price: $484.17 Market Cap: $3,428,403,968.05 
+[%]
+Staked: 0.0000 WBNB ($0.00)
+SFN1 Per Week: 587471.36 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 WBNB ($0.00), NaN% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 SFN1 ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+BUSD
+ Price: $1.00 Market Cap: $4,196,088,431.70 
+[%]
+Staked: 0.9601 BUSD ($0.96)
+SFN1 Per Week: 391647.57 ($0.07)
+APR: Day 0.99% Week 6.95% Year 361.27%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 SFN1 ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+ETH
+ Price: $3,330.87 Market Cap: $4,346,785,350.00 
+[%]
+Staked: 0.0000 ETH ($0.00)
+SFN1 Per Week: 391647.57 ($0.07)
+APR: Day 6977.54% Week 48842.75% Year 2539823.10%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 SFN1 ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[SFN1]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $18.78
+SFN1 Price: $0.0000001701
+WBNB Price: $484.17
+Staked: 902.5163 Cake-LP ($17.42)
+SFN1 Per Week: 7832951.40 ($1.33)
+APR: Day 1.09% Week 7.65% Year 397.84%
+You are staking 0.00 [SFN1]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SFN1]-[WBNB] Cake LP
+Unstake 0.00 [SFN1]-[WBNB] Cake LP
+Claim 0.00 SFN1 ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[SFN1]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $53.92
+SFN1 Price: $0.0000001701
+BUSD Price: $1.00
+Staked: 59655.2651 Cake-LP ($52.70)
+SFN1 Per Week: 7832951.40 ($1.33)
+APR: Day 0.36% Week 2.53% Year 131.49%
+You are staking 0.00 [SFN1]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SFN1]-[BUSD] Cake LP
+Unstake 0.00 [SFN1]-[BUSD] Cake LP
+Claim 0.00 SFN1 ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $73.52

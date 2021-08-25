@@ -1,0 +1,341 @@
+INFO  : https://goldrush.farm
+****************************************************************************************
+
+Mon Aug 23 2021 09:36:10 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 21 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[GNT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.06 TVL: $18.17
+GNT Price: $0.000809
+BUSD Price: $1.00
+Staked: 272.1226 Cake-LP ($16.61)
+GNT Per Week: 40658.82 ($32.90)
+APR: Day 28.29% Week 198.06% Year 10298.96%
+You are staking 0.00 [GNT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GNT]-[BUSD] Cake LP
+Unstake 0.00 [GNT]-[BUSD] Cake LP
+Claim 0.00 GNT ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[GNT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.32 TVL: $21.16
+GNT Price: $0.000809
+WBNB Price: $488.46
+Staked: 12.2969 Cake-LP ($16.24)
+GNT Per Week: 31623.53 ($25.59)
+APR: Day 22.52% Week 157.61% Year 8195.96%
+You are staking 0.00 [GNT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GNT]-[WBNB] Cake LP
+Unstake 0.00 [GNT]-[WBNB] Cake LP
+Claim 0.00 GNT ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.96 TVL: $526,041,137.32
+WBNB Price: $488.46
+BUSD Price: $1.00
+Staked: 1.1986 Cake-LP ($59.88)
+GNT Per Week: 8470.59 ($6.85)
+APR: Day 1.64% Week 11.45% Year 595.22%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 GNT ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,264,420.37
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 542.7930 Cake-LP ($1,110.96)
+GNT Per Week: 5647.06 ($4.57)
+APR: Day 0.06% Week 0.41% Year 21.39%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 GNT ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,989,825.28
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 36.4352 Cake-LP ($75.00)
+GNT Per Week: 5647.06 ($4.57)
+APR: Day 0.87% Week 6.09% Year 316.83%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 GNT ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,351,769.27
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 469.8859 Cake-LP ($956.42)
+GNT Per Week: 5647.06 ($4.57)
+APR: Day 0.07% Week 0.48% Year 24.85%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 GNT ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,665.67 TVL: $263,101,801.53
+ETH Price: $3,334.68
+WBNB Price: $488.46
+Staked: 0.0002 Cake-LP ($0.49)
+GNT Per Week: 8470.59 ($6.85)
+APR: Day 201.40% Week 1409.79% Year 73308.83%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 GNT ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,247.49 TVL: $174,479,277.40
+BTCB Price: $49,844.00
+WBNB Price: $488.46
+Staked: 0.0000 Cake-LP ($0.01)
+GNT Per Week: 8470.59 ($6.85)
+APR: Day 9954.18% Week 69679.28% Year 3623322.68%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 GNT ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $226.69 TVL: $1,037,076,197.71
+Cake Price: $25.16
+WBNB Price: $488.46
+Staked: 0.0000 Cake-LP ($0.00)
+GNT Per Week: 3388.24 ($2.74)
+APR: Day 57649113.57% Week 403543794.96% Year 20984277337.76%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 GNT ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+GNT
+ Price: $0.000809 Market Cap: $429.09 
+[%]
+Staked: 407760.4779 GNT ($329.98)
+GNT Per Week: 11294.12 ($9.14)
+APR: Day 0.40% Week 2.77% Year 144.03%
+You are staking 0.00 GNT ($0.00), 0.00% of the pool.
+Stake 0.00 GNT
+Unstake 0.00 GNT
+Claim 0.00 GNT ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+BUSD
+ Price: $1.00 Market Cap: $4,196,420,310.65 
+[%]
+Staked: 683.2312 BUSD ($682.49)
+GNT Per Week: 3388.24 ($2.74)
+APR: Day 0.06% Week 0.40% Year 20.89%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 GNT ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+WBNB
+ Price: $488.46 Market Cap: $3,443,909,951.93 
+[%]
+Staked: 9.7459 WBNB ($4,760.49)
+GNT Per Week: 3388.24 ($2.74)
+APR: Day 0.01% Week 0.06% Year 3.00%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 GNT ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 120.9544 USDT ($120.93)
+GNT Per Week: 2823.53 ($2.28)
+APR: Day 0.27% Week 1.89% Year 98.25%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 GNT ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+USDC
+ Price: $1.00 Market Cap: $1,778,071,362.00 
+[%]
+Staked: 0.0000 USDC ($0.00)
+GNT Per Week: 2823.53 ($2.28)
+APR: Day 3419738.07% Week 23938166.49% Year 1244784657.51%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 GNT ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 0.0000 DAI ($0.00)
+GNT Per Week: 2823.53 ($2.28)
+APR: Day 850151.17% Week 5951058.20% Year 309455026.52%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 GNT ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+BTCB
+ Price: $49,844.00 Market Cap: $4,261,711,844.00 
+[%]
+Staked: 0.0000 BTCB ($0.00)
+GNT Per Week: 3388.24 ($2.74)
+APR: Day 130875.03% Week 916125.20% Year 47638510.46%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 GNT ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+ETH
+ Price: $3,334.68 Market Cap: $4,351,757,400.00 
+[%]
+Staked: 0.0001 ETH ($0.44)
+GNT Per Week: 4517.65 ($3.66)
+APR: Day 117.77% Week 824.37% Year 42867.08%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 GNT ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+DOT
+ Price: $28.19 Market Cap: $394,659,999.86 
+[%]
+Staked: 33.1135 DOT ($933.47)
+GNT Per Week: 3388.24 ($2.74)
+APR: Day 0.04% Week 0.29% Year 15.27%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 GNT ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+ADA
+ Price: $2.83 Market Cap: $792,400,000.00 
+[%]
+Staked: 96.3648 ADA ($272.71)
+GNT Per Week: 3388.24 ($2.74)
+APR: Day 0.14% Week 1.01% Year 52.28%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 GNT ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+Cake
+ Price: $25.16 Market Cap: $10,470,011,088.23 
+[%]
+Staked: 0.0000 Cake ($0.00)
+GNT Per Week: 1694.12 ($1.37)
+APR: Day 14701628.96% Week 102911402.69% Year 5351392939.84%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 GNT ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[GIT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.07 TVL: $15.74
+GIT Price: $0.001340
+BUSD Price: $1.00
+Staked: 55.6792 Cake-LP ($4.09)
+GNT Per Week: 40658.82 ($32.90)
+APR: Day 114.83% Week 803.84% Year 41799.50%
+You are staking 0.00 [GIT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GIT]-[BUSD] Cake LP
+Unstake 0.00 [GIT]-[BUSD] Cake LP
+Claim 0.00 GNT ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $9,340.21

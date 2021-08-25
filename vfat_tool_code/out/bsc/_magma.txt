@@ -1,0 +1,360 @@
+INFO  : https://www.magmacakefinance.com
+*************************************************************************************
+
+Mon Aug 23 2021 09:26:19 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 22 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[MAGMA]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $980.93
+MAGMA Price: $0.000155
+BUSD Price: $1.00
+Staked: 16737.3651 Cake-LP ($532.07)
+MAGMA Per Week: 458181.82 ($70.83)
+APR: Day 1.90% Week 13.31% Year 692.24%
+You are staking 0.00 [MAGMA]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MAGMA]-[BUSD] Cake LP
+Unstake 0.00 [MAGMA]-[BUSD] Cake LP
+Claim 0.00 MAGMA ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[MAGMA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.62 TVL: $3,525.12
+MAGMA Price: $0.000155
+WBNB Price: $486.99
+Staked: 1369.4728 Cake-LP ($848.22)
+MAGMA Per Week: 412363.64 ($63.75)
+APR: Day 1.07% Week 7.52% Year 390.81%
+You are staking 0.00 [MAGMA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MAGMA]-[WBNB] Cake LP
+Unstake 0.00 [MAGMA]-[WBNB] Cake LP
+Claim 0.00 MAGMA ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,232.03 TVL: $174,216,036.40
+BTCB Price: $49,844.00
+WBNB Price: $486.99
+Staked: 0.0364 Cake-LP ($372.44)
+MAGMA Per Week: 45818.18 ($7.08)
+APR: Day 0.27% Week 1.90% Year 98.89%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 MAGMA ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,312,181.46
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 10.0550 Cake-LP ($20.58)
+MAGMA Per Week: 45818.18 ($7.08)
+APR: Day 4.92% Week 34.42% Year 1789.62%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 MAGMA ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,661.24 TVL: $262,663,821.05
+ETH Price: $3,333.67
+WBNB Price: $486.99
+Staked: 0.0364 Cake-LP ($96.78)
+MAGMA Per Week: 45818.18 ($7.08)
+APR: Day 1.05% Week 7.32% Year 380.58%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 MAGMA ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,356,629.20
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 15.3350 Cake-LP ($31.22)
+MAGMA Per Week: 45818.18 ($7.08)
+APR: Day 3.24% Week 22.69% Year 1179.96%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 MAGMA ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,995,954.97
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 15.5671 Cake-LP ($32.05)
+MAGMA Per Week: 45818.18 ($7.08)
+APR: Day 3.16% Week 22.10% Year 1149.33%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 MAGMA ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $241.89 TVL: $83,169,183.16
+DOT Price: $28.18
+WBNB Price: $486.99
+Staked: 0.1745 Cake-LP ($42.22)
+MAGMA Per Week: 45818.18 ($7.08)
+APR: Day 2.40% Week 16.78% Year 872.42%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 MAGMA ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.47 TVL: $46,984,358.77
+ADA Price: $2.83
+WBNB Price: $486.99
+Staked: 0.5810 Cake-LP ($45.01)
+MAGMA Per Week: 45818.18 ($7.08)
+APR: Day 2.25% Week 15.74% Year 818.33%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 MAGMA ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $226.30 TVL: $1,035,679,416.08
+Cake Price: $25.15
+WBNB Price: $486.99
+Staked: 0.2295 Cake-LP ($51.93)
+MAGMA Per Week: 45818.18 ($7.08)
+APR: Day 1.95% Week 13.64% Year 709.32%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 MAGMA ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+MAGMA
+ Price: $0.000155 Market Cap: $9,134.57 
+[%]
+Staked: 26413083.8275 MAGMA ($4,083.28)
+MAGMA Per Week: 366545.45 ($56.67)
+APR: Day 0.20% Week 1.39% Year 72.16%
+You are staking 0.00 MAGMA ($0.00), 0.00% of the pool.
+Stake 0.00 MAGMA
+Unstake 0.00 MAGMA
+Claim 0.00 MAGMA ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+BUSD
+ Price: $1.00 Market Cap: $4,196,924,430.58 
+[%]
+Staked: 261.0758 BUSD ($260.82)
+MAGMA Per Week: 36654.55 ($5.67)
+APR: Day 0.31% Week 2.17% Year 112.97%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 MAGMA ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+WBNB
+ Price: $486.99 Market Cap: $3,440,361,352.93 
+[%]
+Staked: 15.4115 WBNB ($7,505.27)
+MAGMA Per Week: 36654.55 ($5.67)
+APR: Day 0.01% Week 0.08% Year 3.93%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 MAGMA ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+BTCB
+ Price: $49,844.00 Market Cap: $4,261,711,844.00 
+[%]
+Staked: 0.0011 BTCB ($53.33)
+MAGMA Per Week: 36654.55 ($5.67)
+APR: Day 1.52% Week 10.63% Year 552.52%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 MAGMA ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+ETH
+ Price: $3,333.67 Market Cap: $4,350,439,350.00 
+[%]
+Staked: 0.0139 ETH ($46.36)
+MAGMA Per Week: 36654.55 ($5.67)
+APR: Day 1.75% Week 12.22% Year 635.64%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 MAGMA ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 75.6570 USDT ($75.64)
+MAGMA Per Week: 36654.55 ($5.67)
+APR: Day 1.07% Week 7.49% Year 389.54%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 MAGMA ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 40.0096 DAI ($40.01)
+MAGMA Per Week: 36654.55 ($5.67)
+APR: Day 2.02% Week 14.16% Year 736.47%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 MAGMA ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+USDC
+ Price: $1.00 Market Cap: $1,778,087,373.00 
+[%]
+Staked: 89.0000 USDC ($88.95)
+MAGMA Per Week: 36654.55 ($5.67)
+APR: Day 0.91% Week 6.37% Year 331.25%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 MAGMA ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+DOT
+ Price: $28.18 Market Cap: $394,519,999.86 
+[%]
+Staked: 1.8174 DOT ($51.21)
+MAGMA Per Week: 36654.55 ($5.67)
+APR: Day 1.58% Week 11.06% Year 575.35%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 MAGMA ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+ADA
+ Price: $2.83 Market Cap: $792,400,000.00 
+[%]
+Staked: 16.6625 ADA ($47.15)
+MAGMA Per Week: 36654.55 ($5.67)
+APR: Day 1.72% Week 12.02% Year 624.88%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 MAGMA ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+Cake
+ Price: $25.15 Market Cap: $10,465,765,316.73 
+[%]
+Staked: 8.4982 Cake ($213.73)
+MAGMA Per Week: 36654.55 ($5.67)
+APR: Day 0.38% Week 2.65% Year 137.87%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 MAGMA ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.89 TVL: $528,458,442.16
+WBNB Price: $486.99
+BUSD Price: $1.00
+Staked: 5.9664 Cake-LP ($297.65)
+MAGMA Per Week: 45818.18 ($7.08)
+APR: Day 0.34% Week 2.38% Year 123.75%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 MAGMA ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $14,835.93

@@ -1,0 +1,57 @@
+INFO  : https://shade.cash
+*******************************************************************************
+
+Mon Aug 23 2021 13:25:31 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 1 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WFTM]-[SHADE] SPOOKY LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.85 TVL: $268,207.80
+WFTM Price: $0.57
+SHADE Price: $0.30
+Staked: 313395.3025 spLP ($267,186.17)
+SHADE Per Week: 65862.72 ($19,997.95)
+APR: Day 1.07% Week 7.48% Year 389.20%
+You are staking 0.00 [WFTM]-[SHADE] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SHADE] SPOOKY LP
+Unstake 0.00 [WFTM]-[SHADE] SPOOKY LP
+Claim 0.00 SHADE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $267,186.17
+Staking Contract
+Found 1 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+SHADE
+ Price: $0.30 Market Cap: $918,175.50 
+Staked: 625188.0398 SHADE ($189,826.31)
+SHADE Per Week: 7597.80 ($2,306.93)
+APR: Day 0.17% Week 1.22% Year 63.19%
+You are staking 0.00 SHADE ($0.00), 0.00% of the pool.
+Stake 0.00 SHADE
+Unstake 0.00 SHADE
+Claim 0.00 SHADE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $189,826.31

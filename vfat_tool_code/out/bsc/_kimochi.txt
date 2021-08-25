@@ -1,0 +1,12 @@
+INFO  : https://kimochi.finance
+************************************************************************************
+
+***You will only receive 30% of your claimed rewards up front. The other 70% will vest.***
+
+Mon Aug 23 2021 13:36:07 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...

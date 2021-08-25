@@ -1,7 +1,7 @@
 INFO  : https://exchange.yetiswap.app
 *********************************************************************
 
-Tue Jul 13 2021 23:51:34 GMT+0530 (India Standard Time)
+Mon Aug 23 2021 13:13:33 GMT+0530 (India Standard Time)
 [CHANGE WALLET]
  -=- 
 [CLEAR BROWSER STORAGE]
@@ -16,12 +16,12 @@ Reading smart contracts...
 [-]
  
 [<=>]
- Price: $0.40 TVL: $42,552.62
-YTS Price: $0.002436
-WAVAX Price: $12.34
-Staked: 102074.9105 YSL ($40,551.92)
-YTS Per Week: 503314.17 ($1,225.96)
-APR: Day 0.43% Week 3.02% Year 157.21%
+ Price: $2.51 TVL: $207,450.75
+YTS Price: $0.02
+WAVAX Price: $49.33
+Staked: 78112.8093 YSL ($196,369.30)
+YTS Per Week: 713425.29 ($16,928.66)
+APR: Day 1.23% Week 8.62% Year 448.28%
 You are staking 0.000000 [YTS]-[WAVAX] Uni LP $0.00 (0.00% of the pool).
 Explorer
 Stake 0.000000 [YTS]-[WAVAX] Uni LP
@@ -36,12 +36,12 @@ Exit
 [-]
  
 [<=>]
- Price: $320.43 TVL: $82,596.50
-WAVAX Price: $12.34
-ETH Price: $2,021.23
-Staked: 249.1326 YSL ($79,830.75)
-YTS Per Week: 180406.66 ($439.43)
-APR: Day 0.08% Week 0.55% Year 28.62%
+ Price: $1,041.50 TVL: $69,323.21
+WAVAX Price: $49.33
+ETH Price: $5,330.00
+Staked: 55.4014 YSL ($57,700.49)
+YTS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
 You are staking 0.000000 [WAVAX]-[ETH] Uni LP $0.00 (0.00% of the pool).
 Explorer
 Stake 0.000000 [WAVAX]-[ETH] Uni LP
@@ -56,12 +56,12 @@ Exit
 [-]
  
 [<=>]
- Price: $174,440,632.96 TVL: $41,245.92
-WAVAX Price: $12.34
-USDT Price: $1.00
-Staked: 0.0002 YSL ($40,338.19)
-YTS Per Week: 255933.48 ($623.40)
-APR: Day 0.22% Week 1.55% Year 80.36%
+ Price: $392,855,881.49 TVL: $41,434.29
+WAVAX Price: $49.33
+USDT Price: $1.24
+Staked: 0.0001 YSL ($39,244.47)
+YTS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
 You are staking 0.000000 [WAVAX]-[USDT] Uni LP $0.00 (0.00% of the pool).
 Explorer
 Stake 0.000000 [WAVAX]-[USDT] Uni LP
@@ -76,12 +76,12 @@ Exit
 [-]
  
 [<=>]
- Price: $4.79 TVL: $268.41
-YTS Price: $0.002436
-ETH Price: $2,021.23
-Staked: 48.1412 YSL ($230.59)
-YTS Per Week: 2624.85 ($6.39)
-APR: Day 0.40% Week 2.77% Year 144.18%
+ Price: $24.69 TVL: $528.58
+YTS Price: $0.02
+ETH Price: $5,330.00
+Staked: 17.3948 YSL ($429.52)
+YTS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0.000000 [YTS]-[ETH] Uni LP $0.00 (0.00% of the pool).
 Explorer
 Stake 0.000000 [YTS]-[ETH] Uni LP
@@ -96,12 +96,12 @@ Exit
 [-]
  
 [<=>]
- Price: $102,020.10 TVL: $873.73
-YTS Price: $0.002436
-USDT Price: $1.00
-Staked: 0.0085 YSL ($866.98)
-YTS Per Week: 7013.19 ($17.08)
-APR: Day 0.28% Week 1.97% Year 102.46%
+ Price: $357,460.13 TVL: $2,087.33
+YTS Price: $0.02
+USDT Price: $1.24
+Staked: 0.0057 YSL ($2,045.69)
+YTS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0.000000 [YTS]-[USDT] Uni LP $0.00 (0.00% of the pool).
 Explorer
 Stake 0.000000 [YTS]-[USDT] Uni LP
@@ -116,12 +116,12 @@ Exit
 [-]
  
 [<=>]
- Price: $0.11 TVL: $16,859.85
-YTS Price: $0.002436
-PNG Price: $1.23
-Staked: 144449.1789 YSL ($16,581.06)
-YTS Per Week: 266140.15 ($648.26)
-APR: Day 0.56% Week 3.91% Year 203.30%
+ Price: $0.61 TVL: $78,558.55
+YTS Price: $0.02
+PNG Price: $3.49
+Staked: 126361.6760 YSL ($76,822.07)
+YTS Per Week: 357672.33 ($8,487.10)
+APR: Day 1.58% Week 11.05% Year 574.48%
 You are staking 0.000000 [YTS]-[PNG] Uni LP $0.00 (0.00% of the pool).
 Explorer
 Stake 0.000000 [YTS]-[PNG] Uni LP
@@ -129,4 +129,4 @@ Unstake 0.000000 [YTS]-[PNG] Uni LP
 Claim 0.000000 YTS ($0.00)
 Revoke (set approval to 0)
 Exit
-Total staked: $178,399.49
+Total staked: $372,611.55

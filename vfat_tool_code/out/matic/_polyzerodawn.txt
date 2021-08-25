@@ -1,0 +1,343 @@
+***************************** POLYGON NETWORK ***************************************
+
+oooooooooo.                                          
+`888'   `Y8b                                         
+ 888      888  .oooo.   oooo oooo    ooo ooo. .oo.   
+ 888      888 `P  )88b   `88. `88.  .8'  `888P"Y88b  
+ 888      888  .oP"888    `88..]88..8'    888   888  
+ 888     d88' d8(  888     `888'`888'     888   888  
+o888bood8P'   `Y888""8o     `8'  `8'     o888o o888o 
+                                                     
+                                                     
+By                                                    
+
+__   __           __  ___  __   __  
+|__) /  \ |    \ /  / |__  |__) /  \ 
+|    \__/ |___  |  /_ |___ |  \ \__/ 
+
+vfat + contracts = PolyZero
+
+zero Telegram, zero Twitter, zero Website
+
+
+Three tokens will be rewarded for every staking
+  * First DARK
+  * then SPARK after 24 hours
+  * then GLOW after 24 hours
+
+
+LINKS:
+  * 
+BUY DARK
+
+  * 
+ADD LIQUIDITY
+
+  * 
+CHART
+
+
+
+  * 
+BUY SPARK
+
+  * 
+ADD LIQUIDITY
+
+  * 
+CHART
+
+
+  * 
+BUY GLOW
+
+  * 
+ADD LIQUIDITY
+
+  * 
+CHART
+
+
+TOKEN:
+  * Symbol: 
+DARK
+
+  * Symbol: 
+SPARK
+
+  * Symbol: 
+GLOW
+
+  * 0% Transfer Fee
+  * 2000 Tokens Pre-mined: 2000 to LP 
+  * Liquidity Locked DARK: 
+0xF99cFa32B5675633D06AB12d843FCe0c4d7B1822
+
+  * Liquidity Locked SPARK: 
+0x8Ff2e2A197Af481DB1312bbA382ecf42F8D36b60
+
+  * Liquidity Locked GLOW: 
+0x4b0f3bade64f8381eD4f465e29B2e84DC6632546
+
+  * Timelock - 24 hrs - https://polygonscan.com/address/0x2C8645D5DCA36D81b81369B74e51aFd5B47584B7
+
+FARMING:
+  * Masterchef: 
+0x7D5a4a79E371F95aa8053e5602491685a29329DB
+
+
+  * Purchase DARK Starting:             Fri Aug 13 2021 - 4 PM UTC
+  * Farming Starts on Block for DARK:   Sat Aug 14 2021 - https://polygonscan.com/block/countdown/17967000
+
+  * Purchase SPARK Starting:            Sat Aug 14 2021 - 4 PM UTC
+  * Farming Starts on Block for SPARK:  Sun Aug 15 2021 - https://polygonscan.com/block/countdown/18001000
+ 
+  * Purchase GLOW Starting:             Sun Aug 15 2021 - 4 PM UTC
+  * Farming Starts on Block for GLOW:   Mon Aug 16 2021 - https://polygonscan.com/block/countdown/18036000
+ 
+
+  * Harvest Cooldowns:
+      - Native:     3 Hours
+      - Non-Native: 4 Hours
+
+DEPOSIT FEES:
+  * 0% On Native Farms
+  * 3% On Non-Native Farms
+    * 1% for Buyback and Burns
+
+
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:50:53 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+
+
+                               FARM                                
+
+
+Found 14 pools.
+
+0 - 
+[WMATIC]-[Dark] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $16.97
+WMATIC Price: $1.64
+Dark Price: $0.000134
+Staked: 213.2008 UNI-V2 ($6.44)
+Total APR: Day NaN% Week NaN% Year NaN%
+	Dark APR: Day 4.56% Week 31.91% Year 1659.40%
+	Spark APR: Day 1.28% Week 8.97% Year 466.37%
+	Glow APR: Day 0.78% Week 5.48% Year 285.16%
+You are staking 0.00000000 [WMATIC]-[Dark] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00000000 [WMATIC]-[Dark] Uni LP
+Unstake 0.00000000 [WMATIC]-[Dark] Uni LP
+Claim All 0.00000000 Dark ($0.00) & 0.00000000 Spark ($0.00) & 0.00000000 Glow ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[Spark] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $4.66
+WMATIC Price: $1.64
+Spark Price: $0.0000377945
+Staked: 140.9764 UNI-V2 ($2.26)
+Total APR: Day NaN% Week NaN% Year NaN%
+	Dark APR: Day 13.00% Week 90.99% Year 4731.73%
+	Spark APR: Day 3.65% Week 25.57% Year 1329.83%
+	Glow APR: Day 2.23% Week 15.64% Year 813.12%
+You are staking 0.00000000 [WMATIC]-[Spark] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00000000 [WMATIC]-[Spark] Uni LP
+Unstake 0.00000000 [WMATIC]-[Spark] Uni LP
+Claim All 0.00000000 Dark ($0.00) & 0.00000000 Spark ($0.00) & 0.00000000 Glow ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[Glow] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $1.42
+WMATIC Price: $1.64
+Glow Price: $0.0000231093
+Staked: 105.6884 UNI-V2 ($1.31)
+Total APR: Day NaN% Week NaN% Year NaN%
+	Dark APR: Day 22.46% Week 157.25% Year 8177.09%
+	Spark APR: Day 6.31% Week 44.19% Year 2298.13%
+	Glow APR: Day 3.86% Week 27.02% Year 1405.19%
+You are staking 0.00000000 [WMATIC]-[Glow] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00000000 [WMATIC]-[Glow] Uni LP
+Unstake 0.00000000 [WMATIC]-[Glow] Uni LP
+Claim All 0.00000000 Dark ($0.00) & 0.00000000 Spark ($0.00) & 0.00000000 Glow ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+Dark
+ Price: $0.000134 Market Cap: $11.87 
+[%]
+Staked: 11319.3398 Dark ($1.52)
+Total APR: Day NaN% Week NaN% Year NaN%
+	Dark APR: Day 7.23% Week 50.62% Year 2632.16%
+	Spark APR: Day 2.03% Week 14.23% Year 739.76%
+	Glow APR: Day 1.24% Week 8.70% Year 452.32%
+You are staking 0.00000000 Dark ($0.00), 0.00% of the pool.
+Stake 0.00000000 Dark
+Unstake 0.00000000 Dark
+Claim All 0.00000000 Dark ($0.00) & 0.00000000 Spark ($0.00) & 0.00000000 Glow ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+Spark
+ Price: $0.0000377945 Market Cap: $3.05 
+[%]
+Staked: 9973.3571 Spark ($0.38)
+Total APR: Day NaN% Week NaN% Year NaN%
+	Dark APR: Day 29.20% Week 204.41% Year 10629.57%
+	Spark APR: Day 8.21% Week 57.45% Year 2987.40%
+	Glow APR: Day 5.02% Week 35.13% Year 1826.63%
+You are staking 0.00000000 Spark ($0.00), 0.00% of the pool.
+Stake 0.00000000 Spark
+Unstake 0.00000000 Spark
+Claim All 0.00000000 Dark ($0.00) & 0.00000000 Spark ($0.00) & 0.00000000 Glow ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+Glow
+ Price: $0.0000231093 Market Cap: $1.66 
+[%]
+Staked: 8307.8033 Glow ($0.19)
+Total APR: Day NaN% Week NaN% Year NaN%
+	Dark APR: Day 57.33% Week 401.34% Year 20869.50%
+	Spark APR: Day 16.11% Week 112.79% Year 5865.28%
+	Glow APR: Day 9.85% Week 68.97% Year 3586.31%
+You are staking 0.00000000 Glow ($0.00), 0.00% of the pool.
+Stake 0.00000000 Glow
+Unstake 0.00000000 Glow
+Claim All 0.00000000 Dark ($0.00) & 0.00000000 Spark ($0.00) & 0.00000000 Glow ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WMATIC
+ Price: $1.64 Market Cap: $603,149,655.47 
+[%]
+Staked: 7.8570 WMATIC ($12.89)
+Total APR: Day NaN% Week NaN% Year NaN%
+	Dark APR: Day 0.71% Week 4.98% Year 259.12%
+	Spark APR: Day 0.20% Week 1.40% Year 72.82%
+	Glow APR: Day 0.12% Week 0.86% Year 44.53%
+You are staking 0.00000000 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00000000 WMATIC - Fee 3%
+Unstake 0.00000000 WMATIC
+Claim All 0.00000000 Dark ($0.00) & 0.00000000 Spark ($0.00) & 0.00000000 Glow ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+USDC
+ Price: $1.00 Market Cap: $1,042,636,195.99 
+[%]
+Staked: 14.1601 USDC ($14.14)
+Total APR: Day NaN% Week NaN% Year NaN%
+	Dark APR: Day 0.65% Week 4.54% Year 236.09%
+	Spark APR: Day 0.18% Week 1.28% Year 66.35%
+	Glow APR: Day 0.11% Week 0.78% Year 40.57%
+You are staking 0.00000000 USDC ($0.00), 0.00% of the pool.
+Stake 0.00000000 USDC - Fee 3%
+Unstake 0.00000000 USDC
+Claim All 0.00000000 Dark ($0.00) & 0.00000000 Spark ($0.00) & 0.00000000 Glow ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+DAI
+ Price: $1.00 Market Cap: $376,545,250.79 
+[%]
+Staked: 11.9771 DAI ($11.96)
+Total APR: Day NaN% Week NaN% Year NaN%
+	Dark APR: Day 0.77% Week 5.37% Year 279.07%
+	Spark APR: Day 0.22% Week 1.51% Year 78.43%
+	Glow APR: Day 0.13% Week 0.92% Year 47.96%
+You are staking 0.00000000 DAI ($0.00), 0.00% of the pool.
+Stake 0.00000000 DAI - Fee 3%
+Unstake 0.00000000 DAI
+Claim All 0.00000000 Dark ($0.00) & 0.00000000 Spark ($0.00) & 0.00000000 Glow ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+WETH
+ Price: $3,321.04 Market Cap: $2,024,908,050.07 
+[%]
+Staked: 0.0035 WETH ($11.53)
+Total APR: Day NaN% Week NaN% Year NaN%
+	Dark APR: Day 0.48% Week 3.34% Year 173.76%
+	Spark APR: Day 0.13% Week 0.94% Year 48.83%
+	Glow APR: Day 0.08% Week 0.57% Year 29.86%
+You are staking 0.00000000 WETH ($0.00), 0.00% of the pool.
+Stake 0.00000000 WETH - Fee 3%
+Unstake 0.00000000 WETH
+Claim All 0.00000000 Dark ($0.00) & 0.00000000 Spark ($0.00) & 0.00000000 Glow ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+WBTC
+ Price: $50,019.00 Market Cap: $696,957,605.01 
+[%]
+Staked: 0.0002 WBTC ($11.55)
+Total APR: Day NaN% Week NaN% Year NaN%
+	Dark APR: Day 0.48% Week 3.34% Year 173.47%
+	Spark APR: Day 0.13% Week 0.94% Year 48.75%
+	Glow APR: Day 0.08% Week 0.57% Year 29.81%
+You are staking 0.00000000 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00000000 WBTC - Fee 3%
+Unstake 0.00000000 WBTC
+Claim All 0.00000000 Dark ($0.00) & 0.00000000 Spark ($0.00) & 0.00000000 Glow ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+AAVE
+ Price: $408.17 Market Cap: $155,237,082.60 
+[%]
+Staked: 0.0266 AAVE ($10.86)
+Total APR: Day NaN% Week NaN% Year NaN%
+	Dark APR: Day 0.51% Week 3.55% Year 184.43%
+	Spark APR: Day 0.14% Week 1.00% Year 51.83%
+	Glow APR: Day 0.09% Week 0.61% Year 31.69%
+You are staking 0.00000000 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00000000 AAVE - Fee 3%
+Unstake 0.00000000 AAVE
+Claim All 0.00000000 Dark ($0.00) & 0.00000000 Spark ($0.00) & 0.00000000 Glow ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+SUSHI
+ Price: $13.79 Market Cap: $13,993,738.77 
+[%]
+Staked: 0.7817 SUSHI ($10.78)
+Total APR: Day NaN% Week NaN% Year NaN%
+	Dark APR: Day 0.51% Week 3.57% Year 185.84%
+	Spark APR: Day 0.14% Week 1.00% Year 52.23%
+	Glow APR: Day 0.09% Week 0.61% Year 31.94%
+You are staking 0.00000000 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00000000 SUSHI - Fee 3%
+Unstake 0.00000000 SUSHI
+Claim All 0.00000000 Dark ($0.00) & 0.00000000 Spark ($0.00) & 0.00000000 Glow ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+QUICK
+ Price: $725.76 Market Cap: $694,745,862.95 
+[%]
+Staked: 0.0142 QUICK ($10.28)
+Total APR: Day NaN% Week NaN% Year NaN%
+	Dark APR: Day 0.36% Week 2.50% Year 129.93%
+	Spark APR: Day 0.10% Week 0.70% Year 36.52%
+	Glow APR: Day 0.06% Week 0.43% Year 22.33%
+You are staking 0.00000000 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00000000 QUICK - Fee 3%
+Unstake 0.00000000 QUICK
+Claim All 0.00000000 Dark ($0.00) & 0.00000000 Spark ($0.00) & 0.00000000 Glow ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $106.09

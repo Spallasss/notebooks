@@ -1,0 +1,235 @@
+INFO  : https://iridiumfinance.app/
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:34:22 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 16 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+1 - 
+[USDC]-[IRID] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,887,060.89 TVL: $148.23
+USDC Price: $1.00
+IRID Price: $0.84
+Staked: 0.0001 UNI-V2 ($144.68)
+IRID Per Week: 180.94 ($152.21)
+APR: Day 15.03% Week 105.21% Year 5470.78%
+You are staking 0.00 [USDC]-[IRID] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[IRID] Uni LP
+Unstake 0.00 [USDC]-[IRID] Uni LP
+Claim 0.00 IRID ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[IRID] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.45 TVL: $2,471.10
+WMATIC Price: $1.64
+IRID Price: $0.84
+Staked: 49.7825 UNI-V2 ($121.90)
+IRID Per Week: 180.94 ($152.21)
+APR: Day 17.84% Week 124.86% Year 6492.91%
+You are staking 0.00 [WMATIC]-[IRID] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[IRID] Uni LP
+Unstake 0.00 [WMATIC]-[IRID] Uni LP
+Claim 0.00 IRID ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[PLATIN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,627,301.57 TVL: $831.42
+USDC Price: $1.00
+PLATIN Price: $0.59
+Staked: 0.0000 UNI-V2 ($49.00)
+IRID Per Week: 120.63 ($101.47)
+APR: Day 29.58% Week 207.09% Year 10768.92%
+You are staking 0.00 [USDC]-[PLATIN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[PLATIN] Uni LP
+Unstake 0.00 [USDC]-[PLATIN] Uni LP
+Claim 0.00 IRID ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,604,782.62 TVL: $33,318,173.25
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.30)
+IRID Per Week: 30.16 ($25.37)
+APR: Day 1225.29% Week 8577.05% Year 446006.83%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 IRID ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,922,203.74 TVL: $148,184,705.32
+USDC Price: $1.00
+WETH Price: $3,325.22
+Staked: 0.0000 UNI-V2 ($21.38)
+IRID Per Week: 30.16 ($25.37)
+APR: Day 16.95% Week 118.68% Year 6171.42%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 IRID ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+IRID
+ Price: $0.84 Market Cap: $3,243.36 
+[%]
+Staked: 341.9104 IRID ($287.62)
+IRID Per Week: 60.31 ($50.74)
+APR: Day 2.52% Week 17.64% Year 917.30%
+You are staking 0.00 IRID ($0.00), 0.00% of the pool.
+Stake 0.00 IRID
+Unstake 0.00 IRID
+Claim 0.00 IRID ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+PLATIN
+ Price: $0.59 Market Cap: $4,235.80 
+[%]
+Staked: 18.8049 PLATIN ($11.17)
+IRID Per Week: 36.19 ($30.44)
+APR: Day 38.94% Week 272.58% Year 14174.32%
+You are staking 0.00 PLATIN ($0.00), 0.00% of the pool.
+Stake 0.00 PLATIN
+Unstake 0.00 PLATIN
+Claim 0.00 IRID ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+WMATIC
+ Price: $1.64 Market Cap: $602,057,530.52 
+[%]
+Staked: 315.2606 WMATIC ($517.03)
+IRID Per Week: 24.13 ($20.29)
+APR: Day 0.56% Week 3.93% Year 204.11%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 IRID ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+AAVE
+ Price: $408.38 Market Cap: $155,316,950.77 
+[%]
+Staked: 0.0142 AAVE ($5.78)
+IRID Per Week: 18.09 ($15.22)
+APR: Day 37.63% Week 263.39% Year 13696.33%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 IRID ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+WETH
+ Price: $3,325.22 Market Cap: $2,027,570,707.72 
+[%]
+Staked: 0.0012 WETH ($3.87)
+IRID Per Week: 18.09 ($15.22)
+APR: Day 56.16% Week 393.09% Year 20440.55%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 IRID ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+WBTC
+ Price: $50,090.00 Market Cap: $698,147,268.87 
+[%]
+Staked: 0.0000 WBTC ($1.66)
+IRID Per Week: 18.09 ($15.22)
+APR: Day 131.11% Week 917.77% Year 47723.93%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 IRID ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+QUICK
+ Price: $726.91 Market Cap: $695,846,719.62 
+[%]
+Staked: 0.0001 QUICK ($0.07)
+IRID Per Week: 18.09 ($15.22)
+APR: Day 2931.25% Week 20518.75% Year 1066975.08%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 IRID ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+USDC
+ Price: $1.00 Market Cap: $1,043,210,596.83 
+[%]
+Staked: 9.6000 USDC ($9.59)
+IRID Per Week: 18.09 ($15.22)
+APR: Day 22.67% Week 158.70% Year 8252.37%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 IRID ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+DAI
+ Price: $1.00 Market Cap: $376,699,668.04 
+[%]
+Staked: 0.9570 DAI ($0.96)
+IRID Per Week: 18.09 ($15.22)
+APR: Day 227.39% Week 1591.72% Year 82769.34%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 IRID ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+USDT
+ Price: $1.00 Market Cap: $315,032,588.68 
+[%]
+Staked: 2.8771 USDT ($2.87)
+IRID Per Week: 18.09 ($15.22)
+APR: Day 75.64% Week 529.45% Year 27531.64%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 IRID ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,177.87

@@ -1,0 +1,226 @@
+INFO     : 
+https://yieldlab.science/
+   
+Telegram : 
+https://t.me/YieldScienceLab
+
+****************************************************************************
+
+************ NOTE ***************
+All pools carry a 5% deposit fee.
+*********************************
+
+Mon Aug 23 2021 13:43:37 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 15 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+10 - 
+[WBNB]-[ysH2O] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6.50 TVL: $5,520.62
+WBNB Price: $483.75
+ysH2O Price: $0.02
+Staked: 156.9772 Cake-LP ($1,020.61)
+ysO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[ysH2O] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[ysH2O] Cake LP
+Unstake 0.00 [WBNB]-[ysH2O] Cake LP
+Claim 0.00 ysO ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[ysO]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.32 TVL: $2,118.75
+ysO Price: $0.005259
+WBNB Price: $483.75
+Staked: 52.0661 Cake-LP ($172.94)
+ysO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ysO]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ysO]-[WBNB] Cake LP
+Unstake 0.00 [ysO]-[WBNB] Cake LP
+Claim 0.00 ysO ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[ysH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.68 TVL: $2,071.75
+ysH Price: $0.006509
+WBNB Price: $483.75
+Staked: 23.3258 Cake-LP ($85.82)
+ysO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ysH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ysH]-[WBNB] Cake LP
+Unstake 0.00 [ysH]-[WBNB] Cake LP
+Claim 0.00 ysO ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WBNB]-[ysC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.46 TVL: $259.77
+WBNB Price: $483.75
+ysC Price: $0.001081
+Staked: 24.6356 Cake-LP ($36.03)
+ysO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[ysC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[ysC] Cake LP
+Unstake 0.00 [WBNB]-[ysC] Cake LP
+Claim 0.00 ysO ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[ysCO2]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.28 TVL: $473.79
+ysCO2 Price: $0.009314
+WBNB Price: $483.75
+Staked: 6.0000 Cake-LP ($25.69)
+ysO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ysCO2]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ysCO2]-[WBNB] Cake LP
+Unstake 0.00 [ysCO2]-[WBNB] Cake LP
+Claim 0.00 ysO ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,341.09
+Staking Contract
+Found 15 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+10 - 
+[WBNB]-[ysH2O] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6.50 TVL: $5,520.62
+WBNB Price: $483.75
+ysH2O Price: $0.02
+Staked: 106.0279 Cake-LP ($689.35)
+ysH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[ysH2O] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[ysH2O] Cake LP
+Unstake 0.00 [WBNB]-[ysH2O] Cake LP
+Claim 0.00 ysH ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[ysO]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.32 TVL: $2,118.75
+ysO Price: $0.005259
+WBNB Price: $483.75
+Staked: 17.9723 Cake-LP ($59.70)
+ysH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ysO]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ysO]-[WBNB] Cake LP
+Unstake 0.00 [ysO]-[WBNB] Cake LP
+Claim 0.00 ysH ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[ysH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.68 TVL: $2,071.75
+ysH Price: $0.006509
+WBNB Price: $483.75
+Staked: 44.1950 Cake-LP ($162.60)
+ysH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ysH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ysH]-[WBNB] Cake LP
+Unstake 0.00 [ysH]-[WBNB] Cake LP
+Claim 0.00 ysH ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WBNB]-[ysC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.46 TVL: $259.77
+WBNB Price: $483.75
+ysC Price: $0.001081
+Staked: 29.8522 Cake-LP ($43.66)
+ysH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[ysC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[ysC] Cake LP
+Unstake 0.00 [WBNB]-[ysC] Cake LP
+Claim 0.00 ysH ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[ysCO2]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.28 TVL: $473.79
+ysCO2 Price: $0.009314
+WBNB Price: $483.75
+Staked: 8.4509 Cake-LP ($36.19)
+ysH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ysCO2]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ysCO2]-[WBNB] Cake LP
+Unstake 0.00 [ysCO2]-[WBNB] Cake LP
+Claim 0.00 ysH ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $991.49

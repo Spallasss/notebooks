@@ -1,0 +1,257 @@
+INFO  : https://www.polypulsar.farm
+************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:54:51 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 20 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WMATIC]-[BPUL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.86 TVL: $49,473.48
+WMATIC Price: $1.65
+BPUL Price: $0.07
+Staked: 632.9079 UNI-V2 ($545.09)
+BPUL Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[BPUL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[BPUL] Uni LP
+Unstake 0.00 [WMATIC]-[BPUL] Uni LP
+Claim 0.00 BPUL ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[BNT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.03 TVL: $4,465.75
+WMATIC Price: $1.65
+BNT Price: $0.04
+Staked: 578.5379 UNI-V2 ($598.57)
+BPUL Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[BNT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[BNT] Uni LP
+Unstake 0.00 [WMATIC]-[BNT] Uni LP
+Claim 0.00 BPUL ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[BNT]-[BPUL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.11 TVL: $3,575.24
+BNT Price: $0.04
+BPUL Price: $0.07
+Staked: 2750.2594 UNI-V2 ($304.82)
+BPUL Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [BNT]-[BPUL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BNT]-[BPUL] Uni LP
+Unstake 0.00 [BNT]-[BPUL] Uni LP
+Claim 0.00 BPUL ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+BPUL
+ Price: $0.07 Market Cap: $695,284.70 
+[%]
+Staked: 261815.9401 BPUL ($17,776.06)
+BPUL Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BPUL ($0.00), 0.00% of the pool.
+Stake 0.00 BPUL
+Unstake 0.00 BPUL
+Claim 0.00 BPUL ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+BNT
+ Price: $0.04 Market Cap: $121,743.48 
+[%]
+Staked: 2330.7045 BNT ($101.67)
+BPUL Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BNT ($0.00), 0.00% of the pool.
+Stake 0.00 BNT
+Unstake 0.00 BNT
+Claim 0.00 BPUL ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WMATIC
+ Price: $1.65 Market Cap: $605,592,553.11 
+[%]
+Staked: 623.7534 WMATIC ($1,029.19)
+BPUL Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 BPUL ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WETH
+ Price: $3,326.09 Market Cap: $2,031,028,007.02 
+[%]
+Staked: 0.0028 WETH ($9.25)
+BPUL Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 BPUL ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WBTC
+ Price: $50,115.00 Market Cap: $699,023,779.47 
+[%]
+Staked: 0.0098 WBTC ($492.18)
+BPUL Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 BPUL ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+QUICK
+ Price: $736.78 Market Cap: $705,294,941.72 
+[%]
+Staked: 0.1188 QUICK ($87.53)
+BPUL Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 BPUL ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+DAI
+ Price: $1.00 Market Cap: $375,659,203.55 
+[%]
+Staked: 96.8807 DAI ($96.73)
+BPUL Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 BPUL ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+USDC
+ Price: $1.00 Market Cap: $1,046,620,436.21 
+[%]
+Staked: 2151.4408 USDC ($2,147.09)
+BPUL Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 BPUL ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+USDT
+ Price: $1.00 Market Cap: $314,825,905.66 
+[%]
+Staked: 982.8385 USDT ($981.71)
+BPUL Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 BPUL ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+PolyDoge
+ Price: $0.0000000063 Market Cap: $6,330,000.00 
+[%]
+Staked: 8177494508.1595 PolyDoge ($51.76)
+BPUL Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 4%
+Unstake 0.00 PolyDoge
+Claim 0.00 BPUL ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+FISH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 51.8885 FISH ($0.00)
+BPUL Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+Stake 0.00 FISH - Fee 4%
+Unstake 0.00 FISH
+Claim 0.00 BPUL ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+POLAR
+ Price: $0.00 Market Cap: $0.00 
+Staked: 380.9758 POLAR ($0.00)
+BPUL Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 POLAR ($0.00), NaN% of the pool.
+Stake 0.00 POLAR - Fee 4%
+Unstake 0.00 POLAR
+Claim 0.00 BPUL ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[WMATIC]-[BONE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.37 TVL: $13,185.26
+WMATIC Price: $1.65
+BONE Price: $0.02
+Staked: 482.4035 UNI-V2 ($178.39)
+BPUL Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[BONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[BONE] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[BONE] Uni LP
+Claim 0.00 BPUL ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[WMATIC]-[BONE] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.36 TVL: $16,202.76
+WMATIC Price: $1.65
+BONE Price: $0.02
+Staked: 0.1699 SLP ($0.06)
+BPUL Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[BONE] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[BONE] SLP - Fee 4%
+Unstake 0.00 [WMATIC]-[BONE] SLP
+Claim 0.00 BPUL ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $24,400.11

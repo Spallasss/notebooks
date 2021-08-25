@@ -1,0 +1,58 @@
+INFO  : https://www.mai.finance
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:13:06 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 3 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+1 - 
+[USDC]-[miMATIC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,080,173.87 TVL: $89,397,771.75
+USDC Price: $1.00
+miMATIC Price: $0.99
+Staked: 33.7928 UNI-V2 ($70,294,805.66)
+Qi Per Week: 302400.00 ($357,312.49)
+APR: Day 0.07% Week 0.51% Year 26.43%
+You are staking 0.00 [USDC]-[miMATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[miMATIC] Uni LP - Fee 0.5%
+Unstake 0.00 [USDC]-[miMATIC] Uni LP
+Claim 0.00 Qi ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[QI]-[miMATIC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.26 TVL: $18,934,158.39
+QI Price: $1.18
+miMATIC Price: $0.99
+Staked: 8351473.1298 UNI-V2 ($18,887,962.06)
+Qi Per Week: 604800.00 ($714,624.98)
+APR: Day 0.54% Week 3.78% Year 196.74%
+You are staking 0.00 [QI]-[miMATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [QI]-[miMATIC] Uni LP - Fee 0.5%
+Unstake 0.00 [QI]-[miMATIC] Uni LP
+Claim 0.00 Qi ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $89,182,767.72

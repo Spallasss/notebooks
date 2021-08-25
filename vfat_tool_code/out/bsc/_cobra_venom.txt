@@ -1,0 +1,239 @@
+INFO  : https://cobra.exchange
+
+For CobraNest, BridgePools and CommunityPools 
+click here
+
+**************************************************************************************
+
+Mon Aug 23 2021 15:08:55 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 11 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WBNB]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $44.97 TVL: $1,462,761.78
+WBNB Price: $488.96
+BUSD Price: $1.00
+Staked: 32198.8755 VENOM-LP ($1,447,856.16)
+COBRA Per Week: 258048.00 ($36,605.32)
+APR: Day 0.36% Week 2.53% Year 131.47%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[COBRA]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.78 TVL: $74,243.73
+COBRA Price: $0.14
+BUSD Price: $1.00
+Staked: 94693.2438 VENOM-LP ($73,927.39)
+COBRA Per Week: 516096.00 ($73,210.65)
+APR: Day 14.15% Week 99.03% Year 5149.58%
+You are staking 0.00 [COBRA]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COBRA]-[BUSD] Uni LP
+Unstake 0.00 [COBRA]-[BUSD] Uni LP
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[COBRA]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $17.12 TVL: $689,438.75
+COBRA Price: $0.14
+WBNB Price: $488.96
+Staked: 39363.5138 VENOM-LP ($673,866.57)
+COBRA Per Week: 6451200.00 ($915,133.10)
+APR: Day 19.40% Week 135.80% Year 7061.77%
+You are staking 0.00 [COBRA]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COBRA]-[WBNB] Uni LP
+Unstake 0.00 [COBRA]-[WBNB] Uni LP
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[COBRA]-[1VIPER] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.39 TVL: $487,930.94
+COBRA Price: $0.14
+1VIPER Price: $0.26
+Staked: 1239077.2833 VENOM-LP ($485,541.28)
+COBRA Per Week: 3999744.00 ($567,382.52)
+APR: Day 16.69% Week 116.86% Year 6076.49%
+You are staking 0.00 [COBRA]-[1VIPER] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COBRA]-[1VIPER] Uni LP
+Unstake 0.00 [COBRA]-[1VIPER] Uni LP
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[xCOBRA]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $17.23 TVL: $126,867.54
+xCOBRA Price: $0.15
+WBNB Price: $488.96
+Staked: 7241.2160 VENOM-LP ($124,744.80)
+COBRA Per Week: 903168.00 ($128,118.63)
+APR: Day 14.67% Week 102.70% Year 5340.64%
+You are staking 0.00 [xCOBRA]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [xCOBRA]-[WBNB] Uni LP
+Unstake 0.00 [xCOBRA]-[WBNB] Uni LP
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[COBRA]-[BTCB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $169.12 TVL: $20,061.83
+COBRA Price: $0.14
+BTCB Price: $49,844.00
+Staked: 110.6304 VENOM-LP ($18,710.36)
+COBRA Per Week: 129024.00 ($18,302.66)
+APR: Day 13.97% Week 97.82% Year 5086.69%
+You are staking 0.00 [COBRA]-[BTCB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COBRA]-[BTCB] Uni LP
+Unstake 0.00 [COBRA]-[BTCB] Uni LP
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[ETH]-[COBRA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $45.42 TVL: $21,243.14
+ETH Price: $3,332.55
+COBRA Price: $0.14
+Staked: 427.0311 VENOM-LP ($19,394.90)
+COBRA Per Week: 129024.00 ($18,302.66)
+APR: Day 13.48% Week 94.37% Year 4907.16%
+You are staking 0.00 [ETH]-[COBRA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[COBRA] Uni LP
+Unstake 0.00 [ETH]-[COBRA] Uni LP
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[Cake]-[COBRA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.82 TVL: $22,648.78
+Cake Price: $25.33
+COBRA Price: $0.14
+Staked: 5527.6242 VENOM-LP ($21,096.72)
+COBRA Per Week: 129024.00 ($18,302.66)
+APR: Day 12.39% Week 86.76% Year 4511.31%
+You are staking 0.00 [Cake]-[COBRA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[COBRA] Uni LP
+Unstake 0.00 [Cake]-[COBRA] Uni LP
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[COBRA]-[XVS] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.64 TVL: $25,340.59
+COBRA Price: $0.14
+XVS Price: $37.70
+Staked: 5359.0496 VENOM-LP ($24,842.11)
+COBRA Per Week: 129024.00 ($18,302.66)
+APR: Day 10.53% Week 73.68% Year 3831.15%
+You are staking 0.00 [COBRA]-[XVS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COBRA]-[XVS] Uni LP
+Unstake 0.00 [COBRA]-[XVS] Uni LP
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[COBRA]-[ADA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.27 TVL: $20,759.16
+COBRA Price: $0.14
+ADA Price: $2.83
+Staked: 15621.7021 VENOM-LP ($19,900.97)
+COBRA Per Week: 129024.00 ($18,302.66)
+APR: Day 13.14% Week 91.97% Year 4782.37%
+You are staking 0.00 [COBRA]-[ADA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COBRA]-[ADA] Uni LP
+Unstake 0.00 [COBRA]-[ADA] Uni LP
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[COBRA]-[DOT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.03 TVL: $18,182.92
+COBRA Price: $0.14
+DOT Price: $28.21
+Staked: 4236.1707 VENOM-LP ($17,064.05)
+COBRA Per Week: 129024.00 ($18,302.66)
+APR: Day 15.32% Week 107.26% Year 5577.45%
+You are staking 0.00 [COBRA]-[DOT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COBRA]-[DOT] Uni LP
+Unstake 0.00 [COBRA]-[DOT] Uni LP
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $2,926,945.31
+CobraPit TVL: $360,549.12
+COBRA Price: $0.14
+Staked: 2541678.86 COBRA ($360,549.12)
+You are staking 0.00 COBRA ($0.00), 0.00% of the pool.
+Stake 0.00 COBRA
+CobraPit rewards are visible after unstaking / exiting the pool.
+Total Staked: $3,287,494.43

@@ -1,0 +1,55 @@
+INFO  : https://www.proofofhumanity.id
+************************************************************************************
+
+Mon Aug 23 2021 15:37:13 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[WETH]-[UBI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $27.11 TVL: $222,642.37
+WETH Price: $3,331.95
+UBI Price: $0.04
+Staked: 8002.4048 UNI-V2 ($216,959.36)
+UBI Per Week: 38356.16 ($1,671.52)
+APR: Day 0.11% Week 0.77% Year 40.06%
+You are staking 0.000000 [WETH]-[UBI] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [WETH]-[UBI] Uni LP
+Unstake 0.000000 [WETH]-[UBI] Uni LP
+Claim 0.000000 UBI ($0.00)
+Revoke (set approval to 0)
+Exit
+[DAI]-[UBI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.44 TVL: $139,795.35
+DAI Price: $1.00
+UBI Price: $0.04
+Staked: 315534.3067 UNI-V2 ($139,502.61)
+UBI Per Week: 38356.16 ($1,671.52)
+APR: Day 0.17% Week 1.20% Year 62.31%
+You are staking 0.000000 [DAI]-[UBI] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [DAI]-[UBI] Uni LP
+Unstake 0.000000 [DAI]-[UBI] Uni LP
+Claim 0.000000 UBI ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $356,461.97
+
+*** Participant Rewards ***
+By validating your profile you will earn 1 UBI/hr.
+Estimated earnings: Day $1.05, Week $7.32, Year $381.75

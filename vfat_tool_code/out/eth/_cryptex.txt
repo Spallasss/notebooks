@@ -1,0 +1,77 @@
+INFO  : https://app.cryptex.finance
+*********************************************************************************
+
+Mon Aug 23 2021 15:43:09 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[TCAP]-[WETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,885.07 TVL: $9,485,301.35
+TCAP Price: $253.37
+WETH Price: $3,326.01
+Staked: 5029.6310 SLP ($9,481,182.31)
+CTX Per Week: 18817.20 ($133,413.98)
+APR: Day 0.20% Week 1.41% Year 73.17%
+You are staking 0.000000 [TCAP]-[WETH] SLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [TCAP]-[WETH] SLP
+Unstake 0.000000 [TCAP]-[WETH] SLP
+Claim 0.000000 CTX ($0.00)
+Revoke (set approval to 0)
+Exit
+[CTX]-[WETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $318.85 TVL: $2,587,892.33
+CTX Price: $7.09
+WETH Price: $3,326.01
+Staked: 8093.5402 SLP ($2,580,635.49)
+CTX Per Week: 18817.20 ($133,413.98)
+APR: Day 0.74% Week 5.17% Year 268.83%
+You are staking 0.000000 [CTX]-[WETH] SLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [CTX]-[WETH] SLP
+Unstake 0.000000 [CTX]-[WETH] SLP
+Claim 0.000000 CTX ($0.00)
+Revoke (set approval to 0)
+Exit
+WETH
+ Price: $3,326.01 Market Cap: $22,858,799,630.00 
+[%]
+Staked: 4099.1559 WETH ($13,633,833.57)
+CTX Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 WETH $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 WETH
+Unstake 0.000000 WETH
+Claim 0.000000 CTX ($0.00)
+Revoke (set approval to 0)
+Exit
+DAI
+ Price: $1.00 Market Cap: $5,779,787,515.51 
+[%]
+Staked: 50912.2636 DAI ($50,902.59)
+CTX Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 DAI $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 DAI
+Unstake 0.000000 DAI
+Claim 0.000000 CTX ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $25,746,553.96

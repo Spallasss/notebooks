@@ -1,0 +1,280 @@
+INFO  : https://gold.polyyork.finance
+*******************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 13:02:26 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 17 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[GoldYork] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,483,584.62 TVL: $13,585.82
+USDC Price: $1.00
+GoldYork Price: $2.66
+Staked: 0.0022 UNI-V2 ($7,641.22)
+GOLDYORK Per Week: 1384.62 ($3,685.19)
+APR: Day 6.89% Week 48.23% Year 2507.84%
+You are staking 0.00 [USDC]-[GoldYork] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[GoldYork] Uni LP
+Unstake 0.00 [USDC]-[GoldYork] Uni LP
+Claim 0.00 GOLDYORK ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[PolyDoge]-[GoldYork] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $1,599.40
+PolyDoge Price: $0.0000000062
+GoldYork Price: $2.66
+Staked: 6029628.8697 UNI-V2 ($1,589.15)
+GOLDYORK Per Week: 207.69 ($552.78)
+APR: Day 4.97% Week 34.78% Year 1808.79%
+You are staking 0.00 [PolyDoge]-[GoldYork] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PolyDoge]-[GoldYork] Uni LP
+Unstake 0.00 [PolyDoge]-[GoldYork] Uni LP
+Claim 0.00 GOLDYORK ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[DMA]-[GoldYork] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $25.19 TVL: $675.06
+DMA Price: $57.99
+GoldYork Price: $2.66
+Staked: 24.6505 UNI-V2 ($620.83)
+GOLDYORK Per Week: 207.69 ($552.78)
+APR: Day 12.72% Week 89.04% Year 4630.01%
+You are staking 0.00 [DMA]-[GoldYork] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DMA]-[GoldYork] Uni LP - Fee 2%
+Unstake 0.00 [DMA]-[GoldYork] Uni LP
+Claim 0.00 GOLDYORK ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[York]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $16,249,519.81 TVL: $18,184.70
+York Price: $0.99
+USDC Price: $1.00
+Staked: 0.0011 UNI-V2 ($18,088.32)
+GOLDYORK Per Week: 415.38 ($1,105.56)
+APR: Day 0.87% Week 6.11% Year 317.82%
+You are staking 0.00 [York]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [York]-[USDC] Uni LP
+Unstake 0.00 [York]-[USDC] Uni LP
+Claim 0.00 GOLDYORK ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDC]-[AAVE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $769,322,234.81 TVL: $68,444.10
+USDC Price: $1.00
+AAVE Price: $408.34
+Staked: 0.0001 UNI-V2 ($39,775.41)
+GOLDYORK Per Week: 207.69 ($552.78)
+APR: Day 0.20% Week 1.39% Year 72.27%
+You are staking 0.00 [USDC]-[AAVE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[AAVE] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[AAVE] Uni LP
+Claim 0.00 GOLDYORK ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,713,289.60 TVL: $147,950,486.96
+USDC Price: $1.00
+WETH Price: $3,318.04
+Staked: 0.0003 UNI-V2 ($42,011.53)
+GOLDYORK Per Week: 207.69 ($552.78)
+APR: Day 0.19% Week 1.32% Year 68.42%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 GOLDYORK ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+GoldYork
+ Price: $2.66 Market Cap: $17,705.52 
+[%]
+Staked: 2138.0408 GoldYork ($5,690.45)
+GOLDYORK Per Week: 553.85 ($1,474.08)
+APR: Day 3.70% Week 25.90% Year 1347.03%
+You are staking 0.00 GoldYork ($0.00), 0.00% of the pool.
+Stake 0.00 GoldYork
+Unstake 0.00 GoldYork
+Claim 0.00 GOLDYORK ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+York
+ Price: $0.99 Market Cap: $30,747.99 
+[%]
+Staked: 11946.1993 York ($11,809.45)
+GOLDYORK Per Week: 346.15 ($921.30)
+APR: Day 1.11% Week 7.80% Year 405.67%
+You are staking 0.00 York ($0.00), 0.00% of the pool.
+Stake 0.00 York
+Unstake 0.00 York
+Claim 0.00 GOLDYORK ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+DMA
+ Price: $57.99 Market Cap: $11,597.31 
+[%]
+Staked: 72.0532 DMA ($4,178.12)
+GOLDYORK Per Week: 221.54 ($589.63)
+APR: Day 2.02% Week 14.11% Year 733.84%
+You are staking 0.00 DMA ($0.00), 0.00% of the pool.
+Stake 0.00 DMA - Fee 4%
+Unstake 0.00 DMA
+Claim 0.00 GOLDYORK ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+PolyDoge
+ Price: $0.0000000062 Market Cap: $6,210,000.00 
+[%]
+Staked: 13867663057831.7832 PolyDoge ($86,118.19)
+GOLDYORK Per Week: 207.69 ($552.78)
+APR: Day 0.09% Week 0.64% Year 33.38%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 4%
+Unstake 0.00 PolyDoge
+Claim 0.00 GOLDYORK ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+WETH
+ Price: $3,318.04 Market Cap: $2,022,910,098.43 
+[%]
+Staked: 24.7009 WETH ($81,958.48)
+GOLDYORK Per Week: 207.69 ($552.78)
+APR: Day 0.10% Week 0.67% Year 35.07%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 GOLDYORK ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+WBTC
+ Price: $49,992.00 Market Cap: $696,581,390.86 
+[%]
+Staked: 1.1492 WBTC ($57,448.71)
+GOLDYORK Per Week: 207.69 ($552.78)
+APR: Day 0.14% Week 0.96% Year 50.04%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 GOLDYORK ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[York]-[GoldYork] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.30 TVL: $1,797.96
+York Price: $0.99
+GoldYork Price: $2.66
+Staked: 541.8927 UNI-V2 ($1,788.08)
+GOLDYORK Per Week: 456.92 ($1,216.11)
+APR: Day 9.72% Week 68.01% Year 3536.63%
+You are staking 0.00 [York]-[GoldYork] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [York]-[GoldYork] Uni LP
+Unstake 0.00 [York]-[GoldYork] Uni LP
+Claim 0.00 GOLDYORK ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WMATIC]-[GoldYork] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.28 TVL: $2,213.15
+WMATIC Price: $1.64
+GoldYork Price: $2.66
+Staked: 514.4196 UNI-V2 ($2,202.09)
+GOLDYORK Per Week: 346.15 ($921.30)
+APR: Day 5.98% Week 41.84% Year 2175.54%
+You are staking 0.00 [WMATIC]-[GoldYork] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[GoldYork] Uni LP
+Unstake 0.00 [WMATIC]-[GoldYork] Uni LP
+Claim 0.00 GOLDYORK ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+USDC
+ Price: $1.00 Market Cap: $1,042,339,558.09 
+[%]
+Staked: 32502.9243 USDC ($32,458.75)
+GOLDYORK Per Week: 207.69 ($552.78)
+APR: Day 0.24% Week 1.70% Year 88.56%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 GOLDYORK ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+USDT
+ Price: $1.00 Market Cap: $314,970,871.22 
+[%]
+Staked: 33389.3496 USDT ($33,357.30)
+GOLDYORK Per Week: 207.69 ($552.78)
+APR: Day 0.24% Week 1.66% Year 86.17%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 GOLDYORK ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+AAVE
+ Price: $408.34 Market Cap: $155,301,737.78 
+[%]
+Staked: 23.0304 AAVE ($9,404.22)
+GOLDYORK Per Week: 166.15 ($442.22)
+APR: Day 0.67% Week 4.70% Year 244.52%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 GOLDYORK ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $436,140.30

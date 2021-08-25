@@ -1,0 +1,44 @@
+INFO  : https://incentives.epns.io
+*************************************************************************
+
+Mon Aug 23 2021 15:43:50 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Rewards are distributed at the end of each epoch.
+
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[WETH]-[PUSH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $275.79 TVL: $6,940,849.43
+WETH Price: $3,326.01
+PUSH Price: $4.27
+Staked: 15430.2057 UNI-V2 ($4,255,465.45)
+PUSH Per Week: 35000.00 ($149,450.00)
+APR: Day 0.50% Week 3.51% Year 182.62%
+You are staking 0.000000 [WETH]-[PUSH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [WETH]-[PUSH] Uni LP
+Unstake 0.000000 [WETH]-[PUSH] Uni LP
+Revoke (set approval to 0)
+Exit
+PUSH
+ Price: $4.27 Market Cap: $427,000,000.00 
+[%]
+Staked: 3934652.9800 PUSH ($16,800,968.22)
+PUSH Per Week: 30000.00 ($128,100.00)
+APR: Day 0.11% Week 0.76% Year 39.65%
+You are staking 0.000000 PUSH $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 PUSH
+Unstake 0.000000 PUSH
+Revoke (set approval to 0)
+Exit
+Total staked: $21,056,433.67

@@ -1,0 +1,27 @@
+INFO  : https://app.blackswan.network
+********************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:30:18 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+USDC
+ Price: $1.00 Market Cap: $1,043,402,677.42 
+[%]
+Staked: 11096.2129 USDC ($11,087.69)
+SWAN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 USDC $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 USDC
+Unstake 0.000000 USDC
+Claim 0.000000 SWAN ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $11,087.69

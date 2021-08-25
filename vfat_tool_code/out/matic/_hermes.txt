@@ -1,0 +1,198 @@
+***************************** POLYGON NETWORK ***************************************
+    
+*************** 👨‍🌾 UNOFFICIAL HERMES FARMING CALCULATOR 👨‍🌾 *************************
+
+                    WEBSITE  : https://hermesdefi.io
+
+Hermes Defi is a project that is in the world of cryptocurrencies more specifically Decentralized Finance,
+which is in great growth since the summer of 2020 due to the disruptive concept on which it is based.
+
+During the last few months, at Polygon we have been part of the revolution in the Defi sector and we have observed the development of other performance aggregators,
+watching their mistakes and successes, learning from them until we decided to launch our own farm.
+We hope to provide our investors with a safe,transparent and fast place. 
+
+Where the community plays an important role and is an active part in the decision making process of the project.
+
+PALADIN AUDIT => 100% 
+
+
+                   WEBSITE  : https://hermesdefi.io
+ 
+Our docs: https://hermes-defi.gitbook.io/hermes-finance/
+
+************************************************************************
+
+Mon Aug 23 2021 12:40:14 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 13 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+IRIS
+ Price: $0.31 Market Cap: $120,437.66 
+[%]
+Staked: 170264.3621 IRIS ($52,854.43)
+IRIS Per Week: 21432.56 ($6,653.22)
+APR: Day 1.80% Week 12.59% Year 654.57%
+You are staking 0.00 IRIS ($0.00), 0.00% of the pool.
+Stake 0.00 IRIS
+Unstake 0.00 IRIS
+Claim 0.00 IRIS ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+WETH
+ Price: $3,323.66 Market Cap: $2,026,551,779.14 
+[%]
+Staked: 30.1456 WETH ($100,193.70)
+IRIS Per Week: 4018.60 ($1,247.48)
+APR: Day 0.18% Week 1.25% Year 64.74%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 IRIS ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+WBTC
+ Price: $50,066.00 Market Cap: $697,612,496.30 
+[%]
+Staked: 1.3902 WBTC ($69,602.38)
+IRIS Per Week: 2679.07 ($831.65)
+APR: Day 0.17% Week 1.19% Year 62.13%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 IRIS ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WMATIC
+ Price: $1.64 Market Cap: $602,992,853.92 
+[%]
+Staked: 44746.6557 WMATIC ($73,384.52)
+IRIS Per Week: 4018.60 ($1,247.48)
+APR: Day 0.24% Week 1.70% Year 88.40%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 IRIS ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+QUICK
+ Price: $726.26 Market Cap: $695,224,496.28 
+[%]
+Staked: 38.0338 QUICK ($27,622.41)
+IRIS Per Week: 2679.07 ($831.65)
+APR: Day 0.43% Week 3.01% Year 156.56%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 IRIS ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+USDC
+ Price: $1.00 Market Cap: $1,042,727,970.04 
+[%]
+Staked: 48066.2541 USDC ($47,999.35)
+IRIS Per Week: 2679.07 ($831.65)
+APR: Day 0.25% Week 1.73% Year 90.10%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 IRIS ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+USDT
+ Price: $1.00 Market Cap: $314,975,208.11 
+[%]
+Staked: 59603.8143 USDT ($59,546.59)
+IRIS Per Week: 2679.07 ($831.65)
+APR: Day 0.20% Week 1.40% Year 72.63%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 IRIS ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+DAI
+ Price: $1.00 Market Cap: $376,567,350.39 
+[%]
+Staked: 42837.0178 DAI ($42,790.88)
+IRIS Per Week: 2679.07 ($831.65)
+APR: Day 0.28% Week 1.94% Year 101.06%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 IRIS ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[WMATIC]-[IRIS] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.46 TVL: $117,552.97
+WMATIC Price: $1.64
+IRIS Price: $0.31
+Staked: 30226.2947 UNI-V2 ($44,061.62)
+IRIS Per Week: 42865.12 ($13,306.43)
+APR: Day 4.31% Week 30.20% Year 1570.38%
+You are staking 0.00 [WMATIC]-[IRIS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[IRIS] Uni LP
+Unstake 0.00 [WMATIC]-[IRIS] Uni LP
+Claim 0.00 IRIS ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+aestandard.finance
+ Price: $0.00 Market Cap: $0.00 
+Staked: 22772.5783 aestandard.finance ($0.00)
+IRIS Per Week: 1339.53 ($415.83)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 aestandard.finance ($0.00), NaN% of the pool.
+Stake 0.00 aestandard.finance - Fee 3%
+Unstake 0.00 aestandard.finance
+Claim 0.00 IRIS ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+BPSP
+ Price: $0.00 Market Cap: $0.00 
+Staked: 7620.6494 BPSP ($0.00)
+IRIS Per Week: 4018.60 ($1,247.48)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BPSP ($0.00), NaN% of the pool.
+Stake 0.00 BPSP - Fee 3%
+Unstake 0.00 BPSP
+Claim 0.00 IRIS ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+B-POLYDEFI
+ Price: $0.00 Market Cap: $0.00 
+Staked: 88.5110 B-POLYDEFI ($0.00)
+IRIS Per Week: 8037.21 ($2,494.96)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 B-POLYDEFI ($0.00), NaN% of the pool.
+Stake 0.00 B-POLYDEFI - Fee 2%
+Unstake 0.00 B-POLYDEFI
+Claim 0.00 IRIS ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+IBPT
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1469.5958 IBPT ($0.00)
+IRIS Per Week: 16074.42 ($4,989.91)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 IBPT ($0.00), NaN% of the pool.
+Stake 0.00 IBPT - Fee 1%
+Unstake 0.00 IBPT
+Claim 0.00 IRIS ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $518,055.88

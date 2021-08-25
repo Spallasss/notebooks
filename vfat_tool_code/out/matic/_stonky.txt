@@ -1,0 +1,215 @@
+INFO  : https://stonky.farm/
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:41:28 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 14 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+Stonky
+ Price: $0.0000800088 Market Cap: $55.62 
+[%]
+Staked: 345205.8075 Stonky ($27.62)
+STONKY Per Week: 9290.32 ($0.74)
+APR: Day 0.38% Week 2.69% Year 139.94%
+You are staking 0.00 Stonky ($0.00), 0.00% of the pool.
+Stake 0.00 Stonky - Fee 1.5%
+Unstake 0.00 Stonky
+Claim 0.00 STONKY ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[USDC]-[Stonky] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $20,156.06 TVL: $16.70
+USDC Price: $1.00
+Stonky Price: $0.0000800088
+Staked: 0.0004 UNI-V2 ($7.09)
+STONKY Per Week: 11148.39 ($0.89)
+APR: Day 1.80% Week 12.58% Year 654.31%
+You are staking 0.00 [USDC]-[Stonky] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[Stonky] Uni LP
+Unstake 0.00 [USDC]-[Stonky] Uni LP
+Claim 0.00 STONKY ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[Stonky] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $2.45
+WMATIC Price: $1.65
+Stonky Price: $0.0000800088
+Staked: 62.2183 UNI-V2 ($1.53)
+STONKY Per Week: 9290.32 ($0.74)
+APR: Day 6.96% Week 48.69% Year 2531.76%
+You are staking 0.00 [WMATIC]-[Stonky] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[Stonky] Uni LP - Fee 1.5%
+Unstake 0.00 [WMATIC]-[Stonky] Uni LP
+Claim 0.00 STONKY ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WETH]-[Stonky] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.08 TVL: $3.89
+WETH Price: $3,330.14
+Stonky Price: $0.0000800088
+Staked: 3.3541 UNI-V2 ($3.62)
+STONKY Per Week: 9290.32 ($0.74)
+APR: Day 2.93% Week 20.53% Year 1067.70%
+You are staking 0.00 [WETH]-[Stonky] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[Stonky] Uni LP - Fee 4%
+Unstake 0.00 [WETH]-[Stonky] Uni LP
+Claim 0.00 STONKY ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WBTC]-[Stonky] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $421,513.06 TVL: $3.95
+WBTC Price: $50,201.00
+Stonky Price: $0.0000800088
+Staked: 0.0000 UNI-V2 ($3.60)
+STONKY Per Week: 9290.32 ($0.74)
+APR: Day 2.95% Week 20.64% Year 1073.52%
+You are staking 0.00 [WBTC]-[Stonky] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[Stonky] Uni LP - Fee 4%
+Unstake 0.00 [WBTC]-[Stonky] Uni LP
+Claim 0.00 STONKY ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+USDT
+ Price: $1.00 Market Cap: $314,823,907.95 
+[%]
+Staked: 95.4864 USDT ($95.38)
+STONKY Per Week: 4645.16 ($0.37)
+APR: Day 0.06% Week 0.39% Year 20.26%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 STONKY ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+USDC
+ Price: $1.00 Market Cap: $1,046,576,787.62 
+[%]
+Staked: 961.4045 USDC ($959.85)
+STONKY Per Week: 4645.16 ($0.37)
+APR: Day 0.01% Week 0.04% Year 2.01%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 STONKY ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WMATIC
+ Price: $1.65 Market Cap: $605,518,677.67 
+[%]
+Staked: 10.7427 WMATIC ($17.73)
+STONKY Per Week: 4645.16 ($0.37)
+APR: Day 0.30% Week 2.10% Year 109.03%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 STONKY ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+WBTC
+ Price: $50,201.00 Market Cap: $700,243,378.67 
+[%]
+Staked: 0.0013 WBTC ($64.99)
+STONKY Per Week: 4645.16 ($0.37)
+APR: Day 0.08% Week 0.57% Year 29.74%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 STONKY ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+WETH
+ Price: $3,330.14 Market Cap: $2,033,431,551.04 
+[%]
+Staked: 0.0489 WETH ($162.90)
+STONKY Per Week: 4645.16 ($0.37)
+APR: Day 0.03% Week 0.23% Year 11.86%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 STONKY ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+PolyDoge
+ Price: $0.0000000063 Market Cap: $6,335,000.00 
+[%]
+Staked: 1701173472.7717 PolyDoge ($10.78)
+STONKY Per Week: 4645.16 ($0.37)
+APR: Day 0.49% Week 3.45% Year 179.33%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 4%
+Unstake 0.00 PolyDoge
+Claim 0.00 STONKY ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+QUICK
+ Price: $738.09 Market Cap: $706,548,961.06 
+[%]
+Staked: 0.3985 QUICK ($294.13)
+STONKY Per Week: 4645.16 ($0.37)
+APR: Day 0.02% Week 0.13% Year 6.57%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 STONKY ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+DAI
+ Price: $1.00 Market Cap: $375,659,203.55 
+[%]
+Staked: 11.1200 DAI ($11.10)
+STONKY Per Week: 4645.16 ($0.37)
+APR: Day 0.48% Week 3.35% Year 174.07%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 STONKY ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+SGAJ
+ Price: $0.00 Market Cap: $0.00 
+Staked: 2430.6514 SGAJ ($0.00)
+STONKY Per Week: 929.03 ($0.07)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SGAJ ($0.00), NaN% of the pool.
+Stake 0.00 SGAJ - Fee 4%
+Unstake 0.00 SGAJ
+Claim 0.00 STONKY ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,660.29

@@ -1,0 +1,127 @@
+INFO  : https://polygaj.finance
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 15:58:29 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 25 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[GAJ] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,101,509.03 TVL: $41,256.58
+USDC Price: $1.00
+GAJ Price: $0.25
+Staked: 0.0143 UNI-V2 ($15,745.61)
+GAJ Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[GAJ] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[GAJ] Uni LP
+Unstake 0.00 [USDC]-[GAJ] Uni LP
+Claim 0.00 GAJ ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+GAJ
+ Price: $0.25 Market Cap: $517,586.50 
+[%]
+Staked: 236551.6927 GAJ ($58,458.75)
+GAJ Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 GAJ ($0.00), 0.00% of the pool.
+Stake 0.00 GAJ - Fee 1%
+Unstake 0.00 GAJ
+Claim 0.00 GAJ ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[WMATIC]-[GAJ] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.35 TVL: $16,880.33
+WMATIC Price: $1.64
+GAJ Price: $0.25
+Staked: 9465.4457 UNI-V2 ($12,763.96)
+GAJ Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[GAJ] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[GAJ] Uni LP
+Unstake 0.00 [WMATIC]-[GAJ] Uni LP
+Claim 0.00 GAJ ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[WMATIC]-[GAJ] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.30 TVL: $31,128.30
+WMATIC Price: $1.64
+GAJ Price: $0.25
+Staked: 5522.7422 SLP ($7,197.99)
+GAJ Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[GAJ] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[GAJ] SLP
+Unstake 0.00 [WMATIC]-[GAJ] SLP
+Claim 0.00 GAJ ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[USDC]-[GAJ] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $20,788,722.58 TVL: $14,171.50
+USDC Price: $1.00
+GAJ Price: $0.25
+Staked: 0.0002 SLP ($5,196.27)
+GAJ Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[GAJ] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[GAJ] SLP
+Unstake 0.00 [USDC]-[GAJ] SLP
+Claim 0.00 GAJ ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[WMATIC]-[GAJ] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.29 TVL: $20,194.18
+WMATIC Price: $1.64
+GAJ Price: $0.25
+Staked: 8381.8721 DFYNLP ($10,815.33)
+GAJ Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[GAJ] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[GAJ] DFYN LP
+Unstake 0.00 [WMATIC]-[GAJ] DFYN LP
+Claim 0.00 GAJ ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $110,177.90

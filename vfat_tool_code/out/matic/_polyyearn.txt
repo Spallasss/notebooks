@@ -1,0 +1,238 @@
+INFO  : https://polyyearn.finance
+************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:04:11 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 16 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+YEARN
+ Price: $0.008497 Market Cap: $204.35 
+[%]
+Staked: 6091.7548 YEARN ($51.76)
+YEARN Per Week: 500.00 ($4.25)
+APR: Day 1.17% Week 8.21% Year 426.81%
+You are staking 0.00 YEARN ($0.00), 0.00% of the pool.
+Stake 0.00 YEARN
+Unstake 0.00 YEARN
+Claim 0.00 YEARN ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+WMATIC
+ Price: $1.65 Market Cap: $605,582,713.40 
+[%]
+Staked: 202.2874 WMATIC ($333.77)
+YEARN Per Week: 400.00 ($3.40)
+APR: Day 0.15% Week 1.02% Year 52.95%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 3.75%
+Unstake 0.00 WMATIC
+Claim 0.00 YEARN ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+WBTC
+ Price: $50,023.00 Market Cap: $697,249,827.78 
+[%]
+Staked: 0.0009 WBTC ($47.44)
+YEARN Per Week: 400.00 ($3.40)
+APR: Day 1.02% Week 7.16% Year 372.56%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 3.75%
+Unstake 0.00 WBTC
+Claim 0.00 YEARN ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WETH
+ Price: $3,318.98 Market Cap: $2,027,223,212.99 
+[%]
+Staked: 0.0049 WETH ($16.41)
+YEARN Per Week: 400.00 ($3.40)
+APR: Day 2.96% Week 20.71% Year 1077.12%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 3.75%
+Unstake 0.00 WETH
+Claim 0.00 YEARN ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+USDC
+ Price: $1.00 Market Cap: $1,045,838,435.02 
+[%]
+Staked: 92.7645 USDC ($92.51)
+YEARN Per Week: 300.00 ($2.55)
+APR: Day 0.39% Week 2.76% Year 143.28%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 3.75%
+Unstake 0.00 USDC
+Claim 0.00 YEARN ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+DAI
+ Price: $1.00 Market Cap: $375,664,195.61 
+[%]
+Staked: 193.4721 DAI ($193.16)
+YEARN Per Week: 300.00 ($2.55)
+APR: Day 0.19% Week 1.32% Year 68.62%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 3.75%
+Unstake 0.00 DAI
+Claim 0.00 YEARN ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+USDT
+ Price: $1.00 Market Cap: $314,825,905.66 
+[%]
+Staked: 77.5247 USDT ($77.44)
+YEARN Per Week: 300.00 ($2.55)
+APR: Day 0.47% Week 3.29% Year 171.18%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 3.75%
+Unstake 0.00 USDT
+Claim 0.00 YEARN ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+QUICK
+ Price: $733.37 Market Cap: $702,030,662.35 
+[%]
+Staked: 0.0208 QUICK ($15.25)
+YEARN Per Week: 300.00 ($2.55)
+APR: Day 2.39% Week 16.72% Year 869.33%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 3.75%
+Unstake 0.00 QUICK
+Claim 0.00 YEARN ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+LINK
+ Price: $28.56 Market Cap: $64,809,321.93 
+[%]
+Staked: 153.6313 LINK ($4,387.71)
+YEARN Per Week: 400.00 ($3.40)
+APR: Day 0.01% Week 0.08% Year 4.03%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 3.75%
+Unstake 0.00 LINK
+Claim 0.00 YEARN ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+FISH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 50.1246 FISH ($0.00)
+YEARN Per Week: 200.00 ($1.70)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+Stake 0.00 FISH - Fee 3.75%
+Unstake 0.00 FISH
+Claim 0.00 YEARN ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+BANANA
+ Price: $0.00 Market Cap: $0.00 
+Staked: 54.3937 BANANA ($0.00)
+YEARN Per Week: 200.00 ($1.70)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BANANA ($0.00), NaN% of the pool.
+Stake 0.00 BANANA - Fee 3.75%
+Unstake 0.00 BANANA
+Claim 0.00 YEARN ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+PolyDoge
+ Price: $0.0000000064 Market Cap: $6,412,000.00 
+[%]
+Staked: 1078089863.2448 PolyDoge ($6.91)
+YEARN Per Week: 300.00 ($2.55)
+APR: Day 5.27% Week 36.88% Year 1917.51%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 3.75%
+Unstake 0.00 PolyDoge
+Claim 0.00 YEARN ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WMATIC]-[YEARN] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.25 TVL: $61.85
+WMATIC Price: $1.65
+YEARN Price: $0.008497
+Staked: 78.5791 SLP ($19.66)
+YEARN Per Week: 800.00 ($6.80)
+APR: Day 4.94% Week 34.58% Year 1797.98%
+You are staking 0.00 [WMATIC]-[YEARN] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[YEARN] SLP
+Unstake 0.00 [WMATIC]-[YEARN] SLP
+Claim 0.00 YEARN ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[USDC]-[YEARN] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $192,402.54 TVL: $41.88
+USDC Price: $1.00
+YEARN Price: $0.008497
+Staked: 0.0001 SLP ($11.76)
+YEARN Per Week: 800.00 ($6.80)
+APR: Day 8.26% Week 57.82% Year 3006.88%
+You are staking 0.00 [USDC]-[YEARN] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[YEARN] SLP
+Unstake 0.00 [USDC]-[YEARN] SLP
+Claim 0.00 YEARN ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[WMATIC]-[YEARN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.25 TVL: $96.53
+WMATIC Price: $1.65
+YEARN Price: $0.008497
+Staked: 223.1237 UNI-V2 ($56.74)
+YEARN Per Week: 800.00 ($6.80)
+APR: Day 1.71% Week 11.98% Year 622.93%
+You are staking 0.00 [WMATIC]-[YEARN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[YEARN] Uni LP
+Unstake 0.00 [WMATIC]-[YEARN] Uni LP
+Claim 0.00 YEARN ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[USDC]-[YEARN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $198,271.51 TVL: $54.10
+USDC Price: $1.00
+YEARN Price: $0.008497
+Staked: 0.0001 UNI-V2 ($21.96)
+YEARN Per Week: 800.00 ($6.80)
+APR: Day 4.42% Week 30.96% Year 1609.81%
+You are staking 0.00 [USDC]-[YEARN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[YEARN] Uni LP
+Unstake 0.00 [USDC]-[YEARN] Uni LP
+Claim 0.00 YEARN ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $5,332.48

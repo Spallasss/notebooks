@@ -1,0 +1,348 @@
+INFO  : https://www.ufodefi.com
+**********************************************************************************
+
+Mon Aug 23 2021 13:45:42 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 21 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[UFO]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $106.25
+UFO Price: $0.000114
+BUSD Price: $1.00
+Staked: 4003.2236 Cake-LP ($92.80)
+UFO Per Week: 61557.25 ($7.02)
+APR: Day 1.08% Week 7.57% Year 393.52%
+You are staking 0.00 [UFO]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UFO]-[BUSD] Cake LP
+Unstake 0.00 [UFO]-[BUSD] Cake LP
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[UFO]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.50 TVL: $65.43
+UFO Price: $0.000114
+WBNB Price: $483.88
+Staked: 106.3842 Cake-LP ($53.32)
+UFO Per Week: 36934.35 ($4.21)
+APR: Day 1.13% Week 7.90% Year 410.94%
+You are staking 0.00 [UFO]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UFO]-[WBNB] Cake LP
+Unstake 0.00 [UFO]-[WBNB] Cake LP
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.52 TVL: $3,329,286.43
+WBNB Price: $483.88
+BUSD Price: $1.00
+Staked: 0.5934 Cake-LP ($38.29)
+UFO Per Week: 7694.66 ($0.88)
+APR: Day 0.33% Week 2.29% Year 119.22%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.14 TVL: $4,006,507.15
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 125.2311 Cake-LP ($267.38)
+UFO Per Week: 6155.73 ($0.70)
+APR: Day 0.04% Week 0.26% Year 13.66%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,901.59 TVL: $1,952,797.70
+BTCB Price: $50,221.00
+WBNB Price: $483.88
+Staked: 0.0044 Cake-LP ($47.61)
+UFO Per Week: 9233.59 ($1.05)
+APR: Day 0.32% Week 2.21% Year 115.06%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,857.73 TVL: $3,517,331.76
+ETH Price: $3,323.01
+WBNB Price: $483.88
+Staked: 0.0640 Cake-LP ($182.79)
+UFO Per Week: 9233.59 ($1.05)
+APR: Day 0.08% Week 0.58% Year 29.97%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $2,586,574.91
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 81.6113 Cake-LP ($167.03)
+UFO Per Week: 6155.73 ($0.70)
+APR: Day 0.06% Week 0.42% Year 21.86%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.26 TVL: $1,019,552.14
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 75.4547 Cake-LP ($170.18)
+UFO Per Week: 6155.73 ($0.70)
+APR: Day 0.06% Week 0.41% Year 21.46%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $251.95 TVL: $672,477.79
+DOT Price: $27.97
+WBNB Price: $483.88
+Staked: 0.2424 Cake-LP ($61.06)
+UFO Per Week: 6155.73 ($0.70)
+APR: Day 0.16% Week 1.15% Year 59.80%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[Cake]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $15.68 TVL: $180,164.57
+Cake Price: $25.01
+BUSD Price: $1.00
+Staked: 0.2146 Cake-LP ($3.37)
+UFO Per Week: 6155.73 ($0.70)
+APR: Day 2.98% Week 20.86% Year 1084.94%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $260.71 TVL: $8,042,869.42
+Cake Price: $25.01
+WBNB Price: $483.88
+Staked: 0.0375 Cake-LP ($9.79)
+UFO Per Week: 6155.73 ($0.70)
+APR: Day 1.03% Week 7.18% Year 373.16%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+UFO
+ Price: $0.000114 Market Cap: $166.73 
+[%]
+Staked: 433229.0502 UFO ($49.42)
+UFO Per Week: 15389.31 ($1.76)
+APR: Day 0.51% Week 3.55% Year 184.72%
+You are staking 0.00 UFO ($0.00), 0.00% of the pool.
+Stake 0.00 UFO
+Unstake 0.00 UFO
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+BUSD
+ Price: $1.00 Market Cap: $4,199,487,040.21 
+[%]
+Staked: 38.8000 BUSD ($38.79)
+UFO Per Week: 3077.86 ($0.35)
+APR: Day 0.13% Week 0.91% Year 47.08%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 3%
+Unstake 0.00 BUSD
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+WBNB
+ Price: $483.88 Market Cap: $3,428,852,380.64 
+[%]
+Staked: 0.0049 WBNB ($2.35)
+UFO Per Week: 4616.79 ($0.53)
+APR: Day 3.21% Week 22.44% Year 1167.03%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 3%
+Unstake 0.00 WBNB
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+USDT
+ Price: $1.00 Market Cap: $3,377,097,883.96 
+[%]
+Staked: 122.9162 USDT ($122.81)
+UFO Per Week: 1538.93 ($0.18)
+APR: Day 0.02% Week 0.14% Year 7.43%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 3%
+Unstake 0.00 USDT
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+BTCB
+ Price: $50,221.00 Market Cap: $4,293,945,721.00 
+[%]
+Staked: 0.0000 BTCB ($0.94)
+UFO Per Week: 3077.86 ($0.35)
+APR: Day 5.33% Week 37.31% Year 1939.87%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 3%
+Unstake 0.00 BTCB
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+ETH
+ Price: $3,323.01 Market Cap: $4,336,528,050.00 
+[%]
+Staked: 0.0006 ETH ($1.99)
+UFO Per Week: 3077.86 ($0.35)
+APR: Day 2.52% Week 17.65% Year 917.62%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 3%
+Unstake 0.00 ETH
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+DAI
+ Price: $1.00 Market Cap: $261,817,648.00 
+[%]
+Staked: 1.1393 DAI ($1.14)
+UFO Per Week: 1538.93 ($0.18)
+APR: Day 2.20% Week 15.42% Year 801.84%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 3%
+Unstake 0.00 DAI
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+USDC
+ Price: $1.00 Market Cap: $1,776,760,239.00 
+[%]
+Staked: 604.8646 USDC ($604.10)
+UFO Per Week: 1538.93 ($0.18)
+APR: Day 0.00% Week 0.03% Year 1.51%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 3%
+Unstake 0.00 USDC
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+DOT
+ Price: $27.97 Market Cap: $391,579,999.86 
+[%]
+Staked: 6.4775 DOT ($181.18)
+UFO Per Week: 3077.86 ($0.35)
+APR: Day 0.03% Week 0.19% Year 10.08%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 3%
+Unstake 0.00 DOT
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+Cake
+ Price: $25.01 Market Cap: $10,406,902,136.66 
+[%]
+Staked: 0.0970 Cake ($2.43)
+UFO Per Week: 3077.86 ($0.35)
+APR: Day 2.07% Week 14.47% Year 752.63%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 3%
+Unstake 0.00 Cake
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $2,098.74

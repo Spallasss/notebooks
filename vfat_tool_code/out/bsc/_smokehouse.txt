@@ -1,0 +1,125 @@
+INFO  : https://thesmokehouse.finance
+****************************************************************************************
+
+Mon Aug 23 2021 14:08:39 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 11 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+SMOKE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 686691.3124 SMOKE ($0.00)
+SMOKE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SMOKE ($0.00), NaN% of the pool.
+Stake 0.00 SMOKE
+Unstake 0.00 SMOKE
+Claim 0.00 SMOKE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[SMOKE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.66 TVL: $9,486.14
+SMOKE Price: $0.002779
+WBNB Price: $485.11
+Staked: 1789.8472 Cake-LP ($4,758.94)
+SMOKE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SMOKE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SMOKE]-[WBNB] Cake LP
+Unstake 0.00 [SMOKE]-[WBNB] Cake LP
+Claim 0.00 SMOKE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[SMOKE]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.12 TVL: $1,133.48
+SMOKE Price: $0.002779
+BUSD Price: $1.00
+Staked: 2934.5909 Cake-LP ($337.70)
+SMOKE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SMOKE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SMOKE]-[BUSD] Cake LP
+Unstake 0.00 [SMOKE]-[BUSD] Cake LP
+Claim 0.00 SMOKE ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[SMOKE]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.12 TVL: $730.20
+SMOKE Price: $0.002779
+USDT Price: $1.00
+Staked: 1643.4545 TLP ($189.68)
+SMOKE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SMOKE]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SMOKE]-[USDT] Uni LP
+Unstake 0.00 [SMOKE]-[USDT] Uni LP
+Claim 0.00 SMOKE ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[bTBB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $354.93 TVL: $148,493.74
+bTBB Price: $61.41
+WBNB Price: $485.11
+Staked: 2.4228 Cake-LP ($859.93)
+SMOKE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [bTBB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bTBB]-[WBNB] Cake LP
+Unstake 0.00 [bTBB]-[WBNB] Cake LP
+Claim 0.00 SMOKE ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[SMOKE]-[bTBB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.84 TVL: $272.35
+SMOKE Price: $0.002779
+bTBB Price: $61.41
+Staked: 148.3088 Cake-LP ($125.10)
+SMOKE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SMOKE]-[bTBB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SMOKE]-[bTBB] Cake LP
+Unstake 0.00 [SMOKE]-[bTBB] Cake LP
+Claim 0.00 SMOKE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $6,271.34

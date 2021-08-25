@@ -1,0 +1,606 @@
+INFO  : https://farmhero.io
+*************************************************************************************
+
+Mon Aug 23 2021 11:54:01 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 35 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+1 - 
+[WMATIC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $189.10 TVL: $123,046,621.08
+WMATIC Price: $1.65
+WETH Price: $3,326.47
+Staked: 331.2907 UNI-V2 ($62,648.25)
+HONOR Per Week: 42234.13 ($845.40)
+APR: Day 0.19% Week 1.35% Year 70.17%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 HONOR ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,616,385.27 TVL: $33,416,078.91
+WMATIC Price: $1.65
+USDC Price: $1.00
+Staked: 0.0160 UNI-V2 ($73,976.50)
+HONOR Per Week: 42234.13 ($845.40)
+APR: Day 0.16% Week 1.14% Year 59.43%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 HONOR ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WETH]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,709,792,142.92 TVL: $48,986,546.44
+WETH Price: $3,326.47
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($30,590.10)
+HONOR Per Week: 42234.13 ($845.40)
+APR: Day 0.39% Week 2.76% Year 143.71%
+You are staking 0.00 [WETH]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[USDT] Uni LP
+Unstake 0.00 [WETH]-[USDT] Uni LP
+Claim 0.00 HONOR ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WETH]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $138.00 TVL: $31,044,427.96
+WETH Price: $3,326.47
+DAI Price: $1.00
+Staked: 469.7832 UNI-V2 ($64,830.21)
+HONOR Per Week: 42234.13 ($845.40)
+APR: Day 0.19% Week 1.30% Year 67.81%
+You are staking 0.00 [WETH]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[DAI] Uni LP
+Unstake 0.00 [WETH]-[DAI] Uni LP
+Claim 0.00 HONOR ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WMATIC]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $94.78 TVL: $31,938,787.51
+WMATIC Price: $1.65
+QUICK Price: $736.67
+Staked: 195.1632 UNI-V2 ($18,497.46)
+HONOR Per Week: 21117.07 ($422.70)
+APR: Day 0.33% Week 2.29% Year 118.83%
+You are staking 0.00 [WMATIC]-[QUICK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[QUICK] Uni LP
+Unstake 0.00 [WMATIC]-[QUICK] Uni LP
+Claim 0.00 HONOR ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[USDC]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $88,370,132.20 TVL: $9,022,347.06
+USDC Price: $1.00
+QUICK Price: $736.67
+Staked: 0.0002 UNI-V2 ($17,726.70)
+HONOR Per Week: 42234.13 ($845.40)
+APR: Day 0.68% Week 4.77% Year 247.99%
+You are staking 0.00 [USDC]-[QUICK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[QUICK] Uni LP
+Unstake 0.00 [USDC]-[QUICK] Uni LP
+Claim 0.00 HONOR ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[WBTC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50,669,446,113,853.34 TVL: $16,284,977.53
+WBTC Price: $50,122.00
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($60,124.36)
+HONOR Per Week: 42234.13 ($845.40)
+APR: Day 0.20% Week 1.41% Year 73.12%
+You are staking 0.00 [WBTC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[USDC] Uni LP
+Unstake 0.00 [WBTC]-[USDC] Uni LP
+Claim 0.00 HONOR ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[WBTC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,291,966,595,224.26 TVL: $97,817,871.43
+WBTC Price: $50,122.00
+WETH Price: $3,326.47
+Staked: 0.0000 UNI-V2 ($79,380.44)
+HONOR Per Week: 42234.13 ($845.40)
+APR: Day 0.15% Week 1.06% Year 55.38%
+You are staking 0.00 [WBTC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] Uni LP
+Unstake 0.00 [WBTC]-[WETH] Uni LP
+Claim 0.00 HONOR ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[USDC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $74,905,489.90 TVL: $21,369,175.14
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0012 UNI-V2 ($90,036.96)
+HONOR Per Week: 42234.13 ($845.40)
+APR: Day 0.13% Week 0.94% Year 48.83%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 HONOR ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[USDC]-[HONOR] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $326,497.70 TVL: $57,529.77
+USDC Price: $1.00
+HONOR Price: $0.02
+Staked: 0.1296 UNI-V2 ($42,321.94)
+HONOR Per Week: 295638.94 ($5,917.79)
+APR: Day 2.00% Week 13.98% Year 727.11%
+You are staking 0.00 [USDC]-[HONOR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[HONOR] Uni LP
+Unstake 0.00 [USDC]-[HONOR] Uni LP
+Claim 0.00 HONOR ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[USDC]-[HERO] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $566,274.42 TVL: $13,817.87
+USDC Price: $1.00
+HERO Price: $0.08
+Staked: 0.0213 UNI-V2 ($12,064.55)
+HONOR Per Week: 35899.01 ($718.59)
+APR: Day 0.85% Week 5.96% Year 309.72%
+You are staking 0.00 [USDC]-[HERO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[HERO] Uni LP
+Unstake 0.00 [USDC]-[HERO] Uni LP
+Claim 0.00 HONOR ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WETH]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,425.27 TVL: $19,190,562.01
+WETH Price: $3,326.47
+QUICK Price: $736.67
+Staked: 4.4547 UNI-V2 ($19,713.31)
+HONOR Per Week: 21117.07 ($422.70)
+APR: Day 0.31% Week 2.14% Year 111.50%
+You are staking 0.00 [WETH]-[QUICK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[QUICK] Uni LP
+Unstake 0.00 [WETH]-[QUICK] Uni LP
+Claim 0.00 HONOR ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[WMATIC]-[WEXpoly] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.10 TVL: $5,392,409.64
+WMATIC Price: $1.65
+WEXpoly Price: $0.001459
+Staked: 39569.3084 WLP ($3,973.51)
+HONOR Per Week: 8446.83 ($169.08)
+APR: Day 0.61% Week 4.26% Year 221.27%
+You are staking 0.00 [WMATIC]-[WEXpoly] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WEXpoly] Uni LP
+Unstake 0.00 [WMATIC]-[WEXpoly] Uni LP
+Claim 0.00 HONOR ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[USDC]-[WEXpoly] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $78,741.19 TVL: $1,044,928.59
+USDC Price: $1.00
+WEXpoly Price: $0.001459
+Staked: 0.1304 WLP ($10,268.59)
+HONOR Per Week: 8446.83 ($169.08)
+APR: Day 0.24% Week 1.65% Year 85.62%
+You are staking 0.00 [USDC]-[WEXpoly] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WEXpoly] Uni LP
+Unstake 0.00 [USDC]-[WEXpoly] Uni LP
+Claim 0.00 HONOR ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $117,653,289.19 TVL: $7,029,644.27
+USDC Price: $1.00
+WETH Price: $3,326.47
+Staked: 0.0002 WLP ($27,892.61)
+HONOR Per Week: 42234.13 ($845.40)
+APR: Day 0.43% Week 3.03% Year 157.61%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 HONOR ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[WMATIC]-[WAULTx] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.31 TVL: $733,504.12
+WMATIC Price: $1.65
+WAULTx Price: $0.01
+Staked: 9965.3944 WLP ($3,137.22)
+HONOR Per Week: 8446.83 ($169.08)
+APR: Day 0.77% Week 5.39% Year 280.25%
+You are staking 0.00 [WMATIC]-[WAULTx] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WAULTx] Uni LP
+Unstake 0.00 [WMATIC]-[WAULTx] Uni LP
+Claim 0.00 HONOR ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[USDC]-[HONOR] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $294,243.92 TVL: $41,050.61
+USDC Price: $1.00
+HONOR Price: $0.02
+Staked: 0.1094 WLP ($32,189.47)
+HONOR Per Week: 295638.94 ($5,917.79)
+APR: Day 2.63% Week 18.38% Year 955.98%
+You are staking 0.00 [USDC]-[HONOR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[HONOR] Uni LP
+Unstake 0.00 [USDC]-[HONOR] Uni LP
+Claim 0.00 HONOR ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,001,047,740,423.01 TVL: $4,037,245.30
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 WLP ($101,187.54)
+HONOR Per Week: 42234.13 ($845.40)
+APR: Day 0.12% Week 0.84% Year 43.44%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 HONOR ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[WBTC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $45,238,043,311,122.83 TVL: $5,509,169.07
+WBTC Price: $50,122.00
+USDC Price: $1.00
+Staked: 0.0000 WLP ($66,099.06)
+HONOR Per Week: 42234.13 ($845.40)
+APR: Day 0.18% Week 1.28% Year 66.51%
+You are staking 0.00 [WBTC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[USDC] Uni LP
+Unstake 0.00 [WBTC]-[USDC] Uni LP
+Claim 0.00 HONOR ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[WBTC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,592,648,033.18 TVL: $4,804,362.66
+WBTC Price: $50,122.00
+WETH Price: $3,326.47
+Staked: 0.0000 WLP ($81,309.10)
+HONOR Per Week: 42234.13 ($845.40)
+APR: Day 0.15% Week 1.04% Year 54.07%
+You are staking 0.00 [WBTC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] Uni LP
+Unstake 0.00 [WBTC]-[WETH] Uni LP
+Claim 0.00 HONOR ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,735,851.32 TVL: $11,169,749.64
+WMATIC Price: $1.65
+USDC Price: $1.00
+Staked: 0.0147 WLP ($40,320.24)
+HONOR Per Week: 42234.13 ($845.40)
+APR: Day 0.30% Week 2.10% Year 109.03%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 HONOR ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,562,660,512,628.20 TVL: $33,953,344.75
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($107,301.19)
+HONOR Per Week: 42234.13 ($845.40)
+APR: Day 0.11% Week 0.79% Year 40.97%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 HONOR ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,868,508.08 TVL: $148,159,019.20
+USDC Price: $1.00
+WETH Price: $3,326.47
+Staked: 0.0003 UNI-V2 ($55,413.28)
+HONOR Per Week: 42234.13 ($845.40)
+APR: Day 0.22% Week 1.53% Year 79.33%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 HONOR ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[LINK]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $635.91 TVL: $33,593,647.15
+LINK Price: $28.64
+WETH Price: $3,326.47
+Staked: 29.7224 UNI-V2 ($18,900.80)
+HONOR Per Week: 21117.07 ($422.70)
+APR: Day 0.32% Week 2.24% Year 116.29%
+You are staking 0.00 [LINK]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LINK]-[WETH] Uni LP
+Unstake 0.00 [LINK]-[WETH] Uni LP
+Claim 0.00 HONOR ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+[WMATIC]-[CRYSTL] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.80 TVL: $2,999,298.07
+WMATIC Price: $1.65
+CRYSTL Price: $1.13
+Staked: 376.5725 APE-LP ($1,054.70)
+HONOR Per Week: 2111.71 ($42.27)
+APR: Day 0.57% Week 4.01% Year 208.40%
+You are staking 0.00 [WMATIC]-[CRYSTL] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[CRYSTL] APE LP
+Unstake 0.00 [WMATIC]-[CRYSTL] APE LP
+Claim 0.00 HONOR ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+[WBTC]-[WETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,616,816,213.68 TVL: $121,028,163.87
+WBTC Price: $50,122.00
+WETH Price: $3,326.47
+Staked: 0.0001 SLP ($145,503.70)
+HONOR Per Week: 42234.13 ($845.40)
+APR: Day 0.08% Week 0.58% Year 30.21%
+You are staking 0.00 [WBTC]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] SLP
+Unstake 0.00 [WBTC]-[WETH] SLP
+Claim 0.00 HONOR ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+[USDC]-[WETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $127,727,415.89 TVL: $52,669,668.01
+USDC Price: $1.00
+WETH Price: $3,326.47
+Staked: 0.0004 SLP ($49,949.80)
+HONOR Per Week: 42234.13 ($845.40)
+APR: Day 0.24% Week 1.69% Year 88.01%
+You are staking 0.00 [USDC]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] SLP
+Unstake 0.00 [USDC]-[WETH] SLP
+Claim 0.00 HONOR ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+[WETH]-[USDT] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $120,195,769.70 TVL: $30,372,202.92
+WETH Price: $3,326.47
+USDT Price: $1.00
+Staked: 0.0002 SLP ($27,525.88)
+HONOR Per Week: 42234.13 ($845.40)
+APR: Day 0.44% Week 3.07% Year 159.71%
+You are staking 0.00 [WETH]-[USDT] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[USDT] SLP
+Unstake 0.00 [WETH]-[USDT] SLP
+Claim 0.00 HONOR ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+[WMATIC]-[WETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162.33 TVL: $70,464,981.85
+WMATIC Price: $1.65
+WETH Price: $3,326.47
+Staked: 328.3535 SLP ($53,300.00)
+HONOR Per Week: 42234.13 ($845.40)
+APR: Day 0.23% Week 1.59% Year 82.48%
+You are staking 0.00 [WMATIC]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] SLP
+Unstake 0.00 [WMATIC]-[WETH] SLP
+Claim 0.00 HONOR ($0.00)
+Staking or unstaking also claims rewards.
+33 - 
+[USDC]-[ZENY] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $851,400.52 TVL: $27,800.30
+USDC Price: $1.00
+ZENY Price: $1.04
+Staked: 0.0298 UNI-V2 ($25,364.97)
+HONOR Per Week: 422341.35 ($8,453.99)
+APR: Day 4.76% Week 33.33% Year 1733.13%
+You are staking 0.00 [USDC]-[ZENY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[ZENY] Uni LP
+Unstake 0.00 [USDC]-[ZENY] Uni LP
+Claim 0.00 HONOR ($0.00)
+Staking or unstaking also claims rewards.
+34 - 
+[USDC]-[Eggs] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,861.25 TVL: $45,268.49
+USDC Price: $1.00
+Eggs Price: $0.0000032621
+Staked: 1.9601 UNI-V2 ($7,568.52)
+HONOR Per Week: 42234.13 ($845.40)
+APR: Day 1.60% Week 11.17% Year 580.84%
+You are staking 0.00 [USDC]-[Eggs] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[Eggs] Uni LP
+Unstake 0.00 [USDC]-[Eggs] Uni LP
+Claim 0.00 HONOR ($0.00)
+Staking or unstaking also claims rewards.

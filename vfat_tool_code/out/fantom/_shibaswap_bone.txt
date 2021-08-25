@@ -1,0 +1,315 @@
+INFO  : https://shibafantom.finance
+******************************************************************************
+
+Mon Aug 23 2021 13:29:10 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 20 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+BONE
+ Price: $0.03 Market Cap: $135,469.34 
+Staked: 89959.1469 BONE ($2,443.06)
+BONE Per Week: 11498.97 ($312.28)
+APR: Day 1.83% Week 12.78% Year 664.69%
+You are staking 0.00 BONE ($0.00), 0.00% of the pool.
+Stake 0.00 BONE
+Unstake 0.00 BONE
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WFTM]-[BONE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.25 TVL: $9,142.61
+WFTM Price: $0.57
+BONE Price: $0.03
+Staked: 36531.7287 Shiba-LP ($9,135.28)
+BONE Per Week: 11218.51 ($304.67)
+APR: Day 0.48% Week 3.34% Year 173.42%
+You are staking 0.00 [WFTM]-[BONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BONE] Uni LP
+Unstake 0.00 [WFTM]-[BONE] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[USDC]-[WFTM] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,520,031.13 TVL: $530.92
+USDC Price: $1.00
+WFTM Price: $0.57
+Staked: 0.0003 Shiba-LP ($528.30)
+BONE Per Week: 560.93 ($15.23)
+APR: Day 0.41% Week 2.88% Year 149.94%
+You are staking 0.00 [USDC]-[WFTM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] Uni LP
+Unstake 0.00 [USDC]-[WFTM] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WFTM]-[BOO] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.79 TVL: $670.29
+WFTM Price: $0.57
+BOO Price: $10.07
+Staked: 139.5945 Shiba-LP ($669.25)
+BONE Per Week: 560.93 ($15.23)
+APR: Day 0.33% Week 2.28% Year 118.36%
+You are staking 0.00 [WFTM]-[BOO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BOO] Uni LP
+Unstake 0.00 [WFTM]-[BOO] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WFTM]-[WAKA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.54 TVL: $297.62
+WFTM Price: $0.57
+WAKA Price: $0.13
+Staked: 555.0950 Shiba-LP ($297.42)
+BONE Per Week: 560.93 ($15.23)
+APR: Day 0.73% Week 5.12% Year 266.34%
+You are staking 0.00 [WFTM]-[WAKA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[WAKA] Uni LP
+Unstake 0.00 [WFTM]-[WAKA] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[WFTM]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.51 TVL: $2,423.41
+WFTM Price: $0.57
+DAI Price: $1.00
+Staked: 1504.5172 Shiba-LP ($2,277.81)
+BONE Per Week: 560.93 ($15.23)
+APR: Day 0.10% Week 0.67% Year 34.78%
+You are staking 0.00 [WFTM]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[DAI] Uni LP
+Unstake 0.00 [WFTM]-[DAI] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[fUSDT]-[WFTM] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,515,182.84 TVL: $2,221.27
+fUSDT Price: $1.00
+WFTM Price: $0.57
+Staked: 0.0015 Shiba-LP ($2,220.16)
+BONE Per Week: 560.93 ($15.23)
+APR: Day 0.10% Week 0.69% Year 35.68%
+You are staking 0.00 [fUSDT]-[WFTM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[WFTM] Uni LP
+Unstake 0.00 [fUSDT]-[WFTM] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[WFTM]-[ETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $87.39 TVL: $954.00
+WFTM Price: $0.57
+ETH Price: $3,319.72
+Staked: 10.7200 Shiba-LP ($936.86)
+BONE Per Week: 2243.70 ($60.93)
+APR: Day 0.93% Week 6.50% Year 338.21%
+You are staking 0.00 [WFTM]-[ETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] Uni LP
+Unstake 0.00 [WFTM]-[ETH] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[WFTM]-[BTC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $33,828,451.28 TVL: $1,823.62
+WFTM Price: $0.57
+BTC Price: $50,030.09
+Staked: 0.0001 Shiba-LP ($1,819.07)
+BONE Per Week: 2243.70 ($60.93)
+APR: Day 0.48% Week 3.35% Year 174.18%
+You are staking 0.00 [WFTM]-[BTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BTC] Uni LP
+Unstake 0.00 [WFTM]-[BTC] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[WFTM]-[BNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $33.39 TVL: $477.84
+WFTM Price: $0.57
+BNB Price: $483.20
+Staked: 14.1541 Shiba-LP ($472.58)
+BONE Per Week: 1402.31 ($38.08)
+APR: Day 1.15% Week 8.06% Year 419.04%
+You are staking 0.00 [WFTM]-[BNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BNB] Uni LP
+Unstake 0.00 [WFTM]-[BNB] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[LQDR]-[WFTM] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.23 TVL: $307.77
+LQDR Price: $0.67
+WFTM Price: $0.57
+Staked: 248.8346 Shiba-LP ($307.28)
+BONE Per Week: 560.93 ($15.23)
+APR: Day 0.71% Week 4.96% Year 257.78%
+You are staking 0.00 [LQDR]-[WFTM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LQDR]-[WFTM] Uni LP
+Unstake 0.00 [LQDR]-[WFTM] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WFTM]-[NIPS] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9,528.32 TVL: $6,766.92
+WFTM Price: $0.57
+NIPS Price: $0.04
+Staked: 0.7101 Shiba-LP ($6,765.62)
+BONE Per Week: 1121.85 ($30.47)
+APR: Day 0.06% Week 0.45% Year 23.42%
+You are staking 0.00 [WFTM]-[NIPS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[NIPS] Uni LP
+Unstake 0.00 [WFTM]-[NIPS] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[BONE]-[Shiba] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $1,672.57
+BONE Price: $0.03
+Shiba Price: $0.0000000000
+Staked: 39853.2747 Shiba-LP ($1,374.61)
+BONE Per Week: 11218.51 ($304.67)
+APR: Day 3.17% Week 22.16% Year 1152.52%
+You are staking 0.00 [BONE]-[Shiba] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BONE]-[Shiba] Uni LP
+Unstake 0.00 [BONE]-[Shiba] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[WFTM]-[LAIKA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.85 TVL: $512.55
+WFTM Price: $0.57
+LAIKA Price: $0.0000000035
+Staked: 179.4664 Shiba-LP ($511.30)
+BONE Per Week: 560.93 ($15.23)
+APR: Day 0.43% Week 2.98% Year 154.92%
+You are staking 0.00 [WFTM]-[LAIKA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[LAIKA] Uni LP
+Unstake 0.00 [WFTM]-[LAIKA] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[REAPER]-[WFTM] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.06 TVL: $1,558.02
+REAPER Price: $0.001811
+WFTM Price: $0.57
+Staked: 24081.4941 Shiba-LP ($1,552.19)
+BONE Per Week: 560.93 ($15.23)
+APR: Day 0.14% Week 0.98% Year 51.03%
+You are staking 0.00 [REAPER]-[WFTM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [REAPER]-[WFTM] Uni LP
+Unstake 0.00 [REAPER]-[WFTM] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[BabyBONE]-[BONE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $857.62
+BabyBONE Price: $0.0000001503
+BONE Price: $0.03
+Staked: 5669348.1022 Shiba-LP ($855.83)
+BONE Per Week: 560.93 ($15.23)
+APR: Day 0.25% Week 1.78% Year 92.56%
+You are staking 0.00 [BabyBONE]-[BONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BabyBONE]-[BONE] Uni LP
+Unstake 0.00 [BabyBONE]-[BONE] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $32,166.62

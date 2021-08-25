@@ -1,0 +1,134 @@
+INFO  : https://polyearn.com/
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:41:28 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 11 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+PEN
+ Price: $0.00 Market Cap: $0.00 
+Staked: 43832.2614 PEN ($0.00)
+PEN Per Week: 7432.26 ($488.34)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 PEN ($0.00), NaN% of the pool.
+Stake 0.00 PEN - Fee 1%
+Unstake 0.00 PEN
+Claim 0.00 PEN ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+WMATIC
+ Price: $1.64 Market Cap: $602,991,362.28 
+[%]
+Staked: 1133.7866 WMATIC ($1,859.41)
+PEN Per Week: 743.23 ($48.83)
+APR: Day 0.38% Week 2.63% Year 136.57%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 PEN ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+WBTC
+ Price: $50,057.00 Market Cap: $697,487,091.58 
+[%]
+Staked: 0.0176 WBTC ($880.45)
+PEN Per Week: 371.61 ($24.42)
+APR: Day 0.40% Week 2.77% Year 144.21%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 PEN ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WETH
+ Price: $3,323.15 Market Cap: $2,026,232,838.74 
+[%]
+Staked: 0.3993 WETH ($1,327.01)
+PEN Per Week: 371.61 ($24.42)
+APR: Day 0.26% Week 1.84% Year 95.68%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 PEN ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+QUICK
+ Price: $726.19 Market Cap: $695,157,487.62 
+[%]
+Staked: 1.1934 QUICK ($866.64)
+PEN Per Week: 371.61 ($24.42)
+APR: Day 0.40% Week 2.82% Year 146.51%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 PEN ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+USDT
+ Price: $1.00 Market Cap: $314,975,208.11 
+[%]
+Staked: 595.7139 USDT ($595.14)
+PEN Per Week: 185.81 ($12.21)
+APR: Day 0.29% Week 2.05% Year 106.67%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 PEN ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+USDC
+ Price: $1.00 Market Cap: $1,042,696,644.60 
+[%]
+Staked: 301.6003 USDC ($301.17)
+PEN Per Week: 185.81 ($12.21)
+APR: Day 0.58% Week 4.05% Year 210.79%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 PEN ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+DAI
+ Price: $1.00 Market Cap: $376,567,350.39 
+[%]
+Staked: 395.8047 DAI ($395.38)
+PEN Per Week: 185.81 ($12.21)
+APR: Day 0.44% Week 3.09% Year 160.56%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 PEN ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[WMATIC]-[PEN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.66 TVL: $6,356.37
+WMATIC Price: $1.64
+PEN Price: $0.07
+Staked: 3757.8497 UNI-V2 ($2,482.29)
+PEN Per Week: 7432.26 ($488.34)
+APR: Day 2.81% Week 19.67% Year 1022.99%
+You are staking 0.00 [WMATIC]-[PEN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PEN] Uni LP - Fee 1%
+Unstake 0.00 [WMATIC]-[PEN] Uni LP
+Claim 0.00 PEN ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $8,707.49

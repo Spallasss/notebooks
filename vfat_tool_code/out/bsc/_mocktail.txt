@@ -1,0 +1,194 @@
+INFO  : https://www.mocktailswap.finance
+*****************************************************************************************
+
+Mon Aug 23 2021 14:21:28 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 13 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+MOK
+ Price: $0.02 Market Cap: $284,102.73 
+[%]
+Staked: 6567482.3955 MOK ($110,519.20)
+MOK Per Week: 201570.06 ($3,392.07)
+APR: Day 0.44% Week 3.07% Year 159.60%
+You are staking 0.00 MOK ($0.00), 0.00% of the pool.
+Stake 0.00 MOK
+Unstake 0.00 MOK
+Claim 0.00 MOK ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WBNB]-[MOK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.88 TVL: $140,722.03
+WBNB Price: $483.89
+MOK Price: $0.02
+Staked: 18610.3740 MOK-LP ($109,400.98)
+MOK Per Week: 179652.46 ($3,023.24)
+APR: Day 0.39% Week 2.76% Year 143.70%
+You are staking 0.00 [WBNB]-[MOK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[MOK] Uni LP
+Unstake 0.00 [WBNB]-[MOK] Uni LP
+Claim 0.00 MOK ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[MOK]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.28 TVL: $39,950.66
+MOK Price: $0.02
+BUSD Price: $1.00
+Staked: 142930.5144 MOK-LP ($39,448.90)
+MOK Per Week: 41918.91 ($705.42)
+APR: Day 0.26% Week 1.79% Year 92.99%
+You are staking 0.00 [MOK]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MOK]-[BUSD] Uni LP
+Unstake 0.00 [MOK]-[BUSD] Uni LP
+Claim 0.00 MOK ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[Cake]-[MOK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.32 TVL: $6,520.74
+Cake Price: $24.97
+MOK Price: $0.02
+Staked: 4943.9252 MOK-LP ($6,514.98)
+MOK Per Week: 17965.25 ($302.32)
+APR: Day 0.66% Week 4.64% Year 241.30%
+You are staking 0.00 [Cake]-[MOK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[MOK] Uni LP
+Unstake 0.00 [Cake]-[MOK] Uni LP
+Claim 0.00 MOK ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BLUE]-[MOK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.09 TVL: $1,569.84
+BLUE Price: $0.13
+MOK Price: $0.02
+Staked: 16516.9811 MOK-LP ($1,550.82)
+MOK Per Week: 5988.42 ($100.77)
+APR: Day 0.93% Week 6.50% Year 337.90%
+You are staking 0.00 [BLUE]-[MOK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BLUE]-[MOK] Uni LP
+Unstake 0.00 [BLUE]-[MOK] Uni LP
+Claim 0.00 MOK ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[BUNNY]-[MOK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.75 TVL: $4,445.37
+BUNNY Price: $7.78
+MOK Price: $0.02
+Staked: 5895.3533 MOK-LP ($4,433.35)
+MOK Per Week: 17965.25 ($302.32)
+APR: Day 0.97% Week 6.82% Year 354.60%
+You are staking 0.00 [BUNNY]-[MOK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUNNY]-[MOK] Uni LP
+Unstake 0.00 [BUNNY]-[MOK] Uni LP
+Claim 0.00 MOK ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[MOK]-[BAKE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.47 TVL: $6,700.18
+MOK Price: $0.02
+BAKE Price: $3.14
+Staked: 14188.2639 MOK-LP ($6,662.63)
+MOK Per Week: 17965.25 ($302.32)
+APR: Day 0.65% Week 4.54% Year 235.96%
+You are staking 0.00 [MOK]-[BAKE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MOK]-[BAKE] Uni LP
+Unstake 0.00 [MOK]-[BAKE] Uni LP
+Claim 0.00 MOK ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[TRX]-[MOK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.08 TVL: $4,861.24
+TRX Price: $0.09
+MOK Price: $0.02
+Staked: 62010.7833 MOK-LP ($4,858.50)
+MOK Per Week: 17965.25 ($302.32)
+APR: Day 0.89% Week 6.22% Year 323.57%
+You are staking 0.00 [TRX]-[MOK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TRX]-[MOK] Uni LP
+Unstake 0.00 [TRX]-[MOK] Uni LP
+Claim 0.00 MOK ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[WIN]-[MOK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $8,087.87
+WIN Price: $0.000677
+MOK Price: $0.02
+Staked: 1187951.0068 MOK-LP ($8,085.28)
+MOK Per Week: 17965.25 ($302.32)
+APR: Day 0.53% Week 3.74% Year 194.44%
+You are staking 0.00 [WIN]-[MOK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WIN]-[MOK] Uni LP
+Unstake 0.00 [WIN]-[MOK] Uni LP
+Claim 0.00 MOK ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+sold
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1000.0000 sold ($0.00)
+MOK Per Week: 287443.93 ($4,837.18)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 sold ($0.00), NaN% of the pool.
+Stake 0.00 sold
+Unstake 0.00 sold
+Claim 0.00 MOK ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $291,474.63

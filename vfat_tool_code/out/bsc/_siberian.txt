@@ -1,0 +1,311 @@
+INFO  : https://siberianswap.finance
+****************************************************************************************
+
+Mon Aug 23 2021 09:14:00 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 18 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[SIBERIAN]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $802.38
+SIBERIAN Price: $0.0000173619
+BUSD Price: $1.00
+Staked: 50659.8015 SIBERIAN-LP ($498.92)
+SIBERIAN Per Week: 3951360.00 ($68.60)
+APR: Day 1.96% Week 13.75% Year 715.01%
+You are staking 0.00 [SIBERIAN]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SIBERIAN]-[BUSD] Uni LP
+Unstake 0.00 [SIBERIAN]-[BUSD] Uni LP
+Claim 0.00 SIBERIAN ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WBNB]-[SIBERIAN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.21 TVL: $857.35
+WBNB Price: $484.10
+SIBERIAN Price: $0.0000173619
+Staked: 3071.7851 SIBERIAN-LP ($654.44)
+SIBERIAN Per Week: 3951360.00 ($68.60)
+APR: Day 1.50% Week 10.48% Year 545.10%
+You are staking 0.00 [WBNB]-[SIBERIAN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[SIBERIAN] Uni LP
+Unstake 0.00 [WBNB]-[SIBERIAN] Uni LP
+Claim 0.00 SIBERIAN ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $44.51 TVL: $3,500.85
+WBNB Price: $484.10
+BUSD Price: $1.00
+Staked: 7.1436 SIBERIAN-LP ($317.98)
+SIBERIAN Per Week: 1016064.00 ($17.64)
+APR: Day 0.79% Week 5.55% Year 288.48%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 SIBERIAN ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $44.25 TVL: $306.08
+USDT Price: $1.00
+WBNB Price: $484.10
+Staked: 1.8559 SIBERIAN-LP ($82.12)
+SIBERIAN Per Week: 225792.00 ($3.92)
+APR: Day 0.68% Week 4.77% Year 248.24%
+You are staking 0.00 [USDT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Uni LP - Fee 4%
+Unstake 0.00 [USDT]-[WBNB] Uni LP
+Claim 0.00 SIBERIAN ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BTCB]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $447.79 TVL: $111.96
+BTCB Price: $49,954.00
+BUSD Price: $1.00
+Staked: 0.1019 SIBERIAN-LP ($45.61)
+SIBERIAN Per Week: 451584.00 ($7.84)
+APR: Day 2.46% Week 17.19% Year 893.92%
+You are staking 0.00 [BTCB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[BUSD] Uni LP - Fee 4%
+Unstake 0.00 [BTCB]-[BUSD] Uni LP
+Claim 0.00 SIBERIAN ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[BTCB]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9,855.63 TVL: $2,129.25
+BTCB Price: $49,954.00
+WBNB Price: $484.10
+Staked: 0.2123 SIBERIAN-LP ($2,092.56)
+SIBERIAN Per Week: 451584.00 ($7.84)
+APR: Day 0.05% Week 0.37% Year 19.48%
+You are staking 0.00 [BTCB]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Uni LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Uni LP
+Claim 0.00 SIBERIAN ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[Cake]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $220.69 TVL: $568.30
+Cake Price: $25.01
+WBNB Price: $484.10
+Staked: 2.0976 SIBERIAN-LP ($462.92)
+SIBERIAN Per Week: 451584.00 ($7.84)
+APR: Day 0.24% Week 1.69% Year 88.07%
+You are staking 0.00 [Cake]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Uni LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Uni LP
+Claim 0.00 SIBERIAN ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[ETH]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,544.76 TVL: $117.60
+ETH Price: $3,330.60
+WBNB Price: $484.10
+Staked: 0.0012 SIBERIAN-LP ($3.15)
+SIBERIAN Per Week: 451584.00 ($7.84)
+APR: Day 35.55% Week 248.83% Year 12939.24%
+You are staking 0.00 [ETH]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Uni LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Uni LP
+Claim 0.00 SIBERIAN ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[USDT]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.02 TVL: $15,240.28
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 7431.8507 SIBERIAN-LP ($15,014.11)
+SIBERIAN Per Week: 338688.00 ($5.88)
+APR: Day 0.01% Week 0.04% Year 2.04%
+You are staking 0.00 [USDT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Uni LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Uni LP
+Claim 0.00 SIBERIAN ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+BUSD
+ Price: $1.00 Market Cap: $4,194,786,121.88 
+[%]
+Staked: 191.4993 BUSD ($191.22)
+SIBERIAN Per Week: 225792.00 ($3.92)
+APR: Day 0.29% Week 2.05% Year 106.61%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 SIBERIAN ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+WBNB
+ Price: $484.10 Market Cap: $3,426,543,686.62 
+[%]
+Staked: 0.3931 WBNB ($190.30)
+SIBERIAN Per Week: 225792.00 ($3.92)
+APR: Day 0.29% Week 2.06% Year 107.12%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 SIBERIAN ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.1437 BTCB ($7,177.75)
+SIBERIAN Per Week: 225792.00 ($3.92)
+APR: Day 0.01% Week 0.05% Year 2.84%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 SIBERIAN ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+ETH
+ Price: $3,330.60 Market Cap: $4,346,433,000.00 
+[%]
+Staked: 0.2088 ETH ($695.28)
+SIBERIAN Per Week: 225792.00 ($3.92)
+APR: Day 0.08% Week 0.56% Year 29.32%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 SIBERIAN ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+Cake
+ Price: $25.01 Market Cap: $10,407,398,536.95 
+[%]
+Staked: 7.6871 Cake ($192.25)
+SIBERIAN Per Week: 225792.00 ($3.92)
+APR: Day 0.29% Week 2.04% Year 106.03%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 SIBERIAN ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+SIBERIAN
+ Price: $0.0000173619 Market Cap: $2,600.31 
+[%]
+Staked: 55381964.6331 SIBERIAN ($961.53)
+SIBERIAN Per Week: 1128960.00 ($19.60)
+APR: Day 0.29% Week 2.04% Year 106.00%
+You are staking 0.00 SIBERIAN ($0.00), 0.00% of the pool.
+Stake 0.00 SIBERIAN
+Unstake 0.00 SIBERIAN
+Claim 0.00 SIBERIAN ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[ETH]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $116.13 TVL: $85.05
+ETH Price: $3,330.60
+BUSD Price: $1.00
+Staked: 0.0096 SIBERIAN-LP ($1.11)
+SIBERIAN Per Week: 225792.00 ($3.92)
+APR: Day 50.23% Week 351.60% Year 18283.32%
+You are staking 0.00 [ETH]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BUSD] Uni LP - Fee 4%
+Unstake 0.00 [ETH]-[BUSD] Uni LP
+Claim 0.00 SIBERIAN ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[Cake]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10.05 TVL: $2,447.10
+Cake Price: $25.01
+BUSD Price: $1.00
+Staked: 2.9724 SIBERIAN-LP ($29.88)
+SIBERIAN Per Week: 225792.00 ($3.92)
+APR: Day 1.87% Week 13.12% Year 682.20%
+You are staking 0.00 [Cake]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Uni LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Uni LP
+Claim 0.00 SIBERIAN ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+TBAKE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 18254.0344 TBAKE ($0.00)
+SIBERIAN Per Week: 112896.00 ($1.96)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 TBAKE ($0.00), NaN% of the pool.
+Stake 0.00 TBAKE - Fee 4%
+Unstake 0.00 TBAKE
+Claim 0.00 SIBERIAN ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $28,611.15

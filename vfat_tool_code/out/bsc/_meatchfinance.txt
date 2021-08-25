@@ -1,0 +1,277 @@
+INFO  : https://www.meatchfinance.com/
+*************************************************************************************
+
+Mon Aug 23 2021 09:17:34 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 18 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[MEATCH]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.09 TVL: $67.32
+MEATCH Price: $0.001476
+BUSD Price: $1.00
+Staked: 245.1412 Cake-LP ($21.52)
+MEATCH Per Week: 3369.75 ($4.97)
+APR: Day 3.30% Week 23.11% Year 1201.58%
+You are staking 0.00 [MEATCH]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MEATCH]-[BUSD] Cake LP
+Unstake 0.00 [MEATCH]-[BUSD] Cake LP
+Claim 0.00 MEATCH ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[MEATCH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.93 TVL: $74.00
+MEATCH Price: $0.001476
+WBNB Price: $486.14
+Staked: 11.0605 Cake-LP ($21.38)
+MEATCH Per Week: 2527.31 ($3.73)
+APR: Day 2.49% Week 17.45% Year 907.35%
+You are staking 0.00 [MEATCH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MEATCH]-[WBNB] Cake LP
+Unstake 0.00 [MEATCH]-[WBNB] Cake LP
+Claim 0.00 MEATCH ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.83 TVL: $527,919,544.06
+WBNB Price: $486.14
+BUSD Price: $1.00
+Staked: 4.8152 Cake-LP ($239.95)
+MEATCH Per Week: 449.30 ($0.66)
+APR: Day 0.04% Week 0.28% Year 14.37%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 MEATCH ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,356,959.17
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+MEATCH Per Week: 449.30 ($0.66)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 MEATCH ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,315,014.52
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 9.4931 Cake-LP ($19.32)
+MEATCH Per Week: 449.30 ($0.66)
+APR: Day 0.49% Week 3.43% Year 178.48%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 MEATCH ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,918,419.01
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+MEATCH Per Week: 449.30 ($0.66)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 MEATCH ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+MEATCH
+ Price: $0.001476 Market Cap: $321.91 
+[%]
+Staked: 112690.2843 MEATCH ($166.31)
+MEATCH Per Week: 1404.06 ($2.07)
+APR: Day 0.18% Week 1.25% Year 64.79%
+You are staking 0.00 MEATCH ($0.00), 0.00% of the pool.
+Stake 0.00 MEATCH
+Unstake 0.00 MEATCH
+Claim 0.00 MEATCH ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+BUSD
+ Price: $1.00 Market Cap: $4,195,071,789.84 
+[%]
+Staked: 21.1200 BUSD ($21.09)
+MEATCH Per Week: 280.81 ($0.41)
+APR: Day 0.28% Week 1.97% Year 102.18%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 MEATCH ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+WBNB
+ Price: $486.14 Market Cap: $3,438,024,782.81 
+[%]
+Staked: 0.0285 WBNB ($13.88)
+MEATCH Per Week: 280.81 ($0.41)
+APR: Day 0.43% Week 2.99% Year 155.28%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 MEATCH ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 115.8121 USDT ($115.79)
+MEATCH Per Week: 280.81 ($0.41)
+APR: Day 0.05% Week 0.36% Year 18.61%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 MEATCH ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.0001 BTCB ($6.34)
+MEATCH Per Week: 280.81 ($0.41)
+APR: Day 0.93% Week 6.54% Year 339.93%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 MEATCH ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+ETH
+ Price: $3,331.38 Market Cap: $4,347,450,900.00 
+[%]
+Staked: 0.0000 ETH ($0.00)
+MEATCH Per Week: 280.81 ($0.41)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ETH ($0.00), NaN% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 MEATCH ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 34.1449 DAI ($34.14)
+MEATCH Per Week: 280.81 ($0.41)
+APR: Day 0.17% Week 1.21% Year 63.11%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 MEATCH ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,247,685.00 
+[%]
+Staked: 0.3104 USDC ($0.31)
+MEATCH Per Week: 280.81 ($0.41)
+APR: Day 19.09% Week 133.65% Year 6950.00%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 MEATCH ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+DOT
+ Price: $28.08 Market Cap: $393,119,999.86 
+[%]
+Staked: 0.0000 DOT ($0.00)
+MEATCH Per Week: 280.81 ($0.41)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DOT ($0.00), NaN% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 MEATCH ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+Cake
+ Price: $25.08 Market Cap: $10,436,558,468.11 
+[%]
+Staked: 0.2984 Cake ($7.48)
+MEATCH Per Week: 280.81 ($0.41)
+APR: Day 0.79% Week 5.54% Year 287.93%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 MEATCH ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+ADA
+ Price: $2.83 Market Cap: $792,400,000.00 
+[%]
+Staked: 0.0000 ADA ($0.00)
+MEATCH Per Week: 280.81 ($0.41)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ADA ($0.00), NaN% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 MEATCH ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+BUNNY
+ Price: $7.66 Market Cap: $85,062,867.46 
+[%]
+Staked: 0.0516 BUNNY ($0.40)
+MEATCH Per Week: 280.81 ($0.41)
+APR: Day 14.99% Week 104.91% Year 5455.39%
+You are staking 0.00 BUNNY ($0.00), 0.00% of the pool.
+Stake 0.00 BUNNY - Fee 4%
+Unstake 0.00 BUNNY
+Claim 0.00 MEATCH ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $667.91

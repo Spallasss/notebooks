@@ -1,0 +1,183 @@
+INFO  : https://glacierswap.org/farms/
+**********************************************************************************
+
+Mon Aug 23 2021 13:45:23 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 9 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WBNB]-[ICE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.74 TVL: $1,432.21
+WBNB Price: $483.84
+ICE Price: $0.000213
+Staked: 1930.2440 Cake-LP ($1,419.87)
+ICE Per Week: 725760.00 ($154.24)
+APR: Day 1.55% Week 10.86% Year 564.87%
+You are staking 0.00 [WBNB]-[ICE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[ICE] Cake LP
+Unstake 0.00 [WBNB]-[ICE] Cake LP
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[Cake]-[ICE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.18 TVL: $1,070.79
+Cake Price: $25.01
+ICE Price: $0.000213
+Staked: 839.0908 Cake-LP ($149.42)
+ICE Per Week: 241920.00 ($51.41)
+APR: Day 4.92% Week 34.41% Year 1789.27%
+You are staking 0.00 [Cake]-[ICE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[ICE] Cake LP
+Unstake 0.00 [Cake]-[ICE] Cake LP
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[BUSD]-[ICE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $344.07
+BUSD Price: $1.00
+ICE Price: $0.000213
+Staked: 9928.7248 Cake-LP ($342.71)
+ICE Per Week: 241920.00 ($51.41)
+APR: Day 2.14% Week 15.00% Year 780.10%
+You are staking 0.00 [BUSD]-[ICE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[ICE] Cake LP
+Unstake 0.00 [BUSD]-[ICE] Cake LP
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[ETH]-[ICE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.01 TVL: $1,606.05
+ETH Price: $3,321.41
+ICE Price: $0.000213
+Staked: 74.0770 Cake-LP ($148.90)
+ICE Per Week: 241920.00 ($51.41)
+APR: Day 4.93% Week 34.53% Year 1795.44%
+You are staking 0.00 [ETH]-[ICE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[ICE] Cake LP
+Unstake 0.00 [ETH]-[ICE] Cake LP
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WBNB]-[888] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $100.38 TVL: $30,244.76
+WBNB Price: $483.84
+888 Price: $4.74
+Staked: 1.2496 Cake-LP ($125.43)
+ICE Per Week: 80640.00 ($17.14)
+APR: Day 1.95% Week 13.66% Year 710.48%
+You are staking 0.00 [WBNB]-[888] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[888] Cake LP
+Unstake 0.00 [WBNB]-[888] Cake LP
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WBNB]-[BLIQ] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $202.14 TVL: $165,079.66
+WBNB Price: $483.84
+BLIQ Price: $17.61
+Staked: 2.0664 Cake-LP ($417.70)
+ICE Per Week: 80640.00 ($17.14)
+APR: Day 0.59% Week 4.10% Year 213.35%
+You are staking 0.00 [WBNB]-[BLIQ] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BLIQ] Cake LP
+Unstake 0.00 [WBNB]-[BLIQ] Cake LP
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[Fuel]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $399.55 TVL: $80,162.71
+Fuel Price: $52.46
+WBNB Price: $483.84
+Staked: 0.1806 Cake-LP ($72.16)
+ICE Per Week: 40320.00 ($8.57)
+APR: Day 1.70% Week 11.87% Year 617.46%
+You are staking 0.00 [Fuel]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Fuel]-[WBNB] Cake LP
+Unstake 0.00 [Fuel]-[WBNB] Cake LP
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[USDT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $72.24 TVL: $1,092,005.72
+USDT Price: $1.00
+WBNB Price: $483.84
+Staked: 8.4044 Cake-LP ($607.14)
+ICE Per Week: 40320.00 ($8.57)
+APR: Day 0.20% Week 1.41% Year 73.39%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+ICE
+ Price: $0.000213 Market Cap: $9,063.38 
+[%]
+Staked: 29513146.1251 ICE ($6,272.17)
+ICE Per Week: 322560.00 ($68.55)
+APR: Day 0.16% Week 1.09% Year 56.83%
+You are staking 0.00 ICE ($0.00), 0.00% of the pool.
+Stake 0.00 ICE
+Unstake 0.00 ICE
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $9,555.52

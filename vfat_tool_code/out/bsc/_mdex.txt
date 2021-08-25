@@ -1,0 +1,1007 @@
+INFO  : https://mdex.com
+*************************************************************************
+
+Mon Aug 23 2021 09:17:24 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 95 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+28 - 
+[USDT]-[BTCB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $447.04 TVL: $144,018,322.51
+USDT Price: $1.00
+BTCB Price: $49,954.00
+Staked: 322013.8289 MDEX LP ($143,952,334.97)
+MDX Per Week: 1174860.29 ($1,644,804.40)
+APR: Day 0.16% Week 1.14% Year 59.42%
+You are staking 0.00 [USDT]-[BTCB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BTCB] Uni LP
+Unstake 0.00 [USDT]-[BTCB] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+[ETH]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $116.71 TVL: $140,941,512.51
+ETH Price: $3,331.38
+USDT Price: $1.00
+Staked: 1207058.3736 MDEX LP ($140,879,165.80)
+MDX Per Week: 1200624.77 ($1,680,874.68)
+APR: Day 0.17% Week 1.19% Year 62.04%
+You are staking 0.00 [ETH]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[USDT] Uni LP
+Unstake 0.00 [ETH]-[USDT] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+[ETH]-[BTCB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $25,800.84 TVL: $80,244,309.11
+ETH Price: $3,331.38
+BTCB Price: $49,954.00
+Staked: 3109.3390 MDEX LP ($80,223,546.84)
+MDX Per Week: 221001.98 ($309,402.78)
+APR: Day 0.06% Week 0.39% Year 20.06%
+You are staking 0.00 [ETH]-[BTCB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BTCB] Uni LP
+Unstake 0.00 [ETH]-[BTCB] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+[USDT]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $44.24 TVL: $73,064,758.39
+USDT Price: $1.00
+WBNB Price: $486.14
+Staked: 1610932.1581 MDEX LP ($71,262,507.36)
+MDX Per Week: 728275.97 ($1,019,586.36)
+APR: Day 0.20% Week 1.43% Year 74.40%
+You are staking 0.00 [USDT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Uni LP
+Unstake 0.00 [USDT]-[WBNB] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+[USDT]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $201,135,108.42
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 100052358.6363 MDEX LP ($200,247,090.90)
+MDX Per Week: 423110.02 ($592,354.02)
+APR: Day 0.04% Week 0.30% Year 15.38%
+You are staking 0.00 [USDT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Uni LP
+Unstake 0.00 [USDT]-[BUSD] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+33 - 
+[USDT]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $103,071,633.33
+USDT Price: $1.00
+USDC Price: $1.00
+Staked: 51167960.2120 MDEX LP ($102,523,255.85)
+MDX Per Week: 270240.77 ($378,337.08)
+APR: Day 0.05% Week 0.37% Year 19.19%
+You are staking 0.00 [USDT]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] Uni LP
+Unstake 0.00 [USDT]-[USDC] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+34 - 
+[FIL]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $18.03 TVL: $4,701,367.30
+FIL Price: $80.96
+USDT Price: $1.00
+Staked: 258748.0532 MDEX LP ($4,664,868.61)
+MDX Per Week: 56109.31 ($78,553.04)
+APR: Day 0.24% Week 1.68% Year 87.56%
+You are staking 0.00 [FIL]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FIL]-[USDT] Uni LP
+Unstake 0.00 [FIL]-[USDT] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+35 - 
+[XRP]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.28 TVL: $6,759,788.01
+XRP Price: $1.29
+USDT Price: $1.00
+Staked: 2959289.4613 MDEX LP ($6,752,235.67)
+MDX Per Week: 41795.71 ($58,514.00)
+APR: Day 0.12% Week 0.87% Year 45.06%
+You are staking 0.00 [XRP]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XRP]-[USDT] Uni LP
+Unstake 0.00 [XRP]-[USDT] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+36 - 
+[LTC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $27.51 TVL: $7,381,604.38
+LTC Price: $187.89
+USDT Price: $1.00
+Staked: 268110.6249 MDEX LP ($7,375,089.64)
+MDX Per Week: 56109.31 ($78,553.04)
+APR: Day 0.15% Week 1.07% Year 55.39%
+You are staking 0.00 [LTC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LTC]-[USDT] Uni LP
+Unstake 0.00 [LTC]-[USDT] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+37 - 
+[DAI]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $6,768,844.00
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 3376434.6807 MDEX LP ($6,752,824.60)
+MDX Per Week: 20611.58 ($28,856.22)
+APR: Day 0.06% Week 0.43% Year 22.22%
+You are staking 0.00 [DAI]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDT] Uni LP
+Unstake 0.00 [DAI]-[USDT] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+38 - 
+[ADA]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.36 TVL: $6,533,025.71
+ADA Price: $2.83
+USDT Price: $1.00
+Staked: 1939077.1529 MDEX LP ($6,523,607.51)
+MDX Per Week: 40650.62 ($56,910.87)
+APR: Day 0.12% Week 0.87% Year 45.36%
+You are staking 0.00 [ADA]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[USDT] Uni LP
+Unstake 0.00 [ADA]-[USDT] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+39 - 
+[USDT]-[DOT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10.60 TVL: $4,433,433.45
+USDT Price: $1.00
+DOT Price: $28.08
+Staked: 417611.5025 MDEX LP ($4,425,569.14)
+MDX Per Week: 45803.52 ($64,124.93)
+APR: Day 0.21% Week 1.45% Year 75.35%
+You are staking 0.00 [USDT]-[DOT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[DOT] Uni LP
+Unstake 0.00 [USDT]-[DOT] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+40 - 
+[MDX]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.37 TVL: $12,199,812.34
+MDX Price: $1.40
+BUSD Price: $1.00
+Staked: 5122392.5520 MDEX LP ($12,143,979.94)
+MDX Per Week: 274248.58 ($383,948.01)
+APR: Day 0.45% Week 3.16% Year 164.40%
+You are staking 0.00 [MDX]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MDX]-[BUSD] Uni LP
+Unstake 0.00 [MDX]-[BUSD] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+41 - 
+[MDX]-[HMDX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.80 TVL: $1,736,222.77
+MDX Price: $1.40
+HMDX Price: $1.40
+Staked: 614513.6971 MDEX LP ($1,722,838.96)
+MDX Per Week: 21184.13 ($29,657.78)
+APR: Day 0.25% Week 1.72% Year 89.52%
+You are staking 0.00 [MDX]-[HMDX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MDX]-[HMDX] Uni LP
+Unstake 0.00 [MDX]-[HMDX] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+42 - 
+[MDX]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $52.22 TVL: $10,911,054.37
+MDX Price: $1.40
+WBNB Price: $486.14
+Staked: 207336.2946 MDEX LP ($10,828,040.35)
+MDX Per Week: 140845.82 ($197,184.15)
+APR: Day 0.26% Week 1.82% Year 94.69%
+You are staking 0.00 [MDX]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MDX]-[WBNB] Uni LP
+Unstake 0.00 [MDX]-[WBNB] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+43 - 
+[USDT]-[MDX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.37 TVL: $2,675,981.80
+USDT Price: $1.00
+MDX Price: $1.40
+Staked: 1111658.2490 MDEX LP ($2,635,180.01)
+MDX Per Week: 53819.14 ($75,346.79)
+APR: Day 0.41% Week 2.86% Year 148.68%
+You are staking 0.00 [USDT]-[MDX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[MDX] Uni LP
+Unstake 0.00 [USDT]-[MDX] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+46 - 
+[ETH]-[BETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6,541.01 TVL: $11,832,917.92
+ETH Price: $3,331.38
+BETH Price: $3,210.72
+Staked: 1807.8439 MDEX LP ($11,825,129.95)
+MDX Per Week: 12595.97 ($17,634.36)
+APR: Day 0.02% Week 0.15% Year 7.75%
+You are staking 0.00 [ETH]-[BETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BETH] Uni LP
+Unstake 0.00 [ETH]-[BETH] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+47 - 
+[BUSD]-[LINK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10.72 TVL: $1,249,561.68
+BUSD Price: $1.00
+LINK Price: $28.71
+Staked: 116148.7597 MDEX LP ($1,245,369.18)
+MDX Per Week: 14313.60 ($20,039.04)
+APR: Day 0.23% Week 1.61% Year 83.67%
+You are staking 0.00 [BUSD]-[LINK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[LINK] Uni LP
+Unstake 0.00 [BUSD]-[LINK] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+48 - 
+[EOS]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.73 TVL: $1,588,008.12
+EOS Price: $5.60
+BUSD Price: $1.00
+Staked: 335267.3284 MDEX LP ($1,586,477.97)
+MDX Per Week: 14313.60 ($20,039.04)
+APR: Day 0.18% Week 1.26% Year 65.68%
+You are staking 0.00 [EOS]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [EOS]-[BUSD] Uni LP
+Unstake 0.00 [EOS]-[BUSD] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+49 - 
+[UNI]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10.83 TVL: $1,188,908.13
+UNI Price: $29.36
+BUSD Price: $1.00
+Staked: 109716.7099 MDEX LP ($1,188,183.72)
+MDX Per Week: 14313.60 ($20,039.04)
+APR: Day 0.24% Week 1.69% Year 87.70%
+You are staking 0.00 [UNI]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UNI]-[BUSD] Uni LP
+Unstake 0.00 [UNI]-[BUSD] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+50 - 
+[SUSHI]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7.46 TVL: $1,435,367.13
+SUSHI Price: $13.93
+BUSD Price: $1.00
+Staked: 178754.1358 MDEX LP ($1,333,534.67)
+MDX Per Week: 14313.60 ($20,039.04)
+APR: Day 0.21% Week 1.50% Year 78.14%
+You are staking 0.00 [SUSHI]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SUSHI]-[BUSD] Uni LP
+Unstake 0.00 [SUSHI]-[BUSD] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+52 - 
+[USDT]-[HMDX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.37 TVL: $2,293,502.21
+USDT Price: $1.00
+HMDX Price: $1.40
+Staked: 968255.2589 MDEX LP ($2,292,202.07)
+MDX Per Week: 50383.87 ($70,537.42)
+APR: Day 0.44% Week 3.08% Year 160.02%
+You are staking 0.00 [USDT]-[HMDX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[HMDX] Uni LP
+Unstake 0.00 [USDT]-[HMDX] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+53 - 
+[WBNB]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $44.08 TVL: $17,836,008.29
+WBNB Price: $486.14
+BUSD Price: $1.00
+Staked: 404507.9500 MDEX LP ($17,829,964.61)
+MDX Per Week: 200962.94 ($281,348.12)
+APR: Day 0.23% Week 1.58% Year 82.05%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+54 - 
+[ETH]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,545.25 TVL: $25,664,975.59
+ETH Price: $3,331.38
+WBNB Price: $486.14
+Staked: 10078.9980 MDEX LP ($25,653,541.52)
+MDX Per Week: 110500.99 ($154,701.39)
+APR: Day 0.09% Week 0.60% Year 31.36%
+You are staking 0.00 [ETH]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Uni LP
+Unstake 0.00 [ETH]-[WBNB] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+55 - 
+[BTCB]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9,856.23 TVL: $15,178,246.77
+BTCB Price: $49,954.00
+WBNB Price: $486.14
+Staked: 1537.9424 MDEX LP ($15,158,317.11)
+MDX Per Week: 68705.28 ($96,187.39)
+APR: Day 0.09% Week 0.63% Year 33.00%
+You are staking 0.00 [BTCB]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Uni LP
+Unstake 0.00 [BTCB]-[WBNB] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+56 - 
+[Helmet]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $28.62 TVL: $515,779.05
+Helmet Price: $0.42
+WBNB Price: $486.14
+Staked: 17579.3942 MDEX LP ($503,209.05)
+MDX Per Week: 9733.25 ($13,626.55)
+APR: Day 0.39% Week 2.71% Year 140.81%
+You are staking 0.00 [Helmet]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Helmet]-[WBNB] Uni LP
+Unstake 0.00 [Helmet]-[WBNB] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+57 - 
+[AUTO]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $75.44 TVL: $2,345,147.28
+AUTO Price: $1,424.94
+BUSD Price: $1.00
+Staked: 30952.0733 MDEX LP ($2,335,169.88)
+MDX Per Week: 8015.62 ($11,221.86)
+APR: Day 0.07% Week 0.48% Year 24.99%
+You are staking 0.00 [AUTO]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AUTO]-[BUSD] Uni LP
+Unstake 0.00 [AUTO]-[BUSD] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+59 - 
+[XVS]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $12.24 TVL: $1,494,827.46
+XVS Price: $37.48
+BUSD Price: $1.00
+Staked: 122059.6580 MDEX LP ($1,493,817.00)
+MDX Per Week: 14313.60 ($20,039.04)
+APR: Day 0.19% Week 1.34% Year 69.76%
+You are staking 0.00 [XVS]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XVS]-[BUSD] Uni LP
+Unstake 0.00 [XVS]-[BUSD] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+60 - 
+[ALPACA]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.36 TVL: $199,593.12
+ALPACA Price: $1.40
+BUSD Price: $1.00
+Staked: 84189.0789 MDEX LP ($199,090.07)
+MDX Per Week: 4007.81 ($5,610.93)
+APR: Day 0.40% Week 2.82% Year 146.55%
+You are staking 0.00 [ALPACA]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALPACA]-[BUSD] Uni LP
+Unstake 0.00 [ALPACA]-[BUSD] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+61 - 
+[BELT]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8.71 TVL: $501,232.30
+BELT Price: $18.98
+BUSD Price: $1.00
+Staked: 57369.8393 MDEX LP ($499,569.78)
+MDX Per Week: 10878.34 ($15,229.67)
+APR: Day 0.44% Week 3.05% Year 158.52%
+You are staking 0.00 [BELT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BELT]-[BUSD] Uni LP
+Unstake 0.00 [BELT]-[BUSD] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+62 - 
+[Cake]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $221.14 TVL: $3,261,678.75
+Cake Price: $25.08
+WBNB Price: $486.14
+Staked: 14682.1963 MDEX LP ($3,246,870.36)
+MDX Per Week: 41795.71 ($58,514.00)
+APR: Day 0.26% Week 1.80% Year 93.71%
+You are staking 0.00 [Cake]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Uni LP
+Unstake 0.00 [Cake]-[WBNB] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+63 - 
+[INJ]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7.18 TVL: $456,081.16
+INJ Price: $12.92
+BUSD Price: $1.00
+Staked: 63313.4539 MDEX LP ($454,875.08)
+MDX Per Week: 7443.07 ($10,420.30)
+APR: Day 0.33% Week 2.29% Year 119.12%
+You are staking 0.00 [INJ]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [INJ]-[BUSD] Uni LP
+Unstake 0.00 [INJ]-[BUSD] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+64 - 
+[EPS]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.77 TVL: $342,410.88
+EPS Price: $0.78
+BUSD Price: $1.00
+Staked: 192296.6027 MDEX LP ($339,680.93)
+MDX Per Week: 7443.07 ($10,420.30)
+APR: Day 0.44% Week 3.07% Year 159.52%
+You are staking 0.00 [EPS]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [EPS]-[BUSD] Uni LP
+Unstake 0.00 [EPS]-[BUSD] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+65 - 
+[BCH]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,150.51 TVL: $2,613,355.82
+BCH Price: $680.67
+WBNB Price: $486.14
+Staked: 2165.0461 MDEX LP ($2,490,909.41)
+MDX Per Week: 14313.60 ($20,039.04)
+APR: Day 0.11% Week 0.80% Year 41.83%
+You are staking 0.00 [BCH]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BCH]-[WBNB] Uni LP
+Unstake 0.00 [BCH]-[WBNB] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+68 - 
+[FIL]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $397.07 TVL: $2,834,226.48
+FIL Price: $80.96
+WBNB Price: $486.14
+Staked: 7127.6115 MDEX LP ($2,830,192.35)
+MDX Per Week: 13741.06 ($19,237.48)
+APR: Day 0.10% Week 0.68% Year 35.35%
+You are staking 0.00 [FIL]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FIL]-[WBNB] Uni LP
+Unstake 0.00 [FIL]-[WBNB] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+72 - 
+[SXP]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $84.87 TVL: $952,183.56
+SXP Price: $3.70
+WBNB Price: $486.14
+Staked: 11172.4489 MDEX LP ($948,257.44)
+MDX Per Week: 13741.06 ($19,237.48)
+APR: Day 0.29% Week 2.03% Year 105.49%
+You are staking 0.00 [SXP]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SXP]-[WBNB] Uni LP
+Unstake 0.00 [SXP]-[WBNB] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+76 - 
+[BETH]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,501.67 TVL: $3,602,765.48
+BETH Price: $3,210.72
+WBNB Price: $486.14
+Staked: 1439.9039 MDEX LP ($3,602,165.59)
+MDX Per Week: 21184.13 ($29,657.78)
+APR: Day 0.12% Week 0.82% Year 42.81%
+You are staking 0.00 [BETH]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BETH]-[WBNB] Uni LP
+Unstake 0.00 [BETH]-[WBNB] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+77 - 
+[ETH]-[MDX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $136.59 TVL: $2,778,186.08
+ETH Price: $3,331.38
+MDX Price: $1.40
+Staked: 20245.5199 MDEX LP ($2,765,275.19)
+MDX Per Week: 52674.05 ($73,743.67)
+APR: Day 0.38% Week 2.67% Year 138.67%
+You are staking 0.00 [ETH]-[MDX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[MDX] Uni LP
+Unstake 0.00 [ETH]-[MDX] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+78 - 
+[BTCB]-[MDX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $528.91 TVL: $3,317,441.20
+BTCB Price: $49,954.00
+MDX Price: $1.40
+Staked: 6268.5173 MDEX LP ($3,315,505.82)
+MDX Per Week: 53246.59 ($74,545.23)
+APR: Day 0.32% Week 2.25% Year 116.92%
+You are staking 0.00 [BTCB]-[MDX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[MDX] Uni LP
+Unstake 0.00 [BTCB]-[MDX] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+79 - 
+[USDT]-[DOGE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $114,088.67 TVL: $3,735,216.76
+USDT Price: $1.00
+DOGE Price: $0.33
+Staked: 32.6705 MDEX LP ($3,727,333.27)
+MDX Per Week: 42368.26 ($59,315.56)
+APR: Day 0.23% Week 1.59% Year 82.75%
+You are staking 0.00 [USDT]-[DOGE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[DOGE] Uni LP
+Unstake 0.00 [USDT]-[DOGE] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+80 - 
+[USDT]-[BRY] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.20 TVL: $140,001.11
+USDT Price: $1.00
+BRY Price: $1.21
+Staked: 63109.7470 MDEX LP ($138,895.56)
+MDX Per Week: 5152.90 ($7,214.05)
+APR: Day 0.74% Week 5.19% Year 270.08%
+You are staking 0.00 [USDT]-[BRY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BRY] Uni LP
+Unstake 0.00 [USDT]-[BRY] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+81 - 
+[WATCH]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.45 TVL: $502,168.44
+WATCH Price: $0.53
+BUSD Price: $1.00
+Staked: 344072.5694 MDEX LP ($499,710.44)
+MDX Per Week: 7443.07 ($10,420.30)
+APR: Day 0.30% Week 2.09% Year 108.43%
+You are staking 0.00 [WATCH]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WATCH]-[BUSD] Uni LP
+Unstake 0.00 [WATCH]-[BUSD] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+82 - 
+[vBSWAP]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11.89 TVL: $95,518.04
+vBSWAP Price: $34.93
+BUSD Price: $1.00
+Staked: 7598.0307 MDEX LP ($90,319.68)
+MDX Per Week: 5152.90 ($7,214.05)
+APR: Day 1.14% Week 7.99% Year 415.34%
+You are staking 0.00 [vBSWAP]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [vBSWAP]-[BUSD] Uni LP
+Unstake 0.00 [vBSWAP]-[BUSD] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+83 - 
+[FRONT]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.37 TVL: $260,844.45
+FRONT Price: $1.40
+BUSD Price: $1.00
+Staked: 109621.4435 MDEX LP ($259,298.06)
+MDX Per Week: 5152.90 ($7,214.05)
+APR: Day 0.40% Week 2.78% Year 144.67%
+You are staking 0.00 [FRONT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FRONT]-[BUSD] Uni LP
+Unstake 0.00 [FRONT]-[BUSD] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+84 - 
+[DEGO]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6.77 TVL: $390,782.05
+DEGO Price: $11.27
+BUSD Price: $1.00
+Staked: 57618.0359 MDEX LP ($390,320.10)
+MDX Per Week: 9160.70 ($12,824.99)
+APR: Day 0.47% Week 3.29% Year 170.86%
+You are staking 0.00 [DEGO]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DEGO]-[BUSD] Uni LP
+Unstake 0.00 [DEGO]-[BUSD] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+85 - 
+[USDT]-[DEK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.27 TVL: $123,644.79
+USDT Price: $1.00
+DEK Price: $0.02
+Staked: 374265.3950 MDEX LP ($100,483.61)
+MDX Per Week: 5152.90 ($7,214.05)
+APR: Day 1.03% Week 7.18% Year 373.33%
+You are staking 0.00 [USDT]-[DEK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[DEK] Uni LP
+Unstake 0.00 [USDT]-[DEK] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+87 - 
+[USDT]-[BIFI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $71.15 TVL: $328,243.64
+USDT Price: $1.00
+BIFI Price: $1,261.28
+Staked: 4603.9894 MDEX LP ($327,581.18)
+MDX Per Week: 5725.44 ($8,015.62)
+APR: Day 0.35% Week 2.45% Year 127.24%
+You are staking 0.00 [USDT]-[BIFI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BIFI] Uni LP
+Unstake 0.00 [USDT]-[BIFI] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+88 - 
+[ACS]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $204.27 TVL: $1,603,000.84
+ACS Price: $21.46
+WBNB Price: $486.14
+Staked: 7843.7908 MDEX LP ($1,602,249.31)
+MDX Per Week: 7443.07 ($10,420.30)
+APR: Day 0.09% Week 0.65% Year 33.82%
+You are staking 0.00 [ACS]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ACS]-[WBNB] Uni LP
+Unstake 0.00 [ACS]-[WBNB] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+89 - 
+[FOR]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $12.23 TVL: $266,527.10
+FOR Price: $0.08
+WBNB Price: $486.14
+Staked: 20550.1105 MDEX LP ($251,250.43)
+MDX Per Week: 3435.26 ($4,809.37)
+APR: Day 0.27% Week 1.91% Year 99.54%
+You are staking 0.00 [FOR]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FOR]-[WBNB] Uni LP
+Unstake 0.00 [FOR]-[WBNB] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+91 - 
+[RABBIT]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.09 TVL: $1,582,255.95
+RABBIT Price: $0.30
+BUSD Price: $1.00
+Staked: 1430819.2721 MDEX LP ($1,556,425.91)
+MDX Per Week: 57826.94 ($80,957.72)
+APR: Day 0.74% Week 5.20% Year 270.48%
+You are staking 0.00 [RABBIT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RABBIT]-[BUSD] Uni LP
+Unstake 0.00 [RABBIT]-[BUSD] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+92 - 
+[USDT]-[HGT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.31 TVL: $177,987.06
+USDT Price: $1.00
+HGT Price: $0.02
+Staked: 531832.3650 MDEX LP ($162,293.85)
+MDX Per Week: 7443.07 ($10,420.30)
+APR: Day 0.92% Week 6.42% Year 333.87%
+You are staking 0.00 [USDT]-[HGT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[HGT] Uni LP
+Unstake 0.00 [USDT]-[HGT] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+94 - 
+[COW]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.71 TVL: $3,112,032.43
+COW Price: $1.84
+USDT Price: $1.00
+Staked: 540121.6921 MDEX LP ($1,466,168.32)
+MDX Per Week: 21756.67 ($30,459.34)
+APR: Day 0.30% Week 2.08% Year 108.03%
+You are staking 0.00 [COW]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COW]-[USDT] Uni LP
+Unstake 0.00 [COW]-[USDT] Uni LP
+Claim NaN MDX ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $916,621,774.61

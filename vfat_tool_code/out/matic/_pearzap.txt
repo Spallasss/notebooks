@@ -1,0 +1,183 @@
+INFO  : https://pearzap.com
+*****************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:32:07 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 13 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WMATIC]-[PEAR] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.23 TVL: $1,465,976.50
+WMATIC Price: $1.64
+PEAR Price: $0.62
+Staked: 640035.9081 WLP ($1,428,720.10)
+PEAR Per Week: 505447.90 ($312,869.91)
+APR: Day 3.13% Week 21.90% Year 1138.73%
+You are staking 0.00 [WMATIC]-[PEAR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PEAR] Uni LP
+Unstake 0.00 [WMATIC]-[PEAR] Uni LP
+Claim 0.00 PEAR ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[USDC]-[PEAR] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,771,313.73 TVL: $1,050,780.07
+USDC Price: $1.00
+PEAR Price: $0.62
+Staked: 0.5803 WLP ($1,027,829.60)
+PEAR Per Week: 379085.92 ($234,652.43)
+APR: Day 3.26% Week 22.83% Year 1187.15%
+You are staking 0.00 [USDC]-[PEAR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[PEAR] Uni LP
+Unstake 0.00 [USDC]-[PEAR] Uni LP
+Claim 0.00 PEAR ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+PEAR
+ Price: $0.62 Market Cap: $3,579,499.25 
+[%]
+Staked: 1025152.2344 PEAR ($634,564.48)
+PEAR Per Week: 126361.97 ($78,217.48)
+APR: Day 1.76% Week 12.33% Year 640.96%
+You are staking 0.00 PEAR ($0.00), 0.00% of the pool.
+Stake 0.00 PEAR
+Unstake 0.00 PEAR
+Claim 0.00 PEAR ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WMATIC
+ Price: $1.64 Market Cap: $602,065,723.02 
+[%]
+Staked: 1109204.3548 WMATIC ($1,819,095.14)
+PEAR Per Week: 29484.46 ($18,250.74)
+APR: Day 0.14% Week 1.00% Year 52.17%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 3.99%
+Unstake 0.00 WMATIC
+Claim 0.00 PEAR ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WETH
+ Price: $3,325.94 Market Cap: $2,028,181,827.59 
+[%]
+Staked: 466.6347 WETH ($1,551,999.16)
+PEAR Per Week: 21060.33 ($13,036.25)
+APR: Day 0.12% Week 0.84% Year 43.68%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 3.99%
+Unstake 0.00 WETH
+Claim 0.00 PEAR ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WBTC
+ Price: $50,099.00 Market Cap: $698,272,709.58 
+[%]
+Staked: 23.8066 WBTC ($1,192,685.37)
+PEAR Per Week: 21060.33 ($13,036.25)
+APR: Day 0.16% Week 1.09% Year 56.84%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 3.99%
+Unstake 0.00 WBTC
+Claim 0.00 PEAR ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WEXpoly
+ Price: $0.00 Market Cap: $0.00 
+Staked: 144009781.6213 WEXpoly ($0.00)
+PEAR Per Week: 12636.20 ($7,821.75)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WEXpoly ($0.00), NaN% of the pool.
+Stake 0.00 WEXpoly - Fee 2.99%
+Unstake 0.00 WEXpoly
+Claim 0.00 PEAR ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+USDT
+ Price: $1.00 Market Cap: $314,915,935.86 
+[%]
+Staked: 840691.2327 USDT ($839,726.12)
+PEAR Per Week: 12636.20 ($7,821.75)
+APR: Day 0.13% Week 0.93% Year 48.44%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4.99%
+Unstake 0.00 USDT
+Claim 0.00 PEAR ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+USDC
+ Price: $1.00 Market Cap: $1,043,373,235.74 
+[%]
+Staked: 787407.7024 USDC ($786,802.97)
+PEAR Per Week: 12636.20 ($7,821.75)
+APR: Day 0.14% Week 0.99% Year 51.69%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4.99%
+Unstake 0.00 USDC
+Claim 0.00 PEAR ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+LINK
+ Price: $28.63 Market Cap: $64,968,168.31 
+[%]
+Staked: 30575.7593 LINK ($875,383.99)
+PEAR Per Week: 12636.20 ($7,821.75)
+APR: Day 0.13% Week 0.89% Year 46.46%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 3.99%
+Unstake 0.00 LINK
+Claim 0.00 PEAR ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+BNB
+ Price: $0.00 Market Cap: $0.00 
+Staked: 699.0267 BNB ($0.00)
+PEAR Per Week: 8424.13 ($5,214.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BNB ($0.00), NaN% of the pool.
+Stake 0.00 BNB - Fee 3.99%
+Unstake 0.00 BNB
+Claim 0.00 PEAR ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WMATIC]-[PEAR] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.12 TVL: $55,187.63
+WMATIC Price: $1.64
+PEAR Price: $0.62
+Staked: 14751.3927 APE-LP ($31,321.36)
+PEAR Per Week: 10530.16 ($6,518.12)
+APR: Day 2.97% Week 20.81% Year 1082.14%
+You are staking 0.00 [WMATIC]-[PEAR] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PEAR] APE LP
+Unstake 0.00 [WMATIC]-[PEAR] APE LP
+Claim 0.00 PEAR ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $10,188,128.31

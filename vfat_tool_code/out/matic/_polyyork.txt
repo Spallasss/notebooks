@@ -1,0 +1,375 @@
+INFO  : https://polyyork.finance/
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:39:42 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 26 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[York]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $28,996,249.79 TVL: $233.85
+York Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($23.26)
+YORK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [York]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [York]-[USDT] Uni LP
+Unstake 0.00 [York]-[USDT] Uni LP
+Claim 0.00 YORK ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[York] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.79 TVL: $291.60
+WMATIC Price: $1.64
+York Price: $1.00
+Staked: 29.7500 UNI-V2 ($112.76)
+YORK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[York] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[York] Uni LP
+Unstake 0.00 [WMATIC]-[York] Uni LP
+Claim 0.00 YORK ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[York]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $129.27 TVL: $67.74
+York Price: $1.00
+WETH Price: $3,323.71
+Staked: 0.4958 UNI-V2 ($64.09)
+YORK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [York]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [York]-[WETH] Uni LP
+Unstake 0.00 [York]-[WETH] Uni LP
+Claim 0.00 YORK ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[York]-[AAVE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $43.74 TVL: $21.50
+York Price: $1.00
+AAVE Price: $408.36
+Staked: 0.4386 UNI-V2 ($19.19)
+YORK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [York]-[AAVE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [York]-[AAVE] Uni LP
+Unstake 0.00 [York]-[AAVE] Uni LP
+Claim 0.00 YORK ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[York]-[DMA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $16.60 TVL: $61.77
+York Price: $1.00
+DMA Price: $59.23
+Staked: 3.4507 UNI-V2 ($57.28)
+YORK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [York]-[DMA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [York]-[DMA] Uni LP
+Unstake 0.00 [York]-[DMA] Uni LP
+Claim 0.00 YORK ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[USDC]-[DMA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $16,942,062.36 TVL: $1,477.06
+USDC Price: $1.00
+DMA Price: $59.23
+Staked: 0.0000 UNI-V2 ($0.00)
+YORK Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [USDC]-[DMA] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[DMA] Uni LP - Fee 2%
+Unstake 0.00 [USDC]-[DMA] Uni LP
+Claim 0.00 YORK ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,603,890.43 TVL: $33,311,733.26
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($4.42)
+YORK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 YORK ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,853,697.77 TVL: $148,122,425.63
+USDC Price: $1.00
+WETH Price: $3,323.71
+Staked: 0.0000 UNI-V2 ($219.40)
+YORK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 YORK ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[USDC]-[AAVE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $769,356,372.65 TVL: $68,447.14
+USDC Price: $1.00
+AAVE Price: $408.36
+Staked: 0.0000 UNI-V2 ($2.76)
+YORK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[AAVE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[AAVE] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[AAVE] Uni LP
+Claim 0.00 YORK ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+York
+ Price: $1.00 Market Cap: $31,096.61 
+[%]
+Staked: 1567.8432 York ($1,567.47)
+YORK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 York ($0.00), 0.00% of the pool.
+Stake 0.00 York
+Unstake 0.00 York
+Claim 0.00 YORK ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+DMA
+ Price: $59.23 Market Cap: $11,845.89 
+[%]
+Staked: 0.0000 DMA ($0.00)
+YORK Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DMA ($0.00), NaN% of the pool.
+Stake 0.00 DMA - Fee 4%
+Unstake 0.00 DMA
+Claim 0.00 YORK ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+WMATIC
+ Price: $1.64 Market Cap: $603,004,722.99 
+[%]
+Staked: 15.8608 WMATIC ($26.01)
+YORK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 YORK ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+QUICK
+ Price: $726.68 Market Cap: $695,626,548.29 
+[%]
+Staked: 0.3095 QUICK ($224.92)
+YORK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 YORK ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+WETH
+ Price: $3,323.71 Market Cap: $2,026,584,837.74 
+[%]
+Staked: 0.0000 WETH ($0.00)
+YORK Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WETH ($0.00), NaN% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 YORK ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+WBTC
+ Price: $50,069.00 Market Cap: $697,854,573.87 
+[%]
+Staked: 0.0000 WBTC ($0.00)
+YORK Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WBTC ($0.00), NaN% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 YORK ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+AAVE
+ Price: $408.36 Market Cap: $155,309,344.27 
+[%]
+Staked: 0.2894 AAVE ($118.17)
+YORK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 YORK ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+GHST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 GHST ($0.00)
+YORK Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 GHST ($0.00), NaN% of the pool.
+Stake 0.00 GHST - Fee 4%
+Unstake 0.00 GHST
+Claim 0.00 YORK ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+DAI
+ Price: $1.00 Market Cap: $376,567,350.39 
+[%]
+Staked: 664.5976 DAI ($663.88)
+YORK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 YORK ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+USDC
+ Price: $1.00 Market Cap: $1,042,807,327.83 
+[%]
+Staked: 532.8000 USDC ($532.10)
+YORK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 YORK ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+USDT
+ Price: $1.00 Market Cap: $314,975,208.11 
+[%]
+Staked: 130.0750 USDT ($129.95)
+YORK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 YORK ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[York]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $16,341,987.99 TVL: $18,288.18
+York Price: $1.00
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($79.93)
+YORK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [York]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [York]-[USDC] Uni LP
+Unstake 0.00 [York]-[USDC] Uni LP
+Claim 0.00 YORK ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+LINK
+ Price: $28.61 Market Cap: $64,922,783.63 
+[%]
+Staked: 0.9600 LINK ($27.47)
+YORK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 YORK ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+PUP
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0043 PUP ($0.00)
+YORK Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 PUP ($0.00), NaN% of the pool.
+Stake 0.00 PUP - Fee 4%
+Unstake 0.00 PUP
+Claim 0.00 YORK ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+CRYSTL
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 CRYSTL ($0.00)
+YORK Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CRYSTL ($0.00), NaN% of the pool.
+Stake 0.00 CRYSTL - Fee 4%
+Unstake 0.00 CRYSTL
+Claim 0.00 YORK ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $3,873.06

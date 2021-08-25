@@ -1,0 +1,299 @@
+INFO  : https://www.polycake.finance
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:11:34 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 23 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[PCAKE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $176,432.53 TVL: $5,044.03
+USDC Price: $1.00
+PCAKE Price: $0.005121
+Staked: 0.0277 UNI-V2 ($4,887.38)
+PCAKE Per Week: 24303.80 ($124.45)
+APR: Day 0.36% Week 2.55% Year 132.41%
+You are staking 0.00 [USDC]-[PCAKE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[PCAKE] Uni LP
+Unstake 0.00 [USDC]-[PCAKE] Uni LP
+Claim 0.00 PCAKE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[PCAKE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.22 TVL: $3,834.33
+WMATIC Price: $1.66
+PCAKE Price: $0.005121
+Staked: 17143.0226 UNI-V2 ($3,688.07)
+PCAKE Per Week: 18227.85 ($93.34)
+APR: Day 0.36% Week 2.53% Year 131.60%
+You are staking 0.00 [WMATIC]-[PCAKE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PCAKE] Uni LP
+Unstake 0.00 [WMATIC]-[PCAKE] Uni LP
+Claim 0.00 PCAKE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $163,063,272.74 TVL: $148,341,024.21
+USDC Price: $1.00
+WETH Price: $3,335.26
+Staked: 0.0000 UNI-V2 ($828.49)
+PCAKE Per Week: 9113.92 ($46.67)
+APR: Day 0.80% Week 5.63% Year 292.92%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 3%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 PCAKE ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,629,729.21 TVL: $33,515,485.53
+WMATIC Price: $1.66
+USDC Price: $1.00
+Staked: 0.0005 UNI-V2 ($2,406.64)
+PCAKE Per Week: 9113.92 ($46.67)
+APR: Day 0.28% Week 1.94% Year 100.84%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 3%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 PCAKE ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+PCAKE
+ Price: $0.005121 Market Cap: $10,561.61 
+[%]
+Staked: 744250.0320 PCAKE ($3,811.05)
+PCAKE Per Week: 6075.95 ($31.11)
+APR: Day 0.12% Week 0.82% Year 42.45%
+You are staking 0.00 PCAKE ($0.00), 0.00% of the pool.
+Stake 0.00 PCAKE
+Unstake 0.00 PCAKE
+Claim 0.00 PCAKE ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WMATIC
+ Price: $1.66 Market Cap: $609,109,515.45 
+[%]
+Staked: 6818.3266 WMATIC ($11,318.42)
+PCAKE Per Week: 4556.96 ($23.33)
+APR: Day 0.03% Week 0.21% Year 10.72%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 PCAKE ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WBTC
+ Price: $50,241.00 Market Cap: $701,001,262.14 
+[%]
+Staked: 0.0036 WBTC ($180.59)
+PCAKE Per Week: 4556.96 ($23.33)
+APR: Day 1.85% Week 12.92% Year 671.92%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 PCAKE ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WETH
+ Price: $3,335.26 Market Cap: $2,036,346,200.28 
+[%]
+Staked: 1.1508 WETH ($3,838.26)
+PCAKE Per Week: 4556.96 ($23.33)
+APR: Day 0.09% Week 0.61% Year 31.61%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 PCAKE ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+USDC
+ Price: $1.00 Market Cap: $1,045,956,725.05 
+[%]
+Staked: 6908.5183 USDC ($6,893.34)
+PCAKE Per Week: 3949.37 ($20.22)
+APR: Day 0.04% Week 0.29% Year 15.26%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 PCAKE ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+USDT
+ Price: $1.00 Market Cap: $314,853,423.03 
+[%]
+Staked: 2998.8268 USDT ($2,995.83)
+PCAKE Per Week: 3949.37 ($20.22)
+APR: Day 0.10% Week 0.68% Year 35.10%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 PCAKE ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+DAI
+ Price: $1.00 Market Cap: $376,285,421.53 
+[%]
+Staked: 11032.7907 DAI ($11,032.79)
+PCAKE Per Week: 3949.37 ($20.22)
+APR: Day 0.03% Week 0.18% Year 9.53%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 PCAKE ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+QUICK
+ Price: $743.26 Market Cap: $711,498,029.78 
+[%]
+Staked: 1.6230 QUICK ($1,206.32)
+PCAKE Per Week: 2430.38 ($12.45)
+APR: Day 0.15% Week 1.03% Year 53.65%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 PCAKE ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[PolyDoge]-[PCAKE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $534.59
+PolyDoge Price: $0.0000000063
+PCAKE Price: $0.005121
+Staked: 37138349.9460 UNI-V2 ($472.84)
+PCAKE Per Week: 12151.90 ($62.23)
+APR: Day 1.88% Week 13.16% Year 684.31%
+You are staking 0.00 [PolyDoge]-[PCAKE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PolyDoge]-[PCAKE] Uni LP - Fee 3%
+Unstake 0.00 [PolyDoge]-[PCAKE] Uni LP
+Claim 0.00 PCAKE ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+LINK
+ Price: $28.87 Market Cap: $65,512,784.46 
+[%]
+Staked: 410.5186 LINK ($11,851.67)
+PCAKE Per Week: 3949.37 ($20.22)
+APR: Day 0.02% Week 0.17% Year 8.87%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 PCAKE ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+AAVE
+ Price: $411.18 Market Cap: $156,525,774.80 
+[%]
+Staked: 2.8315 AAVE ($1,164.26)
+PCAKE Per Week: 3949.37 ($20.22)
+APR: Day 0.25% Week 1.74% Year 90.32%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 PCAKE ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[WMATIC]-[PolyMoon] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.72 TVL: $60,086.51
+WMATIC Price: $1.66
+PolyMoon Price: $0.0000000001
+Staked: 1243.9950 UNI-V2 ($900.91)
+PCAKE Per Week: 12151.90 ($62.23)
+APR: Day 0.99% Week 6.91% Year 359.16%
+You are staking 0.00 [WMATIC]-[PolyMoon] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PolyMoon] Uni LP - Fee 3%
+Unstake 0.00 [WMATIC]-[PolyMoon] Uni LP
+Claim 0.00 PCAKE ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+PolyMoon
+ Price: $0.0000000001 Market Cap: $72,017.29 
+[%]
+Staked: 2199277868490.5044 PolyMoon ($158.39)
+PCAKE Per Week: 4556.96 ($23.33)
+APR: Day 2.10% Week 14.73% Year 766.10%
+You are staking 0.00 PolyMoon ($0.00), 0.00% of the pool.
+Stake 0.00 PolyMoon - Fee 4%
+Unstake 0.00 PolyMoon
+Claim 0.00 PCAKE ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+ELK
+ Price: $0.00 Market Cap: $0.00 
+Staked: 3081.4048 ELK ($0.00)
+PCAKE Per Week: 3949.37 ($20.22)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ELK ($0.00), NaN% of the pool.
+Stake 0.00 ELK - Fee 4%
+Unstake 0.00 ELK
+Claim 0.00 PCAKE ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+miMATIC
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1095.7966 miMATIC ($0.00)
+PCAKE Per Week: 3949.37 ($20.22)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 miMATIC ($0.00), NaN% of the pool.
+Stake 0.00 miMATIC - Fee 4%
+Unstake 0.00 miMATIC
+Claim 0.00 PCAKE ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+gNFT
+ Price: $0.00 Market Cap: $0.00 
+Staked: 415.7358 gNFT ($0.00)
+PCAKE Per Week: 4556.96 ($23.33)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 gNFT ($0.00), NaN% of the pool.
+Stake 0.00 gNFT - Fee 4%
+Unstake 0.00 gNFT
+Claim 0.00 PCAKE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $67,635.27

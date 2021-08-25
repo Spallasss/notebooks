@@ -1,0 +1,370 @@
+INFO  : https://community.worldswap.finance
+********************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:19:40 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 21 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[COMMUNITY] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $124,894.24 TVL: $22.86
+USDC Price: $1.00
+COMMUNITY Price: $0.002879
+Staked: 0.0002 UNI-V2 ($21.86)
+COMMUNITY Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[COMMUNITY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[COMMUNITY] Uni LP
+Unstake 0.00 [USDC]-[COMMUNITY] Uni LP
+Claim 0.00 COMMUNITY ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[COMMUNITY] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.15 TVL: $320.50
+WMATIC Price: $1.64
+COMMUNITY Price: $0.002879
+Staked: 12.9042 UNI-V2 ($1.93)
+COMMUNITY Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[COMMUNITY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[COMMUNITY] Uni LP
+Unstake 0.00 [WMATIC]-[COMMUNITY] Uni LP
+Claim 0.00 COMMUNITY ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,603,231.04 TVL: $33,307,014.29
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+COMMUNITY Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 COMMUNITY ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,563,123,766,921.86 TVL: $34,038,109.56
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+COMMUNITY Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 COMMUNITY ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $74,919,038.27 TVL: $21,373,040.93
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.07)
+COMMUNITY Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 COMMUNITY ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WMATIC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $188.39 TVL: $122,581,496.68
+WMATIC Price: $1.64
+WETH Price: $3,321.47
+Staked: 0.0000 UNI-V2 ($0.00)
+COMMUNITY Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 COMMUNITY ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[WMATIC]-[WBTC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,446,755,466,866.63 TVL: $121,661.34
+WMATIC Price: $1.64
+WBTC Price: $50,036.00
+Staked: 0.0000 UNI-V2 ($0.00)
+COMMUNITY Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WMATIC]-[WBTC] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WMATIC]-[WBTC] Uni LP
+Unstake 0.00 [WMATIC]-[WBTC] Uni LP
+Claim 0.00 COMMUNITY ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[WBTC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,289,887,259,131.53 TVL: $97,642,310.66
+WBTC Price: $50,036.00
+WETH Price: $3,321.47
+Staked: 0.0000 UNI-V2 ($0.00)
+COMMUNITY Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WBTC]-[WETH] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBTC]-[WETH] Uni LP
+Unstake 0.00 [WBTC]-[WETH] Uni LP
+Claim 0.00 COMMUNITY ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[WMATIC]-[QuickChart] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,775.25 TVL: $331,430.35
+WMATIC Price: $1.64
+QuickChart Price: $0.000381
+Staked: 0.0000 UNI-V2 ($0.00)
+COMMUNITY Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WMATIC]-[QuickChart] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WMATIC]-[QuickChart] Uni LP
+Unstake 0.00 [WMATIC]-[QuickChart] Uni LP
+Claim 0.00 COMMUNITY ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[WMATIC]-[HAN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.54 TVL: $5,317.38
+WMATIC Price: $1.64
+HAN Price: $0.04
+Staked: 435.8954 UNI-V2 ($237.06)
+COMMUNITY Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[HAN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[HAN] Uni LP
+Unstake 0.00 [WMATIC]-[HAN] Uni LP
+Claim 0.00 COMMUNITY ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[WMATIC]-[DPS] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.49 TVL: $22,444.56
+WMATIC Price: $1.64
+DPS Price: $0.27
+Staked: 12.1995 UNI-V2 ($18.17)
+COMMUNITY Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[DPS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[DPS] Uni LP
+Unstake 0.00 [WMATIC]-[DPS] Uni LP
+Claim 0.00 COMMUNITY ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[WMATIC]-[MORDOR] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.66 TVL: $1,229.76
+WMATIC Price: $1.64
+MORDOR Price: $0.04
+Staked: 0.0000 UNI-V2 ($0.00)
+COMMUNITY Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WMATIC]-[MORDOR] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WMATIC]-[MORDOR] Uni LP
+Unstake 0.00 [WMATIC]-[MORDOR] Uni LP
+Claim 0.00 COMMUNITY ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WMATIC]-[SIN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.17 TVL: $821.12
+WMATIC Price: $1.64
+SIN Price: $0.002853
+Staked: 515.4288 UNI-V2 ($86.52)
+COMMUNITY Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[SIN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[SIN] Uni LP
+Unstake 0.00 [WMATIC]-[SIN] Uni LP
+Claim 0.00 COMMUNITY ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WMATIC]-[HND] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.10 TVL: $787.77
+WMATIC Price: $1.64
+HND Price: $0.001349
+Staked: 1270.6658 UNI-V2 ($131.99)
+COMMUNITY Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[HND] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[HND] Uni LP
+Unstake 0.00 [WMATIC]-[HND] Uni LP
+Claim 0.00 COMMUNITY ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+COMMUNITY
+ Price: $0.002879 Market Cap: $367.88 
+[%]
+Staked: 16615.6841 COMMUNITY ($47.84)
+COMMUNITY Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 COMMUNITY ($0.00), 0.00% of the pool.
+Stake 0.00 COMMUNITY
+Unstake 0.00 COMMUNITY
+Claim 0.00 COMMUNITY ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+WMATIC
+ Price: $1.64 Market Cap: $601,840,598.39 
+[%]
+Staked: 420.0001 WMATIC ($688.80)
+COMMUNITY Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC
+Unstake 0.00 WMATIC
+Claim 0.00 COMMUNITY ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+USDC
+ Price: $1.00 Market Cap: $1,046,750,536.29 
+[%]
+Staked: 2.8736 USDC ($2.87)
+COMMUNITY Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC
+Unstake 0.00 USDC
+Claim 0.00 COMMUNITY ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+WBTC
+ Price: $50,036.00 Market Cap: $697,444,660.58 
+[%]
+Staked: 0.0000 WBTC ($0.00)
+COMMUNITY Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WBTC ($0.00), NaN% of the pool.
+Stake 0.00 WBTC
+Unstake 0.00 WBTC
+Claim 0.00 COMMUNITY ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+WETH
+ Price: $3,321.47 Market Cap: $2,028,762,111.88 
+[%]
+Staked: 0.1454 WETH ($482.87)
+COMMUNITY Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH
+Unstake 0.00 WETH
+Claim 0.00 COMMUNITY ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+USDT
+ Price: $1.00 Market Cap: $314,846,345.41 
+[%]
+Staked: 0.0000 USDT ($0.00)
+COMMUNITY Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 USDT ($0.00), NaN% of the pool.
+Stake 0.00 USDT
+Unstake 0.00 USDT
+Claim 0.00 COMMUNITY ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+DAI
+ Price: $1.00 Market Cap: $375,664,195.61 
+[%]
+Staked: 0.0000 DAI ($0.00)
+COMMUNITY Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DAI ($0.00), NaN% of the pool.
+Stake 0.00 DAI
+Unstake 0.00 DAI
+Claim 0.00 COMMUNITY ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,719.98

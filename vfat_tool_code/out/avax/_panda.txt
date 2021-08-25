@@ -1,7 +1,7 @@
 INFO  : https://pandaswap.exchange
 **********************************************************************************
 
-Tue Jul 13 2021 23:51:41 GMT+0530 (India Standard Time)
+Mon Aug 23 2021 13:13:43 GMT+0530 (India Standard Time)
 [CHANGE WALLET]
  -=- 
 [CLEAR BROWSER STORAGE]
@@ -18,8 +18,8 @@ Finished reading smart contracts.
 0 - 
 sBAMBOO-V2
  Price: $0.00 Market Cap: $0.00 
-Staked: 50927628.4759 sBAMBOO-V2 ($0.00)
-BAMBOO Per Week: 346937.53 ($80.03)
+Staked: 63887698.0482 sBAMBOO-V2 ($0.00)
+BAMBOO Per Week: 1684491.98 ($192.80)
 APR: Day NaN% Week NaN% Year NaN%
 You are staking 0.00 sBAMBOO-V2 ($0.00), NaN% of the pool.
 Stake 0.00 sBAMBOO-V2
@@ -34,12 +34,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $0.11 TVL: $1,287.37
-BAMBOO-V2 Price: $0.000231
-WAVAX Price: $12.34
-Staked: 11396.2598 PGL ($1,287.36)
-BAMBOO Per Week: 277550.02 ($64.02)
-APR: Day 0.71% Week 4.97% Year 258.60%
+ Price: $0.16 TVL: $1,658.83
+BAMBOO-V2 Price: $0.000114
+WAVAX Price: $49.33
+Staked: 10369.9069 PGL ($1,658.82)
+BAMBOO Per Week: 1347593.58 ($154.24)
+APR: Day 1.33% Week 9.30% Year 483.50%
 You are staking 0.00 [BAMBOO-V2]-[WAVAX] PGL ($0.00), 0.00% of the pool.
 Stake 0.00 [BAMBOO-V2]-[WAVAX] PGL
 Unstake 0.00 [BAMBOO-V2]-[WAVAX] PGL
@@ -53,12 +53,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $0.12 TVL: $8,791.37
-BAMBOO-V2 Price: $0.000231
-WAVAX Price: $12.34
-Staked: 73041.2765 PLP ($8,545.39)
-BAMBOO Per Week: 451018.78 ($104.03)
-APR: Day 0.17% Week 1.22% Year 63.31%
+ Price: $0.17 TVL: $2,484.18
+BAMBOO-V2 Price: $0.000114
+WAVAX Price: $49.33
+Staked: 13399.5462 PLP ($2,230.64)
+BAMBOO Per Week: 2189839.57 ($250.64)
+APR: Day 1.61% Week 11.24% Year 584.28%
 You are staking 0.00 [BAMBOO-V2]-[WAVAX] Pure Swap LP ($0.00), 0.00% of the pool.
 Stake 0.00 [BAMBOO-V2]-[WAVAX] Pure Swap LP
 Unstake 0.00 [BAMBOO-V2]-[WAVAX] Pure Swap LP
@@ -72,12 +72,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $1.41 TVL: $2,044.00
-BAMBOO-V2 Price: $0.000231
-ETH Price: $2,091.17
-Staked: 1184.4708 PLP ($1,672.18)
-BAMBOO Per Week: 451018.78 ($104.03)
-APR: Day 0.89% Week 6.22% Year 323.52%
+ Price: $1.62 TVL: $768.41
+BAMBOO-V2 Price: $0.000114
+ETH Price: $5,526.95
+Staked: 210.3624 PLP ($340.88)
+BAMBOO Per Week: 2189839.57 ($250.64)
+APR: Day 10.50% Week 73.53% Year 3823.39%
 You are staking 0.00 [BAMBOO-V2]-[ETH] Pure Swap LP ($0.00), 0.00% of the pool.
 Stake 0.00 [BAMBOO-V2]-[ETH] Pure Swap LP
 Unstake 0.00 [BAMBOO-V2]-[ETH] Pure Swap LP
@@ -91,12 +91,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $560,714.34 TVL: $1,045.24
-WBTC Price: $33,129.36
-BAMBOO-V2 Price: $0.000231
-Staked: 0.0019 PLP ($1,039.22)
-BAMBOO Per Week: 277550.02 ($64.02)
-APR: Day 0.88% Week 6.16% Year 320.34%
+ Price: $583,919.84 TVL: $634.32
+WBTC Price: $72,100.71
+BAMBOO-V2 Price: $0.000114
+Staked: 0.0011 PLP ($627.68)
+BAMBOO Per Week: 1347593.58 ($154.24)
+APR: Day 3.51% Week 24.57% Year 1277.80%
 You are staking 0.00 [WBTC]-[BAMBOO-V2] Pure Swap LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WBTC]-[BAMBOO-V2] Pure Swap LP
 Unstake 0.00 [WBTC]-[BAMBOO-V2] Pure Swap LP
@@ -110,12 +110,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $0.13 TVL: $5,853.09
-BAMBOO-V2 Price: $0.000231
-LINK Price: $17.76
-Staked: 44766.5062 PLP ($5,832.50)
-BAMBOO Per Week: 277550.02 ($64.02)
-APR: Day 0.16% Week 1.10% Year 57.08%
+ Price: $0.17 TVL: $132.57
+BAMBOO-V2 Price: $0.000114
+LINK Price: $57.43
+Staked: 548.6527 PLP ($90.75)
+BAMBOO Per Week: 1347593.58 ($154.24)
+APR: Day 24.28% Week 169.96% Year 8837.69%
 You are staking 0.00 [BAMBOO-V2]-[LINK] Pure Swap LP ($0.00), 0.00% of the pool.
 Stake 0.00 [BAMBOO-V2]-[LINK] Pure Swap LP
 Unstake 0.00 [BAMBOO-V2]-[LINK] Pure Swap LP
@@ -129,12 +129,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $0.08 TVL: $1,251.04
-SUSHI Price: $7.21
-BAMBOO-V2 Price: $0.000231
-Staked: 12015.6923 PLP ($995.24)
-BAMBOO Per Week: 277550.02 ($64.02)
-APR: Day 0.92% Week 6.43% Year 334.50%
+ Price: $0.09 TVL: $809.98
+SUSHI Price: $13.80
+BAMBOO-V2 Price: $0.000114
+Staked: 6122.5552 PLP ($538.13)
+BAMBOO Per Week: 1347593.58 ($154.24)
+APR: Day 4.09% Week 28.66% Year 1490.43%
 You are staking 0.00 [SUSHI]-[BAMBOO-V2] Pure Swap LP ($0.00), 0.00% of the pool.
 Stake 0.00 [SUSHI]-[BAMBOO-V2] Pure Swap LP
 Unstake 0.00 [SUSHI]-[BAMBOO-V2] Pure Swap LP
@@ -148,12 +148,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $0.01 TVL: $137.55
-BAMBOO-V2 Price: $0.000231
-SNOB Price: $0.0000539200
-Staked: 18444.3181 PLP ($120.44)
-BAMBOO Per Week: 277550.02 ($64.02)
-APR: Day 7.59% Week 53.16% Year 2764.14%
+ Price: $0.03 TVL: $402.72
+BAMBOO-V2 Price: $0.000114
+SNOB Price: $1.55
+Staked: 4324.1952 PLP ($117.88)
+BAMBOO Per Week: 1347593.58 ($154.24)
+APR: Day 18.69% Week 130.85% Year 6804.13%
 You are staking 0.00 [BAMBOO-V2]-[SNOB] Pure Swap LP ($0.00), 0.00% of the pool.
 Stake 0.00 [BAMBOO-V2]-[SNOB] Pure Swap LP
 Unstake 0.00 [BAMBOO-V2]-[SNOB] Pure Swap LP
@@ -167,12 +167,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $324.25 TVL: $20,575.76
-WAVAX Price: $12.34
-ETH Price: $2,091.17
-Staked: 2.1889 PLP ($709.75)
-BAMBOO Per Week: 34693.75 ($8.00)
-APR: Day 0.16% Week 1.13% Year 58.63%
+ Price: $1,055.23 TVL: $66,083.86
+WAVAX Price: $49.33
+ETH Price: $5,526.95
+Staked: 1.3553 PLP ($1,430.14)
+BAMBOO Per Week: 168449.20 ($19.28)
+APR: Day 0.19% Week 1.35% Year 70.10%
 You are staking 0.00 [WAVAX]-[ETH] Pure Swap LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WAVAX]-[ETH] Pure Swap LP
 Unstake 0.00 [WAVAX]-[ETH] Pure Swap LP
@@ -186,12 +186,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $7,239,617.46 TVL: $990.56
-WAVAX Price: $12.34
-USDT Price: $1.01
-Staked: 0.0001 PLP ($377.99)
-BAMBOO Per Week: 34693.75 ($8.00)
-APR: Day 0.30% Week 2.12% Year 110.09%
+ Price: $16,357,117.60 TVL: $2,250.76
+WAVAX Price: $49.33
+USDT Price: $1.28
+Staked: 0.0001 PLP ($866.00)
+BAMBOO Per Week: 168449.20 ($19.28)
+APR: Day 0.32% Week 2.23% Year 115.77%
 You are staking 0.00 [WAVAX]-[USDT] Pure Swap LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WAVAX]-[USDT] Pure Swap LP
 Unstake 0.00 [WAVAX]-[USDT] Pure Swap LP
@@ -205,12 +205,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $128,941,529.37 TVL: $1,663.96
-WBTC Price: $33,129.36
-WAVAX Price: $12.34
-Staked: 0.0000 PLP ($1,436.17)
-BAMBOO Per Week: 34693.75 ($8.00)
-APR: Day 0.08% Week 0.56% Year 28.98%
+ Price: $380,722,613.33 TVL: $783.61
+WBTC Price: $72,100.71
+WAVAX Price: $49.33
+Staked: 0.0000 PLP ($0.00)
+BAMBOO Per Week: 168449.20 ($19.28)
+APR: Day 60285918489.29% Week 422001429425.02% Year 21944074330101.21%
 You are staking 0.00 [WBTC]-[WAVAX] Pure Swap LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WBTC]-[WAVAX] Pure Swap LP
 Unstake 0.00 [WBTC]-[WAVAX] Pure Swap LP
@@ -224,12 +224,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $31,357.43 TVL: $3,729.51
-BAMBOO-V2 Price: $0.000231
-USDT Price: $1.01
-Staked: 0.0915 PLP ($2,870.03)
-BAMBOO Per Week: 451018.78 ($104.03)
-APR: Day 0.52% Week 3.62% Year 188.49%
+ Price: $25,032.86 TVL: $1,825.41
+BAMBOO-V2 Price: $0.000114
+USDT Price: $1.28
+Staked: 0.0455 PLP ($1,137.86)
+BAMBOO Per Week: 2189839.57 ($250.64)
+APR: Day 3.15% Week 22.03% Year 1145.41%
 You are staking 0.00 [BAMBOO-V2]-[USDT] Pure Swap LP ($0.00), 0.00% of the pool.
 Stake 0.00 [BAMBOO-V2]-[USDT] Pure Swap LP
 Unstake 0.00 [BAMBOO-V2]-[USDT] Pure Swap LP
@@ -243,12 +243,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $0.03 TVL: $2,254.28
-BAMBOO-V2 Price: $0.000231
+ Price: $0.02 TVL: $253.78
+BAMBOO-V2 Price: $0.000114
 DAI Price: $1.00
-Staked: 68184.2171 PLP ($2,107.98)
-BAMBOO Per Week: 277550.02 ($64.02)
-APR: Day 0.43% Week 3.04% Year 157.93%
+Staked: 6483.6413 PLP ($146.28)
+BAMBOO Per Week: 1347593.58 ($154.24)
+APR: Day 15.06% Week 105.44% Year 5482.80%
 You are staking 0.00 [BAMBOO-V2]-[DAI] Pure Swap LP ($0.00), 0.00% of the pool.
 Stake 0.00 [BAMBOO-V2]-[DAI] Pure Swap LP
 Unstake 0.00 [BAMBOO-V2]-[DAI] Pure Swap LP
@@ -258,11 +258,11 @@ Staking or unstaking also claims rewards.
 BURN
  Price: $0.00 Market Cap: $0.00 
 Staked: 0.0000 BURN ($0.00)
-BAMBOO Per Week: 3469375.27 ($800.26)
+BAMBOO Per Week: 16844919.79 ($1,927.99)
 APR: Day NaN% Week NaN% Year NaN%
 You are staking 0.00 BURN ($0.00), NaN% of the pool.
 Stake 0.00 BURN
 Unstake 0.00 BURN
 Claim 0.00 BAMBOO ($0.00)
 Staking or unstaking also claims rewards.
-Total Staked: $26,994.25
+Total Staked: $9,185.07

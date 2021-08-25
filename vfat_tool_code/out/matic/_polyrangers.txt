@@ -1,0 +1,184 @@
+INFO  : https://polyrangers.finance
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:11:59 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 12 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[RANGER]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $26,037.66 TVL: $89.78
+RANGER Price: $0.000141
+USDC Price: $1.00
+Staked: 0.0026 UNI-V2 ($67.69)
+RNG Per Week: 27428.57 ($3.86)
+APR: Day 0.81% Week 5.70% Year 296.54%
+You are staking 0.00 [RANGER]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RANGER]-[USDC] Uni LP
+Unstake 0.00 [RANGER]-[USDC] Uni LP
+Claim 0.00 RNG ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[RANGER] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $91.74
+WMATIC Price: $1.66
+RANGER Price: $0.000141
+Staked: 1876.9737 UNI-V2 ($64.69)
+RNG Per Week: 54857.14 ($7.72)
+APR: Day 1.70% Week 11.93% Year 620.56%
+You are staking 0.00 [WMATIC]-[RANGER] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[RANGER] Uni LP
+Unstake 0.00 [WMATIC]-[RANGER] Uni LP
+Claim 0.00 RNG ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,629,540.36 TVL: $33,514,125.30
+WMATIC Price: $1.66
+USDC Price: $1.00
+Staked: 0.0002 UNI-V2 ($710.39)
+RNG Per Week: 27428.57 ($3.86)
+APR: Day 0.08% Week 0.54% Year 28.25%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 2%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 RNG ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+RANGER
+ Price: $0.000141 Market Cap: $524.22 
+[%]
+Staked: 2929945.9936 RANGER ($412.32)
+RNG Per Week: 13714.29 ($1.93)
+APR: Day 0.07% Week 0.47% Year 24.34%
+You are staking 0.00 RANGER ($0.00), 0.00% of the pool.
+Stake 0.00 RANGER - Fee 4%
+Unstake 0.00 RANGER
+Claim 0.00 RNG ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WMATIC
+ Price: $1.66 Market Cap: $609,121,047.06 
+[%]
+Staked: 193.2852 WMATIC ($320.85)
+RNG Per Week: 10971.43 ($1.54)
+APR: Day 0.07% Week 0.48% Year 25.02%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 RNG ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WETH
+ Price: $3,335.11 Market Cap: $2,036,254,617.64 
+[%]
+Staked: 0.0554 WETH ($184.63)
+RNG Per Week: 8228.57 ($1.16)
+APR: Day 0.09% Week 0.63% Year 32.61%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 RNG ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WBTC
+ Price: $50,240.00 Market Cap: $700,987,309.37 
+[%]
+Staked: 0.0011 WBTC ($56.31)
+RNG Per Week: 3840.00 ($0.54)
+APR: Day 0.14% Week 0.96% Year 49.90%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 RNG ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+QUICK
+ Price: $742.92 Market Cap: $711,172,559.11 
+[%]
+Staked: 0.1803 QUICK ($133.96)
+RNG Per Week: 10971.43 ($1.54)
+APR: Day 0.16% Week 1.15% Year 59.93%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 RNG ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+LINK
+ Price: $28.87 Market Cap: $65,512,784.46 
+[%]
+Staked: 1.9379 LINK ($55.95)
+RNG Per Week: 8228.57 ($1.16)
+APR: Day 0.30% Week 2.07% Year 107.63%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 RNG ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+USDC
+ Price: $1.00 Market Cap: $1,045,871,816.01 
+[%]
+Staked: 215.4935 USDC ($215.00)
+RNG Per Week: 5485.71 ($0.77)
+APR: Day 0.05% Week 0.36% Year 18.67%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 RNG ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+AAVE
+ Price: $411.21 Market Cap: $156,537,195.04 
+[%]
+Staked: 0.1504 AAVE ($61.83)
+RNG Per Week: 7131.43 ($1.00)
+APR: Day 0.23% Week 1.62% Year 84.40%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 RNG ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+FOX
+ Price: $0.00 Market Cap: $0.00 
+Staked: 6963.6883 FOX ($0.00)
+RNG Per Week: 109714.29 ($15.44)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FOX ($0.00), NaN% of the pool.
+Stake 0.00 FOX - Fee 50%
+Unstake 0.00 FOX
+Claim 0.00 RNG ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $2,283.61

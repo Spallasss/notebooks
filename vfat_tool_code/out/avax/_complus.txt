@@ -1,7 +1,7 @@
 INFO  : https://avax.complus.exchange
 ************************************************************************
 
-Tue Jul 13 2021 23:51:17 GMT+0530 (India Standard Time)
+Mon Aug 23 2021 13:13:17 GMT+0530 (India Standard Time)
 [CHANGE WALLET]
  -=- 
 [CLEAR BROWSER STORAGE]
@@ -23,12 +23,12 @@ Finished reading smart contracts.
 [-]
  
 [<=>]
- Price: $7,441,934.90 TVL: $180,758.15
-WAVAX Price: $12.34
-USDT Price: $1.01
-Staked: 0.0161 COM-LP ($120,151.43)
-COM Per Week: 41611.82 ($162.99)
-APR: Day 0.02% Week 0.14% Year 7.05%
+ Price: $16,697,167.48 TVL: $150,116.72
+WAVAX Price: $49.33
+USDT Price: $1.24
+Staked: 0.0010 COM-LP ($17,417.21)
+COM Per Week: 151649.33 ($665.04)
+APR: Day 0.55% Week 3.82% Year 198.55%
 You are staking 0.00 [WAVAX]-[USDT] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WAVAX]-[USDT] Uni LP
 Unstake 0.00 [WAVAX]-[USDT] Uni LP
@@ -42,12 +42,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $319.30 TVL: $63,793.85
-WAVAX Price: $12.34
-ETH Price: $2,014.07
-Staked: 198.9525 COM-LP ($63,525.83)
-COM Per Week: 27741.21 ($108.66)
-APR: Day 0.02% Week 0.17% Year 8.89%
+ Price: $1,038.51 TVL: $54,550.16
+WAVAX Price: $49.33
+ETH Price: $5,315.98
+Staked: 52.4941 COM-LP ($54,515.53)
+COM Per Week: 101099.55 ($443.36)
+APR: Day 0.12% Week 0.81% Year 42.29%
 You are staking 0.00 [WAVAX]-[ETH] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WAVAX]-[ETH] Uni LP
 Unstake 0.00 [WAVAX]-[ETH] Uni LP
@@ -61,12 +61,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $7.28 TVL: $79,379.81
-WAVAX Price: $12.34
+ Price: $14.99 TVL: $43,037.02
+WAVAX Price: $49.33
 DAI Price: $1.00
-Staked: 10804.9278 COM-LP ($78,613.60)
-COM Per Week: 41611.82 ($162.99)
-APR: Day 0.03% Week 0.21% Year 10.78%
+Staked: 2866.1322 COM-LP ($42,955.59)
+COM Per Week: 151649.33 ($665.04)
+APR: Day 0.22% Week 1.55% Year 80.51%
 You are staking 0.00 [WAVAX]-[DAI] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WAVAX]-[DAI] Uni LP
 Unstake 0.00 [WAVAX]-[DAI] Uni LP
@@ -80,12 +80,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $0.46 TVL: $18,664.73
-COM Price: $0.003917
-WAVAX Price: $12.34
-Staked: 38683.3016 COM-LP ($17,854.04)
-COM Per Week: 22192.97 ($86.93)
-APR: Day 0.07% Week 0.49% Year 25.32%
+ Price: $0.98 TVL: $35,252.36
+COM Price: $0.004385
+WAVAX Price: $49.33
+Staked: 35811.5461 COM-LP ($35,140.11)
+COM Per Week: 80879.64 ($354.69)
+APR: Day 0.14% Week 1.01% Year 52.49%
 You are staking 0.00 [COM]-[WAVAX] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [COM]-[WAVAX] Uni LP
 Unstake 0.00 [COM]-[WAVAX] Uni LP
@@ -99,12 +99,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $130,209,490.62 TVL: $12,302.69
-WBTC Price: $33,635.49
-WAVAX Price: $12.34
-Staked: 0.0001 COM-LP ($12,204.94)
-COM Per Week: 27741.21 ($108.66)
-APR: Day 0.13% Week 0.89% Year 46.30%
+ Price: $381,070,100.97 TVL: $11,075.98
+WBTC Price: $71,852.50
+WAVAX Price: $49.33
+Staked: 0.0000 COM-LP ($11,066.24)
+COM Per Week: 101099.55 ($443.36)
+APR: Day 0.57% Week 4.01% Year 208.33%
 You are staking 0.00 [WBTC]-[WAVAX] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WBTC]-[WAVAX] Uni LP
 Unstake 0.00 [WBTC]-[WAVAX] Uni LP
@@ -118,12 +118,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $0.47 TVL: $1,433.45
-xCOM Price: $0.004236
-WAVAX Price: $12.34
-Staked: 2959.0548 COM-LP ($1,376.31)
-COM Per Week: 5548.24 ($21.73)
-APR: Day 0.23% Week 1.58% Year 82.11%
+ Price: $1.09 TVL: $1,267.13
+xCOM Price: $0.005747
+WAVAX Price: $49.33
+Staked: 1109.3574 COM-LP ($1,203.98)
+COM Per Week: 20219.91 ($88.67)
+APR: Day 1.05% Week 7.36% Year 382.98%
 You are staking 0.00 [xCOM]-[WAVAX] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [xCOM]-[WAVAX] Uni LP
 Unstake 0.00 [xCOM]-[WAVAX] Uni LP
@@ -137,12 +137,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $0.46 TVL: $18,630.59
-WAVAX Price: $12.34
-COM+ Price: $0.003953
-Staked: 40440.3952 COM-LP ($18,526.37)
-COM Per Week: 110964.84 ($434.64)
-APR: Day 0.34% Week 2.35% Year 121.99%
+ Price: $0.96 TVL: $19,137.70
+WAVAX Price: $49.33
+COM+ Price: $0.004228
+Staked: 19964.6964 COM-LP ($19,088.41)
+COM Per Week: 202199.11 ($886.72)
+APR: Day 0.66% Week 4.65% Year 241.56%
 You are staking 0.00 [WAVAX]-[COM+] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WAVAX]-[COM+] Uni LP
 Unstake 0.00 [WAVAX]-[COM+] Uni LP
@@ -156,12 +156,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $128,996.53 TVL: $14,183.58
-COM+ Price: $0.003953
-USDT Price: $1.01
-Staked: 0.1093 COM-LP ($14,098.06)
-COM Per Week: 110964.84 ($434.64)
-APR: Day 0.44% Week 3.08% Year 160.31%
+ Price: $148,593.64 TVL: $15,934.73
+COM+ Price: $0.004228
+USDT Price: $1.24
+Staked: 0.1068 COM-LP ($15,876.18)
+COM Per Week: 404398.22 ($1,773.45)
+APR: Day 1.60% Week 11.17% Year 580.87%
 You are staking 0.00 [COM+]-[USDT] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [COM+]-[USDT] Uni LP
 Unstake 0.00 [COM+]-[USDT] Uni LP
@@ -175,12 +175,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $1.54 TVL: $6,024.17
-BNB Price: $146.25
-COM+ Price: $0.003953
-Staked: 3917.4282 COM-LP ($6,013.46)
-COM Per Week: 55482.42 ($217.32)
-APR: Day 0.52% Week 3.61% Year 187.92%
+ Price: $1.92 TVL: $5,716.43
+BNB Price: $212.68
+COM+ Price: $0.004228
+Staked: 2978.2833 COM-LP ($5,715.01)
+COM Per Week: 101099.55 ($443.36)
+APR: Day 1.11% Week 7.76% Year 403.41%
 You are staking 0.00 [BNB]-[COM+] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [BNB]-[COM+] Uni LP
 Unstake 0.00 [BNB]-[COM+] Uni LP
@@ -194,12 +194,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $0.26 TVL: $6,335.69
-COM+ Price: $0.003953
-HT Price: $4.09
-Staked: 24556.1628 COM-LP ($6,323.79)
-COM Per Week: 55482.42 ($217.32)
-APR: Day 0.49% Week 3.44% Year 178.70%
+ Price: $0.38 TVL: $8,261.84
+COM+ Price: $0.004228
+HT Price: $8.40
+Staked: 21596.6282 COM-LP ($8,253.64)
+COM Per Week: 101099.55 ($443.36)
+APR: Day 0.77% Week 5.37% Year 279.33%
 You are staking 0.00 [COM+]-[HT] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [COM+]-[HT] Uni LP
 Unstake 0.00 [COM+]-[HT] Uni LP
@@ -213,15 +213,15 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $0.44 TVL: $8,513.44
-AVAX+ Price: $12.45
-COM+ Price: $0.003953
-Staked: 17472.7709 COM-LP ($7,759.94)
-COM Per Week: 55482.42 ($217.32)
-APR: Day 0.40% Week 2.80% Year 145.63%
+ Price: $0.44 TVL: $19,143.06
+AVAX+ Price: $11.28
+COM+ Price: $0.004228
+Staked: 43291.8226 COM-LP ($18,970.37)
+COM Per Week: 606597.33 ($2,660.17)
+APR: Day 2.00% Week 14.02% Year 729.18%
 You are staking 0.00 [AVAX+]-[COM+] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [AVAX+]-[COM+] Uni LP
 Unstake 0.00 [AVAX+]-[COM+] Uni LP
 Claim 0.00 COM ($0.00)
 Staking or unstaking also claims rewards.
-Total Staked: $346,447.75
+Total Staked: $230,202.27

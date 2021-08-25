@@ -1,0 +1,166 @@
+INFO  : https://www.polyowl.finance
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:06:49 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 11 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[OWL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,343.10 TVL: $4.66
+USDC Price: $1.00
+OWL Price: $0.0000010340
+Staked: 0.0006 UNI-V2 ($1.36)
+OWL Per Week: 403361.34 ($0.42)
+APR: Day 4.37% Week 30.58% Year 1590.21%
+You are staking 0.00 [USDC]-[OWL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[OWL] Uni LP
+Unstake 0.00 [USDC]-[OWL] Uni LP
+Claim 0.00 OWL ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+OWL
+ Price: $0.0000010340 Market Cap: $8.89 
+[%]
+Staked: 3699674.3600 OWL ($3.83)
+OWL Per Week: 201680.67 ($0.21)
+APR: Day 0.78% Week 5.45% Year 283.47%
+You are staking 0.00 OWL ($0.00), 0.00% of the pool.
+Stake 0.00 OWL
+Unstake 0.00 OWL
+Claim 0.00 OWL ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+WMATIC
+ Price: $1.65 Market Cap: $605,600,688.12 
+[%]
+Staked: 2.1394 WMATIC ($3.53)
+OWL Per Week: 80672.27 ($0.08)
+APR: Day 0.34% Week 2.36% Year 122.88%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 OWL ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WMATIC]-[OWL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $1.82
+WMATIC Price: $1.65
+OWL Price: $0.0000010340
+Staked: 467.0975 UNI-V2 ($1.45)
+OWL Per Week: 403361.34 ($0.42)
+APR: Day 4.10% Week 28.71% Year 1493.18%
+You are staking 0.00 [WMATIC]-[OWL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[OWL] Uni LP
+Unstake 0.00 [WMATIC]-[OWL] Uni LP
+Claim 0.00 OWL ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+QUICK
+ Price: $731.76 Market Cap: $700,489,463.00 
+[%]
+Staked: 0.0031 QUICK ($2.24)
+OWL Per Week: 60504.20 ($0.06)
+APR: Day 0.40% Week 2.79% Year 145.16%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 OWL ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WETH
+ Price: $3,319.35 Market Cap: $2,027,423,437.64 
+[%]
+Staked: 0.0003 WETH ($1.11)
+OWL Per Week: 48403.36 ($0.05)
+APR: Day 0.64% Week 4.51% Year 234.77%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 OWL ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WBTC
+ Price: $50,019.00 Market Cap: $697,194,073.44 
+[%]
+Staked: 0.0000 WBTC ($1.15)
+OWL Per Week: 40336.13 ($0.04)
+APR: Day 0.52% Week 3.64% Year 189.18%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 OWL ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+AAVE
+ Price: $408.22 Market Cap: $155,398,978.04 
+[%]
+Staked: 0.0030 AAVE ($1.22)
+OWL Per Week: 40336.13 ($0.04)
+APR: Day 0.49% Week 3.41% Year 177.10%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 OWL ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+DAI
+ Price: $1.00 Market Cap: $375,664,195.61 
+[%]
+Staked: 1.1077 DAI ($1.11)
+OWL Per Week: 40336.13 ($0.04)
+APR: Day 0.54% Week 3.77% Year 196.11%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 OWL ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+USDT
+ Price: $1.00 Market Cap: $314,825,905.66 
+[%]
+Staked: 1.0000 USDT ($1.00)
+OWL Per Week: 80672.27 ($0.08)
+APR: Day 1.19% Week 8.35% Year 434.27%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 OWL ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+SUSHI
+ Price: $13.81 Market Cap: $13,999,001.70 
+[%]
+Staked: 0.0115 SUSHI ($0.16)
+OWL Per Week: 40336.13 ($0.04)
+APR: Day 3.75% Week 26.25% Year 1365.02%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 4%
+Unstake 0.00 SUSHI
+Claim 0.00 OWL ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $18.16

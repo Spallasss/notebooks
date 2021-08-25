@@ -1,0 +1,662 @@
+INFO  : https://farm.hyperjump.fi
+**************************************************************************************
+
+Mon Aug 23 2021 13:49:51 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Wrapped 
+[ALLOY]-[WBNB] Uni LP
+ Price: $19.68 TVL: $266,875.22
+You are staking 0.0000 Wrapped 
+[ALLOY]-[WBNB] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[ALLOY]-[BUSD] Uni LP
+ Price: $0.97 TVL: $99,605.58
+You are staking 0.0000 Wrapped 
+[ALLOY]-[BUSD] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[Cake]-[ALLOY] Uni LP
+ Price: $2.96 TVL: $22,752.43
+You are staking 0.0000 Wrapped 
+[Cake]-[ALLOY] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[ALLOY]-[WATCH] Uni LP
+ Price: $0.38 TVL: $768.15
+You are staking 0.0000 Wrapped 
+[ALLOY]-[WATCH] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[ALLOY]-[xBLZD] Uni LP
+ Price: $0.61 TVL: $79.78
+You are staking 0.0000 Wrapped 
+[ALLOY]-[xBLZD] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[ALLOY]-[TREAT] Uni LP
+ Price: $3.01 TVL: $20.76
+You are staking 0.0000 Wrapped 
+[ALLOY]-[TREAT] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[ALLOY]-[SOUL] Uni LP
+ Price: $480.46 TVL: $449.96
+You are staking 0.0000 Wrapped 
+[ALLOY]-[SOUL] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[ALLOY]-[JGN] Uni LP
+ Price: $0.72 TVL: $41.49
+You are staking 0.0000 Wrapped 
+[ALLOY]-[JGN] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[ALLOY]-[SOAK] Uni LP
+ Price: $0.07 TVL: $134.67
+You are staking 0.0000 Wrapped 
+[ALLOY]-[SOAK] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[ALLOY]-[GFCE] Uni LP
+ Price: $NaN.N TVL: $NaN.N
+You are staking 0.0000 Wrapped 
+[ALLOY]-[GFCE] Uni LP
+ ($0.00), NaN% of the pool.
+Wrapped 
+[BELUGA]-[ALLOY] Uni LP
+ Price: $3.06 TVL: $444.08
+You are staking 0.0000 Wrapped 
+[BELUGA]-[ALLOY] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[DITTO]-[WBNB] Uni LP
+ Price: $2,201,202.21 TVL: $0.03
+You are staking 0.0000 Wrapped 
+[DITTO]-[WBNB] Uni LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WBNB]-[BUSD] Uni LP
+ Price: $87.30 TVL: $77,531.33
+You are staking 0.0000 Wrapped 
+[WBNB]-[BUSD] Uni LP
+ ($0.00), 0.00% of the pool.
+
+Total Value Locked: $NaN.N
+Staking Contract
+Found 94 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+ALLOY
+ Price: $0.04 Market Cap: $826,108.07 
+[%]
+Staked: 9613771.2927 ALLOY ($417,511.26)
+ALLOY Per Week: 126631.41 ($5,499.41)
+APR: Day 0.19% Week 1.32% Year 68.49%
+You are staking 0.00 ALLOY ($0.00), 0.00% of the pool.
+Stake 0.00 ALLOY
+Unstake 0.00 ALLOY
+Claim 0.00 ALLOY ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[ALLOY]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9.72 TVL: $497,820.36
+ALLOY Price: $0.04
+WBNB Price: $483.93
+Staked: 50528.9175 TLP ($491,294.35)
+ALLOY Per Week: 282029.87 ($12,248.12)
+APR: Day 0.36% Week 2.49% Year 129.64%
+You are staking 0.00 [ALLOY]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALLOY]-[WBNB] Uni LP
+Unstake 0.00 [ALLOY]-[WBNB] Uni LP
+Claim 0.00 ALLOY ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[HYPR]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.81 TVL: $651,061.45
+HYPR Price: $1.65
+WBNB Price: $483.93
+Staked: 5198.7720 TLP ($404,532.05)
+ALLOY Per Week: 47004.98 ($2,041.35)
+APR: Day 0.07% Week 0.50% Year 26.24%
+You are staking 0.00 [HYPR]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HYPR]-[WBNB] Uni LP
+Unstake 0.00 [HYPR]-[WBNB] Uni LP
+Claim 0.00 ALLOY ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WBNB]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $66.02 TVL: $105,698.68
+WBNB Price: $483.93
+BUSD Price: $1.00
+Staked: 1564.8027 TLP ($103,308.73)
+ALLOY Per Week: 18801.99 ($816.54)
+APR: Day 0.11% Week 0.79% Year 41.10%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 ALLOY ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[ETH]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,689.80 TVL: $79,231.58
+ETH Price: $3,323.90
+WBNB Price: $483.93
+Staked: 26.7611 TLP ($71,982.06)
+ALLOY Per Week: 9401.00 ($408.27)
+APR: Day 0.08% Week 0.57% Year 29.49%
+You are staking 0.00 [ETH]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Uni LP
+Unstake 0.00 [ETH]-[WBNB] Uni LP
+Claim 0.00 ALLOY ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[BTCB]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,293.64 TVL: $66,743.95
+BTCB Price: $50,221.00
+WBNB Price: $483.93
+Staked: 6.2650 TLP ($64,490.15)
+ALLOY Per Week: 9401.00 ($408.27)
+APR: Day 0.09% Week 0.63% Year 32.92%
+You are staking 0.00 [BTCB]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Uni LP
+Unstake 0.00 [BTCB]-[WBNB] Uni LP
+Claim 0.00 ALLOY ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[DVT]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.72 TVL: $44,086.66
+DVT Price: $0.001455
+WBNB Price: $483.93
+Staked: 25600.9584 TLP ($44,081.67)
+ALLOY Per Week: 7520.80 ($326.62)
+APR: Day 0.11% Week 0.74% Year 38.53%
+You are staking 0.00 [DVT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DVT]-[WBNB] Uni LP
+Unstake 0.00 [DVT]-[WBNB] Uni LP
+Claim 0.00 ALLOY ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[USDT]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $57,796.48
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 26936.3616 TLP ($55,077.96)
+ALLOY Per Week: 4700.50 ($204.14)
+APR: Day 0.05% Week 0.37% Year 19.27%
+You are staking 0.00 [USDT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Uni LP
+Unstake 0.00 [USDT]-[BUSD] Uni LP
+Claim 0.00 ALLOY ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+[ALLOY]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.45 TVL: $69,973.65
+ALLOY Price: $0.04
+BUSD Price: $1.00
+Staked: 155815.6384 TLP ($69,638.04)
+ALLOY Per Week: 75207.97 ($3,266.17)
+APR: Day 0.67% Week 4.69% Year 243.89%
+You are staking 0.00 [ALLOY]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALLOY]-[BUSD] Uni LP
+Unstake 0.00 [ALLOY]-[BUSD] Uni LP
+Claim 0.00 ALLOY ($0.00)
+Staking or unstaking also claims rewards.
+35 - 
+[ALLOY]-[NAR] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.15 TVL: $2,684.93
+ALLOY Price: $0.04
+NAR Price: $0.10
+Staked: 17197.8901 TLP ($2,556.35)
+ALLOY Per Week: 1880.20 ($81.65)
+APR: Day 0.46% Week 3.19% Year 166.10%
+You are staking 0.00 [ALLOY]-[NAR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALLOY]-[NAR] Uni LP
+Unstake 0.00 [ALLOY]-[NAR] Uni LP
+Claim 0.00 ALLOY ($0.00)
+Staking or unstaking also claims rewards.
+45 - 
+[ALLOY]-[xBLZD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.44 TVL: $1,750.94
+ALLOY Price: $0.04
+xBLZD Price: $1.06
+Staked: 3839.6843 TLP ($1,691.84)
+ALLOY Per Week: 1880.20 ($81.65)
+APR: Day 0.69% Week 4.83% Year 250.97%
+You are staking 0.00 [ALLOY]-[xBLZD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALLOY]-[xBLZD] Uni LP
+Unstake 0.00 [ALLOY]-[xBLZD] Uni LP
+Claim 0.00 ALLOY ($0.00)
+Staking or unstaking also claims rewards.
+55 - 
+[Cake]-[ALLOY] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.13 TVL: $18,800.68
+Cake Price: $25.01
+ALLOY Price: $0.04
+Staked: 8768.7613 TLP ($18,644.45)
+ALLOY Per Week: 9401.00 ($408.27)
+APR: Day 0.31% Week 2.19% Year 113.87%
+You are staking 0.00 [Cake]-[ALLOY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[ALLOY] Uni LP
+Unstake 0.00 [Cake]-[ALLOY] Uni LP
+Claim 0.00 ALLOY ($0.00)
+Staking or unstaking also claims rewards.
+72 - 
+[WBNB]-[ONT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $48.15 TVL: $7,749.97
+WBNB Price: $483.93
+ONT Price: $1.17
+Staked: 160.7865 TLP ($7,741.90)
+ALLOY Per Week: 940.10 ($40.83)
+APR: Day 0.08% Week 0.53% Year 27.42%
+You are staking 0.00 [WBNB]-[ONT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[ONT] Uni LP
+Unstake 0.00 [WBNB]-[ONT] Uni LP
+Claim 0.00 ALLOY ($0.00)
+Staking or unstaking also claims rewards.
+73 - 
+[ALLOY]-[ONT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.46 TVL: $5,792.32
+ALLOY Price: $0.04
+ONT Price: $1.17
+Staked: 11589.3351 TLP ($5,287.98)
+ALLOY Per Week: 1880.20 ($81.65)
+APR: Day 0.22% Week 1.54% Year 80.30%
+You are staking 0.00 [ALLOY]-[ONT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALLOY]-[ONT] Uni LP
+Unstake 0.00 [ALLOY]-[ONT] Uni LP
+Claim 0.00 ALLOY ($0.00)
+Staking or unstaking also claims rewards.
+76 - 
+[ALLOY]-[DVT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $19,614.01
+ALLOY Price: $0.04
+DVT Price: $0.001455
+Staked: 1227013.2497 TLP ($19,591.12)
+ALLOY Per Week: 15041.59 ($653.23)
+APR: Day 0.48% Week 3.33% Year 173.39%
+You are staking 0.00 [ALLOY]-[DVT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALLOY]-[DVT] Uni LP
+Unstake 0.00 [ALLOY]-[DVT] Uni LP
+Claim 0.00 ALLOY ($0.00)
+Staking or unstaking also claims rewards.
+78 - 
+[WINGS]-[ALLOY] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.28 TVL: $1,436.25
+WINGS Price: $0.45
+ALLOY Price: $0.04
+Staked: 5080.7124 TLP ($1,436.05)
+ALLOY Per Week: 1880.20 ($81.65)
+APR: Day 0.81% Week 5.69% Year 295.67%
+You are staking 0.00 [WINGS]-[ALLOY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WINGS]-[ALLOY] Uni LP
+Unstake 0.00 [WINGS]-[ALLOY] Uni LP
+Claim 0.00 ALLOY ($0.00)
+Staking or unstaking also claims rewards.
+80 - 
+[WBNB]-[renBTC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,002,841,677.08 TVL: $6,473.05
+WBNB Price: $483.93
+renBTC Price: $50,594.48
+Staked: 0.0000 TLP ($6,120.54)
+ALLOY Per Week: 940.10 ($40.83)
+APR: Day 0.10% Week 0.67% Year 34.69%
+You are staking 0.00 [WBNB]-[renBTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[renBTC] Uni LP
+Unstake 0.00 [WBNB]-[renBTC] Uni LP
+Claim 0.00 ALLOY ($0.00)
+Staking or unstaking also claims rewards.
+81 - 
+[ALLOY]-[renBTC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9,430,363.71 TVL: $1,882.00
+ALLOY Price: $0.04
+renBTC Price: $50,594.48
+Staked: 0.0001 TLP ($1,215.34)
+ALLOY Per Week: 1880.20 ($81.65)
+APR: Day 0.96% Week 6.72% Year 349.37%
+You are staking 0.00 [ALLOY]-[renBTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALLOY]-[renBTC] Uni LP
+Unstake 0.00 [ALLOY]-[renBTC] Uni LP
+Claim 0.00 ALLOY ($0.00)
+Staking or unstaking also claims rewards.
+82 - 
+[renZEC]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $60,542,444.49 TVL: $431.20
+renZEC Price: $184.42
+WBNB Price: $483.93
+Staked: 0.0000 TLP ($359.17)
+ALLOY Per Week: 940.10 ($40.83)
+APR: Day 1.62% Week 11.37% Year 591.09%
+You are staking 0.00 [renZEC]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [renZEC]-[WBNB] Uni LP
+Unstake 0.00 [renZEC]-[WBNB] Uni LP
+Claim 0.00 ALLOY ($0.00)
+Staking or unstaking also claims rewards.
+83 - 
+[ALLOY]-[renZEC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $576,003.89 TVL: $1,555.60
+ALLOY Price: $0.04
+renZEC Price: $184.42
+Staked: 0.0026 TLP ($1,515.26)
+ALLOY Per Week: 1880.20 ($81.65)
+APR: Day 0.77% Week 5.39% Year 280.22%
+You are staking 0.00 [ALLOY]-[renZEC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALLOY]-[renZEC] Uni LP
+Unstake 0.00 [ALLOY]-[renZEC] Uni LP
+Claim 0.00 ALLOY ($0.00)
+Staking or unstaking also claims rewards.
+84 - 
+[renBCH]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $126,507,749.38 TVL: $4,007.45
+renBCH Price: $781.02
+WBNB Price: $483.93
+Staked: 0.0000 TLP ($3,920.47)
+ALLOY Per Week: 940.10 ($40.83)
+APR: Day 0.15% Week 1.04% Year 54.15%
+You are staking 0.00 [renBCH]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [renBCH]-[WBNB] Uni LP
+Unstake 0.00 [renBCH]-[WBNB] Uni LP
+Claim 0.00 ALLOY ($0.00)
+Staking or unstaking also claims rewards.
+85 - 
+[ALLOY]-[renBCH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,197,468.87 TVL: $1,662.83
+ALLOY Price: $0.04
+renBCH Price: $781.02
+Staked: 0.0012 TLP ($1,481.10)
+ALLOY Per Week: 1880.20 ($81.65)
+APR: Day 0.79% Week 5.51% Year 286.68%
+You are staking 0.00 [ALLOY]-[renBCH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALLOY]-[renBCH] Uni LP
+Unstake 0.00 [ALLOY]-[renBCH] Uni LP
+Claim 0.00 ALLOY ($0.00)
+Staking or unstaking also claims rewards.
+86 - 
+[WYVERN]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9,518.56 TVL: $293.54
+WYVERN Price: $0.0000428161
+WBNB Price: $483.93
+Staked: 0.0300 TLP ($285.85)
+ALLOY Per Week: 940.10 ($40.83)
+APR: Day 2.04% Week 14.28% Year 742.71%
+You are staking 0.00 [WYVERN]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WYVERN]-[WBNB] Uni LP
+Unstake 0.00 [WYVERN]-[WBNB] Uni LP
+Claim 0.00 ALLOY ($0.00)
+Staking or unstaking also claims rewards.
+87 - 
+[WYVERN]-[ALLOY] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $109.54 TVL: $357.83
+WYVERN Price: $0.0000428161
+ALLOY Price: $0.04
+Staked: 3.2174 TLP ($352.43)
+ALLOY Per Week: 1880.20 ($81.65)
+APR: Day 3.31% Week 23.17% Year 1204.79%
+You are staking 0.00 [WYVERN]-[ALLOY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WYVERN]-[ALLOY] Uni LP
+Unstake 0.00 [WYVERN]-[ALLOY] Uni LP
+Claim 0.00 ALLOY ($0.00)
+Staking or unstaking also claims rewards.
+88 - 
+[ADA]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $75.91 TVL: $4,217.61
+ADA Price: $2.85
+WBNB Price: $483.93
+Staked: 55.5274 TLP ($4,215.26)
+ALLOY Per Week: 940.10 ($40.83)
+APR: Day 0.14% Week 0.97% Year 50.36%
+You are staking 0.00 [ADA]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Uni LP
+Unstake 0.00 [ADA]-[WBNB] Uni LP
+Claim 0.00 ALLOY ($0.00)
+Staking or unstaking also claims rewards.
+89 - 
+[ADA]-[ALLOY] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.71 TVL: $4,454.66
+ADA Price: $2.85
+ALLOY Price: $0.04
+Staked: 5995.9638 TLP ($4,228.89)
+ALLOY Per Week: 1880.20 ($81.65)
+APR: Day 0.28% Week 1.93% Year 100.40%
+You are staking 0.00 [ADA]-[ALLOY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[ALLOY] Uni LP
+Unstake 0.00 [ADA]-[ALLOY] Uni LP
+Claim 0.00 ALLOY ($0.00)
+Staking or unstaking also claims rewards.
+90 - 
+[HERO]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $12.75 TVL: $972.34
+HERO Price: $0.08
+WBNB Price: $483.93
+Staked: 75.4747 TLP ($962.24)
+ALLOY Per Week: 940.10 ($40.83)
+APR: Day 0.61% Week 4.24% Year 220.63%
+You are staking 0.00 [HERO]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HERO]-[WBNB] Uni LP
+Unstake 0.00 [HERO]-[WBNB] Uni LP
+Claim 0.00 ALLOY ($0.00)
+Staking or unstaking also claims rewards.
+91 - 
+[ALLOY]-[HERO] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.12 TVL: $786.23
+ALLOY Price: $0.04
+HERO Price: $0.08
+Staked: 6292.9740 TLP ($756.48)
+ALLOY Per Week: 1880.20 ($81.65)
+APR: Day 1.54% Week 10.79% Year 561.28%
+You are staking 0.00 [ALLOY]-[HERO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALLOY]-[HERO] Uni LP
+Unstake 0.00 [ALLOY]-[HERO] Uni LP
+Claim 0.00 ALLOY ($0.00)
+Staking or unstaking also claims rewards.
+92 - 
+[KRW]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.10 TVL: $1,679.03
+KRW Price: $0.004930
+WBNB Price: $483.93
+Staked: 294.9331 TLP ($914.26)
+ALLOY Per Week: 940.10 ($40.83)
+APR: Day 0.64% Week 4.47% Year 232.21%
+You are staking 0.00 [KRW]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KRW]-[WBNB] Uni LP
+Unstake 0.00 [KRW]-[WBNB] Uni LP
+Claim 0.00 ALLOY ($0.00)
+Staking or unstaking also claims rewards.
+93 - 
+[KRW]-[ALLOY] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $1,454.84
+KRW Price: $0.004930
+ALLOY Price: $0.04
+Staked: 48871.5999 TLP ($1,431.03)
+ALLOY Per Week: 1880.20 ($81.65)
+APR: Day 0.82% Week 5.71% Year 296.71%
+You are staking 0.00 [KRW]-[ALLOY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KRW]-[ALLOY] Uni LP
+Unstake 0.00 [KRW]-[ALLOY] Uni LP
+Claim 0.00 ALLOY ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,806,624.29

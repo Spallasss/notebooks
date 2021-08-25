@@ -1,0 +1,369 @@
+INFO  : 
+https://app.comos.finance/
+
+********************************************************************************
+
+Mon Aug 23 2021 14:00:15 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 22 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[COMOS]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.29 TVL: $2,848.65
+COMOS Price: $0.02
+BUSD Price: $1.00
+Staked: 8822.1035 Cake-LP ($2,594.49)
+COMOS Per Week: 4924.58 ($81.40)
+APR: Day 0.45% Week 3.14% Year 163.15%
+You are staking 0.00 [COMOS]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COMOS]-[BUSD] Cake LP
+Unstake 0.00 [COMOS]-[BUSD] Cake LP
+Claim 0.00 COMOS ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[COMOS]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6.44 TVL: $2,804.46
+COMOS Price: $0.02
+WBNB Price: $483.59
+Staked: 381.1657 Cake-LP ($2,454.19)
+COMOS Per Week: 2954.75 ($48.84)
+APR: Day 0.28% Week 1.99% Year 103.49%
+You are staking 0.00 [COMOS]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COMOS]-[WBNB] Cake LP
+Unstake 0.00 [COMOS]-[WBNB] Cake LP
+Claim 0.00 COMOS ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.49 TVL: $3,328,086.52
+WBNB Price: $483.59
+BUSD Price: $1.00
+Staked: 8.1132 Cake-LP ($523.26)
+COMOS Per Week: 615.57 ($10.18)
+APR: Day 0.28% Week 1.94% Year 101.12%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 3.5%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 COMOS ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.13 TVL: $4,006,205.63
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 255.5793 Cake-LP ($545.64)
+COMOS Per Week: 492.46 ($8.14)
+APR: Day 0.21% Week 1.49% Year 77.58%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 3.5%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 COMOS ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,898.33 TVL: $1,952,213.66
+BTCB Price: $50,221.00
+WBNB Price: $483.59
+Staked: 0.0449 Cake-LP ($488.89)
+COMOS Per Week: 738.69 ($12.21)
+APR: Day 0.36% Week 2.50% Year 129.87%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 3.5%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 COMOS ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,858.67 TVL: $3,518,490.56
+ETH Price: $3,327.15
+WBNB Price: $483.59
+Staked: 0.1921 Cake-LP ($549.01)
+COMOS Per Week: 738.69 ($12.21)
+APR: Day 0.32% Week 2.22% Year 115.65%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 3.5%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 COMOS ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $80.91 TVL: $2,627,225.97
+ADA Price: $2.84
+WBNB Price: $483.59
+Staked: 27.5628 Cake-LP ($2,230.06)
+COMOS Per Week: 615.57 ($10.18)
+APR: Day 0.07% Week 0.46% Year 23.73%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 3.5%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 COMOS ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $2,586,379.35
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 246.4929 Cake-LP ($504.45)
+COMOS Per Week: 492.46 ($8.14)
+APR: Day 0.23% Week 1.61% Year 83.91%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 3.5%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 COMOS ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.26 TVL: $1,019,603.51
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 221.3710 Cake-LP ($499.30)
+COMOS Per Week: 492.46 ($8.14)
+APR: Day 0.23% Week 1.63% Year 84.78%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 3.5%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 COMOS ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $252.05 TVL: $672,757.03
+DOT Price: $28.01
+WBNB Price: $483.59
+Staked: 0.6010 Cake-LP ($151.47)
+COMOS Per Week: 492.46 ($8.14)
+APR: Day 0.77% Week 5.37% Year 279.45%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 3.5%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 COMOS ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[Cake]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $15.68 TVL: $180,115.13
+Cake Price: $25.00
+BUSD Price: $1.00
+Staked: 4.1288 Cake-LP ($64.73)
+COMOS Per Week: 246.23 ($4.07)
+APR: Day 0.90% Week 6.29% Year 326.99%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 3.5%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 COMOS ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+COMOS
+ Price: $0.02 Market Cap: $13,497.53 
+[%]
+Staked: 440853.3535 COMOS ($7,287.30)
+COMOS Per Week: 1231.15 ($20.35)
+APR: Day 0.04% Week 0.28% Year 14.52%
+You are staking 0.00 COMOS ($0.00), 0.00% of the pool.
+Stake 0.00 COMOS
+Unstake 0.00 COMOS
+Claim 0.00 COMOS ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+BUSD
+ Price: $1.00 Market Cap: $4,198,852,689.30 
+[%]
+Staked: 207.0982 BUSD ($206.99)
+COMOS Per Week: 246.23 ($4.07)
+APR: Day 0.28% Week 1.97% Year 102.25%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 3.5%
+Unstake 0.00 BUSD
+Claim 0.00 COMOS ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+WBNB
+ Price: $483.59 Market Cap: $3,426,770,651.38 
+[%]
+Staked: 0.2183 WBNB ($105.58)
+COMOS Per Week: 369.34 ($6.11)
+APR: Day 0.83% Week 5.78% Year 300.69%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 3.5%
+Unstake 0.00 WBNB
+Claim 0.00 COMOS ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+USDT
+ Price: $1.00 Market Cap: $3,377,097,883.96 
+[%]
+Staked: 198.2024 USDT ($198.03)
+COMOS Per Week: 123.11 ($2.04)
+APR: Day 0.15% Week 1.03% Year 53.44%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 3.5%
+Unstake 0.00 USDT
+Claim 0.00 COMOS ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+BTCB
+ Price: $50,221.00 Market Cap: $4,293,945,721.00 
+[%]
+Staked: 0.0027 BTCB ($134.14)
+COMOS Per Week: 246.23 ($4.07)
+APR: Day 0.43% Week 3.03% Year 157.78%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 3.5%
+Unstake 0.00 BTCB
+Claim 0.00 COMOS ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+ETH
+ Price: $3,327.15 Market Cap: $4,341,930,750.00 
+[%]
+Staked: 0.3180 ETH ($1,058.13)
+COMOS Per Week: 246.23 ($4.07)
+APR: Day 0.05% Week 0.38% Year 20.00%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 3.5%
+Unstake 0.00 ETH
+Claim 0.00 COMOS ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+ADA
+ Price: $2.84 Market Cap: $795,200,000.00 
+[%]
+Staked: 288.5350 ADA ($819.44)
+COMOS Per Week: 246.23 ($4.07)
+APR: Day 0.07% Week 0.50% Year 25.83%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 3.5%
+Unstake 0.00 ADA
+Claim 0.00 COMOS ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,208,547.00 
+[%]
+Staked: 29.6365 USDC ($29.61)
+COMOS Per Week: 123.11 ($2.04)
+APR: Day 0.98% Week 6.87% Year 357.43%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 3.5%
+Unstake 0.00 USDC
+Claim 0.00 COMOS ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+DOT
+ Price: $28.01 Market Cap: $392,139,999.86 
+[%]
+Staked: 23.2500 DOT ($651.23)
+COMOS Per Week: 246.23 ($4.07)
+APR: Day 0.09% Week 0.62% Year 32.50%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 3.5%
+Unstake 0.00 DOT
+Claim 0.00 COMOS ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+DAI
+ Price: $1.00 Market Cap: $261,817,648.00 
+[%]
+Staked: 492.6693 DAI ($492.33)
+COMOS Per Week: 123.11 ($2.04)
+APR: Day 0.06% Week 0.41% Year 21.49%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 3.5%
+Unstake 0.00 DAI
+Claim 0.00 COMOS ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[TNDR]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.17 TVL: $1,656.86
+TNDR Price: $0.005678
+BUSD Price: $1.00
+Staked: 374.0180 Cake-LP ($64.22)
+COMOS Per Week: 123.11 ($2.04)
+APR: Day 0.45% Week 3.17% Year 164.79%
+You are staking 0.00 [TNDR]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TNDR]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [TNDR]-[BUSD] Cake LP
+Claim 0.00 COMOS ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $21,652.48

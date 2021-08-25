@@ -1,0 +1,112 @@
+INFO  : https://bondappetit.io
+There is a locking period of 3 months in [USDap - USDC] pool
+*******************************************************************************
+
+Mon Aug 23 2021 15:42:15 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[USDap]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,843,738.17 TVL: $1,477,732.40
+USDap Price: $0.84
+USDC Price: $1.00
+Staked: 0.8012 UNI-V2 ($1,477,172.37)
+BAG Per Week: 60493.83 ($14,615.67)
+APR: Day 0.14% Week 0.99% Year 51.45%
+You are staking 0.000000 [USDap]-[USDC] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [USDap]-[USDC] Uni LP
+Unstake 0.000000 [USDap]-[USDC] Uni LP
+Claim 0.000000 BAG ($0.00)
+Revoke (set approval to 0)
+Exit
+[BAG]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,020,984.11 TVL: $21,214.12
+BAG Price: $0.24
+USDT Price: $1.00
+Staked: 0.0201 UNI-V2 ($20,476.87)
+BAG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [BAG]-[USDT] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [BAG]-[USDT] Uni LP
+Unstake 0.000000 [BAG]-[USDT] Uni LP
+Claim 0.000000 BAG ($0.00)
+Revoke (set approval to 0)
+Exit
+[BAG]-[USDN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.99 TVL: $65.38
+BAG Price: $0.24
+USDN Price: $1.00
+Staked: 66.1452 UNI-V2 ($65.38)
+BAG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [BAG]-[USDN] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [BAG]-[USDN] Uni LP
+Unstake 0.000000 [BAG]-[USDN] Uni LP
+Claim 0.000000 BAG ($0.00)
+Revoke (set approval to 0)
+Exit
+[BAG]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,050,266.62 TVL: $26,973.59
+BAG Price: $0.24
+USDC Price: $1.00
+Staked: 0.0217 UNI-V2 ($22,835.07)
+BAG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [BAG]-[USDC] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [BAG]-[USDC] Uni LP
+Unstake 0.000000 [BAG]-[USDC] Uni LP
+Claim 0.000000 BAG ($0.00)
+Revoke (set approval to 0)
+Exit
+[BAG]-[USDap] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.91 TVL: $298,462.63
+BAG Price: $0.24
+USDap Price: $0.84
+Staked: 328057.9043 UNI-V2 ($297,099.75)
+BAG Per Week: 24444.54 ($5,905.95)
+APR: Day 0.28% Week 1.99% Year 103.37%
+You are staking 0.000000 [BAG]-[USDap] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [BAG]-[USDap] Uni LP
+Unstake 0.000000 [BAG]-[USDap] Uni LP
+Claim 0.000000 BAG ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $1,817,649.45

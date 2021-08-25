@@ -1,0 +1,240 @@
+INFO  : https://blazedefi.finance
+****************************************************************************************
+
+Mon Aug 23 2021 14:36:15 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 14 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[BLAZE]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.36 TVL: $410.83
+BLAZE Price: $0.02
+BUSD Price: $1.00
+Staked: 305.4301 Blaze-LP ($111.19)
+BLAZE Per Week: 7297.74 ($173.12)
+APR: Day 22.24% Week 155.70% Year 8096.33%
+You are staking 0.00 [BLAZE]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BLAZE]-[BUSD] Uni LP
+Unstake 0.00 [BLAZE]-[BUSD] Uni LP
+Claim 0.00 BLAZE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[BLAZE]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7.83 TVL: $51.15
+BLAZE Price: $0.02
+WBNB Price: $484.19
+Staked: 4.4448 Blaze-LP ($34.80)
+BLAZE Per Week: 4378.64 ($103.87)
+APR: Day 42.64% Week 298.45% Year 15519.34%
+You are staking 0.00 [BLAZE]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BLAZE]-[WBNB] Uni LP
+Unstake 0.00 [BLAZE]-[WBNB] Uni LP
+Claim 0.00 BLAZE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $45.55 TVL: $443.16
+WBNB Price: $484.19
+BUSD Price: $1.00
+Staked: 2.4666 Blaze-LP ($112.36)
+BLAZE Per Week: 638.55 ($15.15)
+APR: Day 1.93% Week 13.48% Year 701.04%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 BLAZE ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+BLAZE
+ Price: $0.02 Market Cap: $879.50 
+[%]
+Staked: 2799.4871 BLAZE ($66.41)
+BLAZE Per Week: 2280.54 ($54.10)
+APR: Day 11.64% Week 81.46% Year 4236.07%
+You are staking 0.00 BLAZE ($0.00), 0.00% of the pool.
+Stake 0.00 BLAZE
+Unstake 0.00 BLAZE
+Claim 0.00 BLAZE ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+BUSD
+ Price: $1.00 Market Cap: $4,196,281,677.67 
+[%]
+Staked: 916.5628 BUSD ($915.53)
+BLAZE Per Week: 91.22 ($2.16)
+APR: Day 0.03% Week 0.24% Year 12.29%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 BLAZE ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WBNB
+ Price: $484.19 Market Cap: $3,428,770,142.02 
+[%]
+Staked: 1.4737 WBNB ($713.56)
+BLAZE Per Week: 182.44 ($4.33)
+APR: Day 0.09% Week 0.61% Year 31.54%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 BLAZE ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[USDT]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $2,014.91
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 50.8761 Blaze-LP ($101.93)
+BLAZE Per Week: 273.67 ($6.49)
+APR: Day 0.91% Week 6.37% Year 331.20%
+You are staking 0.00 [USDT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Uni LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Uni LP
+Claim 0.00 BLAZE ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+0XC
+ Price: $0.00 Market Cap: $0.00 
+Staked: 26362255578.5536 0XC ($0.00)
+BLAZE Per Week: 456.11 ($10.82)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 0XC ($0.00), NaN% of the pool.
+Stake 0.00 0XC - Fee 4%
+Unstake 0.00 0XC
+Claim 0.00 BLAZE ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[0XC]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $172.40 TVL: $58.03
+0XC Price: $0.0000000083
+WBNB Price: $484.19
+Staked: 0.0480 Blaze-LP ($8.27)
+BLAZE Per Week: 729.77 ($17.31)
+APR: Day 29.90% Week 209.31% Year 10884.00%
+You are staking 0.00 [0XC]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [0XC]-[WBNB] Uni LP - Fee 4%
+Unstake 0.00 [0XC]-[WBNB] Uni LP
+Claim 0.00 BLAZE ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[BLAZE]-[0XC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.07 TVL: $30.17
+BLAZE Price: $0.02
+0XC Price: $0.0000000083
+Staked: 26.8351 Blaze-LP ($28.66)
+BLAZE Per Week: 1459.55 ($34.62)
+APR: Day 17.26% Week 120.80% Year 6281.59%
+You are staking 0.00 [BLAZE]-[0XC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BLAZE]-[0XC] Uni LP - Fee 3%
+Unstake 0.00 [BLAZE]-[0XC] Uni LP
+Claim 0.00 BLAZE ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+RX
+ Price: $0.00 Market Cap: $0.00 
+Staked: 18.2607 RX ($0.00)
+BLAZE Per Week: 456.11 ($10.82)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RX ($0.00), NaN% of the pool.
+Stake 0.00 RX - Fee 2%
+Unstake 0.00 RX
+Claim 0.00 BLAZE ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[RX]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $54,780.63 TVL: $271.16
+RX Price: $0.001060
+WBNB Price: $484.19
+Staked: 0.0027 Blaze-LP ($150.58)
+BLAZE Per Week: 729.77 ($17.31)
+APR: Day 1.64% Week 11.50% Year 597.84%
+You are staking 0.00 [RX]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RX]-[WBNB] Uni LP - Fee 2%
+Unstake 0.00 [RX]-[WBNB] Uni LP
+Claim 0.00 BLAZE ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+OVEN
+ Price: $0.00 Market Cap: $0.00 
+Staked: 409656017071.1478 OVEN ($0.00)
+BLAZE Per Week: 456.11 ($10.82)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 OVEN ($0.00), NaN% of the pool.
+Stake 0.00 OVEN - Fee 4%
+Unstake 0.00 OVEN
+Claim 0.00 BLAZE ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[OVEN]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $35.94 TVL: $551.61
+OVEN Price: $0.0000000003
+WBNB Price: $484.19
+Staked: 2.1874 Blaze-LP ($78.61)
+BLAZE Per Week: 729.77 ($17.31)
+APR: Day 3.15% Week 22.02% Year 1145.18%
+You are staking 0.00 [OVEN]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [OVEN]-[WBNB] Uni LP - Fee 4%
+Unstake 0.00 [OVEN]-[WBNB] Uni LP
+Claim 0.00 BLAZE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $2,321.92

@@ -1,0 +1,415 @@
+INFO  : https://fullsail.finance
+*************************************************************************************
+
+Mon Aug 23 2021 13:50:54 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 26 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[SAIL]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.27 TVL: $2,746.98
+SAIL Price: $0.01
+BUSD Price: $1.00
+Staked: 9795.1753 Cake-LP ($2,608.87)
+SAIL Per Week: 5929.41 ($71.91)
+APR: Day 0.39% Week 2.76% Year 143.33%
+You are staking 0.00 [SAIL]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SAIL]-[BUSD] Cake LP
+Unstake 0.00 [SAIL]-[BUSD] Cake LP
+Claim 0.00 SAIL ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[SAIL]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.74 TVL: $3,518.83
+SAIL Price: $0.01
+WBNB Price: $483.93
+Staked: 465.0950 Cake-LP ($2,668.62)
+SAIL Per Week: 3557.65 ($43.14)
+APR: Day 0.23% Week 1.62% Year 84.07%
+You are staking 0.00 [SAIL]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SAIL]-[WBNB] Cake LP
+Unstake 0.00 [SAIL]-[WBNB] Cake LP
+Claim 0.00 SAIL ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.52 TVL: $3,329,334.86
+WBNB Price: $483.93
+BUSD Price: $1.00
+Staked: 12.6741 Cake-LP ($817.72)
+SAIL Per Week: 741.18 ($8.99)
+APR: Day 0.16% Week 1.10% Year 57.16%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SAIL ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.13 TVL: $4,006,359.02
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 117.1591 Cake-LP ($250.13)
+SAIL Per Week: 592.94 ($7.19)
+APR: Day 0.41% Week 2.87% Year 149.49%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 SAIL ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $72.25 TVL: $1,092,107.73
+USDT Price: $1.00
+WBNB Price: $483.93
+Staked: 2.0981 Cake-LP ($151.58)
+SAIL Per Week: 592.94 ($7.19)
+APR: Day 0.68% Week 4.74% Year 246.67%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 SAIL ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,902.15 TVL: $1,952,898.40
+BTCB Price: $50,221.00
+WBNB Price: $483.93
+Staked: 0.0518 Cake-LP ($564.49)
+SAIL Per Week: 889.41 ($10.79)
+APR: Day 0.27% Week 1.91% Year 99.36%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 SAIL ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,858.26 TVL: $3,517,984.82
+ETH Price: $3,323.90
+WBNB Price: $483.93
+Staked: 0.1927 Cake-LP ($550.79)
+SAIL Per Week: 889.41 ($10.79)
+APR: Day 0.28% Week 1.96% Year 101.83%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 SAIL ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $2,586,479.07
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 141.5676 Cake-LP ($289.73)
+SAIL Per Week: 592.94 ($7.19)
+APR: Day 0.35% Week 2.48% Year 129.06%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 SAIL ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.26 TVL: $1,019,535.26
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 175.2907 Cake-LP ($395.34)
+SAIL Per Week: 592.94 ($7.19)
+APR: Day 0.26% Week 1.82% Year 94.58%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 SAIL ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $251.96 TVL: $672,512.54
+DOT Price: $27.97
+WBNB Price: $483.93
+Staked: 1.1209 Cake-LP ($282.42)
+SAIL Per Week: 889.41 ($10.79)
+APR: Day 0.55% Week 3.82% Year 198.60%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 SAIL ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[Cake]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $15.68 TVL: $180,157.90
+Cake Price: $25.01
+BUSD Price: $1.00
+Staked: 14.3872 Cake-LP ($225.60)
+SAIL Per Week: 296.47 ($3.60)
+APR: Day 0.23% Week 1.59% Year 82.87%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 SAIL ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $260.73 TVL: $8,043,293.52
+Cake Price: $25.01
+WBNB Price: $483.93
+Staked: 0.2283 Cake-LP ($59.52)
+SAIL Per Week: 296.47 ($3.60)
+APR: Day 0.86% Week 6.04% Year 314.12%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 SAIL ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+SAIL
+ Price: $0.01 Market Cap: $9,236.28 
+[%]
+Staked: 322300.4960 SAIL ($3,908.61)
+SAIL Per Week: 1482.35 ($17.98)
+APR: Day 0.07% Week 0.46% Year 23.92%
+You are staking 0.00 SAIL ($0.00), 0.00% of the pool.
+Stake 0.00 SAIL
+Unstake 0.00 SAIL
+Claim 0.00 SAIL ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+BUSD
+ Price: $1.00 Market Cap: $4,199,176,166.26 
+[%]
+Staked: 24522.9854 BUSD ($24,512.34)
+SAIL Per Week: 296.47 ($3.60)
+APR: Day 0.00% Week 0.01% Year 0.76%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 SAIL ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+WBNB
+ Price: $483.93 Market Cap: $3,429,146,393.87 
+[%]
+Staked: 0.5323 WBNB ($257.58)
+SAIL Per Week: 444.71 ($5.39)
+APR: Day 0.30% Week 2.09% Year 108.88%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 SAIL ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+USDT
+ Price: $1.00 Market Cap: $3,377,097,883.96 
+[%]
+Staked: 985.5109 USDT ($984.67)
+SAIL Per Week: 148.24 ($1.80)
+APR: Day 0.03% Week 0.18% Year 9.49%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 SAIL ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+BTCB
+ Price: $50,221.00 Market Cap: $4,293,945,721.00 
+[%]
+Staked: 0.0113 BTCB ($565.67)
+SAIL Per Week: 296.47 ($3.60)
+APR: Day 0.09% Week 0.64% Year 33.05%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 SAIL ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+ETH
+ Price: $3,323.90 Market Cap: $4,337,689,500.00 
+[%]
+Staked: 0.0945 ETH ($314.17)
+SAIL Per Week: 296.47 ($3.60)
+APR: Day 0.16% Week 1.14% Year 59.51%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 SAIL ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+DAI
+ Price: $1.00 Market Cap: $261,817,648.00 
+[%]
+Staked: 224.1138 DAI ($223.96)
+SAIL Per Week: 148.24 ($1.80)
+APR: Day 0.11% Week 0.80% Year 41.74%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 SAIL ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+USDC
+ Price: $1.00 Market Cap: $1,776,833,178.00 
+[%]
+Staked: 226.4534 USDC ($226.18)
+SAIL Per Week: 148.24 ($1.80)
+APR: Day 0.11% Week 0.79% Year 41.33%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 SAIL ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+DOT
+ Price: $27.97 Market Cap: $391,579,999.86 
+[%]
+Staked: 8.0170 DOT ($224.23)
+SAIL Per Week: 296.47 ($3.60)
+APR: Day 0.23% Week 1.60% Year 83.38%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 SAIL ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+Cake
+ Price: $25.01 Market Cap: $10,406,948,060.22 
+[%]
+Staked: 536.2213 Cake ($13,410.89)
+SAIL Per Week: 148.24 ($1.80)
+APR: Day 0.00% Week 0.01% Year 0.70%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 SAIL ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+BSCX
+ Price: $2.47 Market Cap: $24,658,988.12 
+[%]
+Staked: 25.6229 BSCX ($63.29)
+SAIL Per Week: 148.24 ($1.80)
+APR: Day 0.41% Week 2.84% Year 147.70%
+You are staking 0.00 BSCX ($0.00), 0.00% of the pool.
+Stake 0.00 BSCX - Fee 4%
+Unstake 0.00 BSCX
+Claim 0.00 SAIL ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+AUTO
+ Price: $1,416.80 Market Cap: $90,841,553.33 
+[%]
+Staked: 0.2198 AUTO ($311.41)
+SAIL Per Week: 148.24 ($1.80)
+APR: Day 0.08% Week 0.58% Year 30.02%
+You are staking 0.00 AUTO ($0.00), 0.00% of the pool.
+Stake 0.00 AUTO - Fee 4%
+Unstake 0.00 AUTO
+Claim 0.00 SAIL ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+UNI
+ Price: $29.31 Market Cap: $108,447,000.00 
+[%]
+Staked: 4.8000 UNI ($140.69)
+SAIL Per Week: 148.24 ($1.80)
+APR: Day 0.18% Week 1.28% Year 66.44%
+You are staking 0.00 UNI ($0.00), 0.00% of the pool.
+Stake 0.00 UNI - Fee 4%
+Unstake 0.00 UNI
+Claim 0.00 SAIL ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+EGG
+ Price: $0.72 Market Cap: $3,413,351.14 
+[%]
+Staked: 15.7369 EGG ($11.38)
+SAIL Per Week: 148.24 ($1.80)
+APR: Day 2.26% Week 15.80% Year 821.35%
+You are staking 0.00 EGG ($0.00), 0.00% of the pool.
+Stake 0.00 EGG - Fee 4%
+Unstake 0.00 EGG
+Claim 0.00 SAIL ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $54,019.87

@@ -1,0 +1,1075 @@
+INFO  : https://yieldfields.finance
+******************************************************************************
+
+Mon Aug 23 2021 14:31:12 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 58 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+Field
+ Price: $0.00 Market Cap: $0.00 
+Staked: 15559015.4938 Field ($0.00)
+FIELD Per Week: 503865.71 ($1,839.61)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 Field ($0.00), NaN% of the pool.
+Stake 0.00 Field
+Unstake 0.00 Field
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[Field]-[WBNB] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.76 TVL: $16,990.02
+Field Price: $0.003651
+WBNB Price: $483.95
+Staked: 6054.2670 Field-LP ($16,727.04)
+FIELD Per Week: 107434.05 ($392.24)
+APR: Day 0.33% Week 2.34% Year 121.94%
+You are staking 0.00 [Field]-[WBNB] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Field]-[WBNB] Yield Fields LP
+Unstake 0.00 [Field]-[WBNB] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $45.05 TVL: $33,498.72
+WBNB Price: $483.95
+BUSD Price: $1.00
+Staked: 724.9086 Field-LP ($32,660.17)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.04% Week 0.30% Year 15.61%
+You are staking 0.00 [WBNB]-[BUSD] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Yield Fields LP
+Unstake 0.00 [WBNB]-[BUSD] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[ETH]-[WBNB] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,546.55 TVL: $20,984.64
+ETH Price: $3,322.25
+WBNB Price: $483.95
+Staked: 8.1946 Field-LP ($20,867.91)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.07% Week 0.47% Year 24.44%
+You are staking 0.00 [ETH]-[WBNB] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Yield Fields LP
+Unstake 0.00 [ETH]-[WBNB] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WMUE]-[WBNB] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.83 TVL: $26,311.45
+WMUE Price: $0.007451
+WBNB Price: $483.95
+Staked: 6775.0789 Field-LP ($25,956.49)
+FIELD Per Week: 53717.03 ($196.12)
+APR: Day 0.11% Week 0.76% Year 39.29%
+You are staking 0.00 [WMUE]-[WBNB] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMUE]-[WBNB] Yield Fields LP
+Unstake 0.00 [WMUE]-[WBNB] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WMUE]-[BUSD] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.17 TVL: $8,003.47
+WMUE Price: $0.007451
+BUSD Price: $1.00
+Staked: 44331.7083 Field-LP ($7,711.29)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.18% Week 1.27% Year 66.13%
+You are staking 0.00 [WMUE]-[BUSD] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMUE]-[BUSD] Yield Fields LP
+Unstake 0.00 [WMUE]-[BUSD] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[wCRW]-[BUSD] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.55 TVL: $12,285.19
+wCRW Price: $0.08
+BUSD Price: $1.00
+Staked: 21551.2402 Field-LP ($11,958.74)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.12% Week 0.82% Year 42.64%
+You are staking 0.00 [wCRW]-[BUSD] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wCRW]-[BUSD] Yield Fields LP
+Unstake 0.00 [wCRW]-[BUSD] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[Field]-[BUSD] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.13 TVL: $7,983.47
+Field Price: $0.003651
+BUSD Price: $1.00
+Staked: 63112.6459 Field-LP ($7,901.95)
+FIELD Per Week: 107434.05 ($392.24)
+APR: Day 0.71% Week 4.96% Year 258.12%
+You are staking 0.00 [Field]-[BUSD] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Field]-[BUSD] Yield Fields LP
+Unstake 0.00 [Field]-[BUSD] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[WXDN]-[BUSD] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.09 TVL: $4,290.58
+WXDN Price: $0.001993
+BUSD Price: $1.00
+Staked: 43923.7993 Field-LP ($3,967.56)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.35% Week 2.47% Year 128.52%
+You are staking 0.00 [WXDN]-[BUSD] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WXDN]-[BUSD] Yield Fields LP
+Unstake 0.00 [WXDN]-[BUSD] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[USDT]-[BUSD] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $21,469.61
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 10706.2509 Field-LP ($21,440.71)
+FIELD Per Week: 13429.26 ($49.03)
+APR: Day 0.03% Week 0.23% Year 11.89%
+You are staking 0.00 [USDT]-[BUSD] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Yield Fields LP
+Unstake 0.00 [USDT]-[BUSD] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[wZER]-[BUSD] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.72 TVL: $16,104.55
+wZER Price: $0.13
+BUSD Price: $1.00
+Staked: 22283.1063 Field-LP ($16,086.93)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.09% Week 0.61% Year 31.70%
+You are staking 0.00 [wZER]-[BUSD] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wZER]-[BUSD] Yield Fields LP
+Unstake 0.00 [wZER]-[BUSD] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[wAUDAX]-[BUSD] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.09 TVL: $2,876.99
+wAUDAX Price: $0.001828
+BUSD Price: $1.00
+Staked: 33018.5992 Field-LP ($2,857.51)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.49% Week 3.43% Year 178.45%
+You are staking 0.00 [wAUDAX]-[BUSD] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wAUDAX]-[BUSD] Yield Fields LP
+Unstake 0.00 [wAUDAX]-[BUSD] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WMUE]-[Field] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $6,619.84
+WMUE Price: $0.007451
+Field Price: $0.003651
+Staked: 626826.2443 Field-LP ($6,601.07)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.21% Week 1.49% Year 77.25%
+You are staking 0.00 [WMUE]-[Field] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMUE]-[Field] Yield Fields LP
+Unstake 0.00 [WMUE]-[Field] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[wBITC]-[WBNB] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.76 TVL: $2,871.91
+wBITC Price: $0.007242
+WBNB Price: $483.95
+Staked: 761.6607 Field-LP ($2,864.47)
+FIELD Per Week: 13429.26 ($49.03)
+APR: Day 0.24% Week 1.71% Year 89.01%
+You are staking 0.00 [wBITC]-[WBNB] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wBITC]-[WBNB] Yield Fields LP
+Unstake 0.00 [wBITC]-[WBNB] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[wBITC]-[BUSD] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.17 TVL: $5,228.53
+wBITC Price: $0.007242
+BUSD Price: $1.00
+Staked: 30395.9608 Field-LP ($5,215.30)
+FIELD Per Week: 13429.26 ($49.03)
+APR: Day 0.13% Week 0.94% Year 48.89%
+You are staking 0.00 [wBITC]-[BUSD] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wBITC]-[BUSD] Yield Fields LP
+Unstake 0.00 [wBITC]-[BUSD] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[wCRW]-[WBNB] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $12.22 TVL: $13,136.56
+wCRW Price: $0.08
+WBNB Price: $483.95
+Staked: 1070.8437 Field-LP ($13,080.49)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.11% Week 0.75% Year 38.98%
+You are staking 0.00 [wCRW]-[WBNB] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wCRW]-[WBNB] Yield Fields LP
+Unstake 0.00 [wCRW]-[WBNB] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[Cake]-[WBNB] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $220.51 TVL: $1,364.64
+Cake Price: $24.98
+WBNB Price: $483.95
+Staked: 6.1653 Field-LP ($1,359.49)
+FIELD Per Week: 5371.70 ($19.61)
+APR: Day 0.21% Week 1.44% Year 75.02%
+You are staking 0.00 [Cake]-[WBNB] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Yield Fields LP
+Unstake 0.00 [Cake]-[WBNB] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[Field]-[DOGE] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6,926.73 TVL: $1,868.49
+Field Price: $0.003651
+DOGE Price: $0.32
+Staked: 0.2675 Field-LP ($1,852.68)
+FIELD Per Week: 5371.70 ($19.61)
+APR: Day 0.15% Week 1.06% Year 55.05%
+You are staking 0.00 [Field]-[DOGE] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Field]-[DOGE] Yield Fields LP
+Unstake 0.00 [Field]-[DOGE] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[BANANA]-[BUSD] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.40 TVL: $2,300.02
+BANANA Price: $4.77
+BUSD Price: $1.00
+Staked: 520.6619 Field-LP ($2,293.38)
+FIELD Per Week: 5371.70 ($19.61)
+APR: Day 0.12% Week 0.86% Year 44.47%
+You are staking 0.00 [BANANA]-[BUSD] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BANANA]-[BUSD] Yield Fields LP
+Unstake 0.00 [BANANA]-[BUSD] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[BTCB]-[BUSD] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $449.42 TVL: $41,210.81
+BTCB Price: $49,954.00
+BUSD Price: $1.00
+Staked: 91.6118 Field-LP ($41,171.84)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.03% Week 0.24% Year 12.38%
+You are staking 0.00 [BTCB]-[BUSD] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[BUSD] Yield Fields LP
+Unstake 0.00 [BTCB]-[BUSD] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[Field]-[wBBP] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $4,443.41
+Field Price: $0.003651
+wBBP Price: $0.000262
+Staked: 2239711.1646 Field-LP ($4,424.40)
+FIELD Per Week: 13429.26 ($49.03)
+APR: Day 0.16% Week 1.11% Year 57.63%
+You are staking 0.00 [Field]-[wBBP] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Field]-[wBBP] Yield Fields LP
+Unstake 0.00 [Field]-[wBBP] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[WMUE]-[wBBP] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $3,254.56
+WMUE Price: $0.007451
+wBBP Price: $0.000262
+Staked: 1153992.5405 Field-LP ($3,248.51)
+FIELD Per Week: 6714.63 ($24.52)
+APR: Day 0.11% Week 0.75% Year 39.24%
+You are staking 0.00 [WMUE]-[wBBP] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMUE]-[wBBP] Yield Fields LP
+Unstake 0.00 [WMUE]-[wBBP] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[BTCB]-[WBNB] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9,863.06 TVL: $13,079.79
+BTCB Price: $49,954.00
+WBNB Price: $483.95
+Staked: 1.3232 Field-LP ($13,050.64)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.11% Week 0.75% Year 39.07%
+You are staking 0.00 [BTCB]-[WBNB] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Yield Fields LP
+Unstake 0.00 [BTCB]-[WBNB] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[DOGE]-[BUSD] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $114,111.10 TVL: $1,651.87
+DOGE Price: $0.32
+BUSD Price: $1.00
+Staked: 0.0145 Field-LP ($1,649.30)
+FIELD Per Week: 5371.70 ($19.61)
+APR: Day 0.17% Week 1.19% Year 61.83%
+You are staking 0.00 [DOGE]-[BUSD] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[BUSD] Yield Fields LP
+Unstake 0.00 [DOGE]-[BUSD] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[wTROLL]-[BUSD] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.09 TVL: $1,806.18
+wTROLL Price: $0.001995
+BUSD Price: $1.00
+Staked: 20138.3625 Field-LP ($1,804.94)
+FIELD Per Week: 13429.26 ($49.03)
+APR: Day 0.39% Week 2.72% Year 141.25%
+You are staking 0.00 [wTROLL]-[BUSD] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wTROLL]-[BUSD] Yield Fields LP
+Unstake 0.00 [wTROLL]-[BUSD] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+[WBNB]-[wTROLL] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.98 TVL: $2,692.88
+WBNB Price: $483.95
+wTROLL Price: $0.001995
+Staked: 1177.1274 Field-LP ($2,326.74)
+FIELD Per Week: 13429.26 ($49.03)
+APR: Day 0.30% Week 2.11% Year 109.58%
+You are staking 0.00 [WBNB]-[wTROLL] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[wTROLL] Yield Fields LP
+Unstake 0.00 [WBNB]-[wTROLL] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+[BTCB]-[wTROLL] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $20.01 TVL: $1,482.91
+BTCB Price: $49,954.00
+wTROLL Price: $0.001995
+Staked: 74.0505 Field-LP ($1,482.05)
+FIELD Per Week: 13429.26 ($49.03)
+APR: Day 0.47% Week 3.31% Year 172.03%
+You are staking 0.00 [BTCB]-[wTROLL] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[wTROLL] Yield Fields LP
+Unstake 0.00 [BTCB]-[wTROLL] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+[WSAFE]-[BUSD] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9,600.12 TVL: $3,124.88
+WSAFE Price: $0.02
+BUSD Price: $1.00
+Staked: 0.3243 Field-LP ($3,113.77)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.45% Week 3.15% Year 163.76%
+You are staking 0.00 [WSAFE]-[BUSD] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WSAFE]-[BUSD] Yield Fields LP
+Unstake 0.00 [WSAFE]-[BUSD] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+[WSAFE]-[BTCB] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,083,370.04 TVL: $2,740.83
+WSAFE Price: $0.02
+BTCB Price: $49,954.00
+Staked: 0.0013 Field-LP ($2,739.38)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.51% Week 3.58% Year 186.14%
+You are staking 0.00 [WSAFE]-[BTCB] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WSAFE]-[BTCB] Yield Fields LP
+Unstake 0.00 [WSAFE]-[BTCB] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+[WSAFE]-[WBNB] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $210,373.19 TVL: $4,570.34
+WSAFE Price: $0.02
+WBNB Price: $483.95
+Staked: 0.0212 Field-LP ($4,465.83)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.31% Week 2.20% Year 114.18%
+You are staking 0.00 [WSAFE]-[WBNB] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WSAFE]-[WBNB] Yield Fields LP
+Unstake 0.00 [WSAFE]-[WBNB] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+[Field]-[EGG] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.10 TVL: $1,645.90
+Field Price: $0.003651
+EGG Price: $0.72
+Staked: 15935.5661 Field-LP ($1,644.19)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.85% Week 5.96% Year 310.13%
+You are staking 0.00 [Field]-[EGG] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Field]-[EGG] Yield Fields LP
+Unstake 0.00 [Field]-[EGG] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+33 - 
+[wVTC]-[BUSD] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.67 TVL: $3,108.15
+wVTC Price: $0.70
+BUSD Price: $1.00
+Staked: 1858.5007 Field-LP ($3,106.36)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.45% Week 3.16% Year 164.15%
+You are staking 0.00 [wVTC]-[BUSD] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wVTC]-[BUSD] Yield Fields LP
+Unstake 0.00 [wVTC]-[BUSD] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+34 - 
+[Field]-[wAUDAX] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $3,042.80
+Field Price: $0.003651
+wAUDAX Price: $0.001828
+Staked: 584567.0794 Field-LP ($3,041.64)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.46% Week 3.22% Year 167.64%
+You are staking 0.00 [Field]-[wAUDAX] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Field]-[wAUDAX] Yield Fields LP
+Unstake 0.00 [Field]-[wAUDAX] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+35 - 
+[wVTC]-[BTCB] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $373.92 TVL: $4,125.65
+wVTC Price: $0.70
+BTCB Price: $49,954.00
+Staked: 11.0144 Field-LP ($4,118.53)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.34% Week 2.38% Year 123.81%
+You are staking 0.00 [wVTC]-[BTCB] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wVTC]-[BTCB] Yield Fields LP
+Unstake 0.00 [wVTC]-[BTCB] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+36 - 
+[wIQ]-[BUSD] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.22 TVL: $3,137.02
+wIQ Price: $0.01
+BUSD Price: $1.00
+Staked: 14048.0733 Field-LP ($3,135.42)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.45% Week 3.13% Year 162.63%
+You are staking 0.00 [wIQ]-[BUSD] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wIQ]-[BUSD] Yield Fields LP
+Unstake 0.00 [wIQ]-[BUSD] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+37 - 
+[TLM]-[BUSD] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,943,598.95 TVL: $2,705.81
+TLM Price: $0.30
+BUSD Price: $1.00
+Staked: 0.0002 Field-LP ($2,705.56)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.52% Week 3.62% Year 188.47%
+You are staking 0.00 [TLM]-[BUSD] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TLM]-[BUSD] Yield Fields LP
+Unstake 0.00 [TLM]-[BUSD] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+38 - 
+[EOS]-[BUSD] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.71 TVL: $3,093.21
+EOS Price: $5.55
+BUSD Price: $1.00
+Staked: 656.3512 Field-LP ($3,092.80)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.45% Week 3.17% Year 164.87%
+You are staking 0.00 [EOS]-[BUSD] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [EOS]-[BUSD] Yield Fields LP
+Unstake 0.00 [EOS]-[BUSD] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+39 - 
+[WMUE]-[BTCB] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $38.61 TVL: $5,846.07
+WMUE Price: $0.007451
+BTCB Price: $49,954.00
+Staked: 151.4134 Field-LP ($5,845.32)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.24% Week 1.68% Year 87.23%
+You are staking 0.00 [WMUE]-[BTCB] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMUE]-[BTCB] Yield Fields LP
+Unstake 0.00 [WMUE]-[BTCB] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+40 - 
+[ETH]-[USDT] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $115.36 TVL: $10,649.61
+ETH Price: $3,322.25
+USDT Price: $1.00
+Staked: 92.3106 Field-LP ($10,649.01)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.13% Week 0.92% Year 47.88%
+You are staking 0.00 [ETH]-[USDT] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[USDT] Yield Fields LP
+Unstake 0.00 [ETH]-[USDT] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+41 - 
+[ALICE]-[BUSD] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8,541,297.27 TVL: $1,691.85
+ALICE Price: $18.19
+BUSD Price: $1.00
+Staked: 0.0002 Field-LP ($1,691.26)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.83% Week 5.80% Year 301.50%
+You are staking 0.00 [ALICE]-[BUSD] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALICE]-[BUSD] Yield Fields LP
+Unstake 0.00 [ALICE]-[BUSD] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+42 - 
+[TWT]-[USDT] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.96 TVL: $2,776.55
+TWT Price: $0.96
+USDT Price: $1.00
+Staked: 1414.4984 Field-LP ($2,774.72)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.50% Week 3.53% Year 183.77%
+You are staking 0.00 [TWT]-[USDT] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TWT]-[USDT] Yield Fields LP
+Unstake 0.00 [TWT]-[USDT] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+43 - 
+[ETH]-[BTCB] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $25,771.96 TVL: $16,688.37
+ETH Price: $3,322.25
+BTCB Price: $49,954.00
+Staked: 0.6475 Field-LP ($16,687.69)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.08% Week 0.59% Year 30.56%
+You are staking 0.00 [ETH]-[BTCB] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BTCB] Yield Fields LP
+Unstake 0.00 [ETH]-[BTCB] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+44 - 
+[TKO]-[BUSD] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.07 TVL: $2,068.16
+TKO Price: $2.35
+BUSD Price: $1.00
+Staked: 674.4215 Field-LP ($2,067.93)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.68% Week 4.74% Year 246.58%
+You are staking 0.00 [TKO]-[BUSD] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TKO]-[BUSD] Yield Fields LP
+Unstake 0.00 [TKO]-[BUSD] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+45 - 
+[BUSD]-[ONT] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.14 TVL: $2,147.27
+BUSD Price: $1.00
+ONT Price: $1.15
+Staked: 1001.9452 Field-LP ($2,147.05)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.65% Week 4.57% Year 237.50%
+You are staking 0.00 [BUSD]-[ONT] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[ONT] Yield Fields LP
+Unstake 0.00 [BUSD]-[ONT] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+46 - 
+[USDT]-[BTCB] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $447.43 TVL: $5,290.27
+USDT Price: $1.00
+BTCB Price: $49,954.00
+Staked: 11.8226 Field-LP ($5,289.80)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.26% Week 1.85% Year 96.40%
+You are staking 0.00 [USDT]-[BTCB] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BTCB] Yield Fields LP
+Unstake 0.00 [USDT]-[BTCB] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+47 - 
+[wCRW]-[BTCB] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $123.35 TVL: $2,242.12
+wCRW Price: $0.08
+BTCB Price: $49,954.00
+Staked: 18.1746 Field-LP ($2,241.92)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.62% Week 4.37% Year 227.44%
+You are staking 0.00 [wCRW]-[BTCB] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wCRW]-[BTCB] Yield Fields LP
+Unstake 0.00 [wCRW]-[BTCB] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+48 - 
+[Field]-[WSAFE] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $583.32 TVL: $1,472.84
+Field Price: $0.003651
+WSAFE Price: $0.02
+Staked: 2.5248 Field-LP ($1,472.76)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.95% Week 6.66% Year 346.23%
+You are staking 0.00 [Field]-[WSAFE] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Field]-[WSAFE] Yield Fields LP
+Unstake 0.00 [Field]-[WSAFE] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+49 - 
+[WBNB]-[wBBP] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.73 TVL: $1,354.85
+WBNB Price: $483.95
+wBBP Price: $0.000262
+Staked: 1862.0407 Field-LP ($1,353.41)
+FIELD Per Week: 6714.63 ($24.52)
+APR: Day 0.26% Week 1.81% Year 94.19%
+You are staking 0.00 [WBNB]-[wBBP] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[wBBP] Yield Fields LP
+Unstake 0.00 [WBNB]-[wBBP] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+50 - 
+[WNYC]-[WBNB] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.41 TVL: $7,131.71
+WNYC Price: $0.0000365805
+WBNB Price: $483.95
+Staked: 17435.1911 Field-LP ($7,131.22)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.20% Week 1.38% Year 71.50%
+You are staking 0.00 [WNYC]-[WBNB] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WNYC]-[WBNB] Yield Fields LP
+Unstake 0.00 [WNYC]-[WBNB] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+51 - 
+[BAKE]-[BUSD] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.54 TVL: $1,654.74
+BAKE Price: $3.14
+BUSD Price: $1.00
+Staked: 466.9685 Field-LP ($1,654.48)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.85% Week 5.93% Year 308.20%
+You are staking 0.00 [BAKE]-[BUSD] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BAKE]-[BUSD] Yield Fields LP
+Unstake 0.00 [BAKE]-[BUSD] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+52 - 
+[wAUDAX]-[WBNB] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.89 TVL: $2,415.71
+wAUDAX Price: $0.001828
+WBNB Price: $483.95
+Staked: 1275.0174 Field-LP ($2,413.78)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.58% Week 4.06% Year 211.25%
+You are staking 0.00 [wAUDAX]-[WBNB] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wAUDAX]-[WBNB] Yield Fields LP
+Unstake 0.00 [wAUDAX]-[WBNB] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+53 - 
+[FAIR]-[BUSD] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $971.98
+FAIR Price: $0.0000000000
+BUSD Price: $1.00
+Staked: 79158.2743 Field-LP ($971.73)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 1.44% Week 10.09% Year 524.75%
+You are staking 0.00 [FAIR]-[BUSD] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FAIR]-[BUSD] Yield Fields LP
+Unstake 0.00 [FAIR]-[BUSD] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+54 - 
+[USDC]-[BUSD] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $4,768.63
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 2388.4412 Field-LP ($4,768.63)
+FIELD Per Week: 13429.26 ($49.03)
+APR: Day 0.15% Week 1.03% Year 53.47%
+You are staking 0.00 [USDC]-[BUSD] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Yield Fields LP
+Unstake 0.00 [USDC]-[BUSD] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+55 - 
+[Field]-[BTCB] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $27.02 TVL: $8,524.74
+Field Price: $0.003651
+BTCB Price: $49,954.00
+Staked: 314.5016 Field-LP ($8,497.41)
+FIELD Per Week: 107434.05 ($392.24)
+APR: Day 0.66% Week 4.62% Year 240.03%
+You are staking 0.00 [Field]-[BTCB] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Field]-[BTCB] Yield Fields LP
+Unstake 0.00 [Field]-[BTCB] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+56 - 
+[WMUE]-[wCRW] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.05 TVL: $1,407.25
+WMUE Price: $0.007451
+wCRW Price: $0.08
+Staked: 29539.1389 Field-LP ($1,407.23)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 1.00% Week 6.97% Year 362.35%
+You are staking 0.00 [WMUE]-[wCRW] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMUE]-[wCRW] Yield Fields LP
+Unstake 0.00 [WMUE]-[wCRW] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+57 - 
+[ATA]-[WBNB] Yield Fields LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $36.75 TVL: $1,525.58
+ATA Price: $0.70
+WBNB Price: $483.95
+Staked: 41.5024 Field-LP ($1,525.36)
+FIELD Per Week: 26858.51 ($98.06)
+APR: Day 0.92% Week 6.43% Year 334.29%
+You are staking 0.00 [ATA]-[WBNB] Yield Fields LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ATA]-[WBNB] Yield Fields LP
+Unstake 0.00 [ATA]-[WBNB] Yield Fields LP
+Claim 0.00 FIELD ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $382,315.80

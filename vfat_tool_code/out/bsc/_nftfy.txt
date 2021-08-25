@@ -1,0 +1,57 @@
+INFO  : https://nftfy.org
+**************************************************************************
+
+Mon Aug 23 2021 14:27:50 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 2 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[NFTFY]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.71 TVL: $181,434.69
+NFTFY Price: $0.12
+BUSD Price: $1.00
+Staked: 55927.2342 Cake-LP ($39,793.54)
+NFTFY Per Week: 9727.20 ($1,198.75)
+APR: Day 0.43% Week 3.01% Year 156.65%
+You are staking 0.00 [NFTFY]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NFTFY]-[BUSD] Cake LP
+Unstake 0.00 [NFTFY]-[BUSD] Cake LP
+Claim 0.00 NFTFY ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WBNB]-[NFTFY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $15.70 TVL: $65,033.26
+WBNB Price: $483.90
+NFTFY Price: $0.12
+Staked: 3752.2790 Cake-LP ($58,914.30)
+NFTFY Per Week: 9727.20 ($1,198.75)
+APR: Day 0.29% Week 2.03% Year 105.81%
+You are staking 0.00 [WBNB]-[NFTFY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[NFTFY] Cake LP
+Unstake 0.00 [WBNB]-[NFTFY] Cake LP
+Claim 0.00 NFTFY ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $98,707.84

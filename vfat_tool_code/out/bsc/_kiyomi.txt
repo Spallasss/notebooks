@@ -1,0 +1,359 @@
+INFO  : https://kiyomi.finance
+***********************************************************************************
+
+Mon Aug 23 2021 09:14:29 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 22 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[KYM]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $29.15 TVL: $922.16
+KYM Price: $0.34
+WBNB Price: $484.10
+Staked: 30.5745 Cake-LP ($891.21)
+KYM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [KYM]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KYM]-[WBNB] Cake LP
+Unstake 0.00 [KYM]-[WBNB] Cake LP
+Claim 0.00 KYM ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[KYM]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.31 TVL: $305.52
+KYM Price: $0.34
+BUSD Price: $1.00
+Staked: 230.0071 Cake-LP ($302.17)
+KYM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [KYM]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KYM]-[BUSD] Cake LP
+Unstake 0.00 [KYM]-[BUSD] Cake LP
+Claim 0.00 KYM ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.73 TVL: $527,294,133.62
+WBNB Price: $484.10
+BUSD Price: $1.00
+Staked: 0.1337 Cake-LP ($6.65)
+KYM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 1.9%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 KYM ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $225.00 TVL: $1,029,799,319.31
+Cake Price: $25.01
+WBNB Price: $484.10
+Staked: 0.0000 Cake-LP ($0.00)
+KYM Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 1.9%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 KYM ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,652.06 TVL: $261,787,920.16
+ETH Price: $3,330.60
+WBNB Price: $484.10
+Staked: 0.0459 Cake-LP ($121.77)
+KYM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 1.9%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 KYM ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,212.80 TVL: $173,722,835.65
+BTCB Price: $49,954.00
+WBNB Price: $484.10
+Staked: 0.0000 Cake-LP ($0.00)
+KYM Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 1.9%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 KYM ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+Cake
+ Price: $25.01 Market Cap: $10,407,401,688.88 
+[%]
+Staked: 20.5302 Cake ($513.46)
+KYM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 1.9%
+Unstake 0.00 Cake
+Claim 0.00 KYM ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+WBNB
+ Price: $484.10 Market Cap: $3,426,074,123.89 
+[%]
+Staked: 0.0375 WBNB ($18.16)
+KYM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 1.9%
+Unstake 0.00 WBNB
+Claim 0.00 KYM ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+ETH
+ Price: $3,330.60 Market Cap: $4,346,433,000.00 
+[%]
+Staked: 0.0000 ETH ($0.00)
+KYM Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ETH ($0.00), NaN% of the pool.
+Stake 0.00 ETH - Fee 1.9%
+Unstake 0.00 ETH
+Claim 0.00 KYM ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.0002 BTCB ($10.36)
+KYM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 1.9%
+Unstake 0.00 BTCB
+Claim 0.00 KYM ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+BUSD
+ Price: $1.00 Market Cap: $4,194,786,121.88 
+[%]
+Staked: 157.8688 BUSD ($157.64)
+KYM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 1.9%
+Unstake 0.00 BUSD
+Claim 0.00 KYM ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+KiCr
+ Price: $0.00 Market Cap: $0.00 
+Staked: 575.8383 KiCr ($0.00)
+KYM Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 KiCr ($0.00), NaN% of the pool.
+Stake 0.00 KiCr
+Unstake 0.00 KiCr
+Claim 0.00 KYM ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[KiCr]-[KYM] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.54 TVL: $1,275.41
+KiCr Price: $0.21
+KYM Price: $0.34
+Staked: 0.0000 Ki-LP ($0.00)
+KYM Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [KiCr]-[KYM] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [KiCr]-[KYM] Uni LP
+Unstake 0.00 [KiCr]-[KYM] Uni LP
+Claim 0.00 KYM ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+PoKi
+ Price: $0.00 Market Cap: $0.00 
+Staked: 510.4747 PoKi ($0.00)
+KYM Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 PoKi ($0.00), NaN% of the pool.
+Stake 0.00 PoKi
+Unstake 0.00 PoKi
+Claim 0.00 KYM ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+PoKiCr
+ Price: $0.00 Market Cap: $0.00 
+Staked: 216.6545 PoKiCr ($0.00)
+KYM Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 PoKiCr ($0.00), NaN% of the pool.
+Stake 0.00 PoKiCr
+Unstake 0.00 PoKiCr
+Claim 0.00 KYM ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[PoKi]-[KYM] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.90 TVL: $4,204.94
+PoKi Price: $0.58
+KYM Price: $0.34
+Staked: 0.0000 Ki-LP ($0.00)
+KYM Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [PoKi]-[KYM] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [PoKi]-[KYM] Uni LP
+Unstake 0.00 [PoKi]-[KYM] Uni LP
+Claim 0.00 KYM ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[PoKiCr]-[KYM] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.97 TVL: $1.43
+PoKiCr Price: $0.68
+KYM Price: $0.34
+Staked: 1.0000 Ki-LP ($0.97)
+KYM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [PoKiCr]-[KYM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PoKiCr]-[KYM] Uni LP
+Unstake 0.00 [PoKiCr]-[KYM] Uni LP
+Claim 0.00 KYM ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[PoKi]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $33.80 TVL: $4.19
+PoKi Price: $0.58
+WBNB Price: $484.10
+Staked: 0.0422 Ki-LP ($1.43)
+KYM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [PoKi]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PoKi]-[WBNB] Uni LP
+Unstake 0.00 [PoKi]-[WBNB] Uni LP
+Claim 0.00 KYM ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[PoKi]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.59 TVL: $1.92
+PoKi Price: $0.58
+BUSD Price: $1.00
+Staked: 0.5000 Ki-LP ($0.80)
+KYM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [PoKi]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PoKi]-[BUSD] Uni LP
+Unstake 0.00 [PoKi]-[BUSD] Uni LP
+Claim 0.00 KYM ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[KYM]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $27.54 TVL: $935.97
+KYM Price: $0.34
+WBNB Price: $484.10
+Staked: 0.0226 Ki-LP ($0.62)
+KYM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [KYM]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KYM]-[WBNB] Uni LP
+Unstake 0.00 [KYM]-[WBNB] Uni LP
+Claim 0.00 KYM ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[KYM]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.18 TVL: $1,003.41
+KYM Price: $0.34
+BUSD Price: $1.00
+Staked: 112.4601 Ki-LP ($133.00)
+KYM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [KYM]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KYM]-[BUSD] Uni LP
+Unstake 0.00 [KYM]-[BUSD] Uni LP
+Claim 0.00 KYM ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $2,158.23

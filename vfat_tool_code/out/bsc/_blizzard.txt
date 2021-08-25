@@ -1,0 +1,486 @@
+INFO  : https://blizzard.money
+***************************************************************************************
+
+Mon Aug 23 2021 13:53:45 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 70 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+xBLZD
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1103299.3212 xBLZD ($0.00)
+xBLZD Per Week: 14341.59 ($14,867.26)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 xBLZD ($0.00), NaN% of the pool.
+Stake 0.00 xBLZD
+Unstake 0.00 xBLZD
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[xBLZD]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.10 TVL: $1,982,512.39
+xBLZD Price: $1.04
+BUSD Price: $1.00
+Staked: 941603.3079 Cake-LP ($1,978,889.57)
+xBLZD Per Week: 57366.37 ($59,469.06)
+APR: Day 0.43% Week 3.01% Year 156.27%
+You are staking 0.00 [xBLZD]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [xBLZD]-[BUSD] Cake LP
+Unstake 0.00 [xBLZD]-[BUSD] Cake LP
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[xBLZD]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $46.03 TVL: $1,103,678.30
+xBLZD Price: $1.04
+WBNB Price: $484.00
+Staked: 23923.0548 Cake-LP ($1,101,133.05)
+xBLZD Per Week: 34419.82 ($35,681.43)
+APR: Day 0.46% Week 3.24% Year 168.50%
+You are staking 0.00 [xBLZD]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [xBLZD]-[WBNB] Cake LP
+Unstake 0.00 [xBLZD]-[WBNB] Cake LP
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 1434.16 ($1,486.73)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 1434.16 ($1,486.73)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 1434.16 ($1,486.73)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+33 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 1434.16 ($1,486.73)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+34 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 717.08 ($743.36)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+35 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 717.08 ($743.36)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+36 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 717.08 ($743.36)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+37 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 717.08 ($743.36)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+38 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 717.08 ($743.36)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+39 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 430.25 ($446.02)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+40 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 430.25 ($446.02)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+41 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 430.25 ($446.02)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+42 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 430.25 ($446.02)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+43 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 430.25 ($446.02)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+44 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 573.66 ($594.69)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+45 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 573.66 ($594.69)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+46 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 573.66 ($594.69)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+47 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 573.66 ($594.69)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+48 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 573.66 ($594.69)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+49 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 573.66 ($594.69)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+50 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 286.83 ($297.35)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+51 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 286.83 ($297.35)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+52 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 286.83 ($297.35)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+53 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 573.66 ($594.69)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+54 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 573.66 ($594.69)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+55 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 573.66 ($594.69)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+56 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 573.66 ($594.69)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+57 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 573.66 ($594.69)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+60 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 1434.16 ($1,486.73)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+61 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 1434.16 ($1,486.73)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+62 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 1434.16 ($1,486.73)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+63 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 1434.16 ($1,486.73)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+64 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 717.08 ($743.36)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+65 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 717.08 ($743.36)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+66 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 717.08 ($743.36)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+67 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 717.08 ($743.36)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+68 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 717.08 ($743.36)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+69 - 
+BLZDST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 BLZDST ($0.00)
+xBLZD Per Week: 7170.80 ($7,433.63)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLZDST ($0.00), NaN% of the pool.
+Stake 0.00 BLZDST
+Unstake 0.00 BLZDST
+Claim 0.00 xBLZD ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $3,080,022.62

@@ -1,0 +1,137 @@
+INFO  : https://www.polyharvest.finance
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:40:07 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 8 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[Wheat] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $38,061.23 TVL: $4.20
+USDC Price: $1.00
+Wheat Price: $0.000280
+Staked: 0.0001 UNI-V2 ($3.25)
+WHEAT Per Week: 3260.38 ($0.91)
+APR: Day 4.01% Week 28.07% Year 1459.63%
+You are staking 0.00 [USDC]-[Wheat] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[Wheat] Uni LP
+Unstake 0.00 [USDC]-[Wheat] Uni LP
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+Wheat
+ Price: $0.000280 Market Cap: $11.41 
+[%]
+Staked: 27581.0618 Wheat ($7.72)
+WHEAT Per Week: 2608.30 ($0.73)
+APR: Day 1.35% Week 9.46% Year 491.76%
+You are staking 0.00 Wheat ($0.00), 0.00% of the pool.
+Stake 0.00 Wheat
+Unstake 0.00 Wheat
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+WMATIC
+ Price: $1.65 Market Cap: $605,528,028.39 
+[%]
+Staked: 4.7649 WMATIC ($7.86)
+WHEAT Per Week: 652.08 ($0.18)
+APR: Day 0.33% Week 2.32% Year 120.70%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+DAI
+ Price: $1.00 Market Cap: $375,659,203.55 
+[%]
+Staked: 8.6400 DAI ($8.63)
+WHEAT Per Week: 326.04 ($0.09)
+APR: Day 0.15% Week 1.06% Year 55.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WETH
+ Price: $3,327.08 Market Cap: $2,031,576,013.86 
+[%]
+Staked: 0.0004 WETH ($1.49)
+WHEAT Per Week: 326.04 ($0.09)
+APR: Day 0.87% Week 6.10% Year 317.39%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+QUICK
+ Price: $738.26 Market Cap: $706,711,696.40 
+[%]
+Staked: 0.0041 QUICK ($3.02)
+WHEAT Per Week: 326.04 ($0.09)
+APR: Day 0.43% Week 3.02% Year 157.25%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,615,995.00 TVL: $33,412,654.33
+WMATIC Price: $1.65
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($210.40)
+WHEAT Per Week: 652.08 ($0.18)
+APR: Day 0.01% Week 0.09% Year 4.51%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[USDC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $74,899,470.86 TVL: $21,367,439.32
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.52)
+WHEAT Per Week: 489.06 ($0.14)
+APR: Day 3.74% Week 26.20% Year 1362.54%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $242.89

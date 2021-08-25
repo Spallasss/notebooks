@@ -1,0 +1,321 @@
+INFO  : https://farmhero.io
+*************************************************************************************
+
+Mon Aug 23 2021 09:13:20 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 19 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,300,553.97
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 48916.1344 Cake-LP ($100,114.63)
+HERO Per Week: 21087.86 ($1,713.02)
+APR: Day 0.24% Week 1.71% Year 88.97%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 HERO ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,928,983.19
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 77238.0193 Cake-LP ($158,943.05)
+HERO Per Week: 21087.86 ($1,713.02)
+APR: Day 0.15% Week 1.08% Year 56.04%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 HERO ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,213.00 TVL: $173,726,268.94
+BTCB Price: $49,954.00
+WBNB Price: $484.12
+Staked: 32.5763 Cake-LP ($332,702.01)
+HERO Per Week: 42175.72 ($3,426.04)
+APR: Day 0.15% Week 1.03% Year 53.55%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 HERO ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BTCB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $472.43 TVL: $137,432,970.21
+BTCB Price: $49,954.00
+BUSD Price: $1.00
+Staked: 914.5605 Cake-LP ($432,064.95)
+HERO Per Week: 84351.44 ($6,852.07)
+APR: Day 0.23% Week 1.59% Year 82.47%
+You are staking 0.00 [BTCB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[BUSD] Cake LP
+Unstake 0.00 [BTCB]-[BUSD] Cake LP
+Claim 0.00 HERO ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,652.19 TVL: $261,800,012.47
+ETH Price: $3,330.79
+WBNB Price: $484.12
+Staked: 33.4625 Cake-LP ($88,748.71)
+HERO Per Week: 42175.72 ($3,426.04)
+APR: Day 0.55% Week 3.86% Year 200.74%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 HERO ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.73 TVL: $527,367,313.51
+WBNB Price: $484.12
+BUSD Price: $1.00
+Staked: 5510.4421 Cake-LP ($274,052.64)
+HERO Per Week: 84351.44 ($6,852.07)
+APR: Day 0.36% Week 2.50% Year 130.01%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 HERO ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[USDT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.62 TVL: $252,199,862.57
+USDT Price: $1.00
+WBNB Price: $484.12
+Staked: 8247.5206 Cake-LP ($417,485.38)
+HERO Per Week: 84351.44 ($6,852.07)
+APR: Day 0.23% Week 1.64% Year 85.35%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 HERO ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $225.01 TVL: $1,029,820,885.45
+Cake Price: $25.01
+WBNB Price: $484.12
+Staked: 1046.3240 Cake-LP ($235,429.30)
+HERO Per Week: 84351.44 ($6,852.07)
+APR: Day 0.42% Week 2.91% Year 151.34%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 HERO ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[WBNB]-[UNI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $243.05 TVL: $33,903,334.70
+WBNB Price: $484.12
+UNI Price: $29.37
+Staked: 870.7034 Cake-LP ($211,622.73)
+HERO Per Week: 42175.72 ($3,426.04)
+APR: Day 0.23% Week 1.62% Year 84.18%
+You are staking 0.00 [WBNB]-[UNI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[UNI] Cake LP
+Unstake 0.00 [WBNB]-[UNI] Cake LP
+Claim 0.00 HERO ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $240.48 TVL: $82,687,109.45
+DOT Price: $28.02
+WBNB Price: $484.12
+Staked: 1031.3191 Cake-LP ($248,016.75)
+HERO Per Week: 42175.72 ($3,426.04)
+APR: Day 0.20% Week 1.38% Year 71.83%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 HERO ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,324,895.66
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 78963.7961 Cake-LP ($160,718.07)
+HERO Per Week: 21087.86 ($1,713.02)
+APR: Day 0.15% Week 1.07% Year 55.42%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 HERO ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[HERO]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $14.07 TVL: $146,310.42
+HERO Price: $0.08
+WBNB Price: $484.12
+Staked: 10194.5029 Cake-LP ($143,483.78)
+HERO Per Week: 168702.89 ($13,704.14)
+APR: Day 1.36% Week 9.55% Year 496.65%
+You are staking 0.00 [HERO]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HERO]-[WBNB] Cake LP
+Unstake 0.00 [HERO]-[WBNB] Cake LP
+Claim 0.00 HERO ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[HERO]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.65 TVL: $242,959.20
+HERO Price: $0.08
+BUSD Price: $1.00
+Staked: 360928.1977 Cake-LP ($234,714.33)
+HERO Per Week: 337405.78 ($27,408.29)
+APR: Day 1.67% Week 11.68% Year 607.22%
+You are staking 0.00 [HERO]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HERO]-[BUSD] Cake LP
+Unstake 0.00 [HERO]-[BUSD] Cake LP
+Claim 0.00 HERO ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[BANANA]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $107.51 TVL: $60,971,574.08
+BANANA Price: $4.77
+WBNB Price: $484.12
+Staked: 936.3135 APE-LP ($100,658.38)
+HERO Per Week: 42175.72 ($3,426.04)
+APR: Day 0.49% Week 3.40% Year 176.99%
+You are staking 0.00 [BANANA]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BANANA]-[WBNB] APE LP
+Unstake 0.00 [BANANA]-[WBNB] APE LP
+Claim 0.00 HERO ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[Cake]-[HERO] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.86 TVL: $39.43
+Cake Price: $25.01
+HERO Price: $0.08
+Staked: 1.0000 APE-LP ($2.86)
+HERO Per Week: 421757.22 ($34,260.36)
+APR: Day 170867.08% Week 1196069.55% Year 62195616.40%
+You are staking 0.00 [Cake]-[HERO] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[HERO] APE LP
+Unstake 0.00 [Cake]-[HERO] APE LP
+Claim 0.00 HERO ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[ZENNY]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.37 TVL: $126,789.25
+ZENNY Price: $1.15
+BUSD Price: $1.00
+Staked: 90318.6988 Cake-LP ($123,629.13)
+HERO Per Week: 358493.64 ($29,121.31)
+APR: Day 3.37% Week 23.56% Year 1224.88%
+You are staking 0.00 [ZENNY]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZENNY]-[BUSD] Cake LP
+Unstake 0.00 [ZENNY]-[BUSD] Cake LP
+Claim 0.00 HERO ($0.00)
+Staking or unstaking also claims rewards.

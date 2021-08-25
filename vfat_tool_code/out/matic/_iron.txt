@@ -1,0 +1,70 @@
+INFO  : https://polygon.iron.finance
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:23:49 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 3 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+IS3USD
+ Price: $1.00 Market Cap: $135,485,089.08 
+[%]
+Staked: 135053920.9503 IS3USD ($135,053,920.95)
+ICE Per Week: 3196334.82 ($871,412.49)
+APR: Day 0.09% Week 0.65% Year 33.55%
+You are staking 0.00 IS3USD ($0.00), 0.00% of the pool.
+Stake 0.00 IS3USD
+Unstake 0.00 IS3USD
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[ICE]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $65.55 TVL: $8,332,270.94
+ICE Price: $0.27
+WETH Price: $3,323.17
+Staked: 126773.9059 FLP ($8,309,425.62)
+ICE Per Week: 2397275.09 ($653,565.90)
+APR: Day 1.12% Week 7.87% Year 409.00%
+You are staking 0.00 [ICE]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ICE]-[WETH] Uni LP
+Unstake 0.00 [ICE]-[WETH] Uni LP
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[USDC]-[ICE] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,268,936.32 TVL: $8,552,128.42
+USDC Price: $1.00
+ICE Price: $0.27
+Staked: 6.7119 DFYNLP ($8,516,972.44)
+ICE Per Week: 2397275.09 ($653,565.90)
+APR: Day 1.10% Week 7.67% Year 399.03%
+You are staking 0.00 [USDC]-[ICE] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[ICE] DFYN LP
+Unstake 0.00 [USDC]-[ICE] DFYN LP
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $151,880,319.01

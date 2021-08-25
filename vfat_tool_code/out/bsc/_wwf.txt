@@ -1,0 +1,347 @@
+INFO  : https://wwf.finance
+********************************************************************************
+
+Mon Aug 23 2021 15:17:45 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Rewards start at block 
+10456000
+
+
+Staking Contract
+Found 20 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WWF]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.93 TVL: $0.00
+WWF Price: $2.13
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+WWF Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WWF]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WWF]-[BUSD] Cake LP
+Unstake 0.00 [WWF]-[BUSD] Cake LP
+Claim 0.00 WWF ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WWF]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $69.63 TVL: $0.00
+WWF Price: $2.13
+WBNB Price: $495.85
+Staked: 0.0000 Cake-LP ($0.00)
+WWF Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WWF]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WWF]-[WBNB] Cake LP
+Unstake 0.00 [WWF]-[WBNB] Cake LP
+Claim 0.00 WWF ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[DRIP]-[WWF] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.17 TVL: $0.00
+DRIP Price: $0.003212
+WWF Price: $2.13
+Staked: 0.0000 Cake-LP ($0.00)
+WWF Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [DRIP]-[WWF] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DRIP]-[WWF] Cake LP
+Unstake 0.00 [DRIP]-[WWF] Cake LP
+Claim 0.00 WWF ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.34 TVL: $531,113,016.04
+WBNB Price: $495.85
+BUSD Price: $1.00
+Staked: 3.7940 Cake-LP ($191.00)
+WWF Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 WWF ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[DRIP]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7.08 TVL: $101,511.71
+DRIP Price: $0.003212
+BUSD Price: $1.00
+Staked: 0.0629 Cake-LP ($0.45)
+WWF Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DRIP]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DRIP]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [DRIP]-[BUSD] Cake LP
+Claim 0.00 WWF ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[DRIP]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $164.59 TVL: $48,603.72
+DRIP Price: $0.003212
+WBNB Price: $495.85
+Staked: 0.0000 Cake-LP ($0.00)
+WWF Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [DRIP]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DRIP]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [DRIP]-[WBNB] Cake LP
+Claim 0.00 WWF ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[JUNGLE]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,237.42 TVL: $1,067.03
+JUNGLE Price: $0.04
+BUSD Price: $1.00
+Staked: 0.0117 Cake-LP ($119.33)
+WWF Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [JUNGLE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JUNGLE]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [JUNGLE]-[BUSD] Cake LP
+Claim 0.00 WWF ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[JUNGLE]-[KONG] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.09 TVL: $17.70
+JUNGLE Price: $0.04
+KONG Price: $0.05
+Staked: 130.9270 Cake-LP ($11.51)
+WWF Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [JUNGLE]-[KONG] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JUNGLE]-[KONG] Cake LP - Fee 3%
+Unstake 0.00 [JUNGLE]-[KONG] Cake LP
+Claim 0.00 WWF ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $314,816,180.00
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 47.5186 Cake-LP ($97.27)
+WWF Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 WWF ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,328.53 TVL: $175,857,676.85
+BTCB Price: $49,881.00
+WBNB Price: $495.85
+Staked: 0.0000 Cake-LP ($0.00)
+WWF Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 WWF ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,686.96 TVL: $265,200,248.35
+ETH Price: $3,337.78
+WBNB Price: $495.85
+Staked: 0.0000 Cake-LP ($0.00)
+WWF Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 WWF ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $229.53 TVL: $1,050,051,924.86
+Cake Price: $25.41
+WBNB Price: $495.85
+Staked: 0.0000 Cake-LP ($0.00)
+WWF Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 WWF ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+WWF
+ Price: $2.13 Market Cap: $212,880.55 
+[%]
+Staked: 0.0013 WWF ($0.00)
+WWF Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WWF ($0.00), 0.00% of the pool.
+Stake 0.00 WWF
+Unstake 0.00 WWF
+Claim 0.00 WWF ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+BUSD
+ Price: $1.00 Market Cap: $4,197,752,027.46 
+[%]
+Staked: 592.0435 BUSD ($591.59)
+WWF Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 WWF ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+WBNB
+ Price: $495.85 Market Cap: $3,496,432,685.26 
+[%]
+Staked: 0.5445 WBNB ($269.98)
+WWF Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 WWF ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+ETH
+ Price: $3,337.78 Market Cap: $4,355,802,900.00 
+[%]
+Staked: 0.0006 ETH ($1.92)
+WWF Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 WWF ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 112.9118 USDT ($112.89)
+WWF Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 WWF ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 71.6221 DAI ($71.62)
+WWF Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 WWF ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+Cake
+ Price: $25.41 Market Cap: $10,574,147,182.34 
+[%]
+Staked: 3.3798 Cake ($85.88)
+WWF Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 WWF ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,591,032.00 
+[%]
+Staked: 96.1002 USDC ($96.02)
+WWF Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 WWF ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,649.47

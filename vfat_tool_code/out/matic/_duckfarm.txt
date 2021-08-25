@@ -1,0 +1,230 @@
+INFO  : https://duckfarm.one
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:14:26 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 14 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[DUCK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8,785.38 TVL: $10.16
+USDC Price: $1.00
+DUCK Price: $0.0000186223
+Staked: 0.0007 UNI-V2 ($5.98)
+DUCK Per Week: 22296.77 ($0.42)
+APR: Day 0.99% Week 6.94% Year 360.97%
+You are staking 0.00 [USDC]-[DUCK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DUCK] Uni LP
+Unstake 0.00 [USDC]-[DUCK] Uni LP
+Claim 0.00 DUCK ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[DUCK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $3.80
+WMATIC Price: $1.64
+DUCK Price: $0.0000186223
+Staked: 336.6262 UNI-V2 ($3.78)
+DUCK Per Week: 20438.71 ($0.38)
+APR: Day 1.44% Week 10.07% Year 523.47%
+You are staking 0.00 [WMATIC]-[DUCK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[DUCK] Uni LP
+Unstake 0.00 [WMATIC]-[DUCK] Uni LP
+Claim 0.00 DUCK ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,600,250.11 TVL: $33,285,707.86
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.08)
+DUCK Per Week: 14864.52 ($0.28)
+APR: Day 47.33% Week 331.31% Year 17228.21%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 2.5%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 DUCK ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+DUCK
+ Price: $0.0000186223 Market Cap: $18.15 
+[%]
+Staked: 370199.2417 DUCK ($6.89)
+DUCK Per Week: 11148.39 ($0.21)
+APR: Day 0.43% Week 3.01% Year 156.60%
+You are staking 0.00 DUCK ($0.00), 0.00% of the pool.
+Stake 0.00 DUCK
+Unstake 0.00 DUCK
+Claim 0.00 DUCK ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,613,468.14 TVL: $147,927,067.62
+USDC Price: $1.00
+WETH Price: $3,319.14
+Staked: 0.0000 UNI-V2 ($373.44)
+DUCK Per Week: 13006.45 ($0.24)
+APR: Day 0.01% Week 0.06% Year 3.37%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 2.5%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 DUCK ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WMATIC
+ Price: $1.64 Market Cap: $601,974,465.43 
+[%]
+Staked: 0.3040 WMATIC ($0.50)
+DUCK Per Week: 9290.32 ($0.17)
+APR: Day 4.96% Week 34.70% Year 1804.58%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 2.5%
+Unstake 0.00 WMATIC
+Claim 0.00 DUCK ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+QUICK
+ Price: $726.96 Market Cap: $695,894,582.96 
+[%]
+Staked: 0.0151 QUICK ($11.00)
+DUCK Per Week: 9290.32 ($0.17)
+APR: Day 0.22% Week 1.57% Year 81.81%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 2.5%
+Unstake 0.00 QUICK
+Claim 0.00 DUCK ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WETH
+ Price: $3,319.14 Market Cap: $2,027,322,412.64 
+[%]
+Staked: 0.0044 WETH ($14.64)
+DUCK Per Week: 9290.32 ($0.17)
+APR: Day 0.17% Week 1.18% Year 61.43%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 2.5%
+Unstake 0.00 WETH
+Claim 0.00 DUCK ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+WBTC
+ Price: $49,995.00 Market Cap: $696,873,167.43 
+[%]
+Staked: 0.0002 WBTC ($9.22)
+DUCK Per Week: 9290.32 ($0.17)
+APR: Day 0.27% Week 1.88% Year 97.57%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 2.5%
+Unstake 0.00 WBTC
+Claim 0.00 DUCK ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+AAVE
+ Price: $407.68 Market Cap: $155,193,413.76 
+[%]
+Staked: 0.3726 AAVE ($151.91)
+DUCK Per Week: 9290.32 ($0.17)
+APR: Day 0.02% Week 0.11% Year 5.92%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 2.5%
+Unstake 0.00 AAVE
+Claim 0.00 DUCK ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+DAI
+ Price: $1.00 Market Cap: $375,664,195.61 
+[%]
+Staked: 3.0828 DAI ($3.08)
+DUCK Per Week: 9290.32 ($0.17)
+APR: Day 0.80% Week 5.62% Year 292.29%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 2.5%
+Unstake 0.00 DAI
+Claim 0.00 DUCK ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+USDT
+ Price: $1.00 Market Cap: $314,846,345.41 
+[%]
+Staked: 2.2160 USDT ($2.21)
+DUCK Per Week: 9290.32 ($0.17)
+APR: Day 1.12% Week 7.82% Year 406.43%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 2.5%
+Unstake 0.00 USDT
+Claim 0.00 DUCK ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[USDC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $74,870,588.22 TVL: $21,359,230.91
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 UNI-V2 ($1.95)
+DUCK Per Week: 13006.45 ($0.24)
+APR: Day 1.77% Week 12.42% Year 645.72%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP - Fee 2.5%
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 DUCK ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WBTC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50,581,721,828,970.70 TVL: $16,256,874.45
+WBTC Price: $49,995.00
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($1,603.15)
+DUCK Per Week: 13006.45 ($0.24)
+APR: Day 0.00% Week 0.02% Year 0.79%
+You are staking 0.00 [WBTC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[USDC] Uni LP - Fee 2.5%
+Unstake 0.00 [WBTC]-[USDC] Uni LP
+Claim 0.00 DUCK ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $2,187.83

@@ -1,0 +1,68 @@
+INFO  : https://polygon.wepiggy.com/markets
+*****************************************************************
+
+Mon Aug 23 2021 12:20:58 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Deposit Market Size : $5,853,677.20
+Borrow Market Size : $2,499,659.40
+TVL : $3,357,045.89
+MATIC ($1.64)
+Supplied : 984,404.30 ($1,611,789.50) at 0.47% APY
+Borrowed : 106,730.15 ($174,751.91) at 5.97% APY
+Reserves : 251.01 ($410.98)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 0.47% Borrow -5.97%
+USDC ($1.00)
+Supplied : 714,255.28 ($714,255.28) at 2.86% APY
+Borrowed : 565,181.79 ($565,181.79) at 4.04% APY
+Reserves : 300.63 ($300.63)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 2.86% Borrow -4.04%
+USDT ($1.00)
+Supplied : 715,057.34 ($715,057.34) at 7.03% APY
+Borrowed : 582,112.11 ($582,112.11) at 9.72% APY
+Reserves : 564.24 ($564.24)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 7.03% Borrow -9.72%
+DAI ($1.00)
+Supplied : 455,052.93 ($455,236.26) at 2.77% APY
+Borrowed : 354,372.30 ($354,515.07) at 3.97% APY
+Reserves : 227.45 ($227.54)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 2.77% Borrow -3.97%
+WETH ($3,327.11)
+Supplied : 295.17 ($982,052.68) at 0.94% APY
+Borrowed : 90.80 ($302,100.95) at 3.86% APY
+Reserves : 0.13 ($440.17)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 0.94% Borrow -3.86%
+WBTC ($50,148.90)
+Supplied : 18.18 ($911,728.46) at 2.47% APY
+Borrowed : 9.04 ($453,556.91) at 6.31% APY
+Reserves : 0.01 ($523.90)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 2.47% Borrow -6.31%
+LINK ($28.63)
+Supplied : 2,411.13 ($69,026.43) at 1.30% APY
+Borrowed : 471.13 ($13,487.65) at 9.24% APY
+Reserves : 7.66 ($219.41)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 1.30% Borrow -9.24%
+SUSHI ($13.84)
+Supplied : 17,980.20 ($248,774.82) at 0.59% APY
+Borrowed : 2,222.94 ($30,756.63) at 6.53% APY
+Reserves : 10.62 ($146.88)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 0.59% Borrow -6.53%
+CRV ($2.43)
+Supplied : 59,986.68 ($145,756.43) at 0.91% APY
+Borrowed : 9,546.57 ($23,196.38) at 7.86% APY
+Reserves : 79.99 ($194.35)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 0.91% Borrow -7.86%

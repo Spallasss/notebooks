@@ -1,0 +1,35 @@
+INFO  : https://ftm.guru
+PLOT : 1
+ELITENESS : User must hold 0.001337 ELITE
+DEPOSIT FEE : 1%
+*****************************************************************************
+
+Mon Aug 23 2021 13:29:26 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+[WFTM]-[NIPS] ZooDex LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9,521.68 TVL: $128,584.86
+WFTM Price: $0.57
+NIPS Price: $0.04
+Staked: 2.0754 ZDEXLP ($19,761.59)
+NIPS Per Week: 26390.23 ($1,046.38)
+APR: Day 0.76% Week 5.30% Year 275.34%
+You are staking 0.000000 [WFTM]-[NIPS] ZooDex LP $0.00 (0.00% of the pool).
+FTM Scan
+Stake 0.000000 [WFTM]-[NIPS] ZooDex LP
+Unstake 0.000000 [WFTM]-[NIPS] ZooDex LP
+Claim 0.000000 NIPS ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $19,761.59

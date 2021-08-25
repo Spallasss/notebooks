@@ -1,0 +1,459 @@
+INFO  : https://waka.finance
+*********************************************************************************
+
+Mon Aug 23 2021 13:20:32 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 24 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WFTM]-[WAKA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.54 TVL: $804,406.45
+WFTM Price: $0.56
+WAKA Price: $0.12
+Staked: 1282118.3745 WLP ($688,730.81)
+WAKA Per Week: 106700.55 ($13,275.03)
+APR: Day 0.28% Week 1.93% Year 100.23%
+You are staking 0.00 [WFTM]-[WAKA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[WAKA] Uni LP
+Unstake 0.00 [WFTM]-[WAKA] Uni LP
+Claim 0.00 WAKA ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[fUSDT]-[WFTM] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,572,223.49 TVL: $933,884.56
+fUSDT Price: $1.00
+WFTM Price: $0.56
+Staked: 0.5865 WLP ($922,105.16)
+WAKA Per Week: 8536.04 ($1,062.00)
+APR: Day 0.02% Week 0.12% Year 5.99%
+You are staking 0.00 [fUSDT]-[WFTM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[WFTM] Uni LP
+Unstake 0.00 [fUSDT]-[WFTM] Uni LP
+Claim 0.00 WAKA ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[USDC]-[WFTM] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,603,162.56 TVL: $142,677.02
+USDC Price: $1.00
+WFTM Price: $0.56
+Staked: 0.0658 WLP ($105,452.68)
+WAKA Per Week: 8536.04 ($1,062.00)
+APR: Day 0.14% Week 1.01% Year 52.37%
+You are staking 0.00 [USDC]-[WFTM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] Uni LP
+Unstake 0.00 [USDC]-[WFTM] Uni LP
+Claim 0.00 WAKA ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WFTM]-[BTC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $33,896,833.24 TVL: $64,229.90
+WFTM Price: $0.56
+BTC Price: $49,586.73
+Staked: 0.0017 WLP ($58,294.28)
+WAKA Per Week: 6402.03 ($796.50)
+APR: Day 0.20% Week 1.37% Year 71.05%
+You are staking 0.00 [WFTM]-[BTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BTC] Uni LP
+Unstake 0.00 [WFTM]-[BTC] Uni LP
+Claim 0.00 WAKA ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WFTM]-[ETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $88.05 TVL: $119,663.14
+WFTM Price: $0.56
+ETH Price: $3,318.54
+Staked: 895.7923 WLP ($78,870.86)
+WAKA Per Week: 6402.03 ($796.50)
+APR: Day 0.14% Week 1.01% Year 52.51%
+You are staking 0.00 [WFTM]-[ETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] Uni LP
+Unstake 0.00 [WFTM]-[ETH] Uni LP
+Claim 0.00 WAKA ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WFTM]-[ATRI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $589,952,473.40 TVL: $35,787.78
+WFTM Price: $0.56
+ATRI Price: $0.06
+Staked: 0.0001 WLP ($32,669.42)
+WAKA Per Week: 6402.03 ($796.50)
+APR: Day 0.35% Week 2.44% Year 126.78%
+You are staking 0.00 [WFTM]-[ATRI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ATRI] Uni LP
+Unstake 0.00 [WFTM]-[ATRI] Uni LP
+Claim 0.00 WAKA ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[WFTM]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.56 TVL: $18,254.37
+WFTM Price: $0.56
+DAI Price: $1.00
+Staked: 8205.3741 WLP ($12,809.30)
+WAKA Per Week: 2134.01 ($265.50)
+APR: Day 0.30% Week 2.07% Year 107.78%
+You are staking 0.00 [WFTM]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[DAI] Uni LP
+Unstake 0.00 [WFTM]-[DAI] Uni LP
+Claim 0.00 WAKA ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[WFTM]-[YFI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $303.59 TVL: $20,211.79
+WFTM Price: $0.56
+YFI Price: $40,025.00
+Staked: 66.4885 WLP ($20,184.98)
+WAKA Per Week: 2134.01 ($265.50)
+APR: Day 0.19% Week 1.32% Year 68.40%
+You are staking 0.00 [WFTM]-[YFI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[YFI] Uni LP
+Unstake 0.00 [WFTM]-[YFI] Uni LP
+Claim 0.00 WAKA ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[WFTM]-[SUSHI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.64 TVL: $7,794.12
+WFTM Price: $0.56
+SUSHI Price: $13.81
+Staked: 1354.1520 WLP ($7,642.85)
+WAKA Per Week: 2134.01 ($265.50)
+APR: Day 0.50% Week 3.47% Year 180.64%
+You are staking 0.00 [WFTM]-[SUSHI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SUSHI] Uni LP
+Unstake 0.00 [WFTM]-[SUSHI] Uni LP
+Claim 0.00 WAKA ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[ZOO]-[WFTM] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $287,917,800.72 TVL: $106,094.04
+ZOO Price: $0.04
+WFTM Price: $0.56
+Staked: 0.0004 WLP ($105,536.11)
+WAKA Per Week: 2134.01 ($265.50)
+APR: Day 0.04% Week 0.25% Year 13.08%
+You are staking 0.00 [ZOO]-[WFTM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZOO]-[WFTM] Uni LP
+Unstake 0.00 [ZOO]-[WFTM] Uni LP
+Claim 0.00 WAKA ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[WFTM]-[BADGER] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7.55 TVL: $36,387.80
+WFTM Price: $0.56
+BADGER Price: $24.82
+Staked: 4808.4131 WLP ($36,309.62)
+WAKA Per Week: 2134.01 ($265.50)
+APR: Day 0.10% Week 0.73% Year 38.02%
+You are staking 0.00 [WFTM]-[BADGER] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BADGER] Uni LP
+Unstake 0.00 [WFTM]-[BADGER] Uni LP
+Claim 0.00 WAKA ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[WFTM]-[AAVE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $30.67 TVL: $34,228.44
+WFTM Price: $0.56
+AAVE Price: $406.83
+Staked: 1111.0852 WLP ($34,081.18)
+WAKA Per Week: 2134.01 ($265.50)
+APR: Day 0.11% Week 0.78% Year 40.51%
+You are staking 0.00 [WFTM]-[AAVE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[AAVE] Uni LP
+Unstake 0.00 [WFTM]-[AAVE] Uni LP
+Claim 0.00 WAKA ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WFTM]-[ICE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $29,738.25
+WFTM Price: $0.56
+ICE Price: $1.82
+Staked: 9406.2921 WLP ($19,293.35)
+WAKA Per Week: 2134.01 ($265.50)
+APR: Day 0.20% Week 1.38% Year 71.56%
+You are staking 0.00 [WFTM]-[ICE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ICE] Uni LP
+Unstake 0.00 [WFTM]-[ICE] Uni LP
+Claim 0.00 WAKA ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WFTM]-[SNX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.71 TVL: $25,688.10
+WFTM Price: $0.56
+SNX Price: $14.15
+Staked: 4475.9398 WLP ($25,576.20)
+WAKA Per Week: 2134.01 ($265.50)
+APR: Day 0.15% Week 1.04% Year 53.98%
+You are staking 0.00 [WFTM]-[SNX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SNX] Uni LP
+Unstake 0.00 [WFTM]-[SNX] Uni LP
+Claim 0.00 WAKA ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[WFTM]-[CREAM] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10.18 TVL: $12,844.58
+WFTM Price: $0.56
+CREAM Price: $0.000843
+Staked: 1260.5726 WLP ($12,833.74)
+WAKA Per Week: 2134.01 ($265.50)
+APR: Day 0.30% Week 2.07% Year 107.58%
+You are staking 0.00 [WFTM]-[CREAM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[CREAM] Uni LP
+Unstake 0.00 [WFTM]-[CREAM] Uni LP
+Claim 0.00 WAKA ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[WFTM]-[COVER] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $27.33 TVL: $53,963.52
+WFTM Price: $0.56
+COVER Price: $325.65
+Staked: 1969.6970 WLP ($53,825.55)
+WAKA Per Week: 2134.01 ($265.50)
+APR: Day 0.07% Week 0.49% Year 25.65%
+You are staking 0.00 [WFTM]-[COVER] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[COVER] Uni LP
+Unstake 0.00 [WFTM]-[COVER] Uni LP
+Claim 0.00 WAKA ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[WFTM]-[LINK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8.13 TVL: $20,649.81
+WFTM Price: $0.56
+LINK Price: $28.70
+Staked: 2534.6956 WLP ($20,610.71)
+WAKA Per Week: 2134.01 ($265.50)
+APR: Day 0.18% Week 1.29% Year 66.98%
+You are staking 0.00 [WFTM]-[LINK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[LINK] Uni LP
+Unstake 0.00 [WFTM]-[LINK] Uni LP
+Claim 0.00 WAKA ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[CRV]-[WFTM] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.36 TVL: $18,079.25
+CRV Price: $2.40
+WFTM Price: $0.56
+Staked: 7625.1279 WLP ($17,992.33)
+WAKA Per Week: 2134.01 ($265.50)
+APR: Day 0.21% Week 1.48% Year 76.73%
+You are staking 0.00 [CRV]-[WFTM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRV]-[WFTM] Uni LP
+Unstake 0.00 [CRV]-[WFTM] Uni LP
+Claim 0.00 WAKA ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[WFTM]-[BAND] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.73 TVL: $60,842.81
+WFTM Price: $0.56
+BAND Price: $9.78
+Staked: 12784.9226 WLP ($60,468.46)
+WAKA Per Week: 2134.01 ($265.50)
+APR: Day 0.06% Week 0.44% Year 22.83%
+You are staking 0.00 [WFTM]-[BAND] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BAND] Uni LP
+Unstake 0.00 [WFTM]-[BAND] Uni LP
+Claim 0.00 WAKA ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+pWaka
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 pWaka ($0.00)
+WAKA Per Week: 10670.06 ($1,327.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 pWaka ($0.00), NaN% of the pool.
+Stake 0.00 pWaka
+Unstake 0.00 pWaka
+Claim 0.00 WAKA ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[WFTM]-[BOMB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $73,795,487.18 TVL: $13,505.54
+WFTM Price: $0.56
+BOMB Price: $0.002187
+Staked: 0.0001 WLP ($10,129.65)
+WAKA Per Week: 2134.01 ($265.50)
+APR: Day 0.37% Week 2.62% Year 136.29%
+You are staking 0.00 [WFTM]-[BOMB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BOMB] Uni LP
+Unstake 0.00 [WFTM]-[BOMB] Uni LP
+Claim 0.00 WAKA ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[WFTM]-[Shiba] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.16 TVL: $4,843.84
+WFTM Price: $0.56
+Shiba Price: $0.0000000000
+Staked: 26002.2924 WLP ($4,079.63)
+WAKA Per Week: 2134.01 ($265.50)
+APR: Day 0.93% Week 6.51% Year 338.41%
+You are staking 0.00 [WFTM]-[Shiba] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[Shiba] Uni LP
+Unstake 0.00 [WFTM]-[Shiba] Uni LP
+Claim 0.00 WAKA ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+bWaka
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 bWaka ($0.00)
+WAKA Per Week: 603391.63 ($75,070.27)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 bWaka ($0.00), NaN% of the pool.
+Stake 0.00 bWaka
+Unstake 0.00 bWaka
+Claim 0.00 WAKA ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[WFTM]-[GRIM] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.33 TVL: $3,873.17
+WFTM Price: $0.56
+GRIM Price: $0.006059
+Staked: 11549.5190 WLP ($3,856.13)
+WAKA Per Week: 213.40 ($26.55)
+APR: Day 0.10% Week 0.69% Year 35.80%
+You are staking 0.00 [WFTM]-[GRIM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[GRIM] Uni LP
+Unstake 0.00 [WFTM]-[GRIM] Uni LP
+Claim 0.00 WAKA ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $2,331,353.02

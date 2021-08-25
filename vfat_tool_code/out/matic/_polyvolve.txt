@@ -1,0 +1,268 @@
+INFO  : https://polyvolve.finance
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 15:58:08 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 16 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[SPR] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $20,220.09 TVL: $15.58
+USDC Price: $1.00
+SPR Price: $0.0000809873
+Staked: 0.0004 UNI-V2 ($8.92)
+SPR Per Week: 21818.18 ($1.77)
+APR: Day 2.83% Week 19.80% Year 1029.85%
+You are staking 0.00 [USDC]-[SPR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[SPR] Uni LP
+Unstake 0.00 [USDC]-[SPR] Uni LP
+Claim 0.00 SPR ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[SPR] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $42.95
+WMATIC Price: $1.64
+SPR Price: $0.0000809873
+Staked: 1148.4036 UNI-V2 ($30.79)
+SPR Per Week: 43636.36 ($3.53)
+APR: Day 1.64% Week 11.48% Year 596.86%
+You are staking 0.00 [WMATIC]-[SPR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[SPR] Uni LP
+Unstake 0.00 [WMATIC]-[SPR] Uni LP
+Claim 0.00 SPR ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,599,477.99 TVL: $33,203,868.24
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0004 UNI-V2 ($2,029.21)
+SPR Per Week: 21818.18 ($1.77)
+APR: Day 0.01% Week 0.09% Year 4.53%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 2%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 SPR ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+SPR
+ Price: $0.0000809873 Market Cap: $324.06 
+[%]
+Staked: 1390549.8099 SPR ($112.62)
+SPR Per Week: 21818.18 ($1.77)
+APR: Day 0.22% Week 1.57% Year 81.59%
+You are staking 0.00 SPR ($0.00), 0.00% of the pool.
+Stake 0.00 SPR - Fee 4%
+Unstake 0.00 SPR
+Claim 0.00 SPR ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WMATIC
+ Price: $1.64 Market Cap: $603,305,127.61 
+[%]
+Staked: 67.8816 WMATIC ($111.33)
+SPR Per Week: 8727.27 ($0.71)
+APR: Day 0.09% Week 0.63% Year 33.01%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 SPR ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WETH
+ Price: $3,335.10 Market Cap: $2,047,997,240.41 
+[%]
+Staked: 0.0144 WETH ($48.03)
+SPR Per Week: 8727.27 ($0.71)
+APR: Day 0.21% Week 1.47% Year 76.53%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 SPR ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WBTC
+ Price: $50,112.00 Market Cap: $698,003,974.93 
+[%]
+Staked: 0.0005 WBTC ($25.06)
+SPR Per Week: 3054.55 ($0.25)
+APR: Day 0.14% Week 0.99% Year 51.34%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 SPR ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+QUICK
+ Price: $715.69 Market Cap: $685,139,630.05 
+[%]
+Staked: 0.0622 QUICK ($44.52)
+SPR Per Week: 8727.27 ($0.71)
+APR: Day 0.23% Week 1.59% Year 82.56%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 SPR ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+LINK
+ Price: $28.72 Market Cap: $64,955,670.38 
+[%]
+Staked: 0.5008 LINK ($14.38)
+SPR Per Week: 6545.45 ($0.53)
+APR: Day 0.53% Week 3.69% Year 191.64%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 SPR ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+USDC
+ Price: $1.00 Market Cap: $1,056,163,889.20 
+[%]
+Staked: 1014.7665 USDC ($1,011.36)
+SPR Per Week: 4363.64 ($0.35)
+APR: Day 0.00% Week 0.03% Year 1.82%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 SPR ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+AAVE
+ Price: $410.89 Market Cap: $156,271,565.45 
+[%]
+Staked: 0.0677 AAVE ($27.80)
+SPR Per Week: 5672.73 ($0.46)
+APR: Day 0.24% Week 1.65% Year 85.94%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 SPR ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[WETH]-[SPR] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.12 TVL: $63.27
+WETH Price: $3,335.10
+SPR Price: $0.0000809873
+Staked: 55.3532 UNI-V2 ($61.95)
+SPR Per Week: 17454.55 ($1.41)
+APR: Day 0.33% Week 2.28% Year 118.66%
+You are staking 0.00 [WETH]-[SPR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[SPR] Uni LP
+Unstake 0.00 [WETH]-[SPR] Uni LP
+Claim 0.00 SPR ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[QUICK]-[SPR] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.50 TVL: $9.59
+QUICK Price: $715.69
+SPR Price: $0.0000809873
+Staked: 18.3105 UNI-V2 ($9.19)
+SPR Per Week: 17454.55 ($1.41)
+APR: Day 2.20% Week 15.39% Year 800.12%
+You are staking 0.00 [QUICK]-[SPR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [QUICK]-[SPR] Uni LP
+Unstake 0.00 [QUICK]-[SPR] Uni LP
+Claim 0.00 SPR ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[FISH]-[SPR] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.04 TVL: $58.50
+FISH Price: $5.51
+SPR Price: $0.0000809873
+Staked: 1193.6344 UNI-V2 ($52.61)
+SPR Per Week: 32727.27 ($2.65)
+APR: Day 0.72% Week 5.04% Year 261.98%
+You are staking 0.00 [FISH]-[SPR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FISH]-[SPR] Uni LP - Fee 4%
+Unstake 0.00 [FISH]-[SPR] Uni LP
+Claim 0.00 SPR ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[FOX]-[SPR] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $8.58
+FOX Price: $0.004252
+SPR Price: $0.0000809873
+Staked: 4993.7040 UNI-V2 ($6.42)
+SPR Per Week: 32727.27 ($2.65)
+APR: Day 5.90% Week 41.27% Year 2146.20%
+You are staking 0.00 [FOX]-[SPR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FOX]-[SPR] Uni LP - Fee 4%
+Unstake 0.00 [FOX]-[SPR] Uni LP
+Claim 0.00 SPR ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[Krill]-[SPR] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $11.46
+Krill Price: $0.09
+SPR Price: $0.0000809873
+Staked: 1435.7484 UNI-V2 ($8.12)
+SPR Per Week: 32727.27 ($2.65)
+APR: Day 4.66% Week 32.62% Year 1696.47%
+You are staking 0.00 [Krill]-[SPR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Krill]-[SPR] Uni LP - Fee 4%
+Unstake 0.00 [Krill]-[SPR] Uni LP
+Claim 0.00 SPR ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $3,602.29

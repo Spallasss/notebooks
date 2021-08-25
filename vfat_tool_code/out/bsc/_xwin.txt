@@ -1,0 +1,456 @@
+INFO  : https://xwin.finance
+*********************************************************************************
+
+Mon Aug 23 2021 14:07:33 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 42 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+XWIN
+ Price: $3.29 Market Cap: $200,993,888.49 
+[%]
+Staked: 59733860.2976 XWIN ($196,821,981.24)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 XWIN ($0.00), 0.00% of the pool.
+Stake 0.00 XWIN
+Unstake 0.00 XWIN
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+PCLP-XWIN
+ Price: $0.00 Market Cap: $0.00 
+Staked: 5.0000 PCLP-XWIN ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 PCLP-XWIN ($0.00), NaN% of the pool.
+Stake 0.00 PCLP-XWIN
+Unstake 0.00 PCLP-XWIN
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+XWIN-DEFI
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.4409 XWIN-DEFI ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 XWIN-DEFI ($0.00), NaN% of the pool.
+Stake 0.00 XWIN-DEFI
+Unstake 0.00 XWIN-DEFI
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+PCLP-CAKE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.5482 PCLP-CAKE ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 PCLP-CAKE ($0.00), NaN% of the pool.
+Stake 0.00 PCLP-CAKE
+Unstake 0.00 PCLP-CAKE
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+ACXWIN-KB
+ Price: $0.00 Market Cap: $0.00 
+Staked: 12.5334 ACXWIN-KB ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ACXWIN-KB ($0.00), NaN% of the pool.
+Stake 0.00 ACXWIN-KB
+Unstake 0.00 ACXWIN-KB
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+XWIN-XFI
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.2628 XWIN-XFI ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 XWIN-XFI ($0.00), NaN% of the pool.
+Stake 0.00 XWIN-XFI
+Unstake 0.00 XWIN-XFI
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+XWIN-ANTG
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.8974 XWIN-ANTG ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 XWIN-ANTG ($0.00), NaN% of the pool.
+Stake 0.00 XWIN-ANTG
+Unstake 0.00 XWIN-ANTG
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+[WBNB]-[XWIN] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $89.79 TVL: $675.77
+WBNB Price: $485.11
+XWIN Price: $3.29
+Staked: 0.0713 Cake-LP ($6.40)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[XWIN] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[XWIN] Cake LP
+Unstake 0.00 [WBNB]-[XWIN] Cake LP
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+V2-CAKE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.8797 V2-CAKE ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 V2-CAKE ($0.00), NaN% of the pool.
+Stake 0.00 V2-CAKE
+Unstake 0.00 V2-CAKE
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+V2-BELT
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 V2-BELT ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 V2-BELT ($0.00), NaN% of the pool.
+Stake 0.00 V2-BELT
+Unstake 0.00 V2-BELT
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+V2-SWTH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 V2-SWTH ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 V2-SWTH ($0.00), NaN% of the pool.
+Stake 0.00 V2-SWTH
+Unstake 0.00 V2-SWTH
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+V2-LIEN
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0003 V2-LIEN ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 V2-LIEN ($0.00), NaN% of the pool.
+Stake 0.00 V2-LIEN
+Unstake 0.00 V2-LIEN
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+V2-WATCH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 V2-WATCH ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 V2-WATCH ($0.00), NaN% of the pool.
+Stake 0.00 V2-WATCH
+Unstake 0.00 V2-WATCH
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+V2-BMXX
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 V2-BMXX ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 V2-BMXX ($0.00), NaN% of the pool.
+Stake 0.00 V2-BMXX
+Unstake 0.00 V2-BMXX
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+BGIV
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 BGIV ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BGIV ($0.00), NaN% of the pool.
+Stake 0.00 BGIV
+Unstake 0.00 BGIV
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+JPI
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 JPI ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 JPI ($0.00), NaN% of the pool.
+Stake 0.00 JPI
+Unstake 0.00 JPI
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+GSMH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 GSMH ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 GSMH ($0.00), NaN% of the pool.
+Stake 0.00 GSMH
+Unstake 0.00 GSMH
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+CCT
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 CCT ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CCT ($0.00), NaN% of the pool.
+Stake 0.00 CCT
+Unstake 0.00 CCT
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+XWIN-DEFI
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1.4769 XWIN-DEFI ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 XWIN-DEFI ($0.00), NaN% of the pool.
+Stake 0.00 XWIN-DEFI
+Unstake 0.00 XWIN-DEFI
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+XWIN-XFI
+ Price: $0.00 Market Cap: $0.00 
+Staked: 7.8908 XWIN-XFI ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 XWIN-XFI ($0.00), NaN% of the pool.
+Stake 0.00 XWIN-XFI
+Unstake 0.00 XWIN-XFI
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+ACXWIN-KB
+ Price: $0.00 Market Cap: $0.00 
+Staked: 33.5783 ACXWIN-KB ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ACXWIN-KB ($0.00), NaN% of the pool.
+Stake 0.00 ACXWIN-KB
+Unstake 0.00 ACXWIN-KB
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+JPI
+ Price: $0.00 Market Cap: $0.00 
+Staked: 22.0008 JPI ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 JPI ($0.00), NaN% of the pool.
+Stake 0.00 JPI
+Unstake 0.00 JPI
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+V2-CAKE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 304.2659 V2-CAKE ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 V2-CAKE ($0.00), NaN% of the pool.
+Stake 0.00 V2-CAKE
+Unstake 0.00 V2-CAKE
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+V2-BMXX
+ Price: $0.00 Market Cap: $0.00 
+Staked: 11.8374 V2-BMXX ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 V2-BMXX ($0.00), NaN% of the pool.
+Stake 0.00 V2-BMXX
+Unstake 0.00 V2-BMXX
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+V2-TKO
+ Price: $0.00 Market Cap: $0.00 
+Staked: 9.7499 V2-TKO ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 V2-TKO ($0.00), NaN% of the pool.
+Stake 0.00 V2-TKO
+Unstake 0.00 V2-TKO
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+V2-BELT
+ Price: $0.00 Market Cap: $0.00 
+Staked: 2.8268 V2-BELT ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 V2-BELT ($0.00), NaN% of the pool.
+Stake 0.00 V2-BELT
+Unstake 0.00 V2-BELT
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+V2-BONDLY
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 V2-BONDLY ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 V2-BONDLY ($0.00), NaN% of the pool.
+Stake 0.00 V2-BONDLY
+Unstake 0.00 V2-BONDLY
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+V2-LIEN
+ Price: $0.00 Market Cap: $0.00 
+Staked: 6.0427 V2-LIEN ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 V2-LIEN ($0.00), NaN% of the pool.
+Stake 0.00 V2-LIEN
+Unstake 0.00 V2-LIEN
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+V2-WATCH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 2.8577 V2-WATCH ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 V2-WATCH ($0.00), NaN% of the pool.
+Stake 0.00 V2-WATCH
+Unstake 0.00 V2-WATCH
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+V2-SWTH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 5.2930 V2-SWTH ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 V2-SWTH ($0.00), NaN% of the pool.
+Stake 0.00 V2-SWTH
+Unstake 0.00 V2-SWTH
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+BGIV
+ Price: $0.00 Market Cap: $0.00 
+Staked: 38.2006 BGIV ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BGIV ($0.00), NaN% of the pool.
+Stake 0.00 BGIV
+Unstake 0.00 BGIV
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+CCT
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1.4849 CCT ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CCT ($0.00), NaN% of the pool.
+Stake 0.00 CCT
+Unstake 0.00 CCT
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+V2-ZIL
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 V2-ZIL ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 V2-ZIL ($0.00), NaN% of the pool.
+Stake 0.00 V2-ZIL
+Unstake 0.00 V2-ZIL
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+V2-ALICE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 V2-ALICE ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 V2-ALICE ($0.00), NaN% of the pool.
+Stake 0.00 V2-ALICE
+Unstake 0.00 V2-ALICE
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+[WBNB]-[XWIN] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $83.75 TVL: $1,358,579.62
+WBNB Price: $485.11
+XWIN Price: $3.29
+Staked: 16023.5712 Cake-LP ($1,342,012.13)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[XWIN] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[XWIN] Cake LP
+Unstake 0.00 [WBNB]-[XWIN] Cake LP
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+SDAA
+ Price: $0.00 Market Cap: $0.00 
+Staked: 75.3131 SDAA ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SDAA ($0.00), NaN% of the pool.
+Stake 0.00 SDAA
+Unstake 0.00 SDAA
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+XWIN-NFT
+ Price: $0.00 Market Cap: $0.00 
+Staked: 4.6048 XWIN-NFT ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 XWIN-NFT ($0.00), NaN% of the pool.
+Stake 0.00 XWIN-NFT
+Unstake 0.00 XWIN-NFT
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+BEFF
+ Price: $0.00 Market Cap: $0.00 
+Staked: 27.1594 BEFF ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BEFF ($0.00), NaN% of the pool.
+Stake 0.00 BEFF
+Unstake 0.00 BEFF
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+CCT2
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 CCT2 ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CCT2 ($0.00), NaN% of the pool.
+Stake 0.00 CCT2
+Unstake 0.00 CCT2
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+SCT3
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1.7175 SCT3 ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SCT3 ($0.00), NaN% of the pool.
+Stake 0.00 SCT3
+Unstake 0.00 SCT3
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+JPYC
+ Price: $0.00 Market Cap: $0.00 
+Staked: 4461573.9120 JPYC ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 JPYC ($0.00), NaN% of the pool.
+Stake 0.00 JPYC
+Unstake 0.00 JPYC
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+MMK
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.5055 MMK ($0.00)
+XWIN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MMK ($0.00), NaN% of the pool.
+Stake 0.00 MMK
+Unstake 0.00 MMK
+Claim 0.00 XWIN ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $198,163,999.77

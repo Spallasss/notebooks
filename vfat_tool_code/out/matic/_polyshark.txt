@@ -1,0 +1,162 @@
+INFO  : https://www.polyshark.finance
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:13:23 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 15 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+[USDC]-[Shark] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $119,664.72 TVL: $1,229.61
+USDC Price: $1.00
+Shark Price: $0.002549
+Staked: 0.0063 UNI-V2 ($759.56)
+SHARK Per Week: 15054.40 ($38.37)
+APR: Day 0.72% Week 5.05% Year 262.70%
+You are staking 0.00 [USDC]-[Shark] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[Shark] Uni LP
+Unstake 0.00 [USDC]-[Shark] Uni LP
+Claim 0.00 SHARK ($0.00)
+Staking or unstaking also claims rewards.
+WMATIC
+ Price: $1.66 Market Cap: $609,119,001.70 
+[%]
+Staked: 2792.7519 WMATIC ($4,635.97)
+SHARK Per Week: 11290.80 ($28.78)
+APR: Day 0.09% Week 0.62% Year 32.28%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4.00%
+Unstake 0.00 WMATIC
+Claim 0.00 SHARK ($0.00)
+Staking or unstaking also claims rewards.
+WETH
+ Price: $3,335.37 Market Cap: $2,036,418,232.53 
+[%]
+Staked: 0.0905 WETH ($301.73)
+SHARK Per Week: 7527.20 ($19.19)
+APR: Day 0.91% Week 6.36% Year 330.65%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4.00%
+Unstake 0.00 WETH
+Claim 0.00 SHARK ($0.00)
+Staking or unstaking also claims rewards.
+Shark
+ Price: $0.002549 Market Cap: $4,633.32 
+[%]
+Staked: 927036.9397 Shark ($2,362.92)
+SHARK Per Week: 22581.60 ($57.56)
+APR: Day 0.35% Week 2.44% Year 126.67%
+You are staking 0.00 Shark ($0.00), 0.00% of the pool.
+Stake 0.00 Shark
+Unstake 0.00 Shark
+Claim 0.00 SHARK ($0.00)
+Staking or unstaking also claims rewards.
+WBTC
+ Price: $50,243.00 Market Cap: $700,845,357.71 
+[%]
+Staked: 0.0960 WBTC ($4,823.81)
+SHARK Per Week: 7527.20 ($19.19)
+APR: Day 0.06% Week 0.40% Year 20.68%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4.00%
+Unstake 0.00 WBTC
+Claim 0.00 SHARK ($0.00)
+Staking or unstaking also claims rewards.
+USDT
+ Price: $1.00 Market Cap: $314,853,423.03 
+[%]
+Staked: 973.7047 USDT ($972.73)
+SHARK Per Week: 7527.20 ($19.19)
+APR: Day 0.28% Week 1.97% Year 102.56%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4.00%
+Unstake 0.00 USDT
+Claim 0.00 SHARK ($0.00)
+Staking or unstaking also claims rewards.
+QUICK
+ Price: $742.33 Market Cap: $710,607,771.77 
+[%]
+Staked: 0.9908 QUICK ($735.48)
+SHARK Per Week: 7527.20 ($19.19)
+APR: Day 0.37% Week 2.61% Year 135.65%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4.00%
+Unstake 0.00 QUICK
+Claim 0.00 SHARK ($0.00)
+Staking or unstaking also claims rewards.
+MUST
+ Price: $106.58 Market Cap: $5,151,450.95 
+[%]
+Staked: 0.6928 MUST ($73.84)
+SHARK Per Week: 3763.60 ($9.59)
+APR: Day 1.86% Week 12.99% Year 675.59%
+You are staking 0.00 MUST ($0.00), 0.00% of the pool.
+Stake 0.00 MUST - Fee 4.00%
+Unstake 0.00 MUST
+Claim 0.00 SHARK ($0.00)
+Staking or unstaking also claims rewards.
+[WMATIC]-[Shark] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.15 TVL: $550.15
+WMATIC Price: $1.66
+Shark Price: $0.002549
+Staked: 2115.9284 UNI-V2 ($320.41)
+SHARK Per Week: 15054.40 ($38.37)
+APR: Day 1.71% Week 11.98% Year 622.76%
+You are staking 0.00 [WMATIC]-[Shark] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[Shark] Uni LP
+Unstake 0.00 [WMATIC]-[Shark] Uni LP
+Claim 0.00 SHARK ($0.00)
+Staking or unstaking also claims rewards.
+DAI
+ Price: $1.00 Market Cap: $376,284,571.53 
+[%]
+Staked: 2429.4766 DAI ($2,429.48)
+SHARK Per Week: 7527.20 ($19.19)
+APR: Day 0.11% Week 0.79% Year 41.07%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4.00%
+Unstake 0.00 DAI
+Claim 0.00 SHARK ($0.00)
+Staking or unstaking also claims rewards.
+[WMATIC]-[Shark] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.14 TVL: $741.08
+WMATIC Price: $1.66
+Shark Price: $0.002549
+Staked: 4229.5824 PolyZap-LP ($592.38)
+SHARK Per Week: 30108.80 ($76.74)
+APR: Day 1.85% Week 12.96% Year 673.67%
+You are staking 0.00 [WMATIC]-[Shark] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[Shark] Uni LP
+Unstake 0.00 [WMATIC]-[Shark] Uni LP
+Claim 0.00 SHARK ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $18,008.30

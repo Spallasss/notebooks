@@ -1,0 +1,153 @@
+INFO  : https://www.polysa.finance
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:39:10 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 10 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[DUFF] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $40,999.24 TVL: $68.68
+USDC Price: $1.00
+DUFF Price: $0.000364
+Staked: 0.0004 UNI-V2 ($16.37)
+DUFF Per Week: 13935.48 ($5.07)
+APR: Day 4.42% Week 30.95% Year 1609.28%
+You are staking 0.00 [USDC]-[DUFF] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DUFF] Uni LP
+Unstake 0.00 [USDC]-[DUFF] Uni LP
+Claim 0.00 DUFF ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+WMATIC
+ Price: $1.65 Market Cap: $605,452,567.40 
+[%]
+Staked: 16.6984 WMATIC ($27.55)
+DUFF Per Week: 2787.10 ($1.01)
+APR: Day 0.53% Week 3.68% Year 191.24%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 DUFF ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+DUFF
+ Price: $0.000364 Market Cap: $97.97 
+[%]
+Staked: 136529.5799 DUFF ($49.64)
+DUFF Per Week: 6967.74 ($2.53)
+APR: Day 0.73% Week 5.10% Year 265.38%
+You are staking 0.00 DUFF ($0.00), 0.00% of the pool.
+Stake 0.00 DUFF
+Unstake 0.00 DUFF
+Claim 0.00 DUFF ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,870,260.31 TVL: $148,160,262.33
+USDC Price: $1.00
+WETH Price: $3,327.08
+Staked: 0.0000 UNI-V2 ($5.39)
+DUFF Per Week: 2787.10 ($1.01)
+APR: Day 2.69% Week 18.80% Year 977.73%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 DUFF ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WETH
+ Price: $3,327.08 Market Cap: $2,031,576,013.86 
+[%]
+Staked: 0.2188 WETH ($728.13)
+DUFF Per Week: 2787.10 ($1.01)
+APR: Day 0.02% Week 0.14% Year 7.24%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 DUFF ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+DAI
+ Price: $1.00 Market Cap: $375,659,203.55 
+[%]
+Staked: 32.8582 DAI ($32.81)
+DUFF Per Week: 2787.10 ($1.01)
+APR: Day 0.44% Week 3.09% Year 160.62%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 DUFF ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+QUICK
+ Price: $738.26 Market Cap: $706,711,696.40 
+[%]
+Staked: 0.0086 QUICK ($6.34)
+DUFF Per Week: 2787.10 ($1.01)
+APR: Day 2.28% Week 15.98% Year 830.89%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 DUFF ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+Krill
+ Price: $0.09 Market Cap: $656,548.38 
+[%]
+Staked: 413.0064 Krill ($36.90)
+DUFF Per Week: 2787.10 ($1.01)
+APR: Day 0.39% Week 2.75% Year 142.81%
+You are staking 0.00 Krill ($0.00), 0.00% of the pool.
+Stake 0.00 Krill - Fee 4%
+Unstake 0.00 Krill
+Claim 0.00 DUFF ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+MUST
+ Price: $106.47 Market Cap: $5,146,134.20 
+[%]
+Staked: 0.3227 MUST ($34.36)
+DUFF Per Week: 2787.10 ($1.01)
+APR: Day 0.42% Week 2.95% Year 153.37%
+You are staking 0.00 MUST ($0.00), 0.00% of the pool.
+Stake 0.00 MUST - Fee 4%
+Unstake 0.00 MUST
+Claim 0.00 DUFF ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+FISH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 14.6247 FISH ($0.00)
+DUFF Per Week: 2787.10 ($1.01)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+Stake 0.00 FISH - Fee 4%
+Unstake 0.00 FISH
+Claim 0.00 DUFF ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $937.48

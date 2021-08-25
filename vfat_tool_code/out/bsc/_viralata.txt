@@ -1,0 +1,221 @@
+INFO  : https://app.viralata.finance
+**********************************************************************************
+
+Mon Aug 23 2021 15:18:29 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+-------------------------------------------------
+REAU price $0.00000000752
+-------------------------------------------------
+-------------------------------------------------
+AURO price $0.10
+-------------------------------------------------
+ 
+Staking Contract
+Found 11 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+REAU
+ Price: $0.0000000050 Market Cap: $4,993,000.00 
+[%]
+Staked: 173367507648954.7813 REAU ($865,623.97)
+AURO Per Week: 347760.00 ($34,776.00)
+APR: Day 0.57% Week 4.02% Year 208.91%
+You are staking 0.00 REAU ($0.00), 0.00% of the pool.
+Stake 0.00 REAU
+Unstake 0.00 REAU
+Claim 0.00 AURO ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+AURO
+ Price: $0.10 Market Cap: $765,201.11 
+[%]
+Staked: 3624616.3677 AURO ($362,461.64)
+AURO Per Week: 453600.00 ($45,360.00)
+APR: Day 1.79% Week 12.51% Year 650.75%
+You are staking 0.00 AURO ($0.00), 0.00% of the pool.
+Stake 0.00 AURO
+Unstake 0.00 AURO
+Claim 0.00 AURO ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[AURO]-[BUSD] AURO LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.63 TVL: $555,585.49
+AURO Price: $0.10
+BUSD Price: $1.00
+Staked: 878214.8448 VLP ($555,373.61)
+AURO Per Week: 1596672.00 ($159,667.20)
+APR: Day 4.11% Week 28.75% Year 1494.97%
+You are staking 0.00 [AURO]-[BUSD] AURO LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AURO]-[BUSD] AURO LP
+Unstake 0.00 [AURO]-[BUSD] AURO LP
+Claim 0.00 AURO ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[REAU]-[BUSD] AURO LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.93 TVL: $20,774.23
+REAU Price: $0.0000000050
+BUSD Price: $1.00
+Staked: 4207.5941 VLP ($20,750.92)
+AURO Per Week: 30240.00 ($3,024.00)
+APR: Day 2.08% Week 14.57% Year 757.79%
+You are staking 0.00 [REAU]-[BUSD] AURO LP ($0.00), 0.00% of the pool.
+Stake 0.00 [REAU]-[BUSD] AURO LP
+Unstake 0.00 [REAU]-[BUSD] AURO LP
+Claim 0.00 AURO ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[REAU]-[AURO] AURO LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.82 TVL: $112,997.78
+REAU Price: $0.0000000050
+AURO Price: $0.10
+Staked: 61783.0260 VLP ($112,426.22)
+AURO Per Week: 287280.00 ($28,728.00)
+APR: Day 3.65% Week 25.55% Year 1328.74%
+You are staking 0.00 [REAU]-[AURO] AURO LP ($0.00), 0.00% of the pool.
+Stake 0.00 [REAU]-[AURO] AURO LP
+Unstake 0.00 [REAU]-[AURO] AURO LP
+Claim 0.00 AURO ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[AURO]-[WBNB] AURO LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $14.09 TVL: $61,392.84
+AURO Price: $0.10
+WBNB Price: $495.68
+Staked: 4339.5826 VLP ($61,133.98)
+AURO Per Week: 136080.00 ($13,608.00)
+APR: Day 3.18% Week 22.26% Year 1157.48%
+You are staking 0.00 [AURO]-[WBNB] AURO LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AURO]-[WBNB] AURO LP
+Unstake 0.00 [AURO]-[WBNB] AURO LP
+Claim 0.00 AURO ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[WBNB]-[BUSD] AURO LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $44.53 TVL: $26,620.65
+WBNB Price: $495.68
+BUSD Price: $1.00
+Staked: 591.2850 VLP ($26,328.51)
+AURO Per Week: 27216.00 ($2,721.60)
+APR: Day 1.48% Week 10.34% Year 537.53%
+You are staking 0.00 [WBNB]-[BUSD] AURO LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] AURO LP - Fee 5%
+Unstake 0.00 [WBNB]-[BUSD] AURO LP
+Claim 0.00 AURO ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[Cake]-[WBNB] AURO LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $224.95 TVL: $24,755.46
+Cake Price: $25.52
+WBNB Price: $495.68
+Staked: 108.1040 VLP ($24,317.53)
+AURO Per Week: 27216.00 ($2,721.60)
+APR: Day 1.60% Week 11.19% Year 581.98%
+You are staking 0.00 [Cake]-[WBNB] AURO LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] AURO LP - Fee 5%
+Unstake 0.00 [Cake]-[WBNB] AURO LP
+Claim 0.00 AURO ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[USDC]-[BUSD] AURO LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $37,943.95
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 18980.2612 VLP ($37,932.09)
+AURO Per Week: 27216.00 ($2,721.60)
+APR: Day 1.02% Week 7.17% Year 373.10%
+You are staking 0.00 [USDC]-[BUSD] AURO LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] AURO LP - Fee 5%
+Unstake 0.00 [USDC]-[BUSD] AURO LP
+Claim 0.00 AURO ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[Cake]-[AURO] AURO LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.20 TVL: $25,397.27
+Cake Price: $25.52
+AURO Price: $0.10
+Staked: 7940.1834 VLP ($25,377.81)
+AURO Per Week: 54432.00 ($5,443.20)
+APR: Day 3.06% Week 21.45% Year 1115.33%
+You are staking 0.00 [Cake]-[AURO] AURO LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[AURO] AURO LP
+Unstake 0.00 [Cake]-[AURO] AURO LP
+Claim 0.00 AURO ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[MEL]-[AURO] AURO LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.12 TVL: $15,085.17
+MEL Price: $0.03
+AURO Price: $0.10
+Staked: 128898.5425 VLP ($15,057.81)
+AURO Per Week: 36288.00 ($3,628.80)
+APR: Day 3.44% Week 24.10% Year 1253.15%
+You are staking 0.00 [MEL]-[AURO] AURO LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MEL]-[AURO] AURO LP
+Unstake 0.00 [MEL]-[AURO] AURO LP
+Claim 0.00 AURO ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $2,106,784.08

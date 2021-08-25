@@ -1,0 +1,403 @@
+INFO  : https://polycat.finance
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Rewards vest over 30 days from claiming.
+
+Mon Aug 23 2021 15:57:00 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 20 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WMATIC]-[PAW] PolyCat LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.06 TVL: $2,198,815.33
+WMATIC Price: $1.64
+PAW Price: $1.40
+Staked: 719157.4988 CAT-LP ($2,197,227.07)
+PAW Per Week: 210304.26 ($295,200.10)
+APR: Day 1.92% Week 13.44% Year 698.63%
+You are staking 0.00 [WMATIC]-[PAW] PolyCat LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PAW] PolyCat LP
+Unstake 0.00 [WMATIC]-[PAW] PolyCat LP
+Start vesting 0.00 PAW ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[USDC]-[PAW] PolyCat LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,383,447.47 TVL: $1,848,010.33
+USDC Price: $1.00
+PAW Price: $1.40
+Staked: 0.7516 CAT-LP ($1,791,411.10)
+PAW Per Week: 210304.26 ($295,200.10)
+APR: Day 2.35% Week 16.48% Year 856.89%
+You are staking 0.00 [USDC]-[PAW] PolyCat LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[PAW] PolyCat LP
+Unstake 0.00 [USDC]-[PAW] PolyCat LP
+Start vesting 0.00 PAW ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WETH]-[PAW] PolyCat LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $137.39 TVL: $1,526,088.97
+WETH Price: $3,335.11
+PAW Price: $1.40
+Staked: 11102.2975 CAT-LP ($1,525,350.08)
+PAW Per Week: 175253.55 ($246,000.09)
+APR: Day 2.30% Week 16.13% Year 838.63%
+You are staking 0.00 [WETH]-[PAW] PolyCat LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[PAW] PolyCat LP
+Unstake 0.00 [WETH]-[PAW] PolyCat LP
+Start vesting 0.00 PAW ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[FISH] PolyCat LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,737,957.37 TVL: $3,253,802.43
+USDC Price: $1.00
+FISH Price: $5.58
+Staked: 0.6853 CAT-LP ($3,246,914.04)
+PAW Per Week: 175253.55 ($246,000.09)
+APR: Day 1.08% Week 7.58% Year 393.97%
+You are staking 0.00 [USDC]-[FISH] PolyCat LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[FISH] PolyCat LP
+Unstake 0.00 [USDC]-[FISH] PolyCat LP
+Start vesting 0.00 PAW ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WMATIC]-[FISH] PolyCat LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6.07 TVL: $4,239,134.71
+WMATIC Price: $1.64
+FISH Price: $5.58
+Staked: 681750.6205 CAT-LP ($4,135,767.21)
+PAW Per Week: 140202.84 ($196,800.07)
+APR: Day 0.68% Week 4.76% Year 247.44%
+You are staking 0.00 [WMATIC]-[FISH] PolyCat LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[FISH] PolyCat LP
+Unstake 0.00 [WMATIC]-[FISH] PolyCat LP
+Start vesting 0.00 PAW ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[FISH]-[WETH] PolyCat LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $273.41 TVL: $2,812,889.44
+FISH Price: $5.58
+WETH Price: $3,335.11
+Staked: 10270.0721 CAT-LP ($2,807,923.66)
+PAW Per Week: 140202.84 ($196,800.07)
+APR: Day 1.00% Week 7.01% Year 364.45%
+You are staking 0.00 [FISH]-[WETH] PolyCat LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FISH]-[WETH] PolyCat LP
+Unstake 0.00 [FISH]-[WETH] PolyCat LP
+Start vesting 0.00 PAW ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[FISH]-[PAW] PolyCat LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.61 TVL: $1,498,755.25
+FISH Price: $5.58
+PAW Price: $1.40
+Staked: 265427.5274 CAT-LP ($1,489,576.56)
+PAW Per Week: 140202.84 ($196,800.07)
+APR: Day 1.89% Week 13.21% Year 687.01%
+You are staking 0.00 [FISH]-[PAW] PolyCat LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FISH]-[PAW] PolyCat LP
+Unstake 0.00 [FISH]-[PAW] PolyCat LP
+Start vesting 0.00 PAW ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[WBTC]-[DAI] PolyCat LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6,506,411,815.63 TVL: $8,792,277.88
+WBTC Price: $50,107.00
+DAI Price: $1.00
+Staked: 0.0014 CAT-LP ($8,791,482.39)
+PAW Per Week: 140202.84 ($196,800.07)
+APR: Day 0.32% Week 2.24% Year 116.40%
+You are staking 0.00 [WBTC]-[DAI] PolyCat LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[DAI] PolyCat LP
+Unstake 0.00 [WBTC]-[DAI] PolyCat LP
+Start vesting 0.00 PAW ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[WBTC]-[USDT] PolyCat LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $44,774,035,807,753.91 TVL: $9,192,757.35
+WBTC Price: $50,107.00
+USDT Price: $1.00
+Staked: 0.0000 CAT-LP ($9,190,221.46)
+PAW Per Week: 140202.84 ($196,800.07)
+APR: Day 0.31% Week 2.14% Year 111.35%
+You are staking 0.00 [WBTC]-[USDT] PolyCat LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[USDT] PolyCat LP
+Unstake 0.00 [WBTC]-[USDT] PolyCat LP
+Start vesting 0.00 PAW ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[WMATIC]-[DAI] PolyCat LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.58 TVL: $6,697,302.66
+WMATIC Price: $1.64
+DAI Price: $1.00
+Staked: 2599477.6993 CAT-LP ($6,694,745.74)
+PAW Per Week: 140202.84 ($196,800.07)
+APR: Day 0.42% Week 2.94% Year 152.86%
+You are staking 0.00 [WMATIC]-[DAI] PolyCat LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[DAI] PolyCat LP
+Unstake 0.00 [WMATIC]-[DAI] PolyCat LP
+Start vesting 0.00 PAW ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[WMATIC]-[WBTC] PolyCat LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $57,404,362.92 TVL: $7,872,773.64
+WMATIC Price: $1.64
+WBTC Price: $50,107.00
+Staked: 0.1371 CAT-LP ($7,867,510.69)
+PAW Per Week: 140202.84 ($196,800.07)
+APR: Day 0.36% Week 2.50% Year 130.07%
+You are staking 0.00 [WMATIC]-[WBTC] PolyCat LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WBTC] PolyCat LP
+Unstake 0.00 [WMATIC]-[WBTC] PolyCat LP
+Start vesting 0.00 PAW ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[WMATIC]-[WETH] PolyCat LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $148.35 TVL: $7,382,136.33
+WMATIC Price: $1.64
+WETH Price: $3,335.11
+Staked: 48649.4871 CAT-LP ($7,217,386.35)
+PAW Per Week: 93468.56 ($131,200.05)
+APR: Day 0.26% Week 1.82% Year 94.53%
+You are staking 0.00 [WMATIC]-[WETH] PolyCat LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] PolyCat LP
+Unstake 0.00 [WMATIC]-[WETH] PolyCat LP
+Start vesting 0.00 PAW ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WMATIC]-[USDC] PolyCat LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,583,478.96 TVL: $4,216,582.28
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 1.6210 CAT-LP ($4,187,778.15)
+PAW Per Week: 93468.56 ($131,200.05)
+APR: Day 0.45% Week 3.13% Year 162.91%
+You are staking 0.00 [WMATIC]-[USDC] PolyCat LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] PolyCat LP
+Unstake 0.00 [WMATIC]-[USDC] PolyCat LP
+Start vesting 0.00 PAW ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WMATIC]-[USDT] PolyCat LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,565,404.65 TVL: $4,303,705.97
+WMATIC Price: $1.64
+USDT Price: $1.00
+Staked: 1.6764 CAT-LP ($4,300,745.64)
+PAW Per Week: 93468.56 ($131,200.05)
+APR: Day 0.44% Week 3.05% Year 158.63%
+You are staking 0.00 [WMATIC]-[USDT] PolyCat LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDT] PolyCat LP
+Unstake 0.00 [WMATIC]-[USDT] PolyCat LP
+Start vesting 0.00 PAW ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[WBTC]-[WETH] PolyCat LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,587,484,346.44 TVL: $12,902,960.15
+WBTC Price: $50,107.00
+WETH Price: $3,335.11
+Staked: 0.0050 CAT-LP ($12,897,287.44)
+PAW Per Week: 93468.56 ($131,200.05)
+APR: Day 0.15% Week 1.02% Year 52.90%
+You are staking 0.00 [WBTC]-[WETH] PolyCat LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] PolyCat LP
+Unstake 0.00 [WBTC]-[WETH] PolyCat LP
+Start vesting 0.00 PAW ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[USDC]-[USDT] PolyCat LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,997,841,579,443.39 TVL: $9,927,626.45
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 CAT-LP ($9,880,515.36)
+PAW Per Week: 58417.85 ($82,000.03)
+APR: Day 0.12% Week 0.83% Year 43.16%
+You are staking 0.00 [USDC]-[USDT] PolyCat LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] PolyCat LP
+Unstake 0.00 [USDC]-[USDT] PolyCat LP
+Start vesting 0.00 PAW ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[USDC]-[DAI] PolyCat LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $63,229,270.09 TVL: $11,448,385.45
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.1808 CAT-LP ($11,428,815.26)
+PAW Per Week: 58417.85 ($82,000.03)
+APR: Day 0.10% Week 0.72% Year 37.31%
+You are staking 0.00 [USDC]-[DAI] PolyCat LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] PolyCat LP
+Unstake 0.00 [USDC]-[DAI] PolyCat LP
+Start vesting 0.00 PAW ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[DAI]-[USDT] PolyCat LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,998,825.39 TVL: $10,569,969.27
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 5.2800 CAT-LP ($10,553,772.54)
+PAW Per Week: 58417.85 ($82,000.03)
+APR: Day 0.11% Week 0.78% Year 40.40%
+You are staking 0.00 [DAI]-[USDT] PolyCat LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDT] PolyCat LP
+Unstake 0.00 [DAI]-[USDT] PolyCat LP
+Start vesting 0.00 PAW ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[COSMIC]-[PAW] PolyCat LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.66 TVL: $6,007.05
+COSMIC Price: $1.26
+PAW Price: $1.40
+Staked: 2234.5495 CAT-LP ($5,941.45)
+PAW Per Week: 584.18 ($820.00)
+APR: Day 1.97% Week 13.80% Year 717.67%
+You are staking 0.00 [COSMIC]-[PAW] PolyCat LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COSMIC]-[PAW] PolyCat LP
+Unstake 0.00 [COSMIC]-[PAW] PolyCat LP
+Start vesting 0.00 PAW ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[GENX]-[PAW] PolyCat LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.41 TVL: $12,905.40
+GENX Price: $0.35
+PAW Price: $1.40
+Staked: 8319.2127 CAT-LP ($11,737.19)
+PAW Per Week: 1752.54 ($2,460.00)
+APR: Day 2.99% Week 20.96% Year 1089.87%
+You are staking 0.00 [GENX]-[PAW] PolyCat LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GENX]-[PAW] PolyCat LP
+Unstake 0.00 [GENX]-[PAW] PolyCat LP
+Start vesting 0.00 PAW ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $110,222,109.39
+Start vesting of all 0.00 PAW ($0.00)

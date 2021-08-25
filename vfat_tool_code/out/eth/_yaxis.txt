@@ -1,0 +1,83 @@
+INFO  : https://yaxis.io/farms
+***************************************************************************************
+
+Mon Aug 23 2021 15:31:27 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 10 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+6 - 
+[YAX]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $324.00 TVL: $130,855.18
+YAX Price: $4.24
+WETH Price: $3,330.58
+Staked: 347.7763 UNI-V2 ($112,678.32)
+YAX Per Week: 3600.00 ($15,267.96)
+APR: Day 1.94% Week 13.55% Year 704.60%
+You are staking 0.00 [YAX]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [YAX]-[WETH] Uni LP
+Unstake 0.00 [YAX]-[WETH] Uni LP
+Claim 0.00 YAX ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $112,678.32
+MVLT Price: $1.11 TVL: $3,499,598.76
+Staked: 2361990.3635 MVLT ($2,632,385.14)
+YAXIS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 MVLT $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 MVLT
+Unstake 0.000000 MVLT
+Claim 0.000000 YAXIS ($0.00)
+Revoke (set approval to 0)
+Exit
+YAXIS
+ Price: $3.70 Market Cap: $40,700,000.00 
+[%]
+Staked: 2278499.3501 YAXIS ($8,430,447.60)
+YAXIS Per Week: 49912.14 ($184,674.91)
+APR: Day 0.31% Week 2.19% Year 113.91%
+You are staking 0.000000 YAXIS $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 YAXIS
+Unstake 0.000000 YAXIS
+Claim 0.000000 YAXIS ($0.00)
+Revoke (set approval to 0)
+Exit
+[YAXIS]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $232.42 TVL: $2,343,822.12
+YAXIS Price: $3.70
+WETH Price: $3,330.58
+Staked: 9966.3458 UNI-V2 ($2,316,400.44)
+YAXIS Per Week: 18666.67 ($69,066.67)
+APR: Day 0.43% Week 2.98% Year 155.05%
+You are staking 0.000000 [YAXIS]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [YAXIS]-[WETH] Uni LP
+Unstake 0.000000 [YAXIS]-[WETH] Uni LP
+Claim 0.000000 YAXIS ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $13,379,233.17

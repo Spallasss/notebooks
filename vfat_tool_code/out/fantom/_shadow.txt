@@ -1,0 +1,220 @@
+INFO  : https://shadowswap.app
+*******************************************************************************
+
+Mon Aug 23 2021 13:21:42 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 11 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WFTM]-[SHADOW] SPOOKY LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.07 TVL: $3,627.37
+WFTM Price: $0.57
+SHADOW Price: $0.001267
+Staked: 0.0000 spLP ($0.00)
+SHADOW Per Week: 155076.92 ($196.43)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[SHADOW] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[SHADOW] SPOOKY LP
+Unstake 0.00 [WFTM]-[SHADOW] SPOOKY LP
+Claim 0.00 SHADOW ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[USDC]-[SHADOW] SPOOKY LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $104,911.94 TVL: $74.21
+USDC Price: $1.00
+SHADOW Price: $0.001267
+Staked: 0.0000 spLP ($0.00)
+SHADOW Per Week: 155076.92 ($196.43)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[SHADOW] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[SHADOW] SPOOKY LP
+Unstake 0.00 [USDC]-[SHADOW] SPOOKY LP
+Claim 0.00 SHADOW ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+SHADOW
+ Price: $0.001267 Market Cap: $6,247.55 
+Staked: 3019126.2392 SHADOW ($3,824.14)
+SHADOW Per Week: 46523.08 ($58.93)
+APR: Day 0.22% Week 1.54% Year 80.13%
+You are staking 0.00 SHADOW ($0.00), 0.00% of the pool.
+Stake 0.00 SHADOW
+Unstake 0.00 SHADOW
+Claim 0.00 SHADOW ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WFTM]-[BOO] SPOOKY LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.92 TVL: $33,119,762.68
+WFTM Price: $0.57
+BOO Price: $10.07
+Staked: 0.0000 spLP ($0.00)
+SHADOW Per Week: 31015.38 ($39.29)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[BOO] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[BOO] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[BOO] SPOOKY LP
+Claim 0.00 SHADOW ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WFTM]-[ETH] SPOOKY LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $90.90 TVL: $6,622,766.42
+WFTM Price: $0.57
+ETH Price: $3,318.62
+Staked: 0.0000 spLP ($0.00)
+SHADOW Per Week: 31015.38 ($39.29)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[ETH] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[ETH] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[ETH] SPOOKY LP
+Claim 0.00 SHADOW ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[USDC]-[WFTM] SPOOKY LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,842,159.40 TVL: $10,019,789.42
+USDC Price: $1.00
+WFTM Price: $0.57
+Staked: 0.0000 spLP ($0.00)
+SHADOW Per Week: 31015.38 ($39.29)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP - Fee 4%
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP
+Claim 0.00 SHADOW ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[WFTM]-[DAI] SPOOKY LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.65 TVL: $4,079,028.64
+WFTM Price: $0.57
+DAI Price: $1.00
+Staked: 0.0000 spLP ($0.00)
+SHADOW Per Week: 31015.38 ($39.29)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[DAI] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[DAI] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[DAI] SPOOKY LP
+Claim 0.00 SHADOW ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[fUSDT]-[WFTM] SPOOKY LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,671,494.01 TVL: $4,568,094.78
+fUSDT Price: $1.00
+WFTM Price: $0.57
+Staked: 0.0000 spLP ($0.00)
+SHADOW Per Week: 31015.38 ($39.29)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [fUSDT]-[WFTM] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [fUSDT]-[WFTM] SPOOKY LP - Fee 4%
+Unstake 0.00 [fUSDT]-[WFTM] SPOOKY LP
+Claim 0.00 SHADOW ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[WFTM]-[BTC] SPOOKY LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6,603,955,762.56 TVL: $7,612,036.26
+WFTM Price: $0.57
+BTC Price: $50,202.59
+Staked: 0.0000 spLP ($0.00)
+SHADOW Per Week: 31015.38 ($39.29)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[BTC] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[BTC] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[BTC] SPOOKY LP
+Claim 0.00 SHADOW ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[WFTM]-[SUSHI] SPOOKY LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.78 TVL: $3,242,476.21
+WFTM Price: $0.57
+SUSHI Price: $13.81
+Staked: 0.0000 spLP ($0.00)
+SHADOW Per Week: 31015.38 ($39.29)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[SUSHI] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[SUSHI] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[SUSHI] SPOOKY LP
+Claim 0.00 SHADOW ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[WFTM]-[BNB] SPOOKY LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $34.03 TVL: $3,836,097.67
+WFTM Price: $0.57
+BNB Price: $481.52
+Staked: 0.0000 spLP ($0.00)
+SHADOW Per Week: 31015.38 ($39.29)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[BNB] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[BNB] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[BNB] SPOOKY LP
+Claim 0.00 SHADOW ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $3,824.14

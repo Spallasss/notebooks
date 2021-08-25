@@ -1,0 +1,111 @@
+INFO  : https://0xatma.finance
+**********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:37:41 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 7 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[ATMA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8,233.95 TVL: $4.52
+USDC Price: $1.00
+ATMA Price: $0.0000159503
+Staked: 0.0005 UNI-V2 ($4.52)
+ATMA Per Week: 144000.00 ($2.30)
+APR: Day 7.26% Week 50.84% Year 2643.78%
+You are staking 0.00 [USDC]-[ATMA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[ATMA] Uni LP
+Unstake 0.00 [USDC]-[ATMA] Uni LP
+Claim 0.00 ATMA ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+DAI
+ Price: $1.00 Market Cap: $376,567,350.39 
+[%]
+Staked: 7.4601 DAI ($7.45)
+ATMA Per Week: 28800.00 ($0.46)
+APR: Day 0.88% Week 6.16% Year 320.54%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 ATMA ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+USDC
+ Price: $1.00 Market Cap: $1,043,057,931.38 
+[%]
+Staked: 121.2432 USDC ($121.11)
+ATMA Per Week: 28800.00 ($0.46)
+APR: Day 0.05% Week 0.38% Year 19.72%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 ATMA ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+USDT
+ Price: $1.00 Market Cap: $314,975,208.11 
+[%]
+Staked: 0.9600 USDT ($0.96)
+ATMA Per Week: 28800.00 ($0.46)
+APR: Day 6.84% Week 47.90% Year 2490.61%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 ATMA ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WMATIC
+ Price: $1.64 Market Cap: $602,995,084.30 
+[%]
+Staked: 11.5200 WMATIC ($18.89)
+ATMA Per Week: 23040.00 ($0.37)
+APR: Day 0.28% Week 1.95% Year 101.15%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 ATMA ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WETH
+ Price: $3,324.55 Market Cap: $2,027,104,469.88 
+[%]
+Staked: 0.0280 WETH ($93.10)
+ATMA Per Week: 23040.00 ($0.37)
+APR: Day 0.06% Week 0.39% Year 20.53%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 ATMA ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+QUICK
+ Price: $726.85 Market Cap: $695,789,283.62 
+[%]
+Staked: 0.0117 QUICK ($8.48)
+ATMA Per Week: 11520.00 ($0.18)
+APR: Day 0.31% Week 2.17% Year 112.71%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 ATMA ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $254.51

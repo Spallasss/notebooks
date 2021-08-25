@@ -1,0 +1,215 @@
+INFO  : https://app.canary.exchange/
+******************************************************************************
+
+Mon Aug 23 2021 13:15:03 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[WAVAX]-[ETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,032.38 TVL: $47,524.52
+WAVAX Price: $49.33
+ETH Price: $5,343.79
+Staked: 46.0341 CRL ($47,524.52)
+CNR Per Week: 28154.83 ($795.86)
+APR: Day 0.24% Week 1.67% Year 87.08%
+You are staking 0.000000 [WAVAX]-[ETH] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [WAVAX]-[ETH] Uni LP
+Unstake 0.000000 [WAVAX]-[ETH] Uni LP
+Claim 0.000000 CNR ($0.00)
+Revoke (set approval to 0)
+Exit
+[CNR]-[WAVAX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.07 TVL: $118,957.03
+CNR Price: $0.03
+WAVAX Price: $49.33
+Staked: 38549.2596 CRL ($118,529.13)
+CNR Per Week: 253393.51 ($7,162.73)
+APR: Day 0.86% Week 6.04% Year 314.24%
+You are staking 0.000000 [CNR]-[WAVAX] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [CNR]-[WAVAX] Uni LP
+Unstake 0.000000 [CNR]-[WAVAX] Uni LP
+Claim 0.000000 CNR ($0.00)
+Revoke (set approval to 0)
+Exit
+[WAVAX]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $16,235,168.87 TVL: $6,038.98
+WAVAX Price: $49.33
+USDT Price: $1.26
+Staked: 0.0003 CRL ($5,592.48)
+CNR Per Week: 22523.87 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [WAVAX]-[USDT] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [WAVAX]-[USDT] Uni LP
+Unstake 0.000000 [WAVAX]-[USDT] Uni LP
+Claim 0.000000 CNR ($0.00)
+Revoke (set approval to 0)
+Exit
+[WAVAX]-[LINK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $100.75 TVL: $13,924.41
+WAVAX Price: $49.33
+LINK Price: $50.83
+Staked: 138.2091 CRL ($13,924.41)
+CNR Per Week: 16892.90 ($477.52)
+APR: Day 0.49% Week 3.43% Year 178.33%
+You are staking 0.000000 [WAVAX]-[LINK] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [WAVAX]-[LINK] Uni LP
+Unstake 0.000000 [WAVAX]-[LINK] Uni LP
+Claim 0.000000 CNR ($0.00)
+Revoke (set approval to 0)
+Exit
+[PNG]-[WAVAX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $26.46 TVL: $34,758.62
+PNG Price: $3.49
+WAVAX Price: $49.33
+Staked: 1305.3577 CRL ($34,544.02)
+CNR Per Week: 11261.93 ($318.34)
+APR: Day 0.13% Week 0.92% Year 47.92%
+You are staking 0.000000 [PNG]-[WAVAX] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [PNG]-[WAVAX] Uni LP
+Unstake 0.000000 [PNG]-[WAVAX] Uni LP
+Claim 0.000000 CNR ($0.00)
+Revoke (set approval to 0)
+Exit
+[CNR]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $401,786.21 TVL: $75,621.78
+CNR Price: $0.03
+USDT Price: $1.26
+Staked: 0.1865 CRL ($74,941.77)
+CNR Per Week: 197083.84 ($5,571.01)
+APR: Day 1.06% Week 7.43% Year 386.56%
+You are staking 0.000000 [CNR]-[USDT] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [CNR]-[USDT] Uni LP
+Unstake 0.000000 [CNR]-[USDT] Uni LP
+Claim 0.000000 CNR ($0.00)
+Revoke (set approval to 0)
+Exit
+[CNR]-[ETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $25.50 TVL: $44,242.28
+CNR Price: $0.03
+ETH Price: $5,343.79
+Staked: 1733.2794 CRL ($44,204.78)
+CNR Per Week: 168929.00 ($4,775.15)
+APR: Day 1.54% Week 10.80% Year 561.72%
+You are staking 0.000000 [CNR]-[ETH] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [CNR]-[ETH] Uni LP
+Unstake 0.000000 [CNR]-[ETH] Uni LP
+Claim 0.000000 CNR ($0.00)
+Revoke (set approval to 0)
+Exit
+[CNR]-[LINK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.48 TVL: $30,408.25
+CNR Price: $0.03
+LINK Price: $50.83
+Staked: 12144.3368 CRL ($30,131.92)
+CNR Per Week: 84464.50 ($2,387.58)
+APR: Day 1.13% Week 7.92% Year 412.03%
+You are staking 0.000000 [CNR]-[LINK] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [CNR]-[LINK] Uni LP
+Unstake 0.000000 [CNR]-[LINK] Uni LP
+Claim 0.000000 CNR ($0.00)
+Revoke (set approval to 0)
+Exit
+[PNG]-[CNR] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.65 TVL: $35,884.67
+PNG Price: $3.49
+CNR Price: $0.03
+Staked: 51584.2563 CRL ($33,715.12)
+CNR Per Week: 84464.50 ($2,387.58)
+APR: Day 1.01% Week 7.08% Year 368.24%
+You are staking 0.000000 [PNG]-[CNR] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [PNG]-[CNR] Uni LP
+Unstake 0.000000 [PNG]-[CNR] Uni LP
+Claim 0.000000 CNR ($0.00)
+Revoke (set approval to 0)
+Exit
+CNR
+ Price: $0.00 Market Cap: $0.00 
+Staked: 9037049.3971 CNR ($0.00)
+CNR Per Week: 174559.97 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 CNR $0.00 (NaN% of the pool).
+Explorer
+Stake 0.000000 CNR
+Unstake 0.000000 CNR
+Claim 0.000000 CNR ($0.00)
+Revoke (set approval to 0)
+Exit
+WAVAX
+ Price: $49.33 Market Cap: $270,343,919.30 
+Staked: 6060.9258 WAVAX ($298,985.47)
+CNR Per Week: 33785.80 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 WAVAX $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 WAVAX
+Unstake 0.000000 WAVAX
+Claim 0.000000 CNR ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $702,093.63

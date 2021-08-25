@@ -1,0 +1,203 @@
+INFO  : https://www.polyswan.finance
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:27:11 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 13 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[SWAN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $32,882.87 TVL: $1.01
+USDC Price: $1.00
+SWAN Price: $0.000192
+Staked: 0.0000 UNI-V2 ($0.61)
+SWAN Per Week: 6447.76 ($1.24)
+APR: Day 28.93% Week 202.53% Year 10531.52%
+You are staking 0.00 [USDC]-[SWAN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[SWAN] Uni LP
+Unstake 0.00 [USDC]-[SWAN] Uni LP
+Claim 0.00 SWAN ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[SWAN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.04 TVL: $11.06
+WMATIC Price: $1.66
+SWAN Price: $0.000192
+Staked: 257.3335 UNI-V2 ($10.70)
+SWAN Per Week: 6447.76 ($1.24)
+APR: Day 1.66% Week 11.60% Year 603.02%
+You are staking 0.00 [WMATIC]-[SWAN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[SWAN] Uni LP
+Unstake 0.00 [WMATIC]-[SWAN] Uni LP
+Claim 0.00 SWAN ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,625,813.03 TVL: $33,484,641.55
+WMATIC Price: $1.66
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($2.14)
+SWAN Per Week: 1289.55 ($0.25)
+APR: Day 1.66% Week 11.60% Year 603.15%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 SWAN ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,540,358.83 TVL: $147,860,291.44
+USDC Price: $1.00
+WETH Price: $3,319.58
+Staked: 0.0000 UNI-V2 ($1.85)
+SWAN Per Week: 1289.55 ($0.25)
+APR: Day 1.92% Week 13.44% Year 698.65%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 SWAN ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+SWAN
+ Price: $0.000192 Market Cap: $22.29 
+[%]
+Staked: 25054.3610 SWAN ($4.82)
+SWAN Per Week: 2579.10 ($0.50)
+APR: Day 1.47% Week 10.29% Year 535.29%
+You are staking 0.00 SWAN ($0.00), 0.00% of the pool.
+Stake 0.00 SWAN
+Unstake 0.00 SWAN
+Claim 0.00 SWAN ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WMATIC
+ Price: $1.66 Market Cap: $609,219,334.15 
+[%]
+Staked: 5.4032 WMATIC ($8.97)
+SWAN Per Week: 1719.40 ($0.33)
+APR: Day 0.53% Week 3.69% Year 191.78%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 SWAN ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+QUICK
+ Price: $741.15 Market Cap: $709,478,197.09 
+[%]
+Staked: 0.0020 QUICK ($1.49)
+SWAN Per Week: 1289.55 ($0.25)
+APR: Day 2.38% Week 16.69% Year 867.68%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 SWAN ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WETH
+ Price: $3,319.58 Market Cap: $2,027,028,034.90 
+[%]
+Staked: 0.0104 WETH ($34.61)
+SWAN Per Week: 1289.55 ($0.25)
+APR: Day 0.10% Week 0.72% Year 37.27%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 SWAN ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+WBTC
+ Price: $50,118.00 Market Cap: $699,101,718.40 
+[%]
+Staked: 0.0002 WBTC ($9.62)
+SWAN Per Week: 1289.55 ($0.25)
+APR: Day 0.37% Week 2.58% Year 134.07%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 SWAN ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+AAVE
+ Price: $409.77 Market Cap: $155,989,023.64 
+[%]
+Staked: 0.0035 AAVE ($1.42)
+SWAN Per Week: 1289.55 ($0.25)
+APR: Day 2.50% Week 17.51% Year 910.46%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 SWAN ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+USDT
+ Price: $1.00 Market Cap: $314,878,199.42 
+[%]
+Staked: 99.4803 USDT ($99.38)
+SWAN Per Week: 1289.55 ($0.25)
+APR: Day 0.04% Week 0.25% Year 12.98%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 SWAN ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+DAI
+ Price: $1.00 Market Cap: $376,255,408.70 
+[%]
+Staked: 478.6831 DAI ($478.68)
+SWAN Per Week: 1289.55 ($0.25)
+APR: Day 0.01% Week 0.05% Year 2.70%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 SWAN ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+FISH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 2.2374 FISH ($0.00)
+SWAN Per Week: 1289.55 ($0.25)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+Stake 0.00 FISH - Fee 4%
+Unstake 0.00 FISH
+Claim 0.00 SWAN ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $654.29

@@ -1,0 +1,320 @@
+INFO  : https://app.rasta.finance
+**********************************************************************************
+
+Mon Aug 23 2021 09:21:18 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 28 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+RASTA
+ Price: $0.23 Market Cap: $345,189.08 
+[%]
+Staked: 383127.8939 RASTA ($86,847.79)
+RASTA Per Week: 6290.17 ($1,425.86)
+APR: Day 0.23% Week 1.64% Year 85.37%
+You are staking 0.00 RASTA ($0.00), 0.00% of the pool.
+Stake 0.00 RASTA
+Unstake 0.00 RASTA
+Claim 0.00 RASTA ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WBNB]-[RASTA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $24.90 TVL: $34,466.91
+WBNB Price: $486.56
+RASTA Price: $0.23
+Staked: 1204.6486 RLP ($29,999.40)
+RASTA Per Week: 5661.15 ($1,283.28)
+APR: Day 0.61% Week 4.28% Year 222.44%
+You are staking 0.00 [WBNB]-[RASTA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[RASTA] Uni LP
+Unstake 0.00 [WBNB]-[RASTA] Uni LP
+Claim 0.00 RASTA ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[RASTA]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.11 TVL: $22,194.08
+RASTA Price: $0.23
+BUSD Price: $1.00
+Staked: 19901.3554 RLP ($22,022.48)
+RASTA Per Week: 5032.14 ($1,140.69)
+APR: Day 0.74% Week 5.18% Year 269.34%
+You are staking 0.00 [RASTA]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RASTA]-[BUSD] Uni LP
+Unstake 0.00 [RASTA]-[BUSD] Uni LP
+Claim 0.00 RASTA ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[ETH]-[RASTA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $58.07 TVL: $11,137.00
+ETH Price: $3,332.85
+RASTA Price: $0.23
+Staked: 185.4800 RLP ($10,771.60)
+RASTA Per Week: 2516.07 ($570.34)
+APR: Day 0.76% Week 5.29% Year 275.33%
+You are staking 0.00 [ETH]-[RASTA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[RASTA] Uni LP
+Unstake 0.00 [ETH]-[RASTA] Uni LP
+Claim 0.00 RASTA ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+BUSD
+ Price: $1.00 Market Cap: $4,195,890,984.73 
+[%]
+Staked: 4810.9352 BUSD ($4,805.09)
+RASTA Per Week: 377.41 ($85.55)
+APR: Day 0.25% Week 1.78% Year 92.58%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 RASTA ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+WBNB
+ Price: $486.56 Market Cap: $3,438,856,336.67 
+[%]
+Staked: 9.9331 WBNB ($4,833.03)
+RASTA Per Week: 251.61 ($57.03)
+APR: Day 0.17% Week 1.18% Year 61.37%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 RASTA ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 2666.1690 USDT ($2,665.65)
+RASTA Per Week: 188.71 ($42.78)
+APR: Day 0.23% Week 1.60% Year 83.44%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 RASTA ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+ETH
+ Price: $3,332.85 Market Cap: $4,349,369,250.00 
+[%]
+Staked: 1.4806 ETH ($4,934.46)
+RASTA Per Week: 125.80 ($28.52)
+APR: Day 0.08% Week 0.58% Year 30.05%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 RASTA ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 1271.5499 DAI ($1,271.55)
+RASTA Per Week: 125.80 ($28.52)
+APR: Day 0.32% Week 2.24% Year 116.62%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 RASTA ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+DOT
+ Price: $28.11 Market Cap: $393,539,999.86 
+[%]
+Staked: 198.1219 DOT ($5,569.21)
+RASTA Per Week: 125.80 ($28.52)
+APR: Day 0.07% Week 0.51% Year 26.63%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 RASTA ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+Cake
+ Price: $25.10 Market Cap: $10,444,912,379.82 
+[%]
+Staked: 192.9181 Cake ($4,842.24)
+RASTA Per Week: 125.80 ($28.52)
+APR: Day 0.08% Week 0.59% Year 30.62%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 RASTA ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[USDT]-[RASTA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.00 TVL: $16,681.94
+USDT Price: $1.00
+RASTA Price: $0.23
+Staked: 16730.5753 RLP ($16,665.40)
+RASTA Per Week: 4403.12 ($998.10)
+APR: Day 0.86% Week 5.99% Year 311.43%
+You are staking 0.00 [USDT]-[RASTA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[RASTA] Uni LP
+Unstake 0.00 [USDT]-[RASTA] Uni LP
+Claim 0.00 RASTA ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[Cake]-[RASTA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.95 TVL: $1,466.00
+Cake Price: $25.10
+RASTA Price: $0.23
+Staked: 296.0370 RLP ($1,465.21)
+RASTA Per Week: 377.41 ($85.55)
+APR: Day 0.83% Week 5.84% Year 303.62%
+You are staking 0.00 [Cake]-[RASTA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[RASTA] Uni LP
+Unstake 0.00 [Cake]-[RASTA] Uni LP
+Claim 0.00 RASTA ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[DOT]-[RASTA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.21 TVL: $1,501.04
+DOT Price: $28.11
+RASTA Price: $0.23
+Staked: 288.2386 RLP ($1,501.04)
+RASTA Per Week: 125.80 ($28.52)
+APR: Day 0.27% Week 1.90% Year 98.79%
+You are staking 0.00 [DOT]-[RASTA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[RASTA] Uni LP
+Unstake 0.00 [DOT]-[RASTA] Uni LP
+Claim 0.00 RASTA ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[RASTA]-[MRASTA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.43 TVL: $42,212.45
+RASTA Price: $0.23
+MRASTA Price: $2.15
+Staked: 28780.7914 RLP ($41,222.72)
+RASTA Per Week: 3774.10 ($855.52)
+APR: Day 0.30% Week 2.08% Year 107.92%
+You are staking 0.00 [RASTA]-[MRASTA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RASTA]-[MRASTA] Uni LP
+Unstake 0.00 [RASTA]-[MRASTA] Uni LP
+Claim 0.00 RASTA ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+MRASTA
+ Price: $2.15 Market Cap: $144,864.31 
+[%]
+Staked: 39586.4953 MRASTA ($85,295.96)
+RASTA Per Week: 1258.03 ($285.17)
+APR: Day 0.05% Week 0.33% Year 17.39%
+You are staking 0.00 MRASTA ($0.00), 0.00% of the pool.
+Stake 0.00 MRASTA
+Unstake 0.00 MRASTA
+Claim 0.00 RASTA ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+RX
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 RX ($0.00)
+RASTA Per Week: 6290.17 ($1,425.86)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RX ($0.00), NaN% of the pool.
+Stake 0.00 RX
+Unstake 0.00 RX
+Claim 0.00 RASTA ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[RASTA]-[CNS] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,375.17 TVL: $43,762.91
+RASTA Price: $0.23
+CNS Price: $0.000202
+Staked: 7.1684 RLP ($9,857.82)
+RASTA Per Week: 1258.03 ($285.17)
+APR: Day 0.41% Week 2.89% Year 150.43%
+You are staking 0.00 [RASTA]-[CNS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RASTA]-[CNS] Uni LP
+Unstake 0.00 [RASTA]-[CNS] Uni LP
+Claim 0.00 RASTA ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+[CROX]-[RASTA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.34 TVL: $10,850.84
+CROX Price: $0.13
+RASTA Price: $0.23
+Staked: 31633.9511 RLP ($10,845.14)
+RASTA Per Week: 2516.07 ($570.34)
+APR: Day 0.75% Week 5.26% Year 273.47%
+You are staking 0.00 [CROX]-[RASTA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CROX]-[RASTA] Uni LP
+Unstake 0.00 [CROX]-[RASTA] Uni LP
+Claim 0.00 RASTA ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+CNR
+ Price: $0.00 Market Cap: $0.00 
+Staked: 7582582.8007 CNR ($0.00)
+RASTA Per Week: 3145.09 ($712.93)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CNR ($0.00), NaN% of the pool.
+Stake 0.00 CNR - Fee 4%
+Unstake 0.00 CNR
+Claim 0.00 RASTA ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $345,415.79

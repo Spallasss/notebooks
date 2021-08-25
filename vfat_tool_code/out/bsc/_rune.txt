@@ -1,0 +1,437 @@
+INFO  : https://rune.farm
+*********************************************************************************
+
+Mon Aug 23 2021 14:03:47 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 24 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[RUNE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $679.61 TVL: $457,012.76
+RUNE Price: $200.46
+WBNB Price: $484.40
+Staked: 20.0774 Cake-LP ($13,644.83)
+NEF Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [RUNE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RUNE]-[WBNB] Cake LP
+Unstake 0.00 [RUNE]-[WBNB] Cake LP
+Claim 0.00 NEF ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[RUNE]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $30.66 TVL: $43,898.72
+RUNE Price: $200.46
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+NEF Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [RUNE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RUNE]-[BUSD] Cake LP
+Unstake 0.00 [RUNE]-[BUSD] Cake LP
+Claim 0.00 NEF ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[SLME]-[RUNE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7.28 TVL: $479.46
+SLME Price: $0.06
+RUNE Price: $200.46
+Staked: 0.0000 Slime-LP ($0.00)
+NEF Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [SLME]-[RUNE] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [SLME]-[RUNE] Uni LP
+Unstake 0.00 [SLME]-[RUNE] Uni LP
+Claim 0.00 NEF ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.57 TVL: $3,331,728.81
+WBNB Price: $484.40
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+NEF Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 NEF ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,907.43 TVL: $1,953,844.91
+BTCB Price: $50,221.00
+WBNB Price: $484.40
+Staked: 0.0060 Cake-LP ($65.95)
+NEF Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 NEF ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.14 TVL: $4,007,233.73
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+NEF Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 NEF ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[EL]-[RUNE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $48.02 TVL: $49,684.54
+EL Price: $2.70
+RUNE Price: $200.46
+Staked: 21.8618 Cake-LP ($1,049.91)
+NEF Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [EL]-[RUNE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [EL]-[RUNE] Cake LP
+Unstake 0.00 [EL]-[RUNE] Cake LP
+Claim 0.00 NEF ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[EL]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $83.27 TVL: $9,927.77
+EL Price: $2.70
+WBNB Price: $484.40
+Staked: 0.0439 Cake-LP ($3.65)
+NEF Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [EL]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [EL]-[WBNB] Cake LP
+Unstake 0.00 [EL]-[WBNB] Cake LP
+Claim 0.00 NEF ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[EL]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.71 TVL: $11,346.20
+EL Price: $2.70
+BUSD Price: $1.00
+Staked: 37.9026 Cake-LP ($140.57)
+NEF Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [EL]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [EL]-[BUSD] Cake LP
+Unstake 0.00 [EL]-[BUSD] Cake LP
+Claim 0.00 NEF ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+RUNE
+ Price: $200.46 Market Cap: $4,516,326.41 
+[%]
+Staked: 9.0180 RUNE ($1,807.74)
+NEF Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 RUNE ($0.00), 0.00% of the pool.
+Stake 0.00 RUNE
+Unstake 0.00 RUNE
+Claim 0.00 NEF ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+EL
+ Price: $2.70 Market Cap: $168,109.56 
+[%]
+Staked: 11.7328 EL ($31.71)
+NEF Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 EL ($0.00), 0.00% of the pool.
+Stake 0.00 EL
+Unstake 0.00 EL
+Claim 0.00 NEF ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+TIR
+ Price: $0.00 Market Cap: $0.00 
+Staked: 8.6315 TIR ($0.00)
+NEF Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 TIR ($0.00), NaN% of the pool.
+Stake 0.00 TIR
+Unstake 0.00 TIR
+Claim 0.00 NEF ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[TIR]-[RUNE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $43.47 TVL: $38,327.81
+TIR Price: $2.22
+RUNE Price: $200.46
+Staked: 7.6081 Cake-LP ($330.76)
+NEF Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [TIR]-[RUNE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TIR]-[RUNE] Cake LP
+Unstake 0.00 [TIR]-[RUNE] Cake LP
+Claim 0.00 NEF ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[TIR]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $78.26 TVL: $9,416.16
+TIR Price: $2.22
+WBNB Price: $484.40
+Staked: 0.5489 Cake-LP ($42.95)
+NEF Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [TIR]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TIR]-[WBNB] Cake LP
+Unstake 0.00 [TIR]-[WBNB] Cake LP
+Claim 0.00 NEF ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[TIR]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.28 TVL: $8,564.70
+TIR Price: $2.22
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+NEF Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [TIR]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [TIR]-[BUSD] Cake LP
+Unstake 0.00 [TIR]-[BUSD] Cake LP
+Claim 0.00 NEF ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[TIR]-[EL] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.08 TVL: $15,840.63
+TIR Price: $2.22
+EL Price: $2.70
+Staked: 83.3529 Cake-LP ($423.28)
+NEF Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [TIR]-[EL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TIR]-[EL] Cake LP
+Unstake 0.00 [TIR]-[EL] Cake LP
+Claim 0.00 NEF ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+ELD
+ Price: $0.00 Market Cap: $0.00 
+Staked: 251.2375 ELD ($0.00)
+NEF Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ELD ($0.00), NaN% of the pool.
+Stake 0.00 ELD
+Unstake 0.00 ELD
+Claim 0.00 NEF ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[ELD]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.90 TVL: $9,871.16
+ELD Price: $4.85
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+NEF Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [ELD]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ELD]-[BUSD] Cake LP
+Unstake 0.00 [ELD]-[BUSD] Cake LP
+Claim 0.00 NEF ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+NEF
+ Price: $0.00 Market Cap: $0.00 
+Staked: 414.5877 NEF ($0.00)
+NEF Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 NEF ($0.00), NaN% of the pool.
+Stake 0.00 NEF
+Unstake 0.00 NEF
+Claim 0.00 NEF ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[RUNE]-[NEF] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $51.61 TVL: $43,624.37
+RUNE Price: $200.46
+NEF Price: $3.18
+Staked: 6.4624 Cake-LP ($333.54)
+NEF Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [RUNE]-[NEF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RUNE]-[NEF] Cake LP
+Unstake 0.00 [RUNE]-[NEF] Cake LP
+Claim 0.00 NEF ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[WBNB]-[NEF] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $90.39 TVL: $10,699.37
+WBNB Price: $484.40
+NEF Price: $3.18
+Staked: 1.1905 Cake-LP ($107.61)
+NEF Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[NEF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[NEF] Cake LP
+Unstake 0.00 [WBNB]-[NEF] Cake LP
+Claim 0.00 NEF ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[BUSD]-[NEF] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.97 TVL: $9,266.83
+BUSD Price: $1.00
+NEF Price: $3.18
+Staked: 0.0000 Cake-LP ($0.00)
+NEF Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [BUSD]-[NEF] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BUSD]-[NEF] Cake LP
+Unstake 0.00 [BUSD]-[NEF] Cake LP
+Claim 0.00 NEF ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[EL]-[NEF] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.98 TVL: $17,716.87
+EL Price: $2.70
+NEF Price: $3.18
+Staked: 47.9695 Cake-LP ($287.06)
+NEF Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [EL]-[NEF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [EL]-[NEF] Cake LP
+Unstake 0.00 [EL]-[NEF] Cake LP
+Claim 0.00 NEF ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[TIR]-[NEF] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.39 TVL: $24,204.59
+TIR Price: $2.22
+NEF Price: $3.18
+Staked: 16.4254 Cake-LP ($88.56)
+NEF Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [TIR]-[NEF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TIR]-[NEF] Cake LP
+Unstake 0.00 [TIR]-[NEF] Cake LP
+Claim 0.00 NEF ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $18,358.12

@@ -1,0 +1,155 @@
+INFO  : https://polygon.fulcrum.trade
+*********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:45:11 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 10 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+PGOV
+ Price: $0.009551 Market Cap: $1,536,441.87 
+[%]
+Staked: 117340159.1528 PGOV ($1,120,719.18)
+PGOV Per Week: 508235.29 ($4,854.17)
+APR: Day 0.06% Week 0.43% Year 22.52%
+You are staking 0.00 PGOV ($0.00), 0.00% of the pool.
+Stake 0.00 PGOV
+Unstake 0.00 PGOV
+Compound 0.00 PGOV
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[PGOV] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.27 TVL: $329,432.68
+WMATIC Price: $1.65
+PGOV Price: $0.009551
+Staked: 1228552.7286 SLP ($327,026.55)
+PGOV Per Week: 1203715.17 ($11,496.72)
+APR: Day 0.50% Week 3.52% Year 182.81%
+You are staking 0.00 [WMATIC]-[PGOV] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PGOV] SLP
+Unstake 0.00 [WMATIC]-[PGOV] SLP
+Claim 0.00 PGOV ($0.00)
+Compound 0.00 PGOV
+Staking or unstaking also claims rewards.
+2 - 
+iBZRX
+ Price: $0.44 Market Cap: $18,441,439.47 
+[%]
+Staked: 42143052.1929 iBZRX ($18,439,355.34)
+PGOV Per Week: 2006191.95 ($19,161.20)
+APR: Day 0.01% Week 0.10% Year 5.40%
+You are staking 0.00 iBZRX ($0.00), 0.00% of the pool.
+Stake 0.00 iBZRX
+Unstake 0.00 iBZRX
+Compound 0.00 PGOV
+Staking or unstaking also claims rewards.
+3 - 
+iUSDC
+ Price: $1.00 Market Cap: $2,390,000.30 
+[%]
+Staked: 2383697.3384 iUSDC ($2,379,645.05)
+PGOV Per Week: 213993.81 ($2,043.86)
+APR: Day 0.01% Week 0.09% Year 4.47%
+You are staking 0.00 iUSDC ($0.00), 0.00% of the pool.
+Stake 0.00 iUSDC
+Unstake 0.00 iUSDC
+Claim 0.00 PGOV ($0.00)
+Compound 0.00 PGOV
+Staking or unstaking also claims rewards.
+4 - 
+iUSDT
+ Price: $1.00 Market Cap: $1,532,452.38 
+[%]
+Staked: 1424447.5746 iUSDT ($1,422,812.31)
+PGOV Per Week: 213993.81 ($2,043.86)
+APR: Day 0.02% Week 0.14% Year 7.47%
+You are staking 0.00 iUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 iUSDT
+Unstake 0.00 iUSDT
+Claim 0.00 PGOV ($0.00)
+Compound 0.00 PGOV
+Staking or unstaking also claims rewards.
+5 - 
+iETH
+ Price: $3,330.13 Market Cap: $948,593.44 
+[%]
+Staked: 284.3915 iETH ($947,060.54)
+PGOV Per Week: 40123.84 ($383.22)
+APR: Day 0.01% Week 0.04% Year 2.10%
+You are staking 0.00 iETH ($0.00), 0.00% of the pool.
+Stake 0.00 iETH
+Unstake 0.00 iETH
+Claim 0.00 PGOV ($0.00)
+Compound 0.00 PGOV
+Staking or unstaking also claims rewards.
+6 - 
+iWBTC
+ Price: $50,196.00 Market Cap: $876,173.99 
+[%]
+Staked: 17.3737 iWBTC ($872,090.24)
+PGOV Per Week: 40123.84 ($383.22)
+APR: Day 0.01% Week 0.04% Year 2.29%
+You are staking 0.00 iWBTC ($0.00), 0.00% of the pool.
+Stake 0.00 iWBTC
+Unstake 0.00 iWBTC
+Claim 0.00 PGOV ($0.00)
+Compound 0.00 PGOV
+Staking or unstaking also claims rewards.
+7 - 
+iLINK
+ Price: $28.73 Market Cap: $543,460.44 
+[%]
+Staked: 18915.5268 iLINK ($543,443.09)
+PGOV Per Week: 40123.84 ($383.22)
+APR: Day 0.01% Week 0.07% Year 3.67%
+You are staking 0.00 iLINK ($0.00), 0.00% of the pool.
+Stake 0.00 iLINK
+Unstake 0.00 iLINK
+Claim 0.00 PGOV ($0.00)
+Compound 0.00 PGOV
+Staking or unstaking also claims rewards.
+8 - 
+iMATIC
+ Price: $1.65 Market Cap: $433,570.31 
+[%]
+Staked: 252722.1592 iMATIC ($416,991.56)
+PGOV Per Week: 26749.23 ($255.48)
+APR: Day 0.01% Week 0.06% Year 3.19%
+You are staking 0.00 iMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 iMATIC
+Unstake 0.00 iMATIC
+Claim 0.00 PGOV ($0.00)
+Compound 0.00 PGOV
+Staking or unstaking also claims rewards.
+9 - 
+iAAVE
+ Price: $410.15 Market Cap: $358,162.93 
+[%]
+Staked: 871.3673 iAAVE ($357,391.32)
+PGOV Per Week: 26749.23 ($255.48)
+APR: Day 0.01% Week 0.07% Year 3.72%
+You are staking 0.00 iAAVE ($0.00), 0.00% of the pool.
+Stake 0.00 iAAVE
+Unstake 0.00 iAAVE
+Claim 0.00 PGOV ($0.00)
+Compound 0.00 PGOV
+Staking or unstaking also claims rewards.
+Total Staked: $26,826,535.18

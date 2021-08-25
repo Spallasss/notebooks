@@ -1,0 +1,495 @@
+INFO  : https://lazymint.finance
+*************************************************************************************
+
+Mon Aug 23 2021 14:40:13 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 32 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[xSAT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9.91 TVL: $11,737.83
+xSAT Price: $0.05
+WBNB Price: $484.17
+Staked: 28.2953 Cake-LP ($280.41)
+LAZY Per Week: 66754.97 ($9.75)
+APR: Day 0.50% Week 3.48% Year 180.78%
+You are staking 0.00 [xSAT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [xSAT]-[WBNB] Cake LP
+Unstake 0.00 [xSAT]-[WBNB] Cake LP
+Claim 0.00 LAZY ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.74 TVL: $527,394,741.24
+WBNB Price: $484.17
+BUSD Price: $1.00
+Staked: 98.9746 Cake-LP ($4,922.59)
+LAZY Per Week: 267019.87 ($39.00)
+APR: Day 0.11% Week 0.79% Year 41.19%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 LAZY ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,213.52 TVL: $173,735,082.77
+BTCB Price: $49,954.00
+WBNB Price: $484.17
+Staked: 0.3228 Cake-LP ($3,297.39)
+LAZY Per Week: 267019.87 ($39.00)
+APR: Day 0.17% Week 1.18% Year 61.50%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 LAZY ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,652.38 TVL: $261,819,012.97
+ETH Price: $3,330.95
+WBNB Price: $484.17
+Staked: 0.2156 Cake-LP ($571.74)
+LAZY Per Week: 200264.90 ($29.25)
+APR: Day 0.73% Week 5.12% Year 266.00%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 LAZY ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,300,496.12
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 230.0808 Cake-LP ($470.90)
+LAZY Per Week: 133509.93 ($19.50)
+APR: Day 0.59% Week 4.14% Year 215.31%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 LAZY ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $225.02 TVL: $1,029,875,829.75
+Cake Price: $25.01
+WBNB Price: $484.17
+Staked: 1.6866 Cake-LP ($379.52)
+LAZY Per Week: 133509.93 ($19.50)
+APR: Day 0.73% Week 5.14% Year 267.15%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 LAZY ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $240.41 TVL: $82,661,804.61
+DOT Price: $28.00
+WBNB Price: $484.17
+Staked: 4.0001 Cake-LP ($961.68)
+LAZY Per Week: 133509.93 ($19.50)
+APR: Day 0.29% Week 2.03% Year 105.43%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 LAZY ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,908,120.18
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 151.1055 Cake-LP ($310.96)
+LAZY Per Week: 133509.93 ($19.50)
+APR: Day 0.90% Week 6.27% Year 326.05%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 LAZY ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[BTCB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $472.43 TVL: $138,744,613.63
+BTCB Price: $49,954.00
+BUSD Price: $1.00
+Staked: 0.1511 Cake-LP ($71.37)
+LAZY Per Week: 66754.97 ($9.75)
+APR: Day 1.95% Week 13.66% Year 710.31%
+You are staking 0.00 [BTCB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[BUSD] Cake LP
+Unstake 0.00 [BTCB]-[BUSD] Cake LP
+Claim 0.00 LAZY ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[XRP]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $51.59 TVL: $39,511,580.87
+XRP Price: $1.29
+WBNB Price: $484.17
+Staked: 2.3438 Cake-LP ($120.93)
+LAZY Per Week: 66754.97 ($9.75)
+APR: Day 1.15% Week 8.06% Year 419.20%
+You are staking 0.00 [XRP]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XRP]-[WBNB] Cake LP
+Unstake 0.00 [XRP]-[WBNB] Cake LP
+Claim 0.00 LAZY ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,324,919.20
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 488.8679 Cake-LP ($995.01)
+LAZY Per Week: 66754.97 ($9.75)
+APR: Day 0.14% Week 0.98% Year 50.95%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 LAZY ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[USDT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.62 TVL: $251,950,411.63
+USDT Price: $1.00
+WBNB Price: $484.17
+Staked: 2.8131 Cake-LP ($142.41)
+LAZY Per Week: 66754.97 ($9.75)
+APR: Day 0.98% Week 6.85% Year 355.98%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 LAZY ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+Cake
+ Price: $25.01 Market Cap: $10,407,367,357.36 
+[%]
+Staked: 69.7740 Cake ($1,745.05)
+LAZY Per Week: 133509.93 ($19.50)
+APR: Day 0.16% Week 1.12% Year 58.10%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Claim 0.00 LAZY ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+WBNB
+ Price: $484.17 Market Cap: $3,427,808,897.68 
+[%]
+Staked: 5.3097 WBNB ($2,570.79)
+LAZY Per Week: 200264.90 ($29.25)
+APR: Day 0.16% Week 1.14% Year 59.16%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB
+Unstake 0.00 WBNB
+Claim 0.00 LAZY ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.1100 BTCB ($5,495.05)
+LAZY Per Week: 133509.93 ($19.50)
+APR: Day 0.05% Week 0.35% Year 18.45%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB
+Unstake 0.00 BTCB
+Claim 0.00 LAZY ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+ETH
+ Price: $3,330.95 Market Cap: $4,346,889,750.00 
+[%]
+Staked: 2.1078 ETH ($7,020.92)
+LAZY Per Week: 133509.93 ($19.50)
+APR: Day 0.04% Week 0.28% Year 14.44%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH
+Unstake 0.00 ETH
+Claim 0.00 LAZY ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[BUSD]-[LAZY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $2,868.98
+BUSD Price: $1.00
+LAZY Price: $0.000146
+Staked: 89967.5629 Cake-LP ($2,753.60)
+LAZY Per Week: 2670198.68 ($389.95)
+APR: Day 2.02% Week 14.16% Year 736.40%
+You are staking 0.00 [BUSD]-[LAZY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[LAZY] Cake LP
+Unstake 0.00 [BUSD]-[LAZY] Cake LP
+Claim 0.00 LAZY ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[WBNB]-[LAZY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.61 TVL: $12,014.67
+WBNB Price: $484.17
+LAZY Price: $0.000146
+Staked: 3449.7410 Cake-LP ($2,119.34)
+LAZY Per Week: 1602119.21 ($233.97)
+APR: Day 1.58% Week 11.04% Year 574.07%
+You are staking 0.00 [WBNB]-[LAZY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LAZY] Cake LP
+Unstake 0.00 [WBNB]-[LAZY] Cake LP
+Claim 0.00 LAZY ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+LAZY
+ Price: $0.000146 Market Cap: $22,352.76 
+[%]
+Staked: 13925106.5472 LAZY ($2,033.60)
+LAZY Per Week: 667549.67 ($97.49)
+APR: Day 0.68% Week 4.79% Year 249.28%
+You are staking 0.00 LAZY ($0.00), 0.00% of the pool.
+Stake 0.00 LAZY
+Unstake 0.00 LAZY
+Claim 0.00 LAZY ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[USDT]-[LAZY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $1,107.63
+USDT Price: $1.00
+LAZY Price: $0.000146
+Staked: 35249.2071 Cake-LP ($1,089.66)
+LAZY Per Week: 1001324.50 ($146.23)
+APR: Day 1.92% Week 13.42% Year 697.84%
+You are staking 0.00 [USDT]-[LAZY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[LAZY] Cake LP
+Unstake 0.00 [USDT]-[LAZY] Cake LP
+Claim 0.00 LAZY ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[WBNB]-[BELT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $193.40 TVL: $79,252,591.76
+WBNB Price: $484.17
+BELT Price: $18.80
+Staked: 2.2602 Cake-LP ($437.14)
+LAZY Per Week: 133509.93 ($19.50)
+APR: Day 0.64% Week 4.46% Year 231.93%
+You are staking 0.00 [WBNB]-[BELT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BELT] Cake LP
+Unstake 0.00 [WBNB]-[BELT] Cake LP
+Claim 0.00 LAZY ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[Cake]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13.40 TVL: $66,400,883.07
+Cake Price: $25.01
+BUSD Price: $1.00
+Staked: 20.0000 Cake-LP ($268.08)
+LAZY Per Week: 133509.93 ($19.50)
+APR: Day 1.04% Week 7.27% Year 378.19%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 LAZY ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[SZOO]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $48.65 TVL: $8,033.78
+SZOO Price: $0.0000000012
+WBNB Price: $484.17
+Staked: 65.2064 Cake-LP ($3,171.98)
+LAZY Per Week: 66754.97 ($9.75)
+APR: Day 0.04% Week 0.31% Year 15.98%
+You are staking 0.00 [SZOO]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SZOO]-[WBNB] Cake LP
+Unstake 0.00 [SZOO]-[WBNB] Cake LP
+Claim 0.00 LAZY ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[Cake]-[LAZY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.13 TVL: $1,090.35
+Cake Price: $25.01
+LAZY Price: $0.000146
+Staked: 7958.2407 Cake-LP ($1,072.37)
+LAZY Per Week: 1001324.50 ($146.23)
+APR: Day 1.95% Week 13.64% Year 709.08%
+You are staking 0.00 [Cake]-[LAZY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[LAZY] Cake LP
+Unstake 0.00 [Cake]-[LAZY] Cake LP
+Claim 0.00 LAZY ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+[Cake]-[USDT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11.45 TVL: $44,147,057.14
+Cake Price: $25.01
+USDT Price: $1.00
+Staked: 50.0000 Cake-LP ($572.48)
+LAZY Per Week: 200264.90 ($29.25)
+APR: Day 0.73% Week 5.11% Year 265.65%
+You are staking 0.00 [Cake]-[USDT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[USDT] Cake LP
+Unstake 0.00 [Cake]-[USDT] Cake LP
+Claim 0.00 LAZY ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+BUSD
+ Price: $1.00 Market Cap: $4,196,088,431.70 
+[%]
+Staked: 2755.5685 BUSD ($2,752.35)
+LAZY Per Week: 133509.93 ($19.50)
+APR: Day 0.10% Week 0.71% Year 36.84%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD
+Unstake 0.00 BUSD
+Claim 0.00 LAZY ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 1469.3140 USDT ($1,469.03)
+LAZY Per Week: 133509.93 ($19.50)
+APR: Day 0.19% Week 1.33% Year 69.02%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT
+Unstake 0.00 USDT
+Claim 0.00 LAZY ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,148,061.00 
+[%]
+Staked: 1239.6798 USDC ($1,238.39)
+LAZY Per Week: 133509.93 ($19.50)
+APR: Day 0.22% Week 1.57% Year 81.87%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC
+Unstake 0.00 USDC
+Claim 0.00 LAZY ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $48,334.73

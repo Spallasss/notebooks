@@ -1,0 +1,364 @@
+INFO  : https://wheat.growthdefi.com
+*******************************************************************************
+
+Mon Aug 23 2021 14:12:27 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 55 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+WHEAT
+ Price: $0.00 Market Cap: $0.00 
+Staked: 303214.9494 WHEAT ($0.00)
+WHEAT Per Week: 5169.23 ($17,325.66)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WHEAT ($0.00), NaN% of the pool.
+Stake 0.00 WHEAT
+Unstake 0.00 WHEAT
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+stkCAKE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 45384.7599 stkCAKE ($0.00)
+WHEAT Per Week: 3101.54 ($10,395.39)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 stkCAKE ($0.00), NaN% of the pool.
+Stake 0.00 stkCAKE
+Unstake 0.00 stkCAKE
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+[WHEAT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $85.61 TVL: $74,193.47
+WHEAT Price: $3.35
+WBNB Price: $484.42
+Staked: 856.7175 Cake-LP ($73,340.42)
+WHEAT Per Week: 413.54 ($1,386.05)
+APR: Day 0.27% Week 1.89% Year 98.27%
+You are staking 0.00 [WHEAT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WHEAT]-[WBNB] Cake LP
+Unstake 0.00 [WHEAT]-[WBNB] Cake LP
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+[GRO]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $156.14 TVL: $85,903.33
+GRO Price: $12.13
+WBNB Price: $484.42
+Staked: 510.9425 Cake-LP ($79,778.59)
+WHEAT Per Week: 103.38 ($346.51)
+APR: Day 0.06% Week 0.43% Year 22.59%
+You are staking 0.00 [GRO]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GRO]-[WBNB] Cake LP
+Unstake 0.00 [GRO]-[WBNB] Cake LP
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+[GRO]-[gROOT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $151.89 TVL: $161,166.85
+GRO Price: $12.13
+gROOT Price: $469.23
+Staked: 1055.1510 Cake-LP ($160,262.84)
+WHEAT Per Week: 206.77 ($693.03)
+APR: Day 0.06% Week 0.43% Year 22.49%
+You are staking 0.00 [GRO]-[gROOT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GRO]-[gROOT] Cake LP
+Unstake 0.00 [GRO]-[gROOT] Cake LP
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+[gROOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $979.37 TVL: $94,621.63
+gROOT Price: $469.23
+WBNB Price: $484.42
+Staked: 90.9261 Cake-LP ($89,050.67)
+WHEAT Per Week: 206.77 ($693.03)
+APR: Day 0.11% Week 0.78% Year 40.47%
+You are staking 0.00 [gROOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [gROOT]-[WBNB] Cake LP
+Unstake 0.00 [gROOT]-[WBNB] Cake LP
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+33 - 
+stkBNB/CAKEv2
+ Price: $0.00 Market Cap: $0.00 
+Staked: 2844.2230 stkBNB/CAKEv2 ($0.00)
+WHEAT Per Week: 1447.38 ($4,851.18)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 stkBNB/CAKEv2 ($0.00), NaN% of the pool.
+Stake 0.00 stkBNB/CAKEv2
+Unstake 0.00 stkBNB/CAKEv2
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+34 - 
+stkBNB/BUSDv2
+ Price: $0.00 Market Cap: $0.00 
+Staked: 6865.7573 stkBNB/BUSDv2 ($0.00)
+WHEAT Per Week: 827.08 ($2,772.10)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 stkBNB/BUSDv2 ($0.00), NaN% of the pool.
+Stake 0.00 stkBNB/BUSDv2
+Unstake 0.00 stkBNB/BUSDv2
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+35 - 
+stkBNB/USDTv2
+ Price: $0.00 Market Cap: $0.00 
+Staked: 2306.1120 stkBNB/USDTv2 ($0.00)
+WHEAT Per Week: 310.15 ($1,039.54)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 stkBNB/USDTv2 ($0.00), NaN% of the pool.
+Stake 0.00 stkBNB/USDTv2
+Unstake 0.00 stkBNB/USDTv2
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+36 - 
+stkBNB/BTCBv2
+ Price: $0.00 Market Cap: $0.00 
+Staked: 15.8154 stkBNB/BTCBv2 ($0.00)
+WHEAT Per Week: 413.54 ($1,386.05)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 stkBNB/BTCBv2 ($0.00), NaN% of the pool.
+Stake 0.00 stkBNB/BTCBv2
+Unstake 0.00 stkBNB/BTCBv2
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+37 - 
+stkBNB/ETHv2
+ Price: $0.00 Market Cap: $0.00 
+Staked: 103.2919 stkBNB/ETHv2 ($0.00)
+WHEAT Per Week: 413.54 ($1,386.05)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 stkBNB/ETHv2 ($0.00), NaN% of the pool.
+Stake 0.00 stkBNB/ETHv2
+Unstake 0.00 stkBNB/ETHv2
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+38 - 
+stkBUSD/USDTv2
+ Price: $0.00 Market Cap: $0.00 
+Staked: 70548.9233 stkBUSD/USDTv2 ($0.00)
+WHEAT Per Week: 103.38 ($346.51)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 stkBUSD/USDTv2 ($0.00), NaN% of the pool.
+Stake 0.00 stkBUSD/USDTv2
+Unstake 0.00 stkBUSD/USDTv2
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+39 - 
+stkBUSD/VAIv2
+ Price: $0.00 Market Cap: $0.00 
+Staked: 27020.0050 stkBUSD/VAIv2 ($0.00)
+WHEAT Per Week: 103.38 ($346.51)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 stkBUSD/VAIv2 ($0.00), NaN% of the pool.
+Stake 0.00 stkBUSD/VAIv2
+Unstake 0.00 stkBUSD/VAIv2
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+40 - 
+stkBNB/DOTv2
+ Price: $0.00 Market Cap: $0.00 
+Staked: 252.4725 stkBNB/DOTv2 ($0.00)
+WHEAT Per Week: 103.38 ($346.51)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 stkBNB/DOTv2 ($0.00), NaN% of the pool.
+Stake 0.00 stkBNB/DOTv2
+Unstake 0.00 stkBNB/DOTv2
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+41 - 
+stkBNB/LINKv2
+ Price: $0.00 Market Cap: $0.00 
+Staked: 368.8949 stkBNB/LINKv2 ($0.00)
+WHEAT Per Week: 103.38 ($346.51)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 stkBNB/LINKv2 ($0.00), NaN% of the pool.
+Stake 0.00 stkBNB/LINKv2
+Unstake 0.00 stkBNB/LINKv2
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+42 - 
+stkBNB/UNIv2
+ Price: $0.00 Market Cap: $0.00 
+Staked: 404.4903 stkBNB/UNIv2 ($0.00)
+WHEAT Per Week: 103.38 ($346.51)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 stkBNB/UNIv2 ($0.00), NaN% of the pool.
+Stake 0.00 stkBNB/UNIv2
+Unstake 0.00 stkBNB/UNIv2
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+43 - 
+stkBNB/DODOv2
+ Price: $0.00 Market Cap: $0.00 
+Staked: 485.2927 stkBNB/DODOv2 ($0.00)
+WHEAT Per Week: 51.69 ($173.26)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 stkBNB/DODOv2 ($0.00), NaN% of the pool.
+Stake 0.00 stkBNB/DODOv2
+Unstake 0.00 stkBNB/DODOv2
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+44 - 
+stkBNB/ALPHAv2
+ Price: $0.00 Market Cap: $0.00 
+Staked: 518.9549 stkBNB/ALPHAv2 ($0.00)
+WHEAT Per Week: 51.69 ($173.26)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 stkBNB/ALPHAv2 ($0.00), NaN% of the pool.
+Stake 0.00 stkBNB/ALPHAv2
+Unstake 0.00 stkBNB/ALPHAv2
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+45 - 
+stkBNB/ADAv2
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1527.0516 stkBNB/ADAv2 ($0.00)
+WHEAT Per Week: 103.38 ($346.51)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 stkBNB/ADAv2 ($0.00), NaN% of the pool.
+Stake 0.00 stkBNB/ADAv2
+Unstake 0.00 stkBNB/ADAv2
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+46 - 
+stkBUSD/USTv2
+ Price: $0.00 Market Cap: $0.00 
+Staked: 64777.7998 stkBUSD/USTv2 ($0.00)
+WHEAT Per Week: 103.38 ($346.51)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 stkBUSD/USTv2 ($0.00), NaN% of the pool.
+Stake 0.00 stkBUSD/USTv2
+Unstake 0.00 stkBUSD/USTv2
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+47 - 
+stkBUSD/BTCBv2
+ Price: $0.00 Market Cap: $0.00 
+Staked: 123.7355 stkBUSD/BTCBv2 ($0.00)
+WHEAT Per Week: 103.38 ($346.51)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 stkBUSD/BTCBv2 ($0.00), NaN% of the pool.
+Stake 0.00 stkBUSD/BTCBv2
+Unstake 0.00 stkBUSD/BTCBv2
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+48 - 
+stkbeltBNBv2
+ Price: $0.00 Market Cap: $0.00 
+Staked: 2189.0768 stkbeltBNBv2 ($0.00)
+WHEAT Per Week: 827.08 ($2,772.10)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 stkbeltBNBv2 ($0.00), NaN% of the pool.
+Stake 0.00 stkbeltBNBv2
+Unstake 0.00 stkbeltBNBv2
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+49 - 
+stkbeltBTCv2
+ Price: $0.00 Market Cap: $0.00 
+Staked: 13.8078 stkbeltBTCv2 ($0.00)
+WHEAT Per Week: 413.54 ($1,386.05)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 stkbeltBTCv2 ($0.00), NaN% of the pool.
+Stake 0.00 stkbeltBTCv2
+Unstake 0.00 stkbeltBTCv2
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+50 - 
+stkbeltETHv2
+ Price: $0.00 Market Cap: $0.00 
+Staked: 204.9748 stkbeltETHv2 ($0.00)
+WHEAT Per Week: 413.54 ($1,386.05)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 stkbeltETHv2 ($0.00), NaN% of the pool.
+Stake 0.00 stkbeltETHv2
+Unstake 0.00 stkbeltETHv2
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+51 - 
+stk4BELTv2
+ Price: $0.00 Market Cap: $0.00 
+Staked: 944887.4292 stk4BELTv2 ($0.00)
+WHEAT Per Week: 620.31 ($2,079.08)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 stk4BELTv2 ($0.00), NaN% of the pool.
+Stake 0.00 stk4BELTv2
+Unstake 0.00 stk4BELTv2
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+53 - 
+[WHEAT]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $80.96 TVL: $527,583.55
+WHEAT Price: $3.35
+WBNB Price: $484.42
+Staked: 6475.0357 APE-LP ($524,195.29)
+WHEAT Per Week: 3721.85 ($12,474.47)
+APR: Day 0.34% Week 2.38% Year 123.75%
+You are staking 0.00 [WHEAT]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WHEAT]-[WBNB] APE LP
+Unstake 0.00 [WHEAT]-[WBNB] APE LP
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+54 - 
+[GRO]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $153.59 TVL: $152,289.90
+GRO Price: $12.13
+WBNB Price: $484.42
+Staked: 991.0509 APE-LP ($152,213.48)
+WHEAT Per Week: 620.31 ($2,079.08)
+APR: Day 0.20% Week 1.37% Year 71.03%
+You are staking 0.00 [GRO]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GRO]-[WBNB] APE LP
+Unstake 0.00 [GRO]-[WBNB] APE LP
+Claim 0.00 WHEAT ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,078,841.29

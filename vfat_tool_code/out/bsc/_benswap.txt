@@ -1,0 +1,497 @@
+INFO  : https://benswap.finance/
+************************************************************************************
+
+Mon Aug 23 2021 14:36:35 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 35 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[GBEN]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.55 TVL: $14,589.66
+GBEN Price: $0.01
+WBNB Price: $484.19
+Staked: 3102.8337 Cake-LP ($14,107.23)
+GBEN Per Week: 13556.16 ($137.70)
+APR: Day 0.14% Week 0.98% Year 50.76%
+You are staking 0.00 [GBEN]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GBEN]-[WBNB] Cake LP
+Unstake 0.00 [GBEN]-[WBNB] Cake LP
+Claim 0.00 GBEN ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[GBEN]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.21 TVL: $7,861.54
+GBEN Price: $0.01
+BUSD Price: $1.00
+Staked: 37828.3791 Cake-LP ($7,774.84)
+GBEN Per Week: 13556.16 ($137.70)
+APR: Day 0.25% Week 1.77% Year 92.09%
+You are staking 0.00 [GBEN]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GBEN]-[BUSD] Cake LP
+Unstake 0.00 [GBEN]-[BUSD] Cake LP
+Claim 0.00 GBEN ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+GBEN
+ Price: $0.01 Market Cap: $80,348.30 
+[%]
+Staked: 3381428.3410 GBEN ($34,346.68)
+GBEN Per Week: 45187.20 ($458.99)
+APR: Day 0.19% Week 1.34% Year 69.49%
+You are staking 0.00 GBEN ($0.00), 0.00% of the pool.
+Stake 0.00 GBEN
+Unstake 0.00 GBEN
+Claim 0.00 GBEN ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+DOGE
+ Price: $0.32 Market Cap: $649,182,000.00 
+[%]
+Staked: 13473.5747 DOGE ($4,373.40)
+GBEN Per Week: 903.74 ($9.18)
+APR: Day 0.03% Week 0.21% Year 10.91%
+You are staking 0.00 DOGE ($0.00), 0.00% of the pool.
+Stake 0.00 DOGE - Fee 1.5%
+Unstake 0.00 DOGE
+Claim 0.00 GBEN ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+WBNB
+ Price: $484.19 Market Cap: $3,428,684,719.23 
+[%]
+Staked: 4.8144 WBNB ($2,331.08)
+GBEN Per Week: 903.74 ($9.18)
+APR: Day 0.06% Week 0.39% Year 20.48%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 GBEN ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+BUSD
+ Price: $1.00 Market Cap: $4,196,281,677.67 
+[%]
+Staked: 3139.6760 BUSD ($3,136.15)
+GBEN Per Week: 903.74 ($9.18)
+APR: Day 0.04% Week 0.29% Year 15.22%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 GBEN ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WBNB]-[BUSD] BenSwap LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $44.41 TVL: $4,843.04
+WBNB Price: $484.19
+BUSD Price: $1.00
+Staked: 106.3641 BenSwap-LP ($4,723.34)
+GBEN Per Week: 4518.72 ($45.90)
+APR: Day 0.14% Week 0.97% Year 50.53%
+You are staking 0.00 [WBNB]-[BUSD] BenSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] BenSwap LP - Fee 2%
+Unstake 0.00 [WBNB]-[BUSD] BenSwap LP
+Claim 0.00 GBEN ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[USDT]-[WBNB] BenSwap LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $44.78 TVL: $4,604.29
+USDT Price: $1.00
+WBNB Price: $484.19
+Staked: 100.6019 BenSwap-LP ($4,505.04)
+GBEN Per Week: 4518.72 ($45.90)
+APR: Day 0.15% Week 1.02% Year 52.98%
+You are staking 0.00 [USDT]-[WBNB] BenSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] BenSwap LP - Fee 2%
+Unstake 0.00 [USDT]-[WBNB] BenSwap LP
+Claim 0.00 GBEN ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[BCH]-[BUSD] BenSwap LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $52.43 TVL: $5,025.76
+BCH Price: $682.90
+BUSD Price: $1.00
+Staked: 94.6860 BenSwap-LP ($4,964.52)
+GBEN Per Week: 4518.72 ($45.90)
+APR: Day 0.13% Week 0.92% Year 48.08%
+You are staking 0.00 [BCH]-[BUSD] BenSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BCH]-[BUSD] BenSwap LP - Fee 2%
+Unstake 0.00 [BCH]-[BUSD] BenSwap LP
+Claim 0.00 GBEN ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[BTCB]-[BUSD] BenSwap LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $447.87 TVL: $4,990.79
+BTCB Price: $49,954.00
+BUSD Price: $1.00
+Staked: 10.7206 BenSwap-LP ($4,801.40)
+GBEN Per Week: 4518.72 ($45.90)
+APR: Day 0.14% Week 0.96% Year 49.71%
+You are staking 0.00 [BTCB]-[BUSD] BenSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[BUSD] BenSwap LP - Fee 2%
+Unstake 0.00 [BTCB]-[BUSD] BenSwap LP
+Claim 0.00 GBEN ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[GBEN]-[WBNB] BenSwap LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.48 TVL: $23,458.46
+GBEN Price: $0.01
+WBNB Price: $484.19
+Staked: 5224.7789 BenSwap-LP ($23,422.98)
+GBEN Per Week: 54224.64 ($550.78)
+APR: Day 0.34% Week 2.35% Year 122.28%
+You are staking 0.00 [GBEN]-[WBNB] BenSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GBEN]-[WBNB] BenSwap LP
+Unstake 0.00 [GBEN]-[WBNB] BenSwap LP
+Claim 0.00 GBEN ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[GBEN]-[BUSD] BenSwap LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.20 TVL: $17,886.26
+GBEN Price: $0.01
+BUSD Price: $1.00
+Staked: 88270.2331 BenSwap-LP ($17,866.58)
+GBEN Per Week: 54224.64 ($550.78)
+APR: Day 0.44% Week 3.08% Year 160.30%
+You are staking 0.00 [GBEN]-[BUSD] BenSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GBEN]-[BUSD] BenSwap LP
+Unstake 0.00 [GBEN]-[BUSD] BenSwap LP
+Claim 0.00 GBEN ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[BTCB]-[BCH] BenSwap LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11,691.17 TVL: $6,194.48
+BTCB Price: $49,954.00
+BCH Price: $682.90
+Staked: 0.5268 BenSwap-LP ($6,159.25)
+GBEN Per Week: 4518.72 ($45.90)
+APR: Day 0.11% Week 0.75% Year 38.75%
+You are staking 0.00 [BTCB]-[BCH] BenSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[BCH] BenSwap LP - Fee 2%
+Unstake 0.00 [BTCB]-[BCH] BenSwap LP
+Claim 0.00 GBEN ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[BTCB]-[DOGE] BenSwap LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $25,508,489.16 TVL: $4,602.58
+BTCB Price: $49,954.00
+DOGE Price: $0.32
+Staked: 0.0002 BenSwap-LP ($4,591.53)
+GBEN Per Week: 4518.72 ($45.90)
+APR: Day 0.14% Week 1.00% Year 51.98%
+You are staking 0.00 [BTCB]-[DOGE] BenSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[DOGE] BenSwap LP - Fee 2%
+Unstake 0.00 [BTCB]-[DOGE] BenSwap LP
+Claim 0.00 GBEN ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[GBEN]-[DOGE] BenSwap LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11,506.20 TVL: $4,235.94
+GBEN Price: $0.01
+DOGE Price: $0.32
+Staked: 0.3681 BenSwap-LP ($4,235.50)
+GBEN Per Week: 4518.72 ($45.90)
+APR: Day 0.15% Week 1.08% Year 56.35%
+You are staking 0.00 [GBEN]-[DOGE] BenSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GBEN]-[DOGE] BenSwap LP
+Unstake 0.00 [GBEN]-[DOGE] BenSwap LP
+Claim 0.00 GBEN ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[SHIB]-[GBEN] BenSwap LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $3,994.30
+SHIB Price: $0.0000083294
+GBEN Price: $0.01
+Staked: 6851136.5785 BenSwap-LP ($3,992.76)
+GBEN Per Week: 4518.72 ($45.90)
+APR: Day 0.16% Week 1.15% Year 59.78%
+You are staking 0.00 [SHIB]-[GBEN] BenSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SHIB]-[GBEN] BenSwap LP
+Unstake 0.00 [SHIB]-[GBEN] BenSwap LP
+Claim 0.00 GBEN ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[SHIB]-[BUSD] BenSwap LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $4,238.31
+SHIB Price: $0.0000083294
+BUSD Price: $1.00
+Staked: 733212.2893 BenSwap-LP ($4,235.56)
+GBEN Per Week: 4518.72 ($45.90)
+APR: Day 0.15% Week 1.08% Year 56.35%
+You are staking 0.00 [SHIB]-[BUSD] BenSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SHIB]-[BUSD] BenSwap LP - Fee 2%
+Unstake 0.00 [SHIB]-[BUSD] BenSwap LP
+Claim 0.00 GBEN ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[ETH]-[SHIB] BenSwap LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.33 TVL: $4,522.25
+ETH Price: $3,325.59
+SHIB Price: $0.0000083294
+Staked: 13566.0380 BenSwap-LP ($4,519.32)
+GBEN Per Week: 4518.72 ($45.90)
+APR: Day 0.15% Week 1.02% Year 52.81%
+You are staking 0.00 [ETH]-[SHIB] BenSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[SHIB] BenSwap LP - Fee 2%
+Unstake 0.00 [ETH]-[SHIB] BenSwap LP
+Claim 0.00 GBEN ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+[ETH]-[BUSD] BenSwap LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $115.37 TVL: $3,992.64
+ETH Price: $3,325.59
+BUSD Price: $1.00
+Staked: 34.5818 BenSwap-LP ($3,989.80)
+GBEN Per Week: 4518.72 ($45.90)
+APR: Day 0.16% Week 1.15% Year 59.82%
+You are staking 0.00 [ETH]-[BUSD] BenSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BUSD] BenSwap LP - Fee 2%
+Unstake 0.00 [ETH]-[BUSD] BenSwap LP
+Claim 0.00 GBEN ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+[ETH]-[BTCB] BenSwap LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $25,784.04 TVL: $4,650.61
+ETH Price: $3,325.59
+BTCB Price: $49,954.00
+Staked: 0.1803 BenSwap-LP ($4,647.65)
+GBEN Per Week: 4518.72 ($45.90)
+APR: Day 0.14% Week 0.99% Year 51.35%
+You are staking 0.00 [ETH]-[BTCB] BenSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BTCB] BenSwap LP - Fee 2%
+Unstake 0.00 [ETH]-[BTCB] BenSwap LP
+Claim 0.00 GBEN ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+[DOGE]-[BUSD] BenSwap LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $114,051.18 TVL: $4,273.44
+DOGE Price: $0.32
+BUSD Price: $1.00
+Staked: 0.0375 BenSwap-LP ($4,272.87)
+GBEN Per Week: 6326.21 ($64.26)
+APR: Day 0.21% Week 1.50% Year 78.20%
+You are staking 0.00 [DOGE]-[BUSD] BenSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[BUSD] BenSwap LP - Fee 1.5%
+Unstake 0.00 [DOGE]-[BUSD] BenSwap LP
+Claim 0.00 GBEN ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+[TWT]-[WBNB] BenSwap LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $42.95 TVL: $6,241.60
+TWT Price: $0.95
+WBNB Price: $484.19
+Staked: 145.0318 BenSwap-LP ($6,228.80)
+GBEN Per Week: 6326.21 ($64.26)
+APR: Day 0.15% Week 1.03% Year 53.64%
+You are staking 0.00 [TWT]-[WBNB] BenSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TWT]-[WBNB] BenSwap LP - Fee 1.5%
+Unstake 0.00 [TWT]-[WBNB] BenSwap LP
+Claim 0.00 GBEN ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+[TWT]-[BUSD] BenSwap LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.95 TVL: $5,347.72
+TWT Price: $0.95
+BUSD Price: $1.00
+Staked: 2737.9548 BenSwap-LP ($5,344.34)
+GBEN Per Week: 6326.21 ($64.26)
+APR: Day 0.17% Week 1.20% Year 62.52%
+You are staking 0.00 [TWT]-[BUSD] BenSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TWT]-[BUSD] BenSwap LP - Fee 1.5%
+Unstake 0.00 [TWT]-[BUSD] BenSwap LP
+Claim 0.00 GBEN ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+[GBEN]-[Ben] BenSwap LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $5,436.14
+GBEN Price: $0.01
+Ben Price: $0.0000000002
+Staked: 2094083923.9499 BenSwap-LP ($5,435.45)
+GBEN Per Week: 9037.44 ($91.80)
+APR: Day 0.24% Week 1.69% Year 87.82%
+You are staking 0.00 [GBEN]-[Ben] BenSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GBEN]-[Ben] BenSwap LP
+Unstake 0.00 [GBEN]-[Ben] BenSwap LP
+Claim 0.00 GBEN ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+SHIB
+ Price: $0.0000083294 Market Cap: $35,150,166.29 
+[%]
+Staked: 318066269.5797 SHIB ($2,649.31)
+GBEN Per Week: 903.74 ($9.18)
+APR: Day 0.05% Week 0.35% Year 18.02%
+You are staking 0.00 SHIB ($0.00), 0.00% of the pool.
+Stake 0.00 SHIB - Fee 1.5%
+Unstake 0.00 SHIB
+Claim 0.00 GBEN ($0.00)
+Staking or unstaking also claims rewards.
+33 - 
+[Ben]-[WBNB] BenSwap LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $11,979.13
+Ben Price: $0.0000000002
+WBNB Price: $484.19
+Staked: 20756009.0748 BenSwap-LP ($11,977.39)
+GBEN Per Week: 9037.44 ($91.80)
+APR: Day 0.11% Week 0.77% Year 39.85%
+You are staking 0.00 [Ben]-[WBNB] BenSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Ben]-[WBNB] BenSwap LP
+Unstake 0.00 [Ben]-[WBNB] BenSwap LP
+Claim 0.00 GBEN ($0.00)
+Staking or unstaking also claims rewards.
+34 - 
+[Ben]-[BUSD] BenSwap LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $9,334.14
+Ben Price: $0.0000000002
+BUSD Price: $1.00
+Staked: 352474604.6200 BenSwap-LP ($9,328.60)
+GBEN Per Week: 9037.44 ($91.80)
+APR: Day 0.14% Week 0.98% Year 51.17%
+You are staking 0.00 [Ben]-[BUSD] BenSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Ben]-[BUSD] BenSwap LP
+Unstake 0.00 [Ben]-[BUSD] BenSwap LP
+Claim 0.00 GBEN ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $207,961.37

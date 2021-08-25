@@ -1,0 +1,479 @@
+INFO  : https://rubin.eternity.money
+****************************************************************************
+
+Mon Aug 23 2021 15:17:38 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 29 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[ETY]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $99,291.20 TVL: $278.42
+ETY Price: $0.001767
+BUSD Price: $1.00
+Staked: 0.0016 Cake-LP ($159.35)
+RUBIN Per Week: 4804.42 ($6.23)
+APR: Day 0.56% Week 3.91% Year 203.17%
+You are staking 0.00 [ETY]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETY]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [ETY]-[BUSD] Cake LP
+Claim 0.00 RUBIN ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[BUSD]-[SILVER] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.10 TVL: $344.35
+BUSD Price: $1.00
+SILVER Price: $0.002282
+Staked: 1739.2722 Cake-LP ($180.82)
+RUBIN Per Week: 4804.42 ($6.23)
+APR: Day 0.49% Week 3.44% Year 179.04%
+You are staking 0.00 [BUSD]-[SILVER] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[SILVER] Cake LP - Fee 1%
+Unstake 0.00 [BUSD]-[SILVER] Cake LP
+Claim 0.00 RUBIN ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+RUBIN
+ Price: $0.001296 Market Cap: $281.26 
+[%]
+Staked: 79010.3307 RUBIN ($102.39)
+RUBIN Per Week: 12011.04 ($15.56)
+APR: Day 2.17% Week 15.20% Year 790.50%
+You are staking 0.00 RUBIN ($0.00), 0.00% of the pool.
+Stake 0.00 RUBIN
+Unstake 0.00 RUBIN
+Claim 0.00 RUBIN ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.34 TVL: $531,115,681.50
+WBNB Price: $495.85
+BUSD Price: $1.00
+Staked: 0.5187 Cake-LP ($26.11)
+RUBIN Per Week: 2882.65 ($3.74)
+APR: Day 2.04% Week 14.31% Year 743.87%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 RUBIN ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,328.52 TVL: $175,857,461.04
+BTCB Price: $49,881.00
+WBNB Price: $495.85
+Staked: 0.0011 Cake-LP ($10.91)
+RUBIN Per Week: 2402.21 ($3.11)
+APR: Day 4.08% Week 28.54% Year 1484.12%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 RUBIN ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,686.95 TVL: $265,200,220.12
+ETH Price: $3,337.78
+WBNB Price: $495.85
+Staked: 0.0126 Cake-LP ($33.79)
+RUBIN Per Week: 2402.21 ($3.11)
+APR: Day 1.32% Week 9.21% Year 479.03%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 RUBIN ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $229.53 TVL: $1,050,052,789.05
+Cake Price: $25.41
+WBNB Price: $495.85
+Staked: 0.0672 Cake-LP ($15.42)
+RUBIN Per Week: 1681.55 ($2.18)
+APR: Day 2.02% Week 14.13% Year 734.61%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 RUBIN ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[Cake]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13.51 TVL: $66,814,800.65
+Cake Price: $25.41
+BUSD Price: $1.00
+Staked: 0.6408 Cake-LP ($8.66)
+RUBIN Per Week: 1681.55 ($2.18)
+APR: Day 3.59% Week 25.16% Year 1308.46%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 RUBIN ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $244.25 TVL: $83,994,247.83
+DOT Price: $28.22
+WBNB Price: $495.85
+Staked: 0.0884 Cake-LP ($21.60)
+RUBIN Per Week: 1681.55 ($2.18)
+APR: Day 1.44% Week 10.09% Year 524.65%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 RUBIN ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $78.03 TVL: $47,310,922.60
+ADA Price: $2.82
+WBNB Price: $495.85
+Staked: 0.7719 Cake-LP ($60.23)
+RUBIN Per Week: 1681.55 ($2.18)
+APR: Day 0.52% Week 3.62% Year 188.12%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 RUBIN ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $314,816,350.57
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 10.3134 Cake-LP ($21.11)
+RUBIN Per Week: 2161.99 ($2.80)
+APR: Day 1.90% Week 13.27% Year 690.04%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 RUBIN ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,348,857.89
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 239.5540 Cake-LP ($487.67)
+RUBIN Per Week: 2161.99 ($2.80)
+APR: Day 0.08% Week 0.57% Year 29.87%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 RUBIN ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $158,000,693.43
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 245.4948 Cake-LP ($505.36)
+RUBIN Per Week: 2161.99 ($2.80)
+APR: Day 0.08% Week 0.55% Year 28.83%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 RUBIN ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+BUSD
+ Price: $1.00 Market Cap: $4,197,752,027.46 
+[%]
+Staked: 48.9600 BUSD ($48.92)
+RUBIN Per Week: 1681.55 ($2.18)
+APR: Day 0.64% Week 4.45% Year 231.61%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 RUBIN ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 57.6000 USDT ($57.59)
+RUBIN Per Week: 1681.55 ($2.18)
+APR: Day 0.54% Week 3.78% Year 196.76%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 RUBIN ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+WBNB
+ Price: $495.85 Market Cap: $3,496,281,746.14 
+[%]
+Staked: 0.0164 WBNB ($8.13)
+RUBIN Per Week: 1681.55 ($2.18)
+APR: Day 3.83% Week 26.82% Year 1394.45%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 RUBIN ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+BTCB
+ Price: $49,881.00 Market Cap: $4,264,875,381.00 
+[%]
+Staked: 0.0002 BTCB ($10.72)
+RUBIN Per Week: 960.88 ($1.25)
+APR: Day 1.66% Week 11.62% Year 604.18%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 RUBIN ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+ETH
+ Price: $3,337.78 Market Cap: $4,355,802,900.00 
+[%]
+Staked: 0.0619 ETH ($206.73)
+RUBIN Per Week: 960.88 ($1.25)
+APR: Day 0.09% Week 0.60% Year 31.32%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 RUBIN ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+Cake
+ Price: $25.41 Market Cap: $10,574,144,434.44 
+[%]
+Staked: 12.1082 Cake ($307.67)
+RUBIN Per Week: 960.88 ($1.25)
+APR: Day 0.06% Week 0.40% Year 21.04%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 RUBIN ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 4.7595 DAI ($4.76)
+RUBIN Per Week: 960.88 ($1.25)
+APR: Day 3.74% Week 26.16% Year 1360.41%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 RUBIN ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,591,032.00 
+[%]
+Staked: 5.4591 USDC ($5.45)
+RUBIN Per Week: 960.88 ($1.25)
+APR: Day 3.26% Week 22.83% Year 1187.00%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 RUBIN ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+DOT
+ Price: $28.22 Market Cap: $395,079,999.86 
+[%]
+Staked: 0.1399 DOT ($3.95)
+RUBIN Per Week: 960.88 ($1.25)
+APR: Day 4.51% Week 31.54% Year 1640.06%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 RUBIN ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+MATIC
+ Price: $1.65 Market Cap: $3,300,000,000.00 
+[%]
+Staked: 3.3194 MATIC ($5.48)
+RUBIN Per Week: 960.88 ($1.25)
+APR: Day 3.25% Week 22.73% Year 1182.20%
+You are staking 0.00 MATIC ($0.00), 0.00% of the pool.
+Stake 0.00 MATIC - Fee 4%
+Unstake 0.00 MATIC
+Claim 0.00 RUBIN ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+TRX
+ Price: $0.09 Market Cap: $292,344,070.00 
+[%]
+Staked: 297.3660 TRX ($26.91)
+RUBIN Per Week: 960.88 ($1.25)
+APR: Day 0.66% Week 4.63% Year 240.57%
+You are staking 0.00 TRX ($0.00), 0.00% of the pool.
+Stake 0.00 TRX - Fee 4%
+Unstake 0.00 TRX
+Claim 0.00 RUBIN ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+ADA
+ Price: $2.82 Market Cap: $789,600,000.00 
+[%]
+Staked: 0.0096 ADA ($0.03)
+RUBIN Per Week: 960.88 ($1.25)
+APR: Day 657.06% Week 4599.45% Year 239171.46%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 RUBIN ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[RUBIN]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.08 TVL: $152.38
+RUBIN Price: $0.001296
+BUSD Price: $1.00
+Staked: 547.5981 Cake-LP ($42.33)
+RUBIN Per Week: 21619.88 ($28.02)
+APR: Day 9.45% Week 66.18% Year 3441.50%
+You are staking 0.00 [RUBIN]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RUBIN]-[BUSD] Cake LP
+Unstake 0.00 [RUBIN]-[BUSD] Cake LP
+Claim 0.00 RUBIN ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+[RUBIN]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.76 TVL: $34.52
+RUBIN Price: $0.001296
+WBNB Price: $495.85
+Staked: 14.1595 Cake-LP ($24.88)
+RUBIN Per Week: 16815.46 ($21.79)
+APR: Day 12.51% Week 87.59% Year 4554.63%
+You are staking 0.00 [RUBIN]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RUBIN]-[WBNB] Cake LP
+Unstake 0.00 [RUBIN]-[WBNB] Cake LP
+Claim 0.00 RUBIN ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+[ETY]-[RUBIN] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.40
+ETY Price: $0.001767
+RUBIN Price: $0.001296
+Staked: 122.4745 Cake-LP ($0.40)
+RUBIN Per Week: 9608.83 ($12.45)
+APR: Day 444.67% Week 3112.71% Year 161860.91%
+You are staking 0.00 [ETY]-[RUBIN] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETY]-[RUBIN] Cake LP
+Unstake 0.00 [ETY]-[RUBIN] Cake LP
+Claim 0.00 RUBIN ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+[WBNB]-[SugarRush] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.05 TVL: $16,987.14
+WBNB Price: $495.85
+SugarRush Price: $0.0000011132
+Staked: 0.0000 Cake-LP ($0.00)
+RUBIN Per Week: 2882.65 ($3.74)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[SugarRush] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[SugarRush] Cake LP - Fee 2%
+Unstake 0.00 [WBNB]-[SugarRush] Cake LP
+Claim 0.00 RUBIN ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $2,387.37

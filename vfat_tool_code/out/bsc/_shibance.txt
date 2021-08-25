@@ -1,0 +1,402 @@
+INFO  : https://app.shibance.com
+*************************************************************************************
+
+Mon Aug 23 2021 09:27:47 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 22 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+WOOF
+ Price: $0.00 Market Cap: $0.00 
+Staked: 37625698.9235 WOOF ($0.00)
+WOOF Per Week: 2015924.47 ($57,777.67)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WOOF ($0.00), NaN% of the pool.
+Stake 0.00 WOOF
+Unstake 0.00 WOOF
+Claim 0.00 WOOF ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $45.32 TVL: $464,804.11
+WBNB Price: $487.74
+BUSD Price: $1.00
+Staked: 10249.1209 Shibance-LP ($464,519.12)
+WOOF Per Week: 181261.00 ($5,195.06)
+APR: Day 0.16% Week 1.12% Year 58.16%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 WOOF ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WOOF]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.37 TVL: $390,281.00
+WOOF Price: $0.03
+BUSD Price: $1.00
+Staked: 1061177.9517 Shibance-LP ($388,287.63)
+WOOF Per Week: 1510508.37 ($43,292.13)
+APR: Day 1.59% Week 11.15% Year 579.77%
+You are staking 0.00 [WOOF]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WOOF]-[BUSD] Uni LP
+Unstake 0.00 [WOOF]-[BUSD] Uni LP
+Claim 0.00 WOOF ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WOOF]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.36 TVL: $311,139.79
+WOOF Price: $0.03
+BUSD Price: $1.00
+Staked: 595350.9018 Cake-LP ($215,465.22)
+WOOF Per Week: 906305.02 ($25,975.28)
+APR: Day 1.72% Week 12.06% Year 626.88%
+You are staking 0.00 [WOOF]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WOOF]-[BUSD] Cake LP
+Unstake 0.00 [WOOF]-[BUSD] Cake LP
+Claim 0.00 WOOF ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[USDT]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $329,003.92
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 164139.9674 Shibance-LP ($328,975.76)
+WOOF Per Week: 60420.33 ($1,731.69)
+APR: Day 0.08% Week 0.53% Year 27.37%
+You are staking 0.00 [USDT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Uni LP
+Unstake 0.00 [USDT]-[BUSD] Uni LP
+Claim 0.00 WOOF ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[DOGE]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $115,149.72 TVL: $212,998.35
+DOGE Price: $0.33
+BUSD Price: $1.00
+Staked: 1.8206 Shibance-LP ($209,640.90)
+WOOF Per Week: 120840.67 ($3,463.37)
+APR: Day 0.24% Week 1.65% Year 85.91%
+You are staking 0.00 [DOGE]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[BUSD] Uni LP
+Unstake 0.00 [DOGE]-[BUSD] Uni LP
+Claim 0.00 WOOF ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[WOOF]-[BabyDoge] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.58 TVL: $15,054.77
+WOOF Price: $0.03
+BabyDoge Price: $0.0000000012
+Staked: 25036.6480 Shibance-LP ($14,401.87)
+WOOF Per Week: 60420.33 ($1,731.69)
+APR: Day 1.72% Week 12.02% Year 625.25%
+You are staking 0.00 [WOOF]-[BabyDoge] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WOOF]-[BabyDoge] Uni LP
+Unstake 0.00 [WOOF]-[BabyDoge] Uni LP
+Claim 0.00 WOOF ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[CUMMIES]-[WOOF] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.11 TVL: $36,289.76
+CUMMIES Price: $0.06
+WOOF Price: $0.03
+Staked: 306869.1640 Shibance-LP ($34,485.94)
+WOOF Per Week: 90630.50 ($2,597.53)
+APR: Day 1.08% Week 7.53% Year 391.67%
+You are staking 0.00 [CUMMIES]-[WOOF] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CUMMIES]-[WOOF] Uni LP
+Unstake 0.00 [CUMMIES]-[WOOF] Uni LP
+Claim 0.00 WOOF ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[SAFEMOON]-[WOOF] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $289.32 TVL: $29,005.32
+SAFEMOON Price: $0.0000019839
+WOOF Price: $0.03
+Staked: 99.9790 Shibance-LP ($28,926.29)
+WOOF Per Week: 60420.33 ($1,731.69)
+APR: Day 0.86% Week 5.99% Year 311.30%
+You are staking 0.00 [SAFEMOON]-[WOOF] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SAFEMOON]-[WOOF] Uni LP
+Unstake 0.00 [SAFEMOON]-[WOOF] Uni LP
+Claim 0.00 WOOF ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[SAFEMOON]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $148.47 TVL: $8,437.13
+SAFEMOON Price: $0.0000019839
+BUSD Price: $1.00
+Staked: 56.6377 Shibance-LP ($8,409.00)
+WOOF Per Week: 30210.17 ($865.84)
+APR: Day 1.47% Week 10.30% Year 535.42%
+You are staking 0.00 [SAFEMOON]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SAFEMOON]-[BUSD] Uni LP
+Unstake 0.00 [SAFEMOON]-[BUSD] Uni LP
+Claim 0.00 WOOF ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[CUMMIES]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.61 TVL: $18,421.74
+CUMMIES Price: $0.06
+BUSD Price: $1.00
+Staked: 30197.8424 Shibance-LP ($18,396.32)
+WOOF Per Week: 30210.17 ($865.84)
+APR: Day 0.67% Week 4.71% Year 244.74%
+You are staking 0.00 [CUMMIES]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CUMMIES]-[BUSD] Uni LP
+Unstake 0.00 [CUMMIES]-[BUSD] Uni LP
+Claim 0.00 WOOF ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[BabyDoge]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.85 TVL: $8,113.01
+BabyDoge Price: $0.0000000012
+BUSD Price: $1.00
+Staked: 2104.5146 Shibance-LP ($8,104.10)
+WOOF Per Week: 30210.17 ($865.84)
+APR: Day 1.53% Week 10.68% Year 555.57%
+You are staking 0.00 [BabyDoge]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BabyDoge]-[BUSD] Uni LP
+Unstake 0.00 [BabyDoge]-[BUSD] Uni LP
+Claim 0.00 WOOF ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[ASS]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.70 TVL: $6,132.24
+ASS Price: $0.0000000029
+BUSD Price: $1.00
+Staked: 1290.7381 Shibance-LP ($6,067.04)
+WOOF Per Week: 30210.17 ($865.84)
+APR: Day 2.04% Week 14.27% Year 742.11%
+You are staking 0.00 [ASS]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ASS]-[BUSD] Uni LP
+Unstake 0.00 [ASS]-[BUSD] Uni LP
+Claim 0.00 WOOF ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[ASS]-[WOOF] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.85 TVL: $15,440.59
+ASS Price: $0.0000000029
+WOOF Price: $0.03
+Staked: 17814.2557 Shibance-LP ($15,208.31)
+WOOF Per Week: 60420.33 ($1,731.69)
+APR: Day 1.63% Week 11.39% Year 592.09%
+You are staking 0.00 [ASS]-[WOOF] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ASS]-[WOOF] Uni LP
+Unstake 0.00 [ASS]-[WOOF] Uni LP
+Claim 0.00 WOOF ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[WOOF]-[MOONSHOT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.89 TVL: $6,773.07
+WOOF Price: $0.03
+MOONSHOT Price: $0.0000000059
+Staked: 7581.8852 Shibance-LP ($6,756.40)
+WOOF Per Week: 30210.17 ($865.84)
+APR: Day 1.83% Week 12.82% Year 666.39%
+You are staking 0.00 [WOOF]-[MOONSHOT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WOOF]-[MOONSHOT] Uni LP
+Unstake 0.00 [WOOF]-[MOONSHOT] Uni LP
+Claim 0.00 WOOF ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[Cake]-[WOOF] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.71 TVL: $16,735.50
+Cake Price: $25.15
+WOOF Price: $0.03
+Staked: 9787.0216 Shibance-LP ($16,725.90)
+WOOF Per Week: 60420.33 ($1,731.69)
+APR: Day 1.48% Week 10.35% Year 538.37%
+You are staking 0.00 [Cake]-[WOOF] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WOOF] Uni LP
+Unstake 0.00 [Cake]-[WOOF] Uni LP
+Claim 0.00 WOOF ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[Cake]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10.08 TVL: $41,573.98
+Cake Price: $25.15
+BUSD Price: $1.00
+Staked: 4123.8704 Shibance-LP ($41,561.10)
+WOOF Per Week: 30210.17 ($865.84)
+APR: Day 0.30% Week 2.08% Year 108.33%
+You are staking 0.00 [Cake]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Uni LP
+Unstake 0.00 [Cake]-[BUSD] Uni LP
+Claim 0.00 WOOF ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[CUPCAKE]-[WOOF] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $30,074.83
+CUPCAKE Price: $0.0000027465
+WOOF Price: $0.03
+Staked: 26979281.1860 Shibance-LP ($29,061.72)
+WOOF Per Week: 60420.33 ($1,731.69)
+APR: Day 0.85% Week 5.96% Year 309.85%
+You are staking 0.00 [CUPCAKE]-[WOOF] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CUPCAKE]-[WOOF] Uni LP
+Unstake 0.00 [CUPCAKE]-[WOOF] Uni LP
+Claim 0.00 WOOF ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+BURN
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 BURN ($0.00)
+WOOF Per Week: 2634326.60 ($75,501.47)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BURN ($0.00), NaN% of the pool.
+Stake 0.00 BURN
+Unstake 0.00 BURN
+Claim 0.00 WOOF ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[BIRB]-[WOOF] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.14 TVL: $7,251.99
+BIRB Price: $0.16
+WOOF Price: $0.03
+Staked: 50550.7689 Shibance-LP ($6,953.59)
+WOOF Per Week: 30210.17 ($865.84)
+APR: Day 1.78% Week 12.45% Year 647.49%
+You are staking 0.00 [BIRB]-[WOOF] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BIRB]-[WOOF] Uni LP
+Unstake 0.00 [BIRB]-[WOOF] Uni LP
+Claim 0.00 WOOF ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[CUPCAKE]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $10,967.77
+CUPCAKE Price: $0.0000027465
+BUSD Price: $1.00
+Staked: 2465572.3553 Shibance-LP ($10,966.54)
+WOOF Per Week: 30210.17 ($865.84)
+APR: Day 1.13% Week 7.90% Year 410.56%
+You are staking 0.00 [CUPCAKE]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CUPCAKE]-[BUSD] Uni LP
+Unstake 0.00 [CUPCAKE]-[BUSD] Uni LP
+Claim 0.00 WOOF ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,852,912.76

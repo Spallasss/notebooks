@@ -1,0 +1,360 @@
+INFO  : https://www.twilightfinance.org
+*************************************************************************************
+
+Mon Aug 23 2021 09:35:47 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 22 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[TWIL]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.04 TVL: $361.93
+TWIL Price: $0.000345
+BUSD Price: $1.00
+Staked: 3214.6998 Cake-LP ($140.66)
+TWIL Per Week: 41168.77 ($14.21)
+APR: Day 1.44% Week 10.10% Year 525.16%
+You are staking 0.00 [TWIL]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TWIL]-[BUSD] Cake LP
+Unstake 0.00 [TWIL]-[BUSD] Cake LP
+Claim 0.00 TWIL ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[TWIL]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.96 TVL: $358.41
+TWIL Price: $0.000345
+WBNB Price: $488.46
+Staked: 134.2529 Cake-LP ($129.21)
+TWIL Per Week: 37051.89 ($12.78)
+APR: Day 1.41% Week 9.89% Year 514.54%
+You are staking 0.00 [TWIL]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TWIL]-[WBNB] Cake LP
+Unstake 0.00 [TWIL]-[WBNB] Cake LP
+Claim 0.00 TWIL ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.96 TVL: $526,040,865.92
+WBNB Price: $488.46
+BUSD Price: $1.00
+Staked: 0.1075 Cake-LP ($5.37)
+TWIL Per Week: 3293.50 ($1.14)
+APR: Day 3.02% Week 21.16% Year 1100.41%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 3.5%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 TWIL ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,264,398.03
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 57.2391 Cake-LP ($117.15)
+TWIL Per Week: 3293.50 ($1.14)
+APR: Day 0.14% Week 0.97% Year 50.44%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 3.5%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 TWIL ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,247.49 TVL: $174,479,277.40
+BTCB Price: $49,844.00
+WBNB Price: $488.46
+Staked: 0.0001 Cake-LP ($0.86)
+TWIL Per Week: 3293.50 ($1.14)
+APR: Day 18.84% Week 131.86% Year 6856.47%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 3.5%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 TWIL ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,665.67 TVL: $263,101,548.39
+ETH Price: $3,334.68
+WBNB Price: $488.46
+Staked: 0.0200 Cake-LP ($53.31)
+TWIL Per Week: 3293.50 ($1.14)
+APR: Day 0.30% Week 2.13% Year 110.84%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 3.5%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 TWIL ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,351,769.27
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 179.4151 Cake-LP ($365.19)
+TWIL Per Week: 3293.50 ($1.14)
+APR: Day 0.04% Week 0.31% Year 16.18%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 3.5%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 TWIL ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,989,825.28
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.1059 Cake-LP ($0.22)
+TWIL Per Week: 3293.50 ($1.14)
+APR: Day 74.49% Week 521.41% Year 27113.36%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 3.5%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 TWIL ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $242.30 TVL: $83,309,887.07
+DOT Price: $28.19
+WBNB Price: $488.46
+Staked: 0.0500 Cake-LP ($12.12)
+TWIL Per Week: 3293.50 ($1.14)
+APR: Day 1.34% Week 9.38% Year 487.77%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 3.5%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 TWIL ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+TWIL
+ Price: $0.000345 Market Cap: $1,509.98 
+[%]
+Staked: 709315.3841 TWIL ($244.75)
+TWIL Per Week: 22642.82 ($7.81)
+APR: Day 0.46% Week 3.19% Year 165.99%
+You are staking 0.00 TWIL ($0.00), 0.00% of the pool.
+Stake 0.00 TWIL
+Unstake 0.00 TWIL
+Claim 0.00 TWIL ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+BUSD
+ Price: $1.00 Market Cap: $4,196,420,310.65 
+[%]
+Staked: 4.8274 BUSD ($4.82)
+TWIL Per Week: 2058.44 ($0.71)
+APR: Day 2.10% Week 14.73% Year 765.93%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 3.5%
+Unstake 0.00 BUSD
+Claim 0.00 TWIL ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+WBNB
+ Price: $488.46 Market Cap: $3,443,960,305.04 
+[%]
+Staked: 0.0466 WBNB ($22.78)
+TWIL Per Week: 2058.44 ($0.71)
+APR: Day 0.45% Week 3.12% Year 162.13%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 3.5%
+Unstake 0.00 WBNB
+Claim 0.00 TWIL ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 10.7818 USDT ($10.78)
+TWIL Per Week: 2058.44 ($0.71)
+APR: Day 0.94% Week 6.59% Year 342.63%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 3.5%
+Unstake 0.00 USDT
+Claim 0.00 TWIL ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+BTCB
+ Price: $49,844.00 Market Cap: $4,261,711,844.00 
+[%]
+Staked: 0.0001 BTCB ($6.49)
+TWIL Per Week: 2058.44 ($0.71)
+APR: Day 1.56% Week 10.95% Year 569.37%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 3.5%
+Unstake 0.00 BTCB
+Claim 0.00 TWIL ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+ETH
+ Price: $3,334.68 Market Cap: $4,351,757,400.00 
+[%]
+Staked: 0.0037 ETH ($12.51)
+TWIL Per Week: 2058.44 ($0.71)
+APR: Day 0.81% Week 5.68% Year 295.35%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 3.5%
+Unstake 0.00 ETH
+Claim 0.00 TWIL ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 95.2232 DAI ($95.22)
+TWIL Per Week: 2058.44 ($0.71)
+APR: Day 0.11% Week 0.75% Year 38.79%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 3.5%
+Unstake 0.00 DAI
+Claim 0.00 TWIL ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+USDC
+ Price: $1.00 Market Cap: $1,778,071,362.00 
+[%]
+Staked: 107.8366 USDC ($107.78)
+TWIL Per Week: 2058.44 ($0.71)
+APR: Day 0.09% Week 0.66% Year 34.27%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 3.5%
+Unstake 0.00 USDC
+Claim 0.00 TWIL ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+DOT
+ Price: $28.19 Market Cap: $394,659,999.86 
+[%]
+Staked: 1.0098 DOT ($28.47)
+TWIL Per Week: 2058.44 ($0.71)
+APR: Day 0.36% Week 2.50% Year 129.75%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 3.5%
+Unstake 0.00 DOT
+Claim 0.00 TWIL ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $226.69 TVL: $1,037,076,186.00
+Cake Price: $25.16
+WBNB Price: $488.46
+Staked: 0.0672 Cake-LP ($15.23)
+TWIL Per Week: 3293.50 ($1.14)
+APR: Day 1.07% Week 7.46% Year 387.98%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 3.5%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 TWIL ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.59 TVL: $47,046,421.35
+ADA Price: $2.83
+WBNB Price: $488.46
+Staked: 0.2000 Cake-LP ($15.52)
+TWIL Per Week: 3293.50 ($1.14)
+APR: Day 1.05% Week 7.32% Year 380.81%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 3.5%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 TWIL ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+Cake
+ Price: $25.16 Market Cap: $10,470,007,943.63 
+[%]
+Staked: 1.2094 Cake ($30.43)
+TWIL Per Week: 2058.44 ($0.71)
+APR: Day 0.33% Week 2.33% Year 121.38%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 3.5%
+Unstake 0.00 Cake
+Claim 0.00 TWIL ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+ADA
+ Price: $2.83 Market Cap: $792,400,000.00 
+[%]
+Staked: 89.6407 ADA ($253.68)
+TWIL Per Week: 2058.44 ($0.71)
+APR: Day 0.04% Week 0.28% Year 14.56%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 3.5%
+Unstake 0.00 ADA
+Claim 0.00 TWIL ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,672.54

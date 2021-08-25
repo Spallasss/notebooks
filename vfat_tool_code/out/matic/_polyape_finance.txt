@@ -1,0 +1,135 @@
+INFO  : https://www.polyapefinance.com
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:21:42 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 9 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[APE]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9,597.44 TVL: $17.89
+APE Price: $0.0000212649
+USDC Price: $1.00
+Staked: 0.0001 UNI-V2 ($1.33)
+APE Per Week: 53364.71 ($1.13)
+APR: Day 12.19% Week 85.30% Year 4435.49%
+You are staking 0.00 [APE]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [APE]-[USDC] Uni LP
+Unstake 0.00 [APE]-[USDC] Uni LP
+Claim 0.00 APE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+WMATIC
+ Price: $1.66 Market Cap: $609,156,770.01 
+[%]
+Staked: 0.0209 WMATIC ($0.03)
+APE Per Week: 8894.12 ($0.19)
+APR: Day 77.71% Week 543.97% Year 28286.69%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 APE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+WETH
+ Price: $3,323.55 Market Cap: $2,029,109,029.95 
+[%]
+Staked: 0.0000 WETH ($0.03)
+APE Per Week: 8894.12 ($0.19)
+APR: Day 87.62% Week 613.32% Year 31892.71%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 APE ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+APE
+ Price: $0.0000212649 Market Cap: $30.33 
+[%]
+Staked: 727856.2198 APE ($15.48)
+APE Per Week: 35576.47 ($0.76)
+APR: Day 0.70% Week 4.89% Year 254.17%
+You are staking 0.00 APE ($0.00), 0.00% of the pool.
+Stake 0.00 APE
+Unstake 0.00 APE
+Claim 0.00 APE ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WBTC
+ Price: $50,164.00 Market Cap: $699,743,377.67 
+[%]
+Staked: 0.0000 WBTC ($0.03)
+APE Per Week: 8894.12 ($0.19)
+APR: Day 92.86% Week 650.05% Year 33802.59%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 APE ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+USDT
+ Price: $1.00 Market Cap: $314,853,059.77 
+[%]
+Staked: 10.5600 USDT ($10.55)
+APE Per Week: 8894.12 ($0.19)
+APR: Day 0.26% Week 1.79% Year 93.23%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 APE ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+QUICK
+ Price: $741.39 Market Cap: $709,707,941.09 
+[%]
+Staked: 0.0001 QUICK ($0.04)
+APE Per Week: 8894.12 ($0.19)
+APR: Day 63.05% Week 441.35% Year 22950.42%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 APE ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+USDC
+ Price: $1.00 Market Cap: $1,044,881,935.32 
+[%]
+Staked: 19.7423 USDC ($19.68)
+APE Per Week: 8894.12 ($0.19)
+APR: Day 0.14% Week 0.96% Year 49.98%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 APE ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+DAI
+ Price: $1.00 Market Cap: $376,284,571.53 
+[%]
+Staked: 0.9600 DAI ($0.96)
+APE Per Week: 8894.12 ($0.19)
+APR: Day 2.81% Week 19.70% Year 1024.47%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 APE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $48.13

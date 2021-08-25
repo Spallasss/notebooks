@@ -1,0 +1,102 @@
+INFO  : https://strudel.finance
+****************************************************************************
+
+Mon Aug 23 2021 15:32:10 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 12 pools.
+
+4 - 
+[WETH]-[VBTC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $18,632.20 TVL: $209,702.00
+WETH Price: $3,330.58
+VBTC Price: $21,443.69
+Staked: 11.0007 UNI-V2 ($204,967.19)
+$TRDL Per Week: 8145.45 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WETH]-[VBTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[VBTC] Uni LP
+Unstake 0.00 [WETH]-[VBTC] Uni LP
+Claim 0.00 $TRDL ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[$TRDL]-[WETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $45.85 TVL: $126,154.63
+$TRDL Price: $0.14
+WETH Price: $3,330.58
+Staked: 2061.7561 SLP ($94,527.94)
+$TRDL Per Week: 12218.18 ($1,718.48)
+APR: Day 0.26% Week 1.82% Year 94.53%
+You are staking 0.00 [$TRDL]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [$TRDL]-[WETH] SLP
+Unstake 0.00 [$TRDL]-[WETH] SLP
+Claim 0.00 $TRDL ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[UNI-V2 16.69114701562267%]-[WETH 16.69114701562267%]-[$TRDL 16.68447055681667%]-[VBTC 16.68447055681667%]-[vBCH 16.624382427560665%]-[oneVBTC 16.624382427560665%]
+ BPT Price: $163.74 TVL: $185,208.32
+UNI-V2 Price: $36.20
+WETH Price: $3,330.58
+$TRDL Price: $0.14
+VBTC Price: $21,443.69
+vBCH Price: $394.22
+oneVBTC Price: $1.00
+Staked: 1085.0115 [UNI-V2 16.69114701562267%]-[WETH 16.69114701562267%]-[$TRDL 16.68447055681667%]-[VBTC 16.68447055681667%]-[vBCH 16.624382427560665%]-[oneVBTC 16.624382427560665%] ($177,654.58)
+$TRDL Per Week: 16290.91 ($2,291.30)
+APR: Day 0.18% Week 1.29% Year 67.07%
+You are staking 0.00 [UNI-V2 16.69114701562267%]-[WETH 16.69114701562267%]-[$TRDL 16.68447055681667%]-[VBTC 16.68447055681667%]-[vBCH 16.624382427560665%]-[oneVBTC 16.624382427560665%] ($0.00), 0.00% of the pool.
+Stake 0.00 [UNI-V2 16.69114701562267%]-[WETH 16.69114701562267%]-[$TRDL 16.68447055681667%]-[VBTC 16.68447055681667%]-[vBCH 16.624382427560665%]-[oneVBTC 16.624382427560665%]
+Unstake 0.00 [UNI-V2 16.69114701562267%]-[WETH 16.69114701562267%]-[$TRDL 16.68447055681667%]-[VBTC 16.68447055681667%]-[vBCH 16.624382427560665%]-[oneVBTC 16.624382427560665%]
+Claim 0.00 $TRDL ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[vBCH]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,315.31 TVL: $17,306.02
+vBCH Price: $394.22
+WETH Price: $3,330.58
+Staked: 7.4746 UNI-V2 ($17,306.02)
+$TRDL Per Week: 4072.73 ($572.83)
+APR: Day 0.47% Week 3.31% Year 172.12%
+You are staking 0.00 [vBCH]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [vBCH]-[WETH] Uni LP
+Unstake 0.00 [vBCH]-[WETH] Uni LP
+Claim 0.00 $TRDL ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[VBTC 25%]-[PUNK 25%]-[BAYC 25%]-[COOL 25%]
+ BPT Price: $12.65 TVL: $166,330.60
+VBTC Price: $21,443.69
+PUNK Price: $330,567.00
+BAYC Price: $68,518.00
+COOL Price: $5,648.64
+Staked: 11602.5400 [VBTC 25%]-[PUNK 25%]-[BAYC 25%]-[COOL 25%] ($146,778.80)
+$TRDL Per Week: 4072.73 ($572.83)
+APR: Day 0.06% Week 0.39% Year 20.29%
+You are staking 0.00 [VBTC 25%]-[PUNK 25%]-[BAYC 25%]-[COOL 25%] ($0.00), 0.00% of the pool.
+Stake 0.00 [VBTC 25%]-[PUNK 25%]-[BAYC 25%]-[COOL 25%]
+Unstake 0.00 [VBTC 25%]-[PUNK 25%]-[BAYC 25%]-[COOL 25%]
+Claim 0.00 $TRDL ($0.00)
+Staking or unstaking also claims rewards.

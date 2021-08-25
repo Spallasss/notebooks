@@ -1,0 +1,84 @@
+INFO  : https://emiswap.com
+****************************************************************************
+
+Mon Aug 23 2021 15:48:39 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+EMI LP
+ Price: $0.00 Market Cap: $0.00 
+Staked: 370052.3296 EMI LP ($0.00)
+ESW Per Week: 15342.44 ($1,261.33)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 EMI LP $0.00 (NaN% of the pool).
+Etherscan
+Stake 0.000000 EMI LP
+Unstake 0.000000 EMI LP
+Claim 0.000000 ESW ($0.00)
+Revoke (set approval to 0)
+Exit
+ESW
+ Price: $0.08 Market Cap: $1,550,188.47 
+[%]
+Staked: 942784.2798 ESW ($77,508.18)
+ESW Per Week: 11666.67 ($959.14)
+APR: Day 0.18% Week 1.24% Year 64.35%
+You are staking 0.000000 ESW $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 ESW
+Unstake 0.000000 ESW
+Claim 0.000000 ESW ($0.00)
+Revoke (set approval to 0)
+Exit
+EMI LP
+ Price: $0.00 Market Cap: $0.00 
+Staked: 83239.0294 EMI LP ($0.00)
+ESW Per Week: 15342.44 ($1,261.33)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 EMI LP $0.00 (NaN% of the pool).
+Etherscan
+Stake 0.000000 EMI LP
+Unstake 0.000000 EMI LP
+Claim 0.000000 ESW ($0.00)
+Revoke (set approval to 0)
+Exit
+EMI LP
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 EMI LP ($0.00)
+ESW Per Week: 38356.19 ($3,153.34)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 EMI LP $0.00 (NaN% of the pool).
+Etherscan
+Stake 0.000000 EMI LP
+Unstake 0.000000 EMI LP
+Claim 0.000000 ESW ($0.00)
+Revoke (set approval to 0)
+Exit
+EMI LP
+ Price: $0.00 Market Cap: $0.00 
+Staked: 5011.5421 EMI LP ($0.00)
+ESW Per Week: 5753.46 ($473.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 EMI LP $0.00 (NaN% of the pool).
+Etherscan
+Stake 0.000000 EMI LP
+Unstake 0.000000 EMI LP
+Claim 0.000000 ESW ($0.00)
+Revoke (set approval to 0)
+Exit
+EMI LP
+ Price: $0.00 Market Cap: $0.00 
+Staked: 10641.7253 EMI LP ($0.00)
+ESW Per Week: 13424.68 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 EMI LP $0.00 (NaN% of the pool).
+Etherscan
+Stake 0.000000 EMI LP
+Unstake 0.000000 EMI LP
+Claim 0.000000 ESW ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $77,508.18

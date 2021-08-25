@@ -1,0 +1,222 @@
+***************************** POLYGON NETWORK ***************************************
+
+                PolyMaple - Maply Syrup Farms
+
+                  
+https://www.polymaple.com
+
+
+
+Features
+- New Boost Feature earn 2x more rewards 
+Medium
+
+- Pools & Tokennomics (Capped. Low Emissions) 
+Medium
+
+
+
+Launch Dates
+ - 
+Medium
+
+ - Syrup Token Launch - Fair Launch - Launch time will be random between blocks 16655000 to 16663000 
+    or Thur. Jul 08 2021, 9:00 PM to 2:00 AM UTC (Approx.)
+ - Farm Launch - Monday , July 12, 4pm UTC (Approx.)  - Block 16804000
+
+
+
+Telegram
+
+
+Twitter
+
+
+
+Special thanks to the vfat team for getting us started when we launched our first 
+farm.
+
+*************************************************************************************
+
+🍁🍁🍁 Please visit our website to view APR details. 🍁🍁🍁
+VFAT is the secondary source for  utilizing our farms. Due to the boost feature 
+APR calculations are different and so we have not displayed them here.
+
+Mon Aug 23 2021 12:09:25 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+
+
+                               FARM                                
+
+
+Found 13 pools.
+
+0 - 
+[WMATIC]-[MAPLE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.60 TVL: $19,042.57
+WMATIC Price: $1.65
+MAPLE Price: $0.04
+Staked: 27083.0560 UNI-V2 ($16,382.33)
+SYRUP Per Week: 756.00000000 ($7.52)
+You are staking 0.00000000 [WMATIC]-[MAPLE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00000000 [WMATIC]-[MAPLE] Uni LP
+Unstake 0.00000000 [WMATIC]-[MAPLE] Uni LP
+Claim 0.00000000 SYRUP ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[SYRUP]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $211,026.57 TVL: $274.44
+SYRUP Price: $0.009954
+USDC Price: $1.00
+Staked: 0.0013 UNI-V2 ($273.84)
+SYRUP Per Week: 5292.00000000 ($52.67)
+You are staking 0.00000000 [SYRUP]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00000000 [SYRUP]-[USDC] Uni LP
+Unstake 0.00000000 [SYRUP]-[USDC] Uni LP
+Claim 0.00000000 SYRUP ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[SYRUP] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.27 TVL: $541.67
+WMATIC Price: $1.65
+SYRUP Price: $0.009954
+Staked: 1067.3463 UNI-V2 ($291.38)
+SYRUP Per Week: 5292.00000000 ($52.67)
+You are staking 0.00000000 [WMATIC]-[SYRUP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00000000 [WMATIC]-[SYRUP] Uni LP
+Unstake 0.00000000 [WMATIC]-[SYRUP] Uni LP
+Claim 0.00000000 SYRUP ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+SYRUP
+ Price: $0.009954 Market Cap: $1,232.86 
+[%]
+Staked: 37539.9779 SYRUP ($373.66)
+SYRUP Per Week: 1134.00000000 ($11.29)
+You are staking 0.00000000 SYRUP ($0.00), 0.00% of the pool.
+Stake 0.00000000 SYRUP
+Unstake 0.00000000 SYRUP
+Claim 0.00000000 SYRUP ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+MAPLE
+ Price: $0.04 Market Cap: $26,827.03 
+[%]
+Staked: 54736.3914 MAPLE ($2,086.85)
+SYRUP Per Week: 756.00000000 ($7.52)
+You are staking 0.00000000 MAPLE ($0.00), 0.00% of the pool.
+Stake 0.00000000 MAPLE
+Unstake 0.00000000 MAPLE
+Claim 0.00000000 SYRUP ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WMATIC
+ Price: $1.65 Market Cap: $605,581,466.58 
+[%]
+Staked: 1573.2749 WMATIC ($2,595.90)
+SYRUP Per Week: 1890.00000000 ($18.81)
+You are staking 0.00000000 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00000000 WMATIC - Fee 3.5%
+Unstake 0.00000000 WMATIC
+Claim 0.00000000 SYRUP ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WETH
+ Price: $3,319.67 Market Cap: $2,027,620,166.10 
+[%]
+Staked: 1.3836 WETH ($4,592.99)
+SYRUP Per Week: 1134.00000000 ($11.29)
+You are staking 0.00000000 WETH ($0.00), 0.00% of the pool.
+Stake 0.00000000 WETH - Fee 3.5%
+Unstake 0.00000000 WETH
+Claim 0.00000000 SYRUP ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WBTC
+ Price: $50,018.00 Market Cap: $697,143,853.15 
+[%]
+Staked: 0.0276 WBTC ($1,380.31)
+SYRUP Per Week: 1134.00000000 ($11.29)
+You are staking 0.00000000 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00000000 WBTC - Fee 3.5%
+Unstake 0.00000000 WBTC
+Claim 0.00000000 SYRUP ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+AAVE
+ Price: $408.21 Market Cap: $155,395,171.29 
+[%]
+Staked: 1.0166 AAVE ($415.00)
+SYRUP Per Week: 1134.00000000 ($11.29)
+You are staking 0.00000000 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00000000 AAVE - Fee 3.5%
+Unstake 0.00000000 AAVE
+Claim 0.00000000 SYRUP ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+SUSHI
+ Price: $13.81 Market Cap: $13,999,001.70 
+[%]
+Staked: 48.3013 SUSHI ($667.04)
+SYRUP Per Week: 1134.00000000 ($11.29)
+You are staking 0.00000000 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00000000 SUSHI - Fee 3.5%
+Unstake 0.00000000 SUSHI
+Claim 0.00000000 SYRUP ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+QUICK
+ Price: $728.33 Market Cap: $697,206,038.30 
+[%]
+Staked: 0.2147 QUICK ($156.40)
+SYRUP Per Week: 756.00000000 ($7.52)
+You are staking 0.00000000 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00000000 QUICK - Fee 3.5%
+Unstake 0.00000000 QUICK
+Claim 0.00000000 SYRUP ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+USDC
+ Price: $1.00 Market Cap: $1,046,024,160.63 
+[%]
+Staked: 2833.3005 USDC ($2,826.03)
+SYRUP Per Week: 1890.00000000 ($18.81)
+You are staking 0.00000000 USDC ($0.00), 0.00% of the pool.
+Stake 0.00000000 USDC - Fee 3.5%
+Unstake 0.00000000 USDC
+Claim 0.00000000 SYRUP ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+DAI
+ Price: $1.00 Market Cap: $375,664,195.61 
+[%]
+Staked: 1563.8766 DAI ($1,561.39)
+SYRUP Per Week: 1890.00000000 ($18.81)
+You are staking 0.00000000 DAI ($0.00), 0.00% of the pool.
+Stake 0.00000000 DAI - Fee 3.5%
+Unstake 0.00000000 DAI
+Claim 0.00000000 SYRUP ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $33,603.12

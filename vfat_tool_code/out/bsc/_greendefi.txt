@@ -1,0 +1,169 @@
+INFO  : https://greendefi.finance
+**************************************************************************************
+
+Mon Aug 23 2021 14:36:26 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 23 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[Oxygen]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $16.88
+Oxygen Price: $0.0000080110
+BUSD Price: $1.00
+Staked: 2229.1564 Cake-LP ($13.20)
+OXYGEN Per Week: 646153.85 ($5.18)
+APR: Day 5.60% Week 39.21% Year 2039.06%
+You are staking 0.00 [Oxygen]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Oxygen]-[BUSD] Cake LP
+Unstake 0.00 [Oxygen]-[BUSD] Cake LP
+Claim 0.00 OXYGEN ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[Oxygen]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.13 TVL: $11.72
+Oxygen Price: $0.0000080110
+WBNB Price: $484.19
+Staked: 82.8228 Cake-LP ($10.63)
+OXYGEN Per Week: 323076.92 ($2.59)
+APR: Day 3.48% Week 24.36% Year 1266.60%
+You are staking 0.00 [Oxygen]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Oxygen]-[WBNB] Cake LP
+Unstake 0.00 [Oxygen]-[WBNB] Cake LP
+Claim 0.00 OXYGEN ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.74 TVL: $527,405,799.14
+WBNB Price: $484.19
+BUSD Price: $1.00
+Staked: 0.0588 Cake-LP ($2.93)
+OXYGEN Per Week: 129230.77 ($1.04)
+APR: Day 5.05% Week 35.37% Year 1839.42%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 OXYGEN ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+Oxygen
+ Price: $0.0000080110 Market Cap: $274.14 
+[%]
+Staked: 14076836.3931 Oxygen ($112.77)
+OXYGEN Per Week: 129230.77 ($1.04)
+APR: Day 0.13% Week 0.92% Year 47.74%
+You are staking 0.00 Oxygen ($0.00), 0.00% of the pool.
+Stake 0.00 Oxygen
+Unstake 0.00 Oxygen
+Claim 0.00 OXYGEN ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WBNB
+ Price: $484.19 Market Cap: $3,428,684,719.23 
+[%]
+Staked: 0.0000 WBNB ($0.00)
+OXYGEN Per Week: 64615.38 ($0.52)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 WBNB ($0.00), NaN% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 OXYGEN ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+BUSD
+ Price: $1.00 Market Cap: $4,196,281,677.67 
+[%]
+Staked: 101.1003 BUSD ($100.99)
+OXYGEN Per Week: 25846.15 ($0.21)
+APR: Day 0.03% Week 0.21% Year 10.66%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 OXYGEN ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[ETH]-[Oxygen] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.33 TVL: $4.23
+ETH Price: $3,325.59
+Oxygen Price: $0.0000080110
+Staked: 12.3967 Cake-LP ($4.09)
+OXYGEN Per Week: 1033846.15 ($8.28)
+APR: Day 28.90% Week 202.27% Year 10518.06%
+You are staking 0.00 [ETH]-[Oxygen] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[Oxygen] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[Oxygen] Cake LP
+Claim 0.00 OXYGEN ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[Oxygen]-[USDT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $10.37
+Oxygen Price: $0.0000080110
+USDT Price: $1.00
+Staked: 1795.4724 Cake-LP ($10.25)
+OXYGEN Per Week: 387692.31 ($3.11)
+APR: Day 4.33% Week 30.29% Year 1575.03%
+You are staking 0.00 [Oxygen]-[USDT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Oxygen]-[USDT] Cake LP - Fee 3%
+Unstake 0.00 [Oxygen]-[USDT] Cake LP
+Claim 0.00 OXYGEN ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[Oxygen]-[BTCB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.44 TVL: $16.14
+Oxygen Price: $0.0000080110
+BTCB Price: $49,954.00
+Staked: 11.0191 Cake-LP ($15.89)
+OXYGEN Per Week: 1292307.69 ($10.35)
+APR: Day 9.31% Week 65.15% Year 3387.64%
+You are staking 0.00 [Oxygen]-[BTCB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Oxygen]-[BTCB] Cake LP - Fee 4%
+Unstake 0.00 [Oxygen]-[BTCB] Cake LP
+Claim 0.00 OXYGEN ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $270.75

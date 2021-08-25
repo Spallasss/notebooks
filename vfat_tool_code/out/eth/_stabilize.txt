@@ -1,0 +1,310 @@
+INFO  : https://www.stabilize.finance/app/
+***************************************************************************************
+
+Mon Aug 23 2021 15:29:52 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 26 pools.
+
+[STBZ]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $155.41 TVL: $834,558.48
+STBZ Price: $1.34
+WETH Price: $3,330.58
+Staked: 5137.5259 UNI-V2 ($798,421.86)
+STBZ Per Week: 9397.27 ($12,592.34)
+APR: Day 0.23% Week 1.58% Year 82.01%
+You are staking 0.00 undefined ($0.00), 0.00% of the pool.
+Stake 0.00 undefined
+Unstake 0.00 undefined
+Claim 0.00 STBZ
+
+
+DAI
+ Price: $1.00 Market Cap: $5,780,474,857.49 
+[%]
+Staked: 159130.1211 DAI ($159,130.12)
+STBZ Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 undefined ($0.00), 0.00% of the pool.
+Stake 0.00 undefined
+Unstake 0.00 undefined
+Claim 0.00 STBZ
+
+
+USDC
+ Price: $1.00 Market Cap: $25,864,029,818.04 
+[%]
+Staked: 0.0000 USDC ($0.00)
+STBZ Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 undefined ($0.00), NaN% of the pool.
+Stake 0.00 undefined
+Unstake 0.00 undefined
+Claim 0.00 STBZ
+
+
+USDT
+ Price: $1.00 Market Cap: $31,903,609,607.30 
+[%]
+Staked: 0.0000 USDT ($0.00)
+STBZ Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 undefined ($0.00), NaN% of the pool.
+Stake 0.00 undefined
+Unstake 0.00 undefined
+Claim 0.00 STBZ
+
+
+sUSD
+ Price: $1.00 Market Cap: $307,601,788.32 
+[%]
+Staked: 8.7869 sUSD ($8.77)
+STBZ Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 undefined ($0.00), 0.00% of the pool.
+Stake 0.00 undefined
+Unstake 0.00 undefined
+Claim 0.00 STBZ
+
+
+za-USDC
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 za-USDC ($0.00)
+STBZ Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 undefined ($0.00), NaN% of the pool.
+Stake 0.00 undefined
+Unstake 0.00 undefined
+Claim 0.00 STBZ
+
+
+za-USDT
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1007.8302 za-USDT ($0.00)
+STBZ Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 undefined ($0.00), 0.00% of the pool.
+Stake 0.00 undefined
+Unstake 0.00 undefined
+Claim 0.00 STBZ
+
+
+za-sUSD
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 za-sUSD ($0.00)
+STBZ Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 undefined ($0.00), NaN% of the pool.
+Stake 0.00 undefined
+Unstake 0.00 undefined
+Claim 0.00 STBZ
+
+
+za-DAI
+ Price: $0.00 Market Cap: $0.00 
+Staked: 19.9803 za-DAI ($0.00)
+STBZ Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 undefined ($0.00), 0.00% of the pool.
+Stake 0.00 undefined
+Unstake 0.00 undefined
+Claim 0.00 STBZ
+
+
+zs-DAI
+ Price: $0.00 Market Cap: $0.00 
+Staked: 63569.6734 zs-DAI ($0.00)
+STBZ Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 undefined ($0.00), 0.00% of the pool.
+Stake 0.00 undefined
+Unstake 0.00 undefined
+Claim 0.00 STBZ
+
+
+zpa-USDC
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 zpa-USDC ($0.00)
+STBZ Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 undefined ($0.00), NaN% of the pool.
+Stake 0.00 undefined
+Unstake 0.00 undefined
+Claim 0.00 STBZ
+
+
+zpa-USDT
+ Price: $0.00 Market Cap: $0.00 
+Staked: 122.2288 zpa-USDT ($0.00)
+STBZ Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 undefined ($0.00), 0.00% of the pool.
+Stake 0.00 undefined
+Unstake 0.00 undefined
+Claim 0.00 STBZ
+
+
+zpa-sUSD
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 zpa-sUSD ($0.00)
+STBZ Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 undefined ($0.00), 0.00% of the pool.
+Stake 0.00 undefined
+Unstake 0.00 undefined
+Claim 0.00 STBZ
+
+
+zpa-DAI
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 zpa-DAI ($0.00)
+STBZ Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 undefined ($0.00), NaN% of the pool.
+Stake 0.00 undefined
+Unstake 0.00 undefined
+Claim 0.00 STBZ
+
+
+zs-USD
+ Price: $0.00 Market Cap: $0.00 
+Staked: 339440.6881 zs-USD ($0.00)
+STBZ Per Week: 672.34 ($900.94)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 undefined ($0.00), 0.00% of the pool.
+Stake 0.00 undefined
+Unstake 0.00 undefined
+Claim 0.00 STBZ
+
+
+zs-BTC
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 zs-BTC ($0.00)
+STBZ Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 undefined ($0.00), NaN% of the pool.
+Stake 0.00 undefined
+Unstake 0.00 undefined
+Claim 0.00 STBZ
+
+
+zs-SGR
+ Price: $0.00 Market Cap: $0.00 
+Staked: 394342.9531 zs-SGR ($0.00)
+STBZ Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 undefined ($0.00), 0.00% of the pool.
+Stake 0.00 undefined
+Unstake 0.00 undefined
+Claim 0.00 STBZ
+
+
+zs-BMSGR
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 zs-BMSGR ($0.00)
+STBZ Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 undefined ($0.00), NaN% of the pool.
+Stake 0.00 undefined
+Unstake 0.00 undefined
+Claim 0.00 STBZ
+
+
+zs-FRAX
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 zs-FRAX ($0.00)
+STBZ Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 undefined ($0.00), NaN% of the pool.
+Stake 0.00 undefined
+Unstake 0.00 undefined
+Claim 0.00 STBZ
+
+
+zs-UST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 2195.8056 zs-UST ($0.00)
+STBZ Per Week: 110.17 ($147.62)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 undefined ($0.00), 0.00% of the pool.
+Stake 0.00 undefined
+Unstake 0.00 undefined
+Claim 0.00 STBZ
+
+
+zs-ETH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1763.1580 zs-ETH ($0.00)
+STBZ Per Week: 447.47 ($599.61)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 undefined ($0.00), 0.00% of the pool.
+Stake 0.00 undefined
+Unstake 0.00 undefined
+Claim 0.00 STBZ
+
+
+zs-XUSD
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 zs-XUSD ($0.00)
+STBZ Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 undefined ($0.00), NaN% of the pool.
+Stake 0.00 undefined
+Unstake 0.00 undefined
+Claim 0.00 STBZ
+
+
+zs-XUSD2
+ Price: $0.00 Market Cap: $0.00 
+Staked: 82200.0756 zs-XUSD2 ($0.00)
+STBZ Per Week: 335.04 ($448.96)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 undefined ($0.00), 0.00% of the pool.
+Stake 0.00 undefined
+Unstake 0.00 undefined
+Claim 0.00 STBZ
+
+
+zs-tsBTC
+ Price: $0.00 Market Cap: $0.00 
+Staked: 6.9380 zs-tsBTC ($0.00)
+STBZ Per Week: 784.77 ($1,051.59)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 undefined ($0.00), 0.00% of the pool.
+Stake 0.00 undefined
+Unstake 0.00 undefined
+Claim 0.00 STBZ
+
+
+zs-AMPL
+ Price: $0.00 Market Cap: $0.00 
+Staked: 64868.7427 zs-AMPL ($0.00)
+STBZ Per Week: 222.62 ($298.31)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 undefined ($0.00), 0.00% of the pool.
+Stake 0.00 undefined
+Unstake 0.00 undefined
+Claim 0.00 STBZ
+
+
+zs-FEI
+ Price: $0.00 Market Cap: $0.00 
+Staked: 65285.3485 zs-FEI ($0.00)
+STBZ Per Week: 559.92 ($750.29)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 undefined ($0.00), 0.00% of the pool.
+Stake 0.00 undefined
+Unstake 0.00 undefined
+Claim 0.00 STBZ
+

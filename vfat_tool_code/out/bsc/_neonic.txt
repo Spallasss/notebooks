@@ -1,0 +1,336 @@
+INFO  : https://neonic.finance
+**********************************************************************************
+
+Mon Aug 23 2021 14:12:38 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+*** Warning ***
+Pool 14 has been initialized with a 99.99% deposit fee. Please take caution when using this protocol.
+
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 18 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[NEON]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.53 TVL: $5,611.70
+NEON Price: $0.002855
+WBNB Price: $484.42
+Staked: 2104.2182 Cake-LP ($5,322.85)
+NEON Per Week: 54919.41 ($156.78)
+APR: Day 0.42% Week 2.95% Year 153.16%
+You are staking 0.00 [NEON]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NEON]-[WBNB] Cake LP
+Unstake 0.00 [NEON]-[WBNB] Cake LP
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[NEON]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.12 TVL: $5,645.85
+NEON Price: $0.002855
+BUSD Price: $1.00
+Staked: 47015.8228 Cake-LP ($5,459.84)
+NEON Per Week: 91532.35 ($261.30)
+APR: Day 0.68% Week 4.79% Year 248.86%
+You are staking 0.00 [NEON]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NEON]-[BUSD] Cake LP
+Unstake 0.00 [NEON]-[BUSD] Cake LP
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[Cake]-[NEON] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.55 TVL: $2,268.02
+Cake Price: $24.98
+NEON Price: $0.002855
+Staked: 3824.8483 Cake-LP ($2,102.38)
+NEON Per Week: 18306.47 ($52.26)
+APR: Day 0.36% Week 2.49% Year 129.26%
+You are staking 0.00 [Cake]-[NEON] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[NEON] Cake LP
+Unstake 0.00 [Cake]-[NEON] Cake LP
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[ETH]-[NEON] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6.36 TVL: $2,041.10
+ETH Price: $3,323.71
+NEON Price: $0.002855
+Staked: 299.1919 Cake-LP ($1,903.11)
+NEON Per Week: 18306.47 ($52.26)
+APR: Day 0.39% Week 2.75% Year 142.79%
+You are staking 0.00 [ETH]-[NEON] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[NEON] Cake LP
+Unstake 0.00 [ETH]-[NEON] Cake LP
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BTCB]-[NEON] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $24.64 TVL: $1,031.31
+BTCB Price: $50,135.00
+NEON Price: $0.002855
+Staked: 28.9374 Cake-LP ($713.14)
+NEON Per Week: 18306.47 ($52.26)
+APR: Day 1.05% Week 7.33% Year 381.06%
+You are staking 0.00 [BTCB]-[NEON] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[NEON] Cake LP
+Unstake 0.00 [BTCB]-[NEON] Cake LP
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+NEON
+ Price: $0.002855 Market Cap: $23,084.97 
+[%]
+Staked: 3577143.3134 NEON ($10,211.70)
+NEON Per Week: 91532.35 ($261.30)
+APR: Day 0.37% Week 2.56% Year 133.06%
+You are staking 0.00 NEON ($0.00), 0.00% of the pool.
+Stake 0.00 NEON
+Unstake 0.00 NEON
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.52 TVL: $3,329,330.87
+WBNB Price: $484.42
+BUSD Price: $1.00
+Staked: 41.3752 Cake-LP ($2,669.48)
+NEON Per Week: 9153.23 ($26.13)
+APR: Day 0.14% Week 0.98% Year 50.90%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[Cake]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $15.66 TVL: $179,956.06
+Cake Price: $24.98
+BUSD Price: $1.00
+Staked: 370.4488 Cake-LP ($5,802.33)
+NEON Per Week: 9153.23 ($26.13)
+APR: Day 0.06% Week 0.45% Year 23.42%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[ETH]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $132.98 TVL: $65,582.72
+ETH Price: $3,323.71
+BUSD Price: $1.00
+Staked: 30.1372 Cake-LP ($4,007.51)
+NEON Per Week: 9153.23 ($26.13)
+APR: Day 0.09% Week 0.65% Year 33.91%
+You are staking 0.00 [ETH]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[BUSD] Cake LP
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[BTCB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $496.07 TVL: $58,605.53
+BTCB Price: $50,135.00
+BUSD Price: $1.00
+Staked: 4.0743 Cake-LP ($2,021.11)
+NEON Per Week: 9153.23 ($26.13)
+APR: Day 0.18% Week 1.29% Year 67.23%
+You are staking 0.00 [BTCB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[BUSD] Cake LP
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+ETH
+ Price: $3,323.71 Market Cap: $4,337,441,550.00 
+[%]
+Staked: 0.3510 ETH ($1,166.51)
+NEON Per Week: 4576.62 ($13.06)
+APR: Day 0.16% Week 1.12% Year 58.24%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+Cake
+ Price: $24.98 Market Cap: $10,394,646,608.69 
+[%]
+Staked: 24.3064 Cake ($607.17)
+NEON Per Week: 4576.62 ($13.06)
+APR: Day 0.31% Week 2.15% Year 111.89%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[USDT]-[NEON] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.11 TVL: $1,818.05
+USDT Price: $1.00
+NEON Price: $0.002855
+Staked: 14056.5593 Cake-LP ($1,521.24)
+NEON Per Week: 18306.47 ($52.26)
+APR: Day 0.49% Week 3.44% Year 178.64%
+You are staking 0.00 [USDT]-[NEON] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[NEON] Cake LP
+Unstake 0.00 [USDT]-[NEON] Cake LP
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[DOT]-[NEON] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.57 TVL: $1,087.89
+DOT Price: $28.00
+NEON Price: $0.002855
+Staked: 1755.8397 Cake-LP ($1,005.63)
+NEON Per Week: 18306.47 ($52.26)
+APR: Day 0.74% Week 5.20% Year 270.23%
+You are staking 0.00 [DOT]-[NEON] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[NEON] Cake LP
+Unstake 0.00 [DOT]-[NEON] Cake LP
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[DOT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11.62 TVL: $36,732.39
+DOT Price: $28.00
+BUSD Price: $1.00
+Staked: 0.0332 Cake-LP ($0.39)
+NEON Per Week: 457.66 ($1.31)
+APR: Day 48.36% Week 338.51% Year 17602.65%
+You are staking 0.00 [DOT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[BUSD] Cake LP - Fee 99.99%
+Unstake 0.00 [DOT]-[BUSD] Cake LP
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[ETH]-[BTCB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $26,489.21 TVL: $831,412.02
+ETH Price: $3,323.71
+BTCB Price: $50,135.00
+Staked: 0.0508 Cake-LP ($1,345.66)
+NEON Per Week: 9153.23 ($26.13)
+APR: Day 0.28% Week 1.94% Year 100.97%
+You are staking 0.00 [ETH]-[BTCB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BTCB] Cake LP - Fee 5%
+Unstake 0.00 [ETH]-[BTCB] Cake LP
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[ETH]-[BETH] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6,609.28 TVL: $1,607,655.61
+ETH Price: $3,323.71
+BETH Price: $3,207.61
+Staked: 0.2536 Cake-LP ($1,675.97)
+NEON Per Week: 9153.23 ($26.13)
+APR: Day 0.22% Week 1.56% Year 81.07%
+You are staking 0.00 [ETH]-[BETH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BETH] Cake LP - Fee 5%
+Unstake 0.00 [ETH]-[BETH] Cake LP
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+BAKE
+ Price: $3.14 Market Cap: $2,289,774,997.63 
+[%]
+Staked: 431.5008 BAKE ($1,354.91)
+NEON Per Week: 9153.23 ($26.13)
+APR: Day 0.28% Week 1.93% Year 100.28%
+You are staking 0.00 BAKE ($0.00), 0.00% of the pool.
+Stake 0.00 BAKE - Fee 5%
+Unstake 0.00 BAKE
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $48,890.94

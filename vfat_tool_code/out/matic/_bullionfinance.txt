@@ -1,0 +1,297 @@
+***************************** POLYGON NETWORK ***************************************
+
+
+Website
+ -
+
+Twitter
+ -
+
+Telegram
+
+
+
+Website Farming Launching Soon: 
+https://bullionfinance.xyz
+
+
+LINKS:
+  * 
+BUY GOLD FROM QUICKSWAP
+
+  * 
+BUY GOLD FROM DFYN
+
+  * 
+BUY GOLD FROM SUSHI
+
+  * 
+ADD LIQUIDITY QUICKSWAP (MATIC - GOLD)
+
+  * 
+ADD LIQUIDITY QUICKSWAP (USDC - GOLD)
+
+  * 
+ADD LIQUIDITY DFYN (MATIC - GOLD)
+
+  * 
+ADD LIQUIDITY DFYN (USDC - GOLD)
+
+  * 
+ADD LIQUIDITY SUSHI (MATIC - GOLD)
+
+  * 
+ADD LIQUIDITY SUSHI (USDC - GOLD)
+
+
+
+TOKEN:
+  * Symbol: 
+GOLD
+
+  * No Transfer Fee
+
+FARMING:
+  * Masterchef: 
+0x8c18b6e5ED35Ec3Bfde9fbd6fF62a518E2221a44
+
+  * 
+Farming Starts on Block: 16939517 — Mon July 12 2021 04:30:00 GMT
+
+  * First Harvest Start: 
+block 16939517
+
+  * Harvest Cooldowns:
+      - Native:     2 Hours
+      - Non-Native: 2 Hours
+
+DEPOSIT FEES:
+  * No Fees On Native Farms
+  * 3% Fees On Non-Native Farms
+
+NOTES:
+  * Use 6% slippage when swapping tokens due to transfer fee.
+
+
+                          *** IMPORTANT ***
+*** ATTEMPTING TO HARVEST EARLY WILL MINT GOLD AND STORE IN MASTERCHEF ***
+*** NO GOLD IS LOST!!!                                                 ***
+*** YOU WILL BE PAID YOUR FULL BALANCE ON NEXT SUCCESSFUL HARVEST      ***
+
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 15:55:41 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 28 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+15 - 
+[WMATIC]-[GOLD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.16 TVL: $64.95
+WMATIC Price: $1.64
+GOLD Price: $0.003754
+Staked: 52.8914 UNI-V2 ($8.65)
+GOLD Per Week: 1125.00 ($4.22)
+APR: Day 6.97% Week 48.82% Year 2538.66%
+You are staking 0.00 [WMATIC]-[GOLD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[GOLD] Uni LP
+Unstake 0.00 [WMATIC]-[GOLD] Uni LP
+Claim 0.00 GOLD ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+GOLD
+ Price: $0.003754 Market Cap: $375.00 
+[%]
+Staked: 21451.4258 GOLD ($80.54)
+GOLD Per Week: 2250.00 ($8.45)
+APR: Day 1.50% Week 10.49% Year 545.42%
+You are staking 0.00 GOLD ($0.00), 0.00% of the pool.
+Stake 0.00 GOLD
+Unstake 0.00 GOLD
+Claim 0.00 GOLD ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+WMATIC
+ Price: $1.64 Market Cap: $603,312,470.12 
+[%]
+Staked: 135.8000 WMATIC ($222.71)
+GOLD Per Week: 900.00 ($3.38)
+APR: Day 0.22% Week 1.52% Year 78.89%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 3%
+Unstake 0.00 WMATIC
+Claim 0.00 GOLD ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+USDC
+ Price: $1.00 Market Cap: $1,056,465,910.10 
+[%]
+Staked: 178.2201 USDC ($177.67)
+GOLD Per Week: 900.00 ($3.38)
+APR: Day 0.27% Week 1.90% Year 98.89%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 3%
+Unstake 0.00 USDC
+Claim 0.00 GOLD ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+USDT
+ Price: $1.00 Market Cap: $322,958,787.81 
+[%]
+Staked: 297.3030 USDT ($296.91)
+GOLD Per Week: 900.00 ($3.38)
+APR: Day 0.16% Week 1.14% Year 59.18%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 3%
+Unstake 0.00 USDT
+Claim 0.00 GOLD ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+WETH
+ Price: $3,335.09 Market Cap: $2,048,052,545.47 
+[%]
+Staked: 0.1023 WETH ($341.06)
+GOLD Per Week: 900.00 ($3.38)
+APR: Day 0.14% Week 0.99% Year 51.52%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 3%
+Unstake 0.00 WETH
+Claim 0.00 GOLD ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+WBTC
+ Price: $50,107.00 Market Cap: $697,934,330.53 
+[%]
+Staked: 0.0062 WBTC ($311.74)
+GOLD Per Week: 900.00 ($3.38)
+APR: Day 0.15% Week 1.08% Year 56.36%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 3%
+Unstake 0.00 WBTC
+Claim 0.00 GOLD ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+AAVE
+ Price: $411.21 Market Cap: $156,393,269.32 
+[%]
+Staked: 0.8349 AAVE ($343.30)
+GOLD Per Week: 900.00 ($3.38)
+APR: Day 0.14% Week 0.98% Year 51.18%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 3%
+Unstake 0.00 AAVE
+Claim 0.00 GOLD ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[WMATIC]-[GOLD] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.16 TVL: $84.95
+WMATIC Price: $1.68
+GOLD Price: $0.003754
+Staked: 83.7332 DFYNLP ($13.81)
+GOLD Per Week: 1125.00 ($4.22)
+APR: Day 4.37% Week 30.59% Year 1590.66%
+You are staking 0.00 [WMATIC]-[GOLD] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[GOLD] DFYN LP
+Unstake 0.00 [WMATIC]-[GOLD] DFYN LP
+Claim 0.00 GOLD ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[WMATIC]-[GOLD] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.16 TVL: $69.23
+WMATIC Price: $1.64
+GOLD Price: $0.003754
+Staked: 64.6870 SLP ($10.52)
+GOLD Per Week: 1125.00 ($4.22)
+APR: Day 5.73% Week 40.14% Year 2087.19%
+You are staking 0.00 [WMATIC]-[GOLD] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[GOLD] SLP
+Unstake 0.00 [WMATIC]-[GOLD] SLP
+Claim 0.00 GOLD ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[USDC]-[GOLD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $128,903.92 TVL: $56.50
+USDC Price: $1.00
+GOLD Price: $0.003754
+Staked: 0.0000 UNI-V2 ($5.98)
+GOLD Per Week: 1125.00 ($4.22)
+APR: Day 10.10% Week 70.67% Year 3674.88%
+You are staking 0.00 [USDC]-[GOLD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[GOLD] Uni LP
+Unstake 0.00 [USDC]-[GOLD] Uni LP
+Claim 0.00 GOLD ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+[USDC]-[GOLD] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $124,326.57 TVL: $40.20
+USDC Price: $1.00
+GOLD Price: $0.003754
+Staked: 0.0001 DFYNLP ($9.31)
+GOLD Per Week: 1125.00 ($4.22)
+APR: Day 6.48% Week 45.35% Year 2358.32%
+You are staking 0.00 [USDC]-[GOLD] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[GOLD] DFYN LP
+Unstake 0.00 [USDC]-[GOLD] DFYN LP
+Claim 0.00 GOLD ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+[USDC]-[GOLD] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $125,177.62 TVL: $56.04
+USDC Price: $1.00
+GOLD Price: $0.003754
+Staked: 0.0001 SLP ($9.21)
+GOLD Per Week: 1125.00 ($4.22)
+APR: Day 6.55% Week 45.85% Year 2384.40%
+You are staking 0.00 [USDC]-[GOLD] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[GOLD] SLP
+Unstake 0.00 [USDC]-[GOLD] SLP
+Claim 0.00 GOLD ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,831.41

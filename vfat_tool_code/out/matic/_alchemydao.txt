@@ -1,0 +1,47 @@
+INFO  : https://polygon.alchemydao.com
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:24:06 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+[WMATIC]-[ALCH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.77 TVL: $2,105.71
+WMATIC Price: $1.66
+ALCH Price: $0.09
+Staked: 2637.0725 UNI-V2 ($2,037.13)
+ALCH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WMATIC]-[ALCH] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WMATIC]-[ALCH] Uni LP
+Unstake 0.000000 [WMATIC]-[ALCH] Uni LP
+Claim 0.000000 ALCH ($0.00)
+Revoke (set approval to 0)
+Exit
+ALCH
+ Price: $0.09 Market Cap: $13,119.12 
+[%]
+Staked: 104219.4062 ALCH ($9,012.05)
+ALCH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 ALCH $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 ALCH
+Unstake 0.000000 ALCH
+Claim 0.000000 ALCH ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $11,049.18

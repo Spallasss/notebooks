@@ -1,0 +1,211 @@
+INFO  : https://yodaswap.finance/
+**********************************************************************************
+
+Mon Aug 23 2021 13:47:52 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 12 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.52 TVL: $3,329,316.13
+WBNB Price: $483.90
+BUSD Price: $1.00
+Staked: 13.8977 Cake-LP ($896.66)
+YODA Per Week: 2077.56 ($0.51)
+APR: Day 0.01% Week 0.06% Year 2.96%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 YODA ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,901.81 TVL: $1,952,837.98
+BTCB Price: $50,221.00
+WBNB Price: $483.90
+Staked: 0.0014 Cake-LP ($15.47)
+YODA Per Week: 2077.56 ($0.51)
+APR: Day 0.47% Week 3.30% Year 171.83%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 YODA ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,857.95 TVL: $3,517,610.96
+ETH Price: $3,323.40
+WBNB Price: $483.90
+Staked: 0.0080 Cake-LP ($22.94)
+YODA Per Week: 2077.56 ($0.51)
+APR: Day 0.32% Week 2.23% Year 115.88%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 YODA ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $260.72 TVL: $8,043,036.75
+Cake Price: $25.01
+WBNB Price: $483.90
+Staked: 0.0518 Cake-LP ($13.50)
+YODA Per Week: 1385.04 ($0.34)
+APR: Day 0.36% Week 2.52% Year 131.27%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 YODA ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BDO]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11.02 TVL: $182,670.82
+BDO Price: $0.05
+WBNB Price: $483.90
+Staked: 6.7674 Cake-LP ($74.55)
+YODA Per Week: 1385.04 ($0.34)
+APR: Day 0.07% Week 0.46% Year 23.77%
+You are staking 0.00 [BDO]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BDO]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BDO]-[WBNB] Cake LP
+Claim 0.00 YODA ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WBNB
+ Price: $483.90 Market Cap: $3,428,976,346.54 
+[%]
+Staked: 2.6002 WBNB ($1,258.23)
+YODA Per Week: 692.52 ($0.17)
+APR: Day 0.00% Week 0.01% Year 0.70%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 YODA ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+BUSD
+ Price: $1.00 Market Cap: $4,199,386,216.23 
+[%]
+Staked: 9.7024 BUSD ($9.70)
+YODA Per Week: 692.52 ($0.17)
+APR: Day 0.25% Week 1.76% Year 91.36%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 YODA ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+BTCB
+ Price: $50,221.00 Market Cap: $4,293,945,721.00 
+[%]
+Staked: 0.0002 BTCB ($8.04)
+YODA Per Week: 692.52 ($0.17)
+APR: Day 0.30% Week 2.12% Year 110.16%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 YODA ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+ETH
+ Price: $3,323.40 Market Cap: $4,337,037,000.00 
+[%]
+Staked: 0.0043 ETH ($14.26)
+YODA Per Week: 692.52 ($0.17)
+APR: Day 0.17% Week 1.19% Year 62.13%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 YODA ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+YODA
+ Price: $0.00 Market Cap: $0.00 
+Staked: 2804341.1814 YODA ($0.00)
+YODA Per Week: 34625.95 ($8.52)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 YODA ($0.00), NaN% of the pool.
+Stake 0.00 YODA
+Unstake 0.00 YODA
+Claim 0.00 YODA ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[YODA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.75 TVL: $183.46
+YODA Price: $0.000246
+WBNB Price: $483.90
+Staked: 242.6637 Cake-LP ($181.74)
+YODA Per Week: 83102.29 ($20.45)
+APR: Day 1.61% Week 11.25% Year 585.09%
+You are staking 0.00 [YODA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [YODA]-[WBNB] Cake LP
+Unstake 0.00 [YODA]-[WBNB] Cake LP
+Claim 0.00 YODA ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[YODA]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $220.56
+YODA Price: $0.000246
+BUSD Price: $1.00
+Staked: 4860.6676 Cake-LP ($161.57)
+YODA Per Week: 51938.93 ($12.78)
+APR: Day 1.13% Week 7.91% Year 411.34%
+You are staking 0.00 [YODA]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [YODA]-[BUSD] Cake LP
+Unstake 0.00 [YODA]-[BUSD] Cake LP
+Claim 0.00 YODA ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $2,656.65

@@ -1,0 +1,81 @@
+INFO  : https://nh.greenbelt.finance
+*****************************************************************************************
+
+Mon Aug 23 2021 14:34:18 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 12 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WBNB]-[NH] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.92 TVL: $50.38
+WBNB Price: $484.25
+NH Price: $0.000386
+Staked: 50.3114 Cake-LP ($46.40)
+NH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[NH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[NH] Cake LP
+Unstake 0.00 [WBNB]-[NH] Cake LP
+Claim 0.00 NH ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WBNB]-[LH] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.45 TVL: $255.65
+WBNB Price: $484.25
+LH Price: $0.0000980563
+Staked: 63.1166 Cake-LP ($28.42)
+NH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[LH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LH] Cake LP
+Unstake 0.00 [WBNB]-[LH] Cake LP
+Claim 0.00 NH ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+NH
+ Price: $0.000386 Market Cap: $2,105.90 
+[%]
+Staked: 300357.3793 NH ($115.87)
+NH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 NH ($0.00), 0.00% of the pool.
+Stake 0.00 NH
+Unstake 0.00 NH
+Claim 0.00 NH ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+LH
+ Price: $0.0000980563 Market Cap: $1,160.90 
+[%]
+Staked: 65130.5047 LH ($6.39)
+NH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 LH ($0.00), 0.00% of the pool.
+Stake 0.00 LH
+Unstake 0.00 LH
+Claim 0.00 NH ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $197.08

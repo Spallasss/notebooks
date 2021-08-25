@@ -1,0 +1,161 @@
+INFO  : https://kwil.polyquail.finance
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:20:05 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 10 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,603,231.04 TVL: $33,307,014.29
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($14.43)
+KWIL Per Week: 654.55 ($435.46)
+APR: Day 431.25% Week 3018.73% Year 156973.85%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 KWIL ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+WMATIC
+ Price: $1.64 Market Cap: $602,021,018.13 
+[%]
+Staked: 1.7639 WMATIC ($2.89)
+KWIL Per Week: 654.55 ($435.46)
+APR: Day 2150.45% Week 15053.13% Year 782763.01%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 KWIL ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+WBTC
+ Price: $50,036.00 Market Cap: $697,444,660.58 
+[%]
+Staked: 0.0000 WBTC ($0.00)
+KWIL Per Week: 654.55 ($435.46)
+APR: Day 12432622.31% Week 87028356.18% Year 4525474521.61%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 KWIL ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WETH
+ Price: $3,321.47 Market Cap: $2,028,762,111.88 
+[%]
+Staked: 0.0119 WETH ($39.43)
+KWIL Per Week: 654.55 ($435.46)
+APR: Day 157.77% Week 1104.36% Year 57426.55%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 KWIL ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+DAI
+ Price: $1.00 Market Cap: $375,664,195.61 
+[%]
+Staked: 41.0372 DAI ($40.97)
+KWIL Per Week: 654.55 ($435.46)
+APR: Day 151.83% Week 1062.81% Year 55266.14%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 KWIL ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+USDT
+ Price: $1.00 Market Cap: $314,846,345.41 
+[%]
+Staked: 0.0000 USDT ($0.00)
+KWIL Per Week: 654.55 ($435.46)
+APR: Day 6227936571.27% Week 43595555998.90% Year 2266968911942.97%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 KWIL ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+USDC
+ Price: $1.00 Market Cap: $1,046,750,536.29 
+[%]
+Staked: 33.6501 USDC ($33.60)
+KWIL Per Week: 654.55 ($435.46)
+APR: Day 185.16% Week 1296.13% Year 67398.95%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 KWIL ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[KWIL]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,846,068.97 TVL: $6,008.46
+KWIL Price: $0.67
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($19.67)
+KWIL Per Week: 4363.64 ($2,903.03)
+APR: Day 2108.14% Week 14756.97% Year 767362.19%
+You are staking 0.00 [KWIL]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KWIL]-[USDC] Uni LP
+Unstake 0.00 [KWIL]-[USDC] Uni LP
+Claim 0.00 KWIL ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[WMATIC]-[KWIL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.32 TVL: $8,814.91
+WMATIC Price: $1.64
+KWIL Price: $0.67
+Staked: 0.0000 UNI-V2 ($0.00)
+KWIL Per Week: 4363.64 ($2,903.03)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WMATIC]-[KWIL] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WMATIC]-[KWIL] Uni LP
+Unstake 0.00 [WMATIC]-[KWIL] Uni LP
+Claim 0.00 KWIL ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+KWIL
+ Price: $0.67 Market Cap: $19,958.36 
+[%]
+Staked: 1658.7713 KWIL ($1,103.55)
+KWIL Per Week: 1090.91 ($725.76)
+APR: Day 9.40% Week 65.77% Year 3419.84%
+You are staking 0.00 KWIL ($0.00), 0.00% of the pool.
+Stake 0.00 KWIL
+Unstake 0.00 KWIL
+Claim 0.00 KWIL ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,254.53

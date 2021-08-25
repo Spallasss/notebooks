@@ -1,0 +1,237 @@
+INFO  : https://xenomorph.finance/
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:34:57 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 14 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[XENO] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6,137.83 TVL: $0.09
+USDC Price: $1.00
+XENO Price: $0.0000089259
+Staked: 0.0000 UNI-V2 ($0.08)
+XENO Per Week: 15620.34 ($0.14)
+APR: Day 23.46% Week 164.23% Year 8539.93%
+You are staking 0.00 [USDC]-[XENO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[XENO] Uni LP
+Unstake 0.00 [USDC]-[XENO] Uni LP
+Claim 0.00 XENO ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+XENO
+ Price: $0.0000089259 Market Cap: $0.30 
+[%]
+Staked: 24110.3197 XENO ($0.22)
+XENO Per Week: 3905.08 ($0.03)
+APR: Day 2.31% Week 16.20% Year 842.23%
+You are staking 0.00 XENO ($0.00), 0.00% of the pool.
+Stake 0.00 XENO
+Unstake 0.00 XENO
+Claim 0.00 XENO ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+WBTC
+ Price: $50,090.00 Market Cap: $698,147,268.87 
+[%]
+Staked: 0.0000 WBTC ($1.19)
+XENO Per Week: 390.51 ($0.00)
+APR: Day 0.04% Week 0.29% Year 15.18%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 XENO ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WETH
+ Price: $3,325.22 Market Cap: $2,027,570,707.72 
+[%]
+Staked: 0.0000 WETH ($0.00)
+XENO Per Week: 390.51 ($0.00)
+APR: Day 5010.89% Week 35076.21% Year 1823962.74%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 XENO ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WMATIC
+ Price: $1.64 Market Cap: $602,058,473.06 
+[%]
+Staked: 14.4000 WMATIC ($23.62)
+XENO Per Week: 273.36 ($0.00)
+APR: Day 0.00% Week 0.01% Year 0.54%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 XENO ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+QUICK
+ Price: $726.91 Market Cap: $695,846,719.62 
+[%]
+Staked: 0.0036 QUICK ($2.65)
+XENO Per Week: 273.36 ($0.00)
+APR: Day 0.01% Week 0.09% Year 4.79%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 XENO ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+DAI
+ Price: $1.00 Market Cap: $376,699,668.04 
+[%]
+Staked: 22.9059 DAI ($22.89)
+XENO Per Week: 156.20 ($0.00)
+APR: Day 0.00% Week 0.01% Year 0.32%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 XENO ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+USDT
+ Price: $1.00 Market Cap: $315,032,588.68 
+[%]
+Staked: 0.0000 USDT ($0.00)
+XENO Per Week: 156.20 ($0.00)
+APR: Day 19933.43% Week 139533.99% Year 7255767.37%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 XENO ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[USDC]-[AAVE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $769,524,477.40 TVL: $68,462.10
+USDC Price: $1.00
+AAVE Price: $408.38
+Staked: 0.0000 UNI-V2 ($0.00)
+XENO Per Week: 273.36 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[AAVE] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[AAVE] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[AAVE] Uni LP
+Claim 0.00 XENO ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[SUSHI]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $118,448,519.92 TVL: $3.59
+SUSHI Price: $13.83
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+XENO Per Week: 156.20 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [SUSHI]-[USDC] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [SUSHI]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [SUSHI]-[USDC] Uni LP
+Claim 0.00 XENO ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,604,783.32 TVL: $33,318,178.33
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+XENO Per Week: 390.51 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 XENO ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,564,454,933,927.41 TVL: $34,043,761.82
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($19.48)
+XENO Per Week: 390.51 ($0.00)
+APR: Day 0.00% Week 0.02% Year 0.93%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 XENO ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[USDC]-[LINK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,647,443,845.50 TVL: $70.41
+USDC Price: $1.00
+LINK Price: $28.63
+Staked: 0.0000 UNI-V2 ($0.00)
+XENO Per Week: 273.36 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[LINK] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[LINK] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[LINK] Uni LP
+Claim 0.00 XENO ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[USDC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $74,976,407.14 TVL: $21,389,414.87
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+XENO Per Week: 390.51 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 XENO ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $70.12

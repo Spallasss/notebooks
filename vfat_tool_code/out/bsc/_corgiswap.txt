@@ -1,0 +1,289 @@
+INFO  : https://corgiswap.org
+******************************************************************************
+
+Mon Aug 23 2021 09:26:55 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 33 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+CORIS
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1007503.3652 CORIS ($0.00)
+CORIS Per Week: 14966.59 ($7,413.45)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CORIS ($0.00), NaN% of the pool.
+Stake 0.00 CORIS
+Unstake 0.00 CORIS
+Claim 0.00 CORIS ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[CORGI]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,464.47 TVL: $110,014.30
+CORGI Price: $0.0000005105
+WBNB Price: $486.99
+Staked: 10.8393 Cake-LP ($48,391.64)
+CORIS Per Week: 3741.65 ($1,853.36)
+APR: Day 0.55% Week 3.83% Year 199.16%
+You are staking 0.00 [CORGI]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CORGI]-[WBNB] Cake LP
+Unstake 0.00 [CORGI]-[WBNB] Cake LP
+Claim 0.00 CORIS ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[CORGI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $153.38 TVL: $3,612.08
+CORGI Price: $0.0000005105
+BUSD Price: $1.00
+Staked: 19.2535 Cake-LP ($2,953.03)
+CORIS Per Week: 374.16 ($185.34)
+APR: Day 0.90% Week 6.28% Year 326.36%
+You are staking 0.00 [CORGI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CORGI]-[BUSD] Cake LP
+Unstake 0.00 [CORGI]-[BUSD] Cake LP
+Claim 0.00 CORIS ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[WBNB]-[ROF] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6,071.50 TVL: $23,566.30
+WBNB Price: $486.99
+ROF Price: $0.000165
+Staked: 3.1682 Cake-LP ($19,235.70)
+CORIS Per Week: 3741.65 ($1,853.36)
+APR: Day 1.38% Week 9.64% Year 501.02%
+You are staking 0.00 [WBNB]-[ROF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[ROF] Cake LP
+Unstake 0.00 [WBNB]-[ROF] Cake LP
+Claim 0.00 CORIS ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[ROF]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $263.39 TVL: $1,788.29
+ROF Price: $0.000165
+BUSD Price: $1.00
+Staked: 6.7859 Cake-LP ($1,787.33)
+CORIS Per Week: 187.08 ($92.67)
+APR: Day 0.74% Week 5.18% Year 269.60%
+You are staking 0.00 [ROF]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ROF]-[BUSD] Cake LP
+Unstake 0.00 [ROF]-[BUSD] Cake LP
+Claim 0.00 CORIS ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[CORIS]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $32.20 TVL: $92,417.77
+CORIS Price: $0.50
+WBNB Price: $486.99
+Staked: 2859.5915 Cake-LP ($92,086.40)
+CORIS Per Week: 11224.94 ($5,560.09)
+APR: Day 0.86% Week 6.04% Year 313.97%
+You are staking 0.00 [CORIS]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CORIS]-[WBNB] Cake LP
+Unstake 0.00 [CORIS]-[WBNB] Cake LP
+Claim 0.00 CORIS ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[CORIS]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.42 TVL: $3,828.55
+CORIS Price: $0.50
+BUSD Price: $1.00
+Staked: 2695.2273 Cake-LP ($3,820.20)
+CORIS Per Week: 374.16 ($185.34)
+APR: Day 0.69% Week 4.85% Year 252.28%
+You are staking 0.00 [CORIS]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CORIS]-[BUSD] Cake LP
+Unstake 0.00 [CORIS]-[BUSD] Cake LP
+Claim 0.00 CORIS ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WSPP]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11,110,202.64 TVL: $343,426.05
+WSPP Price: $0.0000000002
+WBNB Price: $486.99
+Staked: 0.0002 Cake-LP ($2,186.67)
+CORIS Per Week: 37.42 ($18.53)
+APR: Day 0.12% Week 0.85% Year 44.07%
+You are staking 0.00 [WSPP]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WSPP]-[WBNB] Cake LP
+Unstake 0.00 [WSPP]-[WBNB] Cake LP
+Claim 0.00 CORIS ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[WBNB]-[AIAN] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.26 TVL: $1,416.88
+WBNB Price: $486.99
+AIAN Price: $0.008998
+Staked: 330.4005 Cake-LP ($1,406.30)
+CORIS Per Week: 187.08 ($92.67)
+APR: Day 0.94% Week 6.59% Year 342.65%
+You are staking 0.00 [WBNB]-[AIAN] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[AIAN] Cake LP
+Unstake 0.00 [WBNB]-[AIAN] Cake LP
+Claim 0.00 CORIS ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[CORIS]-[CORGI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $102.98 TVL: $4,250.78
+CORIS Price: $0.50
+CORGI Price: $0.0000005105
+Staked: 40.8010 Cake-LP ($4,201.61)
+CORIS Per Week: 374.16 ($185.34)
+APR: Day 0.63% Week 4.41% Year 229.38%
+You are staking 0.00 [CORIS]-[CORGI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CORIS]-[CORGI] Cake LP
+Unstake 0.00 [CORIS]-[CORGI] Cake LP
+Claim 0.00 CORIS ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[WBNB]-[GWSPP] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $84,421,533.05 TVL: $58,892.48
+WBNB Price: $486.99
+GWSPP Price: $3.13
+Staked: 0.0000 Cake-LP ($855.82)
+CORIS Per Week: 37.42 ($18.53)
+APR: Day 0.31% Week 2.17% Year 112.61%
+You are staking 0.00 [WBNB]-[GWSPP] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[GWSPP] Cake LP
+Unstake 0.00 [WBNB]-[GWSPP] Cake LP
+Claim 0.00 CORIS ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[BUBBLEGUM]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,342.88 TVL: $68,453.37
+BUBBLEGUM Price: $0.0000004573
+WBNB Price: $486.99
+Staked: 1.2613 Cake-LP ($1,693.73)
+CORIS Per Week: 187.08 ($92.67)
+APR: Day 0.78% Week 5.47% Year 284.50%
+You are staking 0.00 [BUBBLEGUM]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUBBLEGUM]-[WBNB] Cake LP
+Unstake 0.00 [BUBBLEGUM]-[WBNB] Cake LP
+Claim 0.00 CORIS ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+CORGI
+ Price: $0.0000005105 Market Cap: $3,830,802.66 
+[%]
+Staked: 176153229134.0208 CORGI ($89,924.08)
+CORIS Per Week: 7483.30 ($3,706.72)
+APR: Day 0.59% Week 4.12% Year 214.35%
+You are staking 0.00 CORGI ($0.00), 0.00% of the pool.
+Stake 0.00 CORGI
+Unstake 0.00 CORGI
+Claim 0.00 CORIS ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+[CORIS]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $31.25 TVL: $25,693.39
+CORIS Price: $0.50
+WBNB Price: $486.99
+Staked: 819.2081 CORIS-LP ($25,600.44)
+CORIS Per Week: 3741.65 ($1,853.36)
+APR: Day 1.03% Week 7.24% Year 376.46%
+You are staking 0.00 [CORIS]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CORIS]-[WBNB] Uni LP
+Unstake 0.00 [CORIS]-[WBNB] Uni LP
+Claim 0.00 CORIS ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+[CORGI]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,187.54 TVL: $28,260.39
+CORGI Price: $0.0000005105
+WBNB Price: $486.99
+Staked: 8.8416 CORIS-LP ($28,182.91)
+CORIS Per Week: 3741.65 ($1,853.36)
+APR: Day 0.94% Week 6.58% Year 341.96%
+You are staking 0.00 [CORGI]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CORGI]-[WBNB] Uni LP
+Unstake 0.00 [CORGI]-[WBNB] Uni LP
+Claim 0.00 CORIS ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $322,325.85

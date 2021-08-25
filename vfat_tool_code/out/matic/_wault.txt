@@ -1,0 +1,536 @@
+INFO  : https://app.wault.finance/polygon
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:39:30 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 28 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+W
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0100 W ($0.00)
+WEXpoly Per Week: 55641600.00 ($81,442.69)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 W ($0.00), NaN% of the pool.
+Stake 0.00 W
+Unstake 0.00 W
+Claim 0.00 WEXpoly ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+WEXpoly
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1176883862.1206 WEXpoly ($0.00)
+WEXpoly Per Week: 14837760.00 ($21,718.05)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WEXpoly ($0.00), NaN% of the pool.
+Stake 0.00 WEXpoly
+Unstake 0.00 WEXpoly
+Claim 0.00 WEXpoly ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[WEXpoly] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.10 TVL: $5,401,757.07
+WMATIC Price: $1.65
+WEXpoly Price: $0.001464
+Staked: 43776370.9204 WLP ($4,403,209.20)
+WEXpoly Per Week: 107573760.00 ($157,455.87)
+APR: Day 0.51% Week 3.58% Year 185.95%
+You are staking 0.00 [WMATIC]-[WEXpoly] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WEXpoly] Uni LP
+Unstake 0.00 [WMATIC]-[WEXpoly] Uni LP
+Claim 0.00 WEXpoly ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[WEXpoly] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $78,864.44 TVL: $1,046,535.15
+USDC Price: $1.00
+WEXpoly Price: $0.001464
+Staked: 13.1835 WLP ($1,039,711.83)
+WEXpoly Per Week: 20278272.00 ($29,681.34)
+APR: Day 0.41% Week 2.85% Year 148.45%
+You are staking 0.00 [USDC]-[WEXpoly] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WEXpoly] Uni LP
+Unstake 0.00 [USDC]-[WEXpoly] Uni LP
+Claim 0.00 WEXpoly ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WMATIC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $150.85 TVL: $4,650,656.89
+WMATIC Price: $1.65
+WETH Price: $3,327.08
+Staked: 30817.8421 WLP ($4,648,998.59)
+WEXpoly Per Week: 14837760.00 ($21,718.05)
+APR: Day 0.07% Week 0.47% Year 24.29%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 WEXpoly ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,735,609.67 TVL: $11,168,727.61
+WMATIC Price: $1.65
+USDC Price: $1.00
+Staked: 4.0721 WLP ($11,139,567.21)
+WEXpoly Per Week: 22256640.00 ($32,577.08)
+APR: Day 0.04% Week 0.29% Year 15.21%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 WEXpoly ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $117,654,566.83 TVL: $7,029,714.46
+USDC Price: $1.00
+WETH Price: $3,327.08
+Staked: 0.0597 WLP ($7,028,220.76)
+WEXpoly Per Week: 22256640.00 ($32,577.08)
+APR: Day 0.07% Week 0.46% Year 24.10%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 WEXpoly ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[WBTC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,594,075,393.85 TVL: $4,807,007.30
+WBTC Price: $50,168.00
+WETH Price: $3,327.08
+Staked: 0.0019 WLP ($4,802,118.45)
+WEXpoly Per Week: 7418880.00 ($10,859.03)
+APR: Day 0.03% Week 0.23% Year 11.76%
+You are staking 0.00 [WBTC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] Uni LP
+Unstake 0.00 [WBTC]-[WETH] Uni LP
+Claim 0.00 WEXpoly ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[WBTC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $45,255,103,342,169.38 TVL: $5,511,246.67
+WBTC Price: $50,168.00
+USDC Price: $1.00
+Staked: 0.0000 WLP ($5,509,317.61)
+WEXpoly Per Week: 19783680.00 ($28,957.40)
+APR: Day 0.08% Week 0.53% Year 27.33%
+You are staking 0.00 [WBTC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[USDC] Uni LP
+Unstake 0.00 [WBTC]-[USDC] Uni LP
+Claim 0.00 WEXpoly ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,000,882,528,563.98 TVL: $4,036,898.43
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 WLP ($4,014,395.44)
+WEXpoly Per Week: 13601280.00 ($19,908.21)
+APR: Day 0.07% Week 0.50% Year 25.79%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 WEXpoly ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[USDC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,999,010.37 TVL: $1,699,861.88
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.8481 WLP ($1,695,366.87)
+WEXpoly Per Week: 3214848.00 ($4,705.58)
+APR: Day 0.04% Week 0.28% Year 14.43%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 WEXpoly ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[WETH]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $116.65 TVL: $1,793,254.64
+WETH Price: $3,327.08
+DAI Price: $1.00
+Staked: 15118.4717 WLP ($1,763,562.52)
+WEXpoly Per Week: 7418880.00 ($10,859.03)
+APR: Day 0.09% Week 0.62% Year 32.02%
+You are staking 0.00 [WETH]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[DAI] Uni LP
+Unstake 0.00 [WETH]-[DAI] Uni LP
+Claim 0.00 WEXpoly ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WETH]-[AAVE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,351.33 TVL: $415,511.03
+WETH Price: $3,327.08
+AAVE Price: $410.05
+Staked: 176.3221 WLP ($414,592.14)
+WEXpoly Per Week: 2472960.00 ($3,619.68)
+APR: Day 0.12% Week 0.87% Year 45.40%
+You are staking 0.00 [WETH]-[AAVE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[AAVE] Uni LP
+Unstake 0.00 [WETH]-[AAVE] Uni LP
+Claim 0.00 WEXpoly ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[LINK]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $621.72 TVL: $1,019,743.76
+LINK Price: $28.72
+WETH Price: $3,327.08
+Staked: 1610.7971 WLP ($1,001,472.72)
+WEXpoly Per Week: 1978368.00 ($2,895.74)
+APR: Day 0.04% Week 0.29% Year 15.04%
+You are staking 0.00 [LINK]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LINK]-[WETH] Uni LP
+Unstake 0.00 [LINK]-[WETH] Uni LP
+Claim 0.00 WEXpoly ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[SNX]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $434.61 TVL: $231,800.80
+SNX Price: $13.91
+WETH Price: $3,327.08
+Staked: 533.2186 WLP ($231,742.85)
+WEXpoly Per Week: 1978368.00 ($2,895.74)
+APR: Day 0.18% Week 1.25% Year 64.98%
+You are staking 0.00 [SNX]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SNX]-[WETH] Uni LP
+Unstake 0.00 [SNX]-[WETH] Uni LP
+Claim 0.00 WEXpoly ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[WMATIC]-[PAUTO] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $97.55 TVL: $476,431.21
+WMATIC Price: $1.65
+PAUTO Price: $1,415.92
+Staked: 4878.3931 WLP ($475,869.75)
+WEXpoly Per Week: 989184.00 ($1,447.87)
+APR: Day 0.04% Week 0.30% Year 15.82%
+You are staking 0.00 [WMATIC]-[PAUTO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PAUTO] Uni LP
+Unstake 0.00 [WMATIC]-[PAUTO] Uni LP
+Claim 0.00 WEXpoly ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[WMATIC]-[BIFI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $92.36 TVL: $538,619.94
+WMATIC Price: $1.65
+BIFI Price: $1,258.73
+Staked: 5825.0605 WLP ($537,988.85)
+WEXpoly Per Week: 989184.00 ($1,447.87)
+APR: Day 0.04% Week 0.27% Year 13.99%
+You are staking 0.00 [WMATIC]-[BIFI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[BIFI] Uni LP
+Unstake 0.00 [WMATIC]-[BIFI] Uni LP
+Claim 0.00 WEXpoly ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[WMATIC]-[ELE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.10 TVL: $118,322.31
+WMATIC Price: $1.65
+ELE Price: $1.43
+Staked: 37925.8951 WLP ($117,716.32)
+WEXpoly Per Week: 989184.00 ($1,447.87)
+APR: Day 0.18% Week 1.23% Year 63.96%
+You are staking 0.00 [WMATIC]-[ELE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[ELE] Uni LP
+Unstake 0.00 [WMATIC]-[ELE] Uni LP
+Claim 0.00 WEXpoly ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[WMATIC]-[PolyDoge] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $204,846.68
+WMATIC Price: $1.65
+PolyDoge Price: $0.0000000063
+Staked: 977440992.3323 WLP ($204,552.87)
+WEXpoly Per Week: 741888.00 ($1,085.90)
+APR: Day 0.08% Week 0.53% Year 27.61%
+You are staking 0.00 [WMATIC]-[PolyDoge] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PolyDoge] Uni LP
+Unstake 0.00 [WMATIC]-[PolyDoge] Uni LP
+Claim 0.00 WEXpoly ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[WMATIC]-[WAULTx] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.31 TVL: $733,503.99
+WMATIC Price: $1.65
+WAULTx Price: $0.01
+Staked: 2323865.8073 WLP ($731,580.29)
+WEXpoly Per Week: 4204032.00 ($6,153.45)
+APR: Day 0.12% Week 0.84% Year 43.74%
+You are staking 0.00 [WMATIC]-[WAULTx] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WAULTx] Uni LP
+Unstake 0.00 [WMATIC]-[WAULTx] Uni LP
+Claim 0.00 WEXpoly ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[WMATIC]-[FISH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6.18 TVL: $175,724.30
+WMATIC Price: $1.65
+FISH Price: $5.53
+Staked: 26724.5346 WLP ($165,231.46)
+WEXpoly Per Week: 1236480.00 ($1,809.84)
+APR: Day 0.16% Week 1.10% Year 56.96%
+You are staking 0.00 [WMATIC]-[FISH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[FISH] Uni LP
+Unstake 0.00 [WMATIC]-[FISH] Uni LP
+Claim 0.00 WEXpoly ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[WMATIC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9,185,707.52 TVL: $1,566,207.37
+WMATIC Price: $1.65
+USDT Price: $1.00
+Staked: 0.1703 WLP ($1,564,695.10)
+WEXpoly Per Week: 7418880.00 ($10,859.03)
+APR: Day 0.10% Week 0.69% Year 36.09%
+You are staking 0.00 [WMATIC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDT] Uni LP
+Unstake 0.00 [WMATIC]-[USDT] Uni LP
+Claim 0.00 WEXpoly ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[WMATIC]-[ADDY] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $14.16 TVL: $164,203.98
+WMATIC Price: $1.65
+ADDY Price: $29.61
+Staked: 11362.3203 WLP ($160,936.47)
+WEXpoly Per Week: 1483776.00 ($2,171.81)
+APR: Day 0.19% Week 1.35% Year 70.17%
+You are staking 0.00 [WMATIC]-[ADDY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[ADDY] Uni LP
+Unstake 0.00 [WMATIC]-[ADDY] Uni LP
+Claim 0.00 WEXpoly ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[USDC]-[HONOR] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $292,064.01 TVL: $41,701.16
+USDC Price: $1.00
+HONOR Price: $0.02
+Staked: 0.1256 WLP ($36,673.43)
+WEXpoly Per Week: 1483776.00 ($2,171.81)
+APR: Day 0.85% Week 5.92% Year 307.94%
+You are staking 0.00 [USDC]-[HONOR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[HONOR] Uni LP
+Unstake 0.00 [USDC]-[HONOR] Uni LP
+Claim 0.00 WEXpoly ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[WBTC]-[WEXpoly] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,722,224.21 TVL: $281,685.50
+WBTC Price: $50,168.00
+WEXpoly Price: $0.001464
+Staked: 0.1634 WLP ($281,487.95)
+WEXpoly Per Week: 9891840.00 ($14,478.70)
+APR: Day 0.73% Week 5.14% Year 267.47%
+You are staking 0.00 [WBTC]-[WEXpoly] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WEXpoly] Uni LP
+Unstake 0.00 [WBTC]-[WEXpoly] Uni LP
+Claim 0.00 WEXpoly ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[WMATIC]-[PIRATEP] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.86 TVL: $98,857.91
+WMATIC Price: $1.65
+PIRATEP Price: $0.11
+Staked: 101842.2301 WLP ($87,458.21)
+WEXpoly Per Week: 2720256.00 ($3,981.64)
+APR: Day 0.65% Week 4.55% Year 236.74%
+You are staking 0.00 [WMATIC]-[PIRATEP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PIRATEP] Uni LP
+Unstake 0.00 [WMATIC]-[PIRATEP] Uni LP
+Claim 0.00 WEXpoly ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+[WEXpoly]-[PEAR] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.07 TVL: $60,677.60
+WEXpoly Price: $0.001464
+PEAR Price: $0.63
+Staked: 884609.3006 WLP ($60,348.99)
+WEXpoly Per Week: 3462144.00 ($5,067.55)
+APR: Day 1.20% Week 8.40% Year 436.65%
+You are staking 0.00 [WEXpoly]-[PEAR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WEXpoly]-[PEAR] Uni LP
+Unstake 0.00 [WEXpoly]-[PEAR] Uni LP
+Claim 0.00 WEXpoly ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+[GENX]-[WEXpoly] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.05 TVL: $177,488.91
+GENX Price: $0.37
+WEXpoly Price: $0.001464
+Staked: 3802648.3663 WLP ($177,021.82)
+WEXpoly Per Week: 19783680.00 ($28,957.40)
+APR: Day 2.34% Week 16.36% Year 850.62%
+You are staking 0.00 [GENX]-[WEXpoly] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GENX]-[WEXpoly] Uni LP
+Unstake 0.00 [GENX]-[WEXpoly] Uni LP
+Claim 0.00 WEXpoly ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $52,293,837.69

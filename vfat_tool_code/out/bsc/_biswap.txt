@@ -1,0 +1,1095 @@
+INFO  : https://biswap.org
+*****************************************************************************
+
+Mon Aug 23 2021 14:33:42 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 59 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+BSW
+ Price: $1.71 Market Cap: $152,642,773.55 
+[%]
+Staked: 51893259.9193 BSW ($88,737,474.46)
+BSW Per Week: 1801094.40 ($3,079,871.42)
+APR: Day 0.50% Week 3.47% Year 180.48%
+You are staking 0.00 BSW ($0.00), 0.00% of the pool.
+Stake 0.00 BSW
+Unstake 0.00 BSW
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[USDT]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.01 TVL: $67,894,227.21
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 33800534.7080 BSW-LP ($67,887,187.98)
+BSW Per Week: 181440.00 ($310,262.40)
+APR: Day 0.07% Week 0.46% Year 23.77%
+You are staking 0.00 [USDT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Uni LP
+Unstake 0.00 [USDT]-[BUSD] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[USDT]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $44.87 TVL: $48,693,876.10
+USDT Price: $1.00
+WBNB Price: $484.27
+Staked: 1079401.5973 BSW-LP ($48,436,222.37)
+BSW Per Week: 356832.00 ($610,182.72)
+APR: Day 0.18% Week 1.26% Year 65.51%
+You are staking 0.00 [USDT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Uni LP
+Unstake 0.00 [USDT]-[WBNB] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WBNB]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $45.06 TVL: $42,628,926.88
+WBNB Price: $484.27
+BUSD Price: $1.00
+Staked: 945067.9653 BSW-LP ($42,584,729.05)
+BSW Per Week: 308448.00 ($527,446.08)
+APR: Day 0.18% Week 1.24% Year 64.41%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDT]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $55,172,985.63
+USDT Price: $1.00
+USDC Price: $1.00
+Staked: 27500488.2981 BSW-LP ($55,033,556.99)
+BSW Per Week: 181440.00 ($310,262.40)
+APR: Day 0.08% Week 0.56% Year 29.32%
+You are staking 0.00 [USDT]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] Uni LP
+Unstake 0.00 [USDT]-[USDC] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[ETH]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $116.31 TVL: $45,978,238.15
+ETH Price: $3,323.57
+USDT Price: $1.00
+Staked: 395093.6250 BSW-LP ($45,952,758.05)
+BSW Per Week: 247968.00 ($424,025.28)
+APR: Day 0.13% Week 0.92% Year 47.98%
+You are staking 0.00 [ETH]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[USDT] Uni LP
+Unstake 0.00 [ETH]-[USDT] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[USDT]-[BTCB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $449.57 TVL: $43,654,811.80
+USDT Price: $1.00
+BTCB Price: $49,954.00
+Staked: 97089.7225 BSW-LP ($43,648,934.60)
+BSW Per Week: 254016.00 ($434,367.36)
+APR: Day 0.14% Week 1.00% Year 51.75%
+You are staking 0.00 [USDT]-[BTCB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BTCB] Uni LP
+Unstake 0.00 [USDT]-[BTCB] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[ETH]-[BTCB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $25,822.99 TVL: $141,161,058.27
+ETH Price: $3,323.57
+BTCB Price: $49,954.00
+Staked: 5460.5601 BSW-LP ($141,007,966.76)
+BSW Per Week: 362880.00 ($620,524.80)
+APR: Day 0.06% Week 0.44% Year 22.88%
+You are staking 0.00 [ETH]-[BTCB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BTCB] Uni LP
+Unstake 0.00 [ETH]-[BTCB] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[BTCB]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9,872.66 TVL: $72,081,881.69
+BTCB Price: $49,954.00
+WBNB Price: $484.27
+Staked: 7300.7004 BSW-LP ($72,077,327.50)
+BSW Per Week: 193536.00 ($330,946.56)
+APR: Day 0.07% Week 0.46% Year 23.88%
+You are staking 0.00 [BTCB]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Uni LP
+Unstake 0.00 [BTCB]-[WBNB] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[USDT]-[BSW] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.74 TVL: $15,302,641.17
+USDT Price: $1.00
+BSW Price: $1.71
+Staked: 5548142.4524 BSW-LP ($15,178,720.46)
+BSW Per Week: 435456.00 ($744,629.76)
+APR: Day 0.70% Week 4.91% Year 255.10%
+You are staking 0.00 [USDT]-[BSW] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BSW] Uni LP
+Unstake 0.00 [USDT]-[BSW] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[BSW]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $59.70 TVL: $28,413,539.12
+BSW Price: $1.71
+WBNB Price: $484.27
+Staked: 475294.8607 BSW-LP ($28,374,075.85)
+BSW Per Week: 701568.00 ($1,199,681.28)
+APR: Day 0.60% Week 4.23% Year 219.86%
+You are staking 0.00 [BSW]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BSW]-[WBNB] Uni LP
+Unstake 0.00 [BSW]-[WBNB] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[Cake]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $221.20 TVL: $26,005,113.04
+Cake Price: $24.99
+WBNB Price: $484.27
+Staked: 117512.6285 BSW-LP ($25,994,163.86)
+BSW Per Week: 211680.00 ($361,972.80)
+APR: Day 0.20% Week 1.39% Year 72.41%
+You are staking 0.00 [Cake]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Uni LP
+Unstake 0.00 [Cake]-[WBNB] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[ETH]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,552.50 TVL: $42,090,828.53
+ETH Price: $3,323.57
+WBNB Price: $484.27
+Staked: 16480.7573 BSW-LP ($42,067,190.96)
+BSW Per Week: 120960.00 ($206,841.60)
+APR: Day 0.07% Week 0.49% Year 25.57%
+You are staking 0.00 [ETH]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Uni LP
+Unstake 0.00 [ETH]-[WBNB] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[DAI]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $7,460,141.31
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 3728426.2036 BSW-LP ($7,459,950.20)
+BSW Per Week: 27216.00 ($46,539.36)
+APR: Day 0.09% Week 0.62% Year 32.44%
+You are staking 0.00 [DAI]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDT] Uni LP
+Unstake 0.00 [DAI]-[USDT] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[DOT]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $234.01 TVL: $10,811,527.33
+DOT Price: $27.99
+WBNB Price: $484.27
+Staked: 46193.4079 BSW-LP ($10,809,863.57)
+BSW Per Week: 42336.00 ($72,394.56)
+APR: Day 0.10% Week 0.67% Year 34.82%
+You are staking 0.00 [DOT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Uni LP
+Unstake 0.00 [DOT]-[WBNB] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[WBNB]-[UNI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $239.49 TVL: $7,005,824.29
+WBNB Price: $484.27
+UNI Price: $29.41
+Staked: 29244.9976 BSW-LP ($7,003,798.92)
+BSW Per Week: 42336.00 ($72,394.56)
+APR: Day 0.15% Week 1.03% Year 53.75%
+You are staking 0.00 [WBNB]-[UNI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[UNI] Uni LP
+Unstake 0.00 [WBNB]-[UNI] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[ADA]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $74.26 TVL: $11,117,059.06
+ADA Price: $2.82
+WBNB Price: $484.27
+Staked: 149667.2445 BSW-LP ($11,114,139.84)
+BSW Per Week: 63504.00 ($108,591.84)
+APR: Day 0.14% Week 0.98% Year 50.81%
+You are staking 0.00 [ADA]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Uni LP
+Unstake 0.00 [ADA]-[WBNB] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[TUSD]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $5,869,339.75
+TUSD Price: $1.00
+BUSD Price: $1.00
+Staked: 2938584.2993 BSW-LP ($5,867,513.06)
+BSW Per Week: 19353.60 ($33,094.66)
+APR: Day 0.08% Week 0.56% Year 29.33%
+You are staking 0.00 [TUSD]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TUSD]-[BUSD] Uni LP
+Unstake 0.00 [TUSD]-[BUSD] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[UST]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $7,456,995.02
+UST Price: $1.00
+BUSD Price: $1.00
+Staked: 3726608.4911 BSW-LP ($7,455,222.54)
+BSW Per Week: 27216.00 ($46,539.36)
+APR: Day 0.09% Week 0.62% Year 32.46%
+You are staking 0.00 [UST]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[BUSD] Uni LP
+Unstake 0.00 [UST]-[BUSD] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[LTC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $27.54 TVL: $4,029,524.73
+LTC Price: $187.89
+USDT Price: $1.00
+Staked: 146309.7064 BSW-LP ($4,029,099.61)
+BSW Per Week: 24192.00 ($41,368.32)
+APR: Day 0.15% Week 1.03% Year 53.39%
+You are staking 0.00 [LTC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LTC]-[USDT] Uni LP
+Unstake 0.00 [LTC]-[USDT] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[VAI]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.77 TVL: $2,296,151.16
+VAI Price: $0.78
+BUSD Price: $1.00
+Staked: 1294937.6019 BSW-LP ($2,294,984.32)
+BSW Per Week: 6048.00 ($10,342.08)
+APR: Day 0.06% Week 0.45% Year 23.43%
+You are staking 0.00 [VAI]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VAI]-[BUSD] Uni LP
+Unstake 0.00 [VAI]-[BUSD] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[XRP]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.44 TVL: $6,614,179.95
+XRP Price: $1.25
+WBNB Price: $484.27
+Staked: 133770.7469 BSW-LP ($6,613,194.28)
+BSW Per Week: 30240.00 ($51,710.40)
+APR: Day 0.11% Week 0.78% Year 40.66%
+You are staking 0.00 [XRP]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XRP]-[WBNB] Uni LP
+Unstake 0.00 [XRP]-[WBNB] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[DOGE]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,527,558.26 TVL: $4,767,164.76
+DOGE Price: $0.32
+WBNB Price: $484.27
+Staked: 1.8854 BSW-LP ($4,765,409.78)
+BSW Per Week: 30240.00 ($51,710.40)
+APR: Day 0.16% Week 1.09% Year 56.43%
+You are staking 0.00 [DOGE]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[WBNB] Uni LP
+Unstake 0.00 [DOGE]-[WBNB] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[WBNB]-[LINK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $236.77 TVL: $10,646,662.82
+WBNB Price: $484.27
+LINK Price: $28.73
+Staked: 44941.4100 BSW-LP ($10,640,988.90)
+BSW Per Week: 42336.00 ($72,394.56)
+APR: Day 0.10% Week 0.68% Year 35.38%
+You are staking 0.00 [WBNB]-[LINK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LINK] Uni LP
+Unstake 0.00 [WBNB]-[LINK] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[WBNB]-[BAKE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $78.82 TVL: $3,557,917.33
+WBNB Price: $484.27
+BAKE Price: $3.14
+Staked: 45094.4807 BSW-LP ($3,554,362.14)
+BSW Per Week: 30240.00 ($51,710.40)
+APR: Day 0.21% Week 1.45% Year 75.65%
+You are staking 0.00 [WBNB]-[BAKE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BAKE] Uni LP
+Unstake 0.00 [WBNB]-[BAKE] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[FIL]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $18.06 TVL: $3,127,960.75
+FIL Price: $80.59
+USDT Price: $1.00
+Staked: 173015.1043 BSW-LP ($3,124,965.02)
+BSW Per Week: 24192.00 ($41,368.32)
+APR: Day 0.19% Week 1.32% Year 68.84%
+You are staking 0.00 [FIL]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FIL]-[USDT] Uni LP
+Unstake 0.00 [FIL]-[USDT] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+[WBNB]-[XVS] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $270.32 TVL: $4,715,990.50
+WBNB Price: $484.27
+XVS Price: $37.34
+Staked: 17439.0093 BSW-LP ($4,714,077.31)
+BSW Per Week: 36288.00 ($62,052.48)
+APR: Day 0.19% Week 1.32% Year 68.45%
+You are staking 0.00 [WBNB]-[XVS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[XVS] Uni LP
+Unstake 0.00 [WBNB]-[XVS] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+[TWT]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $42.91 TVL: $2,339,127.70
+TWT Price: $0.94
+WBNB Price: $484.27
+Staked: 54500.9594 BSW-LP ($2,338,428.56)
+BSW Per Week: 12096.00 ($20,684.16)
+APR: Day 0.13% Week 0.88% Year 46.00%
+You are staking 0.00 [TWT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TWT]-[WBNB] Uni LP
+Unstake 0.00 [TWT]-[WBNB] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+[WBNB]-[BUNNY] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $122.76 TVL: $276,996.30
+WBNB Price: $484.27
+BUNNY Price: $7.68
+Staked: 2236.8189 BSW-LP ($274,583.43)
+BSW Per Week: 7862.40 ($13,444.70)
+APR: Day 0.70% Week 4.90% Year 254.61%
+You are staking 0.00 [WBNB]-[BUNNY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUNNY] Uni LP
+Unstake 0.00 [WBNB]-[BUNNY] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+[WEX]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.97 TVL: $478,754.40
+WEX Price: $0.008005
+WBNB Price: $484.27
+Staked: 120023.6924 BSW-LP ($476,811.58)
+BSW Per Week: 12096.00 ($20,684.16)
+APR: Day 0.62% Week 4.34% Year 225.58%
+You are staking 0.00 [WEX]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WEX]-[WBNB] Uni LP
+Unstake 0.00 [WEX]-[WBNB] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+[SAFEMOON]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,006.96 TVL: $353,255.84
+SAFEMOON Price: $0.0000020099
+WBNB Price: $484.27
+Staked: 117.1550 BSW-LP ($352,280.09)
+BSW Per Week: 2419.20 ($4,136.83)
+APR: Day 0.17% Week 1.17% Year 61.06%
+You are staking 0.00 [SAFEMOON]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SAFEMOON]-[WBNB] Uni LP
+Unstake 0.00 [SAFEMOON]-[WBNB] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+[WBNB]-[BabyDoge] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $89.29 TVL: $53,997.67
+WBNB Price: $484.27
+BabyDoge Price: $0.0000000012
+Staked: 597.6583 BSW-LP ($53,364.26)
+BSW Per Week: 1209.60 ($2,068.42)
+APR: Day 0.55% Week 3.88% Year 201.55%
+You are staking 0.00 [WBNB]-[BabyDoge] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BabyDoge] Uni LP
+Unstake 0.00 [WBNB]-[BabyDoge] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+34 - 
+[TRX]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13.24 TVL: $2,635,555.35
+TRX Price: $0.09
+WBNB Price: $484.27
+Staked: 198070.9116 BSW-LP ($2,623,256.70)
+BSW Per Week: 12096.00 ($20,684.16)
+APR: Day 0.11% Week 0.79% Year 41.00%
+You are staking 0.00 [TRX]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TRX]-[WBNB] Uni LP
+Unstake 0.00 [TRX]-[WBNB] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+35 - 
+[TKO]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $67.06 TVL: $703,901.69
+TKO Price: $2.31
+WBNB Price: $484.27
+Staked: 10495.5479 BSW-LP ($703,789.15)
+BSW Per Week: 7257.60 ($12,410.50)
+APR: Day 0.25% Week 1.76% Year 91.70%
+You are staking 0.00 [TKO]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TKO]-[WBNB] Uni LP
+Unstake 0.00 [TKO]-[WBNB] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+36 - 
+[WBNB]-[REEF] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7.02 TVL: $1,507,007.75
+WBNB Price: $484.27
+REEF Price: $0.03
+Staked: 214151.5292 BSW-LP ($1,504,080.24)
+BSW Per Week: 7862.40 ($13,444.70)
+APR: Day 0.13% Week 0.89% Year 46.48%
+You are staking 0.00 [WBNB]-[REEF] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[REEF] Uni LP
+Unstake 0.00 [WBNB]-[REEF] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+37 - 
+[WBNB]-[SFP] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $53.49 TVL: $924,286.79
+WBNB Price: $484.27
+SFP Price: $1.47
+Staked: 17243.1789 BSW-LP ($922,316.87)
+BSW Per Week: 10886.40 ($18,615.74)
+APR: Day 0.29% Week 2.02% Year 104.96%
+You are staking 0.00 [WBNB]-[SFP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[SFP] Uni LP
+Unstake 0.00 [WBNB]-[SFP] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+38 - 
+[SXP]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $84.84 TVL: $1,592,581.61
+SXP Price: $3.70
+WBNB Price: $484.27
+Staked: 18682.1790 BSW-LP ($1,585,085.50)
+BSW Per Week: 9072.00 ($15,513.12)
+APR: Day 0.14% Week 0.98% Year 50.89%
+You are staking 0.00 [SXP]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SXP]-[WBNB] Uni LP
+Unstake 0.00 [SXP]-[WBNB] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+39 - 
+[BSW]-[BFG] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.50 TVL: $2,231,714.35
+BSW Price: $1.71
+BFG Price: $0.03
+Staked: 4477454.4841 BSW-LP ($2,229,221.72)
+BSW Per Week: 60480.00 ($103,420.80)
+APR: Day 0.66% Week 4.64% Year 241.24%
+You are staking 0.00 [BSW]-[BFG] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BSW]-[BFG] Uni LP
+Unstake 0.00 [BSW]-[BFG] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+40 - 
+[ALPACA]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.38 TVL: $971,256.77
+ALPACA Price: $1.40
+BUSD Price: $1.00
+Staked: 406778.3463 BSW-LP ($970,021.67)
+BSW Per Week: 7257.60 ($12,410.50)
+APR: Day 0.18% Week 1.28% Year 66.53%
+You are staking 0.00 [ALPACA]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALPACA]-[BUSD] Uni LP
+Unstake 0.00 [ALPACA]-[BUSD] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+41 - 
+[MBOX]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $92.40 TVL: $227,020.72
+MBOX Price: $4.35
+WBNB Price: $484.27
+Staked: 2429.6946 BSW-LP ($224,496.80)
+BSW Per Week: 4838.40 ($8,273.66)
+APR: Day 0.53% Week 3.69% Year 191.64%
+You are staking 0.00 [MBOX]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MBOX]-[WBNB] Uni LP
+Unstake 0.00 [MBOX]-[WBNB] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+42 - 
+[BUSD]-[TPT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,053,473.40 TVL: $192,418.33
+BUSD Price: $1.00
+TPT Price: $0.04
+Staked: 0.0474 BSW-LP ($191,986.36)
+BSW Per Week: 1814.40 ($3,102.62)
+APR: Day 0.23% Week 1.62% Year 84.04%
+You are staking 0.00 [BUSD]-[TPT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[TPT] Uni LP
+Unstake 0.00 [BUSD]-[TPT] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+43 - 
+[ALPHA]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $46.87 TVL: $709,518.96
+ALPHA Price: $1.12
+WBNB Price: $484.27
+Staked: 15061.3426 BSW-LP ($705,927.01)
+BSW Per Week: 4838.40 ($8,273.66)
+APR: Day 0.17% Week 1.17% Year 60.95%
+You are staking 0.00 [ALPHA]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALPHA]-[WBNB] Uni LP
+Unstake 0.00 [ALPHA]-[WBNB] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+44 - 
+[BTT]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.94 TVL: $1,470,616.94
+BTT Price: $0.004445
+WBNB Price: $484.27
+Staked: 499311.8820 BSW-LP ($1,468,984.71)
+BSW Per Week: 6048.00 ($10,342.08)
+APR: Day 0.10% Week 0.70% Year 36.61%
+You are staking 0.00 [BTT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTT]-[WBNB] Uni LP
+Unstake 0.00 [BTT]-[WBNB] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+45 - 
+[ETH]-[SUSHI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $430.85 TVL: $2,301,638.31
+ETH Price: $3,323.57
+SUSHI Price: $13.88
+Staked: 5328.6192 BSW-LP ($2,295,812.17)
+BSW Per Week: 8467.20 ($14,478.91)
+APR: Day 0.09% Week 0.63% Year 32.79%
+You are staking 0.00 [ETH]-[SUSHI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[SUSHI] Uni LP
+Unstake 0.00 [ETH]-[SUSHI] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+46 - 
+[WBNB]-[BIFI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,566.01 TVL: $614,241.98
+WBNB Price: $484.27
+BIFI Price: $1,261.35
+Staked: 391.3541 BSW-LP ($612,863.89)
+BSW Per Week: 4838.40 ($8,273.66)
+APR: Day 0.19% Week 1.35% Year 70.20%
+You are staking 0.00 [WBNB]-[BIFI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BIFI] Uni LP
+Unstake 0.00 [WBNB]-[BIFI] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+47 - 
+[WIN]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.15 TVL: $627,007.53
+WIN Price: $0.000681
+WBNB Price: $484.27
+Staked: 543791.9942 BSW-LP ($626,784.64)
+BSW Per Week: 6048.00 ($10,342.08)
+APR: Day 0.24% Week 1.65% Year 85.80%
+You are staking 0.00 [WIN]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WIN]-[WBNB] Uni LP
+Unstake 0.00 [WIN]-[WBNB] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+48 - 
+[ZIL]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $14,820.04 TVL: $763,893.51
+ZIL Price: $0.11
+WBNB Price: $484.27
+Staked: 51.5014 BSW-LP ($763,253.33)
+BSW Per Week: 4838.40 ($8,273.66)
+APR: Day 0.15% Week 1.08% Year 56.37%
+You are staking 0.00 [ZIL]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZIL]-[WBNB] Uni LP
+Unstake 0.00 [ZIL]-[WBNB] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+49 - 
+[WBNB]-[BELT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $190.90 TVL: $336,871.17
+WBNB Price: $484.27
+BELT Price: $18.76
+Staked: 1763.3207 BSW-LP ($336,624.77)
+BSW Per Week: 3628.80 ($6,205.25)
+APR: Day 0.26% Week 1.84% Year 95.86%
+You are staking 0.00 [WBNB]-[BELT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BELT] Uni LP
+Unstake 0.00 [WBNB]-[BELT] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+50 - 
+[RABBIT]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.10 TVL: $608,775.18
+RABBIT Price: $0.30
+BUSD Price: $1.00
+Staked: 552778.0974 BSW-LP ($608,650.01)
+BSW Per Week: 18144.00 ($31,026.24)
+APR: Day 0.73% Week 5.10% Year 265.07%
+You are staking 0.00 [RABBIT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RABBIT]-[BUSD] Uni LP
+Unstake 0.00 [RABBIT]-[BUSD] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+51 - 
+[NABOX]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $304,942.63
+NABOX Price: $0.0000207640
+BUSD Price: $1.00
+Staked: 33369502.3015 BSW-LP ($304,437.56)
+BSW Per Week: 4838.40 ($8,273.66)
+APR: Day 0.39% Week 2.72% Year 141.32%
+You are staking 0.00 [NABOX]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NABOX]-[BUSD] Uni LP
+Unstake 0.00 [NABOX]-[BUSD] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+52 - 
+[SKILL]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $286.53 TVL: $173,009.08
+SKILL Price: $41.65
+WBNB Price: $484.27
+Staked: 601.5729 BSW-LP ($172,366.46)
+BSW Per Week: 4233.60 ($7,239.46)
+APR: Day 0.60% Week 4.20% Year 218.40%
+You are staking 0.00 [SKILL]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SKILL]-[WBNB] Uni LP
+Unstake 0.00 [SKILL]-[WBNB] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+53 - 
+[AXS]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $385.79 TVL: $415,783.51
+AXS Price: $76.49
+WBNB Price: $484.27
+Staked: 1076.1037 BSW-LP ($415,151.48)
+BSW Per Week: 6048.00 ($10,342.08)
+APR: Day 0.36% Week 2.49% Year 129.54%
+You are staking 0.00 [AXS]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AXS]-[WBNB] Uni LP
+Unstake 0.00 [AXS]-[WBNB] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+54 - 
+[WBNB]-[FARA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $84.66 TVL: $109,662.84
+WBNB Price: $484.27
+FARA Price: $3.62
+Staked: 1289.4681 BSW-LP ($109,169.59)
+BSW Per Week: 1209.60 ($2,068.42)
+APR: Day 0.27% Week 1.89% Year 98.52%
+You are staking 0.00 [WBNB]-[FARA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[FARA] Uni LP
+Unstake 0.00 [WBNB]-[FARA] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+55 - 
+[WBNB]-[DPET] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $94.99 TVL: $183,140.90
+WBNB Price: $484.27
+DPET Price: $4.60
+Staked: 1920.8898 BSW-LP ($182,457.38)
+BSW Per Week: 1209.60 ($2,068.42)
+APR: Day 0.16% Week 1.13% Year 58.95%
+You are staking 0.00 [WBNB]-[DPET] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[DPET] Uni LP
+Unstake 0.00 [WBNB]-[DPET] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+56 - 
+[SPS]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $27.58 TVL: $79,136.72
+SPS Price: $0.39
+WBNB Price: $484.27
+Staked: 2864.6690 BSW-LP ($79,000.02)
+BSW Per Week: 1209.60 ($2,068.42)
+APR: Day 0.37% Week 2.62% Year 136.15%
+You are staking 0.00 [SPS]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SPS]-[WBNB] Uni LP
+Unstake 0.00 [SPS]-[WBNB] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+57 - 
+[BEL]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $71.08 TVL: $715,612.18
+BEL Price: $2.60
+WBNB Price: $484.27
+Staked: 10056.1856 BSW-LP ($714,762.50)
+BSW Per Week: 6048.00 ($10,342.08)
+APR: Day 0.21% Week 1.45% Year 75.24%
+You are staking 0.00 [BEL]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BEL]-[WBNB] Uni LP
+Unstake 0.00 [BEL]-[WBNB] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+58 - 
+[C98]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $78.84 TVL: $466,723.20
+C98 Price: $3.20
+WBNB Price: $484.27
+Staked: 5915.3493 BSW-LP ($466,370.15)
+BSW Per Week: 6048.00 ($10,342.08)
+APR: Day 0.32% Week 2.22% Year 115.31%
+You are staking 0.00 [C98]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [C98]-[WBNB] Uni LP
+Unstake 0.00 [C98]-[WBNB] Uni LP
+Claim 0.00 BSW ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $830,740,216.99

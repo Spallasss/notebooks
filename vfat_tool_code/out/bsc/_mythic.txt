@@ -1,0 +1,87 @@
+INFO  : https://www.mythic.finance
+***********************************************************************************
+
+Mon Aug 23 2021 13:45:51 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 2 pools.
+
+Showing incentivized pools only.
+
+[MAGIC]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $36.54 TVL: $4,411.60
+MAGIC Price: $0.68
+WBNB Price: $483.88
+Staked: 118.9285 Cake-LP ($4,345.58)
+MYTHIC Per Week: 161.28 ($109.39)
+APR: Day 0.36% Week 2.52% Year 130.89%
+You are staking 0.00 [MAGIC]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Found 2 pools.
+
+Showing incentivized pools only.
+
+[WBNB]-[MYTHIC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $105.39 TVL: $33,872.59
+WBNB Price: $483.88
+MYTHIC Price: $5.28
+Staked: 156.8366 Cake-LP ($16,529.64)
+MAGIC Per Week: 201.60 ($136.73)
+APR: Day 0.12% Week 0.83% Year 43.01%
+You are staking 0.00 [WBNB]-[MYTHIC] Cake LP ($0.00), 0.00% of the pool.
+Found 3 pools.
+
+Showing incentivized pools only.
+
+0 - 
+MAGIC
+ Price: $0.68 Market Cap: $32,555.54 
+[%]
+Staked: 11037.6459 MAGIC ($7,486.18)
+MAGIC Per Week: 10.08 ($6.84)
+APR: Day 0.01% Week 0.09% Year 4.75%
+You are staking 0.00 MAGIC ($0.00), 0.00% of the pool.
+Stake 0.00 MAGIC
+Unstake 0.00 MAGIC
+Claim 0.00 MAGIC ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+MAGIC
+ Price: $0.68 Market Cap: $32,555.54 
+[%]
+Staked: 11037.6459 MAGIC ($7,486.18)
+MAGIC Per Week: 30.24 ($20.51)
+APR: Day 0.04% Week 0.27% Year 14.25%
+You are staking 0.00 MAGIC ($0.00), 0.00% of the pool.
+Stake 0.00 MAGIC
+Unstake 0.00 MAGIC
+Claim 0.00 MAGIC ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+MAGIC
+ Price: $0.68 Market Cap: $32,555.54 
+[%]
+Staked: 11037.6459 MAGIC ($7,486.18)
+MAGIC Per Week: 60.48 ($41.02)
+APR: Day 0.08% Week 0.55% Year 28.49%
+You are staking 0.00 MAGIC ($0.00), 0.00% of the pool.
+Stake 0.00 MAGIC
+Unstake 0.00 MAGIC
+Claim 0.00 MAGIC ($0.00)
+Staking or unstaking also claims rewards.

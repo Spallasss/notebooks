@@ -1,0 +1,44 @@
+INFO  : https://app.playludus.io
+**************************************************************************
+
+Mon Aug 23 2021 15:38:58 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[LUDUS]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $397.78 TVL: $47,688.52
+LUDUS Price: $9.69
+WETH Price: $3,332.98
+Staked: 63.4395 UNI-V2 ($25,234.80)
+LUDUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [LUDUS]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [LUDUS]-[WETH] Uni LP
+Unstake 0.000000 [LUDUS]-[WETH] Uni LP
+Claim 0.000000 LUDUS ($0.00)
+Revoke (set approval to 0)
+Exit
+LUDUS
+ Price: $9.69 Market Cap: $313,588.11 
+[%]
+Staked: 6429.3025 LUDUS ($62,317.38)
+LUDUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 LUDUS $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 LUDUS
+Unstake 0.000000 LUDUS
+Claim 0.000000 LUDUS ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $87,552.19

@@ -1,7 +1,7 @@
 INFO  : https://popsicle.finance
 *************************************************************************************
 
-Tue Jul 13 2021 23:52:19 GMT+0530 (India Standard Time)
+Mon Aug 23 2021 13:16:35 GMT+0530 (India Standard Time)
 [CHANGE WALLET]
  -=- 
 [CLEAR BROWSER STORAGE]
@@ -17,12 +17,12 @@ Reading smart contracts...
 [-]
  
 [<=>]
- Price: $1.57 TVL: $3,749,211.19
-WFTM Price: $0.22
-ICE Price: $2.29
-Staked: 2270216.6769 SLP ($3,569,475.44)
-ICE Per Week: 51017 ($116,828.93)
-APR: Day 0.47% Week 3.27% Year 170.20%
+ Price: $2.25 TVL: $1,697,576.02
+WFTM Price: $0.56
+ICE Price: $1.82
+Staked: 592123.6321 SLP ($1,332,643.52)
+ICE Per Week: 8036 ($14,626.16)
+APR: Day 0.16% Week 1.10% Year 57.07%
 You are staking 0 [WFTM]-[ICE] SLP ($0.00), 0.00% of the pool.
 Stake 0 [WFTM]-[ICE] SLP
 Unstake 0 [WFTM]-[ICE] SLP
@@ -36,12 +36,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $1.48 TVL: $3,965,696.25
-WFTM Price: $0.22
-ICE Price: $2.29
-Staked: 2451798.0978 spLP ($3,621,168.65)
-ICE Per Week: 51017 ($116,828.93)
-APR: Day 0.46% Week 3.23% Year 167.77%
+ Price: $2.12 TVL: $2,744,676.89
+WFTM Price: $0.56
+ICE Price: $1.82
+Staked: 566325.2569 spLP ($1,197,974.36)
+ICE Per Week: 8036 ($14,626.16)
+APR: Day 0.17% Week 1.22% Year 63.49%
 You are staking 0 [WFTM]-[ICE] SPOOKY LP ($0.00), 0.00% of the pool.
 Stake 0 [WFTM]-[ICE] SPOOKY LP
 Unstake 0 [WFTM]-[ICE] SPOOKY LP
@@ -51,8 +51,8 @@ The following farms have been DISCONTINUED. You can unstake at any time.
 
 0 - 
 ICE
- Price: $2.29 Market Cap: $8,350,856.43 
-Staked: 47593.6053 ICE ($108,989.36)
+ Price: $1.82 Market Cap: $7,203,338.53 
+Staked: 32899.4498 ICE ($59,877.00)
 ICE Per Week: 0 ($0.00)
 APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0 ICE ($0.00), 0.00% of the pool.
@@ -68,10 +68,10 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $1.57 TVL: $3,749,211.19
-WFTM Price: $0.22
-ICE Price: $2.29
-Staked: 70763.4910 SLP ($111,261.87)
+ Price: $2.25 TVL: $1,697,576.02
+WFTM Price: $0.56
+ICE Price: $1.82
+Staked: 70011.3816 SLP ($157,568.81)
 ICE Per Week: 0 ($0.00)
 APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0 [WFTM]-[ICE] SLP ($0.00), 0.00% of the pool.
@@ -81,8 +81,8 @@ Claim 0 ICE ($0.00)
 Staking or unstaking also claims rewards.
 2 - 
 fUSDT+DAI+USDC
- Price: $1.00 Market Cap: $12,513,469.40 
-Staked: 22086.6160 fUSDT+DAI+USDC ($22,086.62)
+ Price: $1.00 Market Cap: $115,213,828.19 
+Staked: 22084.3880 fUSDT+DAI+USDC ($22,084.39)
 ICE Per Week: 0 ($0.00)
 APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0 fUSDT+DAI+USDC ($0.00), 0.00% of the pool.
@@ -90,4 +90,4 @@ Stake 0 fUSDT+DAI+USDC
 Unstake 0 fUSDT+DAI+USDC
 Claim 0 ICE ($0.00)
 Staking or unstaking also claims rewards.
-Total Staked: $7,432,981.93
+Total Staked: $2,770,148.08

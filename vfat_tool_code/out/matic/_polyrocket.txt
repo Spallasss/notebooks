@@ -1,0 +1,156 @@
+INFO  : https://www.rocketfarming.finance
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:42:28 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 9 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[Rocket] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $16,026.64 TVL: $119.14
+USDC Price: $1.00
+Rocket Price: $0.0000387795
+Staked: 0.0065 UNI-V2 ($104.31)
+ROCKET Per Week: 600000.00 ($23.27)
+APR: Day 3.19% Week 22.31% Year 1159.93%
+You are staking 0.00 [USDC]-[Rocket] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[Rocket] Uni LP
+Unstake 0.00 [USDC]-[Rocket] Uni LP
+Claim 0.00 ROCKET ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+Rocket
+ Price: $0.0000387795 Market Cap: $770.34 
+[%]
+Staked: 12822847.8131 Rocket ($497.26)
+ROCKET Per Week: 600000.00 ($23.27)
+APR: Day 0.67% Week 4.68% Year 243.32%
+You are staking 0.00 Rocket ($0.00), 0.00% of the pool.
+Stake 0.00 Rocket
+Unstake 0.00 Rocket
+Claim 0.00 ROCKET ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[Rocket] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $59.64
+WMATIC Price: $1.65
+Rocket Price: $0.0000387795
+Staked: 1436.0279 UNI-V2 ($30.10)
+ROCKET Per Week: 600000.00 ($23.27)
+APR: Day 11.04% Week 77.29% Year 4019.18%
+You are staking 0.00 [WMATIC]-[Rocket] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[Rocket] Uni LP
+Unstake 0.00 [WMATIC]-[Rocket] Uni LP
+Claim 0.00 ROCKET ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WMATIC
+ Price: $1.65 Market Cap: $605,531,117.00 
+[%]
+Staked: 237.3454 WMATIC ($391.62)
+ROCKET Per Week: 240000.00 ($9.31)
+APR: Day 0.34% Week 2.38% Year 123.58%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 ROCKET ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+DAI
+ Price: $1.00 Market Cap: $375,659,203.55 
+[%]
+Staked: 400.3200 DAI ($399.68)
+ROCKET Per Week: 120000.00 ($4.65)
+APR: Day 0.17% Week 1.16% Year 60.54%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 ROCKET ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WETH
+ Price: $3,330.14 Market Cap: $2,033,431,551.04 
+[%]
+Staked: 0.0192 WETH ($63.94)
+ROCKET Per Week: 120000.00 ($4.65)
+APR: Day 1.04% Week 7.28% Year 378.46%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 ROCKET ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+QUICK
+ Price: $738.09 Market Cap: $706,548,961.06 
+[%]
+Staked: 0.0479 QUICK ($35.38)
+ROCKET Per Week: 120000.00 ($4.65)
+APR: Day 1.88% Week 13.15% Year 684.00%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 ROCKET ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,617,137.31 TVL: $33,420,928.46
+WMATIC Price: $1.65
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($134.08)
+ROCKET Per Week: 240000.00 ($9.31)
+APR: Day 0.99% Week 6.94% Year 360.96%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 ROCKET ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[USDC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $74,918,006.65 TVL: $21,372,728.17
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 UNI-V2 ($1,534.18)
+ROCKET Per Week: 240000.00 ($9.31)
+APR: Day 0.09% Week 0.61% Year 31.55%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 ROCKET ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $3,190.55

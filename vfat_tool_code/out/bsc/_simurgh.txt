@@ -1,0 +1,609 @@
+INFO  : https://simurgh.finance
+************************************************************************************
+
+Mon Aug 23 2021 09:22:16 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 43 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+SIMURGH
+ Price: $0.06 Market Cap: $59,219.51 
+[%]
+Staked: 483270.8249 SIMURGH ($27,419.17)
+SIMURGH Per Week: 39529.41 ($2,242.77)
+APR: Day 1.17% Week 8.18% Year 425.34%
+You are staking 0.00 SIMURGH ($0.00), 0.00% of the pool.
+Stake 0.00 SIMURGH
+Unstake 0.00 SIMURGH
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+WBNB
+ Price: $486.60 Market Cap: $3,438,972,857.62 
+[%]
+Staked: 34.8647 WBNB ($16,965.14)
+SIMURGH Per Week: 718.72 ($40.78)
+APR: Day 0.03% Week 0.24% Year 12.50%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+BUSD
+ Price: $1.00 Market Cap: $4,195,962,401.72 
+[%]
+Staked: 3701.8502 BUSD ($3,697.41)
+SIMURGH Per Week: 718.72 ($40.78)
+APR: Day 0.16% Week 1.10% Year 57.35%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+BTCB
+ Price: $49,844.00 Market Cap: $4,261,711,844.00 
+[%]
+Staked: 0.2419 BTCB ($12,059.66)
+SIMURGH Per Week: 718.72 ($40.78)
+APR: Day 0.05% Week 0.34% Year 17.58%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+ETH
+ Price: $3,332.93 Market Cap: $4,349,473,650.00 
+[%]
+Staked: 2.1346 ETH ($7,114.47)
+SIMURGH Per Week: 718.72 ($40.78)
+APR: Day 0.08% Week 0.57% Year 29.80%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+Cake
+ Price: $25.10 Market Cap: $10,444,923,140.31 
+[%]
+Staked: 119.2943 Cake ($2,994.29)
+SIMURGH Per Week: 718.72 ($40.78)
+APR: Day 0.19% Week 1.36% Year 70.82%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+LKM
+ Price: $0.00 Market Cap: $0.00 
+Staked: 800930.0000 LKM ($0.00)
+SIMURGH Per Week: 8983.96 ($509.72)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 LKM ($0.00), NaN% of the pool.
+Stake 0.00 LKM
+Unstake 0.00 LKM
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+BUNNY
+ Price: $7.66 Market Cap: $85,063,078.55 
+[%]
+Staked: 73.7278 BUNNY ($564.76)
+SIMURGH Per Week: 718.72 ($40.78)
+APR: Day 1.03% Week 7.22% Year 375.46%
+You are staking 0.00 BUNNY ($0.00), 0.00% of the pool.
+Stake 0.00 BUNNY - Fee 4%
+Unstake 0.00 BUNNY
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+DOT
+ Price: $28.12 Market Cap: $393,679,999.86 
+[%]
+Staked: 418.3265 DOT ($11,763.34)
+SIMURGH Per Week: 718.72 ($40.78)
+APR: Day 0.05% Week 0.35% Year 18.03%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+UNI
+ Price: $29.38 Market Cap: $108,706,000.00 
+[%]
+Staked: 85.3798 UNI ($2,508.46)
+SIMURGH Per Week: 718.72 ($40.78)
+APR: Day 0.23% Week 1.63% Year 84.53%
+You are staking 0.00 UNI ($0.00), 0.00% of the pool.
+Stake 0.00 UNI - Fee 4%
+Unstake 0.00 UNI
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 9751.2702 DAI ($9,751.27)
+SIMURGH Per Week: 718.72 ($40.78)
+APR: Day 0.06% Week 0.42% Year 21.75%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+DOGE
+ Price: $0.33 Market Cap: $651,058,000.00 
+[%]
+Staked: 70885.9129 DOGE ($23,075.42)
+SIMURGH Per Week: 718.72 ($40.78)
+APR: Day 0.03% Week 0.18% Year 9.19%
+You are staking 0.00 DOGE ($0.00), 0.00% of the pool.
+Stake 0.00 DOGE - Fee 4%
+Unstake 0.00 DOGE
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+ADA
+ Price: $2.83 Market Cap: $792,400,000.00 
+[%]
+Staked: 12073.7543 ADA ($34,168.72)
+SIMURGH Per Week: 718.72 ($40.78)
+APR: Day 0.02% Week 0.12% Year 6.21%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+BAKE
+ Price: $3.15 Market Cap: $2,297,071,452.62 
+[%]
+Staked: 1437.3062 BAKE ($4,527.51)
+SIMURGH Per Week: 718.72 ($40.78)
+APR: Day 0.13% Week 0.90% Year 46.83%
+You are staking 0.00 BAKE ($0.00), 0.00% of the pool.
+Stake 0.00 BAKE - Fee 4%
+Unstake 0.00 BAKE
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[WBNB]-[SIMURGH] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11.25 TVL: $12,200.40
+WBNB Price: $486.60
+SIMURGH Price: $0.06
+Staked: 587.5452 Cake-LP ($6,608.76)
+SIMURGH Per Week: 26951.87 ($1,529.16)
+APR: Day 3.31% Week 23.14% Year 1203.20%
+You are staking 0.00 [WBNB]-[SIMURGH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[SIMURGH] Cake LP
+Unstake 0.00 [WBNB]-[SIMURGH] Cake LP
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[SIMURGH]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.52 TVL: $6,228.31
+SIMURGH Price: $0.06
+BUSD Price: $1.00
+Staked: 8385.4686 Cake-LP ($4,392.95)
+SIMURGH Per Week: 26951.87 ($1,529.16)
+APR: Day 4.97% Week 34.81% Year 1810.09%
+You are staking 0.00 [SIMURGH]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SIMURGH]-[BUSD] Cake LP
+Unstake 0.00 [SIMURGH]-[BUSD] Cake LP
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.86 TVL: $528,182,000.14
+WBNB Price: $486.60
+BUSD Price: $1.00
+Staked: 17.7823 Cake-LP ($886.64)
+SIMURGH Per Week: 718.72 ($40.78)
+APR: Day 0.66% Week 4.60% Year 239.15%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,227.90 TVL: $174,145,826.15
+BTCB Price: $49,844.00
+WBNB Price: $486.60
+Staked: 0.7737 Cake-LP ($7,912.98)
+SIMURGH Per Week: 718.72 ($40.78)
+APR: Day 0.07% Week 0.52% Year 26.80%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,659.86 TVL: $262,558,799.10
+ETH Price: $3,332.93
+WBNB Price: $486.60
+Staked: 1.9085 Cake-LP ($5,076.27)
+SIMURGH Per Week: 718.72 ($40.78)
+APR: Day 0.11% Week 0.80% Year 41.77%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[USDT]-[SIMURGH] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.56 TVL: $753.84
+USDT Price: $1.00
+SIMURGH Price: $0.06
+Staked: 1285.2396 Cake-LP ($719.28)
+SIMURGH Per Week: 4312.30 ($244.67)
+APR: Day 4.86% Week 34.02% Year 1768.80%
+You are staking 0.00 [USDT]-[SIMURGH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[SIMURGH] Cake LP - Fee 2%
+Unstake 0.00 [USDT]-[SIMURGH] Cake LP
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[Cake]-[SIMURGH] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.87 TVL: $1,469.97
+Cake Price: $25.10
+SIMURGH Price: $0.06
+Staked: 484.9489 Cake-LP ($1,392.56)
+SIMURGH Per Week: 4312.30 ($244.67)
+APR: Day 2.51% Week 17.57% Year 913.61%
+You are staking 0.00 [Cake]-[SIMURGH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[SIMURGH] Cake LP - Fee 2%
+Unstake 0.00 [Cake]-[SIMURGH] Cake LP
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 4672.1313 USDT ($4,671.23)
+SIMURGH Per Week: 718.72 ($40.78)
+APR: Day 0.12% Week 0.87% Year 45.39%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[ETH]-[SIMURGH] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $32.06 TVL: $970.59
+ETH Price: $3,332.93
+SIMURGH Price: $0.06
+Staked: 28.9021 Cake-LP ($926.70)
+SIMURGH Per Week: 4312.30 ($244.67)
+APR: Day 3.77% Week 26.40% Year 1372.90%
+You are staking 0.00 [ETH]-[SIMURGH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[SIMURGH] Cake LP - Fee 2%
+Unstake 0.00 [ETH]-[SIMURGH] Cake LP
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[BTCB]-[SIMURGH] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $122.66 TVL: $1,214.92
+BTCB Price: $49,844.00
+SIMURGH Price: $0.06
+Staked: 9.5566 Cake-LP ($1,172.25)
+SIMURGH Per Week: 4312.30 ($244.67)
+APR: Day 2.98% Week 20.87% Year 1085.31%
+You are staking 0.00 [BTCB]-[SIMURGH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[SIMURGH] Cake LP - Fee 2%
+Unstake 0.00 [BTCB]-[SIMURGH] Cake LP
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[DOT]-[SIMURGH] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.63 TVL: $1,544.26
+DOT Price: $28.12
+SIMURGH Price: $0.06
+Staked: 560.1919 Cake-LP ($1,474.36)
+SIMURGH Per Week: 4312.30 ($244.67)
+APR: Day 2.37% Week 16.59% Year 862.93%
+You are staking 0.00 [DOT]-[SIMURGH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[SIMURGH] Cake LP - Fee 2%
+Unstake 0.00 [DOT]-[SIMURGH] Cake LP
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+[ADA]-[SIMURGH] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.83 TVL: $1,644.75
+ADA Price: $2.83
+SIMURGH Price: $0.06
+Staked: 1939.9368 Cake-LP ($1,610.05)
+SIMURGH Per Week: 4312.30 ($244.67)
+APR: Day 2.17% Week 15.20% Year 790.20%
+You are staking 0.00 [ADA]-[SIMURGH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[SIMURGH] Cake LP - Fee 2%
+Unstake 0.00 [ADA]-[SIMURGH] Cake LP
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+[LKM]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6.99 TVL: $5,948.86
+LKM Price: $0.02
+WBNB Price: $486.60
+Staked: 444.9299 Cake-LP ($3,108.21)
+SIMURGH Per Week: 7187.17 ($407.78)
+APR: Day 1.87% Week 13.12% Year 682.20%
+You are staking 0.00 [LKM]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LKM]-[WBNB] Cake LP
+Unstake 0.00 [LKM]-[WBNB] Cake LP
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+[SUSHI]-[SIMURGH] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.76 TVL: $813.94
+SUSHI Price: $13.09
+SIMURGH Price: $0.06
+Staked: 447.8577 Cake-LP ($787.29)
+SIMURGH Per Week: 4312.30 ($244.67)
+APR: Day 4.44% Week 31.08% Year 1616.00%
+You are staking 0.00 [SUSHI]-[SIMURGH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SUSHI]-[SIMURGH] Cake LP - Fee 2%
+Unstake 0.00 [SUSHI]-[SIMURGH] Cake LP
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+[XVS]-[SIMURGH] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.09 TVL: $1,088.85
+XVS Price: $37.56
+SIMURGH Price: $0.06
+Staked: 338.1619 Cake-LP ($1,043.47)
+SIMURGH Per Week: 4312.30 ($244.67)
+APR: Day 3.35% Week 23.45% Year 1219.26%
+You are staking 0.00 [XVS]-[SIMURGH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XVS]-[SIMURGH] Cake LP - Fee 2%
+Unstake 0.00 [XVS]-[SIMURGH] Cake LP
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+XPHOENIX
+ Price: $0.00 Market Cap: $0.00 
+Staked: 99641.8348 XPHOENIX ($0.00)
+SIMURGH Per Week: 39529.41 ($2,242.77)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 XPHOENIX ($0.00), NaN% of the pool.
+Stake 0.00 XPHOENIX
+Unstake 0.00 XPHOENIX
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+ONE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 22300.7089 ONE ($0.00)
+SIMURGH Per Week: 718.72 ($40.78)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ONE ($0.00), NaN% of the pool.
+Stake 0.00 ONE - Fee 4%
+Unstake 0.00 ONE
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+34 - 
+BSW
+ Price: $1.69 Market Cap: $150,873,648.54 
+[%]
+Staked: 1083.1705 BSW ($1,830.56)
+SIMURGH Per Week: 718.72 ($40.78)
+APR: Day 0.32% Week 2.23% Year 115.84%
+You are staking 0.00 BSW ($0.00), 0.00% of the pool.
+Stake 0.00 BSW - Fee 4%
+Unstake 0.00 BSW
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+35 - 
+EOS
+ Price: $0.00 Market Cap: $0.00 
+Staked: 125.3315 EOS ($0.00)
+SIMURGH Per Week: 718.72 ($40.78)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 EOS ($0.00), NaN% of the pool.
+Stake 0.00 EOS - Fee 4%
+Unstake 0.00 EOS
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+36 - 
+MATIC
+ Price: $1.64 Market Cap: $3,280,000,000.00 
+[%]
+Staked: 2217.6527 MATIC ($3,636.95)
+SIMURGH Per Week: 718.72 ($40.78)
+APR: Day 0.16% Week 1.12% Year 58.30%
+You are staking 0.00 MATIC ($0.00), 0.00% of the pool.
+Stake 0.00 MATIC - Fee 4%
+Unstake 0.00 MATIC
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+38 - 
+[ETH]-[BTCB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $26,804.47 TVL: $153,512,310.68
+ETH Price: $3,332.93
+BTCB Price: $49,844.00
+Staked: 0.0818 Cake-LP ($2,193.75)
+SIMURGH Per Week: 718.72 ($40.78)
+APR: Day 0.27% Week 1.86% Year 96.66%
+You are staking 0.00 [ETH]-[BTCB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BTCB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[BTCB] Cake LP
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+39 - 
+[EOS]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $107.42 TVL: $1,073,734.42
+EOS Price: $5.56
+WBNB Price: $486.60
+Staked: 24.2900 Cake-LP ($2,609.35)
+SIMURGH Per Week: 718.72 ($40.78)
+APR: Day 0.22% Week 1.56% Year 81.26%
+You are staking 0.00 [EOS]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [EOS]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [EOS]-[WBNB] Cake LP
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+40 - 
+[USDT]-[BTCB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $703.66 TVL: $39,148.99
+USDT Price: $1.00
+BTCB Price: $49,844.00
+Staked: 7.5172 Cake-LP ($5,289.57)
+SIMURGH Per Week: 718.72 ($40.78)
+APR: Day 0.11% Week 0.77% Year 40.09%
+You are staking 0.00 [USDT]-[BTCB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BTCB] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BTCB] Cake LP
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+41 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,210,231.52
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 886.4193 Cake-LP ($1,814.17)
+SIMURGH Per Week: 718.72 ($40.78)
+APR: Day 0.32% Week 2.25% Year 116.88%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+42 - 
+BANANA
+ Price: $4.77 Market Cap: $302,262,847.00 
+[%]
+Staked: 719.8549 BANANA ($3,433.71)
+SIMURGH Per Week: 718.72 ($40.78)
+APR: Day 0.17% Week 1.19% Year 61.75%
+You are staking 0.00 BANANA ($0.00), 0.00% of the pool.
+Stake 0.00 BANANA - Fee 4%
+Unstake 0.00 BANANA
+Claim 0.00 SIMURGH ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $219,200.67

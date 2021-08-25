@@ -1,0 +1,174 @@
+INFO  : https://polyrabbitfinance.com/
+***********************************************************************************************
+
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:45:58 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 11 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WMATIC]-[RABBIT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.06 TVL: $28.10
+WMATIC Price: $1.64
+RABBIT Price: $0.000522
+Staked: 19.2133 UNI-V2 ($1.15)
+RABBIT Per Week: 5929.41 ($3.10)
+APR: Day 38.40% Week 268.79% Year 13977.22%
+You are staking 0.00 [WMATIC]-[RABBIT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[RABBIT] Uni LP
+Unstake 0.00 [WMATIC]-[RABBIT] Uni LP
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[USDC]-[RABBIT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $46,422.80 TVL: $8.63
+USDC Price: $1.00
+RABBIT Price: $0.000522
+Staked: 0.0000 UNI-V2 ($0.50)
+RABBIT Per Week: 4235.29 ($2.21)
+APR: Day 62.72% Week 439.06% Year 22830.98%
+You are staking 0.00 [USDC]-[RABBIT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[RABBIT] Uni LP
+Unstake 0.00 [USDC]-[RABBIT] Uni LP
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,603,853.52 TVL: $33,313,038.67
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($2.46)
+RABBIT Per Week: 847.06 ($0.44)
+APR: Day 2.57% Week 18.01% Year 936.52%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+RABBIT
+ Price: $0.000522 Market Cap: $74.61 
+[%]
+Staked: 1565.2755 RABBIT ($0.82)
+RABBIT Per Week: 1694.12 ($0.88)
+APR: Day 15.46% Week 108.23% Year 5628.03%
+You are staking 0.00 RABBIT ($0.00), 0.00% of the pool.
+Stake 0.00 RABBIT
+Unstake 0.00 RABBIT
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WMATIC
+ Price: $1.64 Market Cap: $603,103,646.54 
+[%]
+Staked: 0.8960 WMATIC ($1.47)
+RABBIT Per Week: 1185.88 ($0.62)
+APR: Day 6.02% Week 42.15% Year 2191.64%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+QUICK
+ Price: $726.10 Market Cap: $695,071,333.62 
+[%]
+Staked: 0.0037 QUICK ($2.70)
+RABBIT Per Week: 1185.88 ($0.62)
+APR: Day 3.28% Week 22.94% Year 1193.11%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WETH
+ Price: $3,322.52 Market Cap: $2,025,850,693.75 
+[%]
+Staked: 0.0002 WETH ($0.53)
+RABBIT Per Week: 1016.47 ($0.53)
+APR: Day 14.19% Week 99.36% Year 5166.80%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WBTC
+ Price: $50,046.00 Market Cap: $697,333,819.15 
+[%]
+Staked: 0.0001 WBTC ($2.88)
+RABBIT Per Week: 1355.29 ($0.71)
+APR: Day 3.51% Week 24.59% Year 1278.57%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+DAI
+ Price: $1.00 Market Cap: $376,567,350.39 
+[%]
+Staked: 0.8960 DAI ($0.90)
+RABBIT Per Week: 847.06 ($0.44)
+APR: Day 7.06% Week 49.43% Year 2570.12%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+USDT
+ Price: $1.00 Market Cap: $314,972,885.37 
+[%]
+Staked: 0.8960 USDT ($0.90)
+RABBIT Per Week: 847.06 ($0.44)
+APR: Day 7.06% Week 49.42% Year 2569.82%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+SUSHI
+ Price: $13.80 Market Cap: $14,003,886.51 
+[%]
+Staked: 0.0600 SUSHI ($0.83)
+RABBIT Per Week: 1016.47 ($0.53)
+APR: Day 9.16% Week 64.10% Year 3333.27%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 4%
+Unstake 0.00 SUSHI
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $15.13

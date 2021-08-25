@@ -1,7 +1,7 @@
 INFO  : https://apeswap.finance
 *************************************************************************************
 
-Tue Jul 13 2021 23:55:37 GMT+0530 (India Standard Time)
+Mon Aug 23 2021 13:33:37 GMT+0530 (India Standard Time)
 [CHANGE WALLET]
  -=- 
 [CLEAR BROWSER STORAGE]
@@ -10,7 +10,7 @@ Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
 Reading smart contracts...
 
 Staking Contract
-Found 91 pools.
+Found 112 pools.
 
 Showing incentivized pools only.
 
@@ -18,11 +18,11 @@ Finished reading smart contracts.
 
 0 - 
 BANANA
- Price: $1.20 Market Cap: $60,893,414.62 
+ Price: $4.75 Market Cap: $300,922,539.70 
 [%]
-Staked: 22042651.8614 BANANA ($26,451,182.23)
-BANANA Per Week: 503946.80 ($604,736.16)
-APR: Day 0.33% Week 2.29% Year 118.88%
+Staked: 24297688.1679 BANANA ($115,414,018.80)
+BANANA Per Week: 503950.80 ($2,393,766.28)
+APR: Day 0.30% Week 2.07% Year 107.85%
 You are staking 0.00 BANANA ($0.00), 0.00% of the pool.
 Stake 0.00 BANANA
 Unstake 0.00 BANANA
@@ -36,12 +36,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $42.90 TVL: $18,666,508.84
-BANANA Price: $1.20
-WBNB Price: $311.29
-Staked: 430739.2858 APE-LP ($18,477,988.63)
-BANANA Per Week: 425630.74 ($510,756.89)
-APR: Day 0.39% Week 2.76% Year 143.74%
+ Price: $106.93 TVL: $60,539,707.41
+BANANA Price: $4.75
+WBNB Price: $480.94
+Staked: 562303.1120 APE-LP ($60,124,463.29)
+BANANA Per Week: 393634.68 ($1,869,764.72)
+APR: Day 0.44% Week 3.11% Year 161.71%
 You are staking 0.00 [BANANA]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [BANANA]-[WBNB] APE LP
 Unstake 0.00 [BANANA]-[WBNB] APE LP
@@ -55,12 +55,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $2.56 TVL: $7,911,402.51
-BANANA Price: $1.20
+ Price: $5.18 TVL: $20,962,442.20
+BANANA Price: $4.75
 BUSD Price: $1.00
-Staked: 3051895.3181 APE-LP ($7,802,129.87)
-BANANA Per Week: 159611.53 ($191,533.83)
-APR: Day 0.35% Week 2.45% Year 127.65%
+Staked: 4025948.9115 APE-LP ($20,840,187.02)
+BANANA Per Week: 147613.00 ($701,161.77)
+APR: Day 0.48% Week 3.36% Year 174.95%
 You are staking 0.00 [BANANA]-[BUSD] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [BANANA]-[BUSD] APE LP
 Unstake 0.00 [BANANA]-[BUSD] APE LP
@@ -74,12 +74,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $41.41 TVL: $10,436,896.02
-WBNB Price: $311.29
+ Price: $52.91 TVL: $22,041,074.60
+WBNB Price: $480.94
 BUSD Price: $1.00
-Staked: 244423.7448 APE-LP ($10,121,622.88)
-BANANA Per Week: 42563.07 ($51,075.69)
-APR: Day 0.07% Week 0.50% Year 26.24%
+Staked: 410078.2344 APE-LP ($21,698,009.96)
+BANANA Per Week: 39363.47 ($186,976.47)
+APR: Day 0.12% Week 0.86% Year 44.81%
 You are staking 0.00 [WBNB]-[BUSD] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WBNB]-[BUSD] APE LP
 Unstake 0.00 [WBNB]-[BUSD] APE LP
@@ -93,12 +93,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $6,554.13 TVL: $5,262,648.20
-BTCB Price: $32,697.00
-WBNB Price: $311.29
-Staked: 798.5238 APE-LP ($5,233,629.27)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.03% Week 0.24% Year 12.69%
+ Price: $10,135.14 TVL: $10,226,533.50
+BTCB Price: $50,236.00
+WBNB Price: $480.94
+Staked: 1007.9432 APE-LP ($10,215,644.54)
+BANANA Per Week: 9840.87 ($46,744.12)
+APR: Day 0.07% Week 0.46% Year 23.79%
 You are staking 0.00 [BTCB]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [BTCB]-[WBNB] APE LP
 Unstake 0.00 [BTCB]-[WBNB] APE LP
@@ -112,12 +112,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $1,627.61 TVL: $7,469,458.93
-ETH Price: $1,984.57
-WBNB Price: $311.29
-Staked: 4554.6859 APE-LP ($7,413,255.60)
-BANANA Per Week: 18621.34 ($22,345.61)
-APR: Day 0.04% Week 0.30% Year 15.67%
+ Price: $2,627.41 TVL: $20,177,093.29
+ETH Price: $3,320.74
+WBNB Price: $480.94
+Staked: 7666.4747 APE-LP ($20,142,992.54)
+BANANA Per Week: 17221.52 ($81,802.21)
+APR: Day 0.06% Week 0.41% Year 21.12%
 You are staking 0.00 [ETH]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [ETH]-[WBNB] APE LP
 Unstake 0.00 [ETH]-[WBNB] APE LP
@@ -131,12 +131,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $2.02 TVL: $11,803,862.82
+ Price: $2.02 TVL: $20,890,257.94
 USDC Price: $1.00
 BUSD Price: $1.00
-Staked: 5373852.3313 APE-LP ($10,835,773.16)
-BANANA Per Week: 15961.15 ($19,153.38)
-APR: Day 0.03% Week 0.18% Year 9.19%
+Staked: 10014551.0365 APE-LP ($20,223,069.93)
+BANANA Per Week: 14761.30 ($70,116.18)
+APR: Day 0.05% Week 0.35% Year 18.03%
 You are staking 0.00 [USDC]-[BUSD] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [USDC]-[BUSD] APE LP
 Unstake 0.00 [USDC]-[BUSD] APE LP
@@ -150,12 +150,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $1,111.65 TVL: $1,312,101.92
-WBNB Price: $311.29
-BIFI Price: $903.60
-Staked: 1176.5086 APE-LP ($1,307,871.56)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.14% Week 0.98% Year 50.77%
+ Price: $1,638.99 TVL: $1,905,476.53
+WBNB Price: $480.94
+BIFI Price: $1,258.87
+Staked: 1160.8425 APE-LP ($1,902,603.52)
+BANANA Per Week: 4920.43 ($23,372.06)
+APR: Day 0.18% Week 1.23% Year 63.88%
 You are staking 0.00 [WBNB]-[BIFI] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WBNB]-[BIFI] APE LP
 Unstake 0.00 [WBNB]-[BIFI] APE LP
@@ -169,12 +169,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $97.20 TVL: $2,575,525.21
-SUSHI Price: $7.24
-WBNB Price: $311.29
-Staked: 26195.8352 APE-LP ($2,546,139.54)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.07% Week 0.50% Year 26.08%
+ Price: $167.29 TVL: $4,961,335.86
+SUSHI Price: $13.76
+WBNB Price: $480.94
+Staked: 29572.4879 APE-LP ($4,947,126.26)
+BANANA Per Week: 9840.87 ($46,744.12)
+APR: Day 0.13% Week 0.94% Year 49.13%
 You are staking 0.00 [SUSHI]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [SUSHI]-[WBNB] APE LP
 Unstake 0.00 [SUSHI]-[WBNB] APE LP
@@ -188,12 +188,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $242.57 TVL: $1,001,190.27
-ETH Price: $1,984.57
-SUSHI Price: $7.24
-Staked: 4041.2989 APE-LP ($980,282.56)
-BANANA Per Week: 5320.38 ($6,384.46)
-APR: Day 0.09% Week 0.65% Year 33.87%
+ Price: $434.16 TVL: $3,187,083.95
+ETH Price: $3,320.74
+SUSHI Price: $13.76
+Staked: 7309.4304 APE-LP ($3,173,476.60)
+BANANA Per Week: 4920.43 ($23,372.06)
+APR: Day 0.11% Week 0.74% Year 38.30%
 You are staking 0.00 [ETH]-[SUSHI] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [ETH]-[SUSHI] APE LP
 Unstake 0.00 [ETH]-[SUSHI] APE LP
@@ -207,12 +207,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $40.97 TVL: $6,536,330.25
-ADA Price: $1.28
-WBNB Price: $311.29
-Staked: 159082.5124 APE-LP ($6,518,238.84)
-BANANA Per Week: 21281.54 ($25,537.84)
-APR: Day 0.06% Week 0.39% Year 20.37%
+ Price: $76.40 TVL: $13,462,609.83
+ADA Price: $2.85
+WBNB Price: $480.94
+Staked: 175943.8466 APE-LP ($13,441,852.39)
+BANANA Per Week: 17221.52 ($81,802.21)
+APR: Day 0.09% Week 0.61% Year 31.65%
 You are staking 0.00 [ADA]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [ADA]-[WBNB] APE LP
 Unstake 0.00 [ADA]-[WBNB] APE LP
@@ -226,12 +226,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $102.75 TVL: $2,698,191.67
-ETH Price: $1,984.57
-ADA Price: $1.28
-Staked: 26181.3933 APE-LP ($2,690,066.10)
-BANANA Per Week: 5320.38 ($6,384.46)
-APR: Day 0.03% Week 0.24% Year 12.34%
+ Price: $199.33 TVL: $6,131,104.97
+ETH Price: $3,320.74
+ADA Price: $2.85
+Staked: 30624.6388 APE-LP ($6,104,374.84)
+BANANA Per Week: 4920.43 ($23,372.06)
+APR: Day 0.05% Week 0.38% Year 19.91%
 You are staking 0.00 [ETH]-[ADA] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [ETH]-[ADA] APE LP
 Unstake 0.00 [ETH]-[ADA] APE LP
@@ -245,12 +245,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $26.49 TVL: $1,271,745.23
-BAT Price: $0.54
-WBNB Price: $311.29
-Staked: 47915.7677 APE-LP ($1,269,135.66)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.14% Week 1.01% Year 52.32%
+ Price: $41.63 TVL: $3,074,105.25
+BAT Price: $0.86
+WBNB Price: $480.94
+Staked: 73796.3547 APE-LP ($3,072,345.78)
+BANANA Per Week: 7380.65 ($35,058.09)
+APR: Day 0.16% Week 1.14% Year 59.34%
 You are staking 0.00 [BAT]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [BAT]-[WBNB] APE LP
 Unstake 0.00 [BAT]-[WBNB] APE LP
@@ -264,12 +264,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $66.47 TVL: $1,141,859.81
-BAT Price: $0.54
-ETH Price: $1,984.57
-Staked: 17132.9078 APE-LP ($1,138,791.58)
-BANANA Per Week: 5320.38 ($6,384.46)
-APR: Day 0.08% Week 0.56% Year 29.15%
+ Price: $108.86 TVL: $2,352,243.43
+BAT Price: $0.86
+ETH Price: $3,320.74
+Staked: 21537.3074 APE-LP ($2,344,516.58)
+BANANA Per Week: 4920.43 ($23,372.06)
+APR: Day 0.14% Week 1.00% Year 51.84%
 You are staking 0.00 [BAT]-[ETH] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [BAT]-[ETH] APE LP
 Unstake 0.00 [BAT]-[ETH] APE LP
@@ -283,12 +283,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $31,160,864.62 TVL: $1,564,834.30
-WBNB Price: $311.29
-IOTA Price: $0.76
-Staked: 0.0495 APE-LP ($1,543,802.04)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.12% Week 0.83% Year 43.01%
+ Price: $47,911,231.46 TVL: $4,157,141.36
+WBNB Price: $480.94
+IOTA Price: $1.15
+Staked: 0.0862 APE-LP ($4,129,309.00)
+BANANA Per Week: 9840.87 ($46,744.12)
+APR: Day 0.16% Week 1.13% Year 58.86%
 You are staking 0.00 [WBNB]-[IOTA] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WBNB]-[IOTA] APE LP
 Unstake 0.00 [WBNB]-[IOTA] APE LP
@@ -302,12 +302,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $2,579,746.38 TVL: $591,878.85
-NAUT Price: $0.34
-WBNB Price: $311.29
-Staked: 0.1222 APE-LP ($315,255.57)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.58% Week 4.05% Year 210.62%
+ Price: $5,718,042.98 TVL: $1,317,390.46
+NAUT Price: $1.06
+WBNB Price: $480.94
+Staked: 0.1240 APE-LP ($708,826.84)
+BANANA Per Week: 7380.65 ($35,058.09)
+APR: Day 0.71% Week 4.95% Year 257.19%
 You are staking 0.00 [NAUT]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [NAUT]-[WBNB] APE LP
 Unstake 0.00 [NAUT]-[WBNB] APE LP
@@ -321,12 +321,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $141.09 TVL: $1,455,515.96
-Cake Price: $14.54
-WBNB Price: $311.29
-Staked: 9836.1160 APE-LP ($1,387,821.16)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.13% Week 0.92% Year 47.84%
+ Price: $232.76 TVL: $3,971,239.27
+Cake Price: $25.02
+WBNB Price: $480.94
+Staked: 16711.1989 APE-LP ($3,889,756.96)
+BANANA Per Week: 9840.87 ($46,744.12)
+APR: Day 0.17% Week 1.20% Year 62.49%
 You are staking 0.00 [Cake]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [Cake]-[WBNB] APE LP
 Unstake 0.00 [Cake]-[WBNB] APE LP
@@ -340,12 +340,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $53.49 TVL: $1,780,027.00
-WBNB Price: $311.29
-BAKE Price: $1.92
-Staked: 33087.0904 APE-LP ($1,769,704.97)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.10% Week 0.72% Year 37.52%
+ Price: $86.46 TVL: $3,654,666.81
+WBNB Price: $480.94
+BAKE Price: $3.19
+Staked: 42192.1525 APE-LP ($3,648,126.81)
+BANANA Per Week: 9840.87 ($46,744.12)
+APR: Day 0.18% Week 1.28% Year 66.63%
 You are staking 0.00 [WBNB]-[BAKE] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WBNB]-[BAKE] APE LP
 Unstake 0.00 [WBNB]-[BAKE] APE LP
@@ -359,12 +359,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $12.00 TVL: $654,430.62
+ Price: $14.91 TVL: $1,073,171.68
 JDI Price: $0.10
-WBNB Price: $311.29
-Staked: 33053.0572 APE-LP ($396,535.49)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.46% Week 3.22% Year 167.45%
+WBNB Price: $480.94
+Staked: 51143.8402 APE-LP ($762,318.73)
+BANANA Per Week: 7380.65 ($35,058.09)
+APR: Day 0.66% Week 4.60% Year 239.14%
 You are staking 0.00 [JDI]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [JDI]-[WBNB] APE LP
 Unstake 0.00 [JDI]-[WBNB] APE LP
@@ -378,12 +378,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $47.94 TVL: $1,233,401.38
-NUTS Price: $1.77
-WBNB Price: $311.29
-Staked: 14685.4426 APE-LP ($703,978.72)
-BANANA Per Week: 5320.38 ($6,384.46)
-APR: Day 0.13% Week 0.91% Year 47.16%
+ Price: $58.69 TVL: $1,146,851.98
+NUTS Price: $1.71
+WBNB Price: $480.94
+Staked: 10357.8405 APE-LP ($607,929.63)
+BANANA Per Week: 2460.22 ($11,686.03)
+APR: Day 0.27% Week 1.92% Year 99.96%
 You are staking 0.00 [NUTS]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [NUTS]-[WBNB] APE LP
 Unstake 0.00 [NUTS]-[WBNB] APE LP
@@ -397,12 +397,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $81.28 TVL: $103,945.44
-WBNB Price: $311.29
-SWAMP Price: $4.85
-Staked: 1263.9131 APE-LP ($102,731.94)
-BANANA Per Week: 2660.19 ($3,192.23)
-APR: Day 0.44% Week 3.11% Year 161.58%
+ Price: $63.01 TVL: $315,160.58
+WBNB Price: $480.94
+SWAMP Price: $1.86
+Staked: 4965.4562 APE-LP ($312,894.21)
+BANANA Per Week: 2460.22 ($11,686.03)
+APR: Day 0.53% Week 3.73% Year 194.21%
 You are staking 0.00 [WBNB]-[SWAMP] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WBNB]-[SWAMP] APE LP
 Unstake 0.00 [WBNB]-[SWAMP] APE LP
@@ -416,12 +416,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $27.75 TVL: $174,244.01
-KEYFI Price: $0.59
-WBNB Price: $311.29
-Staked: 5970.6069 APE-LP ($165,695.93)
-BANANA Per Week: 2660.19 ($3,192.23)
-APR: Day 0.28% Week 1.93% Year 100.18%
+ Price: $32.74 TVL: $151,600.05
+KEYFI Price: $0.53
+WBNB Price: $480.94
+Staked: 4254.0578 APE-LP ($139,262.81)
+BANANA Per Week: 984.09 ($4,674.41)
+APR: Day 0.48% Week 3.36% Year 174.54%
 You are staking 0.00 [KEYFI]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [KEYFI]-[WBNB] APE LP
 Unstake 0.00 [KEYFI]-[WBNB] APE LP
@@ -435,12 +435,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $30.12 TVL: $1,267,046.94
-WBNB Price: $311.29
-ONT Price: $0.71
-Staked: 41973.3126 APE-LP ($1,264,292.75)
-BANANA Per Week: 7980.58 ($9,576.69)
-APR: Day 0.11% Week 0.76% Year 39.39%
+ Price: $47.71 TVL: $1,709,986.41
+WBNB Price: $480.94
+ONT Price: $1.15
+Staked: 35766.2092 APE-LP ($1,706,236.63)
+BANANA Per Week: 4920.43 ($23,372.06)
+APR: Day 0.20% Week 1.37% Year 71.23%
 You are staking 0.00 [WBNB]-[ONT] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WBNB]-[ONT] APE LP
 Unstake 0.00 [WBNB]-[ONT] APE LP
@@ -454,12 +454,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $28.29 TVL: $4,128,490.84
-XRP Price: $0.63
-WBNB Price: $311.29
-Staked: 145707.6792 APE-LP ($4,122,727.43)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.04% Week 0.31% Year 16.11%
+ Price: $49.78 TVL: $7,719,498.66
+XRP Price: $1.24
+WBNB Price: $480.94
+Staked: 154810.3136 APE-LP ($7,706,928.76)
+BANANA Per Week: 9840.87 ($46,744.12)
+APR: Day 0.09% Week 0.61% Year 31.54%
 You are staking 0.00 [XRP]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [XRP]-[WBNB] APE LP
 Unstake 0.00 [XRP]-[WBNB] APE LP
@@ -473,12 +473,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $135.77 TVL: $3,320,529.74
-DOT Price: $14.40
-WBNB Price: $311.29
-Staked: 24381.2753 APE-LP ($3,310,190.17)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.06% Week 0.39% Year 20.06%
+ Price: $236.46 TVL: $7,902,304.80
+DOT Price: $28.02
+WBNB Price: $480.94
+Staked: 33369.8354 APE-LP ($7,890,573.18)
+BANANA Per Week: 9840.87 ($46,744.12)
+APR: Day 0.08% Week 0.59% Year 30.81%
 You are staking 0.00 [DOT]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [DOT]-[WBNB] APE LP
 Unstake 0.00 [DOT]-[WBNB] APE LP
@@ -492,12 +492,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $2.03 TVL: $8,735,072.82
+ Price: $2.05 TVL: $13,760,247.79
 USDT Price: $1.00
 BUSD Price: $1.00
-Staked: 4288501.9865 APE-LP ($8,710,800.66)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.02% Week 0.15% Year 7.62%
+Staked: 6693651.1298 APE-LP ($13,700,167.62)
+BANANA Per Week: 9840.87 ($46,744.12)
+APR: Day 0.05% Week 0.34% Year 17.74%
 You are staking 0.00 [USDT]-[BUSD] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [USDT]-[BUSD] APE LP
 Unstake 0.00 [USDT]-[BUSD] APE LP
@@ -511,12 +511,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $48.82 TVL: $1,410,120.58
-SXP Price: $1.84
-WBNB Price: $311.29
-Staked: 28799.8392 APE-LP ($1,406,052.66)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.13% Week 0.91% Year 47.22%
+ Price: $86.25 TVL: $4,277,125.14
+SXP Price: $3.69
+WBNB Price: $480.94
+Staked: 49531.5778 APE-LP ($4,272,284.01)
+BANANA Per Week: 7380.65 ($35,058.09)
+APR: Day 0.12% Week 0.82% Year 42.67%
 You are staking 0.00 [SXP]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [SXP]-[WBNB] APE LP
 Unstake 0.00 [SXP]-[WBNB] APE LP
@@ -530,12 +530,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $147.85 TVL: $2,316,136.33
-WBNB Price: $311.29
-LINK Price: $17.19
-Staked: 15631.6597 APE-LP ($2,311,128.18)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.08% Week 0.55% Year 28.73%
+ Price: $238.33 TVL: $8,120,770.93
+WBNB Price: $480.94
+LINK Price: $28.72
+Staked: 34041.5690 APE-LP ($8,113,156.01)
+BANANA Per Week: 9840.87 ($46,744.12)
+APR: Day 0.08% Week 0.58% Year 29.96%
 You are staking 0.00 [WBNB]-[LINK] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WBNB]-[LINK] APE LP
 Unstake 0.00 [WBNB]-[LINK] APE LP
@@ -549,12 +549,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $2.29 TVL: $770,266.26
-BFT Price: $0.004092
-WBNB Price: $311.29
-Staked: 196306.0502 APE-LP ($449,738.69)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.41% Week 2.84% Year 147.64%
+ Price: $2.86 TVL: $971,559.00
+BFT Price: $0.004116
+WBNB Price: $480.94
+Staked: 213250.9257 APE-LP ($609,975.55)
+BANANA Per Week: 7380.65 ($35,058.09)
+APR: Day 0.82% Week 5.75% Year 298.87%
 You are staking 0.00 [BFT]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [BFT]-[WBNB] APE LP
 Unstake 0.00 [BFT]-[WBNB] APE LP
@@ -568,12 +568,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $1,632,426.44 TVL: $2,649,429.74
-DOGE Price: $0.20
-WBNB Price: $311.29
-Staked: 1.6146 APE-LP ($2,635,776.71)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.07% Week 0.48% Year 25.19%
+ Price: $2,587,625.29 TVL: $5,821,832.10
+DOGE Price: $0.32
+WBNB Price: $480.94
+Staked: 2.2427 APE-LP ($5,803,382.95)
+BANANA Per Week: 9840.87 ($46,744.12)
+APR: Day 0.12% Week 0.81% Year 41.88%
 You are staking 0.00 [DOGE]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [DOGE]-[WBNB] APE LP
 Unstake 0.00 [DOGE]-[WBNB] APE LP
@@ -587,12 +587,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $412.25 TVL: $3,320,857.37
-LTC Price: $133.93
-WBNB Price: $311.29
-Staked: 8037.3197 APE-LP ($3,313,419.99)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.06% Week 0.39% Year 20.04%
+ Price: $609.81 TVL: $7,120,841.34
+LTC Price: $188.80
+WBNB Price: $480.94
+Staked: 11669.9764 APE-LP ($7,116,410.60)
+BANANA Per Week: 9840.87 ($46,744.12)
+APR: Day 0.09% Week 0.66% Year 34.16%
 You are staking 0.00 [LTC]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [LTC]-[WBNB] APE LP
 Unstake 0.00 [LTC]-[WBNB] APE LP
@@ -606,12 +606,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $2.00 TVL: $8,189,594.75
+ Price: $2.00 TVL: $10,054,831.24
 DAI Price: $1.00
 BUSD Price: $1.00
-Staked: 4081395.7053 APE-LP ($8,181,200.98)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.02% Week 0.16% Year 8.12%
+Staked: 5007487.4217 APE-LP ($10,039,539.04)
+BANANA Per Week: 7380.65 ($35,058.09)
+APR: Day 0.05% Week 0.35% Year 18.16%
 You are staking 0.00 [DAI]-[BUSD] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [DAI]-[BUSD] APE LP
 Unstake 0.00 [DAI]-[BUSD] APE LP
@@ -625,34 +625,15 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $1,017.95 TVL: $1,297,097.40
-AUTO Price: $816.60
-WBNB Price: $311.29
-Staked: 1271.4834 APE-LP ($1,294,302.05)
-BANANA Per Week: 7980.58 ($9,576.69)
-APR: Day 0.11% Week 0.74% Year 38.48%
+ Price: $1,675.06 TVL: $1,792,571.96
+AUTO Price: $1,420.07
+WBNB Price: $480.94
+Staked: 1069.0332 APE-LP ($1,790,690.92)
+BANANA Per Week: 4920.43 ($23,372.06)
+APR: Day 0.19% Week 1.31% Year 67.87%
 You are staking 0.00 [AUTO]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [AUTO]-[WBNB] APE LP
 Unstake 0.00 [AUTO]-[WBNB] APE LP
-Claim 0.00 BANANA ($0.00)
-Staking or unstaking also claims rewards.
-42 - 
-[bxBTC]-[WBNB] APE LP
- 
-[+]
- 
-[-]
- 
-[<=>]
- Price: $246,188.70 TVL: $126,093.08
-bxBTC Price: $0.30
-WBNB Price: $311.29
-Staked: 0.3188 APE-LP ($78,486.80)
-BANANA Per Week: 1064.08 ($1,276.89)
-APR: Day 0.23% Week 1.63% Year 84.60%
-You are staking 0.00 [bxBTC]-[WBNB] APE LP ($0.00), 0.00% of the pool.
-Stake 0.00 [bxBTC]-[WBNB] APE LP
-Unstake 0.00 [bxBTC]-[WBNB] APE LP
 Claim 0.00 BANANA ($0.00)
 Staking or unstaking also claims rewards.
 44 - 
@@ -663,12 +644,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $23.60 TVL: $784,134.16
-WATCH Price: $0.44
-WBNB Price: $311.29
-Staked: 33086.8799 APE-LP ($780,934.46)
-BANANA Per Week: 5320.38 ($6,384.46)
-APR: Day 0.12% Week 0.82% Year 42.51%
+ Price: $31.71 TVL: $1,937,355.37
+WATCH Price: $0.52
+WBNB Price: $480.94
+Staked: 60984.6249 APE-LP ($1,933,974.19)
+BANANA Per Week: 2460.22 ($11,686.03)
+APR: Day 0.09% Week 0.60% Year 31.42%
 You are staking 0.00 [WATCH]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WATCH]-[WBNB] APE LP
 Unstake 0.00 [WATCH]-[WBNB] APE LP
@@ -682,12 +663,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $36.35 TVL: $3,463,275.26
-WBNB Price: $311.29
-MATIC Price: $0.96
-Staked: 94619.6755 APE-LP ($3,439,219.43)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.05% Week 0.37% Year 19.31%
+ Price: $59.37 TVL: $6,167,167.41
+WBNB Price: $480.94
+MATIC Price: $1.63
+Staked: 103628.2223 APE-LP ($6,152,159.34)
+BANANA Per Week: 9840.87 ($46,744.12)
+APR: Day 0.11% Week 0.76% Year 39.51%
 You are staking 0.00 [WBNB]-[MATIC] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WBNB]-[MATIC] APE LP
 Unstake 0.00 [WBNB]-[MATIC] APE LP
@@ -701,12 +682,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $608.56 TVL: $3,023,080.78
-WBNB Price: $311.29
-AAVE Price: $290.50
-Staked: 4959.1503 APE-LP ($3,017,951.45)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.06% Week 0.42% Year 22.00%
+ Price: $897.33 TVL: $5,247,483.73
+WBNB Price: $480.94
+AAVE Price: $406.93
+Staked: 5838.1537 APE-LP ($5,238,724.65)
+BANANA Per Week: 9840.87 ($46,744.12)
+APR: Day 0.13% Week 0.89% Year 46.40%
 You are staking 0.00 [WBNB]-[AAVE] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WBNB]-[AAVE] APE LP
 Unstake 0.00 [WBNB]-[AAVE] APE LP
@@ -720,12 +701,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $244.63 TVL: $2,789,647.70
-ETC Price: $46.48
-WBNB Price: $311.29
-Staked: 11378.3273 APE-LP ($2,783,457.82)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.07% Week 0.46% Year 23.85%
+ Price: $368.92 TVL: $5,080,068.06
+ETC Price: $67.96
+WBNB Price: $480.94
+Staked: 13759.0194 APE-LP ($5,075,927.84)
+BANANA Per Week: 9840.87 ($46,744.12)
+APR: Day 0.13% Week 0.92% Year 47.89%
 You are staking 0.00 [ETC]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [ETC]-[WBNB] APE LP
 Unstake 0.00 [ETC]-[WBNB] APE LP
@@ -739,12 +720,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $715.96 TVL: $3,685,598.83
-COMP Price: $404.75
-WBNB Price: $311.29
-Staked: 5140.1487 APE-LP ($3,680,128.95)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.05% Week 0.35% Year 18.04%
+ Price: $953.34 TVL: $5,012,818.76
+COMP Price: $461.69
+WBNB Price: $480.94
+Staked: 5254.3226 APE-LP ($5,009,160.35)
+BANANA Per Week: 9840.87 ($46,744.12)
+APR: Day 0.13% Week 0.93% Year 48.52%
 You are staking 0.00 [COMP]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [COMP]-[WBNB] APE LP
 Unstake 0.00 [COMP]-[WBNB] APE LP
@@ -758,12 +739,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $17.10 TVL: $2,479,655.20
-FTM Price: $0.22
-WBNB Price: $311.29
-Staked: 144493.5129 APE-LP ($2,471,413.57)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.07% Week 0.52% Year 26.87%
+ Price: $34.01 TVL: $4,819,488.61
+FTM Price: $0.56
+WBNB Price: $480.94
+Staked: 141421.5138 APE-LP ($4,809,528.98)
+BANANA Per Week: 9840.87 ($46,744.12)
+APR: Day 0.14% Week 0.97% Year 50.54%
 You are staking 0.00 [FTM]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [FTM]-[WBNB] APE LP
 Unstake 0.00 [FTM]-[WBNB] APE LP
@@ -777,12 +758,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $29.31 TVL: $353,451.18
-NRV Price: $0.68
-WBNB Price: $311.29
-Staked: 12002.0478 APE-LP ($351,753.02)
-BANANA Per Week: 7980.58 ($9,576.69)
-APR: Day 0.39% Week 2.72% Year 141.57%
+ Price: $70.30 TVL: $1,221,945.19
+NRV Price: $2.50
+WBNB Price: $480.94
+Staked: 17358.8355 APE-LP ($1,220,386.22)
+BANANA Per Week: 4920.43 ($23,372.06)
+APR: Day 0.27% Week 1.92% Year 99.59%
 You are staking 0.00 [NRV]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [NRV]-[WBNB] APE LP
 Unstake 0.00 [NRV]-[WBNB] APE LP
@@ -796,12 +777,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $125.36 TVL: $1,980,940.65
-AVAX Price: $12.32
-WBNB Price: $311.29
-Staked: 15776.5472 APE-LP ($1,977,790.14)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.09% Week 0.65% Year 33.57%
+ Price: $312.32 TVL: $5,297,364.90
+AVAX Price: $48.90
+WBNB Price: $480.94
+Staked: 16924.7057 APE-LP ($5,285,895.73)
+BANANA Per Week: 7380.65 ($35,058.09)
+APR: Day 0.09% Week 0.66% Year 34.49%
 You are staking 0.00 [AVAX]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [AVAX]-[WBNB] APE LP
 Unstake 0.00 [AVAX]-[WBNB] APE LP
@@ -815,12 +796,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $365.80 TVL: $1,191,547.05
-ZEC Price: $105.47
-WBNB Price: $311.29
-Staked: 3249.2987 APE-LP ($1,188,594.72)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.15% Week 1.07% Year 55.86%
+ Price: $567.02 TVL: $3,100,152.97
+ZEC Price: $163.32
+WBNB Price: $480.94
+Staked: 5464.5690 APE-LP ($3,098,523.47)
+BANANA Per Week: 7380.65 ($35,058.09)
+APR: Day 0.16% Week 1.13% Year 58.84%
 You are staking 0.00 [ZEC]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [ZEC]-[WBNB] APE LP
 Unstake 0.00 [ZEC]-[WBNB] APE LP
@@ -834,12 +815,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $12.65 TVL: $654,356.57
-COTI Price: $0.13
-WBNB Price: $311.29
-Staked: 51539.9723 APE-LP ($651,799.96)
-BANANA Per Week: 7980.58 ($9,576.69)
-APR: Day 0.21% Week 1.47% Year 76.40%
+ Price: $24.55 TVL: $1,379,638.66
+COTI Price: $0.30
+WBNB Price: $480.94
+Staked: 54873.6279 APE-LP ($1,347,276.67)
+BANANA Per Week: 4920.43 ($23,372.06)
+APR: Day 0.25% Week 1.73% Year 90.21%
 You are staking 0.00 [COTI]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [COTI]-[WBNB] APE LP
 Unstake 0.00 [COTI]-[WBNB] APE LP
@@ -853,12 +834,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $50.90 TVL: $2,134,476.37
-NEAR Price: $2.00
-WBNB Price: $311.29
-Staked: 41866.8309 APE-LP ($2,130,958.17)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.09% Week 0.60% Year 31.16%
+ Price: $105.38 TVL: $3,151,080.59
+NEAR Price: $5.50
+WBNB Price: $480.94
+Staked: 29834.5879 APE-LP ($3,144,074.70)
+BANANA Per Week: 9840.87 ($46,744.12)
+APR: Day 0.21% Week 1.49% Year 77.31%
 You are staking 0.00 [NEAR]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [NEAR]-[WBNB] APE LP
 Unstake 0.00 [NEAR]-[WBNB] APE LP
@@ -872,12 +853,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $56.09 TVL: $117,667.95
-MOONLIGHT Price: $0.0000000013
-WBNB Price: $311.29
-Staked: 2091.1211 APE-LP ($117,299.52)
-BANANA Per Week: 2660.19 ($3,192.23)
-APR: Day 0.39% Week 2.72% Year 141.51%
+ Price: $91.73 TVL: $209,648.78
+MOONLIGHT Price: $0.0000000023
+WBNB Price: $480.94
+Staked: 2275.8408 APE-LP ($208,759.20)
+BANANA Per Week: 984.09 ($4,674.41)
+APR: Day 0.32% Week 2.24% Year 116.44%
 You are staking 0.00 [MOONLIGHT]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [MOONLIGHT]-[WBNB] APE LP
 Unstake 0.00 [MOONLIGHT]-[WBNB] APE LP
@@ -891,12 +872,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $120.60 TVL: $1,294,724.69
-SNX Price: $11.37
-WBNB Price: $311.29
-Staked: 10710.5292 APE-LP ($1,291,660.49)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.14% Week 0.99% Year 51.41%
+ Price: $167.28 TVL: $5,001,806.27
+SNX Price: $14.05
+WBNB Price: $480.94
+Staked: 29874.7018 APE-LP ($4,997,580.87)
+BANANA Per Week: 9840.87 ($46,744.12)
+APR: Day 0.13% Week 0.94% Year 48.64%
 You are staking 0.00 [SNX]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [SNX]-[WBNB] APE LP
 Unstake 0.00 [SNX]-[WBNB] APE LP
@@ -910,12 +891,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $13.33 TVL: $881,396.06
-BLZ Price: $0.14
-WBNB Price: $311.29
-Staked: 65810.0174 APE-LP ($877,086.12)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.21% Week 1.46% Year 75.70%
+ Price: $23.19 TVL: $2,061,807.03
+BLZ Price: $0.27
+WBNB Price: $480.94
+Staked: 88746.0903 APE-LP ($2,058,197.41)
+BANANA Per Week: 7380.65 ($35,058.09)
+APR: Day 0.24% Week 1.70% Year 88.57%
 You are staking 0.00 [BLZ]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [BLZ]-[WBNB] APE LP
 Unstake 0.00 [BLZ]-[WBNB] APE LP
@@ -929,12 +910,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $4.01 TVL: $315,561.30
-WBNB Price: $311.29
-TAPE Price: $0.01
-Staked: 35599.3573 APE-LP ($142,716.86)
-BANANA Per Week: 5320.38 ($6,384.46)
-APR: Day 0.64% Week 4.47% Year 232.62%
+ Price: $7.82 TVL: $962,393.92
+WBNB Price: $480.94
+TAPE Price: $0.03
+Staked: 79890.1308 APE-LP ($625,022.16)
+BANANA Per Week: 4920.43 ($23,372.06)
+APR: Day 0.53% Week 3.74% Year 194.45%
 You are staking 0.00 [WBNB]-[TAPE] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WBNB]-[TAPE] APE LP
 Unstake 0.00 [WBNB]-[TAPE] APE LP
@@ -948,12 +929,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $5.96 TVL: $1,733,047.58
-CELR Price: $0.03
-WBNB Price: $311.29
-Staked: 290400.9317 APE-LP ($1,730,875.34)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.11% Week 0.74% Year 38.36%
+ Price: $9.76 TVL: $2,565,792.44
+CELR Price: $0.05
+WBNB Price: $480.94
+Staked: 262503.4129 APE-LP ($2,562,486.61)
+BANANA Per Week: 9840.87 ($46,744.12)
+APR: Day 0.26% Week 1.82% Year 94.86%
 You are staking 0.00 [CELR]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [CELR]-[WBNB] APE LP
 Unstake 0.00 [CELR]-[WBNB] APE LP
@@ -967,12 +948,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $0.10 TVL: $2,085,445.52
-SHIB Price: $0.0000072771
-WBNB Price: $311.29
-Staked: 21559705.9726 APE-LP ($2,081,079.08)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.09% Week 0.61% Year 31.91%
+ Price: $0.13 TVL: $4,571,860.03
+SHIB Price: $0.0000082842
+WBNB Price: $480.94
+Staked: 35613188.6317 APE-LP ($4,568,657.82)
+BANANA Per Week: 9840.87 ($46,744.12)
+APR: Day 0.15% Week 1.02% Year 53.20%
 You are staking 0.00 [SHIB]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [SHIB]-[WBNB] APE LP
 Unstake 0.00 [SHIB]-[WBNB] APE LP
@@ -986,12 +967,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $19.29 TVL: $345,446.57
-CRUSH Price: $0.29
-WBNB Price: $311.29
-Staked: 8787.7625 APE-LP ($169,498.21)
-BANANA Per Week: 7980.58 ($9,576.69)
-APR: Day 0.81% Week 5.65% Year 293.80%
+ Price: $29.64 TVL: $639,700.37
+CRUSH Price: $0.44
+WBNB Price: $480.94
+Staked: 12274.6562 APE-LP ($363,801.17)
+BANANA Per Week: 4920.43 ($23,372.06)
+APR: Day 0.92% Week 6.42% Year 334.07%
 You are staking 0.00 [CRUSH]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [CRUSH]-[WBNB] APE LP
 Unstake 0.00 [CRUSH]-[WBNB] APE LP
@@ -1005,12 +986,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $70.28 TVL: $101,548.41
-WBNB Price: $311.29
-pCWS Price: $3.94
-Staked: 1441.6103 APE-LP ($101,322.84)
-BANANA Per Week: 2660.19 ($3,192.23)
-APR: Day 0.45% Week 3.15% Year 163.83%
+ Price: $134.91 TVL: $192,084.59
+WBNB Price: $480.94
+pCWS Price: $9.31
+Staked: 1418.5659 APE-LP ($191,375.05)
+BANANA Per Week: 984.09 ($4,674.41)
+APR: Day 0.35% Week 2.44% Year 127.01%
 You are staking 0.00 [WBNB]-[pCWS] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WBNB]-[pCWS] APE LP
 Unstake 0.00 [WBNB]-[pCWS] APE LP
@@ -1024,12 +1005,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $10.31 TVL: $363,662.48
-TYPH Price: $0.08
-WBNB Price: $311.29
-Staked: 25851.8417 APE-LP ($266,525.77)
-BANANA Per Week: 5320.38 ($6,384.46)
-APR: Day 0.34% Week 2.40% Year 124.56%
+ Price: $13.76 TVL: $510,554.76
+TYPH Price: $0.10
+WBNB Price: $480.94
+Staked: 28623.4780 APE-LP ($393,989.50)
+BANANA Per Week: 2460.22 ($11,686.03)
+APR: Day 0.42% Week 2.97% Year 154.24%
 You are staking 0.00 [TYPH]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [TYPH]-[WBNB] APE LP
 Unstake 0.00 [TYPH]-[WBNB] APE LP
@@ -1043,12 +1024,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $81.75 TVL: $159,213.44
-bMXX Price: $5.30
-WBNB Price: $311.29
-Staked: 1940.1783 APE-LP ($158,602.68)
-BANANA Per Week: 5320.38 ($6,384.46)
-APR: Day 0.58% Week 4.03% Year 209.32%
+ Price: $63.36 TVL: $759,806.45
+bMXX Price: $2.04
+WBNB Price: $480.94
+Staked: 11979.5015 APE-LP ($759,030.74)
+BANANA Per Week: 2460.22 ($11,686.03)
+APR: Day 0.22% Week 1.54% Year 80.06%
 You are staking 0.00 [bMXX]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [bMXX]-[WBNB] APE LP
 Unstake 0.00 [bMXX]-[WBNB] APE LP
@@ -1062,12 +1043,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $118.69 TVL: $4,548,332.75
-WBNB Price: $311.29
-SPACE Price: $10.77
-Staked: 27477.3166 APE-LP ($3,261,187.53)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.06% Week 0.39% Year 20.36%
+ Price: $139.36 TVL: $3,712,771.04
+WBNB Price: $480.94
+SPACE Price: $9.47
+Staked: 7409.5904 APE-LP ($1,032,615.85)
+BANANA Per Week: 9840.87 ($46,744.12)
+APR: Day 0.65% Week 4.53% Year 235.39%
 You are staking 0.00 [WBNB]-[SPACE] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WBNB]-[SPACE] APE LP
 Unstake 0.00 [WBNB]-[SPACE] APE LP
@@ -1081,12 +1062,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $88.67 TVL: $497,903.78
-FEG Price: $0.0000000049
-WBNB Price: $311.29
-Staked: 5583.0335 APE-LP ($495,045.91)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.37% Week 2.58% Year 134.13%
+ Price: $103.00 TVL: $758,892.89
+FEG Price: $0.0000000041
+WBNB Price: $480.94
+Staked: 7315.0346 APE-LP ($753,475.65)
+BANANA Per Week: 7380.65 ($35,058.09)
+APR: Day 0.66% Week 4.65% Year 241.95%
 You are staking 0.00 [FEG]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [FEG]-[WBNB] APE LP
 Unstake 0.00 [FEG]-[WBNB] APE LP
@@ -1100,12 +1081,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $22.01 TVL: $285,302.79
-ATA Price: $0.37
-WBNB Price: $311.29
-Staked: 12866.5922 APE-LP ($283,153.87)
-BANANA Per Week: 7980.58 ($9,576.69)
-APR: Day 0.48% Week 3.38% Year 175.87%
+ Price: $37.30 TVL: $873,565.49
+ATA Price: $0.68
+WBNB Price: $480.94
+Staked: 23325.3291 APE-LP ($870,083.08)
+BANANA Per Week: 4920.43 ($23,372.06)
+APR: Day 0.38% Week 2.69% Year 139.68%
 You are staking 0.00 [ATA]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [ATA]-[WBNB] APE LP
 Unstake 0.00 [ATA]-[WBNB] APE LP
@@ -1119,12 +1100,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $357.69 TVL: $546,168.28
-WBNB Price: $311.29
-GRAND Price: $100.59
-Staked: 1524.2024 APE-LP ($545,187.63)
-BANANA Per Week: 5320.38 ($6,384.46)
-APR: Day 0.17% Week 1.17% Year 60.89%
+ Price: $392.55 TVL: $490,523.02
+WBNB Price: $480.94
+GRAND Price: $77.71
+Staked: 1248.1791 APE-LP ($489,974.15)
+BANANA Per Week: 2460.22 ($11,686.03)
+APR: Day 0.34% Week 2.39% Year 124.02%
 You are staking 0.00 [WBNB]-[GRAND] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WBNB]-[GRAND] APE LP
 Unstake 0.00 [WBNB]-[GRAND] APE LP
@@ -1138,12 +1119,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $1.39 TVL: $441,389.57
-HIFI Price: $0.001525
-WBNB Price: $311.29
-Staked: 220549.5231 APE-LP ($307,318.52)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.59% Week 4.15% Year 216.06%
+ Price: $2.76 TVL: $905,388.18
+HIFI Price: $0.003813
+WBNB Price: $480.94
+Staked: 233109.2237 APE-LP ($642,490.82)
+BANANA Per Week: 7380.65 ($35,058.09)
+APR: Day 0.78% Week 5.46% Year 283.74%
 You are staking 0.00 [HIFI]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [HIFI]-[WBNB] APE LP
 Unstake 0.00 [HIFI]-[WBNB] APE LP
@@ -1157,12 +1138,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $266.20 TVL: $405,039.44
-GMR Price: $0.0000000398
-WBNB Price: $311.29
-Staked: 1512.8631 APE-LP ($402,720.58)
-BANANA Per Week: 7980.58 ($9,576.69)
-APR: Day 0.34% Week 2.38% Year 123.66%
+ Price: $474.28 TVL: $727,013.89
+GMR Price: $0.0000000780
+WBNB Price: $480.94
+Staked: 1514.8132 APE-LP ($718,443.21)
+BANANA Per Week: 7380.65 ($35,058.09)
+APR: Day 0.70% Week 4.88% Year 253.75%
 You are staking 0.00 [GMR]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [GMR]-[WBNB] APE LP
 Unstake 0.00 [GMR]-[WBNB] APE LP
@@ -1176,12 +1157,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $6.48 TVL: $57,227.13
-HERO Price: $0.03
-WBNB Price: $311.29
-Staked: 8772.1655 APE-LP ($56,876.33)
-BANANA Per Week: 2660.19 ($3,192.23)
-APR: Day 0.80% Week 5.61% Year 291.85%
+ Price: $13.02 TVL: $166,951.63
+HERO Price: $0.08
+WBNB Price: $480.94
+Staked: 12759.5715 APE-LP ($166,096.93)
+BANANA Per Week: 2460.22 ($11,686.03)
+APR: Day 1.01% Week 7.04% Year 365.85%
 You are staking 0.00 [HERO]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [HERO]-[WBNB] APE LP
 Unstake 0.00 [HERO]-[WBNB] APE LP
@@ -1195,12 +1176,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $3.62 TVL: $313,812.72
+ Price: $4.89 TVL: $572,473.37
 TWIN Price: $0.01
-WBNB Price: $311.29
-Staked: 47664.3745 APE-LP ($172,506.54)
-BANANA Per Week: 7980.58 ($9,576.69)
-APR: Day 0.79% Week 5.55% Year 288.68%
+WBNB Price: $480.94
+Staked: 70480.1512 APE-LP ($344,656.15)
+BANANA Per Week: 4920.43 ($23,372.06)
+APR: Day 0.97% Week 6.78% Year 352.63%
 You are staking 0.00 [TWIN]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [TWIN]-[WBNB] APE LP
 Unstake 0.00 [TWIN]-[WBNB] APE LP
@@ -1214,12 +1195,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $32.80 TVL: $162,493.54
-MBOX Price: $0.86
-WBNB Price: $311.29
-Staked: 4945.2615 APE-LP ($162,204.80)
-BANANA Per Week: 2660.19 ($3,192.23)
-APR: Day 0.28% Week 1.97% Year 102.34%
+ Price: $92.93 TVL: $343,528.41
+MBOX Price: $4.30
+WBNB Price: $480.94
+Staked: 3676.5384 APE-LP ($341,645.27)
+BANANA Per Week: 2460.22 ($11,686.03)
+APR: Day 0.49% Week 3.42% Year 177.87%
 You are staking 0.00 [MBOX]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [MBOX]-[WBNB] APE LP
 Unstake 0.00 [MBOX]-[WBNB] APE LP
@@ -1233,12 +1214,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $342,820.17 TVL: $55,015.07
-Foxy Price: $0.08
-WBNB Price: $311.29
-Staked: 0.1596 APE-LP ($54,729.65)
-BANANA Per Week: 2660.19 ($3,192.23)
-APR: Day 0.83% Week 5.83% Year 303.30%
+ Price: $1,374,896.17 TVL: $449,412.99
+Foxy Price: $0.70
+WBNB Price: $480.94
+Staked: 0.1283 APE-LP ($176,357.92)
+BANANA Per Week: 2460.22 ($11,686.03)
+APR: Day 0.95% Week 6.63% Year 344.57%
 You are staking 0.00 [Foxy]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [Foxy]-[WBNB] APE LP
 Unstake 0.00 [Foxy]-[WBNB] APE LP
@@ -1248,7 +1229,7 @@ Staking or unstaking also claims rewards.
 POLYGON-FARM
  Price: $0.00 Market Cap: $0.00 
 Staked: 1.0000 POLYGON-FARM ($0.00)
-BANANA Per Week: 212815.37 ($255,378.44)
+BANANA Per Week: 196817.34 ($934,882.36)
 APR: Day NaN% Week NaN% Year NaN%
 You are staking 0.00 POLYGON-FARM ($0.00), NaN% of the pool.
 Stake 0.00 POLYGON-FARM
@@ -1263,12 +1244,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $7,840.60 TVL: $56,135.66
-WYVERN Price: $0.0000356948
-WBNB Price: $311.29
-Staked: 6.7345 APE-LP ($52,802.65)
-BANANA Per Week: 2660.19 ($3,192.23)
-APR: Day 0.86% Week 6.05% Year 314.37%
+ Price: $10,742.25 TVL: $74,158.08
+WYVERN Price: $0.0000421163
+WBNB Price: $480.94
+Staked: 6.4929 APE-LP ($69,748.83)
+BANANA Per Week: 984.09 ($4,674.41)
+APR: Day 0.96% Week 6.70% Year 348.49%
 You are staking 0.00 [WYVERN]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WYVERN]-[WBNB] APE LP
 Unstake 0.00 [WYVERN]-[WBNB] APE LP
@@ -1282,12 +1263,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $33.20 TVL: $333,917.64
-BOG Price: $0.73
-WBNB Price: $311.29
-Staked: 10043.5656 APE-LP ($333,414.07)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.55% Week 3.83% Year 199.15%
+ Price: $49.01 TVL: $1,310,783.62
+BOG Price: $0.96
+WBNB Price: $480.94
+Staked: 26723.1807 APE-LP ($1,309,745.40)
+BANANA Per Week: 4920.43 ($23,372.06)
+APR: Day 0.25% Week 1.78% Year 92.79%
 You are staking 0.00 [BOG]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [BOG]-[WBNB] APE LP
 Unstake 0.00 [BOG]-[WBNB] APE LP
@@ -1301,12 +1282,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $1,156.77 TVL: $113,068.35
-Scam Price: $0.0000106474
-WBNB Price: $311.29
-Staked: 97.4986 APE-LP ($112,783.49)
-BANANA Per Week: 5320.38 ($6,384.46)
-APR: Day 0.81% Week 5.66% Year 294.36%
+ Price: $1,536.54 TVL: $183,778.34
+Scam Price: $0.0000120876
+WBNB Price: $480.94
+Staked: 119.3070 APE-LP ($183,320.33)
+BANANA Per Week: 2460.22 ($11,686.03)
+APR: Day 0.91% Week 6.37% Year 331.48%
 You are staking 0.00 [Scam]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [Scam]-[WBNB] APE LP
 Unstake 0.00 [Scam]-[WBNB] APE LP
@@ -1320,12 +1301,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $68.14 TVL: $432,299.14
-WBNB Price: $311.29
-LORY Price: $3.56
-Staked: 3330.2852 APE-LP ($226,911.16)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.80% Week 5.63% Year 292.62%
+ Price: $84.50 TVL: $760,947.46
+WBNB Price: $480.94
+LORY Price: $3.46
+Staked: 7393.5357 APE-LP ($624,763.04)
+BANANA Per Week: 7380.65 ($35,058.09)
+APR: Day 0.80% Week 5.61% Year 291.79%
 You are staking 0.00 [WBNB]-[LORY] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WBNB]-[LORY] APE LP
 Unstake 0.00 [WBNB]-[LORY] APE LP
@@ -1339,12 +1320,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $4.07 TVL: $140,120.46
-FRUIT Price: $0.01
-WBNB Price: $311.29
-Staked: 27492.6489 APE-LP ($111,960.33)
-BANANA Per Week: 5320.38 ($6,384.46)
-APR: Day 0.81% Week 5.70% Year 296.53%
+ Price: $3.42 TVL: $399,063.79
+FRUIT Price: $0.005739
+WBNB Price: $480.94
+Staked: 95232.7371 APE-LP ($325,436.62)
+BANANA Per Week: 4920.43 ($23,372.06)
+APR: Day 1.03% Week 7.18% Year 373.45%
 You are staking 0.00 [FRUIT]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [FRUIT]-[WBNB] APE LP
 Unstake 0.00 [FRUIT]-[WBNB] APE LP
@@ -1358,12 +1339,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $56.91 TVL: $353,476.89
-SKILL Price: $2.44
-WBNB Price: $311.29
-Staked: 4785.4754 APE-LP ($272,332.11)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.67% Week 4.69% Year 243.81%
+ Price: $410.66 TVL: $3,406,297.22
+SKILL Price: $42.13
+WBNB Price: $480.94
+Staked: 7802.5185 APE-LP ($3,204,214.94)
+BANANA Per Week: 29522.60 ($140,232.35)
+APR: Day 0.63% Week 4.38% Year 227.58%
 You are staking 0.00 [SKILL]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [SKILL]-[WBNB] APE LP
 Unstake 0.00 [SKILL]-[WBNB] APE LP
@@ -1377,12 +1358,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $0.12 TVL: $83,940.94
-WBNB Price: $311.29
-GNT Price: $0.0000106857
-Staked: 722641.1195 APE-LP ($83,591.54)
-BANANA Per Week: 2660.19 ($3,192.23)
-APR: Day 0.55% Week 3.82% Year 198.58%
+ Price: $0.18 TVL: $359,000.06
+WBNB Price: $480.94
+GNT Price: $0.0000158550
+Staked: 1906601.5453 APE-LP ($339,257.30)
+BANANA Per Week: 4920.43 ($23,372.06)
+APR: Day 0.98% Week 6.89% Year 358.24%
 You are staking 0.00 [WBNB]-[GNT] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WBNB]-[GNT] APE LP
 Unstake 0.00 [WBNB]-[GNT] APE LP
@@ -1396,12 +1377,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $29.60 TVL: $816,484.44
-WBNB Price: $311.29
-SFP Price: $0.70
-Staked: 27575.8355 APE-LP ($816,296.38)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.22% Week 1.56% Year 81.34%
+ Price: $53.46 TVL: $2,751,496.74
+WBNB Price: $480.94
+SFP Price: $1.47
+Staked: 51408.7873 APE-LP ($2,748,268.80)
+BANANA Per Week: 7380.65 ($35,058.09)
+APR: Day 0.18% Week 1.28% Year 66.33%
 You are staking 0.00 [WBNB]-[SFP] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WBNB]-[SFP] APE LP
 Unstake 0.00 [WBNB]-[SFP] APE LP
@@ -1415,12 +1396,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $20.32 TVL: $810,884.31
-TWT Price: $0.33
-WBNB Price: $311.29
-Staked: 39903.4347 APE-LP ($810,654.92)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.23% Week 1.58% Year 81.91%
+ Price: $43.09 TVL: $4,427,837.32
+TWT Price: $0.95
+WBNB Price: $480.94
+Staked: 102584.3336 APE-LP ($4,420,494.87)
+BANANA Per Week: 7380.65 ($35,058.09)
+APR: Day 0.11% Week 0.79% Year 41.24%
 You are staking 0.00 [TWT]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [TWT]-[WBNB] APE LP
 Unstake 0.00 [TWT]-[WBNB] APE LP
@@ -1434,12 +1415,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $25.16 TVL: $453,724.00
-EPS Price: $0.50
-WBNB Price: $311.29
-Staked: 18013.1046 APE-LP ($453,142.34)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.40% Week 2.82% Year 146.53%
+ Price: $39.57 TVL: $1,473,045.86
+EPS Price: $0.79
+WBNB Price: $480.94
+Staked: 37134.4855 APE-LP ($1,469,333.63)
+BANANA Per Week: 7380.65 ($35,058.09)
+APR: Day 0.34% Week 2.39% Year 124.07%
 You are staking 0.00 [EPS]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [EPS]-[WBNB] APE LP
 Unstake 0.00 [EPS]-[WBNB] APE LP
@@ -1453,12 +1434,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $151.54 TVL: $938,705.63
-WBNB Price: $311.29
-XVS Price: $18.40
-Staked: 6192.8915 APE-LP ($938,447.70)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.19% Week 1.36% Year 70.75%
+ Price: $271.29 TVL: $3,041,262.22
+WBNB Price: $480.94
+XVS Price: $37.59
+Staked: 11190.6224 APE-LP ($3,035,864.73)
+BANANA Per Week: 7380.65 ($35,058.09)
+APR: Day 0.16% Week 1.15% Year 60.05%
 You are staking 0.00 [WBNB]-[XVS] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WBNB]-[XVS] APE LP
 Unstake 0.00 [WBNB]-[XVS] APE LP
@@ -1472,12 +1453,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $8.62 TVL: $260,168.61
-PACOCA Price: $0.06
-WBNB Price: $311.29
-Staked: 27915.6495 APE-LP ($240,627.26)
-BANANA Per Week: 5320.38 ($6,384.46)
-APR: Day 0.38% Week 2.65% Year 137.97%
+ Price: $9.81 TVL: $459,043.03
+PACOCA Price: $0.05
+WBNB Price: $480.94
+Staked: 44116.1753 APE-LP ($432,867.16)
+BANANA Per Week: 4920.43 ($23,372.06)
+APR: Day 0.77% Week 5.40% Year 280.77%
 You are staking 0.00 [PACOCA]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [PACOCA]-[WBNB] APE LP
 Unstake 0.00 [PACOCA]-[WBNB] APE LP
@@ -1491,12 +1472,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $604.53 TVL: $1,457,497.09
-NEWB Price: $292.60
-WBNB Price: $311.29
-Staked: 2260.6006 APE-LP ($1,366,591.00)
-BANANA Per Week: 5320.38 ($6,384.46)
-APR: Day 0.07% Week 0.47% Year 24.29%
+ Price: $709.20 TVL: $5,984,647.78
+NEWB Price: $259.34
+WBNB Price: $480.94
+Staked: 8392.4008 APE-LP ($5,951,911.06)
+BANANA Per Week: 4920.43 ($23,372.06)
+APR: Day 0.06% Week 0.39% Year 20.42%
 You are staking 0.00 [NEWB]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [NEWB]-[WBNB] APE LP
 Unstake 0.00 [NEWB]-[WBNB] APE LP
@@ -1510,12 +1491,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $60.66 TVL: $400,367.49
-BISON Price: $2.92
-WBNB Price: $311.29
-Staked: 3933.1990 APE-LP ($238,605.05)
-BANANA Per Week: 10640.77 ($12,768.92)
-APR: Day 0.76% Week 5.35% Year 278.28%
+ Price: $104.99 TVL: $1,387,037.04
+BISON Price: $5.58
+WBNB Price: $480.94
+Staked: 9807.6538 APE-LP ($1,029,688.59)
+BANANA Per Week: 9840.87 ($46,744.12)
+APR: Day 0.65% Week 4.54% Year 236.06%
 You are staking 0.00 [BISON]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [BISON]-[WBNB] APE LP
 Unstake 0.00 [BISON]-[WBNB] APE LP
@@ -1529,18 +1510,398 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $6,479.45 TVL: $1,339,318.56
-YFI Price: $33,592.06
-WBNB Price: $311.29
-Staked: 206.6828 APE-LP ($1,339,190.13)
-BANANA Per Week: 21281.54 ($25,537.84)
-APR: Day 0.27% Week 1.91% Year 99.16%
+ Price: $8,785.64 TVL: $4,370,625.47
+YFI Price: $39,827.69
+WBNB Price: $480.94
+Staked: 497.2806 APE-LP ($4,368,926.80)
+BANANA Per Week: 9840.87 ($46,744.12)
+APR: Day 0.15% Week 1.07% Year 55.64%
 You are staking 0.00 [YFI]-[WBNB] APE LP ($0.00), 0.00% of the pool.
 Stake 0.00 [YFI]-[WBNB] APE LP
 Unstake 0.00 [YFI]-[WBNB] APE LP
 Claim 0.00 BANANA ($0.00)
 Staking or unstaking also claims rewards.
-Total Staked: $188,798,700.48
+91 - 
+[WBNB]-[STARS] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6.51 TVL: $1,086,758.18
+WBNB Price: $480.94
+STARS Price: $0.02
+Staked: 166677.1142 APE-LP ($1,085,574.67)
+BANANA Per Week: 9840.87 ($46,744.12)
+APR: Day 0.62% Week 4.31% Year 223.91%
+You are staking 0.00 [WBNB]-[STARS] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[STARS] APE LP
+Unstake 0.00 [WBNB]-[STARS] APE LP
+Claim 0.00 BANANA ($0.00)
+Staking or unstaking also claims rewards.
+92 - 
+[WBNB]-[SISTA] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7.95 TVL: $392,828.37
+WBNB Price: $480.94
+SISTA Price: $0.03
+Staked: 39667.6581 APE-LP ($315,348.70)
+BANANA Per Week: 4920.43 ($23,372.06)
+APR: Day 1.06% Week 7.41% Year 385.40%
+You are staking 0.00 [WBNB]-[SISTA] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[SISTA] APE LP
+Unstake 0.00 [WBNB]-[SISTA] APE LP
+Claim 0.00 BANANA ($0.00)
+Staking or unstaking also claims rewards.
+93 - 
+[WBNB]-[CAPS] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $12.83 TVL: $1,482,006.37
+WBNB Price: $480.94
+CAPS Price: $0.09
+Staked: 92791.5857 APE-LP ($1,190,137.61)
+BANANA Per Week: 9840.87 ($46,744.12)
+APR: Day 0.56% Week 3.93% Year 204.24%
+You are staking 0.00 [WBNB]-[CAPS] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[CAPS] APE LP
+Unstake 0.00 [WBNB]-[CAPS] APE LP
+Claim 0.00 BANANA ($0.00)
+Staking or unstaking also claims rewards.
+94 - 
+[BIRB]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $18.09 TVL: $1,601,620.88
+BIRB Price: $0.16
+WBNB Price: $480.94
+Staked: 42922.1598 APE-LP ($776,378.34)
+BANANA Per Week: 9840.87 ($46,744.12)
+APR: Day 0.86% Week 6.02% Year 313.08%
+You are staking 0.00 [BIRB]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BIRB]-[WBNB] APE LP
+Unstake 0.00 [BIRB]-[WBNB] APE LP
+Claim 0.00 BANANA ($0.00)
+Staking or unstaking also claims rewards.
+95 - 
+[AXS]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $389.36 TVL: $7,549,619.70
+AXS Price: $76.04
+WBNB Price: $480.94
+Staked: 19333.9679 APE-LP ($7,527,921.76)
+BANANA Per Week: 19681.73 ($93,488.24)
+APR: Day 0.18% Week 1.24% Year 64.58%
+You are staking 0.00 [AXS]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AXS]-[WBNB] APE LP
+Unstake 0.00 [AXS]-[WBNB] APE LP
+Claim 0.00 BANANA ($0.00)
+Staking or unstaking also claims rewards.
+96 - 
+[WBNB]-[DINOP] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $95,343.86 TVL: $514,610.29
+WBNB Price: $480.94
+DINOP Price: $0.003715
+Staked: 2.0705 APE-LP ($197,413.89)
+BANANA Per Week: 2460.22 ($11,686.03)
+APR: Day 0.85% Week 5.92% Year 307.82%
+You are staking 0.00 [WBNB]-[DINOP] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[DINOP] APE LP
+Unstake 0.00 [WBNB]-[DINOP] APE LP
+Claim 0.00 BANANA ($0.00)
+Staking or unstaking also claims rewards.
+97 - 
+[MARU]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.26 TVL: $637,547.99
+MARU Price: $0.000716
+WBNB Price: $480.94
+Staked: 251518.9393 APE-LP ($317,947.69)
+BANANA Per Week: 4920.43 ($23,372.06)
+APR: Day 1.05% Week 7.35% Year 382.25%
+You are staking 0.00 [MARU]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MARU]-[WBNB] APE LP
+Unstake 0.00 [MARU]-[WBNB] APE LP
+Claim 0.00 BANANA ($0.00)
+Staking or unstaking also claims rewards.
+98 - 
+[PERA]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $20.25 TVL: $338,784.13
+PERA Price: $0.19
+WBNB Price: $480.94
+Staked: 16686.1470 APE-LP ($337,966.21)
+BANANA Per Week: 4920.43 ($23,372.06)
+APR: Day 0.99% Week 6.92% Year 359.61%
+You are staking 0.00 [PERA]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PERA]-[WBNB] APE LP
+Unstake 0.00 [PERA]-[WBNB] APE LP
+Claim 0.00 BANANA ($0.00)
+Staking or unstaking also claims rewards.
+99 - 
+[WBNB]-[GUARD] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8.41 TVL: $992,362.68
+WBNB Price: $480.94
+GUARD Price: $0.04
+Staked: 105337.4920 APE-LP ($885,595.85)
+BANANA Per Week: 7380.65 ($35,058.09)
+APR: Day 0.57% Week 3.96% Year 205.85%
+You are staking 0.00 [WBNB]-[GUARD] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[GUARD] APE LP
+Unstake 0.00 [WBNB]-[GUARD] APE LP
+Claim 0.00 BANANA ($0.00)
+Staking or unstaking also claims rewards.
+100 - 
+[LAND]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $80.81 TVL: $842,995.02
+LAND Price: $3.32
+WBNB Price: $480.94
+Staked: 4312.3762 APE-LP ($348,483.53)
+BANANA Per Week: 4920.43 ($23,372.06)
+APR: Day 0.96% Week 6.71% Year 348.75%
+You are staking 0.00 [LAND]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LAND]-[WBNB] APE LP
+Unstake 0.00 [LAND]-[WBNB] APE LP
+Claim 0.00 BANANA ($0.00)
+Staking or unstaking also claims rewards.
+101 - 
+[POTS]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $193.63 TVL: $2,127,795.96
+POTS Price: $18.20
+WBNB Price: $480.94
+Staked: 10896.0378 APE-LP ($2,109,798.73)
+BANANA Per Week: 9840.87 ($46,744.12)
+APR: Day 0.32% Week 2.22% Year 115.21%
+You are staking 0.00 [POTS]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [POTS]-[WBNB] APE LP
+Unstake 0.00 [POTS]-[WBNB] APE LP
+Claim 0.00 BANANA ($0.00)
+Staking or unstaking also claims rewards.
+102 - 
+[SACT]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $16.63 TVL: $193,746.38
+SACT Price: $0.14
+WBNB Price: $480.94
+Staked: 10286.1816 APE-LP ($171,088.67)
+BANANA Per Week: 2460.22 ($11,686.03)
+APR: Day 0.98% Week 6.83% Year 355.18%
+You are staking 0.00 [SACT]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SACT]-[WBNB] APE LP
+Unstake 0.00 [SACT]-[WBNB] APE LP
+Claim 0.00 BANANA ($0.00)
+Staking or unstaking also claims rewards.
+103 - 
+[BHC]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $284.28 TVL: $500,310.22
+BHC Price: $41.81
+WBNB Price: $480.94
+Staked: 1759.1422 APE-LP ($500,094.59)
+BANANA Per Week: 4920.43 ($23,372.06)
+APR: Day 0.67% Week 4.67% Year 243.02%
+You are staking 0.00 [BHC]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BHC]-[WBNB] APE LP
+Unstake 0.00 [BHC]-[WBNB] APE LP
+Claim 0.00 BANANA ($0.00)
+Staking or unstaking also claims rewards.
+104 - 
+[WBNB]-[CYT] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $31.41 TVL: $4,048,892.33
+WBNB Price: $480.94
+CYT Price: $0.42
+Staked: 72421.5133 APE-LP ($2,274,429.75)
+BANANA Per Week: 19681.73 ($93,488.24)
+APR: Day 0.59% Week 4.11% Year 213.74%
+You are staking 0.00 [WBNB]-[CYT] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[CYT] APE LP
+Unstake 0.00 [WBNB]-[CYT] APE LP
+Claim 0.00 BANANA ($0.00)
+Staking or unstaking also claims rewards.
+106 - 
+[LMT]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $25.10 TVL: $1,528,607.78
+LMT Price: $0.33
+WBNB Price: $480.94
+Staked: 60869.9019 APE-LP ($1,527,724.38)
+BANANA Per Week: 19681.73 ($93,488.24)
+APR: Day 0.87% Week 6.12% Year 318.21%
+You are staking 0.00 [LMT]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LMT]-[WBNB] APE LP
+Unstake 0.00 [LMT]-[WBNB] APE LP
+Claim 0.00 BANANA ($0.00)
+Staking or unstaking also claims rewards.
+107 - 
+[FOOT]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.50 TVL: $719,889.60
+FOOT Price: $0.000118
+WBNB Price: $480.94
+Staked: 500153.7372 APE-LP ($251,613.81)
+BANANA Per Week: 4920.43 ($23,372.06)
+APR: Day 1.33% Week 9.29% Year 483.02%
+You are staking 0.00 [FOOT]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FOOT]-[WBNB] APE LP
+Unstake 0.00 [FOOT]-[WBNB] APE LP
+Claim 0.00 BANANA ($0.00)
+Staking or unstaking also claims rewards.
+108 - 
+[NABOX]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.20 TVL: $300,729.87
+NABOX Price: $0.0000205737
+WBNB Price: $480.94
+Staked: 1502782.7511 APE-LP ($300,179.35)
+BANANA Per Week: 4920.43 ($23,372.06)
+APR: Day 1.11% Week 7.79% Year 404.87%
+You are staking 0.00 [NABOX]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NABOX]-[WBNB] APE LP
+Unstake 0.00 [NABOX]-[WBNB] APE LP
+Claim 0.00 BANANA ($0.00)
+Staking or unstaking also claims rewards.
+109 - 
+[WBNB]-[BABI] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $23.09 TVL: $1,370,828.90
+WBNB Price: $480.94
+BABI Price: $0.27
+Staked: 21086.0004 APE-LP ($486,794.67)
+BANANA Per Week: 7380.65 ($35,058.09)
+APR: Day 1.03% Week 7.20% Year 374.49%
+You are staking 0.00 [WBNB]-[BABI] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BABI] APE LP
+Unstake 0.00 [WBNB]-[BABI] APE LP
+Claim 0.00 BANANA ($0.00)
+Staking or unstaking also claims rewards.
+110 - 
+[REVV]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $21.11 TVL: $1,957,828.71
+REVV Price: $0.23
+WBNB Price: $480.94
+Staked: 91365.1655 APE-LP ($1,928,882.89)
+BANANA Per Week: 19681.73 ($93,488.24)
+APR: Day 0.69% Week 4.85% Year 252.03%
+You are staking 0.00 [REVV]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [REVV]-[WBNB] APE LP
+Unstake 0.00 [REVV]-[WBNB] APE LP
+Claim 0.00 BANANA ($0.00)
+Staking or unstaking also claims rewards.
+111 - 
+[WIZARD]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $101.03 TVL: $601,118.74
+WIZARD Price: $4.04
+WBNB Price: $480.94
+Staked: 4661.6247 APE-LP ($470,983.19)
+BANANA Per Week: 9840.87 ($46,744.12)
+APR: Day 1.42% Week 9.92% Year 516.09%
+You are staking 0.00 [WIZARD]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WIZARD]-[WBNB] APE LP
+Unstake 0.00 [WIZARD]-[WBNB] APE LP
+Claim 0.00 BANANA ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $503,691,024.39
 Staking Contract
 Found 1 pools.
 
@@ -1556,10 +1917,10 @@ Finished reading smart contracts.
 [-]
  
 [<=>]
- Price: $1,262.03 TVL: $8,792.39
-BANANA Price: $1.20
-SOUL Price: $0.0000182028
-Staked: 0.3310 APE-LP ($417.67)
+ Price: $3,476.27 TVL: $23,022.58
+BANANA Price: $4.75
+SOUL Price: $0.0000348496
+Staked: 0.3310 APE-LP ($1,150.48)
 SOUL Per Week: 0.03 ($0.00)
 APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0.00 [BANANA]-[SOUL] APE LP ($0.00), 0.00% of the pool.
@@ -1567,4 +1928,4 @@ Stake 0.00 [BANANA]-[SOUL] APE LP
 Unstake 0.00 [BANANA]-[SOUL] APE LP
 Claim 0.00 SOUL ($0.00)
 Staking or unstaking also claims rewards.
-Total Staked: $417.67
+Total Staked: $1,150.48

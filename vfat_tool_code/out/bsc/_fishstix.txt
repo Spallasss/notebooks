@@ -1,0 +1,221 @@
+INFO  : http://fishstix.finance
+***********************************************************************************
+
+Mon Aug 23 2021 14:26:53 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 16 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+FSTX
+ Price: $0.0000719129 Market Cap: $5,242.44 
+[%]
+Staked: 18538155.3451 FSTX ($1,333.13)
+FSTX Per Week: 1118847.44 ($80.46)
+APR: Day 0.86% Week 6.04% Year 313.84%
+You are staking 0.00 FSTX ($0.00), 0.00% of the pool.
+Stake 0.00 FSTX
+Unstake 0.00 FSTX
+Claim 0.00 FSTX ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WBNB]-[FSTX] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.40 TVL: $790.42
+WBNB Price: $483.87
+FSTX Price: $0.0000719129
+Staked: 1864.2262 Cake-LP ($744.59)
+FSTX Per Week: 578830.97 ($41.63)
+APR: Day 0.80% Week 5.59% Year 290.70%
+You are staking 0.00 [WBNB]-[FSTX] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[FSTX] Cake LP
+Unstake 0.00 [WBNB]-[FSTX] Cake LP
+Claim 0.00 FSTX ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[FSTX]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $1,012.12
+FSTX Price: $0.0000719129
+BUSD Price: $1.00
+Staked: 55669.7750 Cake-LP ($998.39)
+FSTX Per Week: 1012954.19 ($72.84)
+APR: Day 1.04% Week 7.30% Year 379.40%
+You are staking 0.00 [FSTX]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FSTX]-[BUSD] Cake LP
+Unstake 0.00 [FSTX]-[BUSD] Cake LP
+Claim 0.00 FSTX ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[GFSH]-[FSTX] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $205.75
+GFSH Price: $0.0000000000
+FSTX Price: $0.0000719129
+Staked: 60942.8093 Cake-LP ($202.14)
+FSTX Per Week: 144707.74 ($10.41)
+APR: Day 0.74% Week 5.15% Year 267.71%
+You are staking 0.00 [GFSH]-[FSTX] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GFSH]-[FSTX] Cake LP
+Unstake 0.00 [GFSH]-[FSTX] Cake LP
+Claim 0.00 FSTX ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[ADA]-[FSTX] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $617.02
+ADA Price: $2.82
+FSTX Price: $0.0000719129
+Staked: 17991.2574 Cake-LP ($519.84)
+FSTX Per Week: 231454.24 ($16.64)
+APR: Day 0.46% Week 3.20% Year 166.50%
+You are staking 0.00 [ADA]-[FSTX] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[FSTX] Cake LP
+Unstake 0.00 [ADA]-[FSTX] Cake LP
+Claim 0.00 FSTX ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[SAFEMOON]-[FSTX] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.05 TVL: $205.95
+SAFEMOON Price: $0.0000019400
+FSTX Price: $0.0000719129
+Staked: 113.2138 Cake-LP ($119.08)
+FSTX Per Week: 231454.24 ($16.64)
+APR: Day 2.00% Week 13.98% Year 726.83%
+You are staking 0.00 [SAFEMOON]-[FSTX] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SAFEMOON]-[FSTX] Cake LP
+Unstake 0.00 [SAFEMOON]-[FSTX] Cake LP
+Claim 0.00 FSTX ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[BONFIRE]-[FSTX] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.19 TVL: $161.15
+BONFIRE Price: $0.0000000537
+FSTX Price: $0.0000719129
+Staked: 825.5693 Cake-LP ($157.66)
+FSTX Per Week: 231454.24 ($16.64)
+APR: Day 1.51% Week 10.56% Year 548.97%
+You are staking 0.00 [BONFIRE]-[FSTX] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BONFIRE]-[FSTX] Cake LP
+Unstake 0.00 [BONFIRE]-[FSTX] Cake LP
+Claim 0.00 FSTX ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[Sr]-[FSTX] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $176.09
+Sr Price: $0.0000000009
+FSTX Price: $0.0000719129
+Staked: 258904137.2399 Cake-LP ($172.32)
+FSTX Per Week: 231454.24 ($16.64)
+APR: Day 1.38% Week 9.66% Year 502.28%
+You are staking 0.00 [Sr]-[FSTX] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Sr]-[FSTX] Cake LP
+Unstake 0.00 [Sr]-[FSTX] Cake LP
+Claim 0.00 FSTX ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[Cake]-[FSTX] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.09 TVL: $151.88
+Cake Price: $24.99
+FSTX Price: $0.0000719129
+Staked: 1783.0893 Cake-LP ($151.61)
+FSTX Per Week: 231454.24 ($16.64)
+APR: Day 1.57% Week 10.98% Year 570.89%
+You are staking 0.00 [Cake]-[FSTX] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[FSTX] Cake LP
+Unstake 0.00 [Cake]-[FSTX] Cake LP
+Claim 0.00 FSTX ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[BIFI]-[FSTX] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.60 TVL: $390.54
+BIFI Price: $1,260.16
+FSTX Price: $0.0000719129
+Staked: 645.3677 Cake-LP ($390.19)
+FSTX Per Week: 231454.24 ($16.64)
+APR: Day 0.61% Week 4.27% Year 221.82%
+You are staking 0.00 [BIFI]-[FSTX] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BIFI]-[FSTX] Cake LP
+Unstake 0.00 [BIFI]-[FSTX] Cake LP
+Claim 0.00 FSTX ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[DOGE]-[FSTX] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $966.96 TVL: $263.63
+DOGE Price: $0.32
+FSTX Price: $0.0000719129
+Staked: 0.2724 Cake-LP ($263.45)
+FSTX Per Week: 231454.24 ($16.64)
+APR: Day 0.90% Week 6.32% Year 328.53%
+You are staking 0.00 [DOGE]-[FSTX] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[FSTX] Cake LP
+Unstake 0.00 [DOGE]-[FSTX] Cake LP
+Claim 0.00 FSTX ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $5,052.40

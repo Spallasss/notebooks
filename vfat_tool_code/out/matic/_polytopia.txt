@@ -1,0 +1,199 @@
+INFO  : https://polytopia.farm
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:09:42 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 14 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[UTOPIA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,684,816.66 TVL: $5,278.79
+USDC Price: $1.00
+UTOPIA Price: $0.52
+Staked: 0.0007 UNI-V2 ($1,251.30)
+UTOPIA Per Week: 771.43 ($404.88)
+APR: Day 4.62% Week 32.36% Year 1682.55%
+You are staking 0.00 [USDC]-[UTOPIA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[UTOPIA] Uni LP
+Unstake 0.00 [USDC]-[UTOPIA] Uni LP
+Claim 0.00 UTOPIA ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[UTOPIA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.10 TVL: $5,665.11
+WMATIC Price: $1.65
+UTOPIA Price: $0.52
+Staked: 590.8033 UNI-V2 ($1,242.13)
+UTOPIA Per Week: 771.43 ($404.88)
+APR: Day 4.66% Week 32.60% Year 1694.97%
+You are staking 0.00 [WMATIC]-[UTOPIA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[UTOPIA] Uni LP
+Unstake 0.00 [WMATIC]-[UTOPIA] Uni LP
+Claim 0.00 UTOPIA ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+UTOPIA
+ Price: $0.52 Market Cap: $13,936.77 
+[%]
+Staked: 7775.5476 UTOPIA ($4,080.96)
+UTOPIA Per Week: 771.43 ($404.88)
+APR: Day 1.42% Week 9.92% Year 515.90%
+You are staking 0.00 UTOPIA ($0.00), 0.00% of the pool.
+Stake 0.00 UTOPIA
+Unstake 0.00 UTOPIA
+Claim 0.00 UTOPIA ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WMATIC
+ Price: $1.65 Market Cap: $605,595,744.74 
+[%]
+Staked: 5482.7341 WMATIC ($9,046.51)
+UTOPIA Per Week: 257.14 ($134.96)
+APR: Day 0.21% Week 1.49% Year 77.58%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 UTOPIA ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WETH
+ Price: $3,319.67 Market Cap: $2,027,620,066.51 
+[%]
+Staked: 2.8589 WETH ($9,490.57)
+UTOPIA Per Week: 257.14 ($134.96)
+APR: Day 0.20% Week 1.42% Year 73.95%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 UTOPIA ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+USDC
+ Price: $1.00 Market Cap: $1,046,020,585.58 
+[%]
+Staked: 814.2553 USDC ($812.17)
+UTOPIA Per Week: 154.29 ($80.98)
+APR: Day 1.42% Week 9.97% Year 518.46%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 UTOPIA ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+miMATIC
+ Price: $0.00 Market Cap: $0.00 
+Staked: 902.0423 miMATIC ($0.00)
+UTOPIA Per Week: 154.29 ($80.98)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 miMATIC ($0.00), NaN% of the pool.
+Stake 0.00 miMATIC - Fee 4%
+Unstake 0.00 miMATIC
+Claim 0.00 UTOPIA ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+DAI
+ Price: $1.00 Market Cap: $375,664,195.61 
+[%]
+Staked: 2614.0344 DAI ($2,609.88)
+UTOPIA Per Week: 102.86 ($53.98)
+APR: Day 0.30% Week 2.07% Year 107.56%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 UTOPIA ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+QUICK
+ Price: $728.33 Market Cap: $697,206,038.30 
+[%]
+Staked: 17.3850 QUICK ($12,662.03)
+UTOPIA Per Week: 102.86 ($53.98)
+APR: Day 0.06% Week 0.43% Year 22.17%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 UTOPIA ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+AAVE
+ Price: $408.21 Market Cap: $155,395,171.29 
+[%]
+Staked: 6.5889 AAVE ($2,689.63)
+UTOPIA Per Week: 102.86 ($53.98)
+APR: Day 0.29% Week 2.01% Year 104.37%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 UTOPIA ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+LINK
+ Price: $28.56 Market Cap: $64,809,321.93 
+[%]
+Staked: 208.2939 LINK ($5,948.87)
+UTOPIA Per Week: 102.86 ($53.98)
+APR: Day 0.13% Week 0.91% Year 47.19%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 UTOPIA ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+QI
+ Price: $0.00 Market Cap: $0.00 
+Staked: 4240.6027 QI ($0.00)
+UTOPIA Per Week: 102.86 ($53.98)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 QI ($0.00), NaN% of the pool.
+Stake 0.00 QI - Fee 4%
+Unstake 0.00 QI
+Claim 0.00 UTOPIA ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+USDT
+ Price: $1.00 Market Cap: $314,845,845.99 
+[%]
+Staked: 858.9092 USDT ($857.92)
+UTOPIA Per Week: 154.29 ($80.98)
+APR: Day 1.35% Week 9.44% Year 490.81%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 UTOPIA ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+xUSD
+ Price: $0.00 Market Cap: $0.00 
+Staked: 13149.2744 xUSD ($0.00)
+UTOPIA Per Week: 514.29 ($269.92)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 xUSD ($0.00), NaN% of the pool.
+Stake 0.00 xUSD - Fee 2%
+Unstake 0.00 xUSD
+Claim 0.00 UTOPIA ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $50,691.98

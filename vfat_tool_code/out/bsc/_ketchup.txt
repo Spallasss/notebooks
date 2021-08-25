@@ -1,0 +1,435 @@
+INFO  : https://ketchupfinance.com
+***********************************************************************************
+
+Mon Aug 23 2021 14:34:45 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 36 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+KETCHUP
+ Price: $0.00 Market Cap: $0.00 
+Staked: 7839272894575.0186 KETCHUP ($0.00)
+KETCHUP Per Week: 2917510.85 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 KETCHUP ($0.00), NaN% of the pool.
+Stake 0.00 KETCHUP
+Unstake 0.00 KETCHUP
+Claim 0.00 KETCHUP ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,650.45 TVL: $261,621,311.52
+ETH Price: $3,325.57
+WBNB Price: $484.25
+Staked: 0.1029 Cake-LP ($272.74)
+KETCHUP Per Week: 145875.54 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 KETCHUP ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[EOS]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $107.34 TVL: $1,072,885.04
+EOS Price: $5.58
+WBNB Price: $484.25
+Staked: 1.9158 Cake-LP ($205.65)
+KETCHUP Per Week: 145875.54 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [EOS]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [EOS]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [EOS]-[WBNB] Cake LP
+Claim 0.00 KETCHUP ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+WBNB
+ Price: $484.25 Market Cap: $3,429,130,582.66 
+[%]
+Staked: 0.2991 WBNB ($144.86)
+KETCHUP Per Week: 145875.54 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 KETCHUP ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+BUSD
+ Price: $1.00 Market Cap: $4,196,290,079.67 
+[%]
+Staked: 1210.7560 BUSD ($1,209.40)
+KETCHUP Per Week: 5835.02 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 KETCHUP ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+Cake
+ Price: $25.00 Market Cap: $10,403,160,176.56 
+[%]
+Staked: 3.0583 Cake ($76.46)
+KETCHUP Per Week: 58350.22 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 KETCHUP ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+BUNNY
+ Price: $7.68 Market Cap: $85,284,686.09 
+[%]
+Staked: 1.6807 BUNNY ($12.91)
+KETCHUP Per Week: 58350.22 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BUNNY ($0.00), 0.00% of the pool.
+Stake 0.00 BUNNY - Fee 4%
+Unstake 0.00 BUNNY
+Claim 0.00 KETCHUP ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.0003 BTCB ($14.39)
+KETCHUP Per Week: 145875.54 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 KETCHUP ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+ETH
+ Price: $3,325.57 Market Cap: $4,339,868,850.00 
+[%]
+Staked: 0.0000 ETH ($0.00)
+KETCHUP Per Week: 145875.54 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ETH ($0.00), NaN% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 KETCHUP ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+DOT
+ Price: $27.99 Market Cap: $391,859,999.86 
+[%]
+Staked: 0.0501 DOT ($1.40)
+KETCHUP Per Week: 58350.22 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 KETCHUP ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+UNI
+ Price: $29.41 Market Cap: $108,817,000.00 
+[%]
+Staked: 4.0074 UNI ($117.86)
+KETCHUP Per Week: 58350.22 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 UNI ($0.00), 0.00% of the pool.
+Stake 0.00 UNI - Fee 4%
+Unstake 0.00 UNI
+Claim 0.00 KETCHUP ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+DAI
+ Price: $1.00 Market Cap: $261,927,426.00 
+[%]
+Staked: 13.3395 DAI ($13.34)
+KETCHUP Per Week: 5835.02 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 KETCHUP ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+DOGE
+ Price: $0.32 Market Cap: $649,310,000.00 
+[%]
+Staked: 2704.6541 DOGE ($878.08)
+KETCHUP Per Week: 58350.22 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DOGE ($0.00), 0.00% of the pool.
+Stake 0.00 DOGE - Fee 4%
+Unstake 0.00 DOGE
+Claim 0.00 KETCHUP ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+ADA
+ Price: $2.82 Market Cap: $789,600,000.00 
+[%]
+Staked: 93.2055 ADA ($262.84)
+KETCHUP Per Week: 58350.22 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 KETCHUP ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+LKM
+ Price: $0.00 Market Cap: $0.00 
+Staked: 91485.9935 LKM ($0.00)
+KETCHUP Per Week: 145875.54 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 LKM ($0.00), NaN% of the pool.
+Stake 0.00 LKM - Fee 4%
+Unstake 0.00 LKM
+Claim 0.00 KETCHUP ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+sLKM
+ Price: $0.00 Market Cap: $0.00 
+Staked: 392.2465 sLKM ($0.00)
+KETCHUP Per Week: 145875.54 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 sLKM ($0.00), NaN% of the pool.
+Stake 0.00 sLKM - Fee 4%
+Unstake 0.00 sLKM
+Claim 0.00 KETCHUP ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+BAKE
+ Price: $3.14 Market Cap: $2,289,777,803.51 
+[%]
+Staked: 656.5693 BAKE ($2,061.63)
+KETCHUP Per Week: 58350.22 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BAKE ($0.00), 0.00% of the pool.
+Stake 0.00 BAKE - Fee 4%
+Unstake 0.00 BAKE
+Claim 0.00 KETCHUP ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[KETCHUP]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $268.50
+KETCHUP Price: $0.0000000000
+WBNB Price: $484.25
+Staked: 7954270.9994 Cafe-LP ($71.75)
+KETCHUP Per Week: 1458755.43 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [KETCHUP]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KETCHUP]-[WBNB] Uni LP
+Unstake 0.00 [KETCHUP]-[WBNB] Uni LP
+Claim 0.00 KETCHUP ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+[KETCHUP]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $14.79
+KETCHUP Price: $0.0000000000
+BUSD Price: $1.00
+Staked: 7871785.1965 Cafe-LP ($10.86)
+KETCHUP Per Week: 1458755.43 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [KETCHUP]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KETCHUP]-[BUSD] Uni LP
+Unstake 0.00 [KETCHUP]-[BUSD] Uni LP
+Claim 0.00 KETCHUP ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+MAYO
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1741.2685 MAYO ($0.00)
+KETCHUP Per Week: 145875.54 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MAYO ($0.00), NaN% of the pool.
+Stake 0.00 MAYO - Fee 4%
+Unstake 0.00 MAYO
+Claim 0.00 KETCHUP ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+[Cake]-[KETCHUP] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.39
+Cake Price: $25.00
+KETCHUP Price: $0.0000000000
+Staked: 151215.7396 Cafe-LP ($0.38)
+KETCHUP Per Week: 145875.54 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [Cake]-[KETCHUP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[KETCHUP] Uni LP
+Unstake 0.00 [Cake]-[KETCHUP] Uni LP
+Claim 0.00 KETCHUP ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+[LTC]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $605.11 TVL: $50.56
+LTC Price: $187.89
+WBNB Price: $484.25
+Staked: 0.0000 Cafe-LP ($0.00)
+KETCHUP Per Week: 29175.11 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [LTC]-[WBNB] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [LTC]-[WBNB] Uni LP
+Unstake 0.00 [LTC]-[WBNB] Uni LP
+Claim 0.00 KETCHUP ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+[BTCB]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9,966.96 TVL: $30,152.41
+BTCB Price: $49,954.00
+WBNB Price: $484.25
+Staked: 0.0049 Cafe-LP ($48.77)
+KETCHUP Per Week: 58350.22 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [BTCB]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Uni LP
+Unstake 0.00 [BTCB]-[WBNB] Uni LP
+Claim 0.00 KETCHUP ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+[WBNB]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $51.17 TVL: $141,946.35
+WBNB Price: $484.25
+BUSD Price: $1.00
+Staked: 0.0000 Cafe-LP ($0.00)
+KETCHUP Per Week: 58350.22 ($0.00)
+APR: Day 0.00% Week 0.01% Year 0.62%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 KETCHUP ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+[KETCHUP]-[XVS] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.01
+KETCHUP Price: $0.0000000000
+XVS Price: $37.34
+Staked: 883.1721 Cafe-LP ($0.00)
+KETCHUP Per Week: 145875.54 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.01%
+You are staking 0.00 [KETCHUP]-[XVS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KETCHUP]-[XVS] Uni LP - Fee 2%
+Unstake 0.00 [KETCHUP]-[XVS] Uni LP
+Claim 0.00 KETCHUP ($0.00)
+Staking or unstaking also claims rewards.
+33 - 
+[WBNB]-[UNI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $238.98 TVL: $2.21
+WBNB Price: $484.25
+UNI Price: $29.41
+Staked: 0.0000 Cafe-LP ($0.00)
+KETCHUP Per Week: 29175.11 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[UNI] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[UNI] Uni LP
+Unstake 0.00 [WBNB]-[UNI] Uni LP
+Claim 0.00 KETCHUP ($0.00)
+Staking or unstaking also claims rewards.
+34 - 
+[KETCHUP]-[SKUNK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.00
+KETCHUP Price: $0.0000000000
+SKUNK Price: $0.0000015588
+Staked: 12402.1656 Cafe-LP ($0.00)
+KETCHUP Per Week: 145875.54 ($0.00)
+APR: Day 0.01% Week 0.07% Year 3.56%
+You are staking 0.00 [KETCHUP]-[SKUNK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KETCHUP]-[SKUNK] Uni LP - Fee 2%
+Unstake 0.00 [KETCHUP]-[SKUNK] Uni LP
+Claim 0.00 KETCHUP ($0.00)
+Staking or unstaking also claims rewards.
+35 - 
+[DOGE]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,514,169.27 TVL: $50.73
+DOGE Price: $0.32
+WBNB Price: $484.25
+Staked: 0.0000 Cafe-LP ($0.00)
+KETCHUP Per Week: 29175.11 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DOGE]-[WBNB] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [DOGE]-[WBNB] Uni LP
+Unstake 0.00 [DOGE]-[WBNB] Uni LP
+Claim 0.00 KETCHUP ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $5,403.30

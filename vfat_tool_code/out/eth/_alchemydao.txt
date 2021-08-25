@@ -1,0 +1,44 @@
+INFO  : https://alchemydao.com
+*******************************************************************************
+
+Mon Aug 23 2021 15:43:35 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[ALCH]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $28.93 TVL: $38,022.52
+ALCH Price: $0.05
+WETH Price: $3,326.01
+Staked: 803.5916 UNI-V2 ($23,251.58)
+ALCH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [ALCH]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [ALCH]-[WETH] Uni LP
+Unstake 0.000000 [ALCH]-[WETH] Uni LP
+Claim 0.000000 ALCH ($0.00)
+Revoke (set approval to 0)
+Exit
+ALCH
+ Price: $0.05 Market Cap: $535,280.00 
+[%]
+Staked: 133014.2326 ALCH ($7,119.99)
+WETH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 ALCH $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 ALCH
+Unstake 0.000000 ALCH
+Claim 0.000000 WETH ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $30,371.57

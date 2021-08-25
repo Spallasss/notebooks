@@ -1,0 +1,220 @@
+INFO  : https://polybrew.finance
+*********************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:58:02 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 15 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[BREW]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $41,013.23 TVL: $7.94
+BREW Price: $0.000323
+USDC Price: $1.00
+Staked: 0.0001 UNI-V2 ($3.84)
+BREW Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [BREW]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BREW]-[USDC] Uni LP
+Unstake 0.00 [BREW]-[USDC] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+BREW
+ Price: $0.000323 Market Cap: $32.57 
+[%]
+Staked: 22784.7470 BREW ($7.36)
+BREW Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BREW ($0.00), 0.00% of the pool.
+Stake 0.00 BREW
+Unstake 0.00 BREW
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+WMATIC
+ Price: $1.65 Market Cap: $605,590,916.30 
+[%]
+Staked: 1.0570 WMATIC ($1.74)
+BREW Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WBTC
+ Price: $50,114.00 Market Cap: $698,893,143.53 
+[%]
+Staked: 0.0002 WBTC ($11.17)
+BREW Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WETH
+ Price: $3,325.95 Market Cap: $2,031,592,222.60 
+[%]
+Staked: 0.0009 WETH ($2.89)
+BREW Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+DAI
+ Price: $1.00 Market Cap: $375,659,203.55 
+[%]
+Staked: 0.0000 DAI ($0.00)
+BREW Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+USDT
+ Price: $1.00 Market Cap: $314,825,905.66 
+[%]
+Staked: 17.9599 USDT ($17.94)
+BREW Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+USDC
+ Price: $1.00 Market Cap: $1,046,621,970.92 
+[%]
+Staked: 0.0000 USDC ($0.00)
+BREW Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+LINK
+ Price: $28.63 Market Cap: $64,968,168.31 
+[%]
+Staked: 0.0000 LINK ($0.00)
+BREW Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+QUICK
+ Price: $737.15 Market Cap: $705,649,130.39 
+[%]
+Staked: 0.0000 QUICK ($0.00)
+BREW Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+AAVE
+ Price: $409.26 Market Cap: $155,794,879.60 
+[%]
+Staked: 0.0000 AAVE ($0.00)
+BREW Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+JAVA
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1255.0734 JAVA ($0.00)
+BREW Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 JAVA ($0.00), NaN% of the pool.
+Stake 0.00 JAVA - Fee 4%
+Unstake 0.00 JAVA
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+PolyDoge
+ Price: $0.0000000064 Market Cap: $6,440,000.00 
+[%]
+Staked: 131783078.6774 PolyDoge ($0.85)
+BREW Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 4%
+Unstake 0.00 PolyDoge
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WMATIC]-[BREW] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.05 TVL: $8.24
+WMATIC Price: $1.65
+BREW Price: $0.000323
+Staked: 64.8206 UNI-V2 ($3.47)
+BREW Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[BREW] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[BREW] Uni LP
+Unstake 0.00 [WMATIC]-[BREW] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[BREW]-[USDC] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $39,153.54 TVL: $2.44
+BREW Price: $0.000323
+USDC Price: $1.00
+Staked: 0.0000 SLP ($1.48)
+BREW Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [BREW]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [BREW]-[USDC] SLP
+Unstake 0.00 [BREW]-[USDC] SLP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $50.73

@@ -1,0 +1,69 @@
+INFO  : https://farm.polyzap.finance
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:14:39 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 31 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+PZAP
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1290508.0354 PZAP ($0.00)
+PZAP Per Week: 9931.03 ($726.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 PZAP ($0.00), NaN% of the pool.
+Stake 0.00 PZAP
+Unstake 0.00 PZAP
+Claim 0.00 PZAP ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[USDC]-[PZAP] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $574,459.22 TVL: $96,059.29
+USDC Price: $1.00
+PZAP Price: $0.07
+Staked: 0.1587 PolyZap-LP ($91,177.57)
+PZAP Per Week: 23834.48 ($1,742.39)
+APR: Day 0.27% Week 1.91% Year 99.37%
+You are staking 0.00 [USDC]-[PZAP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[PZAP] Uni LP
+Unstake 0.00 [USDC]-[PZAP] Uni LP
+Claim 0.00 PZAP ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[WMATIC]-[PZAP] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.75 TVL: $122,005.93
+WMATIC Price: $1.66
+PZAP Price: $0.07
+Staked: 159345.8286 PolyZap-LP ($118,845.09)
+PZAP Per Week: 23834.48 ($1,742.39)
+APR: Day 0.21% Week 1.47% Year 76.24%
+You are staking 0.00 [WMATIC]-[PZAP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PZAP] Uni LP
+Unstake 0.00 [WMATIC]-[PZAP] Uni LP
+Claim 0.00 PZAP ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $210,022.67

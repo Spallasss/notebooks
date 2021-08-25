@@ -1,0 +1,136 @@
+INFO  : https://birthdaycake.finance
+****************************************************************************************
+
+Mon Aug 23 2021 14:09:10 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 7 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+BDAY
+ Price: $0.00 Market Cap: $0.00 
+Staked: 2330112.0048 BDAY ($0.00)
+BDAY Per Week: 50400.00 ($898.27)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BDAY ($0.00), NaN% of the pool.
+Stake 0.00 BDAY
+Unstake 0.00 BDAY
+Claim 0.00 BDAY ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[BDAY]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8.54 TVL: $3,992.66
+BDAY Price: $0.02
+WBNB Price: $485.11
+Staked: 260.0534 Cake-LP ($2,220.39)
+BDAY Per Week: 37800.00 ($673.70)
+APR: Day 4.33% Week 30.34% Year 1577.76%
+You are staking 0.00 [BDAY]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BDAY]-[WBNB] Cake LP
+Unstake 0.00 [BDAY]-[WBNB] Cake LP
+Claim 0.00 BDAY ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[BDAY]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.36 TVL: $2,512.38
+BDAY Price: $0.02
+BUSD Price: $1.00
+Staked: 6482.2029 Cake-LP ($2,351.03)
+BDAY Per Week: 63000.00 ($1,122.84)
+APR: Day 6.82% Week 47.76% Year 2483.48%
+You are staking 0.00 [BDAY]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BDAY]-[BUSD] Cake LP
+Unstake 0.00 [BDAY]-[BUSD] Cake LP
+Claim 0.00 BDAY ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[Cake]-[BDAY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.52 TVL: $773.56
+Cake Price: $25.00
+BDAY Price: $0.02
+Staked: 473.9250 Cake-LP ($719.30)
+BDAY Per Week: 15750.00 ($280.71)
+APR: Day 5.58% Week 39.03% Year 2029.33%
+You are staking 0.00 [Cake]-[BDAY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BDAY] Cake LP
+Unstake 0.00 [Cake]-[BDAY] Cake LP
+Claim 0.00 BDAY ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.60 TVL: $3,333,341.45
+WBNB Price: $485.11
+BUSD Price: $1.00
+Staked: 14.9007 Cake-LP ($962.53)
+BDAY Per Week: 3150.00 ($56.14)
+APR: Day 0.83% Week 5.83% Year 303.30%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 BDAY ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+POKE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 177685.0855 POKE ($0.00)
+BDAY Per Week: 15750.00 ($280.71)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 POKE ($0.00), NaN% of the pool.
+Stake 0.00 POKE
+Unstake 0.00 POKE
+Claim 0.00 BDAY ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[BDAY]-[ BGIFT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,283.95 TVL: $320.20
+BDAY Price: $0.02
+ BGIFT Price: $0.001232
+Staked: 0.2338 Cake-LP ($300.18)
+BDAY Per Week: 15750.00 ($280.71)
+APR: Day 13.36% Week 93.51% Year 4862.78%
+You are staking 0.00 [BDAY]-[ BGIFT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BDAY]-[ BGIFT] Cake LP
+Unstake 0.00 [BDAY]-[ BGIFT] Cake LP
+Claim 0.00 BDAY ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $6,553.43

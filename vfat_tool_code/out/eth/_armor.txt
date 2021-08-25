@@ -1,0 +1,329 @@
+INFO  : https://armor.fi
+**************************************************************************
+
+Mon Aug 23 2021 15:22:20 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[ARMOR]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $79.50 TVL: $3,422,071.92
+ARMOR Price: $0.31
+WETH Price: $3,330.60
+Staked: 40069.9624 UNI-V2 ($3,185,603.42)
+ARMOR Per Week: 142229.88 ($44,076.33)
+APR: Day 0.20% Week 1.38% Year 71.95%
+You are staking 0.000000 [ARMOR]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [ARMOR]-[WETH] Uni LP
+Unstake 0.000000 [ARMOR]-[WETH] Uni LP
+Claim 0.000000 ARMOR ($0.00)
+Revoke (set approval to 0)
+Exit
+[ARMOR]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.22 TVL: $608,725.17
+ARMOR Price: $0.31
+DAI Price: $1.00
+Staked: 500316.3508 UNI-V2 ($608,680.44)
+ARMOR Per Week: 38789.97 ($12,020.82)
+APR: Day 0.28% Week 1.97% Year 102.69%
+You are staking 0.000000 [ARMOR]-[DAI] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [ARMOR]-[DAI] Uni LP
+Unstake 0.000000 [ARMOR]-[DAI] Uni LP
+Claim 0.000000 ARMOR ($0.00)
+Revoke (set approval to 0)
+Exit
+[ARMOR]-[WBTC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $26,408,867.22 TVL: $618,666.82
+ARMOR Price: $0.31
+WBTC Price: $50,277.00
+Staked: 0.0234 UNI-V2 ($617,956.19)
+ARMOR Per Week: 38789.97 ($12,020.82)
+APR: Day 0.28% Week 1.95% Year 101.15%
+You are staking 0.000000 [ARMOR]-[WBTC] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [ARMOR]-[WBTC] Uni LP
+Unstake 0.000000 [ARMOR]-[WBTC] Uni LP
+Claim 0.000000 ARMOR ($0.00)
+Revoke (set approval to 0)
+Exit
+[ARMOR]-[WETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $68.73 TVL: $1,406,598.89
+ARMOR Price: $0.31
+WETH Price: $3,330.60
+Staked: 17365.5941 SLP ($1,193,459.88)
+ARMOR Per Week: 51719.96 ($16,027.76)
+APR: Day 0.19% Week 1.34% Year 69.83%
+You are staking 0.000000 [ARMOR]-[WETH] SLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [ARMOR]-[WETH] SLP
+Unstake 0.000000 [ARMOR]-[WETH] SLP
+Claim 0.000000 ARMOR ($0.00)
+Revoke (set approval to 0)
+Exit
+[ARMOR]-[DAI] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.16 TVL: $199,193.78
+ARMOR Price: $0.31
+DAI Price: $1.00
+Staked: 171071.3944 SLP ($198,684.44)
+ARMOR Per Week: 12929.99 ($4,006.94)
+APR: Day 0.29% Week 2.02% Year 104.87%
+You are staking 0.000000 [ARMOR]-[DAI] SLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [ARMOR]-[DAI] SLP
+Unstake 0.000000 [ARMOR]-[DAI] SLP
+Claim 0.000000 ARMOR ($0.00)
+Revoke (set approval to 0)
+Exit
+[ARMOR]-[WBTC] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $25,783,353.62 TVL: $400,554.42
+ARMOR Price: $0.31
+WBTC Price: $50,277.00
+Staked: 0.0154 SLP ($398,000.36)
+ARMOR Per Week: 25859.98 ($8,013.88)
+APR: Day 0.29% Week 2.01% Year 104.70%
+You are staking 0.000000 [ARMOR]-[WBTC] SLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [ARMOR]-[WBTC] SLP
+Unstake 0.000000 [ARMOR]-[WBTC] SLP
+Claim 0.000000 ARMOR ($0.00)
+Revoke (set approval to 0)
+Exit
+[ETH]-[ARMOR] 1INCH LP
+ Price: $0.41 TVL: $374,984.12
+ETH Price: $3,349.72
+ARMOR Price: $0.31
+Staked: 806276.1483 1LP-ETH-ARMOR ($331,249.43)
+ARMOR Per Week: 25859.98 ($8,013.88)
+APR: Day 0.35% Week 2.42% Year 125.80%
+You are staking 0.000000 [ETH]-[ARMOR] 1INCH LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [ETH]-[ARMOR] 1INCH LP
+Unstake 0.000000 [ETH]-[ARMOR] 1INCH LP
+Claim 0.000000 ARMOR ($0.00)
+Revoke (set approval to 0)
+Exit
+[ARMOR]-[DAI] 1INCH LP
+ Price: $0.25 TVL: $190,537.39
+ARMOR Price: $0.31
+DAI Price: $1.00
+Staked: 748662.4805 1LP-ARMOR-DAI ($189,287.01)
+ARMOR Per Week: 12929.99 ($4,006.94)
+APR: Day 0.30% Week 2.12% Year 110.08%
+You are staking 0.000000 [ARMOR]-[DAI] 1INCH LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [ARMOR]-[DAI] 1INCH LP
+Unstake 0.000000 [ARMOR]-[DAI] 1INCH LP
+Claim 0.000000 ARMOR ($0.00)
+Revoke (set approval to 0)
+Exit
+[ARMOR]-[WBTC] 1INCH LP
+ Price: $0.31 TVL: $211,349.80
+ARMOR Price: $0.31
+WBTC Price: $50,277.00
+Staked: 675834.2803 1LP-ARMOR-WBTC ($210,551.91)
+ARMOR Per Week: 12929.99 ($4,006.94)
+APR: Day 0.27% Week 1.90% Year 98.96%
+You are staking 0.000000 [ARMOR]-[WBTC] 1INCH LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [ARMOR]-[WBTC] 1INCH LP
+Unstake 0.000000 [ARMOR]-[WBTC] 1INCH LP
+Claim 0.000000 ARMOR ($0.00)
+Revoke (set approval to 0)
+Exit
+[ARMOR 98%]-[WETH 2%]
+ BPT Price: $165.69 TVL: $6,383,404.76
+ARMOR Price: $0.31
+WETH Price: $3,330.60
+Staked: 34310.1109 [ARMOR 98%]-[WETH 2%] ($5,684,675.44)
+ARMOR Per Week: 129299.89 ($40,069.39)
+APR: Day 0.10% Week 0.70% Year 36.65%
+You are staking 0.000000 [ARMOR 98%]-[WETH 2%] $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [ARMOR 98%]-[WETH 2%]
+Unstake 0.000000 [ARMOR 98%]-[WETH 2%]
+Claim 0.000000 ARMOR ($0.00)
+Revoke (set approval to 0)
+Exit
+[DAI 98%]-[ARMOR 2%]
+ BPT Price: $290.52 TVL: $402,565.50
+DAI Price: $1.00
+ARMOR Price: $0.31
+Staked: 1385.5583 [DAI 98%]-[ARMOR 2%] ($402,532.88)
+ARMOR Per Week: 12929.99 ($4,006.94)
+APR: Day 0.14% Week 1.00% Year 51.76%
+You are staking 0.000000 [DAI 98%]-[ARMOR 2%] $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [DAI 98%]-[ARMOR 2%]
+Unstake 0.000000 [DAI 98%]-[ARMOR 2%]
+Claim 0.000000 ARMOR ($0.00)
+Revoke (set approval to 0)
+Exit
+[ARMOR]-[arNXM] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9.95 TVL: $8,902.28
+ARMOR Price: $0.31
+arNXM Price: $78.33
+Staked: 704.4379 UNI-V2 ($7,007.96)
+ARMOR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [ARMOR]-[arNXM] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [ARMOR]-[arNXM] Uni LP
+Unstake 0.000000 [ARMOR]-[arNXM] Uni LP
+Claim 0.000000 ARMOR ($0.00)
+Revoke (set approval to 0)
+Exit
+[arNXM]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,041.77 TVL: $5,665,036.89
+arNXM Price: $78.33
+WETH Price: $3,330.60
+Staked: 5263.1975 UNI-V2 ($5,483,022.60)
+ARMOR Per Week: 51719.96 ($16,027.76)
+APR: Day 0.04% Week 0.29% Year 15.20%
+You are staking 0.000000 [arNXM]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [arNXM]-[WETH] Uni LP
+Unstake 0.000000 [arNXM]-[WETH] Uni LP
+Claim 0.000000 ARMOR ($0.00)
+Revoke (set approval to 0)
+Exit
+[arNXM]-[WETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,034.77 TVL: $2,971,321.86
+arNXM Price: $78.33
+WETH Price: $3,330.60
+Staked: 2870.3887 SLP ($2,970,179.90)
+ARMOR Per Week: 25859.98 ($8,013.88)
+APR: Day 0.04% Week 0.27% Year 14.03%
+You are staking 0.000000 [arNXM]-[WETH] SLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [arNXM]-[WETH] SLP
+Unstake 0.000000 [arNXM]-[WETH] SLP
+Claim 0.000000 ARMOR ($0.00)
+Revoke (set approval to 0)
+Exit
+[ETH]-[arNXM] 1INCH LP
+ Price: $192.27 TVL: $1,327,713.01
+ETH Price: $3,349.72
+arNXM Price: $78.33
+Staked: 6904.3592 1LP-ETH-arNXM ($1,327,488.60)
+ARMOR Per Week: 12929.99 ($4,006.94)
+APR: Day 0.04% Week 0.30% Year 15.70%
+You are staking 0.000000 [ETH]-[arNXM] 1INCH LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [ETH]-[arNXM] 1INCH LP
+Unstake 0.000000 [ETH]-[arNXM] 1INCH LP
+Claim 0.000000 ARMOR ($0.00)
+Revoke (set approval to 0)
+Exit
+[arNXM 98%]-[WETH 2%]
+ BPT Price: $0.80 TVL: $6,838,644.25
+arNXM Price: $78.33
+WETH Price: $3,330.60
+Staked: 8493033.6109 [arNXM 98%]-[WETH 2%] ($6,835,417.63)
+ARMOR Per Week: 77579.94 ($24,041.63)
+APR: Day 0.05% Week 0.35% Year 18.29%
+You are staking 0.000000 [arNXM 98%]-[WETH 2%] $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [arNXM 98%]-[WETH 2%]
+Unstake 0.000000 [arNXM 98%]-[WETH 2%]
+Claim 0.000000 ARMOR ($0.00)
+Revoke (set approval to 0)
+Exit
+[wNXM]-[arNXM] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $150.88 TVL: $2,474.97
+wNXM Price: $72.10
+arNXM Price: $78.33
+Staked: 15.1530 UNI-V2 ($2,286.36)
+ARMOR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [wNXM]-[arNXM] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [wNXM]-[arNXM] Uni LP
+Unstake 0.000000 [wNXM]-[arNXM] Uni LP
+Claim 0.000000 ARMOR ($0.00)
+Revoke (set approval to 0)
+Exit
+[wNXM]-[arNXM] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $150.58 TVL: $840.36
+wNXM Price: $72.10
+arNXM Price: $78.33
+Staked: 0.0000 SLP ($0.00)
+ARMOR Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [wNXM]-[arNXM] SLP $0.00 (NaN% of the pool).
+Etherscan
+Stake 0.000000 [wNXM]-[arNXM] SLP
+Unstake 0.000000 [wNXM]-[arNXM] SLP
+Claim 0.000000 ARMOR ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $29,646,084.45

@@ -1,0 +1,360 @@
+INFO  : https://www.tigerfinancedefi.com
+*************************************************************************************
+
+Mon Aug 23 2021 14:32:28 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 22 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[TIG]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.12 TVL: $332.67
+TIG Price: $0.002885
+BUSD Price: $1.00
+Staked: 2004.3390 Cake-LP ($244.06)
+TIG Per Week: 5298.81 ($15.29)
+APR: Day 0.89% Week 6.26% Year 325.70%
+You are staking 0.00 [TIG]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TIG]-[BUSD] Cake LP
+Unstake 0.00 [TIG]-[BUSD] Cake LP
+Claim 0.00 TIG ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[TIG]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.63 TVL: $931.78
+TIG Price: $0.002885
+WBNB Price: $483.97
+Staked: 315.4642 Cake-LP ($830.26)
+TIG Per Week: 3974.11 ($11.47)
+APR: Day 0.20% Week 1.38% Year 71.81%
+You are staking 0.00 [TIG]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TIG]-[WBNB] Cake LP
+Unstake 0.00 [TIG]-[WBNB] Cake LP
+Claim 0.00 TIG ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.71 TVL: $527,165,009.66
+WBNB Price: $483.97
+BUSD Price: $1.00
+Staked: 4.7686 Cake-LP ($237.05)
+TIG Per Week: 794.82 ($2.29)
+APR: Day 0.14% Week 0.97% Year 50.30%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 TIG ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,128,971.52
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 127.7155 Cake-LP ($261.25)
+TIG Per Week: 794.82 ($2.29)
+APR: Day 0.13% Week 0.88% Year 45.64%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 TIG ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,211.38 TVL: $173,698,561.07
+BTCB Price: $49,954.00
+WBNB Price: $483.97
+Staked: 0.0000 Cake-LP ($0.00)
+TIG Per Week: 794.82 ($2.29)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 TIG ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,648.59 TVL: $261,438,211.46
+ETH Price: $3,322.84
+WBNB Price: $483.97
+Staked: 1.4034 Cake-LP ($3,717.12)
+TIG Per Week: 794.82 ($2.29)
+APR: Day 0.01% Week 0.06% Year 3.21%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 TIG ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.03 TVL: $81,290,419.92
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 14.8469 Cake-LP ($30.21)
+TIG Per Week: 794.82 ($2.29)
+APR: Day 1.08% Week 7.59% Year 394.75%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 TIG ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,817,313.19
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 16.3160 Cake-LP ($33.56)
+TIG Per Week: 794.82 ($2.29)
+APR: Day 0.98% Week 6.83% Year 355.33%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 TIG ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $240.23 TVL: $82,600,585.84
+DOT Price: $27.97
+WBNB Price: $483.97
+Staked: 0.2773 Cake-LP ($66.61)
+TIG Per Week: 794.82 ($2.29)
+APR: Day 0.49% Week 3.44% Year 179.00%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 TIG ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+TIG
+ Price: $0.002885 Market Cap: $1,969.32 
+[%]
+Staked: 365471.6385 TIG ($1,054.37)
+TIG Per Week: 2649.41 ($7.64)
+APR: Day 0.10% Week 0.72% Year 37.70%
+You are staking 0.00 TIG ($0.00), 0.00% of the pool.
+Stake 0.00 TIG
+Unstake 0.00 TIG
+Claim 0.00 TIG ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+BUSD
+ Price: $1.00 Market Cap: $4,193,689,661.04 
+[%]
+Staked: 2071.6884 BUSD ($2,068.08)
+TIG Per Week: 529.88 ($1.53)
+APR: Day 0.01% Week 0.07% Year 3.84%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 TIG ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+WBNB
+ Price: $483.97 Market Cap: $3,427,340,290.81 
+[%]
+Staked: 0.5850 WBNB ($283.14)
+TIG Per Week: 529.88 ($1.53)
+APR: Day 0.08% Week 0.54% Year 28.07%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 TIG ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+USDT
+ Price: $1.00 Market Cap: $3,377,554,183.68 
+[%]
+Staked: 122.4408 USDT ($122.35)
+TIG Per Week: 529.88 ($1.53)
+APR: Day 0.18% Week 1.25% Year 64.97%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 TIG ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.0006 BTCB ($27.71)
+TIG Per Week: 529.88 ($1.53)
+APR: Day 0.79% Week 5.52% Year 286.82%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 TIG ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+ETH
+ Price: $3,322.84 Market Cap: $4,336,306,200.00 
+[%]
+Staked: 0.0090 ETH ($29.92)
+TIG Per Week: 529.88 ($1.53)
+APR: Day 0.73% Week 5.11% Year 265.66%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 TIG ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+DAI
+ Price: $1.00 Market Cap: $261,927,426.00 
+[%]
+Staked: 5.5245 DAI ($5.52)
+TIG Per Week: 529.88 ($1.53)
+APR: Day 3.95% Week 27.68% Year 1439.29%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 TIG ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+USDC
+ Price: $1.00 Market Cap: $1,776,125,136.00 
+[%]
+Staked: 39.1460 USDC ($39.08)
+TIG Per Week: 529.88 ($1.53)
+APR: Day 0.56% Week 3.91% Year 203.39%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 TIG ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+DOT
+ Price: $27.97 Market Cap: $391,579,999.86 
+[%]
+Staked: 0.0000 DOT ($0.00)
+TIG Per Week: 529.88 ($1.53)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DOT ($0.00), NaN% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 TIG ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $224.88 TVL: $1,029,249,219.51
+Cake Price: $24.99
+WBNB Price: $483.97
+Staked: 0.1050 Cake-LP ($23.62)
+TIG Per Week: 794.82 ($2.29)
+APR: Day 1.39% Week 9.71% Year 504.79%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 TIG ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.09 TVL: $46,755,736.73
+ADA Price: $2.82
+WBNB Price: $483.97
+Staked: 7.7747 Cake-LP ($599.38)
+TIG Per Week: 794.82 ($2.29)
+APR: Day 0.05% Week 0.38% Year 19.89%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 TIG ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+Cake
+ Price: $24.99 Market Cap: $10,398,980,585.93 
+[%]
+Staked: 9.2058 Cake ($230.05)
+TIG Per Week: 529.88 ($1.53)
+APR: Day 0.09% Week 0.66% Year 34.55%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 TIG ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+ADA
+ Price: $2.82 Market Cap: $789,600,000.00 
+[%]
+Staked: 40.6588 ADA ($114.66)
+TIG Per Week: 529.88 ($1.53)
+APR: Day 0.19% Week 1.33% Year 69.33%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 TIG ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $10,018.02

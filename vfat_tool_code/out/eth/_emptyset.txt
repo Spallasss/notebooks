@@ -1,0 +1,43 @@
+INFO  : https://app.emptyset.finance/dollar
+*************************************************************************************
+
+Mon Aug 23 2021 15:49:33 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+DSU3CRV-f
+ Price: $1.00 Market Cap: $1,551,683.58 
+Staked: 1524417.3438 DSU3CRV-f ($1,525,283.12)
+ESS Per Week: 632862.72 ($8,406.40)
+APR: Day 0.08% Week 0.55% Year 28.66%
+You are staking 0.000000 DSU3CRV-f $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 DSU3CRV-f
+Unstake 0.000000 DSU3CRV-f
+Claim 0.000000 ESS ($0.00)
+Revoke (set approval to 0)
+Exit
+[ESS]-[DSU] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.23 TVL: $971,762.56
+ESS Price: $0.01
+DSU Price: $1.00
+Staked: 4184904.3790 UNI-V2 ($971,762.54)
+ESS Per Week: 316431.36 ($4,203.20)
+APR: Day 0.06% Week 0.43% Year 22.49%
+You are staking 0.000000 [ESS]-[DSU] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [ESS]-[DSU] Uni LP
+Unstake 0.000000 [ESS]-[DSU] Uni LP
+Claim 0.000000 ESS ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $2,497,045.66

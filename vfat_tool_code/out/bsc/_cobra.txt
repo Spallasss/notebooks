@@ -1,0 +1,298 @@
+INFO  : https://www.cobrafinance.org
+*********************************************************************************
+
+Mon Aug 23 2021 14:28:18 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 18 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[BUSD]-[BITE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6.14 TVL: $3,945.06
+BUSD Price: $1.00
+BITE Price: $8.87
+Staked: 69.6773 Cake-LP ($428.04)
+BITE Per Week: 24585.37 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [BUSD]-[BITE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[BITE] Cake LP
+Unstake 0.00 [BUSD]-[BITE] Cake LP
+Claim 0.00 BITE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WBNB]-[BITE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $136.23 TVL: $3,657.81
+WBNB Price: $483.90
+BITE Price: $8.87
+Staked: 6.1461 Cake-LP ($837.27)
+BITE Per Week: 18439.02 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WBNB]-[BITE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BITE] Cake LP
+Unstake 0.00 [WBNB]-[BITE] Cake LP
+Claim 0.00 BITE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.70 TVL: $527,079,456.63
+WBNB Price: $483.90
+BUSD Price: $1.00
+Staked: 1.4184 Cake-LP ($70.50)
+BITE Per Week: 3687.80 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 BITE ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,024,093.85
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+BITE Per Week: 3687.80 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 BITE ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,210.63 TVL: $173,685,648.90
+BTCB Price: $49,954.00
+WBNB Price: $483.90
+Staked: 0.0042 Cake-LP ($42.45)
+BITE Per Week: 3687.80 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 BITE ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,648.15 TVL: $261,401,481.57
+ETH Price: $3,322.23
+WBNB Price: $483.90
+Staked: 0.0416 Cake-LP ($110.19)
+BITE Per Week: 3687.80 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 BITE ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.03 TVL: $81,266,309.87
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 47.6962 Cake-LP ($97.01)
+BITE Per Week: 3687.80 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 BITE ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,799,560.70
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+BITE Per Week: 3687.80 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 BITE ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $240.17 TVL: $82,579,748.40
+DOT Price: $27.96
+WBNB Price: $483.90
+Staked: 0.0000 Cake-LP ($0.00)
+BITE Per Week: 3687.80 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 BITE ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+BITE
+ Price: $8.87 Market Cap: $4,432.82 
+[%]
+Staked: 5.6505 BITE ($50.10)
+BITE Per Week: 12292.68 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BITE ($0.00), 0.00% of the pool.
+Stake 0.00 BITE
+Unstake 0.00 BITE
+Claim 0.00 BITE ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+BUSD
+ Price: $1.00 Market Cap: $4,192,962,888.14 
+[%]
+Staked: 65.9645 BUSD ($65.84)
+BITE Per Week: 2458.54 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 BITE ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+WBNB
+ Price: $483.90 Market Cap: $3,428,688,343.50 
+[%]
+Staked: 0.0000 WBNB ($0.00)
+BITE Per Week: 2458.54 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WBNB ($0.00), NaN% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 BITE ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+USDT
+ Price: $1.00 Market Cap: $3,377,097,883.96 
+[%]
+Staked: 0.0000 USDT ($0.00)
+BITE Per Week: 2458.54 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 USDT ($0.00), NaN% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 BITE ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.0012 BTCB ($60.10)
+BITE Per Week: 2458.54 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 BITE ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+ETH
+ Price: $3,322.23 Market Cap: $4,335,510,150.00 
+[%]
+Staked: 0.0000 ETH ($0.00)
+BITE Per Week: 2458.54 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ETH ($0.00), NaN% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 BITE ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+DAI
+ Price: $1.00 Market Cap: $261,817,648.00 
+[%]
+Staked: 0.0000 DAI ($0.00)
+BITE Per Week: 2458.54 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DAI ($0.00), NaN% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 BITE ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+USDC
+ Price: $1.00 Market Cap: $1,775,966,805.00 
+[%]
+Staked: 0.9600 USDC ($0.96)
+BITE Per Week: 2458.54 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 BITE ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+DOT
+ Price: $27.96 Market Cap: $391,439,999.86 
+[%]
+Staked: 0.0000 DOT ($0.00)
+BITE Per Week: 2458.54 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DOT ($0.00), NaN% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 BITE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,762.45

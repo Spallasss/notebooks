@@ -1,0 +1,71 @@
+INFO  : https://app.xsigma.fi
+***************************************************************************
+
+Mon Aug 23 2021 15:33:00 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+Staking Contract
+Found 4 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+SIG-LP
+ Price: $1.07 Market Cap: $3,684,963.04 
+Staked: 3274614.9928 SIG-LP ($3,515,299.09)
+SIG Per Week: 224000.00 ($62,592.10)
+APR: Day 0.25% Week 1.78% Year 92.59%
+You are staking 0.00 SIG-LP ($0.00), 0.00% of the pool.
+Stake 0.00 SIG-LP
+Unstake 0.00 SIG-LP
+Claim 0.00 SIG ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[SIG]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $67.64 TVL: $1,464,657.65
+SIG Price: $0.28
+WETH Price: $3,330.58
+Staked: 21516.2381 UNI-V2 ($1,455,270.66)
+SIG Per Week: 224000.00 ($62,592.10)
+APR: Day 0.61% Week 4.30% Year 223.66%
+You are staking 0.00 [SIG]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SIG]-[WETH] Uni LP
+Unstake 0.00 [SIG]-[WETH] Uni LP
+Claim 0.00 SIG ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+mock-lp
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 mock-lp ($0.00)
+SIG Per Week: 649600.00 ($181,517.08)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 mock-lp ($0.00), NaN% of the pool.
+Stake 0.00 mock-lp
+Unstake 0.00 mock-lp
+Claim 0.00 SIG ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+SIG
+ Price: $0.28 Market Cap: $3,431,862.41 
+[%]
+Staked: 3254162.1628 SIG ($909,307.28)
+SIG Per Week: 22400.00 ($6,259.21)
+APR: Day 0.10% Week 0.69% Year 35.79%
+You are staking 0.00 SIG ($0.00), 0.00% of the pool.
+Stake 0.00 SIG
+Unstake 0.00 SIG
+Claim 0.00 SIG ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $5,879,877.03

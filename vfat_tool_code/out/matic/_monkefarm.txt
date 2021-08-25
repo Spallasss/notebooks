@@ -1,0 +1,143 @@
+INFO  : https://www.monkefarm.finance
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:20:13 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 10 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+[MONKE]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $25,250.84 TVL: $108.12
+MONKE Price: $0.000136
+USDC Price: $1.00
+Staked: 0.00275441 UNI-V2 ($69.55)
+MONKE Per Week: 46956.52 ($6.40)
+APR: Day 1.31% Week 9.20% Year 478.57%
+You are staking 0.00 [MONKE]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MONKE]-[USDC] Uni LP
+Unstake 0.00 [MONKE]-[USDC] Uni LP
+Claim 0.00 MONKE ($0.00)
+Staking or unstaking also claims rewards.
+MONKE
+ Price: $0.000136 Market Cap: $345.78 
+[%]
+Staked: 1331964.9665 MONKE ($181.57)
+MONKE Per Week: 18782.61 ($2.56)
+APR: Day 0.20% Week 1.41% Year 73.33%
+You are staking 0.00 MONKE ($0.00), 0.00% of the pool.
+Stake 0.00 MONKE
+Unstake 0.00 MONKE
+Claim 0.00 MONKE ($0.00)
+Staking or unstaking also claims rewards.
+WMATIC
+ Price: $1.66 Market Cap: $609,198,826.51 
+[%]
+Staked: 24.3251 WMATIC ($40.38)
+MONKE Per Week: 9391.30 ($1.28)
+APR: Day 0.45% Week 3.17% Year 164.86%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC
+Unstake 0.00 WMATIC
+Claim 0.00 MONKE ($0.00)
+Staking or unstaking also claims rewards.
+WETH
+ Price: $3,324.03 Market Cap: $2,029,403,371.05 
+[%]
+Staked: 0.0249 WETH ($82.68)
+MONKE Per Week: 18782.61 ($2.56)
+APR: Day 0.44% Week 3.10% Year 161.03%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH
+Unstake 0.00 WETH
+Claim 0.00 MONKE ($0.00)
+Staking or unstaking also claims rewards.
+WBTC
+ Price: $50,155.00 Market Cap: $699,617,835.64 
+[%]
+Staked: 0.0007 WBTC ($35.11)
+MONKE Per Week: 18782.61 ($2.56)
+APR: Day 1.04% Week 7.29% Year 379.16%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC
+Unstake 0.00 WBTC
+Claim 0.00 MONKE ($0.00)
+Staking or unstaking also claims rewards.
+USDC
+ Price: $1.00 Market Cap: $1,044,837,908.60 
+[%]
+Staked: 73.4140 USDC ($73.17)
+MONKE Per Week: 18782.61 ($2.56)
+APR: Day 0.50% Week 3.50% Year 181.95%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC
+Unstake 0.00 USDC
+Claim 0.00 MONKE ($0.00)
+Staking or unstaking also claims rewards.
+USDT
+ Price: $1.00 Market Cap: $314,853,423.03 
+[%]
+Staked: 75.8833 USDT ($75.81)
+MONKE Per Week: 18782.61 ($2.56)
+APR: Day 0.48% Week 3.38% Year 175.63%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT
+Unstake 0.00 USDT
+Claim 0.00 MONKE ($0.00)
+Staking or unstaking also claims rewards.
+QUICK
+ Price: $741.55 Market Cap: $709,861,103.76 
+[%]
+Staked: 0.0339 QUICK ($25.10)
+MONKE Per Week: 9391.30 ($1.28)
+APR: Day 0.73% Week 5.10% Year 265.19%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK
+Unstake 0.00 QUICK
+Claim 0.00 MONKE ($0.00)
+Staking or unstaking also claims rewards.
+NAN
+ Price: $0.00 Market Cap: $0.00 
+Staked: 259.7767 NAN ($0.00)
+MONKE Per Week: 18782.61 ($2.56)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 NAN ($0.00), NaN% of the pool.
+Stake 0.00 NAN
+Unstake 0.00 NAN
+Claim 0.00 MONKE ($0.00)
+Staking or unstaking also claims rewards.
+[USDC]-[NAN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $833,299.66 TVL: $77.36
+USDC Price: $1.00
+NAN Price: $0.17
+Staked: 0.00009208 UNI-V2 ($76.73)
+MONKE Per Week: 37565.22 ($5.12)
+APR: Day 0.95% Week 6.67% Year 347.03%
+You are staking 0.00 [USDC]-[NAN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[NAN] Uni LP
+Unstake 0.00 [USDC]-[NAN] Uni LP
+Claim 0.00 MONKE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $660.11

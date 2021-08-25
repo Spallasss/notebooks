@@ -1,0 +1,63 @@
+INFO  : https://bella.fi
+***********************************************************************************
+
+Mon Aug 23 2021 15:38:34 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 6 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - bUSDT Price: $1.02 TVL: $5,634,688.48
+Staked: 5400386.3212 bUSDT ($5,509,786.72)
+BEL Per Week: 7317.13 ($19,097.72)
+APR: Day 0.05% Week 0.35% Year 18.02%
+You are staking 0.00 bUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 bUSDT
+Unstake 0.00 bUSDT
+Claim 0.00 BEL ($0.00)
+Staking or unstaking also claims rewards.
+1 - bUSDC Price: $1.02 TVL: $4,832,803.68
+Staked: 4631193.6708 bUSDC ($4,728,774.26)
+BEL Per Week: 4842.22 ($12,638.20)
+APR: Day 0.04% Week 0.27% Year 13.90%
+You are staking 0.00 bUSDC ($0.00), 0.00% of the pool.
+Stake 0.00 bUSDC
+Unstake 0.00 bUSDC
+Claim 0.00 BEL ($0.00)
+Staking or unstaking also claims rewards.
+2 - bARPA Price: $0.08 TVL: $7,210,861.70
+Staked: 85573690.0196 bARPA ($7,032,259.09)
+BEL Per Week: 9684.44 ($25,276.40)
+APR: Day 0.05% Week 0.36% Year 18.69%
+You are staking 0.00 bARPA ($0.00), 0.00% of the pool.
+Stake 0.00 bARPA
+Unstake 0.00 bARPA
+Claim 0.00 BEL ($0.00)
+Staking or unstaking also claims rewards.
+3 - bWBTC Price: $50,933.43 TVL: $10,570,597.70
+Staked: 204.8765 bWBTC ($10,435,061.03)
+BEL Per Week: 17216.79 ($44,935.82)
+APR: Day 0.06% Week 0.43% Year 22.39%
+You are staking 0.00 bWBTC ($0.00), 0.00% of the pool.
+Stake 0.00 bWBTC
+Unstake 0.00 bWBTC
+Claim 0.00 BEL ($0.00)
+Staking or unstaking also claims rewards.
+4 - bHBTC Price: $50,930.35 TVL: $1,186,601.55
+Staked: 22.9841 bHBTC ($1,170,587.30)
+BEL Per Week: 2152.10 ($5,616.98)
+APR: Day 0.07% Week 0.48% Year 24.95%
+You are staking 0.00 bHBTC ($0.00), 0.00% of the pool.
+Stake 0.00 bHBTC
+Unstake 0.00 bHBTC
+Claim 0.00 BEL ($0.00)
+Staking or unstaking also claims rewards.

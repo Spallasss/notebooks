@@ -1,0 +1,311 @@
+INFO  : https://www.void.farm
+*********************************************************************************
+
+Mon Aug 23 2021 14:15:16 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 34 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+10 - 
+VOID
+ Price: $0.00 Market Cap: $0.00 
+Staked: 5762.7805 VOID ($0.00)
+VOID Per Week: 157.09 ($5.27)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 VOID ($0.00), NaN% of the pool.
+Stake 0.00 VOID
+Unstake 0.00 VOID
+Claim 0.00 VOID ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+WBNB
+ Price: $483.98 Market Cap: $3,429,828,643.06 
+[%]
+Staked: 0.1587 WBNB ($76.82)
+VOID Per Week: 52.36 ($1.76)
+APR: Day 0.33% Week 2.28% Year 118.81%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 2%
+Unstake 0.00 WBNB
+Claim 0.00 VOID ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+BTCB
+ Price: $50,135.00 Market Cap: $4,286,592,635.00 
+[%]
+Staked: 0.0007 BTCB ($33.29)
+VOID Per Week: 52.36 ($1.76)
+APR: Day 0.75% Week 5.27% Year 274.12%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 2%
+Unstake 0.00 BTCB
+Claim 0.00 VOID ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+ETH
+ Price: $3,322.85 Market Cap: $4,336,319,250.00 
+[%]
+Staked: 0.0038 ETH ($12.62)
+VOID Per Week: 52.36 ($1.76)
+APR: Day 1.99% Week 13.91% Year 723.11%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 2%
+Unstake 0.00 ETH
+Claim 0.00 VOID ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+Cake
+ Price: $24.97 Market Cap: $10,390,508,860.70 
+[%]
+Staked: 1.7377 Cake ($43.39)
+VOID Per Week: 52.36 ($1.76)
+APR: Day 0.58% Week 4.04% Year 210.34%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 2%
+Unstake 0.00 Cake
+Claim 0.00 VOID ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+BUSD
+ Price: $1.00 Market Cap: $4,194,265,197.96 
+[%]
+Staked: 84.7481 BUSD ($84.61)
+VOID Per Week: 26.18 ($0.88)
+APR: Day 0.15% Week 1.04% Year 53.93%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 2%
+Unstake 0.00 BUSD
+Claim 0.00 VOID ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+USDT
+ Price: $1.00 Market Cap: $3,377,097,883.96 
+[%]
+Staked: 12.3070 USDT ($12.30)
+VOID Per Week: 26.18 ($0.88)
+APR: Day 1.02% Week 7.14% Year 371.11%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 2%
+Unstake 0.00 USDT
+Claim 0.00 VOID ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[VOID]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10.43 TVL: $227.75
+VOID Price: $0.03
+WBNB Price: $483.98
+Staked: 12.9683 Cake-LP ($135.24)
+VOID Per Week: 261.82 ($8.78)
+APR: Day 0.93% Week 6.49% Year 337.42%
+You are staking 0.00 [VOID]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VOID]-[WBNB] Cake LP
+Unstake 0.00 [VOID]-[WBNB] Cake LP
+Claim 0.00 VOID ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[VOID]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.49 TVL: $93.10
+VOID Price: $0.03
+BUSD Price: $1.00
+Staked: 131.2906 Cake-LP ($64.13)
+VOID Per Week: 261.82 ($8.78)
+APR: Day 1.96% Week 13.69% Year 711.63%
+You are staking 0.00 [VOID]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VOID]-[BUSD] Cake LP
+Unstake 0.00 [VOID]-[BUSD] Cake LP
+Claim 0.00 VOID ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.71 TVL: $526,483,028.83
+WBNB Price: $483.98
+BUSD Price: $1.00
+Staked: 104.4964 Cake-LP ($5,194.99)
+VOID Per Week: 52.36 ($1.76)
+APR: Day 0.00% Week 0.03% Year 1.76%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 VOID ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $224.79 TVL: $1,028,861,155.91
+Cake Price: $24.97
+WBNB Price: $483.98
+Staked: 0.1903 Cake-LP ($42.78)
+VOID Per Week: 52.36 ($1.76)
+APR: Day 0.59% Week 4.10% Year 213.35%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 VOID ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,229.95 TVL: $171,980,979.66
+BTCB Price: $50,135.00
+WBNB Price: $483.98
+Staked: 0.0048 Cake-LP ($49.59)
+VOID Per Week: 52.36 ($1.76)
+APR: Day 0.51% Week 3.54% Year 184.04%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 VOID ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,648.61 TVL: $261,450,232.82
+ETH Price: $3,322.85
+WBNB Price: $483.98
+Staked: 0.0350 Cake-LP ($92.70)
+VOID Per Week: 52.36 ($1.76)
+APR: Day 0.27% Week 1.89% Year 98.45%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 VOID ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,013,716.38
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 4.8823 Cake-LP ($9.99)
+VOID Per Week: 26.18 ($0.88)
+APR: Day 1.26% Week 8.79% Year 456.94%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 VOID ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+[VOID]-[USDT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.58 TVL: $22.72
+VOID Price: $0.03
+USDT Price: $1.00
+Staked: 33.0042 Cake-LP ($19.05)
+VOID Per Week: 209.45 ($7.02)
+APR: Day 5.27% Week 36.86% Year 1916.79%
+You are staking 0.00 [VOID]-[USDT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VOID]-[USDT] Cake LP
+Unstake 0.00 [VOID]-[USDT] Cake LP
+Claim 0.00 VOID ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+[VOID]-[BTCB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $110.65 TVL: $51.54
+VOID Price: $0.03
+BTCB Price: $50,135.00
+Staked: 0.4368 Cake-LP ($48.33)
+VOID Per Week: 209.45 ($7.02)
+APR: Day 2.08% Week 14.53% Year 755.38%
+You are staking 0.00 [VOID]-[BTCB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VOID]-[BTCB] Cake LP
+Unstake 0.00 [VOID]-[BTCB] Cake LP
+Claim 0.00 VOID ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+[Cake]-[VOID] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.33 TVL: $71.68
+Cake Price: $24.97
+VOID Price: $0.03
+Staked: 16.9716 Cake-LP ($39.61)
+VOID Per Week: 209.45 ($7.02)
+APR: Day 2.53% Week 17.73% Year 921.76%
+You are staking 0.00 [Cake]-[VOID] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[VOID] Cake LP
+Unstake 0.00 [Cake]-[VOID] Cake LP
+Claim 0.00 VOID ($0.00)
+Staking or unstaking also claims rewards.
+33 - 
+[VOID]-[DOT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.34 TVL: $25.63
+VOID Price: $0.03
+DOT Price: $27.99
+Staked: 10.2993 Cake-LP ($24.08)
+VOID Per Week: 209.45 ($7.02)
+APR: Day 4.16% Week 29.15% Year 1515.87%
+You are staking 0.00 [VOID]-[DOT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VOID]-[DOT] Cake LP
+Unstake 0.00 [VOID]-[DOT] Cake LP
+Claim 0.00 VOID ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $5,983.52

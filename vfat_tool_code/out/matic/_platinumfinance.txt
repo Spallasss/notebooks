@@ -1,0 +1,249 @@
+INFO  : https://platinumfinance.app
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:14:07 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 15 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[PLATIN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,624,638.46 TVL: $830.06
+USDC Price: $1.00
+PLATIN Price: $0.59
+Staked: 0.0004 UNI-V2 ($631.10)
+PLATIN Per Week: 68.03 ($40.34)
+APR: Day 0.91% Week 6.39% Year 332.36%
+You are staking 0.00 [USDC]-[PLATIN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[PLATIN] Uni LP
+Unstake 0.00 [USDC]-[PLATIN] Uni LP
+Claim 0.00 PLATIN ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[PLATIN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.15 TVL: $4,156.67
+WMATIC Price: $1.64
+PLATIN Price: $0.59
+Staked: 167.9520 UNI-V2 ($360.85)
+PLATIN Per Week: 68.03 ($40.34)
+APR: Day 1.60% Week 11.18% Year 581.27%
+You are staking 0.00 [WMATIC]-[PLATIN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PLATIN] Uni LP
+Unstake 0.00 [WMATIC]-[PLATIN] Uni LP
+Claim 0.00 PLATIN ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[PLATIN]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $92.27 TVL: $400.75
+PLATIN Price: $0.59
+WETH Price: $3,320.03
+Staked: 4.2090 UNI-V2 ($388.37)
+PLATIN Per Week: 34.02 ($20.17)
+APR: Day 0.74% Week 5.19% Year 270.04%
+You are staking 0.00 [PLATIN]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PLATIN]-[WETH] Uni LP
+Unstake 0.00 [PLATIN]-[WETH] Uni LP
+Claim 0.00 PLATIN ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,600,990.76 TVL: $33,291,066.92
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0001 UNI-V2 ($561.39)
+PLATIN Per Week: 17.01 ($10.08)
+APR: Day 0.26% Week 1.80% Year 93.41%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 PLATIN ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,661,443.85 TVL: $147,970,710.41
+USDC Price: $1.00
+WETH Price: $3,320.03
+Staked: 0.0000 UNI-V2 ($487.98)
+PLATIN Per Week: 17.01 ($10.08)
+APR: Day 0.30% Week 2.07% Year 107.46%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 PLATIN ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+PLATIN
+ Price: $0.59 Market Cap: $4,228.87 
+[%]
+Staked: 801.1788 PLATIN ($475.03)
+PLATIN Per Week: 23.81 ($14.12)
+APR: Day 0.42% Week 2.97% Year 154.54%
+You are staking 0.00 PLATIN ($0.00), 0.00% of the pool.
+Stake 0.00 PLATIN
+Unstake 0.00 PLATIN
+Claim 0.00 PLATIN ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WMATIC
+ Price: $1.64 Market Cap: $601,962,120.29 
+[%]
+Staked: 2070.5043 WMATIC ($3,395.63)
+PLATIN Per Week: 13.61 ($8.07)
+APR: Day 0.03% Week 0.24% Year 12.35%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 PLATIN ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+AAVE
+ Price: $408.06 Market Cap: $155,338,070.10 
+[%]
+Staked: 1.0488 AAVE ($427.98)
+PLATIN Per Week: 13.61 ($8.07)
+APR: Day 0.27% Week 1.88% Year 98.02%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 PLATIN ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+WETH
+ Price: $3,320.03 Market Cap: $2,027,862,868.46 
+[%]
+Staked: 0.1059 WETH ($351.59)
+PLATIN Per Week: 10.20 ($6.05)
+APR: Day 0.25% Week 1.72% Year 89.49%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 PLATIN ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+WBTC
+ Price: $50,015.00 Market Cap: $697,151,944.58 
+[%]
+Staked: 0.0010 WBTC ($51.83)
+PLATIN Per Week: 10.20 ($6.05)
+APR: Day 1.67% Week 11.67% Year 607.03%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 PLATIN ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+QUICK
+ Price: $727.30 Market Cap: $696,220,053.63 
+[%]
+Staked: 0.3568 QUICK ($259.53)
+PLATIN Per Week: 6.80 ($4.03)
+APR: Day 0.22% Week 1.55% Year 80.82%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 PLATIN ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+USDC
+ Price: $1.00 Market Cap: $1,046,023,731.72 
+[%]
+Staked: 102.1036 USDC ($101.84)
+PLATIN Per Week: 6.80 ($4.03)
+APR: Day 0.57% Week 3.96% Year 205.96%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 PLATIN ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+PolyDoge
+ Price: $0.0000000064 Market Cap: $6,408,000.00 
+[%]
+Staked: 545227179410.9360 PolyDoge ($3,493.82)
+PLATIN Per Week: 3.40 ($2.02)
+APR: Day 0.01% Week 0.06% Year 3.00%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 2%
+Unstake 0.00 PolyDoge
+Claim 0.00 PLATIN ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[USDC]-[VERT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,185,519.64 TVL: $7,889.97
+USDC Price: $1.00
+VERT Price: $0.19
+Staked: 0.0000 UNI-V2 ($8.42)
+PLATIN Per Week: 3.40 ($2.02)
+APR: Day 3.42% Week 23.95% Year 1245.21%
+You are staking 0.00 [USDC]-[VERT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[VERT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[VERT] Uni LP
+Claim 0.00 PLATIN ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[IRID]-[PLATIN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.43 TVL: $1,314.36
+IRID Price: $0.83
+PLATIN Price: $0.59
+Staked: 849.9747 UNI-V2 ($1,218.73)
+PLATIN Per Week: 136.06 ($80.67)
+APR: Day 0.95% Week 6.62% Year 344.21%
+You are staking 0.00 [IRID]-[PLATIN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [IRID]-[PLATIN] Uni LP
+Unstake 0.00 [IRID]-[PLATIN] Uni LP
+Claim 0.00 PLATIN ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $12,214.07

@@ -1,0 +1,110 @@
+INFO  : https://goldenbunny.finance
+****************************************************************************************
+
+Mon Aug 23 2021 09:27:32 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+[BUSD]-[O3]
+ 
+[+]
+[-]
+[<=>]
+ Price: $3.76 TVL: $24.52
+APY: Day 0.27% Week 1.34% Year 96.78%
+You are staking 0.000000 [BUSD]-[O3] ($0), 0.00% of the pool.
+Stake 0.000000 [BUSD]-[O3]
+Unstake 0.000000 [BUSD]-[O3]
+Claim 0.000000 CAKE ($0.00)
+[TUSD]-[BUSD]
+ 
+[+]
+[-]
+[<=>]
+ Price: $2.02 TVL: $0.00
+APY: Day 0.05% Week 0.24% Year 17.45%
+You are staking 0.000000 [TUSD]-[BUSD] ($0), NaN% of the pool.
+Stake 0.000000 [TUSD]-[BUSD]
+Unstake 0.000000 [TUSD]-[BUSD]
+Claim 0.000000 CAKE ($0.00)
+[ETH]-[BTCB]
+ 
+[+]
+[-]
+[<=>]
+ Price: $27,018.55 TVL: $0.00
+APY: Day 0.04% Week 0.19% Year 13.81%
+You are staking 0.000000 [ETH]-[BTCB] ($0), NaN% of the pool.
+Stake 0.000000 [ETH]-[BTCB]
+Unstake 0.000000 [ETH]-[BTCB]
+Claim 0.000000 CAKE ($0.00)
+[ETH]-[USDC]
+ 
+[+]
+[-]
+[<=>]
+ Price: $119.23 TVL: $0.00
+APY: Day 0.08% Week 0.41% Year 29.58%
+You are staking 0.000000 [ETH]-[USDC] ($0), NaN% of the pool.
+Stake 0.000000 [ETH]-[USDC]
+Unstake 0.000000 [ETH]-[USDC]
+Claim 0.000000 CAKE ($0.00)
+[UST]-[BUSD]
+ 
+[+]
+[-]
+[<=>]
+ Price: $2.06 TVL: $0.00
+APY: Day 0.06% Week 0.29% Year 21.17%
+You are staking 0.000000 [UST]-[BUSD] ($0), NaN% of the pool.
+Stake 0.000000 [UST]-[BUSD]
+Unstake 0.000000 [UST]-[BUSD]
+Claim 0.000000 CAKE ($0.00)
+[Cake]-[BUSD]
+ 
+[+]
+[-]
+[<=>]
+ Price: $13.56 TVL: $0.00
+APY: Day 0.18% Week 0.89% Year 63.90%
+You are staking 0.000000 [Cake]-[BUSD] ($0), NaN% of the pool.
+Stake 0.000000 [Cake]-[BUSD]
+Unstake 0.000000 [Cake]-[BUSD]
+Claim 0.000000 CAKE ($0.00)
+[WBNB]-[UNI]
+ 
+[+]
+[-]
+[<=>]
+ Price: $246.63 TVL: $0.00
+APY: Day 0.08% Week 0.43% Year 30.92%
+You are staking 0.000000 [WBNB]-[UNI] ($0), NaN% of the pool.
+Stake 0.000000 [WBNB]-[UNI]
+Unstake 0.000000 [WBNB]-[UNI]
+Claim 0.000000 CAKE ($0.00)
+[XRP]-[WBNB]
+ 
+[+]
+[-]
+[<=>]
+ Price: $52.31 TVL: $0.00
+APY: Day 0.08% Week 0.43% Year 30.68%
+You are staking 0.000000 [XRP]-[WBNB] ($0), NaN% of the pool.
+Stake 0.000000 [XRP]-[WBNB]
+Unstake 0.000000 [XRP]-[WBNB]
+Claim 0.000000 CAKE ($0.00)
+[WBNB]-[LINK]
+ 
+[+]
+[-]
+[<=>]
+ Price: $244.11 TVL: $60.39
+APY: Day 0.06% Week 0.31% Year 22.04%
+You are staking 0.000000 [WBNB]-[LINK] ($0), 0.00% of the pool.
+Stake 0.000000 [WBNB]-[LINK]
+Unstake 0.000000 [WBNB]-[LINK]
+Claim 0.000000 CAKE ($0.00)

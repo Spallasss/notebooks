@@ -1,0 +1,267 @@
+INFO  : https://pokemoon.app
+*************************************************************************************
+
+Mon Aug 23 2021 14:00:26 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 13 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+MNT
+ Price: $0.002547 Market Cap: $166,942.15 
+[%]
+Staked: 18935780.1971 MNT ($48,220.04)
+KBN Per Week: 114382.98 ($162.93)
+APR: Day 0.05% Week 0.34% Year 17.57%
+You are staking 0.00 MNT ($0.00), 0.00% of the pool.
+Stake 0.00 MNT
+Unstake 0.00 MNT
+Claim 0.00 KBN ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WBNB]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $46.47 TVL: $19,400.54
+WBNB Price: $483.59
+BUSD Price: $1.00
+Staked: 415.8963 POKEMOON-LP ($19,328.59)
+KBN Per Week: 25736.17 ($36.66)
+APR: Day 0.03% Week 0.19% Year 9.86%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 KBN ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[MNT]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.74 TVL: $44,658.86
+MNT Price: $0.002547
+WBNB Price: $483.59
+Staked: 16252.9864 POKEMOON-LP ($44,459.11)
+KBN Per Week: 142978.72 ($203.66)
+APR: Day 0.07% Week 0.46% Year 23.82%
+You are staking 0.00 [MNT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MNT]-[WBNB] Uni LP
+Unstake 0.00 [MNT]-[WBNB] Uni LP
+Claim 0.00 KBN ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[MNT]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.13 TVL: $19,017.56
+MNT Price: $0.002547
+BUSD Price: $1.00
+Staked: 137555.7544 POKEMOON-LP ($17,695.19)
+KBN Per Week: 142978.72 ($203.66)
+APR: Day 0.16% Week 1.15% Year 59.85%
+You are staking 0.00 [MNT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MNT]-[BUSD] Uni LP
+Unstake 0.00 [MNT]-[BUSD] Uni LP
+Claim 0.00 KBN ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[KBN]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.83 TVL: $6,977.23
+KBN Price: $0.001424
+WBNB Price: $483.59
+Staked: 3791.2166 POKEMOON-LP ($6,933.50)
+KBN Per Week: 85787.23 ($122.20)
+APR: Day 0.25% Week 1.76% Year 91.64%
+You are staking 0.00 [KBN]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KBN]-[WBNB] Uni LP
+Unstake 0.00 [KBN]-[WBNB] Uni LP
+Claim 0.00 KBN ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[KBN]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.08 TVL: $4,487.23
+KBN Price: $0.001424
+BUSD Price: $1.00
+Staked: 53910.1632 POKEMOON-LP ($4,354.66)
+KBN Per Week: 85787.23 ($122.20)
+APR: Day 0.40% Week 2.81% Year 145.92%
+You are staking 0.00 [KBN]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KBN]-[BUSD] Uni LP
+Unstake 0.00 [KBN]-[BUSD] Uni LP
+Claim 0.00 KBN ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[KBN]-[PB 2114] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $313.49 TVL: $45.71
+KBN Price: $0.001424
+PB 2114 Price: $0.0000916257
+Staked: 0.0883 POKEMOON-LP ($27.67)
+KBN Per Week: 142.98 ($0.20)
+APR: Day 0.11% Week 0.74% Year 38.27%
+You are staking 0.00 [KBN]-[PB 2114] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KBN]-[PB 2114] Uni LP
+Unstake 0.00 [KBN]-[PB 2114] Uni LP
+Claim 0.00 KBN ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[KBN]-[PB 2116] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $108.57
+KBN Price: $0.001424
+PB 2116 Price: $0.000183
+Staked: 80331.6235 POKEMOON-LP ($83.23)
+KBN Per Week: 142.98 ($0.20)
+APR: Day 0.03% Week 0.24% Year 12.72%
+You are staking 0.00 [KBN]-[PB 2116] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KBN]-[PB 2116] Uni LP
+Unstake 0.00 [KBN]-[PB 2116] Uni LP
+Claim 0.00 KBN ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[MNT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.37 TVL: $5,446.14
+MNT Price: $0.002547
+WBNB Price: $483.59
+Staked: 2074.6639 Cake-LP ($4,921.26)
+KBN Per Week: 57191.49 ($81.46)
+APR: Day 0.24% Week 1.66% Year 86.08%
+You are staking 0.00 [MNT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MNT]-[WBNB] Cake LP
+Unstake 0.00 [MNT]-[WBNB] Cake LP
+Claim 0.00 KBN ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[KBN]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.72 TVL: $1,573.63
+KBN Price: $0.001424
+WBNB Price: $483.59
+Staked: 837.0761 Cake-LP ($1,438.90)
+KBN Per Week: 34314.89 ($48.88)
+APR: Day 0.49% Week 3.40% Year 176.64%
+You are staking 0.00 [KBN]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KBN]-[WBNB] Cake LP
+Unstake 0.00 [KBN]-[WBNB] Cake LP
+Claim 0.00 KBN ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[KBN]-[APB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $1,584.66
+KBN Price: $0.001424
+APB Price: $0.001895
+Staked: 452349.9505 POKEMOON-LP ($1,501.10)
+KBN Per Week: 42893.62 ($61.10)
+APR: Day 0.58% Week 4.07% Year 211.65%
+You are staking 0.00 [KBN]-[APB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KBN]-[APB] Uni LP
+Unstake 0.00 [KBN]-[APB] Uni LP
+Claim 0.00 KBN ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[KBN]-[PB 2125] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $3,386.05
+KBN Price: $0.001424
+PB 2125 Price: $0.002795
+Staked: 840746.1443 POKEMOON-LP ($3,370.56)
+KBN Per Week: 42893.62 ($61.10)
+APR: Day 0.26% Week 1.81% Year 94.26%
+You are staking 0.00 [KBN]-[PB 2125] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KBN]-[PB 2125] Uni LP
+Unstake 0.00 [KBN]-[PB 2125] Uni LP
+Claim 0.00 KBN ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+KBN
+ Price: $0.001424 Market Cap: $30,539.55 
+[%]
+Staked: 8032765.6709 KBN ($11,441.86)
+KBN Per Week: 71489.36 ($101.83)
+APR: Day 0.13% Week 0.89% Year 46.28%
+You are staking 0.00 KBN ($0.00), 0.00% of the pool.
+Stake 0.00 KBN
+Unstake 0.00 KBN
+Claim 0.00 KBN ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $163,775.66
+Finished reading smart contracts.
+
+0 - 
+KBN
+ Price: $0.001424 Market Cap: $30,539.55 
+[%]
+Staked: 6460.0027 KBN ($9.20)
+PB2114 Per Week: 1612800.00 ($147.77)
+APR: Day 229.42% Week 1605.96% Year 83509.68%
+You are staking 0.00 KBN ($0.00), 0.00% of the pool.
+Stake 0.00 KBN
+Unstake 0.00 KBN
+Claim 0.00 PB2114 ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $9.20

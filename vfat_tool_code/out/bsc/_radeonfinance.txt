@@ -1,0 +1,218 @@
+INFO  : https://radeon.finance
+
+********************************************************************************************
+
+Mon Aug 23 2021 09:36:44 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 13 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[XAEA12]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.29 TVL: $3.79
+XAEA12 Price: $0.02
+BUSD Price: $1.00
+Staked: 2.6384 Cake-LP ($0.75)
+XAEA12 Per Week: 212.21 ($4.19)
+APR: Day 79.60% Week 557.19% Year 28974.11%
+You are staking 0.00 [XAEA12]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XAEA12]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [XAEA12]-[BUSD] Cake LP
+Claim 0.00 XAEA12 ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[XAEA12]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6.28 TVL: $2.67
+XAEA12 Price: $0.02
+WBNB Price: $488.80
+Staked: 0.0000 Cake-LP ($0.00)
+XAEA12 Per Week: 212.21 ($4.19)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [XAEA12]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [XAEA12]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [XAEA12]-[WBNB] Cake LP
+Claim 0.00 XAEA12 ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[XAEA12]-[BTCB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $66.21 TVL: $0.18
+XAEA12 Price: $0.02
+BTCB Price: $49,844.00
+Staked: 0.0000 Cake-LP ($0.00)
+XAEA12 Per Week: 212.21 ($4.19)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [XAEA12]-[BTCB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [XAEA12]-[BTCB] Cake LP - Fee 4%
+Unstake 0.00 [XAEA12]-[BTCB] Cake LP
+Claim 0.00 XAEA12 ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[ETH]-[XAEA12] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $22.22 TVL: $0.19
+ETH Price: $3,332.73
+XAEA12 Price: $0.02
+Staked: 0.0000 Cake-LP ($0.00)
+XAEA12 Per Week: 212.21 ($4.19)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[XAEA12] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[XAEA12] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[XAEA12] Cake LP
+Claim 0.00 XAEA12 ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[DAI]-[XAEA12] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.30 TVL: $0.71
+DAI Price: $1.00
+XAEA12 Price: $0.02
+Staked: 0.6647 Cake-LP ($0.20)
+XAEA12 Per Week: 212.21 ($4.19)
+APR: Day 301.15% Week 2108.07% Year 109619.55%
+You are staking 0.00 [DAI]-[XAEA12] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[XAEA12] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[XAEA12] Cake LP
+Claim 0.00 XAEA12 ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[XAEA12]-[USDC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.28 TVL: $1.46
+XAEA12 Price: $0.02
+USDC Price: $1.00
+Staked: 1.9057 Cake-LP ($0.54)
+XAEA12 Per Week: 212.21 ($4.19)
+APR: Day 110.93% Week 776.50% Year 40378.23%
+You are staking 0.00 [XAEA12]-[USDC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XAEA12]-[USDC] Cake LP - Fee 4%
+Unstake 0.00 [XAEA12]-[USDC] Cake LP
+Claim 0.00 XAEA12 ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+XAEA12
+ Price: $0.02 Market Cap: $225.00 
+[%]
+Staked: 745.6212 XAEA12 ($14.74)
+XAEA12 Per Week: 106.11 ($2.10)
+APR: Day 2.03% Week 14.23% Year 739.98%
+You are staking 0.00 XAEA12 ($0.00), 0.00% of the pool.
+Stake 0.00 XAEA12 - Fee 4%
+Unstake 0.00 XAEA12
+Claim 0.00 XAEA12 ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+BUSD
+ Price: $1.00 Market Cap: $4,195,307,045.81 
+[%]
+Staked: 10.0000 BUSD ($9.99)
+XAEA12 Per Week: 106.11 ($2.10)
+APR: Day 3.00% Week 21.00% Year 1092.09%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 XAEA12 ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+WBNB
+ Price: $488.80 Market Cap: $3,446,323,445.00 
+[%]
+Staked: 0.1313 WBNB ($64.19)
+XAEA12 Per Week: 106.11 ($2.10)
+APR: Day 0.47% Week 3.27% Year 169.89%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 XAEA12 ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+BTCB
+ Price: $49,844.00 Market Cap: $4,261,711,844.00 
+[%]
+Staked: 0.0006 BTCB ($32.17)
+XAEA12 Per Week: 106.11 ($2.10)
+APR: Day 0.93% Week 6.52% Year 339.04%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 XAEA12 ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+ETH
+ Price: $3,332.73 Market Cap: $4,349,212,650.00 
+[%]
+Staked: 0.0049 ETH ($16.45)
+XAEA12 Per Week: 106.11 ($2.10)
+APR: Day 1.82% Week 12.75% Year 662.80%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 XAEA12 ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 9.9779 DAI ($9.98)
+XAEA12 Per Week: 106.11 ($2.10)
+APR: Day 3.00% Week 21.02% Year 1093.03%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 XAEA12 ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,943,274.00 
+[%]
+Staked: 10.9299 USDC ($10.92)
+XAEA12 Per Week: 106.11 ($2.10)
+APR: Day 2.74% Week 19.20% Year 998.42%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 XAEA12 ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $159.93

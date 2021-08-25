@@ -1,0 +1,858 @@
+INFO  : https://klingftm.borgswap.exchange
+*************************************************************************************
+
+Mon Aug 23 2021 13:21:53 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 61 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WFTM]-[KLING] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.11 TVL: $500.07
+WFTM Price: $0.57
+KLING Price: $10.11
+Staked: 93.5725 SLP ($478.14)
+KLING Per Week: 1.28 ($12.96)
+APR: Day 0.39% Week 2.71% Year 140.91%
+You are staking 0.00 [WFTM]-[KLING] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[KLING] SLP
+Unstake 0.00 [WFTM]-[KLING] SLP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[fUSDT]-[KLING] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6,562,693.85 TVL: $47.56
+fUSDT Price: $1.00
+KLING Price: $10.11
+Staked: 0.0000 SLP ($47.35)
+KLING Per Week: 0.64 ($6.48)
+APR: Day 1.95% Week 13.68% Year 711.41%
+You are staking 0.00 [fUSDT]-[KLING] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[KLING] SLP
+Unstake 0.00 [fUSDT]-[KLING] SLP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+KLING
+ Price: $10.11 Market Cap: $819.17 
+Staked: 27.7515 KLING ($280.59)
+KLING Per Week: 0.16 ($1.62)
+APR: Day 0.08% Week 0.58% Year 30.01%
+You are staking 0.00 KLING ($0.00), 0.00% of the pool.
+Stake 0.00 KLING - Fee 1%
+Unstake 0.00 KLING
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WFTM]-[BORG] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $30,764.51 TVL: $2,199.81
+WFTM Price: $0.57
+BORG Price: $0.04
+Staked: 0.0701 SLP ($2,155.65)
+KLING Per Week: 0.16 ($1.62)
+APR: Day 0.01% Week 0.08% Year 3.91%
+You are staking 0.00 [WFTM]-[BORG] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BORG] SLP
+Unstake 0.00 [WFTM]-[BORG] SLP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[fUSDT]-[BORG] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $40,069,125,458.41 TVL: $454.85
+fUSDT Price: $1.00
+BORG Price: $0.04
+Staked: 0.0000 SLP ($454.07)
+KLING Per Week: 0.16 ($1.62)
+APR: Day 0.05% Week 0.36% Year 18.55%
+You are staking 0.00 [fUSDT]-[BORG] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[BORG] SLP
+Unstake 0.00 [fUSDT]-[BORG] SLP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WFTM]-[BORGDAI] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $136,946.14 TVL: $656.25
+WFTM Price: $0.57
+BORGDAI Price: $1.00
+Staked: 0.0045 SLP ($616.23)
+KLING Per Week: 0.16 ($1.62)
+APR: Day 0.04% Week 0.26% Year 13.67%
+You are staking 0.00 [WFTM]-[BORGDAI] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BORGDAI] SLP
+Unstake 0.00 [WFTM]-[BORGDAI] SLP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[fUSDT]-[BORGDAI] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $21,440,550,244.70 TVL: $131.53
+fUSDT Price: $1.00
+BORGDAI Price: $1.00
+Staked: 0.0000 SLP ($108.63)
+KLING Per Week: 0.16 ($1.62)
+APR: Day 0.21% Week 1.49% Year 77.53%
+You are staking 0.00 [fUSDT]-[BORGDAI] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[BORGDAI] SLP
+Unstake 0.00 [fUSDT]-[BORGDAI] SLP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[WFTM]-[YFI] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $308.40 TVL: $274,628.20
+WFTM Price: $0.57
+YFI Price: $40,027.00
+Staked: 0.2026 SLP ($62.48)
+KLING Per Week: 0.08 ($0.81)
+APR: Day 0.19% Week 1.30% Year 67.39%
+You are staking 0.00 [WFTM]-[YFI] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[YFI] SLP - Fee 1%
+Unstake 0.00 [WFTM]-[YFI] SLP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[WFTM]-[DAI] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.35 TVL: $178,364.56
+WFTM Price: $0.57
+DAI Price: $1.00
+Staked: 10.0236 SLP ($23.57)
+KLING Per Week: 0.08 ($0.81)
+APR: Day 0.49% Week 3.44% Year 178.65%
+You are staking 0.00 [WFTM]-[DAI] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[DAI] SLP - Fee 1%
+Unstake 0.00 [WFTM]-[DAI] SLP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[WFTM]-[LINK] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8.28 TVL: $186,434.23
+WFTM Price: $0.57
+LINK Price: $28.70
+Staked: 36.5320 SLP ($302.38)
+KLING Per Week: 0.08 ($0.81)
+APR: Day 0.04% Week 0.27% Year 13.93%
+You are staking 0.00 [WFTM]-[LINK] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[LINK] SLP - Fee 1%
+Unstake 0.00 [WFTM]-[LINK] SLP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[WFTM]-[ETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $91.75 TVL: $251,822.75
+WFTM Price: $0.57
+ETH Price: $3,318.62
+Staked: 1.0054 SLP ($92.25)
+KLING Per Week: 0.08 ($0.81)
+APR: Day 0.13% Week 0.88% Year 45.65%
+You are staking 0.00 [WFTM]-[ETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] SLP - Fee 1%
+Unstake 0.00 [WFTM]-[ETH] SLP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[fUSDT]-[WFTM] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,847,558.92 TVL: $132,229.14
+fUSDT Price: $1.00
+WFTM Price: $0.57
+Staked: 0.0000 SLP ($63.56)
+KLING Per Week: 0.08 ($0.81)
+APR: Day 0.18% Week 1.27% Year 66.26%
+You are staking 0.00 [fUSDT]-[WFTM] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[WFTM] SLP - Fee 1%
+Unstake 0.00 [fUSDT]-[WFTM] SLP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WFTM]-[SUSHI] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.80 TVL: $367,526.07
+WFTM Price: $0.57
+SUSHI Price: $13.81
+Staked: 49.1283 SLP ($284.97)
+KLING Per Week: 0.08 ($0.81)
+APR: Day 0.04% Week 0.28% Year 14.78%
+You are staking 0.00 [WFTM]-[SUSHI] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SUSHI] SLP - Fee 1%
+Unstake 0.00 [WFTM]-[SUSHI] SLP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WFTM]-[CREAM] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10.42 TVL: $55,368.08
+WFTM Price: $0.57
+CREAM Price: $0.000843
+Staked: 12.5788 SLP ($131.12)
+KLING Per Week: 0.08 ($0.81)
+APR: Day 0.09% Week 0.62% Year 32.11%
+You are staking 0.00 [WFTM]-[CREAM] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[CREAM] SLP - Fee 1%
+Unstake 0.00 [WFTM]-[CREAM] SLP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[USDC]-[AAVE] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $42,452,763.92 TVL: $53,284.71
+USDC Price: $1.00
+AAVE Price: $408.75
+Staked: 0.0000 SLP ($188.26)
+KLING Per Week: 0.08 ($0.81)
+APR: Day 0.06% Week 0.43% Year 22.37%
+You are staking 0.00 [USDC]-[AAVE] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[AAVE] SLP - Fee 1%
+Unstake 0.00 [USDC]-[AAVE] SLP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[WFTM]-[SNX] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.85 TVL: $148,242.98
+WFTM Price: $0.57
+SNX Price: $14.25
+Staked: 30.0317 SLP ($175.70)
+KLING Per Week: 0.08 ($0.81)
+APR: Day 0.07% Week 0.46% Year 23.97%
+You are staking 0.00 [WFTM]-[SNX] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SNX] SLP - Fee 1%
+Unstake 0.00 [WFTM]-[SNX] SLP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[WFTM]-[ICE] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.26 TVL: $1,703,682.60
+WFTM Price: $0.57
+ICE Price: $1.82
+Staked: 235.1078 SLP ($531.04)
+KLING Per Week: 0.08 ($0.81)
+APR: Day 0.02% Week 0.15% Year 7.93%
+You are staking 0.00 [WFTM]-[ICE] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ICE] SLP - Fee 1%
+Unstake 0.00 [WFTM]-[ICE] SLP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[WFTM]-[COVER] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $27.65 TVL: $58,061.33
+WFTM Price: $0.57
+COVER Price: $328.04
+Staked: 8.8928 SLP ($245.90)
+KLING Per Week: 0.08 ($0.81)
+APR: Day 0.05% Week 0.33% Year 17.12%
+You are staking 0.00 [WFTM]-[COVER] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[COVER] SLP - Fee 1%
+Unstake 0.00 [WFTM]-[COVER] SLP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[ZOO]-[WFTM] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $312,145,583.39 TVL: $208,176.60
+ZOO Price: $0.04
+WFTM Price: $0.57
+Staked: 0.0000 SLP ($1,091.27)
+KLING Per Week: 0.08 ($0.81)
+APR: Day 0.01% Week 0.07% Year 3.86%
+You are staking 0.00 [ZOO]-[WFTM] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZOO]-[WFTM] SLP - Fee 1%
+Unstake 0.00 [ZOO]-[WFTM] SLP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[CRV]-[WFTM] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.42 TVL: $52,965.96
+CRV Price: $2.42
+WFTM Price: $0.57
+Staked: 116.7839 SLP ($283.02)
+KLING Per Week: 0.08 ($0.81)
+APR: Day 0.04% Week 0.29% Year 14.88%
+You are staking 0.00 [CRV]-[WFTM] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRV]-[WFTM] SLP - Fee 1%
+Unstake 0.00 [CRV]-[WFTM] SLP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+WFTM
+ Price: $0.57 Market Cap: $121,956,837.66 
+Staked: 476.3833 WFTM ($270.95)
+KLING Per Week: 0.05 ($0.49)
+APR: Day 0.03% Week 0.18% Year 9.32%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM - Fee 4%
+Unstake 0.00 WFTM
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+FUSD
+ Price: $0.00 Market Cap: $0.00 
+Staked: 147.8681 FUSD ($0.00)
+KLING Per Week: 0.05 ($0.49)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FUSD ($0.00), NaN% of the pool.
+Stake 0.00 FUSD - Fee 4%
+Unstake 0.00 FUSD
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+DAI
+ Price: $1.00 Market Cap: $39,294,873.11 
+Staked: 10.0336 DAI ($10.02)
+KLING Per Week: 0.05 ($0.49)
+APR: Day 0.69% Week 4.85% Year 252.08%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+USDC
+ Price: $1.00 Market Cap: $64,293,561.17 
+Staked: 144.0577 USDC ($143.91)
+KLING Per Week: 0.05 ($0.49)
+APR: Day 0.05% Week 0.34% Year 17.56%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+fUSDT
+ Price: $1.00 Market Cap: $72,690,478.34 
+Staked: 14.6599 fUSDT ($14.65)
+KLING Per Week: 0.05 ($0.49)
+APR: Day 0.47% Week 3.32% Year 172.51%
+You are staking 0.00 fUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 fUSDT - Fee 4%
+Unstake 0.00 fUSDT
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+BTC
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0001 BTC ($0.00)
+KLING Per Week: 0.05 ($0.49)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BTC ($0.00), NaN% of the pool.
+Stake 0.00 BTC - Fee 4%
+Unstake 0.00 BTC
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+ETH
+ Price: $3,318.62 Market Cap: $15,101,684.65 
+Staked: 0.0009 ETH ($2.98)
+KLING Per Week: 0.05 ($0.49)
+APR: Day 2.33% Week 16.31% Year 848.00%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+YFI
+ Price: $40,027.00 Market Cap: $3,390,794.02 
+Staked: 0.0025 YFI ($101.35)
+KLING Per Week: 0.05 ($0.49)
+APR: Day 0.07% Week 0.48% Year 24.93%
+You are staking 0.00 YFI ($0.00), 0.00% of the pool.
+Stake 0.00 YFI - Fee 4%
+Unstake 0.00 YFI
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+BNB
+ Price: $481.52 Market Cap: $3,510,833.87 
+Staked: 2.7649 BNB ($1,331.34)
+KLING Per Week: 0.05 ($0.49)
+APR: Day 0.01% Week 0.04% Year 1.90%
+You are staking 0.00 BNB ($0.00), 0.00% of the pool.
+Stake 0.00 BNB - Fee 4%
+Unstake 0.00 BNB
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+ICE
+ Price: $1.82 Market Cap: $7,203,338.53 
+Staked: 38.1680 ICE ($69.47)
+KLING Per Week: 0.05 ($0.49)
+APR: Day 0.10% Week 0.70% Year 36.37%
+You are staking 0.00 ICE ($0.00), 0.00% of the pool.
+Stake 0.00 ICE - Fee 4%
+Unstake 0.00 ICE
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+LINK
+ Price: $28.70 Market Cap: $3,035,579.22 
+Staked: 23.4348 LINK ($672.58)
+KLING Per Week: 0.05 ($0.49)
+APR: Day 0.01% Week 0.07% Year 3.76%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+CREAM
+ Price: $0.000843 Market Cap: $4.65 
+Staked: 0.8197 CREAM ($0.00)
+KLING Per Week: 0.05 ($0.49)
+APR: Day 10041.34% Week 70289.41% Year 3655049.53%
+You are staking 0.00 CREAM ($0.00), 0.00% of the pool.
+Stake 0.00 CREAM - Fee 4%
+Unstake 0.00 CREAM
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+ORI
+ Price: $0.00 Market Cap: $0.00 
+Staked: 2.0622 ORI ($0.00)
+KLING Per Week: 0.05 ($0.49)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ORI ($0.00), NaN% of the pool.
+Stake 0.00 ORI - Fee 4%
+Unstake 0.00 ORI
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+33 - 
+SON
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.4855 SON ($0.00)
+KLING Per Week: 0.05 ($0.49)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SON ($0.00), NaN% of the pool.
+Stake 0.00 SON - Fee 4%
+Unstake 0.00 SON
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+34 - 
+BOO
+ Price: $10.07 Market Cap: $59,317,926.25 
+Staked: 66.6814 BOO ($671.48)
+KLING Per Week: 0.05 ($0.49)
+APR: Day 0.01% Week 0.07% Year 3.76%
+You are staking 0.00 BOO ($0.00), 0.00% of the pool.
+Stake 0.00 BOO - Fee 4%
+Unstake 0.00 BOO
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+35 - 
+SPIRIT
+ Price: $0.06 Market Cap: $19,799,448.01 
+Staked: 568.5235 SPIRIT ($35.63)
+KLING Per Week: 0.05 ($0.49)
+APR: Day 0.19% Week 1.36% Year 70.92%
+You are staking 0.00 SPIRIT ($0.00), 0.00% of the pool.
+Stake 0.00 SPIRIT - Fee 4%
+Unstake 0.00 SPIRIT
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+36 - 
+SNX
+ Price: $14.25 Market Cap: $1,617,108.33 
+Staked: 11.8292 SNX ($168.55)
+KLING Per Week: 0.05 ($0.49)
+APR: Day 0.04% Week 0.29% Year 14.99%
+You are staking 0.00 SNX ($0.00), 0.00% of the pool.
+Stake 0.00 SNX - Fee 4%
+Unstake 0.00 SNX
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+37 - 
+SUSHI
+ Price: $13.81 Market Cap: $2,794,193.64 
+Staked: 4.4099 SUSHI ($60.90)
+KLING Per Week: 0.05 ($0.49)
+APR: Day 0.11% Week 0.80% Year 41.49%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 4%
+Unstake 0.00 SUSHI
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+38 - 
+FRANK
+ Price: $0.00 Market Cap: $0.00 
+Staked: 180.8266 FRANK ($0.00)
+KLING Per Week: 0.05 ($0.49)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FRANK ($0.00), NaN% of the pool.
+Stake 0.00 FRANK - Fee 4%
+Unstake 0.00 FRANK
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+39 - 
+EST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 11.3054 EST ($0.00)
+KLING Per Week: 0.05 ($0.49)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 EST ($0.00), NaN% of the pool.
+Stake 0.00 EST - Fee 4%
+Unstake 0.00 EST
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+40 - 
+CzTears
+ Price: $0.00 Market Cap: $0.00 
+Staked: 3893.1375 CzTears ($0.00)
+KLING Per Week: 0.05 ($0.49)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CzTears ($0.00), NaN% of the pool.
+Stake 0.00 CzTears - Fee 4%
+Unstake 0.00 CzTears
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+41 - 
+OPE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 23.2419 OPE ($0.00)
+KLING Per Week: 0.05 ($0.49)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 OPE ($0.00), NaN% of the pool.
+Stake 0.00 OPE - Fee 4%
+Unstake 0.00 OPE
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+42 - 
+GHOST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 8067.7467 GHOST ($0.00)
+KLING Per Week: 0.05 ($0.49)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 GHOST ($0.00), NaN% of the pool.
+Stake 0.00 GHOST - Fee 4%
+Unstake 0.00 GHOST
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+43 - 
+LQDR
+ Price: $0.00 Market Cap: $0.00 
+Staked: 4.7672 LQDR ($0.00)
+KLING Per Week: 0.05 ($0.49)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 LQDR ($0.00), NaN% of the pool.
+Stake 0.00 LQDR - Fee 4%
+Unstake 0.00 LQDR
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+44 - 
+WAKA
+ Price: $0.00 Market Cap: $0.00 
+Staked: 49.8020 WAKA ($0.00)
+KLING Per Week: 0.05 ($0.49)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WAKA ($0.00), NaN% of the pool.
+Stake 0.00 WAKA - Fee 4%
+Unstake 0.00 WAKA
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+45 - 
+BRUSH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1014.0455 BRUSH ($0.00)
+KLING Per Week: 0.05 ($0.49)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BRUSH ($0.00), NaN% of the pool.
+Stake 0.00 BRUSH - Fee 4%
+Unstake 0.00 BRUSH
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+46 - 
+[WFTM]-[BTC] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $34,593,371.23 TVL: $174,684.34
+WFTM Price: $0.57
+BTC Price: $49,951.88
+Staked: 0.0001 SLP ($2,550.31)
+KLING Per Week: 0.08 ($0.81)
+APR: Day 0.00% Week 0.03% Year 1.65%
+You are staking 0.00 [WFTM]-[BTC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BTC] SLP - Fee 1%
+Unstake 0.00 [WFTM]-[BTC] SLP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+47 - 
+[BTC]-[KLING] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $144,514,459.97 TVL: $273.64
+BTC Price: $49,951.88
+KLING Price: $10.11
+Staked: 0.0000 SLP ($273.29)
+KLING Per Week: 1.28 ($12.96)
+APR: Day 0.68% Week 4.74% Year 246.53%
+You are staking 0.00 [BTC]-[KLING] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTC]-[KLING] SLP
+Unstake 0.00 [BTC]-[KLING] SLP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+48 - 
+AAVE
+ Price: $408.75 Market Cap: $1,583,405.35 
+Staked: 0.0438 AAVE ($17.89)
+KLING Per Week: 0.05 ($0.49)
+APR: Day 0.39% Week 2.72% Year 141.23%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+49 - 
+CRV
+ Price: $2.42 Market Cap: $2,965,503.34 
+Staked: 15.3863 CRV ($37.29)
+KLING Per Week: 0.05 ($0.49)
+APR: Day 0.19% Week 1.30% Year 67.75%
+You are staking 0.00 CRV ($0.00), 0.00% of the pool.
+Stake 0.00 CRV - Fee 4%
+Unstake 0.00 CRV
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+50 - 
+rvUSDCb
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 rvUSDCb ($0.00)
+KLING Per Week: 0.05 ($0.49)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 rvUSDCb ($0.00), NaN% of the pool.
+Stake 0.00 rvUSDCb - Fee 4%
+Unstake 0.00 rvUSDCb
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+51 - 
+rvDAIa
+ Price: $0.00 Market Cap: $0.00 
+Staked: 4.6333 rvDAIa ($0.00)
+KLING Per Week: 0.05 ($0.49)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 rvDAIa ($0.00), NaN% of the pool.
+Stake 0.00 rvDAIa - Fee 4%
+Unstake 0.00 rvDAIa
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+52 - 
+rvFUSDTa
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1.7250 rvFUSDTa ($0.00)
+KLING Per Week: 0.05 ($0.49)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 rvFUSDTa ($0.00), NaN% of the pool.
+Stake 0.00 rvFUSDTa - Fee 4%
+Unstake 0.00 rvFUSDTa
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+53 - 
+rvWBTCa
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 rvWBTCa ($0.00)
+KLING Per Week: 0.05 ($0.49)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 rvWBTCa ($0.00), NaN% of the pool.
+Stake 0.00 rvWBTCa - Fee 4%
+Unstake 0.00 rvWBTCa
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+54 - 
+rvETHa
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0011 rvETHa ($0.00)
+KLING Per Week: 0.05 ($0.49)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 rvETHa ($0.00), NaN% of the pool.
+Stake 0.00 rvETHa - Fee 4%
+Unstake 0.00 rvETHa
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+55 - 
+rvFTMa
+ Price: $0.00 Market Cap: $0.00 
+Staked: 946.2644 rvFTMa ($0.00)
+KLING Per Week: 0.05 ($0.49)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 rvFTMa ($0.00), NaN% of the pool.
+Stake 0.00 rvFTMa - Fee 4%
+Unstake 0.00 rvFTMa
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+56 - 
+rvLINKa
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.4911 rvLINKa ($0.00)
+KLING Per Week: 0.05 ($0.49)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 rvLINKa ($0.00), NaN% of the pool.
+Stake 0.00 rvLINKa - Fee 4%
+Unstake 0.00 rvLINKa
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+57 - 
+rvUSDCa
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 rvUSDCa ($0.00)
+KLING Per Week: 0.05 ($0.49)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 rvUSDCa ($0.00), NaN% of the pool.
+Stake 0.00 rvUSDCa - Fee 4%
+Unstake 0.00 rvUSDCa
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+58 - 
+rvWBTCb
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 rvWBTCb ($0.00)
+KLING Per Week: 0.05 ($0.49)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 rvWBTCb ($0.00), NaN% of the pool.
+Stake 0.00 rvWBTCb - Fee 4%
+Unstake 0.00 rvWBTCb
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+59 - 
+rvWFTMb
+ Price: $0.00 Market Cap: $0.00 
+Staked: 14.5149 rvWFTMb ($0.00)
+KLING Per Week: 0.05 ($0.49)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 rvWFTMb ($0.00), NaN% of the pool.
+Stake 0.00 rvWFTMb - Fee 4%
+Unstake 0.00 rvWFTMb
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+60 - 
+rvWFTMc
+ Price: $0.00 Market Cap: $0.00 
+Staked: 34.8443 rvWFTMc ($0.00)
+KLING Per Week: 0.05 ($0.49)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 rvWFTMc ($0.00), NaN% of the pool.
+Stake 0.00 rvWFTMc - Fee 4%
+Unstake 0.00 rvWFTMc
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $14,048.78

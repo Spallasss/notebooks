@@ -1,0 +1,277 @@
+INFO  : https://app.pancakefork.finance
+****************************************************************************************
+
+Mon Aug 23 2021 14:38:04 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 10 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[CAKF]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9.62 TVL: $32,331.98
+CAKF Price: $0.04
+WBNB Price: $484.19
+Staked: 3189.9122 CAKF-LP ($30,688.01)
+CAKF Per Week: 46200.00 ($1,949.90)
+APR: Day 0.91% Week 6.35% Year 330.40%
+You are staking 0.00 [CAKF]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CAKF]-[WBNB] Uni LP
+Unstake 0.00 [CAKF]-[WBNB] Uni LP
+Claim 0.00 CAKF ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[CAKF]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.43 TVL: $25,326.70
+CAKF Price: $0.04
+BUSD Price: $1.00
+Staked: 58746.6201 CAKF-LP ($25,272.16)
+CAKF Per Week: 46200.00 ($1,949.90)
+APR: Day 1.10% Week 7.72% Year 401.21%
+You are staking 0.00 [CAKF]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CAKF]-[BUSD] Uni LP
+Unstake 0.00 [CAKF]-[BUSD] Uni LP
+Claim 0.00 CAKF ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $44.64 TVL: $32,775.90
+WBNB Price: $484.19
+BUSD Price: $1.00
+Staked: 721.2250 CAKF-LP ($32,195.03)
+CAKF Per Week: 21568.63 ($910.32)
+APR: Day 0.40% Week 2.83% Year 147.03%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 CAKF ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $44.67 TVL: $20,478.50
+USDT Price: $1.00
+WBNB Price: $484.19
+Staked: 458.4165 CAKF-LP ($20,476.41)
+CAKF Per Week: 11086.27 ($467.90)
+APR: Day 0.33% Week 2.29% Year 118.82%
+You are staking 0.00 [USDT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Uni LP
+Unstake 0.00 [USDT]-[WBNB] Uni LP
+Claim 0.00 CAKF ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[Cake]-[CAKF] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.11 TVL: $19,552.85
+Cake Price: $25.01
+CAKF Price: $0.04
+Staked: 6917.7109 CAKF-LP ($14,571.63)
+CAKF Per Week: 24631.37 ($1,039.58)
+APR: Day 1.02% Week 7.13% Year 370.98%
+You are staking 0.00 [Cake]-[CAKF] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[CAKF] Uni LP
+Unstake 0.00 [Cake]-[CAKF] Uni LP
+Claim 0.00 CAKF ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[Cake]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $220.90 TVL: $47,000.54
+Cake Price: $25.01
+WBNB Price: $484.19
+Staked: 212.5341 CAKF-LP ($46,949.27)
+CAKF Per Week: 21568.63 ($910.32)
+APR: Day 0.28% Week 1.94% Year 100.82%
+You are staking 0.00 [Cake]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Uni LP
+Unstake 0.00 [Cake]-[WBNB] Uni LP
+Claim 0.00 CAKF ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[USDT]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $20,093.83
+USDT Price: $1.00
+USDC Price: $1.00
+Staked: 9857.7351 CAKF-LP ($19,719.97)
+CAKF Per Week: 11086.27 ($467.90)
+APR: Day 0.34% Week 2.37% Year 123.38%
+You are staking 0.00 [USDT]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] Uni LP
+Unstake 0.00 [USDT]-[USDC] Uni LP
+Claim 0.00 CAKF ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[USDT]-[BTCB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $448.70 TVL: $49,151.38
+USDT Price: $1.00
+BTCB Price: $49,954.00
+Staked: 109.5423 CAKF-LP ($49,151.38)
+CAKF Per Week: 11086.27 ($467.90)
+APR: Day 0.14% Week 0.95% Year 49.50%
+You are staking 0.00 [USDT]-[BTCB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BTCB] Uni LP
+Unstake 0.00 [USDT]-[BTCB] Uni LP
+Claim 0.00 CAKF ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[ETH]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,548.10 TVL: $40,330.27
+ETH Price: $3,331.01
+WBNB Price: $484.19
+Staked: 15.8273 CAKF-LP ($40,329.42)
+CAKF Per Week: 11086.27 ($467.90)
+APR: Day 0.17% Week 1.16% Year 60.33%
+You are staking 0.00 [ETH]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Uni LP
+Unstake 0.00 [ETH]-[WBNB] Uni LP
+Claim 0.00 CAKF ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[BTCB]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9,867.28 TVL: $22,189.48
+BTCB Price: $49,954.00
+WBNB Price: $484.19
+Staked: 2.2473 CAKF-LP ($22,175.22)
+CAKF Per Week: 11086.27 ($467.90)
+APR: Day 0.30% Week 2.11% Year 109.72%
+You are staking 0.00 [BTCB]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Uni LP
+Unstake 0.00 [BTCB]-[WBNB] Uni LP
+Claim 0.00 CAKF ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $301,528.50
+Staking Contract
+Found 7 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+1 - 
+Cake
+ Price: $25.01 Market Cap: $10,407,349,362.97 
+[%]
+Staked: 108.5749 Cake ($2,715.46)
+CAKF Per Week: 1539.69 ($64.98)
+APR: Day 0.34% Week 2.39% Year 124.44%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Claim 0.00 CAKF ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+ETH
+ Price: $3,331.01 Market Cap: $4,346,968,050.00 
+[%]
+Staked: 0.0142 ETH ($47.31)
+CAKF Per Week: 1539.69 ($64.98)
+APR: Day 19.62% Week 137.37% Year 7143.29%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH
+Unstake 0.00 ETH
+Claim 0.00 CAKF ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.0001 BTCB ($4.50)
+CAKF Per Week: 1539.69 ($64.98)
+APR: Day 206.08% Week 1442.56% Year 75013.21%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB
+Unstake 0.00 BTCB
+Claim 0.00 CAKF ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WBNB
+ Price: $484.19 Market Cap: $3,428,616,245.80 
+[%]
+Staked: 0.0414 WBNB ($20.06)
+CAKF Per Week: 1539.69 ($64.98)
+APR: Day 46.27% Week 323.89% Year 16842.48%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB
+Unstake 0.00 WBNB
+Claim 0.00 CAKF ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 425.2646 USDT ($425.18)
+CAKF Per Week: 1539.69 ($64.98)
+APR: Day 2.18% Week 15.28% Year 794.75%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT
+Unstake 0.00 USDT
+Claim 0.00 CAKF ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $3,212.51

@@ -1,0 +1,253 @@
+INFO  : https://app.polarisdefi.io
+************************************************************************************
+
+Mon Aug 23 2021 13:50:47 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 26 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[POLAR]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.48 TVL: $20,569.00
+POLAR Price: $6.92
+BUSD Price: $1.00
+Staked: 447.3739 Cake-LP ($2,449.44)
+POLAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [POLAR]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [POLAR]-[BUSD] Cake LP
+Unstake 0.00 [POLAR]-[BUSD] Cake LP
+Claim 0.00 POLAR ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[POLAR]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $119.64 TVL: $25,282.85
+POLAR Price: $6.92
+WBNB Price: $483.93
+Staked: 23.5905 Cake-LP ($2,822.34)
+POLAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [POLAR]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [POLAR]-[WBNB] Cake LP
+Unstake 0.00 [POLAR]-[WBNB] Cake LP
+Claim 0.00 POLAR ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+POLAR
+ Price: $6.92 Market Cap: $1,221,927.91 
+[%]
+Staked: 1206.5269 POLAR ($8,348.05)
+POLAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 POLAR ($0.00), 0.00% of the pool.
+Stake 0.00 POLAR
+Unstake 0.00 POLAR
+Claim 0.00 POLAR ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WBNB
+ Price: $483.93 Market Cap: $3,429,146,393.87 
+[%]
+Staked: 0.0038 WBNB ($1.86)
+POLAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 POLAR ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+BUSD
+ Price: $1.00 Market Cap: $4,199,176,166.26 
+[%]
+Staked: 48.6156 BUSD ($48.59)
+POLAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 2%
+Unstake 0.00 BUSD
+Claim 0.00 POLAR ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+USDT
+ Price: $1.00 Market Cap: $3,377,097,883.96 
+[%]
+Staked: 556.4479 USDT ($555.97)
+POLAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 POLAR ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+USDC
+ Price: $1.00 Market Cap: $1,776,833,178.00 
+[%]
+Staked: 0.0960 USDC ($0.10)
+POLAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 POLAR ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+DAI
+ Price: $1.00 Market Cap: $261,817,648.00 
+[%]
+Staked: 0.2143 DAI ($0.21)
+POLAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 POLAR ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+BTCB
+ Price: $50,221.00 Market Cap: $4,293,945,721.00 
+[%]
+Staked: 0.0000 BTCB ($0.00)
+POLAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 POLAR ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+ETH
+ Price: $3,323.90 Market Cap: $4,337,689,500.00 
+[%]
+Staked: 0.0003 ETH ($0.95)
+POLAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 POLAR ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+DOT
+ Price: $27.97 Market Cap: $391,579,999.86 
+[%]
+Staked: 0.0000 DOT ($0.00)
+POLAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 POLAR ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+Cake
+ Price: $25.01 Market Cap: $10,406,948,060.22 
+[%]
+Staked: 6.6074 Cake ($165.25)
+POLAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 POLAR ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.13 TVL: $4,006,359.02
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 49.5786 Cake-LP ($105.85)
+POLAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 POLAR ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.26 TVL: $1,019,535.26
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.9840 Cake-LP ($2.22)
+POLAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 POLAR ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.52 TVL: $3,329,334.86
+WBNB Price: $483.93
+BUSD Price: $1.00
+Staked: 15.2763 Cake-LP ($985.61)
+POLAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 POLAR ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $260.73 TVL: $8,043,293.52
+Cake Price: $25.01
+WBNB Price: $483.93
+Staked: 0.3710 Cake-LP ($96.72)
+POLAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 POLAR ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $15,583.15

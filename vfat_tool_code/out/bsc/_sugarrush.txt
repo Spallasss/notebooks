@@ -1,0 +1,626 @@
+INFO  : https://sugarrush.finance
+**************************************************************************************
+
+Mon Aug 23 2021 15:16:16 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 39 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $229.39 TVL: $1,049,417,294.90
+Cake Price: $25.40
+WBNB Price: $495.44
+Staked: 1.0150 Cake-LP ($232.84)
+SUGARRUSH Per Week: 27845303.87 ($30.70)
+APR: Day 1.88% Week 13.19% Year 685.64%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.32 TVL: $530,874,060.31
+WBNB Price: $495.44
+BUSD Price: $1.00
+Staked: 5.1460 Cake-LP ($258.95)
+SUGARRUSH Per Week: 27845303.87 ($30.70)
+APR: Day 1.69% Week 11.86% Year 616.50%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[USDT]-[USDC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $125,105,861.27
+USDT Price: $1.00
+USDC Price: $1.00
+Staked: 196.5859 Cake-LP ($405.88)
+SUGARRUSH Per Week: 27845303.87 ($30.70)
+APR: Day 1.08% Week 7.56% Year 393.32%
+You are staking 0.00 [USDT]-[USDC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[USDC] Cake LP
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,684.65 TVL: $264,972,370.41
+ETH Price: $3,334.81
+WBNB Price: $495.44
+Staked: 0.0820 Cake-LP ($220.02)
+SUGARRUSH Per Week: 27845303.87 ($30.70)
+APR: Day 1.99% Week 13.95% Year 725.59%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $51.21 TVL: $253,853,316.79
+USDT Price: $1.00
+WBNB Price: $495.44
+Staked: 4.1952 Cake-LP ($214.83)
+SUGARRUSH Per Week: 27845303.87 ($30.70)
+APR: Day 2.04% Week 14.29% Year 743.11%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[BUSD]-[SugarRush] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $552.97
+BUSD Price: $1.00
+SugarRush Price: $0.0000011025
+Staked: 192501.9764 Cake-LP ($538.26)
+SUGARRUSH Per Week: 125303867.40 ($138.15)
+APR: Day 3.67% Week 25.67% Year 1334.64%
+You are staking 0.00 [BUSD]-[SugarRush] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[SugarRush] Cake LP
+Unstake 0.00 [BUSD]-[SugarRush] Cake LP
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,310,580.80
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 203.8808 Cake-LP ($417.34)
+SUGARRUSH Per Week: 27845303.87 ($30.70)
+APR: Day 1.05% Week 7.36% Year 382.52%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[WBNB]-[SugarRush] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.05 TVL: $16,898.50
+WBNB Price: $495.44
+SugarRush Price: $0.0000011025
+Staked: 22614.2171 Cake-LP ($1,087.13)
+SUGARRUSH Per Week: 139226519.34 ($153.50)
+APR: Day 2.02% Week 14.12% Year 734.23%
+You are staking 0.00 [WBNB]-[SugarRush] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[SugarRush] Cake LP
+Unstake 0.00 [WBNB]-[SugarRush] Cake LP
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+Cake
+ Price: $25.40 Market Cap: $10,569,973,081.84 
+[%]
+Staked: 53.6839 Cake ($1,363.57)
+SUGARRUSH Per Week: 41767955.80 ($46.05)
+APR: Day 0.48% Week 3.38% Year 175.61%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+BTCB
+ Price: $49,881.00 Market Cap: $4,264,875,381.00 
+[%]
+Staked: 0.0428 BTCB ($2,134.42)
+SUGARRUSH Per Week: 27845303.87 ($30.70)
+APR: Day 0.21% Week 1.44% Year 74.79%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+ETH
+ Price: $3,334.81 Market Cap: $4,351,927,050.00 
+[%]
+Staked: 0.6235 ETH ($2,079.27)
+SUGARRUSH Per Week: 27845303.87 ($30.70)
+APR: Day 0.21% Week 1.48% Year 76.78%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+WBNB
+ Price: $495.44 Market Cap: $3,493,371,798.51 
+[%]
+Staked: 0.9162 WBNB ($453.93)
+SUGARRUSH Per Week: 27845303.87 ($30.70)
+APR: Day 0.97% Week 6.76% Year 351.68%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+ADA
+ Price: $2.83 Market Cap: $792,400,000.00 
+[%]
+Staked: 365.8745 ADA ($1,035.42)
+SUGARRUSH Per Week: 27845303.87 ($30.70)
+APR: Day 0.42% Week 2.96% Year 154.18%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 304.2091 DAI ($304.21)
+SUGARRUSH Per Week: 27845303.87 ($30.70)
+APR: Day 1.44% Week 10.09% Year 524.77%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+USDC
+ Price: $1.00 Market Cap: $1,778,003,760.00 
+[%]
+Staked: 295.0000 USDC ($294.83)
+SUGARRUSH Per Week: 27845303.87 ($30.70)
+APR: Day 1.49% Week 10.41% Year 541.46%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 490.0000 USDT ($489.91)
+SUGARRUSH Per Week: 27845303.87 ($30.70)
+APR: Day 0.90% Week 6.27% Year 325.86%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[WBNB]-[BRRL] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.58 TVL: $268.27
+WBNB Price: $495.44
+BRRL Price: $0.000163
+Staked: 139.8513 Cake-LP ($81.54)
+SUGARRUSH Per Week: 13922651.93 ($15.35)
+APR: Day 2.69% Week 18.83% Year 978.97%
+You are staking 0.00 [WBNB]-[BRRL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BRRL] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BRRL] Cake LP
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[RBT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.51 TVL: $466.21
+RBT Price: $0.009688
+WBNB Price: $495.44
+Staked: 70.1874 Cake-LP ($316.27)
+SUGARRUSH Per Week: 13922651.93 ($15.35)
+APR: Day 0.69% Week 4.85% Year 252.38%
+You are staking 0.00 [RBT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RBT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [RBT]-[WBNB] Cake LP
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[TSB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $137.00 TVL: $162.91
+TSB Price: $9.23
+WBNB Price: $495.44
+Staked: 0.9579 Cake-LP ($131.23)
+SUGARRUSH Per Week: 19491712.71 ($21.49)
+APR: Day 2.34% Week 16.38% Year 851.52%
+You are staking 0.00 [TSB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TSB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [TSB]-[WBNB] Cake LP
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[WBNB]-[BXN] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.82 TVL: $1,527.78
+WBNB Price: $495.44
+BXN Price: $0.02
+Staked: 1.0859 Cake-LP ($6.32)
+SUGARRUSH Per Week: 13922651.93 ($15.35)
+APR: Day 34.68% Week 242.78% Year 12624.78%
+You are staking 0.00 [WBNB]-[BXN] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BXN] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BXN] Cake LP
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[GOLD]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8.84 TVL: $204.94
+GOLD Price: $0.04
+WBNB Price: $495.44
+Staked: 4.1210 Cake-LP ($36.45)
+SUGARRUSH Per Week: 13922651.93 ($15.35)
+APR: Day 6.02% Week 42.12% Year 2190.04%
+You are staking 0.00 [GOLD]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GOLD]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [GOLD]-[WBNB] Cake LP
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[TUSD]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.01 TVL: $120,839,391.40
+TUSD Price: $1.00
+BUSD Price: $1.00
+Staked: 110.7330 Cake-LP ($222.04)
+SUGARRUSH Per Week: 27845303.87 ($30.70)
+APR: Day 1.98% Week 13.83% Year 718.99%
+You are staking 0.00 [TUSD]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TUSD]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [TUSD]-[BUSD] Cake LP
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[WBNB]-[COBRA] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.97 TVL: $147.16
+WBNB Price: $495.44
+COBRA Price: $0.003081
+Staked: 20.6601 Cake-LP ($61.36)
+SUGARRUSH Per Week: 13922651.93 ($15.35)
+APR: Day 3.57% Week 25.02% Year 1300.95%
+You are staking 0.00 [WBNB]-[COBRA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[COBRA] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[COBRA] Cake LP
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[JUNGLE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $454.46 TVL: $887.33
+JUNGLE Price: $0.04
+WBNB Price: $495.44
+Staked: 0.6714 Cake-LP ($305.11)
+SUGARRUSH Per Week: 13922651.93 ($15.35)
+APR: Day 0.72% Week 5.03% Year 261.61%
+You are staking 0.00 [JUNGLE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JUNGLE]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [JUNGLE]-[WBNB] Cake LP
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[CHECOIN]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.23 TVL: $887,520.68
+CHECOIN Price: $0.0000232253
+WBNB Price: $495.44
+Staked: 712.6271 Cake-LP ($163.20)
+SUGARRUSH Per Week: 13922651.93 ($15.35)
+APR: Day 1.34% Week 9.41% Year 489.10%
+You are staking 0.00 [CHECOIN]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CHECOIN]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [CHECOIN]-[WBNB] Cake LP
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[Guevara]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.05 TVL: $87,838.62
+Guevara Price: $0.0000013811
+WBNB Price: $495.44
+Staked: 1923.5220 Cake-LP ($104.02)
+SUGARRUSH Per Week: 13922651.93 ($15.35)
+APR: Day 2.11% Week 14.76% Year 767.39%
+You are staking 0.00 [Guevara]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Guevara]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Guevara]-[WBNB] Cake LP
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+DOT
+ Price: $28.22 Market Cap: $395,079,999.86 
+[%]
+Staked: 73.6682 DOT ($2,078.92)
+SUGARRUSH Per Week: 27845303.87 ($30.70)
+APR: Day 0.21% Week 1.48% Year 76.79%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+MATIC
+ Price: $1.65 Market Cap: $3,300,000,000.00 
+[%]
+Staked: 1359.1850 MATIC ($2,242.66)
+SUGARRUSH Per Week: 27845303.87 ($30.70)
+APR: Day 0.20% Week 1.37% Year 71.18%
+You are staking 0.00 MATIC ($0.00), 0.00% of the pool.
+Stake 0.00 MATIC - Fee 4%
+Unstake 0.00 MATIC
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+TRX
+ Price: $0.09 Market Cap: $292,344,070.00 
+[%]
+Staked: 21878.6125 TRX ($1,980.21)
+SUGARRUSH Per Week: 27845303.87 ($30.70)
+APR: Day 0.22% Week 1.55% Year 80.62%
+You are staking 0.00 TRX ($0.00), 0.00% of the pool.
+Stake 0.00 TRX - Fee 4%
+Unstake 0.00 TRX
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+[RUBIN]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.08 TVL: $152.37
+RUBIN Price: $0.001296
+BUSD Price: $1.00
+Staked: 549.6723 Cake-LP ($42.49)
+SUGARRUSH Per Week: 13922651.93 ($15.35)
+APR: Day 5.16% Week 36.13% Year 1878.64%
+You are staking 0.00 [RUBIN]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RUBIN]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [RUBIN]-[BUSD] Cake LP
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+[BABYPAC]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $4,665.79
+BABYPAC Price: $0.0000000267
+WBNB Price: $495.44
+Staked: 7029.9894 Cake-LP ($51.47)
+SUGARRUSH Per Week: 13922651.93 ($15.35)
+APR: Day 4.26% Week 29.82% Year 1550.67%
+You are staking 0.00 [BABYPAC]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BABYPAC]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BABYPAC]-[WBNB] Cake LP
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+34 - 
+[CUB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $37.90 TVL: $866.50
+CUB Price: $0.69
+WBNB Price: $495.44
+Staked: 2.5148 Cake-LP ($95.32)
+SUGARRUSH Per Week: 13922651.93 ($15.35)
+APR: Day 2.30% Week 16.10% Year 837.41%
+You are staking 0.00 [CUB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CUB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [CUB]-[WBNB] Cake LP
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+35 - 
+[CUB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.66 TVL: $111.73
+CUB Price: $0.69
+BUSD Price: $1.00
+Staked: 41.6583 Cake-LP ($69.27)
+SUGARRUSH Per Week: 13922651.93 ($15.35)
+APR: Day 3.17% Week 22.16% Year 1152.32%
+You are staking 0.00 [CUB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CUB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [CUB]-[BUSD] Cake LP
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+36 - 
+[ICE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $614.13 TVL: $14,310.66
+ICE Price: $180.10
+WBNB Price: $495.44
+Staked: 0.2567 Cake-LP ($157.68)
+SUGARRUSH Per Week: 13922651.93 ($15.35)
+APR: Day 1.39% Week 9.74% Year 506.23%
+You are staking 0.00 [ICE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ICE]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ICE]-[WBNB] Cake LP
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+37 - 
+[SNORRE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.47 TVL: $31.94
+SNORRE Price: $0.001008
+WBNB Price: $495.44
+Staked: 5.5331 Cake-LP ($8.14)
+SUGARRUSH Per Week: 13922651.93 ($15.35)
+APR: Day 26.95% Week 188.68% Year 9811.12%
+You are staking 0.00 [SNORRE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SNORRE]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [SNORRE]-[WBNB] Cake LP
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+38 - 
+[SVIKI]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.46 TVL: $20.70
+SVIKI Price: $0.000957
+WBNB Price: $495.44
+Staked: 4.4928 Cake-LP ($6.55)
+SUGARRUSH Per Week: 13922651.93 ($15.35)
+APR: Day 33.47% Week 234.30% Year 12183.38%
+You are staking 0.00 [SVIKI]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SVIKI]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [SVIKI]-[WBNB] Cake LP
+Claim 0.00 SUGARRUSH ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $19,691.03

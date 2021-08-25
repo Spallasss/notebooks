@@ -1,0 +1,30 @@
+INFO  : https://liquity.app
+****************************************************************************
+
+Mon Aug 23 2021 15:42:08 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[LUSD]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $125.61 TVL: $79,109.72
+LUSD Price: $1.01
+WETH Price: $3,326.41
+Staked: 187.2269 UNI-V2 ($23,517.95)
+LQTY Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [LUSD]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [LUSD]-[WETH] Uni LP
+Unstake 0.000000 [LUSD]-[WETH] Uni LP
+Claim 0.000000 LQTY ($0.00)
+Revoke (set approval to 0)
+Exit

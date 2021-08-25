@@ -1,0 +1,232 @@
+INFO  : https://singular.farm/
+***************************************************************************************
+
+Mon Aug 23 2021 12:59:20 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 12 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[SING] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6,245,673.47 TVL: $990,921.21
+USDC Price: $1.00
+SING Price: $6.46
+Staked: 0.1563 APE-LP ($976,248.87)
+SING Per Week: 59004.88 ($381,275.78)
+APR: Day 5.58% Week 39.06% Year 2030.87%
+You are staking 0.00 [USDC]-[SING] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[SING] APE LP
+Unstake 0.00 [USDC]-[SING] APE LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[SING] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8.26 TVL: $607,822.84
+WMATIC Price: $1.64
+SING Price: $6.46
+Staked: 66755.7216 APE-LP ($551,260.67)
+SING Per Week: 29502.44 ($190,637.89)
+APR: Day 4.94% Week 34.58% Year 1798.27%
+You are staking 0.00 [WMATIC]-[SING] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[SING] APE LP
+Unstake 0.00 [WMATIC]-[SING] APE LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+SING
+ Price: $6.46 Market Cap: $1,942,082.91 
+[%]
+Staked: 44002.3165 SING ($284,332.72)
+SING Per Week: 11800.98 ($76,255.16)
+APR: Day 3.83% Week 26.82% Year 1394.59%
+You are staking 0.00 SING ($0.00), 0.00% of the pool.
+Stake 0.00 SING
+Unstake 0.00 SING
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WMATIC]-[BANANA] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.61 TVL: $14,103,224.67
+WMATIC Price: $1.64
+BANANA Price: $4.72
+Staked: 0.0000 APE-LP ($0.00)
+SING Per Week: 5900.49 ($38,127.58)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WMATIC]-[BANANA] APE LP ($0.00), NaN% of the pool.
+Stake 0.00 [WMATIC]-[BANANA] APE LP - Fee 4%
+Unstake 0.00 [WMATIC]-[BANANA] APE LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WMATIC]-[WETH] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $148.30 TVL: $21,934,520.78
+WMATIC Price: $1.64
+WETH Price: $3,320.72
+Staked: 0.0000 APE-LP ($0.00)
+SING Per Week: 5900.49 ($38,127.58)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WMATIC]-[WETH] APE LP ($0.00), NaN% of the pool.
+Stake 0.00 [WMATIC]-[WETH] APE LP - Fee 4%
+Unstake 0.00 [WMATIC]-[WETH] APE LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WMATIC]-[DAI] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.60 TVL: $5,735,483.44
+WMATIC Price: $1.64
+DAI Price: $1.00
+Staked: 0.0000 APE-LP ($0.00)
+SING Per Week: 5900.49 ($38,127.58)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WMATIC]-[DAI] APE LP ($0.00), NaN% of the pool.
+Stake 0.00 [WMATIC]-[DAI] APE LP - Fee 4%
+Unstake 0.00 [WMATIC]-[DAI] APE LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[WMATIC]-[USDT] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,588,171.27 TVL: $5,836,068.25
+WMATIC Price: $1.64
+USDT Price: $1.00
+Staked: 0.0000 APE-LP ($0.00)
+SING Per Week: 5900.49 ($38,127.58)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WMATIC]-[USDT] APE LP ($0.00), NaN% of the pool.
+Stake 0.00 [WMATIC]-[USDT] APE LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDT] APE LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[WMATIC]-[WBTC] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $57,464,784.97 TVL: $6,730,263.39
+WMATIC Price: $1.64
+WBTC Price: $50,005.00
+Staked: 0.0000 APE-LP ($0.00)
+SING Per Week: 5900.49 ($38,127.58)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WMATIC]-[WBTC] APE LP ($0.00), NaN% of the pool.
+Stake 0.00 [WMATIC]-[WBTC] APE LP - Fee 4%
+Unstake 0.00 [WMATIC]-[WBTC] APE LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[USDC]-[DAI] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,744,321,380.84 TVL: $10,372,434.36
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 APE-LP ($0.00)
+SING Per Week: 5900.49 ($38,127.58)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[DAI] APE LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[DAI] APE LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] APE LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[WMATIC]-[BNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $56.85 TVL: $4,734,675.91
+WMATIC Price: $1.64
+BNB Price: $485.28
+Staked: 0.0000 APE-LP ($0.00)
+SING Per Week: 5900.49 ($38,127.58)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WMATIC]-[BNB] APE LP ($0.00), NaN% of the pool.
+Stake 0.00 [WMATIC]-[BNB] APE LP - Fee 4%
+Unstake 0.00 [WMATIC]-[BNB] APE LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+USDC
+ Price: $1.00 Market Cap: $1,042,582,313.93 
+[%]
+Staked: 606622.3801 USDC ($605,883.51)
+SING Per Week: 3687.80 ($23,829.74)
+APR: Day 0.56% Week 3.93% Year 204.52%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 2.5%
+Unstake 0.00 USDC
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[WMATIC]-[HAIR] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.57 TVL: $357,482.75
+WMATIC Price: $1.64
+HAIR Price: $0.05
+Staked: 178375.8054 APE-LP ($102,002.22)
+SING Per Week: 5900.49 ($38,127.58)
+APR: Day 5.34% Week 37.38% Year 1943.72%
+You are staking 0.00 [WMATIC]-[HAIR] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[HAIR] APE LP
+Unstake 0.00 [WMATIC]-[HAIR] APE LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $2,519,727.99

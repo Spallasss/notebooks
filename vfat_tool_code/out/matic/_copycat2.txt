@@ -1,0 +1,381 @@
+INFO  : https://copycat2.farm
+*******************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:28:07 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 24 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+FISH2
+ Price: $0.000108 Market Cap: $117.30 
+[%]
+Staked: 549300.2634 FISH2 ($59.27)
+FISH2 Per Week: 14675.16 ($1.58)
+APR: Day 0.38% Week 2.67% Year 138.92%
+You are staking 0.00 FISH2 ($0.00), 0.00% of the pool.
+Stake 0.00 FISH2
+Unstake 0.00 FISH2
+Claim 0.00 FISH2 ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+WETH
+ Price: $3,325.72 Market Cap: $2,028,047,442.32 
+[%]
+Staked: 0.0333 WETH ($110.83)
+FISH2 Per Week: 7337.58 ($0.79)
+APR: Day 0.10% Week 0.71% Year 37.15%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 1%
+Unstake 0.00 WETH
+Claim 0.00 FISH2 ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+QUICK
+ Price: $726.39 Market Cap: $695,348,940.95 
+[%]
+Staked: 0.0634 QUICK ($46.05)
+FISH2 Per Week: 11006.37 ($1.19)
+APR: Day 0.37% Week 2.58% Year 134.12%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 1%
+Unstake 0.00 QUICK
+Claim 0.00 FISH2 ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+USDT
+ Price: $1.00 Market Cap: $314,915,935.86 
+[%]
+Staked: 297.0001 USDT ($296.66)
+FISH2 Per Week: 3668.79 ($0.40)
+APR: Day 0.02% Week 0.13% Year 6.94%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 1%
+Unstake 0.00 USDT
+Claim 0.00 FISH2 ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+USDC
+ Price: $1.00 Market Cap: $1,043,334,370.84 
+[%]
+Staked: 2975.9401 USDC ($2,973.53)
+FISH2 Per Week: 3668.79 ($0.40)
+APR: Day 0.00% Week 0.01% Year 0.69%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 1%
+Unstake 0.00 USDC
+Claim 0.00 FISH2 ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WBTC
+ Price: $50,096.00 Market Cap: $698,230,896.01 
+[%]
+Staked: 0.0003 WBTC ($14.52)
+FISH2 Per Week: 9171.97 ($0.99)
+APR: Day 0.97% Week 6.82% Year 354.46%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 1%
+Unstake 0.00 WBTC
+Claim 0.00 FISH2 ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WMATIC
+ Price: $1.64 Market Cap: $602,075,520.92 
+[%]
+Staked: 629.9527 WMATIC ($1,033.12)
+FISH2 Per Week: 7337.58 ($0.79)
+APR: Day 0.01% Week 0.08% Year 3.99%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 1%
+Unstake 0.00 WMATIC
+Claim 0.00 FISH2 ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+LINK
+ Price: $28.62 Market Cap: $64,945,475.97 
+[%]
+Staked: 0.6243 LINK ($17.87)
+FISH2 Per Week: 5503.18 ($0.59)
+APR: Day 0.47% Week 3.32% Year 172.83%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 1%
+Unstake 0.00 LINK
+Claim 0.00 FISH2 ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+DAI
+ Price: $1.00 Market Cap: $376,374,417.49 
+[%]
+Staked: 11.8316 DAI ($11.81)
+FISH2 Per Week: 5503.18 ($0.59)
+APR: Day 0.72% Week 5.03% Year 261.41%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 1%
+Unstake 0.00 DAI
+Claim 0.00 FISH2 ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[USDC]-[FISH2] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $21,940.60 TVL: $26.70
+USDC Price: $1.00
+FISH2 Price: $0.000108
+Staked: 0.0005 SLP ($11.43)
+FISH2 Per Week: 18343.95 ($1.98)
+APR: Day 2.47% Week 17.32% Year 900.60%
+You are staking 0.00 [USDC]-[FISH2] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[FISH2] SLP
+Unstake 0.00 [USDC]-[FISH2] SLP
+Claim 0.00 FISH2 ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[WMATIC]-[FISH2] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $14.82
+WMATIC Price: $1.64
+FISH2 Price: $0.000108
+Staked: 490.0000 SLP ($13.59)
+FISH2 Per Week: 18343.95 ($1.98)
+APR: Day 2.08% Week 14.57% Year 757.67%
+You are staking 0.00 [WMATIC]-[FISH2] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[FISH2] SLP
+Unstake 0.00 [WMATIC]-[FISH2] SLP
+Claim 0.00 FISH2 ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,605,052.85 TVL: $33,320,126.41
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($13.36)
+FISH2 Per Week: 11006.37 ($1.19)
+APR: Day 1.27% Week 8.89% Year 462.18%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 1%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 FISH2 ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[USDC]-[FISH2] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $22,760.64 TVL: $30.91
+USDC Price: $1.00
+FISH2 Price: $0.000108
+Staked: 0.0006 UNI-V2 ($14.05)
+FISH2 Per Week: 18343.95 ($1.98)
+APR: Day 2.01% Week 14.09% Year 732.56%
+You are staking 0.00 [USDC]-[FISH2] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[FISH2] Uni LP
+Unstake 0.00 [USDC]-[FISH2] Uni LP
+Claim 0.00 FISH2 ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WMATIC]-[FISH2] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $27.05
+WMATIC Price: $1.64
+FISH2 Price: $0.000108
+Staked: 839.1349 UNI-V2 ($23.75)
+FISH2 Per Week: 18343.95 ($1.98)
+APR: Day 1.19% Week 8.33% Year 433.41%
+You are staking 0.00 [WMATIC]-[FISH2] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[FISH2] Uni LP
+Unstake 0.00 [WMATIC]-[FISH2] Uni LP
+Claim 0.00 FISH2 ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+POLYTOKEN
+ Price: $0.00 Market Cap: $0.00 
+Staked: 173.2951 POLYTOKEN ($0.00)
+FISH2 Per Week: 14675.16 ($1.58)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 POLYTOKEN ($0.00), NaN% of the pool.
+Stake 0.00 POLYTOKEN
+Unstake 0.00 POLYTOKEN
+Claim 0.00 FISH2 ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[USDC]-[POLYTOKEN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $843,370.31 TVL: $808.19
+USDC Price: $1.00
+POLYTOKEN Price: $0.13
+Staked: 0.0000 UNI-V2 ($0.67)
+FISH2 Per Week: 14675.16 ($1.58)
+APR: Day 33.98% Week 237.84% Year 12367.94%
+You are staking 0.00 [USDC]-[POLYTOKEN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[POLYTOKEN] Uni LP
+Unstake 0.00 [USDC]-[POLYTOKEN] Uni LP
+Claim 0.00 FISH2 ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[WMATIC]-[POLYTOKEN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.05 TVL: $1,066.79
+WMATIC Price: $1.64
+POLYTOKEN Price: $0.13
+Staked: 0.6595 UNI-V2 ($0.69)
+FISH2 Per Week: 14675.16 ($1.58)
+APR: Day 32.82% Week 229.72% Year 11945.25%
+You are staking 0.00 [WMATIC]-[POLYTOKEN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[POLYTOKEN] Uni LP
+Unstake 0.00 [WMATIC]-[POLYTOKEN] Uni LP
+Claim 0.00 FISH2 ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+FISH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 61823.4994 FISH ($0.00)
+FISH2 Per Week: 11006.37 ($1.19)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+Stake 0.00 FISH
+Unstake 0.00 FISH
+Claim 0.00 FISH2 ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[USDC]-[FISH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $45,565.51 TVL: $100.80
+USDC Price: $1.00
+FISH Price: $0.000458
+Staked: 0.0000 SLP ($1.48)
+FISH2 Per Week: 14675.16 ($1.58)
+APR: Day 15.28% Week 106.99% Year 5563.25%
+You are staking 0.00 [USDC]-[FISH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[FISH] SLP
+Unstake 0.00 [USDC]-[FISH] SLP
+Claim 0.00 FISH2 ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[WMATIC]-[FISH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.06 TVL: $160.32
+WMATIC Price: $1.64
+FISH Price: $0.000458
+Staked: 935.3217 SLP ($55.74)
+FISH2 Per Week: 14675.16 ($1.58)
+APR: Day 0.41% Week 2.84% Year 147.75%
+You are staking 0.00 [WMATIC]-[FISH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[FISH] SLP
+Unstake 0.00 [WMATIC]-[FISH] SLP
+Claim 0.00 FISH2 ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[USDC]-[FISH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $48,689.74 TVL: $188.00
+USDC Price: $1.00
+FISH Price: $0.000458
+Staked: 0.0011 UNI-V2 ($51.60)
+FISH2 Per Week: 14675.16 ($1.58)
+APR: Day 0.44% Week 3.07% Year 159.59%
+You are staking 0.00 [USDC]-[FISH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[FISH] Uni LP
+Unstake 0.00 [USDC]-[FISH] Uni LP
+Claim 0.00 FISH2 ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[WMATIC]-[FISH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.06 TVL: $169.86
+WMATIC Price: $1.64
+FISH Price: $0.000458
+Staked: 961.7692 UNI-V2 ($58.34)
+FISH2 Per Week: 14675.16 ($1.58)
+APR: Day 0.39% Week 2.71% Year 141.15%
+You are staking 0.00 [WMATIC]-[FISH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[FISH] Uni LP
+Unstake 0.00 [WMATIC]-[FISH] Uni LP
+Claim 0.00 FISH2 ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+STAR
+ Price: $0.00 Market Cap: $0.00 
+Staked: 39049.5551 STAR ($0.00)
+FISH2 Per Week: 11006.37 ($1.19)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 STAR ($0.00), NaN% of the pool.
+Stake 0.00 STAR
+Unstake 0.00 STAR
+Claim 0.00 FISH2 ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+CAP
+ Price: $0.00 Market Cap: $0.00 
+Staked: 191.7235 CAP ($0.00)
+FISH2 Per Week: 11006.37 ($1.19)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CAP ($0.00), NaN% of the pool.
+Stake 0.00 CAP
+Unstake 0.00 CAP
+Claim 0.00 FISH2 ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $4,808.36

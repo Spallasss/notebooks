@@ -1,0 +1,244 @@
+INFO  : https://berserkfinance.com
+******************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:33:16 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 17 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[BRSK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $524,319.50 TVL: $1,086.74
+USDC Price: $1.00
+BRSK Price: $0.05
+Staked: 0.0007 UNI-V2 ($375.20)
+BRSK Per Week: 316.48 ($16.69)
+APR: Day 0.64% Week 4.45% Year 231.36%
+You are staking 0.00 [USDC]-[BRSK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BRSK] Uni LP
+Unstake 0.00 [USDC]-[BRSK] Uni LP
+Claim 0.00 BRSK ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[BRSK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.65 TVL: $1,587.43
+WMATIC Price: $1.65
+BRSK Price: $0.05
+Staked: 382.4188 UNI-V2 ($250.27)
+BRSK Per Week: 316.48 ($16.69)
+APR: Day 0.95% Week 6.67% Year 346.86%
+You are staking 0.00 [WMATIC]-[BRSK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[BRSK] Uni LP
+Unstake 0.00 [WMATIC]-[BRSK] Uni LP
+Claim 0.00 BRSK ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+BRSK
+ Price: $0.05 Market Cap: $4,639.65 
+[%]
+Staked: 14190.8082 BRSK ($748.53)
+BRSK Per Week: 126.59 ($6.68)
+APR: Day 0.13% Week 0.89% Year 46.39%
+You are staking 0.00 BRSK ($0.00), 0.00% of the pool.
+Stake 0.00 BRSK
+Unstake 0.00 BRSK
+Claim 0.00 BRSK ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WMATIC
+ Price: $1.65 Market Cap: $605,431,836.27 
+[%]
+Staked: 39.9456 WMATIC ($65.91)
+BRSK Per Week: 44.31 ($2.34)
+APR: Day 0.51% Week 3.55% Year 184.39%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 BRSK ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+USDC
+ Price: $1.00 Market Cap: $1,045,609,831.13 
+[%]
+Staked: 115.4552 USDC ($115.16)
+BRSK Per Week: 44.31 ($2.34)
+APR: Day 0.29% Week 2.03% Year 105.53%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 BRSK ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WETH
+ Price: $3,321.35 Market Cap: $2,028,067,258.41 
+[%]
+Staked: 0.0776 WETH ($257.85)
+BRSK Per Week: 44.31 ($2.34)
+APR: Day 0.13% Week 0.91% Year 47.13%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 BRSK ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WBTC
+ Price: $50,144.00 Market Cap: $699,664,971.38 
+[%]
+Staked: 0.0052 WBTC ($260.64)
+BRSK Per Week: 44.31 ($2.34)
+APR: Day 0.13% Week 0.90% Year 46.63%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 BRSK ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+USDT
+ Price: $1.00 Market Cap: $314,705,082.93 
+[%]
+Staked: 202.4864 USDT ($202.18)
+BRSK Per Week: 44.31 ($2.34)
+APR: Day 0.17% Week 1.16% Year 60.11%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 BRSK ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[BRSK]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $27.21 TVL: $151.83
+BRSK Price: $0.05
+WETH Price: $3,321.35
+Staked: 5.5484 UNI-V2 ($150.96)
+BRSK Per Week: 316.48 ($16.69)
+APR: Day 1.58% Week 11.06% Year 575.05%
+You are staking 0.00 [BRSK]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BRSK]-[WETH] Uni LP
+Unstake 0.00 [BRSK]-[WETH] Uni LP
+Claim 0.00 BRSK ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[WBTC]-[BRSK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,541,195.76 TVL: $595.96
+WBTC Price: $50,144.00
+BRSK Price: $0.05
+Staked: 0.0001 UNI-V2 ($588.16)
+BRSK Per Week: 316.48 ($16.69)
+APR: Day 0.41% Week 2.84% Year 147.59%
+You are staking 0.00 [WBTC]-[BRSK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[BRSK] Uni LP
+Unstake 0.00 [WBTC]-[BRSK] Uni LP
+Claim 0.00 BRSK ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[BRSK]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.47 TVL: $89.75
+BRSK Price: $0.05
+DAI Price: $1.00
+Staked: 189.2604 UNI-V2 ($88.85)
+BRSK Per Week: 316.48 ($16.69)
+APR: Day 2.68% Week 18.79% Year 977.05%
+You are staking 0.00 [BRSK]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BRSK]-[DAI] Uni LP
+Unstake 0.00 [BRSK]-[DAI] Uni LP
+Claim 0.00 BRSK ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[BRSK]-[LINK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.51 TVL: $143.83
+BRSK Price: $0.05
+LINK Price: $28.69
+Staked: 39.8815 UNI-V2 ($100.16)
+BRSK Per Week: 316.48 ($16.69)
+APR: Day 2.38% Week 16.67% Year 866.67%
+You are staking 0.00 [BRSK]-[LINK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BRSK]-[LINK] Uni LP
+Unstake 0.00 [BRSK]-[LINK] Uni LP
+Claim 0.00 BRSK ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[BRSK]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $12.78 TVL: $50.37
+BRSK Price: $0.05
+QUICK Price: $739.29
+Staked: 3.8765 UNI-V2 ($49.55)
+BRSK Per Week: 316.48 ($16.69)
+APR: Day 4.81% Week 33.69% Year 1752.03%
+You are staking 0.00 [BRSK]-[QUICK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BRSK]-[QUICK] Uni LP
+Unstake 0.00 [BRSK]-[QUICK] Uni LP
+Claim 0.00 BRSK ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[BRSK]-[AAVE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9.50 TVL: $131.81
+BRSK Price: $0.05
+AAVE Price: $409.89
+Staked: 13.7976 UNI-V2 ($131.02)
+BRSK Per Week: 316.48 ($16.69)
+APR: Day 1.82% Week 12.74% Year 662.57%
+You are staking 0.00 [BRSK]-[AAVE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BRSK]-[AAVE] Uni LP
+Unstake 0.00 [BRSK]-[AAVE] Uni LP
+Claim 0.00 BRSK ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $3,384.42

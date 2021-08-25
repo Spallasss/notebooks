@@ -1,0 +1,49 @@
+INFO  : https://ester.finance
+**********************************************************************************
+
+Mon Aug 23 2021 13:18:12 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 6 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[EST]-[WFTM] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.21 TVL: $16,042.77
+EST Price: $0.01
+WFTM Price: $0.56
+Staked: 67219.8021 SPIRIT-LP ($14,068.90)
+EST Per Week: 21992.73 ($313.20)
+APR: Day 0.32% Week 2.23% Year 115.76%
+You are staking 0.00 [EST]-[WFTM] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [EST]-[WFTM] SPIRIT LP
+Unstake 0.00 [EST]-[WFTM] SPIRIT LP
+Claim 0.00 EST ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+EST
+ Price: $0.01 Market Cap: $23,419.11 
+Staked: 250882.4417 EST ($3,572.84)
+EST Per Week: 2199.27 ($31.32)
+APR: Day 0.13% Week 0.88% Year 45.58%
+You are staking 0.00 EST ($0.00), 0.00% of the pool.
+Stake 0.00 EST
+Unstake 0.00 EST
+Claim 0.00 EST ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $17,641.74

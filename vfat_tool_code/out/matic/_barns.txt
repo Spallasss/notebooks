@@ -1,0 +1,360 @@
+INFO  : https://barns.finance
+*********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 13:05:39 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 23 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+Farm
+ Price: $0.00 Market Cap: $0.00 
+Staked: 30694.4397 Farm ($0.00)
+FARM Per Week: 14400.00 ($2,603.65)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 Farm ($0.00), NaN% of the pool.
+Stake 0.00 Farm
+Unstake 0.00 Farm
+Claim 0.00 FARM ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+WMATIC
+ Price: $1.64 Market Cap: $603,124,495.25 
+[%]
+Staked: 8802.6109 WMATIC ($14,436.28)
+FARM Per Week: 1294.38 ($234.04)
+APR: Day 0.23% Week 1.62% Year 84.30%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC
+Unstake 0.00 WMATIC
+Claim 0.00 FARM ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+WBTC
+ Price: $49,988.00 Market Cap: $696,525,655.43 
+[%]
+Staked: 0.0981 WBTC ($4,901.43)
+FARM Per Week: 970.79 ($175.53)
+APR: Day 0.51% Week 3.58% Year 186.22%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC
+Unstake 0.00 WBTC
+Claim 0.00 FARM ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+LINK
+ Price: $28.59 Market Cap: $64,878,744.81 
+[%]
+Staked: 25.2486 LINK ($721.86)
+FARM Per Week: 808.99 ($146.27)
+APR: Day 2.89% Week 20.26% Year 1053.69%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK
+Unstake 0.00 LINK
+Claim 0.00 FARM ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+AAVE
+ Price: $408.58 Market Cap: $155,393,015.68 
+[%]
+Staked: 10.7706 AAVE ($4,400.65)
+FARM Per Week: 808.99 ($146.27)
+APR: Day 0.47% Week 3.32% Year 172.84%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE
+Unstake 0.00 AAVE
+Claim 0.00 FARM ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+USDT
+ Price: $1.00 Market Cap: $315,002,032.28 
+[%]
+Staked: 5758.8682 USDT ($5,753.34)
+FARM Per Week: 1294.38 ($234.04)
+APR: Day 0.58% Week 4.07% Year 211.53%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT
+Unstake 0.00 USDT
+Claim 0.00 FARM ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+USDC
+ Price: $1.00 Market Cap: $1,042,149,260.96 
+[%]
+Staked: 4998.4751 USDC ($4,992.15)
+FARM Per Week: 1294.38 ($234.04)
+APR: Day 0.67% Week 4.69% Year 243.78%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC
+Unstake 0.00 USDC
+Claim 0.00 FARM ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+DAI
+ Price: $1.00 Market Cap: $376,545,250.79 
+[%]
+Staked: 2841.1440 DAI ($2,838.08)
+FARM Per Week: 485.39 ($87.76)
+APR: Day 0.44% Week 3.09% Year 160.80%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI
+Unstake 0.00 DAI
+Claim 0.00 FARM ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+miMATIC
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1304.4103 miMATIC ($0.00)
+FARM Per Week: 323.60 ($58.51)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 miMATIC ($0.00), NaN% of the pool.
+Stake 0.00 miMATIC
+Unstake 0.00 miMATIC
+Claim 0.00 FARM ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+BONE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 26.9572 BONE ($0.00)
+FARM Per Week: 647.19 ($117.02)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BONE ($0.00), NaN% of the pool.
+Stake 0.00 BONE
+Unstake 0.00 BONE
+Claim 0.00 FARM ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+BALL
+ Price: $0.00 Market Cap: $0.00 
+Staked: 6.3146 BALL ($0.00)
+FARM Per Week: 647.19 ($117.02)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BALL ($0.00), NaN% of the pool.
+Stake 0.00 BALL
+Unstake 0.00 BALL
+Claim 0.00 FARM ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+OMEN
+ Price: $0.00 Market Cap: $0.00 
+Staked: 14991.7747 OMEN ($0.00)
+FARM Per Week: 647.19 ($117.02)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 OMEN ($0.00), NaN% of the pool.
+Stake 0.00 OMEN
+Unstake 0.00 OMEN
+Claim 0.00 FARM ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+PAW
+ Price: $0.00 Market Cap: $0.00 
+Staked: 173.7096 PAW ($0.00)
+FARM Per Week: 647.19 ($117.02)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 PAW ($0.00), NaN% of the pool.
+Stake 0.00 PAW
+Unstake 0.00 PAW
+Claim 0.00 FARM ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,604,077.73 TVL: $33,314,570.67
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0018 UNI-V2 ($8,415.13)
+FARM Per Week: 970.79 ($175.53)
+APR: Day 0.30% Week 2.09% Year 108.46%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 FARM ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[WBTC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50,619,255,289,054.65 TVL: $16,269,337.55
+WBTC Price: $49,988.00
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($8,207.31)
+FARM Per Week: 970.79 ($175.53)
+APR: Day 0.31% Week 2.14% Year 111.21%
+You are staking 0.00 [WBTC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[USDC] Uni LP
+Unstake 0.00 [WBTC]-[USDC] Uni LP
+Claim 0.00 FARM ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,693,917.05 TVL: $147,932,898.62
+USDC Price: $1.00
+WETH Price: $3,316.94
+Staked: 0.0001 UNI-V2 ($13,746.18)
+FARM Per Week: 970.79 ($175.53)
+APR: Day 0.18% Week 1.28% Year 66.40%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 FARM ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[WMATIC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $188.26 TVL: $122,484,716.71
+WMATIC Price: $1.64
+WETH Price: $3,316.94
+Staked: 63.4906 UNI-V2 ($11,952.96)
+FARM Per Week: 970.79 ($175.53)
+APR: Day 0.21% Week 1.47% Year 76.36%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 FARM ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[USDC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $74,950,601.49 TVL: $21,382,072.37
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0001 UNI-V2 ($7,951.28)
+FARM Per Week: 970.79 ($175.53)
+APR: Day 0.32% Week 2.21% Year 114.79%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 FARM ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[WBTC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,288,389,147,871.57 TVL: $97,537,457.59
+WBTC Price: $49,988.00
+WETH Price: $3,316.94
+Staked: 0.0000 UNI-V2 ($5,859.35)
+FARM Per Week: 970.79 ($175.53)
+APR: Day 0.43% Week 3.00% Year 155.77%
+You are staking 0.00 [WBTC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] Uni LP
+Unstake 0.00 [WBTC]-[WETH] Uni LP
+Claim 0.00 FARM ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,563,791,669,010.02 TVL: $34,031,846.80
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($7,767.43)
+FARM Per Week: 1294.38 ($234.04)
+APR: Day 0.43% Week 3.01% Year 156.68%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 FARM ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[USDC]-[miMATIC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,081,701.17 TVL: $89,165,378.30
+USDC Price: $1.00
+miMATIC Price: $0.99
+Staked: 0.0019 UNI-V2 ($3,913.39)
+FARM Per Week: 323.60 ($58.51)
+APR: Day 0.21% Week 1.50% Year 77.74%
+You are staking 0.00 [USDC]-[miMATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[miMATIC] Uni LP
+Unstake 0.00 [USDC]-[miMATIC] Uni LP
+Claim 0.00 FARM ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[USDC]-[Farm] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $857,359.85 TVL: $39,524.44
+USDC Price: $1.00
+Farm Price: $0.18
+Staked: 0.0029 UNI-V2 ($2,528.82)
+FARM Per Week: 12943.82 ($2,340.36)
+APR: Day 13.22% Week 92.55% Year 4812.46%
+You are staking 0.00 [USDC]-[Farm] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[Farm] Uni LP
+Unstake 0.00 [USDC]-[Farm] Uni LP
+Claim 0.00 FARM ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[WMATIC]-[Farm] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.10 TVL: $40,899.42
+WMATIC Price: $1.64
+Farm Price: $0.18
+Staked: 1803.8916 UNI-V2 ($1,982.05)
+FARM Per Week: 12943.82 ($2,340.36)
+APR: Day 16.87% Week 118.08% Year 6140.02%
+You are staking 0.00 [WMATIC]-[Farm] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[Farm] Uni LP
+Unstake 0.00 [WMATIC]-[Farm] Uni LP
+Claim 0.00 FARM ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $110,367.69

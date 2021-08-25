@@ -1,0 +1,677 @@
+INFO  : https://pandayield.com
+***************************************************************************************
+
+Mon Aug 23 2021 14:02:41 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 35 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+BBOO
+ Price: $0.05 Market Cap: $175,928.71 
+[%]
+Staked: 1607341.6778 BBOO ($82,495.20)
+BBOO Per Week: 25135.88 ($1,290.07)
+APR: Day 0.22% Week 1.56% Year 81.32%
+You are staking 0.00 BBOO ($0.00), 0.00% of the pool.
+Stake 0.00 BBOO
+Unstake 0.00 BBOO
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[BBOO]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.52 TVL: $34,277.53
+BBOO Price: $0.05
+BUSD Price: $1.00
+Staked: 65204.3225 Cake-LP ($33,628.47)
+BBOO Per Week: 10772.52 ($552.89)
+APR: Day 0.23% Week 1.64% Year 85.49%
+You are staking 0.00 [BBOO]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BBOO]-[BUSD] Cake LP
+Unstake 0.00 [BBOO]-[BUSD] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BBOO] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11.88 TVL: $34,948.78
+WBNB Price: $483.66
+BBOO Price: $0.05
+Staked: 2873.4758 Cake-LP ($34,147.55)
+BBOO Per Week: 10003.05 ($513.40)
+APR: Day 0.21% Week 1.50% Year 78.18%
+You are staking 0.00 [WBNB]-[BBOO] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BBOO] Cake LP
+Unstake 0.00 [WBNB]-[BBOO] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[BTCB]-[BBOO] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $106.04 TVL: $10,151.60
+BTCB Price: $50,221.00
+BBOO Price: $0.05
+Staked: 83.5412 Cake-LP ($8,858.47)
+BBOO Per Week: 10259.54 ($526.56)
+APR: Day 0.85% Week 5.94% Year 309.10%
+You are staking 0.00 [BTCB]-[BBOO] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[BBOO] Cake LP
+Unstake 0.00 [BTCB]-[BBOO] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[LTC]-[BBOO] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6.42 TVL: $4,604.38
+LTC Price: $189.12
+BBOO Price: $0.05
+Staked: 683.1115 Cake-LP ($4,384.38)
+BBOO Per Week: 4616.79 ($236.95)
+APR: Day 0.77% Week 5.40% Year 281.03%
+You are staking 0.00 [LTC]-[BBOO] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LTC]-[BBOO] Cake LP
+Unstake 0.00 [LTC]-[BBOO] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[DOT]-[BBOO] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.49 TVL: $5,578.31
+DOT Price: $28.04
+BBOO Price: $0.05
+Staked: 1717.3553 Cake-LP ($4,282.91)
+BBOO Per Week: 4616.79 ($236.95)
+APR: Day 0.79% Week 5.53% Year 287.69%
+You are staking 0.00 [DOT]-[BBOO] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[BBOO] Cake LP
+Unstake 0.00 [DOT]-[BBOO] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[UNI]-[BBOO] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.54 TVL: $6,345.46
+UNI Price: $29.37
+BBOO Price: $0.05
+Staked: 2383.4010 Cake-LP ($6,050.83)
+BBOO Per Week: 4616.79 ($236.95)
+APR: Day 0.56% Week 3.92% Year 203.63%
+You are staking 0.00 [UNI]-[BBOO] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UNI]-[BBOO] Cake LP
+Unstake 0.00 [UNI]-[BBOO] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[EOS]-[BBOO] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.23 TVL: $11,962.22
+EOS Price: $6.93
+BBOO Price: $0.05
+Staked: 9451.3424 Cake-LP ($11,594.57)
+BBOO Per Week: 3847.33 ($197.46)
+APR: Day 0.24% Week 1.70% Year 88.56%
+You are staking 0.00 [EOS]-[BBOO] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [EOS]-[BBOO] Cake LP
+Unstake 0.00 [EOS]-[BBOO] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[ADA]-[BBOO] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.79 TVL: $6,930.02
+ADA Price: $2.84
+BBOO Price: $0.05
+Staked: 7772.4075 Cake-LP ($6,124.89)
+BBOO Per Week: 3847.33 ($197.46)
+APR: Day 0.46% Week 3.22% Year 167.64%
+You are staking 0.00 [ADA]-[BBOO] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[BBOO] Cake LP
+Unstake 0.00 [ADA]-[BBOO] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[BBOO]-[LINK] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.51 TVL: $3,871.95
+BBOO Price: $0.05
+LINK Price: $28.77
+Staked: 1299.9297 Cake-LP ($3,257.80)
+BBOO Per Week: 3847.33 ($197.46)
+APR: Day 0.87% Week 6.06% Year 315.18%
+You are staking 0.00 [BBOO]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BBOO]-[LINK] Cake LP
+Unstake 0.00 [BBOO]-[LINK] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[ATOM]-[BBOO] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.20 TVL: $3,710.54
+ATOM Price: $22.14
+BBOO Price: $0.05
+Staked: 1472.7531 Cake-LP ($3,242.02)
+BBOO Per Week: 2564.89 ($131.64)
+APR: Day 0.58% Week 4.06% Year 211.14%
+You are staking 0.00 [ATOM]-[BBOO] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ATOM]-[BBOO] Cake LP
+Unstake 0.00 [ATOM]-[BBOO] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[DAI]-[BBOO] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.47 TVL: $2,514.76
+DAI Price: $1.00
+BBOO Price: $0.05
+Staked: 5304.3674 Cake-LP ($2,500.43)
+BBOO Per Week: 2564.89 ($131.64)
+APR: Day 0.75% Week 5.26% Year 273.76%
+You are staking 0.00 [DAI]-[BBOO] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BBOO] Cake LP
+Unstake 0.00 [DAI]-[BBOO] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[BIFI]-[BBOO] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $17.26 TVL: $2,559.04
+BIFI Price: $1,262.07
+BBOO Price: $0.05
+Staked: 141.7883 Cake-LP ($2,447.88)
+BBOO Per Week: 1282.44 ($65.82)
+APR: Day 0.38% Week 2.69% Year 139.82%
+You are staking 0.00 [BIFI]-[BBOO] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BIFI]-[BBOO] Cake LP
+Unstake 0.00 [BIFI]-[BBOO] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.50 TVL: $3,328,426.21
+WBNB Price: $483.66
+BUSD Price: $1.00
+Staked: 22.8116 Cake-LP ($1,471.38)
+BBOO Per Week: 512.98 ($26.33)
+APR: Day 0.26% Week 1.79% Year 93.05%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,899.11 TVL: $1,952,354.63
+BTCB Price: $50,221.00
+WBNB Price: $483.66
+Staked: 0.2207 Cake-LP ($2,405.52)
+BBOO Per Week: 512.98 ($26.33)
+APR: Day 0.16% Week 1.09% Year 56.91%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,860.28 TVL: $3,520,478.46
+ETH Price: $3,330.43
+WBNB Price: $483.66
+Staked: 0.7875 Cake-LP ($2,252.40)
+BBOO Per Week: 512.98 ($26.33)
+APR: Day 0.17% Week 1.17% Year 60.78%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $252.20 TVL: $673,166.24
+DOT Price: $28.04
+WBNB Price: $483.66
+Staked: 10.5822 Cake-LP ($2,668.87)
+BBOO Per Week: 512.98 ($26.33)
+APR: Day 0.14% Week 0.99% Year 51.30%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[USDT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $72.23 TVL: $1,091,824.97
+USDT Price: $1.00
+WBNB Price: $483.66
+Staked: 20.6693 Cake-LP ($1,492.92)
+BBOO Per Week: 512.98 ($26.33)
+APR: Day 0.25% Week 1.76% Year 91.70%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[DAI]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $68.15 TVL: $43,414.01
+DAI Price: $1.00
+WBNB Price: $483.66
+Staked: 16.1641 Cake-LP ($1,101.54)
+BBOO Per Week: 512.98 ($26.33)
+APR: Day 0.34% Week 2.39% Year 124.29%
+You are staking 0.00 [DAI]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[WBNB] Cake LP
+Unstake 0.00 [DAI]-[WBNB] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[SXP]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $95.02 TVL: $58,508.38
+SXP Price: $3.71
+WBNB Price: $483.66
+Staked: 35.9900 Cake-LP ($3,419.68)
+BBOO Per Week: 512.98 ($26.33)
+APR: Day 0.11% Week 0.77% Year 40.03%
+You are staking 0.00 [SXP]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SXP]-[WBNB] Cake LP
+Unstake 0.00 [SXP]-[WBNB] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[LTC]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $652.95 TVL: $33,788.91
+LTC Price: $189.12
+WBNB Price: $483.66
+Staked: 4.4101 Cake-LP ($2,879.55)
+BBOO Per Week: 512.98 ($26.33)
+APR: Day 0.13% Week 0.91% Year 47.54%
+You are staking 0.00 [LTC]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LTC]-[WBNB] Cake LP
+Unstake 0.00 [LTC]-[WBNB] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $80.91 TVL: $2,627,415.80
+ADA Price: $2.84
+WBNB Price: $483.66
+Staked: 18.2970 Cake-LP ($1,480.49)
+BBOO Per Week: 512.98 ($26.33)
+APR: Day 0.25% Week 1.78% Year 92.47%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[ATOM]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $220.84 TVL: $42,008.47
+ATOM Price: $22.14
+WBNB Price: $483.66
+Staked: 7.7607 Cake-LP ($1,713.90)
+BBOO Per Week: 512.98 ($26.33)
+APR: Day 0.22% Week 1.54% Year 79.88%
+You are staking 0.00 [ATOM]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ATOM]-[WBNB] Cake LP
+Unstake 0.00 [ATOM]-[WBNB] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[WBNB]-[LINK] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $251.35 TVL: $107,291.56
+WBNB Price: $483.66
+LINK Price: $28.77
+Staked: 6.0663 Cake-LP ($1,524.77)
+BBOO Per Week: 512.98 ($26.33)
+APR: Day 0.25% Week 1.73% Year 89.79%
+You are staking 0.00 [WBNB]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LINK] Cake LP
+Unstake 0.00 [WBNB]-[LINK] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[BTCB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $496.75 TVL: $58,685.89
+BTCB Price: $50,221.00
+BUSD Price: $1.00
+Staked: 3.3183 Cake-LP ($1,648.37)
+BBOO Per Week: 512.98 ($26.33)
+APR: Day 0.23% Week 1.60% Year 83.06%
+You are staking 0.00 [BTCB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[BUSD] Cake LP
+Unstake 0.00 [BTCB]-[BUSD] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[ETH]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $133.18 TVL: $65,682.67
+ETH Price: $3,330.43
+BUSD Price: $1.00
+Staked: 12.0891 Cake-LP ($1,610.01)
+BBOO Per Week: 512.98 ($26.33)
+APR: Day 0.23% Week 1.64% Year 85.03%
+You are staking 0.00 [ETH]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BUSD] Cake LP
+Unstake 0.00 [ETH]-[BUSD] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+[DOT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11.63 TVL: $36,777.47
+DOT Price: $28.04
+BUSD Price: $1.00
+Staked: 147.6236 Cake-LP ($1,717.45)
+BBOO Per Week: 512.98 ($26.33)
+APR: Day 0.22% Week 1.53% Year 79.71%
+You are staking 0.00 [DOT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[BUSD] Cake LP
+Unstake 0.00 [DOT]-[BUSD] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.13 TVL: $4,006,317.84
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 711.9812 Cake-LP ($1,520.06)
+BBOO Per Week: 256.49 ($13.16)
+APR: Day 0.12% Week 0.87% Year 45.03%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $2,586,449.29
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 795.9736 Cake-LP ($1,629.02)
+BBOO Per Week: 256.49 ($13.16)
+APR: Day 0.12% Week 0.81% Year 42.02%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+[SXP]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.18 TVL: $9,577.96
+SXP Price: $3.71
+BUSD Price: $1.00
+Staked: 610.4797 Cake-LP ($2,554.38)
+BBOO Per Week: 512.98 ($26.33)
+APR: Day 0.15% Week 1.03% Year 53.60%
+You are staking 0.00 [SXP]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SXP]-[BUSD] Cake LP
+Unstake 0.00 [SXP]-[BUSD] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+[LTC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $28.53 TVL: $1,722.92
+LTC Price: $189.12
+BUSD Price: $1.00
+Staked: 58.6378 Cake-LP ($1,672.91)
+BBOO Per Week: 512.98 ($26.33)
+APR: Day 0.22% Week 1.57% Year 81.84%
+You are staking 0.00 [LTC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LTC]-[BUSD] Cake LP
+Unstake 0.00 [LTC]-[BUSD] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+[ADA]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.55 TVL: $5,809.46
+ADA Price: $2.84
+BUSD Price: $1.00
+Staked: 1260.5258 Cake-LP ($4,472.46)
+BBOO Per Week: 512.98 ($26.33)
+APR: Day 0.08% Week 0.59% Year 30.61%
+You are staking 0.00 [ADA]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[BUSD] Cake LP
+Unstake 0.00 [ADA]-[BUSD] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+[ATOM]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9.64 TVL: $2,709.05
+ATOM Price: $22.14
+BUSD Price: $1.00
+Staked: 279.0675 Cake-LP ($2,688.95)
+BBOO Per Week: 512.98 ($26.33)
+APR: Day 0.14% Week 0.98% Year 50.91%
+You are staking 0.00 [ATOM]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ATOM]-[BUSD] Cake LP
+Unstake 0.00 [ATOM]-[BUSD] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+33 - 
+[BUSD]-[LINK] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11.04 TVL: $1,633.04
+BUSD Price: $1.00
+LINK Price: $28.77
+Staked: 144.3460 Cake-LP ($1,593.59)
+BBOO Per Week: 512.98 ($26.33)
+APR: Day 0.24% Week 1.65% Year 85.91%
+You are staking 0.00 [BUSD]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[LINK] Cake LP
+Unstake 0.00 [BUSD]-[LINK] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+34 - 
+[SWAMP]-[BBOO] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.63 TVL: $1,706.32
+SWAMP Price: $1.86
+BBOO Price: $0.05
+Staked: 2510.3661 Cake-LP ($1,591.33)
+BBOO Per Week: 2564.89 ($131.64)
+APR: Day 1.18% Week 8.27% Year 430.16%
+You are staking 0.00 [SWAMP]-[BBOO] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SWAMP]-[BBOO] Cake LP
+Unstake 0.00 [SWAMP]-[BBOO] Cake LP
+Claim 0.00 BBOO ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $248,124.94

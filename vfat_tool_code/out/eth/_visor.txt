@@ -1,0 +1,36 @@
+INFO  : https://vault.visor.finance/dashboard
+***************************************************************************************
+
+Mon Aug 23 2021 15:39:45 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Mint NFT
+No user vault found, calculating APR based on test vault.
+My vault: 0x675ACde86DffE354e175E7dCb95E71f9902477D7
+My Locked Balance:
+   DAI: 10.0
+  USDC: 10.0
+  USDT: 10.0
+    LP: 9.8
+Future Vault Rewards:
+  DAI:
+    7 Days:  1.517 VISR | Return: 22.61%
+    14 Days: 1.554 VISR | Return: 23.16%
+    30 Days: 1.640 VISR | Return: 24.44%
+  USDC:
+    7 Days:  1.140 VISR | Return: 16.99%
+    14 Days: 1.134 VISR | Return: 16.90%
+    30 Days: 1.122 VISR | Return: 16.72%
+  USDT:
+    7 Days:  0.885 VISR | Return: 13.18%
+    14 Days: 0.878 VISR | Return: 13.08%
+    30 Days: 0.864 VISR | Return: 12.88%
+  LP:
+    7 Days:  25.88 VISR | Return: 2.206%
+    14 Days: 25.60 VISR | Return: 2.1825%
+    30 Days: 25.06 VISR | Return: 2.13639%

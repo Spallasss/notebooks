@@ -1,0 +1,435 @@
+INFO  : https://polypixel.farm/
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 13:06:39 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 26 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+PIXEL
+ Price: $0.00 Market Cap: $0.00 
+Staked: 420.8137 PIXEL ($0.00)
+PIXEL Per Week: 1878.26 ($14,290.99)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 PIXEL ($0.00), NaN% of the pool.
+Stake 0.00 PIXEL
+Unstake 0.00 PIXEL
+Claim 0.00 PIXEL ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+DAI
+ Price: $1.00 Market Cap: $376,545,250.79 
+[%]
+Staked: 4958.6201 DAI ($4,953.28)
+PIXEL Per Week: 375.65 ($2,858.20)
+APR: Day 8.24% Week 57.70% Year 3000.56%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 PIXEL ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+USDT
+ Price: $1.00 Market Cap: $314,851,568.06 
+[%]
+Staked: 3220.2311 USDT ($3,217.14)
+PIXEL Per Week: 281.74 ($2,143.65)
+APR: Day 9.52% Week 66.63% Year 3464.87%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 PIXEL ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+USDC
+ Price: $1.00 Market Cap: $1,042,160,739.13 
+[%]
+Staked: 3896.9033 USDC ($3,892.01)
+PIXEL Per Week: 281.74 ($2,143.65)
+APR: Day 7.87% Week 55.08% Year 2864.06%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 PIXEL ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WMATIC
+ Price: $1.64 Market Cap: $603,124,813.75 
+[%]
+Staked: 3279.6208 WMATIC ($5,378.58)
+PIXEL Per Week: 281.74 ($2,143.65)
+APR: Day 5.69% Week 39.86% Year 2072.48%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 PIXEL ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WBTC
+ Price: $49,986.00 Market Cap: $696,497,787.72 
+[%]
+Staked: 0.0532 WBTC ($2,659.28)
+PIXEL Per Week: 281.74 ($2,143.65)
+APR: Day 11.52% Week 80.61% Year 4191.73%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 PIXEL ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WETH
+ Price: $3,316.84 Market Cap: $2,022,169,599.11 
+[%]
+Staked: 1.3014 WETH ($4,316.50)
+PIXEL Per Week: 281.74 ($2,143.65)
+APR: Day 7.09% Week 49.66% Year 2582.41%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 PIXEL ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+miMATIC
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1515.4496 miMATIC ($0.00)
+PIXEL Per Week: 187.83 ($1,429.10)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 miMATIC ($0.00), NaN% of the pool.
+Stake 0.00 miMATIC - Fee 4%
+Unstake 0.00 miMATIC
+Claim 0.00 PIXEL ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+QUICK
+ Price: $721.14 Market Cap: $690,323,290.90 
+[%]
+Staked: 2.2128 QUICK ($1,595.72)
+PIXEL Per Week: 93.91 ($714.55)
+APR: Day 6.40% Week 44.78% Year 2328.52%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 PIXEL ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+AAVE
+ Price: $408.54 Market Cap: $155,377,802.70 
+[%]
+Staked: 10.2942 AAVE ($4,205.59)
+PIXEL Per Week: 93.91 ($714.55)
+APR: Day 2.43% Week 16.99% Year 883.50%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 PIXEL ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+LINK
+ Price: $28.60 Market Cap: $64,901,437.62 
+[%]
+Staked: 79.1380 LINK ($2,263.35)
+PIXEL Per Week: 93.91 ($714.55)
+APR: Day 4.51% Week 31.57% Year 1641.67%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 PIXEL ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,563,805,753,946.92 TVL: $34,032,040.10
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($4,371.53)
+PIXEL Per Week: 281.74 ($2,143.65)
+APR: Day 7.01% Week 49.04% Year 2549.90%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 PIXEL ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[DAI]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $27,060,142.75 TVL: $3,960,144.86
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 0.0001 UNI-V2 ($1,927.10)
+PIXEL Per Week: 281.74 ($2,143.65)
+APR: Day 15.89% Week 111.24% Year 5784.32%
+You are staking 0.00 [DAI]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [DAI]-[USDT] Uni LP
+Claim 0.00 PIXEL ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[USDC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $74,951,013.20 TVL: $21,382,191.92
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 UNI-V2 ($2,540.30)
+PIXEL Per Week: 375.65 ($2,858.20)
+APR: Day 16.07% Week 112.51% Year 5850.73%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 PIXEL ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[USDC]-[miMATIC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,081,724.10 TVL: $89,166,360.37
+USDC Price: $1.00
+miMATIC Price: $0.99
+Staked: 0.0008 UNI-V2 ($1,598.34)
+PIXEL Per Week: 187.83 ($1,429.10)
+APR: Day 12.77% Week 89.41% Year 4649.39%
+You are staking 0.00 [USDC]-[miMATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[miMATIC] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[miMATIC] Uni LP
+Claim 0.00 PIXEL ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[WBTC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,288,343,995,685.36 TVL: $97,534,043.55
+WBTC Price: $49,986.00
+WETH Price: $3,316.84
+Staked: 0.0000 UNI-V2 ($1,216.48)
+PIXEL Per Week: 281.74 ($2,143.65)
+APR: Day 25.17% Week 176.22% Year 9163.30%
+You are staking 0.00 [WBTC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WBTC]-[WETH] Uni LP
+Claim 0.00 PIXEL ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[WMATIC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $188.26 TVL: $122,482,890.84
+WMATIC Price: $1.64
+WETH Price: $3,316.84
+Staked: 29.3130 UNI-V2 ($5,518.48)
+PIXEL Per Week: 281.74 ($2,143.65)
+APR: Day 5.55% Week 38.84% Year 2019.93%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 PIXEL ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[WETH]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,706,132,412.14 TVL: $47,519,375.28
+WETH Price: $3,316.84
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($4,672.04)
+PIXEL Per Week: 281.74 ($2,143.65)
+APR: Day 6.55% Week 45.88% Year 2385.89%
+You are staking 0.00 [WETH]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [WETH]-[USDT] Uni LP
+Claim 0.00 PIXEL ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,604,103.68 TVL: $33,314,762.90
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0006 UNI-V2 ($2,969.05)
+PIXEL Per Week: 281.74 ($2,143.65)
+APR: Day 10.31% Week 72.20% Year 3754.40%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 PIXEL ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[WETH]-[AAVE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,421.78 TVL: $46,841,003.47
+WETH Price: $3,316.84
+AAVE Price: $408.54
+Staked: 1.5779 UNI-V2 ($3,821.25)
+PIXEL Per Week: 187.83 ($1,429.10)
+APR: Day 5.34% Week 37.40% Year 1944.73%
+You are staking 0.00 [WETH]-[AAVE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[AAVE] Uni LP - Fee 4%
+Unstake 0.00 [WETH]-[AAVE] Uni LP
+Claim 0.00 PIXEL ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[WBTC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50,618,518,803,564.30 TVL: $16,269,102.32
+WBTC Price: $49,986.00
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($2,061.73)
+PIXEL Per Week: 281.74 ($2,143.65)
+APR: Day 14.85% Week 103.97% Year 5406.60%
+You are staking 0.00 [WBTC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WBTC]-[USDC] Uni LP
+Claim 0.00 PIXEL ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[WETH]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $137.84 TVL: $31,007,740.99
+WETH Price: $3,316.84
+DAI Price: $1.00
+Staked: 17.9609 UNI-V2 ($2,475.68)
+PIXEL Per Week: 281.74 ($2,143.65)
+APR: Day 12.37% Week 86.59% Year 4502.60%
+You are staking 0.00 [WETH]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [WETH]-[DAI] Uni LP
+Claim 0.00 PIXEL ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[LINK]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $634.55 TVL: $33,521,584.23
+LINK Price: $28.60
+WETH Price: $3,316.84
+Staked: 7.0848 UNI-V2 ($4,495.61)
+PIXEL Per Week: 281.74 ($2,143.65)
+APR: Day 6.81% Week 47.68% Year 2479.52%
+You are staking 0.00 [LINK]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LINK]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [LINK]-[WETH] Uni LP
+Claim 0.00 PIXEL ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[WMATIC]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $93.50 TVL: $31,524,717.92
+WMATIC Price: $1.64
+QUICK Price: $721.14
+Staked: 37.7975 UNI-V2 ($3,533.94)
+PIXEL Per Week: 187.83 ($1,429.10)
+APR: Day 5.78% Week 40.44% Year 2102.84%
+You are staking 0.00 [WMATIC]-[QUICK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[QUICK] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[QUICK] Uni LP
+Claim 0.00 PIXEL ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[USDC]-[PIXEL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5,608,944.77 TVL: $5,090.35
+USDC Price: $1.00
+PIXEL Price: $7.61
+Staked: 0.0005 UNI-V2 ($3,039.37)
+PIXEL Per Week: 3756.52 ($28,581.99)
+APR: Day 134.34% Week 940.39% Year 48900.35%
+You are staking 0.00 [USDC]-[PIXEL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[PIXEL] Uni LP
+Unstake 0.00 [USDC]-[PIXEL] Uni LP
+Claim 0.00 PIXEL ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[WMATIC]-[PIXEL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7.22 TVL: $6,506.61
+WMATIC Price: $1.64
+PIXEL Price: $7.61
+Staked: 619.7535 UNI-V2 ($4,472.07)
+PIXEL Per Week: 3756.52 ($28,581.99)
+APR: Day 91.30% Week 639.12% Year 33234.34%
+You are staking 0.00 [WMATIC]-[PIXEL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PIXEL] Uni LP
+Unstake 0.00 [WMATIC]-[PIXEL] Uni LP
+Claim 0.00 PIXEL ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $81,194.41

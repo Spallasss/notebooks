@@ -1,0 +1,146 @@
+INFO  : https://app.compli.fi
+********************************************************************************
+
+Mon Aug 23 2021 15:45:18 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+User DsProxy found at 0x0000000000000000000000000000000000000000
+Staking Contract
+Found 13 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+BTCx5-USDC-1Jun21-LP
+ Price: $1.09 Market Cap: $808,035.90 
+[%]
+Staked: 739890.1372 BTCx5-USDC-1Jun21-LP ($807,668.51)
+COMFI Per Week: 26941.09 ($47,955.14)
+APR: Day 0.85% Week 5.94% Year 308.75%
+You are staking 0.00 BTCx5-USDC-1Jun21-LP ($0.00), 0.00% of the pool.
+Stake 0.00 BTCx5-USDC-1Jun21-LP
+Unstake 0.00 BTCx5-USDC-1Jun21-LP
+BTCx5-USDC-1Jun21-UP
+ Price: $0.02 Market Cap: $47,087.63 
+[%]
+Staked: 838731.3204 BTCx5-USDC-1Jun21-UP ($17,590.71)
+COMFI Per Week: 13470.55 ($23,977.57)
+APR: Day 19.47% Week 136.31% Year 7088.02%
+You are staking 0.00 BTCx5-USDC-1Jun21-UP ($0.00), 0.00% of the pool.
+Stake 0.00 BTCx5-USDC-1Jun21-UP
+Unstake 0.00 BTCx5-USDC-1Jun21-UP
+BTCx5-USDC-1Jun21-DOWN
+ Price: $1.98 Market Cap: $878,954.73 
+[%]
+Staked: 23008.8573 BTCx5-USDC-1Jun21-DOWN ($45,535.13)
+COMFI Per Week: 13470.55 ($23,977.57)
+APR: Day 7.52% Week 52.66% Year 2738.18%
+You are staking 0.00 BTCx5-USDC-1Jun21-DOWN ($0.00), 0.00% of the pool.
+Stake 0.00 BTCx5-USDC-1Jun21-DOWN
+Unstake 0.00 BTCx5-USDC-1Jun21-DOWN
+ETHx5-USDC-1Jun21-LP
+ Price: $0.93 Market Cap: $3,922.28 
+[%]
+Staked: 4115.3908 ETHx5-USDC-1Jun21-LP ($3,847.21)
+COMFI Per Week: 26941.09 ($47,955.14)
+APR: Day 178.07% Week 1246.49% Year 64817.60%
+You are staking 0.00 ETHx5-USDC-1Jun21-LP ($0.00), 0.00% of the pool.
+Stake 0.00 ETHx5-USDC-1Jun21-LP
+Unstake 0.00 ETHx5-USDC-1Jun21-LP
+ETHx5-USDC-1Jun21-UP
+ Price: $0.87 Market Cap: $9,212.62 
+[%]
+Staked: 3027.4369 ETHx5-USDC-1Jun21-UP ($2,636.25)
+COMFI Per Week: 13470.55 ($23,977.57)
+APR: Day 129.93% Week 909.53% Year 47295.68%
+You are staking 0.00 ETHx5-USDC-1Jun21-UP ($0.00), 0.00% of the pool.
+Stake 0.00 ETHx5-USDC-1Jun21-UP
+Unstake 0.00 ETHx5-USDC-1Jun21-UP
+ETHx5-USDC-1Jun21-DOWN
+ Price: $1.13 Market Cap: $5,420.72 
+[%]
+Staked: 2229.6081 ETHx5-USDC-1Jun21-DOWN ($2,517.70)
+COMFI Per Week: 13470.55 ($23,977.57)
+APR: Day 136.05% Week 952.36% Year 49522.72%
+You are staking 0.00 ETHx5-USDC-1Jun21-DOWN ($0.00), 0.00% of the pool.
+Stake 0.00 ETHx5-USDC-1Jun21-DOWN
+Unstake 0.00 ETHx5-USDC-1Jun21-DOWN
+LINKx5-USDC-1Jun21-LP
+ Price: $0.99 Market Cap: $0.11 
+[%]
+Staked: 0.0000 LINKx5-USDC-1Jun21-LP ($0.00)
+COMFI Per Week: 26941.09 ($47,955.14)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 LINKx5-USDC-1Jun21-LP ($0.00), NaN% of the pool.
+Stake 0.00 LINKx5-USDC-1Jun21-LP
+Unstake 0.00 LINKx5-USDC-1Jun21-LP
+LINKx5-USDC-1Jun21-UP
+ Price: $0.23 Market Cap: $4,291.16 
+[%]
+Staked: 14561.7726 LINKx5-USDC-1Jun21-UP ($3,305.44)
+COMFI Per Week: 13470.55 ($23,977.57)
+APR: Day 103.63% Week 725.40% Year 37720.71%
+You are staking 0.00 LINKx5-USDC-1Jun21-UP ($0.00), 0.00% of the pool.
+Stake 0.00 LINKx5-USDC-1Jun21-UP
+Unstake 0.00 LINKx5-USDC-1Jun21-UP
+LINKx5-USDC-1Jun21-DOWN
+ Price: $1.77 Market Cap: $427.84 
+[%]
+Staked: 0.0000 LINKx5-USDC-1Jun21-DOWN ($0.00)
+COMFI Per Week: 13470.55 ($23,977.57)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 LINKx5-USDC-1Jun21-DOWN ($0.00), NaN% of the pool.
+Stake 0.00 LINKx5-USDC-1Jun21-DOWN
+Unstake 0.00 LINKx5-USDC-1Jun21-DOWN
+UNIx5-USDC-1Jun21-LP
+ Price: $1.10 Market Cap: $0.16 
+[%]
+Staked: 0.0000 UNIx5-USDC-1Jun21-LP ($0.00)
+COMFI Per Week: 26941.09 ($47,955.14)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 UNIx5-USDC-1Jun21-LP ($0.00), NaN% of the pool.
+Stake 0.00 UNIx5-USDC-1Jun21-LP
+Unstake 0.00 UNIx5-USDC-1Jun21-LP
+UNIx5-USDC-1Jun21-UP
+ Price: $0.03 Market Cap: $42,819.60 
+[%]
+Staked: 395754.3609 UNIx5-USDC-1Jun21-UP ($10,889.58)
+COMFI Per Week: 13470.55 ($23,977.57)
+APR: Day 31.46% Week 220.19% Year 11449.79%
+You are staking 0.00 UNIx5-USDC-1Jun21-UP ($0.00), 0.00% of the pool.
+Stake 0.00 UNIx5-USDC-1Jun21-UP
+Unstake 0.00 UNIx5-USDC-1Jun21-UP
+UNIx5-USDC-1Jun21-DOWN
+ Price: $1.97 Market Cap: $6,266.68 
+[%]
+Staked: 2847.5267 UNIx5-USDC-1Jun21-DOWN ($5,616.70)
+COMFI Per Week: 13470.55 ($23,977.57)
+APR: Day 60.99% Week 426.90% Year 22198.70%
+You are staking 0.00 UNIx5-USDC-1Jun21-DOWN ($0.00), 0.00% of the pool.
+Stake 0.00 UNIx5-USDC-1Jun21-DOWN
+Unstake 0.00 UNIx5-USDC-1Jun21-DOWN
+[COMFI]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $158.46 TVL: $880,042.44
+COMFI Price: $1.78
+WETH Price: $3,326.01
+Staked: 96.1526 UNI-V2 ($15,236.63)
+COMFI Per Week: 53882.18 ($95,910.28)
+APR: Day 89.92% Week 629.47% Year 32732.52%
+You are staking 0.00 [COMFI]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COMFI]-[WETH] Uni LP
+Unstake 0.00 [COMFI]-[WETH] Uni LP
+You have 0.00 unlocked and 0.00 locked rewards (0.00 total).
+Claim 0.00 COMFI ($0.00)
+Total Staked: $914,843.86

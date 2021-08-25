@@ -1,0 +1,411 @@
+INFO  : https://polylion.exchange
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:20:32 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 26 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+LION
+ Price: $0.000871 Market Cap: $130,276.31 
+[%]
+Staked: 35294688.0564 LION ($30,738.35)
+LION Per Week: 753926.70 ($656.60)
+APR: Day 0.31% Week 2.14% Year 111.08%
+You are staking 0.00 LION ($0.00), 0.00% of the pool.
+Stake 0.00 LION
+Unstake 0.00 LION
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+WETH
+ Price: $3,324.03 Market Cap: $2,029,403,371.05 
+[%]
+Staked: 9.9136 WETH ($32,953.18)
+LION Per Week: 113089.01 ($98.49)
+APR: Day 0.04% Week 0.30% Year 15.54%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+USDC
+ Price: $1.00 Market Cap: $1,044,837,908.60 
+[%]
+Staked: 10055.4599 USDC ($10,022.68)
+LION Per Week: 75392.67 ($65.66)
+APR: Day 0.09% Week 0.66% Year 34.07%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WMATIC
+ Price: $1.66 Market Cap: $609,139,664.84 
+[%]
+Staked: 18917.8467 WMATIC ($31,403.63)
+LION Per Week: 75392.67 ($65.66)
+APR: Day 0.03% Week 0.21% Year 10.87%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+QUICK
+ Price: $741.55 Market Cap: $709,861,103.76 
+[%]
+Staked: 10.9700 QUICK ($8,134.81)
+LION Per Week: 37696.34 ($32.83)
+APR: Day 0.06% Week 0.40% Year 20.99%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+USDT
+ Price: $1.00 Market Cap: $314,853,423.03 
+[%]
+Staked: 2253.4852 USDT ($2,251.23)
+LION Per Week: 37696.34 ($32.83)
+APR: Day 0.21% Week 1.46% Year 75.83%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WBTC
+ Price: $50,155.00 Market Cap: $699,617,835.64 
+[%]
+Staked: 0.1752 WBTC ($8,789.14)
+LION Per Week: 37696.34 ($32.83)
+APR: Day 0.05% Week 0.37% Year 19.42%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+DAI
+ Price: $1.00 Market Cap: $376,284,571.53 
+[%]
+Staked: 5261.8831 DAI ($5,261.88)
+LION Per Week: 37696.34 ($32.83)
+APR: Day 0.09% Week 0.62% Year 32.44%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[WMATIC]-[LION] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.10 TVL: $59,865.11
+WMATIC Price: $1.66
+LION Price: $0.000871
+Staked: 581510.9546 UNI-V2 ($58,181.20)
+LION Per Week: 2714136.13 ($2,363.76)
+APR: Day 0.58% Week 4.06% Year 211.26%
+You are staking 0.00 [WMATIC]-[LION] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[LION] Uni LP
+Unstake 0.00 [WMATIC]-[LION] Uni LP
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[LION]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $87,742.50 TVL: $11,720.85
+LION Price: $0.000871
+USDC Price: $1.00
+Staked: 0.1258 UNI-V2 ($11,040.78)
+LION Per Week: 1809424.08 ($1,575.84)
+APR: Day 2.04% Week 14.27% Year 742.19%
+You are staking 0.00 [LION]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LION]-[USDC] Uni LP
+Unstake 0.00 [LION]-[USDC] Uni LP
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[WMATIC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $189.61 TVL: $123,630,009.82
+WMATIC Price: $1.66
+WETH Price: $3,324.03
+Staked: 158.3781 UNI-V2 ($30,029.62)
+LION Per Week: 188481.68 ($164.15)
+APR: Day 0.08% Week 0.55% Year 28.42%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,701,806.39 TVL: $148,007,125.07
+USDC Price: $1.00
+WETH Price: $3,324.03
+Staked: 0.0001 UNI-V2 ($22,760.13)
+LION Per Week: 169633.51 ($147.73)
+APR: Day 0.09% Week 0.65% Year 33.75%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WBTC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,291,918,474,127.79 TVL: $97,832,426.87
+WBTC Price: $50,155.00
+WETH Price: $3,324.03
+Staked: 0.0000 UNI-V2 ($16,969.29)
+LION Per Week: 150785.34 ($131.32)
+APR: Day 0.11% Week 0.77% Year 40.24%
+You are staking 0.00 [WBTC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WBTC]-[WETH] Uni LP
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,561,172,195,592.87 TVL: $33,935,520.08
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($58,900.29)
+LION Per Week: 113089.01 ($98.49)
+APR: Day 0.02% Week 0.17% Year 8.70%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[WMATIC]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $95.38 TVL: $32,154,949.54
+WMATIC Price: $1.66
+QUICK Price: $741.55
+Staked: 73.7604 UNI-V2 ($7,035.29)
+LION Per Week: 94240.84 ($82.07)
+APR: Day 0.17% Week 1.17% Year 60.66%
+You are staking 0.00 [WMATIC]-[QUICK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[QUICK] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[QUICK] Uni LP
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[WETH]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $138.06 TVL: $31,057,466.00
+WETH Price: $3,324.03
+DAI Price: $1.00
+Staked: 48.6982 UNI-V2 ($6,723.20)
+LION Per Week: 75392.67 ($65.66)
+APR: Day 0.14% Week 0.98% Year 50.78%
+You are staking 0.00 [WETH]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [WETH]-[DAI] Uni LP
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[LINK]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $637.12 TVL: $33,657,913.89
+LINK Price: $28.77
+WETH Price: $3,324.03
+Staked: 217.3393 UNI-V2 ($138,471.05)
+LION Per Week: 75392.67 ($65.66)
+APR: Day 0.01% Week 0.05% Year 2.47%
+You are staking 0.00 [LINK]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LINK]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [LINK]-[WETH] Uni LP
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[USDC]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $88,604,514.33 TVL: $9,046,241.70
+USDC Price: $1.00
+QUICK Price: $741.55
+Staked: 0.0001 UNI-V2 ($6,401.52)
+LION Per Week: 75392.67 ($65.66)
+APR: Day 0.15% Week 1.03% Year 53.34%
+You are staking 0.00 [USDC]-[QUICK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[QUICK] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[QUICK] Uni LP
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[WBTC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50,652,865,452,603.73 TVL: $16,279,620.83
+WBTC Price: $50,155.00
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($10,565.63)
+LION Per Week: 75392.67 ($65.66)
+APR: Day 0.09% Week 0.62% Year 32.32%
+You are staking 0.00 [WBTC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WBTC]-[USDC] Uni LP
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[WETH]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,708,993,764.27 TVL: $48,971,995.67
+WETH Price: $3,324.03
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($13,362.11)
+LION Per Week: 131937.17 ($114.90)
+APR: Day 0.12% Week 0.86% Year 44.72%
+You are staking 0.00 [WETH]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [WETH]-[USDT] Uni LP
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+AAVE
+ Price: $410.53 Market Cap: $156,278,336.32 
+[%]
+Staked: 7.8266 AAVE ($3,213.06)
+LION Per Week: 18848.17 ($16.41)
+APR: Day 0.07% Week 0.51% Year 26.57%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+LINK
+ Price: $28.77 Market Cap: $65,285,861.06 
+[%]
+Staked: 58.4098 LINK ($1,680.45)
+LION Per Week: 37696.34 ($32.83)
+APR: Day 0.28% Week 1.95% Year 101.59%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+PolyDoge
+ Price: $0.0000000063 Market Cap: $6,296,000.00 
+[%]
+Staked: 839901885034.8522 PolyDoge ($5,288.02)
+LION Per Week: 75392.67 ($65.66)
+APR: Day 0.18% Week 1.24% Year 64.57%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 4%
+Unstake 0.00 PolyDoge
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+SUSHI
+ Price: $13.89 Market Cap: $14,080,096.57 
+[%]
+Staked: 304.9843 SUSHI ($4,236.23)
+LION Per Week: 37696.34 ($32.83)
+APR: Day 0.11% Week 0.77% Year 40.30%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 4%
+Unstake 0.00 SUSHI
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[DAI]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $27,074,073.70 TVL: $3,947,101.88
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 0.0003 UNI-V2 ($6,903.08)
+LION Per Week: 188481.68 ($164.15)
+APR: Day 0.34% Week 2.38% Year 123.65%
+You are staking 0.00 [DAI]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [DAI]-[USDT] Uni LP
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $531,315.87

@@ -1,0 +1,255 @@
+INFO  : The Main Farm - https://main.chainedfarms.network
+****************************************************************************************
+
+Mon Aug 23 2021 14:38:44 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 15 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.74 TVL: $527,391,744.64
+WBNB Price: $484.17
+BUSD Price: $1.00
+Staked: 0.5161 Cake-LP ($25.67)
+CFN Per Week: 66.49 ($0.94)
+APR: Day 0.52% Week 3.66% Year 190.12%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 CFN ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,300,577.07
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.6822 Cake-LP ($1.40)
+CFN Per Week: 49.86 ($0.70)
+APR: Day 7.20% Week 50.41% Year 2621.30%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 CFN ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,652.34 TVL: $261,815,408.90
+ETH Price: $3,330.87
+WBNB Price: $484.17
+Staked: 0.0057 Cake-LP ($15.18)
+CFN Per Week: 83.11 ($1.17)
+APR: Day 1.10% Week 7.73% Year 401.91%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 CFN ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,907,643.94
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.7097 Cake-LP ($1.46)
+CFN Per Week: 49.86 ($0.70)
+APR: Day 6.88% Week 48.19% Year 2505.96%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 CFN ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $240.41 TVL: $82,661,943.93
+DOT Price: $28.00
+WBNB Price: $484.17
+Staked: 0.1280 Cake-LP ($30.76)
+CFN Per Week: 83.11 ($1.17)
+APR: Day 0.54% Week 3.81% Year 198.28%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 CFN ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $225.02 TVL: $1,029,880,267.06
+Cake Price: $25.01
+WBNB Price: $484.17
+Staked: 0.0108 Cake-LP ($2.42)
+CFN Per Week: 33.24 ($0.47)
+APR: Day 2.77% Week 19.38% Year 1007.55%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 CFN ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WBNB
+ Price: $484.17 Market Cap: $3,428,403,968.05 
+[%]
+Staked: 2.1940 WBNB ($1,062.26)
+CFN Per Week: 49.86 ($0.70)
+APR: Day 0.01% Week 0.07% Year 3.45%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 CFN ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+BUSD
+ Price: $1.00 Market Cap: $4,196,088,431.70 
+[%]
+Staked: 2.3177 BUSD ($2.31)
+CFN Per Week: 33.24 ($0.47)
+APR: Day 2.90% Week 20.27% Year 1054.04%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 CFN ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 65.7160 USDT ($65.70)
+CFN Per Week: 16.62 ($0.23)
+APR: Day 0.05% Week 0.36% Year 18.57%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 CFN ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+ETH
+ Price: $3,330.87 Market Cap: $4,346,785,350.00 
+[%]
+Staked: 0.0021 ETH ($7.00)
+CFN Per Week: 33.24 ($0.47)
+APR: Day 0.96% Week 6.70% Year 348.44%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 CFN ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,137,387.00 
+[%]
+Staked: 6.4892 USDC ($6.48)
+CFN Per Week: 16.62 ($0.23)
+APR: Day 0.52% Week 3.62% Year 188.21%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 CFN ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+DOT
+ Price: $28.00 Market Cap: $391,999,999.86 
+[%]
+Staked: 0.3364 DOT ($9.42)
+CFN Per Week: 33.24 ($0.47)
+APR: Day 0.71% Week 4.98% Year 259.03%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 CFN ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+Cake
+ Price: $25.01 Market Cap: $10,407,354,970.85 
+[%]
+Staked: 0.1520 Cake ($3.80)
+CFN Per Week: 16.62 ($0.23)
+APR: Day 0.88% Week 6.17% Year 321.03%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 CFN ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[CFN]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.40 TVL: $13,685.56
+CFN Price: $0.01
+WBNB Price: $484.17
+Staked: 46.1388 Cake-LP ($249.33)
+CFN Per Week: 714.72 ($10.09)
+APR: Day 0.58% Week 4.05% Year 210.40%
+You are staking 0.00 [CFN]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CFN]-[WBNB] Cake LP
+Unstake 0.00 [CFN]-[WBNB] Cake LP
+Claim 0.00 CFN ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[CFN]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.25 TVL: $12,230.70
+CFN Price: $0.01
+BUSD Price: $1.00
+Staked: 233.4758 Cake-LP ($57.20)
+CFN Per Week: 714.72 ($10.09)
+APR: Day 2.52% Week 17.64% Year 917.07%
+You are staking 0.00 [CFN]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CFN]-[BUSD] Cake LP
+Unstake 0.00 [CFN]-[BUSD] Cake LP
+Claim 0.00 CFN ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,540.41

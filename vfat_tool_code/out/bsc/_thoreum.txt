@@ -1,0 +1,1569 @@
+INFO  : https://thoreum.finance
+************************************************************************************
+
+Mon Aug 23 2021 09:17:48 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 103 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+THOREUM
+ Price: $0.03 Market Cap: $148,243,750.00 
+[%]
+Staked: 2234238.8843 THOREUM ($66,242.39)
+THOREUM Per Week: 2029.93 ($60.18)
+APR: Day 0.01% Week 0.09% Year 4.72%
+You are staking 0.00 THOREUM ($0.00), 0.00% of the pool.
+Stake 0.00 THOREUM
+Unstake 0.00 THOREUM
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+WBNB
+ Price: $486.14 Market Cap: $3,438,024,782.81 
+[%]
+Staked: 0.4644 WBNB ($225.75)
+THOREUM Per Week: 81.20 ($2.41)
+APR: Day 0.15% Week 1.07% Year 55.45%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+ETH
+ Price: $3,331.38 Market Cap: $4,347,450,900.00 
+[%]
+Staked: 1.5332 ETH ($5,107.61)
+THOREUM Per Week: 81.20 ($2.41)
+APR: Day 0.01% Week 0.05% Year 2.45%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+BUSD
+ Price: $1.00 Market Cap: $4,195,071,789.84 
+[%]
+Staked: 566.4626 BUSD ($565.66)
+THOREUM Per Week: 40.60 ($1.20)
+APR: Day 0.03% Week 0.21% Year 11.07%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.0022 BTCB ($109.74)
+THOREUM Per Week: 60.90 ($1.81)
+APR: Day 0.24% Week 1.65% Year 85.55%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+Cake
+ Price: $25.08 Market Cap: $10,436,558,468.11 
+[%]
+Staked: 94.7333 Cake ($2,375.91)
+THOREUM Per Week: 60.90 ($1.81)
+APR: Day 0.01% Week 0.08% Year 3.95%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+DOT
+ Price: $28.08 Market Cap: $393,119,999.86 
+[%]
+Staked: 46.7229 DOT ($1,311.98)
+THOREUM Per Week: 40.60 ($1.20)
+APR: Day 0.01% Week 0.09% Year 4.77%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+ADA
+ Price: $2.83 Market Cap: $792,400,000.00 
+[%]
+Staked: 3853.3339 ADA ($10,904.94)
+THOREUM Per Week: 40.60 ($1.20)
+APR: Day 0.00% Week 0.01% Year 0.57%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+XRP
+ Price: $1.29 Market Cap: $279,930,000.00 
+[%]
+Staked: 1757.3801 XRP ($2,267.02)
+THOREUM Per Week: 30.45 ($0.90)
+APR: Day 0.01% Week 0.04% Year 2.07%
+You are staking 0.00 XRP ($0.00), 0.00% of the pool.
+Stake 0.00 XRP - Fee 4%
+Unstake 0.00 XRP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+LINK
+ Price: $28.71 Market Cap: $246,906,000.00 
+[%]
+Staked: 48.8592 LINK ($1,402.75)
+THOREUM Per Week: 40.60 ($1.20)
+APR: Day 0.01% Week 0.09% Year 4.46%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+LTC
+ Price: $187.89 Market Cap: $111,794,550.00 
+[%]
+Staked: 2.5077 LTC ($471.17)
+THOREUM Per Week: 30.45 ($0.90)
+APR: Day 0.03% Week 0.19% Year 9.96%
+You are staking 0.00 LTC ($0.00), 0.00% of the pool.
+Stake 0.00 LTC - Fee 4%
+Unstake 0.00 LTC
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+DOGE
+ Price: $0.33 Market Cap: $650,902,000.00 
+[%]
+Staked: 20922.3842 DOGE ($6,809.21)
+THOREUM Per Week: 30.45 ($0.90)
+APR: Day 0.00% Week 0.01% Year 0.69%
+You are staking 0.00 DOGE ($0.00), 0.00% of the pool.
+Stake 0.00 DOGE - Fee 4%
+Unstake 0.00 DOGE
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+UNI
+ Price: $29.36 Market Cap: $108,632,000.00 
+[%]
+Staked: 35.4046 UNI ($1,039.48)
+THOREUM Per Week: 30.45 ($0.90)
+APR: Day 0.01% Week 0.09% Year 4.52%
+You are staking 0.00 UNI ($0.00), 0.00% of the pool.
+Stake 0.00 UNI - Fee 4%
+Unstake 0.00 UNI
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.83 TVL: $527,919,544.06
+WBNB Price: $486.14
+BUSD Price: $1.00
+Staked: 45.1975 Cake-LP ($2,252.26)
+THOREUM Per Week: 40.60 ($1.20)
+APR: Day 0.01% Week 0.05% Year 2.78%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,234.40 TVL: $174,090,288.75
+BTCB Price: $49,954.00
+WBNB Price: $486.14
+Staked: 0.1631 Cake-LP ($1,669.22)
+THOREUM Per Week: 81.20 ($2.41)
+APR: Day 0.02% Week 0.14% Year 7.50%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,657.98 TVL: $262,371,612.40
+ETH Price: $3,331.38
+WBNB Price: $486.14
+Staked: 0.8254 Cake-LP ($2,193.77)
+THOREUM Per Week: 71.05 ($2.11)
+APR: Day 0.01% Week 0.10% Year 4.99%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $241.24 TVL: $82,948,268.65
+DOT Price: $28.08
+WBNB Price: $486.14
+Staked: 3.7742 Cake-LP ($910.50)
+THOREUM Per Week: 30.45 ($0.90)
+APR: Day 0.01% Week 0.10% Year 5.16%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[USDT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.73 TVL: $252,731,778.33
+USDT Price: $1.00
+WBNB Price: $486.14
+Staked: 31.0265 Cake-LP ($1,573.84)
+THOREUM Per Week: 20.30 ($0.60)
+APR: Day 0.01% Week 0.04% Year 1.99%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $225.79 TVL: $1,033,409,611.53
+Cake Price: $25.08
+WBNB Price: $486.14
+Staked: 3.7723 Cake-LP ($851.75)
+THOREUM Per Week: 30.45 ($0.90)
+APR: Day 0.02% Week 0.11% Year 5.51%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[WBNB]-[UNI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $243.51 TVL: $33,968,400.41
+WBNB Price: $486.14
+UNI Price: $29.36
+Staked: 0.2334 Cake-LP ($56.84)
+THOREUM Per Week: 4.06 ($0.12)
+APR: Day 0.03% Week 0.21% Year 11.01%
+You are staking 0.00 [WBNB]-[UNI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[UNI] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[UNI] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[XRP]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $51.70 TVL: $39,592,332.18
+XRP Price: $1.29
+WBNB Price: $486.14
+Staked: 383.5802 Cake-LP ($19,831.20)
+THOREUM Per Week: 30.45 ($0.90)
+APR: Day 0.00% Week 0.00% Year 0.24%
+You are staking 0.00 [XRP]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XRP]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [XRP]-[WBNB] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.40 TVL: $46,943,932.97
+ADA Price: $2.83
+WBNB Price: $486.14
+Staked: 9.0246 Cake-LP ($698.54)
+THOREUM Per Week: 30.45 ($0.90)
+APR: Day 0.02% Week 0.13% Year 6.72%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[WBNB]-[LINK] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $241.41 TVL: $47,708,660.10
+WBNB Price: $486.14
+LINK Price: $28.71
+Staked: 4.0094 Cake-LP ($967.92)
+THOREUM Per Week: 4.06 ($0.12)
+APR: Day 0.00% Week 0.01% Year 0.65%
+You are staking 0.00 [WBNB]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LINK] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[LINK] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[LTC]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $620.88 TVL: $11,590,318.90
+LTC Price: $187.89
+WBNB Price: $486.14
+Staked: 0.3475 Cake-LP ($215.74)
+THOREUM Per Week: 30.45 ($0.90)
+APR: Day 0.06% Week 0.42% Year 21.76%
+You are staking 0.00 [LTC]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LTC]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [LTC]-[WBNB] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[BTCB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $472.37 TVL: $137,416,310.34
+BTCB Price: $49,954.00
+BUSD Price: $1.00
+Staked: 0.2508 Cake-LP ($118.46)
+THOREUM Per Week: 20.30 ($0.60)
+APR: Day 0.07% Week 0.51% Year 26.42%
+You are staking 0.00 [BTCB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[BUSD] Cake LP - Fee 10%
+Unstake 0.00 [BTCB]-[BUSD] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,918,419.01
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 110.9860 Cake-LP ($228.38)
+THOREUM Per Week: 40.60 ($1.20)
+APR: Day 0.08% Week 0.53% Year 27.41%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+WBNB
+ Price: $486.14 Market Cap: $3,438,024,782.81 
+[%]
+Staked: 4.1430 WBNB ($2,014.06)
+THOREUM Per Week: 40.60 ($1.20)
+APR: Day 0.01% Week 0.06% Year 3.11%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 3347.9544 USDT ($3,347.31)
+THOREUM Per Week: 81.20 ($2.41)
+APR: Day 0.01% Week 0.07% Year 3.74%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,247,685.00 
+[%]
+Staked: 3616.7956 USDC ($3,613.23)
+THOREUM Per Week: 60.90 ($1.81)
+APR: Day 0.01% Week 0.05% Year 2.60%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.0005 BTCB ($24.84)
+THOREUM Per Week: 30.45 ($0.90)
+APR: Day 0.52% Week 3.63% Year 189.01%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+ADA
+ Price: $2.83 Market Cap: $792,400,000.00 
+[%]
+Staked: 638.6963 ADA ($1,807.51)
+THOREUM Per Week: 40.60 ($1.20)
+APR: Day 0.01% Week 0.07% Year 3.46%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+DOT
+ Price: $28.08 Market Cap: $393,119,999.86 
+[%]
+Staked: 20.5909 DOT ($578.19)
+THOREUM Per Week: 40.60 ($1.20)
+APR: Day 0.03% Week 0.21% Year 10.83%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+THOREUM
+ Price: $0.03 Market Cap: $148,243,750.00 
+[%]
+Staked: 2278185.2995 THOREUM ($67,545.35)
+THOREUM Per Week: 2029.93 ($60.18)
+APR: Day 0.01% Week 0.09% Year 4.63%
+You are staking 0.00 THOREUM ($0.00), 0.00% of the pool.
+Stake 0.00 THOREUM
+Unstake 0.00 THOREUM
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+33 - 
+[THOREUM]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8.03 TVL: $3,250,702.10
+THOREUM Price: $0.03
+WBNB Price: $486.14
+Staked: 93.7615 Cake-LP ($752.82)
+THOREUM Per Week: 101.50 ($3.01)
+APR: Day 0.06% Week 0.40% Year 20.79%
+You are staking 0.00 [THOREUM]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [THOREUM]-[WBNB] Cake LP
+Unstake 0.00 [THOREUM]-[WBNB] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+34 - 
+BUSD
+ Price: $1.00 Market Cap: $4,195,071,789.84 
+[%]
+Staked: 261.1227 BUSD ($260.75)
+THOREUM Per Week: 40.60 ($1.20)
+APR: Day 0.07% Week 0.46% Year 24.00%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+35 - 
+ETH
+ Price: $3,331.38 Market Cap: $4,347,450,900.00 
+[%]
+Staked: 0.4703 ETH ($1,566.72)
+THOREUM Per Week: 20.30 ($0.60)
+APR: Day 0.01% Week 0.04% Year 2.00%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+36 - 
+Cake
+ Price: $25.08 Market Cap: $10,436,558,468.11 
+[%]
+Staked: 48.7069 Cake ($1,221.57)
+THOREUM Per Week: 60.90 ($1.81)
+APR: Day 0.02% Week 0.15% Year 7.69%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+37 - 
+BUNNY
+ Price: $7.66 Market Cap: $85,062,867.46 
+[%]
+Staked: 24.0264 BUNNY ($184.04)
+THOREUM Per Week: 20.30 ($0.60)
+APR: Day 0.05% Week 0.33% Year 17.00%
+You are staking 0.00 BUNNY ($0.00), 0.00% of the pool.
+Stake 0.00 BUNNY - Fee 4%
+Unstake 0.00 BUNNY
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+38 - 
+[THOREUM]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.53 TVL: $591,571.67
+THOREUM Price: $0.03
+BUSD Price: $1.00
+Staked: 8833.8099 Cake-LP ($4,647.28)
+THOREUM Per Week: 202.99 ($6.02)
+APR: Day 0.02% Week 0.13% Year 6.73%
+You are staking 0.00 [THOREUM]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [THOREUM]-[BUSD] Cake LP
+Unstake 0.00 [THOREUM]-[BUSD] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+39 - 
+XRP
+ Price: $1.29 Market Cap: $279,930,000.00 
+[%]
+Staked: 610.9842 XRP ($788.17)
+THOREUM Per Week: 40.60 ($1.20)
+APR: Day 0.02% Week 0.15% Year 7.94%
+You are staking 0.00 XRP ($0.00), 0.00% of the pool.
+Stake 0.00 XRP - Fee 4%
+Unstake 0.00 XRP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+40 - 
+LINK
+ Price: $28.71 Market Cap: $246,906,000.00 
+[%]
+Staked: 30.7187 LINK ($881.93)
+THOREUM Per Week: 20.30 ($0.60)
+APR: Day 0.01% Week 0.07% Year 3.55%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+41 - 
+TRX
+ Price: $0.09 Market Cap: $291,203,880.00 
+[%]
+Staked: 13980.9384 TRX ($1,260.47)
+THOREUM Per Week: 20.30 ($0.60)
+APR: Day 0.01% Week 0.05% Year 2.48%
+You are staking 0.00 TRX ($0.00), 0.00% of the pool.
+Stake 0.00 TRX - Fee 4%
+Unstake 0.00 TRX
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+42 - 
+BAKE
+ Price: $3.15 Market Cap: $2,297,071,209.57 
+[%]
+Staked: 228.2348 BAKE ($718.94)
+THOREUM Per Week: 40.60 ($1.20)
+APR: Day 0.02% Week 0.17% Year 8.71%
+You are staking 0.00 BAKE ($0.00), 0.00% of the pool.
+Stake 0.00 BAKE - Fee 4%
+Unstake 0.00 BAKE
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+43 - 
+[THOREUM]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8.03 TVL: $3,250,702.10
+THOREUM Price: $0.03
+WBNB Price: $486.14
+Staked: 137.5864 Cake-LP ($1,104.70)
+THOREUM Per Week: 101.50 ($3.01)
+APR: Day 0.04% Week 0.27% Year 14.17%
+You are staking 0.00 [THOREUM]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [THOREUM]-[WBNB] Cake LP
+Unstake 0.00 [THOREUM]-[WBNB] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+44 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 102.4338 DAI ($102.43)
+THOREUM Per Week: 20.30 ($0.60)
+APR: Day 0.08% Week 0.59% Year 30.55%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+45 - 
+[THOREUM]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.53 TVL: $591,571.67
+THOREUM Price: $0.03
+BUSD Price: $1.00
+Staked: 1105.5135 Cake-LP ($581.59)
+THOREUM Per Week: 304.49 ($9.03)
+APR: Day 0.22% Week 1.55% Year 80.72%
+You are staking 0.00 [THOREUM]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [THOREUM]-[BUSD] Cake LP
+Unstake 0.00 [THOREUM]-[BUSD] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+46 - 
+BAKE
+ Price: $3.15 Market Cap: $2,297,071,209.57 
+[%]
+Staked: 9.3685 BAKE ($29.51)
+THOREUM Per Week: 20.30 ($0.60)
+APR: Day 0.29% Week 2.04% Year 106.05%
+You are staking 0.00 BAKE ($0.00), 0.00% of the pool.
+Stake 0.00 BAKE - Fee 4%
+Unstake 0.00 BAKE
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+47 - 
+THOREUM
+ Price: $0.03 Market Cap: $148,243,750.00 
+[%]
+Staked: 970015.0482 THOREUM ($28,759.73)
+THOREUM Per Week: 2029.93 ($60.18)
+APR: Day 0.03% Week 0.21% Year 10.88%
+You are staking 0.00 THOREUM ($0.00), 0.00% of the pool.
+Stake 0.00 THOREUM
+Unstake 0.00 THOREUM
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+48 - 
+THOREUM
+ Price: $0.03 Market Cap: $148,243,750.00 
+[%]
+Staked: 1739543.5484 THOREUM ($51,575.29)
+THOREUM Per Week: 3044.90 ($90.28)
+APR: Day 0.03% Week 0.18% Year 9.10%
+You are staking 0.00 THOREUM ($0.00), 0.00% of the pool.
+Stake 0.00 THOREUM
+Unstake 0.00 THOREUM
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+49 - 
+[THOREUM]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8.03 TVL: $3,250,702.10
+THOREUM Price: $0.03
+WBNB Price: $486.14
+Staked: 46.4507 Cake-LP ($372.96)
+THOREUM Per Week: 202.99 ($6.02)
+APR: Day 0.23% Week 1.61% Year 83.91%
+You are staking 0.00 [THOREUM]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [THOREUM]-[WBNB] Cake LP
+Unstake 0.00 [THOREUM]-[WBNB] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+50 - 
+THOREUM
+ Price: $0.03 Market Cap: $148,243,750.00 
+[%]
+Staked: 4087693.1826 THOREUM ($121,194.99)
+THOREUM Per Week: 8119.73 ($240.74)
+APR: Day 0.03% Week 0.20% Year 10.33%
+You are staking 0.00 THOREUM ($0.00), 0.00% of the pool.
+Stake 0.00 THOREUM
+Unstake 0.00 THOREUM
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+51 - 
+BUSD
+ Price: $1.00 Market Cap: $4,195,071,789.84 
+[%]
+Staked: 1567.1970 BUSD ($1,564.99)
+THOREUM Per Week: 40.60 ($1.20)
+APR: Day 0.01% Week 0.08% Year 4.00%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 10%
+Unstake 0.00 BUSD
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+52 - 
+WBNB
+ Price: $486.14 Market Cap: $3,438,024,782.81 
+[%]
+Staked: 11.1301 WBNB ($5,410.78)
+THOREUM Per Week: 405.99 ($12.04)
+APR: Day 0.03% Week 0.22% Year 11.57%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 10%
+Unstake 0.00 WBNB
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+53 - 
+THOREUM
+ Price: $0.03 Market Cap: $148,243,750.00 
+[%]
+Staked: 1536348.2772 THOREUM ($45,550.81)
+THOREUM Per Week: 3044.90 ($90.28)
+APR: Day 0.03% Week 0.20% Year 10.31%
+You are staking 0.00 THOREUM ($0.00), 0.00% of the pool.
+Stake 0.00 THOREUM
+Unstake 0.00 THOREUM
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+54 - 
+ETH
+ Price: $3,331.38 Market Cap: $4,347,450,900.00 
+[%]
+Staked: 0.2486 ETH ($828.11)
+THOREUM Per Week: 101.50 ($3.01)
+APR: Day 0.05% Week 0.36% Year 18.90%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 10%
+Unstake 0.00 ETH
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+55 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.2304 BTCB ($11,507.76)
+THOREUM Per Week: 1014.97 ($30.09)
+APR: Day 0.04% Week 0.26% Year 13.60%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 10%
+Unstake 0.00 BTCB
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+56 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 149.7123 USDT ($149.68)
+THOREUM Per Week: 60.90 ($1.81)
+APR: Day 0.17% Week 1.21% Year 62.72%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 10%
+Unstake 0.00 USDT
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+57 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,247,685.00 
+[%]
+Staked: 176.8298 USDC ($176.66)
+THOREUM Per Week: 2.03 ($0.06)
+APR: Day 0.00% Week 0.03% Year 1.77%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 10%
+Unstake 0.00 USDC
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+58 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 309.8264 DAI ($309.83)
+THOREUM Per Week: 20.30 ($0.60)
+APR: Day 0.03% Week 0.19% Year 10.10%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 10%
+Unstake 0.00 DAI
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+59 - 
+ADA
+ Price: $2.83 Market Cap: $792,400,000.00 
+[%]
+Staked: 13353.3389 ADA ($37,789.95)
+THOREUM Per Week: 304.49 ($9.03)
+APR: Day 0.00% Week 0.02% Year 1.24%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 10%
+Unstake 0.00 ADA
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+60 - 
+DOT
+ Price: $28.08 Market Cap: $393,119,999.86 
+[%]
+Staked: 9.9987 DOT ($280.76)
+THOREUM Per Week: 50.75 ($1.50)
+APR: Day 0.08% Week 0.54% Year 27.87%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 10%
+Unstake 0.00 DOT
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+61 - 
+LINK
+ Price: $28.71 Market Cap: $246,906,000.00 
+[%]
+Staked: 2.0756 LINK ($59.59)
+THOREUM Per Week: 20.30 ($0.60)
+APR: Day 0.14% Week 1.01% Year 52.52%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 10%
+Unstake 0.00 LINK
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+62 - 
+LTC
+ Price: $187.89 Market Cap: $111,794,550.00 
+[%]
+Staked: 19.4620 LTC ($3,656.72)
+THOREUM Per Week: 20.30 ($0.60)
+APR: Day 0.00% Week 0.02% Year 0.86%
+You are staking 0.00 LTC ($0.00), 0.00% of the pool.
+Stake 0.00 LTC - Fee 10%
+Unstake 0.00 LTC
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+63 - 
+XRP
+ Price: $1.29 Market Cap: $279,930,000.00 
+[%]
+Staked: 1291.6518 XRP ($1,666.23)
+THOREUM Per Week: 81.20 ($2.41)
+APR: Day 0.02% Week 0.14% Year 7.51%
+You are staking 0.00 XRP ($0.00), 0.00% of the pool.
+Stake 0.00 XRP - Fee 10%
+Unstake 0.00 XRP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+64 - 
+UNI
+ Price: $29.36 Market Cap: $108,632,000.00 
+[%]
+Staked: 69.1269 UNI ($2,029.57)
+THOREUM Per Week: 20.30 ($0.60)
+APR: Day 0.00% Week 0.03% Year 1.54%
+You are staking 0.00 UNI ($0.00), 0.00% of the pool.
+Stake 0.00 UNI - Fee 10%
+Unstake 0.00 UNI
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+65 - 
+UST
+ Price: $1.00 Market Cap: $37,045,237.39 
+[%]
+Staked: 345.3678 UST ($345.37)
+THOREUM Per Week: 202.99 ($6.02)
+APR: Day 0.25% Week 1.74% Year 90.62%
+You are staking 0.00 UST ($0.00), 0.00% of the pool.
+Stake 0.00 UST - Fee 10%
+Unstake 0.00 UST
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+66 - 
+TUSD
+ Price: $0.00 Market Cap: $0.00 
+Staked: 562.5249 TUSD ($0.00)
+THOREUM Per Week: 202.99 ($6.02)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 TUSD ($0.00), NaN% of the pool.
+Stake 0.00 TUSD - Fee 10%
+Unstake 0.00 TUSD
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+67 - 
+[Cake]-[ADA] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $17.16 TVL: $206,035.27
+Cake Price: $25.08
+ADA Price: $2.83
+Staked: 10.3558 Cake-LP ($177.76)
+THOREUM Per Week: 30.45 ($0.90)
+APR: Day 0.07% Week 0.51% Year 26.41%
+You are staking 0.00 [Cake]-[ADA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[ADA] Cake LP - Fee 10%
+Unstake 0.00 [Cake]-[ADA] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+68 - 
+[ADA]-[DOT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $17.91 TVL: $187,930.58
+ADA Price: $2.83
+DOT Price: $28.08
+Staked: 319.5765 Cake-LP ($5,723.18)
+THOREUM Per Week: 20.30 ($0.60)
+APR: Day 0.00% Week 0.01% Year 0.55%
+You are staking 0.00 [ADA]-[DOT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[DOT] Cake LP - Fee 10%
+Unstake 0.00 [ADA]-[DOT] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+69 - 
+[XRP]-[ADA] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.84 TVL: $84,996.14
+XRP Price: $1.29
+ADA Price: $2.83
+Staked: 13.1392 Cake-LP ($50.49)
+THOREUM Per Week: 20.30 ($0.60)
+APR: Day 0.17% Week 1.19% Year 61.99%
+You are staking 0.00 [XRP]-[ADA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XRP]-[ADA] Cake LP - Fee 10%
+Unstake 0.00 [XRP]-[ADA] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+70 - 
+[ADA]-[LINK] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $18.08 TVL: $39,423.69
+ADA Price: $2.83
+LINK Price: $28.71
+Staked: 0.1261 Cake-LP ($2.28)
+THOREUM Per Week: 2.03 ($0.06)
+APR: Day 0.38% Week 2.64% Year 137.28%
+You are staking 0.00 [ADA]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[LINK] Cake LP - Fee 10%
+Unstake 0.00 [ADA]-[LINK] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+71 - 
+[ETH]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $208.01 TVL: $360,131.38
+ETH Price: $3,331.38
+BUSD Price: $1.00
+Staked: 0.0224 Cake-LP ($4.66)
+THOREUM Per Week: 1.01 ($0.03)
+APR: Day 0.09% Week 0.65% Year 33.58%
+You are staking 0.00 [ETH]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BUSD] Cake LP - Fee 10%
+Unstake 0.00 [ETH]-[BUSD] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+72 - 
+THOREUM
+ Price: $0.03 Market Cap: $148,243,750.00 
+[%]
+Staked: 14976866.9065 THOREUM ($444,045.38)
+THOREUM Per Week: 60897.95 ($1,805.55)
+APR: Day 0.06% Week 0.41% Year 21.14%
+You are staking 0.00 THOREUM ($0.00), 0.00% of the pool.
+Stake 0.00 THOREUM
+Unstake 0.00 THOREUM
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+73 - 
+[TUSD]-[UST] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.99 TVL: $150,629.38
+TUSD Price: $0.99
+UST Price: $1.00
+Staked: 75327.6227 Cake-LP ($150,101.70)
+THOREUM Per Week: 162394.54 ($4,814.80)
+APR: Day 0.46% Week 3.21% Year 166.80%
+You are staking 0.00 [TUSD]-[UST] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TUSD]-[UST] Cake LP - Fee 10%
+Unstake 0.00 [TUSD]-[UST] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+74 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,918,419.01
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 251.0068 Cake-LP ($516.50)
+THOREUM Per Week: 40.60 ($1.20)
+APR: Day 0.03% Week 0.23% Year 12.12%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 10%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+75 - 
+[DAI]-[USDT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.42 TVL: $213,848.76
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 86758.3750 Cake-LP ($210,038.22)
+THOREUM Per Week: 60897.95 ($1,805.55)
+APR: Day 0.12% Week 0.86% Year 44.70%
+You are staking 0.00 [DAI]-[USDT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDT] Cake LP - Fee 10%
+Unstake 0.00 [DAI]-[USDT] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+76 - 
+WBNB
+ Price: $486.14 Market Cap: $3,438,024,782.81 
+[%]
+Staked: 1901.1859 WBNB ($924,242.51)
+THOREUM Per Week: 811972.70 ($24,073.98)
+APR: Day 0.37% Week 2.60% Year 135.45%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 10%
+Unstake 0.00 WBNB
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+77 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 2.2330 BTCB ($111,548.95)
+THOREUM Per Week: 81197.27 ($2,407.40)
+APR: Day 0.31% Week 2.16% Year 112.22%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 10%
+Unstake 0.00 BTCB
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+78 - 
+ETH
+ Price: $3,331.38 Market Cap: $4,347,450,900.00 
+[%]
+Staked: 26.1647 ETH ($87,164.58)
+THOREUM Per Week: 81197.27 ($2,407.40)
+APR: Day 0.39% Week 2.76% Year 143.62%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 10%
+Unstake 0.00 ETH
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+79 - 
+[DAI]-[UST] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.01 TVL: $4,776.51
+DAI Price: $1.00
+UST Price: $1.00
+Staked: 34.9672 Cake-LP ($70.15)
+THOREUM Per Week: 60.90 ($1.81)
+APR: Day 0.37% Week 2.57% Year 133.84%
+You are staking 0.00 [DAI]-[UST] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[UST] Cake LP - Fee 10%
+Unstake 0.00 [DAI]-[UST] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+80 - 
+[UST]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $50,231,476.71
+UST Price: $1.00
+BUSD Price: $1.00
+Staked: 74.7696 Cake-LP ($153.52)
+THOREUM Per Week: 20.30 ($0.60)
+APR: Day 0.06% Week 0.39% Year 20.39%
+You are staking 0.00 [UST]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[BUSD] Cake LP - Fee 10%
+Unstake 0.00 [UST]-[BUSD] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+81 - 
+[UST]-[USDC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.02 TVL: $15,037.82
+UST Price: $1.00
+USDC Price: $1.00
+Staked: 4444.7048 Cake-LP ($8,956.34)
+THOREUM Per Week: 202.99 ($6.02)
+APR: Day 0.01% Week 0.07% Year 3.49%
+You are staking 0.00 [UST]-[USDC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[USDC] Cake LP - Fee 10%
+Unstake 0.00 [UST]-[USDC] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+82 - 
+THOREUM
+ Price: $0.03 Market Cap: $148,243,750.00 
+[%]
+Staked: 121686113.0867 THOREUM ($3,607,841.15)
+THOREUM Per Week: 1055564.52 ($31,296.17)
+APR: Day 0.12% Week 0.87% Year 45.11%
+You are staking 0.00 THOREUM ($0.00), 0.00% of the pool.
+Stake 0.00 THOREUM
+Unstake 0.00 THOREUM
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+83 - 
+[THOREUM]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8.03 TVL: $3,250,702.10
+THOREUM Price: $0.03
+WBNB Price: $486.14
+Staked: 540.4072 Cake-LP ($4,339.00)
+THOREUM Per Week: 2029.93 ($60.18)
+APR: Day 0.20% Week 1.39% Year 72.13%
+You are staking 0.00 [THOREUM]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [THOREUM]-[WBNB] Cake LP - Fee 10%
+Unstake 0.00 [THOREUM]-[WBNB] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+84 - 
+[DAI]-[USDC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $7,786.63
+DAI Price: $1.00
+USDC Price: $1.00
+Staked: 493.0591 Cake-LP ($1,015.29)
+THOREUM Per Week: 40.60 ($1.20)
+APR: Day 0.02% Week 0.12% Year 6.16%
+You are staking 0.00 [DAI]-[USDC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDC] Cake LP - Fee 10%
+Unstake 0.00 [DAI]-[USDC] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+85 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,315,014.52
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 772.2437 Cake-LP ($1,571.59)
+THOREUM Per Week: 40.60 ($1.20)
+APR: Day 0.01% Week 0.08% Year 3.98%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 10%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+86 - 
+THOREUM
+ Price: $0.03 Market Cap: $148,243,750.00 
+[%]
+Staked: 692738017.4452 THOREUM ($20,538,816.29)
+THOREUM Per Week: 11367617.86 ($337,035.66)
+APR: Day 0.23% Week 1.64% Year 85.33%
+You are staking 0.00 THOREUM ($0.00), 0.00% of the pool.
+Stake 0.00 THOREUM
+Unstake 0.00 THOREUM
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+87 - 
+[THOREUM]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8.03 TVL: $3,250,702.10
+THOREUM Price: $0.03
+WBNB Price: $486.14
+Staked: 1036.7128 Cake-LP ($8,323.90)
+THOREUM Per Week: 4059.86 ($120.37)
+APR: Day 0.21% Week 1.45% Year 75.20%
+You are staking 0.00 [THOREUM]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [THOREUM]-[WBNB] Cake LP - Fee 10%
+Unstake 0.00 [THOREUM]-[WBNB] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+88 - 
+[THOREUM]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.53 TVL: $591,571.67
+THOREUM Price: $0.03
+BUSD Price: $1.00
+Staked: 19069.2889 Cake-LP ($10,031.94)
+THOREUM Per Week: 13194.56 ($391.20)
+APR: Day 0.56% Week 3.90% Year 202.78%
+You are staking 0.00 [THOREUM]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [THOREUM]-[BUSD] Cake LP - Fee 10%
+Unstake 0.00 [THOREUM]-[BUSD] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+89 - 
+[USDT]-[THOREUM] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.38 TVL: $16,643.86
+USDT Price: $1.00
+THOREUM Price: $0.03
+Staked: 42934.8827 Cake-LP ($16,519.95)
+THOREUM Per Week: 8119.73 ($240.74)
+APR: Day 0.21% Week 1.46% Year 75.78%
+You are staking 0.00 [USDT]-[THOREUM] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[THOREUM] Cake LP - Fee 10%
+Unstake 0.00 [USDT]-[THOREUM] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+90 - 
+[THOREUM]-[USDC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.40 TVL: $21,775.70
+THOREUM Price: $0.03
+USDC Price: $1.00
+Staked: 54561.8727 Cake-LP ($21,589.15)
+THOREUM Per Week: 20299.32 ($601.85)
+APR: Day 0.40% Week 2.79% Year 144.96%
+You are staking 0.00 [THOREUM]-[USDC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [THOREUM]-[USDC] Cake LP - Fee 10%
+Unstake 0.00 [THOREUM]-[USDC] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+91 - 
+[Cake]-[THOREUM] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.22 TVL: $23,897.13
+Cake Price: $25.08
+THOREUM Price: $0.03
+Staked: 7219.1001 Cake-LP ($23,277.56)
+THOREUM Per Week: 20299.32 ($601.85)
+APR: Day 0.37% Week 2.59% Year 134.45%
+You are staking 0.00 [Cake]-[THOREUM] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[THOREUM] Cake LP - Fee 10%
+Unstake 0.00 [Cake]-[THOREUM] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+92 - 
+[Cake]-[ADA] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $17.16 TVL: $206,035.27
+Cake Price: $25.08
+ADA Price: $2.83
+Staked: 8778.8734 Cake-LP ($150,687.72)
+THOREUM Per Week: 152244.88 ($4,513.87)
+APR: Day 0.43% Week 3.00% Year 155.77%
+You are staking 0.00 [Cake]-[ADA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[ADA] Cake LP - Fee 10%
+Unstake 0.00 [Cake]-[ADA] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+93 - 
+[ADA]-[DOT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $17.91 TVL: $187,930.58
+ADA Price: $2.83
+DOT Price: $28.08
+Staked: 9407.7414 Cake-LP ($168,479.85)
+THOREUM Per Week: 121795.91 ($3,611.10)
+APR: Day 0.31% Week 2.14% Year 111.45%
+You are staking 0.00 [ADA]-[DOT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[DOT] Cake LP - Fee 10%
+Unstake 0.00 [ADA]-[DOT] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+94 - 
+[XRP]-[ADA] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.84 TVL: $84,996.14
+XRP Price: $1.29
+ADA Price: $2.83
+Staked: 21936.6341 Cake-LP ($84,294.36)
+THOREUM Per Week: 24359.18 ($722.22)
+APR: Day 0.12% Week 0.86% Year 44.55%
+You are staking 0.00 [XRP]-[ADA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XRP]-[ADA] Cake LP - Fee 10%
+Unstake 0.00 [XRP]-[ADA] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+95 - 
+[ADA]-[LINK] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $18.08 TVL: $39,423.69
+ADA Price: $2.83
+LINK Price: $28.71
+Staked: 2178.7389 Cake-LP ($39,395.73)
+THOREUM Per Week: 40598.64 ($1,203.70)
+APR: Day 0.44% Week 3.06% Year 158.88%
+You are staking 0.00 [ADA]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[LINK] Cake LP - Fee 10%
+Unstake 0.00 [ADA]-[LINK] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+96 - 
+WBNB
+ Price: $486.14 Market Cap: $3,438,024,782.81 
+[%]
+Staked: 710.2701 WBNB ($345,290.68)
+THOREUM Per Week: 304489.76 ($9,027.74)
+APR: Day 0.37% Week 2.61% Year 135.96%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 10%
+Unstake 0.00 WBNB
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+97 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 2.8595 BTCB ($142,842.40)
+THOREUM Per Week: 162394.54 ($4,814.80)
+APR: Day 0.48% Week 3.37% Year 175.28%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 10%
+Unstake 0.00 BTCB
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+98 - 
+ETH
+ Price: $3,331.38 Market Cap: $4,347,450,900.00 
+[%]
+Staked: 51.5871 ETH ($171,856.22)
+THOREUM Per Week: 182693.86 ($5,416.64)
+APR: Day 0.45% Week 3.15% Year 163.90%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 10%
+Unstake 0.00 ETH
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+99 - 
+[THOREUM]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8.03 TVL: $3,250,702.10
+THOREUM Price: $0.03
+WBNB Price: $486.14
+Staked: 6707.8391 Cake-LP ($53,858.11)
+THOREUM Per Week: 40598.64 ($1,203.70)
+APR: Day 0.32% Week 2.23% Year 116.22%
+You are staking 0.00 [THOREUM]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [THOREUM]-[WBNB] Cake LP - Fee 10%
+Unstake 0.00 [THOREUM]-[WBNB] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+100 - 
+[THOREUM]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.53 TVL: $591,571.67
+THOREUM Price: $0.03
+BUSD Price: $1.00
+Staked: 1094388.7464 Cake-LP ($575,734.12)
+THOREUM Per Week: 1014965.88 ($30,092.47)
+APR: Day 0.75% Week 5.23% Year 271.79%
+You are staking 0.00 [THOREUM]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [THOREUM]-[BUSD] Cake LP - Fee 10%
+Unstake 0.00 [THOREUM]-[BUSD] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+101 - 
+[THOREUM]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8.03 TVL: $3,250,702.10
+THOREUM Price: $0.03
+WBNB Price: $486.14
+Staked: 150145.2713 Cake-LP ($1,205,535.82)
+THOREUM Per Week: 2090829.71 ($61,990.49)
+APR: Day 0.73% Week 5.14% Year 267.39%
+You are staking 0.00 [THOREUM]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [THOREUM]-[WBNB] Cake LP - Fee 10%
+Unstake 0.00 [THOREUM]-[WBNB] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+102 - 
+[THOREUM]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8.03 TVL: $3,250,702.10
+THOREUM Price: $0.03
+WBNB Price: $486.14
+Staked: 6210.9062 Cake-LP ($49,868.17)
+THOREUM Per Week: 233442.15 ($6,921.27)
+APR: Day 1.98% Week 13.88% Year 721.71%
+You are staking 0.00 [THOREUM]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [THOREUM]-[WBNB] Cake LP
+Unstake 0.00 [THOREUM]-[WBNB] Cake LP
+Claim 0.00 THOREUM ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $29,700,628.44

@@ -1,0 +1,165 @@
+INFO  : https://paintswap.finance
+**************************************************************************************
+
+50% of rewards are locked for 3 months, there is a withdraw fee. Please check the site
+
+Mon Aug 23 2021 13:21:19 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 13 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+BRUSH
+ Price: $0.007242 Market Cap: $1,127,297.57 
+Staked: 36448533.1468 BRUSH ($263,946.75)
+BRUSH Per Week: 206242.91 ($1,493.53)
+APR: Day 0.08% Week 0.57% Year 29.42%
+You are staking 0.00 BRUSH ($0.00), 0.00% of the pool.
+Stake 0.00 BRUSH
+Unstake 0.00 BRUSH
+Claim 0.00 BRUSH ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WFTM]-[BRUSH] BRUSH LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.14 TVL: $184,524.68
+WFTM Price: $0.56
+BRUSH Price: $0.007242
+Staked: 1348362.3348 BRUSH-LP ($184,269.57)
+BRUSH Per Week: 1031214.55 ($7,467.67)
+APR: Day 0.58% Week 4.05% Year 210.73%
+You are staking 0.00 [WFTM]-[BRUSH] BRUSH LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BRUSH] BRUSH LP
+Unstake 0.00 [WFTM]-[BRUSH] BRUSH LP
+Claim 0.00 BRUSH ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[WFTM] BRUSH LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $65,364,261.13 TVL: $48,947.97
+USDC Price: $1.00
+WFTM Price: $0.56
+Staked: 0.0006 BRUSH-LP ($39,483.84)
+BRUSH Per Week: 412485.82 ($2,987.07)
+APR: Day 1.08% Week 7.57% Year 393.40%
+You are staking 0.00 [USDC]-[WFTM] BRUSH LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] BRUSH LP
+Unstake 0.00 [USDC]-[WFTM] BRUSH LP
+Claim 0.00 BRUSH ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WFTM]-[BNB] BRUSH LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $33.59 TVL: $32,682.37
+WFTM Price: $0.56
+BNB Price: $481.52
+Staked: 917.3131 BRUSH-LP ($30,814.64)
+BRUSH Per Week: 154682.18 ($1,120.15)
+APR: Day 0.52% Week 3.64% Year 189.03%
+You are staking 0.00 [WFTM]-[BNB] BRUSH LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BNB] BRUSH LP
+Unstake 0.00 [WFTM]-[BNB] BRUSH LP
+Claim 0.00 BRUSH ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WFTM]-[ETH] BRUSH LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $88.02 TVL: $45,497.21
+WFTM Price: $0.56
+ETH Price: $3,318.54
+Staked: 405.0897 BRUSH-LP ($35,656.47)
+BRUSH Per Week: 257803.64 ($1,866.92)
+APR: Day 0.75% Week 5.24% Year 272.26%
+You are staking 0.00 [WFTM]-[ETH] BRUSH LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] BRUSH LP
+Unstake 0.00 [WFTM]-[ETH] BRUSH LP
+Claim 0.00 BRUSH ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[WFTM]-[BTC] BRUSH LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $33,959,588.07 TVL: $88,592.03
+WFTM Price: $0.56
+BTC Price: $49,587.30
+Staked: 0.0012 BRUSH-LP ($39,335.93)
+BRUSH Per Week: 257803.64 ($1,866.92)
+APR: Day 0.68% Week 4.75% Year 246.80%
+You are staking 0.00 [WFTM]-[BTC] BRUSH LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BTC] BRUSH LP
+Unstake 0.00 [WFTM]-[BTC] BRUSH LP
+Claim 0.00 BRUSH ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[ZOO]-[BRUSH] BRUSH LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $33,905,410.38 TVL: $59,807.46
+ZOO Price: $0.04
+BRUSH Price: $0.007242
+Staked: 0.0018 BRUSH-LP ($59,802.82)
+BRUSH Per Week: 180462.55 ($1,306.84)
+APR: Day 0.31% Week 2.19% Year 113.63%
+You are staking 0.00 [ZOO]-[BRUSH] BRUSH LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZOO]-[BRUSH] BRUSH LP
+Unstake 0.00 [ZOO]-[BRUSH] BRUSH LP
+Claim 0.00 BRUSH ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WFTM]-[HODL] BRUSH LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $112,292,203.68 TVL: $49,144.01
+WFTM Price: $0.56
+HODL Price: $86.13
+Staked: 0.0000 BRUSH-LP ($4,725.52)
+BRUSH Per Week: 51560.73 ($373.38)
+APR: Day 1.13% Week 7.90% Year 410.87%
+You are staking 0.00 [WFTM]-[HODL] BRUSH LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[HODL] BRUSH LP
+Unstake 0.00 [WFTM]-[HODL] BRUSH LP
+Claim 0.00 BRUSH ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $658,035.52

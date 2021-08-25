@@ -1,0 +1,189 @@
+INFO  : https://swipe.org/farm
+********************************************************************
+
+Mon Aug 23 2021 15:45:53 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+Staking Contract
+Found 10 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[SXP]-[USDT] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,952,084.65 TVL: $686,154.73
+SXP Price: $3.71
+USDT Price: $1.00
+Staked: 0.1723 SLP ($680,986.72)
+SXP Per Week: 950.66 ($3,526.96)
+APR: Day 0.07% Week 0.52% Year 26.93%
+You are staking 0.00 [SXP]-[USDT] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SXP]-[USDT] SLP
+Unstake 0.00 [SXP]-[USDT] SLP
+Claim 0.00 SXP ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[SXP]-[WETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $227.90 TVL: $759,012.79
+SXP Price: $3.71
+WETH Price: $3,326.40
+Staked: 3258.6360 SLP ($742,644.31)
+SXP Per Week: 950.66 ($3,526.96)
+APR: Day 0.07% Week 0.47% Year 24.70%
+You are staking 0.00 [SXP]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SXP]-[WETH] SLP
+Unstake 0.00 [SXP]-[WETH] SLP
+Claim 0.00 SXP ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBTC]-[SXP] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $87,730,480.40 TVL: $740,670.12
+WBTC Price: $50,201.00
+SXP Price: $3.71
+Staked: 0.0084 SLP ($739,674.90)
+SXP Per Week: 950.66 ($3,526.96)
+APR: Day 0.07% Week 0.48% Year 24.79%
+You are staking 0.00 [WBTC]-[SXP] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[SXP] SLP
+Unstake 0.00 [WBTC]-[SXP] SLP
+Claim 0.00 SXP ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[WETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $117,642,621.12 TVL: $331,917.62
+USDC Price: $1.00
+WETH Price: $3,326.40
+Staked: 0.0028 SLP ($331,728.63)
+SXP Per Week: 475.33 ($1,763.48)
+APR: Day 0.08% Week 0.53% Year 27.64%
+You are staking 0.00 [USDC]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] SLP
+Unstake 0.00 [USDC]-[WETH] SLP
+Claim 0.00 SXP ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[DAI]-[WETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $576.95 TVL: $311,170.71
+DAI Price: $1.00
+WETH Price: $3,326.40
+Staked: 539.1460 SLP ($311,059.89)
+SXP Per Week: 475.33 ($1,763.48)
+APR: Day 0.08% Week 0.57% Year 29.48%
+You are staking 0.00 [DAI]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[WETH] SLP
+Unstake 0.00 [DAI]-[WETH] SLP
+Claim 0.00 SXP ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WETH]-[USDT] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $117,611,145.83 TVL: $266,721.00
+WETH Price: $3,326.40
+USDT Price: $1.00
+Staked: 0.0023 SLP ($265,447.17)
+SXP Per Week: 285.20 ($1,058.09)
+APR: Day 0.06% Week 0.40% Year 20.73%
+You are staking 0.00 [WETH]-[USDT] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[USDT] SLP
+Unstake 0.00 [WETH]-[USDT] SLP
+Claim 0.00 SXP ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[WBTC]-[WETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,598,794,039.35 TVL: $477,671.67
+WBTC Price: $50,201.00
+WETH Price: $3,326.40
+Staked: 0.0002 SLP ($477,081.70)
+SXP Per Week: 475.33 ($1,763.48)
+APR: Day 0.05% Week 0.37% Year 19.22%
+You are staking 0.00 [WBTC]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] SLP
+Unstake 0.00 [WBTC]-[WETH] SLP
+Claim 0.00 SXP ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[USDC]-[USDT] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,997,247,851,566.86 TVL: $571,800.20
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 SLP ($571,339.24)
+SXP Per Week: 475.33 ($1,763.48)
+APR: Day 0.04% Week 0.31% Year 16.05%
+You are staking 0.00 [USDC]-[USDT] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] SLP
+Unstake 0.00 [USDC]-[USDT] SLP
+Claim 0.00 SXP ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[DAI]-[USDC] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,996,948.11 TVL: $542,949.97
+DAI Price: $1.00
+USDC Price: $1.00
+Staked: 0.2718 SLP ($542,847.69)
+SXP Per Week: 475.33 ($1,763.48)
+APR: Day 0.05% Week 0.32% Year 16.89%
+You are staking 0.00 [DAI]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDC] SLP
+Unstake 0.00 [DAI]-[USDC] SLP
+Claim 0.00 SXP ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $4,662,810.24

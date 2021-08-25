@@ -1,0 +1,163 @@
+INFO  : https://yumcha.finance
+***********************************************************************************
+
+Mon Aug 23 2021 14:00:03 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 23 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+2 - 
+yumcha
+ Price: $0.00 Market Cap: $0.00 
+Staked: 954836.1119 yumcha ($0.00)
+YUMCHA Per Week: 7411.76 ($6.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 yumcha ($0.00), NaN% of the pool.
+Stake 0.00 yumcha
+Unstake 0.00 yumcha
+Claim 0.00 YUMCHA ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[yumcha]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.06 TVL: $1,916.60
+yumcha Price: $0.000877
+BUSD Price: $1.00
+Staked: 22604.2699 Cake-LP ($1,378.81)
+YUMCHA Per Week: 49411.76 ($43.31)
+APR: Day 0.45% Week 3.14% Year 163.35%
+You are staking 0.00 [yumcha]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [yumcha]-[BUSD] Cake LP
+Unstake 0.00 [yumcha]-[BUSD] Cake LP
+Claim 0.00 YUMCHA ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[ycVT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $18.32 TVL: $29.03
+ycVT Price: $82.37
+BUSD Price: $1.00
+Staked: 1.5621 Cake-LP ($28.61)
+YUMCHA Per Week: 13341.18 ($11.69)
+APR: Day 5.84% Week 40.87% Year 2125.25%
+You are staking 0.00 [ycVT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ycVT]-[BUSD] Cake LP
+Unstake 0.00 [ycVT]-[BUSD] Cake LP
+Claim 0.00 YUMCHA ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[WBNB]-[yumcha] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $28,376.64 TVL: $392.91
+WBNB Price: $483.59
+yumcha Price: $0.000877
+Staked: 0.0124 Cake-LP ($351.11)
+YUMCHA Per Week: 29647.06 ($25.99)
+APR: Day 1.06% Week 7.40% Year 384.88%
+You are staking 0.00 [WBNB]-[yumcha] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[yumcha] Cake LP
+Unstake 0.00 [WBNB]-[yumcha] Cake LP
+Claim 0.00 YUMCHA ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[ycVT]-[yumcha] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.54 TVL: $305.89
+ycVT Price: $82.37
+yumcha Price: $0.000877
+Staked: 42.2793 Cake-LP ($22.99)
+YUMCHA Per Week: 13341.18 ($11.69)
+APR: Day 7.27% Week 50.86% Year 2644.84%
+You are staking 0.00 [ycVT]-[yumcha] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ycVT]-[yumcha] Cake LP
+Unstake 0.00 [ycVT]-[yumcha] Cake LP
+Claim 0.00 YUMCHA ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[ycSDR]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.74 TVL: $4,502.27
+ycSDR Price: $0.75
+BUSD Price: $1.00
+Staked: 2585.2188 Cake-LP ($4,486.74)
+YUMCHA Per Week: 13341.18 ($11.69)
+APR: Day 0.04% Week 0.26% Year 13.55%
+You are staking 0.00 [ycSDR]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ycSDR]-[BUSD] Cake LP
+Unstake 0.00 [ycSDR]-[BUSD] Cake LP
+Claim 0.00 YUMCHA ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[ycSDR]-[ycVT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $15.83 TVL: $81.14
+ycSDR Price: $0.75
+ycVT Price: $82.37
+Staked: 4.1144 Cake-LP ($65.14)
+YUMCHA Per Week: 61764.71 ($54.14)
+APR: Day 11.87% Week 83.11% Year 4321.97%
+You are staking 0.00 [ycSDR]-[ycVT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ycSDR]-[ycVT] Cake LP
+Unstake 0.00 [ycSDR]-[ycVT] Cake LP
+Claim 0.00 YUMCHA ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[ycSDR]-[yumcha] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.05 TVL: $494.48
+ycSDR Price: $0.75
+yumcha Price: $0.000877
+Staked: 834.7372 Cake-LP ($42.91)
+YUMCHA Per Week: 13341.18 ($11.69)
+APR: Day 3.89% Week 27.25% Year 1417.24%
+You are staking 0.00 [ycSDR]-[yumcha] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ycSDR]-[yumcha] Cake LP
+Unstake 0.00 [ycSDR]-[yumcha] Cake LP
+Claim 0.00 YUMCHA ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $6,376.31

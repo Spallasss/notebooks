@@ -1,0 +1,373 @@
+INFO  : https://jazzdefi.com
+**********************************************************************************
+
+Mon Aug 23 2021 14:13:16 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 19 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+JAZZ
+ Price: $0.01 Market Cap: $14,117.25 
+[%]
+Staked: 100574.5810 JAZZ ($1,277.79)
+JAZZ Per Week: 5815.38 ($73.88)
+APR: Day 0.83% Week 5.78% Year 300.67%
+You are staking 0.00 JAZZ ($0.00), 0.00% of the pool.
+Stake 0.00 JAZZ
+Unstake 0.00 JAZZ
+Claim 0.00 JAZZ ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[JAZZ]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.86 TVL: $653.06
+JAZZ Price: $0.01
+WBNB Price: $484.34
+Staked: 94.0615 Cake-LP ($551.15)
+JAZZ Per Week: 17446.15 ($221.65)
+APR: Day 5.75% Week 40.22% Year 2091.26%
+You are staking 0.00 [JAZZ]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JAZZ]-[WBNB] Cake LP
+Unstake 0.00 [JAZZ]-[WBNB] Cake LP
+Claim 0.00 JAZZ ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[JAZZ]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.25 TVL: $243.09
+JAZZ Price: $0.01
+BUSD Price: $1.00
+Staked: 186.6102 Cake-LP ($46.89)
+JAZZ Per Week: 11630.77 ($147.77)
+APR: Day 45.02% Week 315.15% Year 16387.60%
+You are staking 0.00 [JAZZ]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JAZZ]-[BUSD] Cake LP
+Unstake 0.00 [JAZZ]-[BUSD] Cake LP
+Claim 0.00 JAZZ ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[Cake]-[JAZZ] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.18 TVL: $394.13
+Cake Price: $24.98
+JAZZ Price: $0.01
+Staked: 30.5295 Cake-LP ($36.01)
+JAZZ Per Week: 3876.92 ($49.26)
+APR: Day 19.54% Week 136.78% Year 7112.63%
+You are staking 0.00 [Cake]-[JAZZ] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[JAZZ] Cake LP
+Unstake 0.00 [Cake]-[JAZZ] Cake LP
+Claim 0.00 JAZZ ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[DOT]-[JAZZ] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.24 TVL: $25.39
+DOT Price: $28.00
+JAZZ Price: $0.01
+Staked: 17.1879 Cake-LP ($21.32)
+JAZZ Per Week: 2713.85 ($34.48)
+APR: Day 23.10% Week 161.72% Year 8409.60%
+You are staking 0.00 [DOT]-[JAZZ] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[JAZZ] Cake LP
+Unstake 0.00 [DOT]-[JAZZ] Cake LP
+Claim 0.00 JAZZ ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.51 TVL: $3,329,012.61
+WBNB Price: $484.34
+BUSD Price: $1.00
+Staked: 40.8633 Cake-LP ($2,636.20)
+JAZZ Per Week: 1938.46 ($24.63)
+APR: Day 0.13% Week 0.93% Year 48.58%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 3.99%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 JAZZ ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.25 TVL: $1,018,667.76
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 28.1350 Cake-LP ($63.40)
+JAZZ Per Week: 193.85 ($2.46)
+APR: Day 0.55% Week 3.88% Year 202.00%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 3.99%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 JAZZ ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.13 TVL: $4,004,212.09
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 9.0366 Cake-LP ($19.28)
+JAZZ Per Week: 193.85 ($2.46)
+APR: Day 1.82% Week 12.77% Year 664.14%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 3.99%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 JAZZ ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $260.68 TVL: $8,041,627.60
+Cake Price: $24.98
+WBNB Price: $484.34
+Staked: 0.1378 Cake-LP ($35.92)
+JAZZ Per Week: 387.69 ($4.93)
+APR: Day 1.96% Week 13.71% Year 712.97%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 3.99%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 JAZZ ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $252.20 TVL: $673,158.11
+DOT Price: $28.00
+WBNB Price: $484.34
+Staked: 1.3450 Cake-LP ($339.21)
+JAZZ Per Week: 387.69 ($4.93)
+APR: Day 0.21% Week 1.45% Year 75.51%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 3.99%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 JAZZ ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,859.33 TVL: $3,519,306.56
+ETH Price: $3,323.54
+WBNB Price: $484.34
+Staked: 0.1391 Cake-LP ($397.76)
+JAZZ Per Week: 775.38 ($9.85)
+APR: Day 0.35% Week 2.48% Year 128.79%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 3.99%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 JAZZ ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[ETH]-[JAZZ] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13.54 TVL: $123.08
+ETH Price: $3,323.54
+JAZZ Price: $0.01
+Staked: 4.9420 Cake-LP ($66.89)
+JAZZ Per Week: 5815.38 ($73.88)
+APR: Day 15.78% Week 110.45% Year 5743.63%
+You are staking 0.00 [ETH]-[JAZZ] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[JAZZ] Cake LP
+Unstake 0.00 [ETH]-[JAZZ] Cake LP
+Claim 0.00 JAZZ ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[BTCB]-[JAZZ] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $52.01 TVL: $33.81
+BTCB Price: $50,135.00
+JAZZ Price: $0.01
+Staked: 0.5743 Cake-LP ($29.87)
+JAZZ Per Week: 3101.54 ($39.40)
+APR: Day 18.85% Week 131.93% Year 6860.19%
+You are staking 0.00 [BTCB]-[JAZZ] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[JAZZ] Cake LP
+Unstake 0.00 [BTCB]-[JAZZ] Cake LP
+Claim 0.00 JAZZ ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[JAZZ]-[USDC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.23 TVL: $23.38
+JAZZ Price: $0.01
+USDC Price: $1.00
+Staked: 43.3821 Cake-LP ($10.01)
+JAZZ Per Week: 2326.15 ($29.55)
+APR: Day 42.16% Week 295.14% Year 15347.07%
+You are staking 0.00 [JAZZ]-[USDC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JAZZ]-[USDC] Cake LP
+Unstake 0.00 [JAZZ]-[USDC] Cake LP
+Claim 0.00 JAZZ ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[WBNB]-[YOLO] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $36.52 TVL: $46,949.45
+WBNB Price: $484.34
+YOLO Price: $0.0000000005
+Staked: 0.1563 Cake-LP ($5.71)
+JAZZ Per Week: 387.69 ($4.93)
+APR: Day 12.33% Week 86.29% Year 4487.16%
+You are staking 0.00 [WBNB]-[YOLO] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[YOLO] Cake LP - Fee 3.99%
+Unstake 0.00 [WBNB]-[YOLO] Cake LP
+Claim 0.00 JAZZ ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[JAZZ]-[YOLO] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.27 TVL: $56.89
+JAZZ Price: $0.01
+YOLO Price: $0.0000000005
+Staked: 201.2553 Cake-LP ($53.48)
+JAZZ Per Week: 1938.46 ($24.63)
+APR: Day 6.58% Week 46.05% Year 2394.56%
+You are staking 0.00 [JAZZ]-[YOLO] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JAZZ]-[YOLO] Cake LP
+Unstake 0.00 [JAZZ]-[YOLO] Cake LP
+Claim 0.00 JAZZ ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[RX]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $44,039.94 TVL: $271,683.98
+RX Price: $0.000860
+WBNB Price: $484.34
+Staked: 0.0001 Cake-LP ($5.07)
+JAZZ Per Week: 387.69 ($4.93)
+APR: Day 13.87% Week 97.09% Year 5048.79%
+You are staking 0.00 [RX]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RX]-[WBNB] Cake LP - Fee 3.99%
+Unstake 0.00 [RX]-[WBNB] Cake LP
+Claim 0.00 JAZZ ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[FASTMOON]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $48.84 TVL: $427,878.02
+FASTMOON Price: $0.0000000010
+WBNB Price: $484.34
+Staked: 1.6278 Cake-LP ($79.50)
+JAZZ Per Week: 387.69 ($4.93)
+APR: Day 0.89% Week 6.20% Year 322.17%
+You are staking 0.00 [FASTMOON]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FASTMOON]-[WBNB] Cake LP - Fee 3.99%
+Unstake 0.00 [FASTMOON]-[WBNB] Cake LP
+Claim 0.00 JAZZ ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[LUNAR]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $32,751.62 TVL: $60,511.37
+LUNAR Price: $0.000514
+WBNB Price: $484.34
+Staked: 0.0039 Cake-LP ($126.77)
+JAZZ Per Week: 775.38 ($9.85)
+APR: Day 1.11% Week 7.77% Year 404.09%
+You are staking 0.00 [LUNAR]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LUNAR]-[WBNB] Cake LP - Fee 3.99%
+Unstake 0.00 [LUNAR]-[WBNB] Cake LP
+Claim 0.00 JAZZ ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $5,802.23

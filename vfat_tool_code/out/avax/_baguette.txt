@@ -1,0 +1,255 @@
+INFO  : https://app.baguette.exchange
+*************************************************************************
+
+Mon Aug 23 2021 13:14:35 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+BAG
+ Price: $0.03 Market Cap: $6,545,461.07 
+Staked: 13094962.1664 BAG ($342,850.26)
+BAG Per Week: 112903.23 ($2,956.01)
+APR: Day 0.12% Week 0.86% Year 44.83%
+You are staking 0.000000 BAG $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 BAG
+Unstake 0.000000 BAG
+Claim 0.000000 BAG ($0.00)
+Revoke (set approval to 0)
+Exit
+WAVAX
+ Price: $49.33 Market Cap: $270,431,414.58 
+Staked: 15251.1062 WAVAX ($752,337.07)
+BAG Per Week: 58133.72 ($1,522.05)
+APR: Day 0.03% Week 0.20% Year 10.52%
+You are staking 0.000000 WAVAX $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 WAVAX
+Unstake 0.000000 WAVAX
+Claim 0.000000 BAG ($0.00)
+Revoke (set approval to 0)
+Exit
+[BAG]-[WAVAX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.55 TVL: $110,186.44
+BAG Price: $0.03
+WAVAX Price: $49.33
+Staked: 40578.9317 BGL ($103,587.35)
+BAG Per Week: 52109.13 ($1,364.31)
+APR: Day 0.19% Week 1.32% Year 68.49%
+You are staking 0.000000 [BAG]-[WAVAX] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [BAG]-[WAVAX] Uni LP
+Unstake 0.000000 [BAG]-[WAVAX] Uni LP
+Claim 0.000000 BAG ($0.00)
+Revoke (set approval to 0)
+Exit
+[BAG]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.35 TVL: $3,968.28
+BAG Price: $0.03
+DAI Price: $1.00
+Staked: 7124.0207 BGL ($2,479.88)
+BAG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [BAG]-[DAI] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [BAG]-[DAI] Uni LP
+Unstake 0.000000 [BAG]-[DAI] Uni LP
+Claim 0.000000 BAG ($0.00)
+Revoke (set approval to 0)
+Exit
+[BAG]-[ETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $24.55 TVL: $28,419.42
+BAG Price: $0.03
+ETH Price: $5,344.89
+Staked: 1146.6172 BGL ($28,152.07)
+BAG Per Week: 52109.13 ($1,364.31)
+APR: Day 0.69% Week 4.85% Year 252.00%
+You are staking 0.000000 [BAG]-[ETH] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [BAG]-[ETH] Uni LP
+Unstake 0.000000 [BAG]-[ETH] Uni LP
+Claim 0.000000 BAG ($0.00)
+Revoke (set approval to 0)
+Exit
+[BAG]-[LINK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.39 TVL: $30,023.12
+BAG Price: $0.03
+LINK Price: $50.60
+Staked: 12539.2228 BGL ($30,009.16)
+BAG Per Week: 52109.13 ($1,364.31)
+APR: Day 0.65% Week 4.55% Year 236.41%
+You are staking 0.000000 [BAG]-[LINK] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [BAG]-[LINK] Uni LP
+Unstake 0.000000 [BAG]-[LINK] Uni LP
+Claim 0.000000 BAG ($0.00)
+Revoke (set approval to 0)
+Exit
+[BAG]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $383,621.39 TVL: $35,329.41
+BAG Price: $0.03
+USDT Price: $1.28
+Staked: 0.0824 BGL ($31,616.13)
+BAG Per Week: 52109.13 ($1,364.31)
+APR: Day 0.62% Week 4.32% Year 224.39%
+You are staking 0.000000 [BAG]-[USDT] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [BAG]-[USDT] Uni LP
+Unstake 0.000000 [BAG]-[USDT] Uni LP
+Claim 0.000000 BAG ($0.00)
+Revoke (set approval to 0)
+Exit
+[WBTC]-[BAG] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $78,204,022,904.14 TVL: $30,158.32
+WBTC Price: $73,410.90
+BAG Price: $0.03
+Staked: 0.0000 BGL ($25,951.26)
+BAG Per Week: 52109.13 ($1,364.31)
+APR: Day 0.75% Week 5.26% Year 273.38%
+You are staking 0.000000 [WBTC]-[BAG] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [WBTC]-[BAG] Uni LP
+Unstake 0.000000 [WBTC]-[BAG] Uni LP
+Claim 0.000000 BAG ($0.00)
+Revoke (set approval to 0)
+Exit
+[WAVAX]-[LINK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $100.93 TVL: $105,137.74
+WAVAX Price: $49.33
+LINK Price: $50.60
+Staked: 1041.2178 BGL ($105,091.09)
+BAG Per Week: 17369.71 ($454.77)
+APR: Day 0.06% Week 0.43% Year 22.50%
+You are staking 0.000000 [WAVAX]-[LINK] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [WAVAX]-[LINK] Uni LP
+Unstake 0.000000 [WAVAX]-[LINK] Uni LP
+Claim 0.000000 BAG ($0.00)
+Revoke (set approval to 0)
+Exit
+[WAVAX]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $16,724,989.45 TVL: $3,994.69
+WAVAX Price: $49.33
+USDT Price: $1.28
+Staked: 0.0002 BGL ($2,839.57)
+BAG Per Week: 17369.71 ($454.77)
+APR: Day 2.29% Week 16.02% Year 832.80%
+You are staking 0.000000 [WAVAX]-[USDT] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [WAVAX]-[USDT] Uni LP
+Unstake 0.000000 [WAVAX]-[USDT] Uni LP
+Claim 0.000000 BAG ($0.00)
+Revoke (set approval to 0)
+Exit
+[WAVAX]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $14.84 TVL: $57.37
+WAVAX Price: $49.33
+DAI Price: $1.00
+Staked: 3.8650 BGL ($57.37)
+BAG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WAVAX]-[DAI] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [WAVAX]-[DAI] Uni LP
+Unstake 0.000000 [WAVAX]-[DAI] Uni LP
+Claim 0.000000 BAG ($0.00)
+Revoke (set approval to 0)
+Exit
+[WAVAX]-[ETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,034.80 TVL: $34,449.50
+WAVAX Price: $49.33
+ETH Price: $5,344.89
+Staked: 33.2495 BGL ($34,406.55)
+BAG Per Week: 17369.71 ($454.77)
+APR: Day 0.19% Week 1.32% Year 68.73%
+You are staking 0.000000 [WAVAX]-[ETH] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [WAVAX]-[ETH] Uni LP
+Unstake 0.000000 [WAVAX]-[ETH] Uni LP
+Claim 0.000000 BAG ($0.00)
+Revoke (set approval to 0)
+Exit
+[WBTC]-[WAVAX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $385,232,702.77 TVL: $8,540.86
+WBTC Price: $73,410.90
+WAVAX Price: $49.33
+Staked: 0.0000 BGL ($8,540.86)
+BAG Per Week: 17369.71 ($454.77)
+APR: Day 0.76% Week 5.32% Year 276.88%
+You are staking 0.000000 [WBTC]-[WAVAX] Uni LP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [WBTC]-[WAVAX] Uni LP
+Unstake 0.000000 [WBTC]-[WAVAX] Uni LP
+Claim 0.000000 BAG ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $1,467,918.62

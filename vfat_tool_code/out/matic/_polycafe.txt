@@ -1,0 +1,209 @@
+INFO  : https://polycafe.finance
+*******************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:41:47 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 14 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[JAVA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $151,802.70 TVL: $34.27
+USDC Price: $1.00
+JAVA Price: $0.005058
+Staked: 0.0002 UNI-V2 ($32.38)
+JAVA Per Week: 1005.67 ($5.09)
+APR: Day 2.24% Week 15.71% Year 817.06%
+You are staking 0.00 [USDC]-[JAVA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[JAVA] Uni LP
+Unstake 0.00 [USDC]-[JAVA] Uni LP
+Claim 0.00 JAVA ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+JAVA
+ Price: $0.005058 Market Cap: $153.07 
+[%]
+Staked: 10984.0368 JAVA ($55.56)
+JAVA Per Week: 754.26 ($3.82)
+APR: Day 0.98% Week 6.87% Year 357.08%
+You are staking 0.00 JAVA ($0.00), 0.00% of the pool.
+Stake 0.00 JAVA
+Unstake 0.00 JAVA
+Claim 0.00 JAVA ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+WMATIC
+ Price: $1.65 Market Cap: $605,518,677.67 
+[%]
+Staked: 1.3128 WMATIC ($2.17)
+JAVA Per Week: 377.13 ($1.91)
+APR: Day 12.58% Week 88.07% Year 4579.45%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 JAVA ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WBTC
+ Price: $50,201.00 Market Cap: $700,243,378.67 
+[%]
+Staked: 0.0078 WBTC ($391.89)
+JAVA Per Week: 301.70 ($1.53)
+APR: Day 0.06% Week 0.39% Year 20.25%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 JAVA ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WETH
+ Price: $3,330.14 Market Cap: $2,033,431,551.04 
+[%]
+Staked: 0.0075 WETH ($25.03)
+JAVA Per Week: 301.70 ($1.53)
+APR: Day 0.87% Week 6.10% Year 317.03%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 JAVA ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+DAI
+ Price: $1.00 Market Cap: $375,659,203.55 
+[%]
+Staked: 9.6000 DAI ($9.58)
+JAVA Per Week: 251.42 ($1.27)
+APR: Day 1.90% Week 13.27% Year 689.98%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 JAVA ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+USDT
+ Price: $1.00 Market Cap: $314,823,907.95 
+[%]
+Staked: 280.6634 USDT ($280.34)
+JAVA Per Week: 251.42 ($1.27)
+APR: Day 0.06% Week 0.45% Year 23.59%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 JAVA ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+USDC
+ Price: $1.00 Market Cap: $1,046,576,787.62 
+[%]
+Staked: 418.6482 USDC ($417.97)
+JAVA Per Week: 251.42 ($1.27)
+APR: Day 0.04% Week 0.30% Year 15.82%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 JAVA ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+LINK
+ Price: $28.73 Market Cap: $65,195,091.70 
+[%]
+Staked: 13.0000 LINK ($373.49)
+JAVA Per Week: 251.42 ($1.27)
+APR: Day 0.05% Week 0.34% Year 17.71%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 JAVA ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+QUICK
+ Price: $738.09 Market Cap: $706,548,961.06 
+[%]
+Staked: 0.4126 QUICK ($304.51)
+JAVA Per Week: 251.42 ($1.27)
+APR: Day 0.06% Week 0.42% Year 21.72%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 JAVA ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+AAVE
+ Price: $410.27 Market Cap: $156,179,360.93 
+[%]
+Staked: 0.7445 AAVE ($305.47)
+JAVA Per Week: 251.42 ($1.27)
+APR: Day 0.06% Week 0.42% Year 21.65%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 JAVA ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[WMATIC]-[JAVA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.19 TVL: $20.73
+WMATIC Price: $1.65
+JAVA Price: $0.005058
+Staked: 97.7960 UNI-V2 ($18.89)
+JAVA Per Week: 1005.67 ($5.09)
+APR: Day 3.85% Week 26.94% Year 1400.75%
+You are staking 0.00 [WMATIC]-[JAVA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[JAVA] Uni LP
+Unstake 0.00 [WMATIC]-[JAVA] Uni LP
+Claim 0.00 JAVA ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WMATIC]-[PolyDoge] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $145,766.46
+WMATIC Price: $1.65
+PolyDoge Price: $0.0000000063
+Staked: 720466.8689 UNI-V2 ($207.94)
+JAVA Per Week: 502.84 ($2.54)
+APR: Day 0.17% Week 1.22% Year 63.61%
+You are staking 0.00 [WMATIC]-[PolyDoge] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PolyDoge] Uni LP - Fee 3%
+Unstake 0.00 [WMATIC]-[PolyDoge] Uni LP
+Claim 0.00 JAVA ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+PolyDoge
+ Price: $0.0000000063 Market Cap: $6,335,000.00 
+[%]
+Staked: 55945226.5619 PolyDoge ($0.35)
+JAVA Per Week: 2.51 ($0.01)
+APR: Day 0.51% Week 3.59% Year 186.60%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 4%
+Unstake 0.00 PolyDoge
+Claim 0.00 JAVA ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $2,425.57

@@ -1,0 +1,222 @@
+INFO  : https://deedee.dexterlab.finance
+***********************************************************************************************
+
+Mon Aug 23 2021 09:31:49 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 13 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[DEEDEE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.83 TVL: $67.42
+DEEDEE Price: $0.000337
+WBNB Price: $488.13
+Staked: 33.9254 Cake-LP ($28.22)
+DEEDEE Per Week: 14175.00 ($4.78)
+APR: Day 2.42% Week 16.95% Year 881.42%
+You are staking 0.00 [DEEDEE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DEEDEE]-[WBNB] Cake LP
+Unstake 0.00 [DEEDEE]-[WBNB] Cake LP
+Claim 0.00 DEEDEE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[DEEDEE]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.04 TVL: $44.91
+DEEDEE Price: $0.000337
+BUSD Price: $1.00
+Staked: 119.1755 Cake-LP ($4.50)
+DEEDEE Per Week: 14175.00 ($4.78)
+APR: Day 15.17% Week 106.20% Year 5522.29%
+You are staking 0.00 [DEEDEE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DEEDEE]-[BUSD] Cake LP
+Unstake 0.00 [DEEDEE]-[BUSD] Cake LP
+Claim 0.00 DEEDEE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+DEEDEE
+ Price: $0.000337 Market Cap: $183.41 
+[%]
+Staked: 122970.8871 DEEDEE ($41.49)
+DEEDEE Per Week: 7875.00 ($2.66)
+APR: Day 0.91% Week 6.40% Year 333.01%
+You are staking 0.00 DEEDEE ($0.00), 0.00% of the pool.
+Stake 0.00 DEEDEE
+Unstake 0.00 DEEDEE
+Claim 0.00 DEEDEE ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.95 TVL: $529,588,648.34
+WBNB Price: $488.13
+BUSD Price: $1.00
+Staked: 0.0494 Cake-LP ($2.47)
+DEEDEE Per Week: 1575.00 ($0.53)
+APR: Day 3.08% Week 21.56% Year 1121.05%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 DEEDEE ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,243.96 TVL: $174,419,244.09
+BTCB Price: $49,844.00
+WBNB Price: $488.13
+Staked: 0.0007 Cake-LP ($7.19)
+DEEDEE Per Week: 1575.00 ($0.53)
+APR: Day 1.06% Week 7.39% Year 384.12%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 DEEDEE ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,363,580.00
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 1.4200 Cake-LP ($2.89)
+DEEDEE Per Week: 1260.00 ($0.43)
+APR: Day 2.10% Week 14.71% Year 764.82%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 DEEDEE ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[Cake]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13.44 TVL: $66,529,744.98
+Cake Price: $25.14
+BUSD Price: $1.00
+Staked: 0.1973 Cake-LP ($2.65)
+DEEDEE Per Week: 1260.00 ($0.43)
+APR: Day 2.29% Week 16.03% Year 833.76%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 DEEDEE ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+DXL
+ Price: $0.00 Market Cap: $0.00 
+Staked: 6998.5281 DXL ($0.00)
+DEEDEE Per Week: 4725.00 ($1.59)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DXL ($0.00), NaN% of the pool.
+Stake 0.00 DXL
+Unstake 0.00 DXL
+Claim 0.00 DEEDEE ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+GOD
+ Price: $0.00 Market Cap: $0.00 
+Staked: 24.3466 GOD ($0.00)
+DEEDEE Per Week: 4725.00 ($1.59)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 GOD ($0.00), NaN% of the pool.
+Stake 0.00 GOD - Fee 4%
+Unstake 0.00 GOD
+Claim 0.00 DEEDEE ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+BUSD
+ Price: $1.00 Market Cap: $4,197,638,600.48 
+[%]
+Staked: 406.6132 BUSD ($406.29)
+DEEDEE Per Week: 1260.00 ($0.43)
+APR: Day 0.01% Week 0.10% Year 5.44%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 DEEDEE ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+WBNB
+ Price: $488.13 Market Cap: $3,447,134,091.70 
+[%]
+Staked: 0.1347 WBNB ($65.74)
+DEEDEE Per Week: 1575.00 ($0.53)
+APR: Day 0.12% Week 0.81% Year 42.04%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 DEEDEE ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+Cake
+ Price: $25.14 Market Cap: $10,461,651,251.72 
+[%]
+Staked: 0.1036 Cake ($2.60)
+DEEDEE Per Week: 1575.00 ($0.53)
+APR: Day 2.92% Week 20.41% Year 1061.58%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 DEEDEE ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[DEEDEE]-[DXL] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $6.05
+DEEDEE Price: $0.000337
+DXL Price: $0.02
+Staked: 1163.5246 Cake-LP ($5.66)
+DEEDEE Per Week: 4725.00 ($1.59)
+APR: Day 4.03% Week 28.19% Year 1465.79%
+You are staking 0.00 [DEEDEE]-[DXL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DEEDEE]-[DXL] Cake LP
+Unstake 0.00 [DEEDEE]-[DXL] Cake LP
+Claim 0.00 DEEDEE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $569.70

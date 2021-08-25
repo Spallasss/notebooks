@@ -1,0 +1,254 @@
+INFO  : https://geo-earthswap.finance
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:59:39 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 16 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[EARTH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $379,300.63 TVL: $125.42
+USDC Price: $1.00
+EARTH Price: $0.03
+Staked: 0.0001 UNI-V2 ($22.81)
+EARTH Per Week: 1661.54 ($57.25)
+APR: Day 35.86% Week 251.02% Year 13052.98%
+You are staking 0.00 [USDC]-[EARTH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[EARTH] Uni LP
+Unstake 0.00 [USDC]-[EARTH] Uni LP
+Claim 0.00 EARTH ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[USDC]-[GEO] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,540,271.97 TVL: $126.73
+USDC Price: $1.00
+GEO Price: $0.57
+Staked: 0.0000 UNI-V2 ($6.12)
+EARTH Per Week: 553.85 ($19.08)
+APR: Day 44.54% Week 311.79% Year 16213.14%
+You are staking 0.00 [USDC]-[GEO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[GEO] Uni LP
+Unstake 0.00 [USDC]-[GEO] Uni LP
+Claim 0.00 EARTH ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,604,188.77 TVL: $33,315,366.50
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0003 UNI-V2 ($1,450.69)
+EARTH Per Week: 553.85 ($19.08)
+APR: Day 0.19% Week 1.32% Year 68.40%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 EARTH ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,563,853,212,342.33 TVL: $34,034,764.92
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($59.18)
+EARTH Per Week: 110.77 ($3.82)
+APR: Day 0.92% Week 6.45% Year 335.34%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 EARTH ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WMATIC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $188.37 TVL: $122,554,294.06
+WMATIC Price: $1.64
+WETH Price: $3,320.72
+Staked: 0.9097 UNI-V2 ($171.36)
+EARTH Per Week: 110.77 ($3.82)
+APR: Day 0.32% Week 2.23% Year 115.82%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 EARTH ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[DAI]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $27,060,138.76 TVL: $3,960,145.75
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($21.57)
+EARTH Per Week: 110.77 ($3.82)
+APR: Day 2.53% Week 17.69% Year 919.91%
+You are staking 0.00 [DAI]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [DAI]-[USDT] Uni LP
+Claim 0.00 EARTH ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+EARTH
+ Price: $0.03 Market Cap: $126.37 
+[%]
+Staked: 1326.8106 EARTH ($45.72)
+EARTH Per Week: 886.15 ($30.53)
+APR: Day 9.54% Week 66.79% Year 3472.99%
+You are staking 0.00 EARTH ($0.00), 0.00% of the pool.
+Stake 0.00 EARTH
+Unstake 0.00 EARTH
+Claim 0.00 EARTH ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+GEO
+ Price: $0.57 Market Cap: $103.13 
+[%]
+Staked: 7.7201 GEO ($4.38)
+EARTH Per Week: 221.54 ($7.63)
+APR: Day 24.91% Week 174.36% Year 9066.98%
+You are staking 0.00 GEO ($0.00), 0.00% of the pool.
+Stake 0.00 GEO
+Unstake 0.00 GEO
+Claim 0.00 EARTH ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+WMATIC
+ Price: $1.64 Market Cap: $603,167,209.04 
+[%]
+Staked: 695.6522 WMATIC ($1,140.87)
+EARTH Per Week: 553.85 ($19.08)
+APR: Day 0.24% Week 1.67% Year 86.98%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 EARTH ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+PolyDoge
+ Price: $0.0000000062 Market Cap: $6,210,000.00 
+[%]
+Staked: 35716876822.4167 PolyDoge ($221.80)
+EARTH Per Week: 332.31 ($11.45)
+APR: Day 0.74% Week 5.16% Year 268.44%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 2%
+Unstake 0.00 PolyDoge
+Claim 0.00 EARTH ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+WBTC
+ Price: $50,005.00 Market Cap: $696,762,531.00 
+[%]
+Staked: 0.0001 WBTC ($3.16)
+EARTH Per Week: 110.77 ($3.82)
+APR: Day 17.23% Week 120.60% Year 6271.03%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 EARTH ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+WETH
+ Price: $3,320.72 Market Cap: $2,024,528,326.03 
+[%]
+Staked: 0.0141 WETH ($46.68)
+EARTH Per Week: 110.77 ($3.82)
+APR: Day 1.17% Week 8.18% Year 425.15%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 EARTH ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+USDC
+ Price: $1.00 Market Cap: $1,042,582,313.93 
+[%]
+Staked: 942.3647 USDC ($941.22)
+EARTH Per Week: 110.77 ($3.82)
+APR: Day 0.06% Week 0.41% Year 21.09%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 EARTH ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+USDT
+ Price: $1.00 Market Cap: $314,970,871.22 
+[%]
+Staked: 27.4826 USDT ($27.46)
+EARTH Per Week: 110.77 ($3.82)
+APR: Day 1.99% Week 13.90% Year 722.85%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 EARTH ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+DAI
+ Price: $1.00 Market Cap: $376,545,250.79 
+[%]
+Staked: 1395.1651 DAI ($1,393.66)
+EARTH Per Week: 110.77 ($3.82)
+APR: Day 0.04% Week 0.27% Year 14.24%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 EARTH ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+QUICK
+ Price: $724.06 Market Cap: $693,118,509.60 
+[%]
+Staked: 0.3643 QUICK ($263.80)
+EARTH Per Week: 110.77 ($3.82)
+APR: Day 0.21% Week 1.45% Year 75.23%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 EARTH ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $5,820.49

@@ -1,0 +1,350 @@
+INFO  : https://polycorn.finance
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 13:06:04 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 19 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+YCORN
+ Price: $0.00 Market Cap: $0.00 
+Staked: 567484.9901 YCORN ($0.00)
+YCORN Per Week: 26560.83 ($2,009.38)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 YCORN ($0.00), NaN% of the pool.
+Stake 0.00 YCORN
+Unstake 0.00 YCORN
+Claim 0.00 YCORN ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[USDC]-[YCORN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $583,459.85 TVL: $24,576.37
+USDC Price: $1.00
+YCORN Price: $0.08
+Staked: 0.0264 UNI-V2 ($15,395.18)
+YCORN Per Week: 53121.67 ($4,018.77)
+APR: Day 3.73% Week 26.10% Year 1357.41%
+You are staking 0.00 [USDC]-[YCORN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[YCORN] Uni LP
+Unstake 0.00 [USDC]-[YCORN] Uni LP
+Claim 0.00 YCORN ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WETH]-[YCORN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $32.63 TVL: $17,101.75
+WETH Price: $3,316.94
+YCORN Price: $0.08
+Staked: 322.2270 UNI-V2 ($10,514.39)
+YCORN Per Week: 40726.61 ($3,081.06)
+APR: Day 4.19% Week 29.30% Year 1523.77%
+You are staking 0.00 [WETH]-[YCORN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[YCORN] Uni LP
+Unstake 0.00 [WETH]-[YCORN] Uni LP
+Claim 0.00 YCORN ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WMATIC]-[YCORN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.73 TVL: $12,106.57
+WMATIC Price: $1.64
+YCORN Price: $0.08
+Staked: 11060.5385 UNI-V2 ($8,052.44)
+YCORN Per Week: 24790.11 ($1,875.43)
+APR: Day 3.33% Week 23.29% Year 1211.09%
+You are staking 0.00 [WMATIC]-[YCORN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[YCORN] Uni LP
+Unstake 0.00 [WMATIC]-[YCORN] Uni LP
+Claim 0.00 YCORN ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+YCORN
+ Price: $0.08 Market Cap: $91,047.83 
+[%]
+Staked: 567484.9901 YCORN ($42,931.46)
+YCORN Per Week: 11509.69 ($870.73)
+APR: Day 0.29% Week 2.03% Year 105.47%
+You are staking 0.00 YCORN ($0.00), 0.00% of the pool.
+Stake 0.00 YCORN
+Unstake 0.00 YCORN
+Claim 0.00 YCORN ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+YDrop
+ Price: $0.00 Market Cap: $0.00 
+Staked: 19740.0699 YDrop ($0.00)
+YCORN Per Week: 2124.87 ($160.75)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 YDrop ($0.00), NaN% of the pool.
+Stake 0.00 YDrop
+Unstake 0.00 YDrop
+Claim 0.00 YCORN ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,604,077.77 TVL: $33,314,570.92
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+YCORN Per Week: 8853.61 ($669.79)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 YCORN ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,563,791,678,793.59 TVL: $34,031,846.93
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+YCORN Per Week: 13280.42 ($1,004.69)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 YCORN ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[WMATIC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $188.26 TVL: $122,484,727.74
+WMATIC Price: $1.64
+WETH Price: $3,316.94
+Staked: 0.0000 UNI-V2 ($0.00)
+YCORN Per Week: 12395.06 ($937.71)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 YCORN ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,693,929.81 TVL: $147,932,910.23
+USDC Price: $1.00
+WETH Price: $3,316.94
+Staked: 0.0000 UNI-V2 ($0.00)
+YCORN Per Week: 11509.69 ($870.73)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 YCORN ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[WBTC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,288,389,147,871.57 TVL: $97,537,457.59
+WBTC Price: $49,988.00
+WETH Price: $3,316.94
+Staked: 0.0000 UNI-V2 ($0.00)
+YCORN Per Week: 12395.06 ($937.71)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBTC]-[WETH] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBTC]-[WETH] Uni LP
+Unstake 0.00 [WBTC]-[WETH] Uni LP
+Claim 0.00 YCORN ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[WETH]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,706,173,249.99 TVL: $47,520,091.02
+WETH Price: $3,316.94
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+YCORN Per Week: 10624.33 ($803.75)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WETH]-[USDT] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WETH]-[USDT] Uni LP
+Unstake 0.00 [WETH]-[USDT] Uni LP
+Claim 0.00 YCORN ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+IS3USD
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 IS3USD ($0.00)
+YCORN Per Week: 15051.14 ($1,138.65)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 IS3USD ($0.00), NaN% of the pool.
+Stake 0.00 IS3USD
+Unstake 0.00 IS3USD
+Claim 0.00 YCORN ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WMATIC]-[PolyDoge] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $202,018.67
+WMATIC Price: $1.64
+PolyDoge Price: $0.0000000062
+Staked: 0.0000 WLP ($0.00)
+YCORN Per Week: 1770.72 ($133.96)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WMATIC]-[PolyDoge] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WMATIC]-[PolyDoge] Uni LP
+Unstake 0.00 [WMATIC]-[PolyDoge] Uni LP
+Claim 0.00 YCORN ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[USDC]-[DAI] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,744,279,728.15 TVL: $10,372,189.36
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 APE-LP ($0.00)
+YCORN Per Week: 8853.61 ($669.79)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[DAI] APE LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[DAI] APE LP
+Unstake 0.00 [USDC]-[DAI] APE LP
+Claim 0.00 YCORN ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[WMATIC]-[BNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $56.85 TVL: $4,737,487.61
+WMATIC Price: $1.64
+BNB Price: $485.28
+Staked: 0.0000 APE-LP ($0.00)
+YCORN Per Week: 3541.44 ($267.92)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WMATIC]-[BNB] APE LP ($0.00), NaN% of the pool.
+Stake 0.00 [WMATIC]-[BNB] APE LP
+Unstake 0.00 [WMATIC]-[BNB] APE LP
+Claim 0.00 YCORN ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[WMATIC]-[WETH] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $148.21 TVL: $21,922,096.44
+WMATIC Price: $1.64
+WETH Price: $3,316.94
+Staked: 0.0000 APE-LP ($0.00)
+YCORN Per Week: 5312.17 ($401.88)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WMATIC]-[WETH] APE LP ($0.00), NaN% of the pool.
+Stake 0.00 [WMATIC]-[WETH] APE LP
+Unstake 0.00 [WMATIC]-[WETH] APE LP
+Claim 0.00 YCORN ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[WMATIC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $150.17 TVL: $4,628,059.29
+WMATIC Price: $1.64
+WETH Price: $3,316.94
+Staked: 0.0000 WLP ($0.00)
+YCORN Per Week: 4426.81 ($334.90)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 YCORN ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,001,927,187,437.16 TVL: $4,043,796.22
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 WLP ($0.00)
+YCORN Per Week: 5312.17 ($401.88)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 YCORN ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $76,893.47

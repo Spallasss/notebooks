@@ -1,0 +1,181 @@
+INFO  : https://legofarming.club
+************************************************************************
+
+Mon Aug 23 2021 09:19:16 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 11 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[LEGO]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $2.05
+LEGO Price: $0.0000468588
+BUSD Price: $1.00
+Staked: 49.5519 Cake-LP ($0.69)
+LEGO Per Week: 24362.54 ($1.14)
+APR: Day 23.80% Week 166.58% Year 8661.93%
+You are staking 0.00 [LEGO]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LEGO]-[BUSD] Cake LP
+Unstake 0.00 [LEGO]-[BUSD] Cake LP
+Claim 0.00 LEGO ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[LEGO]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.31 TVL: $2.10
+LEGO Price: $0.0000468588
+WBNB Price: $486.45
+Staked: 5.3754 Cake-LP ($1.69)
+LEGO Per Week: 18271.90 ($0.86)
+APR: Day 7.24% Week 50.71% Year 2636.91%
+You are staking 0.00 [LEGO]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LEGO]-[WBNB] Cake LP
+Unstake 0.00 [LEGO]-[WBNB] Cake LP
+Claim 0.00 LEGO ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+LEGO
+ Price: $0.0000468588 Market Cap: $16.10 
+[%]
+Staked: 25919.6189 LEGO ($1.21)
+LEGO Per Week: 3045.32 ($0.14)
+APR: Day 1.68% Week 11.75% Year 610.95%
+You are staking 0.00 LEGO ($0.00), 0.00% of the pool.
+Stake 0.00 LEGO
+Unstake 0.00 LEGO
+Claim 0.00 LEGO ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,305,207.06
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+LEGO Per Week: 12181.27 ($0.57)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 LEGO ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,927,590.79
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 538.0552 Cake-LP ($1,107.22)
+LEGO Per Week: 12181.27 ($0.57)
+APR: Day 0.01% Week 0.05% Year 2.68%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 LEGO ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,659.06 TVL: $262,478,181.92
+ETH Price: $3,331.96
+WBNB Price: $486.45
+Staked: 0.0000 Cake-LP ($0.00)
+LEGO Per Week: 12181.27 ($0.57)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 LEGO ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 0.0000 USDT ($0.00)
+LEGO Per Week: 2131.72 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDT ($0.00), NaN% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 LEGO ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.85 TVL: $528,049,817.21
+WBNB Price: $486.45
+BUSD Price: $1.00
+Staked: 0.4463 Cake-LP ($22.25)
+LEGO Per Week: 12181.27 ($0.57)
+APR: Day 0.37% Week 2.57% Year 133.43%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 LEGO ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+WBNB
+ Price: $486.45 Market Cap: $3,438,169,690.18 
+[%]
+Staked: 0.0033 WBNB ($1.61)
+LEGO Per Week: 2131.72 ($0.10)
+APR: Day 0.89% Week 6.20% Year 322.19%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 LEGO ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,398,900.00 
+[%]
+Staked: 12.4800 USDC ($12.47)
+LEGO Per Week: 2131.72 ($0.10)
+APR: Day 0.11% Week 0.80% Year 41.66%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 LEGO ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,147.13

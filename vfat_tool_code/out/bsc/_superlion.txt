@@ -1,0 +1,263 @@
+INFO  : https://superlion.finance
+**************************************************************************************
+
+Mon Aug 23 2021 14:24:44 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 28 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+Slion
+ Price: $0.01 Market Cap: $17,915.73 
+[%]
+Staked: 276632.0522 Slion ($2,802.42)
+SLION Per Week: 4754.72 ($48.17)
+APR: Day 0.25% Week 1.72% Year 89.38%
+You are staking 0.00 Slion ($0.00), 0.00% of the pool.
+Stake 0.00 Slion
+Unstake 0.00 Slion
+Claim 0.00 SLION ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[Slion]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.14 TVL: $2,099.90
+Slion Price: $0.01
+WBNB Price: $483.87
+Staked: 400.7510 Cake-LP ($2,059.72)
+SLION Per Week: 11411.32 ($115.60)
+APR: Day 0.80% Week 5.61% Year 291.85%
+You are staking 0.00 [Slion]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Slion]-[WBNB] Cake LP
+Unstake 0.00 [Slion]-[WBNB] Cake LP
+Claim 0.00 SLION ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[Slion]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.24 TVL: $1,833.88
+Slion Price: $0.01
+BUSD Price: $1.00
+Staked: 7604.9328 Cake-LP ($1,795.72)
+SLION Per Week: 19018.87 ($192.67)
+APR: Day 1.53% Week 10.73% Year 557.93%
+You are staking 0.00 [Slion]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Slion]-[BUSD] Cake LP
+Unstake 0.00 [Slion]-[BUSD] Cake LP
+Claim 0.00 SLION ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $314,943,161.18
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 133.8706 Cake-LP ($273.77)
+SLION Per Week: 1901.89 ($19.27)
+APR: Day 1.01% Week 7.04% Year 365.96%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 0.99%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 SLION ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,766,512.00
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 1606.1433 Cake-LP ($3,302.30)
+SLION Per Week: 1901.89 ($19.27)
+APR: Day 0.08% Week 0.58% Year 30.34%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 0.99%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 SLION ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+WBNB
+ Price: $483.87 Market Cap: $3,427,886,904.09 
+[%]
+Staked: 9.2110 WBNB ($4,456.93)
+SLION Per Week: 1426.42 ($14.45)
+APR: Day 0.05% Week 0.32% Year 16.86%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 0.99%
+Unstake 0.00 WBNB
+Claim 0.00 SLION ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.0194 BTCB ($969.67)
+SLION Per Week: 1426.42 ($14.45)
+APR: Day 0.21% Week 1.49% Year 77.49%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 0.99%
+Unstake 0.00 BTCB
+Claim 0.00 SLION ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+ETH
+ Price: $3,321.76 Market Cap: $4,334,896,800.00 
+[%]
+Staked: 4.4154 ETH ($14,666.87)
+SLION Per Week: 950.94 ($9.63)
+APR: Day 0.01% Week 0.07% Year 3.42%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 0.99%
+Unstake 0.00 ETH
+Claim 0.00 SLION ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+ADA
+ Price: $2.82 Market Cap: $789,600,000.00 
+[%]
+Staked: 1639.8245 ADA ($4,624.31)
+SLION Per Week: 950.94 ($9.63)
+APR: Day 0.03% Week 0.21% Year 10.83%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 0.99%
+Unstake 0.00 ADA
+Claim 0.00 SLION ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[MLION]-[Slion] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.82 TVL: $5,554.25
+MLION Price: $15.92
+Slion Price: $0.01
+Staked: 6676.1451 Cake-LP ($5,483.67)
+SLION Per Week: 33283.02 ($337.17)
+APR: Day 0.88% Week 6.15% Year 319.73%
+You are staking 0.00 [MLION]-[Slion] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MLION]-[Slion] Cake LP
+Unstake 0.00 [MLION]-[Slion] Cake LP
+Claim 0.00 SLION ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+[BTCB]-[Slion] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $45.55 TVL: $1,949.49
+BTCB Price: $49,954.00
+Slion Price: $0.01
+Staked: 42.4821 Cake-LP ($1,934.99)
+SLION Per Week: 23773.58 ($240.84)
+APR: Day 1.78% Week 12.45% Year 647.22%
+You are staking 0.00 [BTCB]-[Slion] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[Slion] Cake LP
+Unstake 0.00 [BTCB]-[Slion] Cake LP
+Claim 0.00 SLION ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $42,370.37
+Staking Contract
+Found 4 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+MLION
+ Price: $15.92 Market Cap: $22,921.22 
+[%]
+Staked: 767.1754 MLION ($12,216.69)
+MLION Per Week: 12.83 ($204.29)
+APR: Day 0.24% Week 1.67% Year 86.96%
+You are staking 0.00 MLION ($0.00), 0.00% of the pool.
+Stake 0.00 MLION
+Unstake 0.00 MLION
+Claim 0.00 MLION ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+Slion
+ Price: $0.01 Market Cap: $17,915.73 
+[%]
+Staked: 615909.4147 Slion ($6,239.48)
+MLION Per Week: 6.41 ($102.15)
+APR: Day 0.23% Week 1.64% Year 85.13%
+You are staking 0.00 Slion ($0.00), 0.00% of the pool.
+Stake 0.00 Slion
+Unstake 0.00 Slion
+Claim 0.00 MLION ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[MLION]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $195.68 TVL: $4,911.85
+MLION Price: $15.92
+WBNB Price: $483.87
+Staked: 24.9576 Cake-LP ($4,883.80)
+MLION Per Week: 25.66 ($408.59)
+APR: Day 1.20% Week 8.37% Year 435.04%
+You are staking 0.00 [MLION]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MLION]-[WBNB] Cake LP
+Unstake 0.00 [MLION]-[WBNB] Cake LP
+Claim 0.00 MLION ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[BTCB]-[MLION] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,800.09 TVL: $4,793.58
+BTCB Price: $49,954.00
+MLION Price: $15.92
+Staked: 2.6532 Cake-LP ($4,776.01)
+MLION Per Week: 25.66 ($408.59)
+APR: Day 1.22% Week 8.55% Year 444.86%
+You are staking 0.00 [BTCB]-[MLION] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[MLION] Cake LP
+Unstake 0.00 [BTCB]-[MLION] Cake LP
+Claim 0.00 MLION ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $28,115.98

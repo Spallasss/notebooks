@@ -1,0 +1,453 @@
+INFO  : https://www.blueballs.finance
+**************************************************************************************
+
+Mon Aug 23 2021 09:22:09 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 28 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[BLUEBALLS]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.06 TVL: $137.74
+BLUEBALLS Price: $0.000814
+BUSD Price: $1.00
+Staked: 135.7886 Cake-LP ($8.16)
+BLUEBALLS Per Week: 10487.17 ($8.53)
+APR: Day 14.95% Week 104.64% Year 5441.33%
+You are staking 0.00 [BLUEBALLS]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BLUEBALLS]-[BUSD] Cake LP
+Unstake 0.00 [BLUEBALLS]-[BUSD] Cake LP
+Claim 0.00 BLUEBALLS ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[BLUEBALLS]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.31 TVL: $305.98
+BLUEBALLS Price: $0.000814
+WBNB Price: $486.60
+Staked: 1.6942 Cake-LP ($2.22)
+BLUEBALLS Per Week: 9613.24 ($7.82)
+APR: Day 50.24% Week 351.71% Year 18289.06%
+You are staking 0.00 [BLUEBALLS]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BLUEBALLS]-[WBNB] Cake LP
+Unstake 0.00 [BLUEBALLS]-[WBNB] Cake LP
+Claim 0.00 BLUEBALLS ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.86 TVL: $528,182,000.14
+WBNB Price: $486.60
+BUSD Price: $1.00
+Staked: 0.0507 Cake-LP ($2.53)
+BLUEBALLS Per Week: 2621.79 ($2.13)
+APR: Day 12.07% Week 84.46% Year 4391.79%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 BLUEBALLS ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,210,231.52
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 23.4888 Cake-LP ($48.07)
+BLUEBALLS Per Week: 2621.79 ($2.13)
+APR: Day 0.63% Week 4.44% Year 230.80%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 BLUEBALLS ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,227.90 TVL: $174,145,826.15
+BTCB Price: $49,844.00
+WBNB Price: $486.60
+Staked: 0.0003 Cake-LP ($2.66)
+BLUEBALLS Per Week: 2621.79 ($2.13)
+APR: Day 11.47% Week 80.29% Year 4175.17%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 BLUEBALLS ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,659.86 TVL: $262,558,799.10
+ETH Price: $3,332.93
+WBNB Price: $486.60
+Staked: 0.0287 Cake-LP ($76.39)
+BLUEBALLS Per Week: 2621.79 ($2.13)
+APR: Day 0.40% Week 2.79% Year 145.24%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 BLUEBALLS ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,323,648.68
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 22.6045 Cake-LP ($46.01)
+BLUEBALLS Per Week: 2621.79 ($2.13)
+APR: Day 0.66% Week 4.64% Year 241.17%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 BLUEBALLS ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,964,095.15
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 23.3680 Cake-LP ($48.10)
+BLUEBALLS Per Week: 2621.79 ($2.13)
+APR: Day 0.63% Week 4.44% Year 230.69%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 BLUEBALLS ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $241.53 TVL: $83,047,449.50
+DOT Price: $28.12
+WBNB Price: $486.60
+Staked: 0.0669 Cake-LP ($16.15)
+BLUEBALLS Per Week: 2621.79 ($2.13)
+APR: Day 1.89% Week 13.21% Year 687.10%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 BLUEBALLS ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $225.99 TVL: $1,034,284,468.85
+Cake Price: $25.10
+WBNB Price: $486.60
+Staked: 0.0000 Cake-LP ($0.00)
+BLUEBALLS Per Week: 2621.79 ($2.13)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 BLUEBALLS ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.44 TVL: $46,965,365.55
+ADA Price: $2.83
+WBNB Price: $486.60
+Staked: 1.1212 Cake-LP ($86.82)
+BLUEBALLS Per Week: 2621.79 ($2.13)
+APR: Day 0.35% Week 2.46% Year 127.79%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 BLUEBALLS ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[WBNB]-[UNI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $243.71 TVL: $33,996,338.42
+WBNB Price: $486.60
+UNI Price: $29.38
+Staked: 0.2927 Cake-LP ($71.34)
+BLUEBALLS Per Week: 2621.79 ($2.13)
+APR: Day 0.43% Week 2.99% Year 155.54%
+You are staking 0.00 [WBNB]-[UNI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[UNI] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[UNI] Cake LP
+Claim 0.00 BLUEBALLS ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WBNB]-[LINK] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $241.57 TVL: $47,739,943.25
+WBNB Price: $486.60
+LINK Price: $28.72
+Staked: 0.0000 Cake-LP ($0.00)
+BLUEBALLS Per Week: 2621.79 ($2.13)
+APR: Day 131439.82% Week 920078.74% Year 47844094.45%
+You are staking 0.00 [WBNB]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LINK] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[LINK] Cake LP
+Claim 0.00 BLUEBALLS ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[LTC]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $621.17 TVL: $11,595,788.51
+LTC Price: $187.89
+WBNB Price: $486.60
+Staked: 0.0045 Cake-LP ($2.78)
+BLUEBALLS Per Week: 2621.79 ($2.13)
+APR: Day 10.95% Week 76.64% Year 3985.42%
+You are staking 0.00 [LTC]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LTC]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [LTC]-[WBNB] Cake LP
+Claim 0.00 BLUEBALLS ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+BLUEBALLS
+ Price: $0.000814 Market Cap: $324.80 
+[%]
+Staked: 60629.2838 BLUEBALLS ($49.34)
+BLUEBALLS Per Week: 8739.31 ($7.11)
+APR: Day 2.06% Week 14.41% Year 749.55%
+You are staking 0.00 BLUEBALLS ($0.00), 0.00% of the pool.
+Stake 0.00 BLUEBALLS
+Unstake 0.00 BLUEBALLS
+Claim 0.00 BLUEBALLS ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+BUSD
+ Price: $1.00 Market Cap: $4,195,962,401.72 
+[%]
+Staked: 48.0058 BUSD ($47.95)
+BLUEBALLS Per Week: 2184.83 ($1.78)
+APR: Day 0.53% Week 3.71% Year 192.84%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 BLUEBALLS ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+WBNB
+ Price: $486.60 Market Cap: $3,438,972,857.62 
+[%]
+Staked: 0.0000 WBNB ($0.00)
+BLUEBALLS Per Week: 2184.83 ($1.78)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 WBNB ($0.00), NaN% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 BLUEBALLS ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 48.0000 USDT ($47.99)
+BLUEBALLS Per Week: 2184.83 ($1.78)
+APR: Day 0.53% Week 3.71% Year 192.66%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 BLUEBALLS ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+BTCB
+ Price: $49,844.00 Market Cap: $4,261,711,844.00 
+[%]
+Staked: 0.0000 BTCB ($0.00)
+BLUEBALLS Per Week: 2184.83 ($1.78)
+APR: Day 53085.14% Week 371595.96% Year 19322989.93%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 BLUEBALLS ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+ETH
+ Price: $3,332.93 Market Cap: $4,349,473,650.00 
+[%]
+Staked: 0.0130 ETH ($43.27)
+BLUEBALLS Per Week: 2184.83 ($1.78)
+APR: Day 0.59% Week 4.11% Year 213.66%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 BLUEBALLS ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 47.9463 DAI ($47.95)
+BLUEBALLS Per Week: 2184.83 ($1.78)
+APR: Day 0.53% Week 3.71% Year 192.84%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 BLUEBALLS ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,777,827.00 
+[%]
+Staked: 47.9835 USDC ($47.95)
+BLUEBALLS Per Week: 2184.83 ($1.78)
+APR: Day 0.53% Week 3.71% Year 192.83%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 BLUEBALLS ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+DOT
+ Price: $28.12 Market Cap: $393,679,999.86 
+[%]
+Staked: 5.9179 DOT ($166.41)
+BLUEBALLS Per Week: 2184.83 ($1.78)
+APR: Day 0.15% Week 1.07% Year 55.56%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 BLUEBALLS ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+Cake
+ Price: $25.10 Market Cap: $10,444,923,140.31 
+[%]
+Staked: 0.0000 Cake ($0.00)
+BLUEBALLS Per Week: 2184.83 ($1.78)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 Cake ($0.00), NaN% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 BLUEBALLS ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+ADA
+ Price: $2.83 Market Cap: $792,400,000.00 
+[%]
+Staked: 0.0000 ADA ($0.00)
+BLUEBALLS Per Week: 2184.83 ($1.78)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ADA ($0.00), NaN% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 BLUEBALLS ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+UNI
+ Price: $29.38 Market Cap: $108,706,000.00 
+[%]
+Staked: 0.0310 UNI ($0.91)
+BLUEBALLS Per Week: 2184.83 ($1.78)
+APR: Day 27.93% Week 195.50% Year 10165.94%
+You are staking 0.00 UNI ($0.00), 0.00% of the pool.
+Stake 0.00 UNI - Fee 4%
+Unstake 0.00 UNI
+Claim 0.00 BLUEBALLS ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+LINK
+ Price: $28.72 Market Cap: $246,992,000.00 
+[%]
+Staked: 1.0620 LINK ($30.50)
+BLUEBALLS Per Week: 2184.83 ($1.78)
+APR: Day 0.83% Week 5.83% Year 303.16%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 BLUEBALLS ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+LTC
+ Price: $187.89 Market Cap: $111,794,550.00 
+[%]
+Staked: 0.0042 LTC ($0.79)
+BLUEBALLS Per Week: 2184.83 ($1.78)
+APR: Day 32.03% Week 224.24% Year 11660.49%
+You are staking 0.00 LTC ($0.00), 0.00% of the pool.
+Stake 0.00 LTC - Fee 4%
+Unstake 0.00 LTC
+Claim 0.00 BLUEBALLS ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $894.29

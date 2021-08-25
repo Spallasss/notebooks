@@ -1,0 +1,143 @@
+INFO  : https://carrotcake.fi
+*******************************************************************************
+
+Mon Aug 23 2021 14:01:24 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 7 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+Cake
+ Price: $25.00 Market Cap: $10,402,874,766.33 
+[%]
+Staked: 136.9563 Cake ($3,423.91)
+cCAKE Per Week: 90.91 ($4.42)
+APR: Day 0.02% Week 0.13% Year 6.71%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Claim 0.00 cCAKE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+BDO
+ Price: $0.05 Market Cap: $1,791,469.16 
+[%]
+Staked: 6070.0966 BDO ($325.26)
+cCAKE Per Week: 45.45 ($2.21)
+APR: Day 0.10% Week 0.68% Year 35.32%
+You are staking 0.00 BDO ($0.00), 0.00% of the pool.
+Stake 0.00 BDO
+Unstake 0.00 BDO
+Claim 0.00 cCAKE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+bBDO
+ Price: $0.00 Market Cap: $0.00 
+Staked: 4958.2426 bBDO ($0.00)
+cCAKE Per Week: 45.45 ($2.21)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 bBDO ($0.00), NaN% of the pool.
+Stake 0.00 bBDO
+Unstake 0.00 bBDO
+Claim 0.00 cCAKE ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+sBDO
+ Price: $31.52 Market Cap: $2,983,606.43 
+[%]
+Staked: 2.0716 sBDO ($65.30)
+cCAKE Per Week: 45.45 ($2.21)
+APR: Day 0.48% Week 3.38% Year 175.92%
+You are staking 0.00 sBDO ($0.00), 0.00% of the pool.
+Stake 0.00 sBDO
+Unstake 0.00 sBDO
+Claim 0.00 cCAKE ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BDO]-[bBDO] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.10 TVL: $8,980.78
+BDO Price: $0.05
+bBDO Price: $0.04
+Staked: 185.5688 Cake-LP ($18.22)
+cCAKE Per Week: 45.45 ($2.21)
+APR: Day 1.73% Week 12.13% Year 630.54%
+You are staking 0.00 [BDO]-[bBDO] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BDO]-[bBDO] Cake LP
+Unstake 0.00 [BDO]-[bBDO] Cake LP
+Claim 0.00 cCAKE ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+BUSD
+ Price: $1.00 Market Cap: $4,199,079,543.27 
+[%]
+Staked: 2568.5568 BUSD ($2,567.38)
+cCAKE Per Week: 45.45 ($2.21)
+APR: Day 0.01% Week 0.09% Year 4.47%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD
+Unstake 0.00 BUSD
+Claim 0.00 cCAKE ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[Cake]-[cCAKE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.29 TVL: $3,379.69
+Cake Price: $25.00
+cCAKE Price: $0.05
+Staked: 1031.8431 Cake-LP ($2,363.66)
+cCAKE Per Week: 3181.82 ($154.63)
+APR: Day 0.93% Week 6.54% Year 340.19%
+You are staking 0.00 [Cake]-[cCAKE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[cCAKE] Cake LP
+Unstake 0.00 [Cake]-[cCAKE] Cake LP
+Claim 0.00 cCAKE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $8,763.72
+Staking Contract
+Found 1 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[cCAKE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10.77 TVL: $2,937.03
+cCAKE Price: $0.05
+WBNB Price: $483.66
+Staked: 215.8648 Cake-LP ($2,325.76)
+sCAKE Per Week: 74.44 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [cCAKE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [cCAKE]-[WBNB] Cake LP
+Unstake 0.00 [cCAKE]-[WBNB] Cake LP
+Claim 0.00 sCAKE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $2,325.76

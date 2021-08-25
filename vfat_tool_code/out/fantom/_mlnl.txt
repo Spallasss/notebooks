@@ -1,0 +1,25 @@
+INFO  : https://mlnl.finance | Vaults at: https://milfinance.xyz
+**********************************************************************************
+
+Mon Aug 23 2021 13:23:11 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Wrapped 
+[WFTM]-[SPIRIT] SPIRIT LP
+ Price: $0.50 TVL: $24,075.27
+You are staking 0.0000 Wrapped 
+[WFTM]-[SPIRIT] SPIRIT LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WFTM]-[BOO] SPOOKY LP
+ Price: $5.89 TVL: $251,294.14
+You are staking 0.0000 Wrapped 
+[WFTM]-[BOO] SPOOKY LP
+ ($0.00), 0.00% of the pool.
+
+Total Value Locked: $275,369.42

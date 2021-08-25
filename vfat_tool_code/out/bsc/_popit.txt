@@ -1,0 +1,424 @@
+INFO  : https://www.popit.farm
+**********************************************************************************
+
+Mon Aug 23 2021 09:18:39 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 25 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[POPIT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $196.84
+POPIT Price: $0.0000245078
+BUSD Price: $1.00
+Staked: 2190.2538 Cake-LP ($23.93)
+POPIT Per Week: 2395.25 ($0.06)
+APR: Day 0.04% Week 0.25% Year 12.76%
+You are staking 0.00 [POPIT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [POPIT]-[BUSD] Cake LP - Fee 100%
+Unstake 0.00 [POPIT]-[BUSD] Cake LP
+Claim 0.00 POPIT ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[POPIT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.24 TVL: $205.38
+POPIT Price: $0.0000245078
+WBNB Price: $486.45
+Staked: 0.0000 Cake-LP ($0.00)
+POPIT Per Week: 2395.25 ($0.06)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [POPIT]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [POPIT]-[WBNB] Cake LP - Fee 100%
+Unstake 0.00 [POPIT]-[WBNB] Cake LP
+Claim 0.00 POPIT ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.66 TVL: $3,336,627.37
+WBNB Price: $486.45
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+POPIT Per Week: 179.64 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 POPIT ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.13 TVL: $4,005,822.32
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+POPIT Per Week: 179.64 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 POPIT ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,901.48 TVL: $1,952,779.11
+BTCB Price: $49,954.00
+WBNB Price: $486.45
+Staked: 0.0000 Cake-LP ($0.01)
+POPIT Per Week: 299.41 ($0.01)
+APR: Day 9.91% Week 69.39% Year 3608.36%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 POPIT ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,869.24 TVL: $3,531,504.82
+ETH Price: $3,331.96
+WBNB Price: $486.45
+Staked: 0.0000 Cake-LP ($0.00)
+POPIT Per Week: 299.41 ($0.01)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 POPIT ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $2,586,153.91
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+POPIT Per Week: 179.64 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 POPIT ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.25 TVL: $1,019,215.16
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+POPIT Per Week: 179.64 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 POPIT ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $225.95 TVL: $1,034,151,798.45
+Cake Price: $25.10
+WBNB Price: $486.45
+Staked: 0.0000 Cake-LP ($0.00)
+POPIT Per Week: 299.41 ($0.01)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 100%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 POPIT ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+POPIT
+ Price: $0.0000245078 Market Cap: $181,660,793,557,246.56 
+[%]
+Staked: 0.2308 POPIT ($0.00)
+POPIT Per Week: 2994.06 ($0.07)
+APR: Day 185342.87% Week 1297400.10% Year 67464805.34%
+You are staking 0.00 POPIT ($0.00), 0.00% of the pool.
+Stake 0.00 POPIT - Fee 100%
+Unstake 0.00 POPIT
+Claim 0.00 POPIT ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+WBNB
+ Price: $486.45 Market Cap: $3,438,804,372.09 
+[%]
+Staked: 0.0000 WBNB ($0.00)
+POPIT Per Week: 179643564236.67 ($4,402,664.61)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 WBNB ($0.00), NaN% of the pool.
+Stake 0.00 WBNB - Fee 100%
+Unstake 0.00 WBNB
+Claim 0.00 POPIT ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+BUSD
+ Price: $1.00 Market Cap: $4,195,202,020.82 
+[%]
+Staked: 0.0000 BUSD ($0.00)
+POPIT Per Week: 179.64 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BUSD ($0.00), NaN% of the pool.
+Stake 0.00 BUSD - Fee 100%
+Unstake 0.00 BUSD
+Claim 0.00 POPIT ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+ETH
+ Price: $3,331.96 Market Cap: $4,348,207,800.00 
+[%]
+Staked: 0.0000 ETH ($0.00)
+POPIT Per Week: 179.64 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ETH ($0.00), NaN% of the pool.
+Stake 0.00 ETH - Fee 100%
+Unstake 0.00 ETH
+Claim 0.00 POPIT ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.0000 BTCB ($0.00)
+POPIT Per Week: 179.64 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BTCB ($0.00), NaN% of the pool.
+Stake 0.00 BTCB - Fee 100%
+Unstake 0.00 BTCB
+Claim 0.00 POPIT ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+DOT
+ Price: $28.10 Market Cap: $393,399,999.86 
+[%]
+Staked: 0.0000 DOT ($0.00)
+POPIT Per Week: 179.64 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DOT ($0.00), NaN% of the pool.
+Stake 0.00 DOT - Fee 100%
+Unstake 0.00 DOT
+Claim 0.00 POPIT ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+Cake
+ Price: $25.10 Market Cap: $10,444,889,226.96 
+[%]
+Staked: 0.0000 Cake ($0.00)
+POPIT Per Week: 179.64 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 Cake ($0.00), NaN% of the pool.
+Stake 0.00 Cake - Fee 100%
+Unstake 0.00 Cake
+Claim 0.00 POPIT ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+BUNNY
+ Price: $7.66 Market Cap: $85,062,884.82 
+[%]
+Staked: 0.0000 BUNNY ($0.00)
+POPIT Per Week: 17964356423667.33 ($440,266,460.84)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BUNNY ($0.00), NaN% of the pool.
+Stake 0.00 BUNNY - Fee 100%
+Unstake 0.00 BUNNY
+Claim 0.00 POPIT ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+DOGE
+ Price: $0.33 Market Cap: $650,882,000.00 
+[%]
+Staked: 0.3049 DOGE ($0.10)
+POPIT Per Week: 179.64 ($0.00)
+APR: Day 0.63% Week 4.44% Year 230.74%
+You are staking 0.00 DOGE ($0.00), 0.00% of the pool.
+Stake 0.00 DOGE - Fee 3%
+Unstake 0.00 DOGE
+Claim 0.00 POPIT ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+MDX
+ Price: $1.40 Market Cap: $313,713,063.18 
+[%]
+Staked: 0.0000 MDX ($0.00)
+POPIT Per Week: 179.64 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 MDX ($0.00), NaN% of the pool.
+Stake 0.00 MDX - Fee 100%
+Unstake 0.00 MDX
+Claim 0.00 POPIT ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.85 TVL: $528,089,909.41
+WBNB Price: $486.45
+BUSD Price: $1.00
+Staked: 0.0009 Cake-LP ($0.04)
+POPIT Per Week: 299.41 ($0.01)
+APR: Day 2.42% Week 16.92% Year 879.84%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 100%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 POPIT ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,305,203.32
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+POPIT Per Week: 179.64 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 100%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 POPIT ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,237.64 TVL: $174,145,647.95
+BTCB Price: $49,954.00
+WBNB Price: $486.45
+Staked: 0.0000 Cake-LP ($0.00)
+POPIT Per Week: 299.41 ($0.01)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 100%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 POPIT ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,659.05 TVL: $262,477,773.98
+ETH Price: $3,331.96
+WBNB Price: $486.45
+Staked: 0.0000 Cake-LP ($0.00)
+POPIT Per Week: 299.41 ($0.01)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 100%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 POPIT ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,316,275.26
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+POPIT Per Week: 179.64 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 100%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 POPIT ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,927,590.58
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+POPIT Per Week: 179.64 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 100%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 POPIT ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $24.08

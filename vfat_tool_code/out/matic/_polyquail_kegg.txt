@@ -1,0 +1,228 @@
+INFO  : https://kegg.polyquail.finance
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:51:44 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 14 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,604,181.71 TVL: $33,279,108.62
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0104 UNI-V2 ($47,891.32)
+KEGG Per Week: 553.85 ($539.30)
+APR: Day 0.16% Week 1.13% Year 58.56%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 KEGG ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+WMATIC
+ Price: $1.64 Market Cap: $603,151,161.39 
+[%]
+Staked: 16268.0134 WMATIC ($26,679.54)
+KEGG Per Week: 553.85 ($539.30)
+APR: Day 0.29% Week 2.02% Year 105.11%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 KEGG ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+WBTC
+ Price: $50,019.00 Market Cap: $696,957,605.01 
+[%]
+Staked: 0.7483 WBTC ($37,428.52)
+KEGG Per Week: 553.85 ($539.30)
+APR: Day 0.21% Week 1.44% Year 74.93%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 KEGG ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WETH
+ Price: $3,321.05 Market Cap: $2,024,898,411.73 
+[%]
+Staked: 11.4442 WETH ($38,006.71)
+KEGG Per Week: 553.85 ($539.30)
+APR: Day 0.20% Week 1.42% Year 73.79%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 KEGG ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+DAI
+ Price: $1.00 Market Cap: $376,545,250.79 
+[%]
+Staked: 52496.3708 DAI ($52,439.83)
+KEGG Per Week: 553.85 ($539.30)
+APR: Day 0.15% Week 1.03% Year 53.48%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 KEGG ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+USDT
+ Price: $1.00 Market Cap: $314,972,385.85 
+[%]
+Staked: 38511.5677 USDT ($38,474.60)
+KEGG Per Week: 553.85 ($539.30)
+APR: Day 0.20% Week 1.40% Year 72.89%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 KEGG ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+USDC
+ Price: $1.00 Market Cap: $1,042,578,139.51 
+[%]
+Staked: 16673.3677 USDC ($16,652.99)
+KEGG Per Week: 553.85 ($539.30)
+APR: Day 0.46% Week 3.24% Year 168.40%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 KEGG ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[USDC]-[] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,129,210.78 TVL: $9,155.30
+USDC Price: $1.00
+ Price: $0.97
+Staked: 0.0028 UNI-V2 ($6,018.53)
+KEGG Per Week: 3692.31 ($3,595.33)
+APR: Day 8.53% Week 59.74% Year 3106.36%
+You are staking 0.00 [USDC]-[] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[] Uni LP
+Unstake 0.00 [USDC]-[] Uni LP
+Claim 0.00 KEGG ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[WMATIC]-[] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.70 TVL: $10,156.68
+WMATIC Price: $1.64
+ Price: $0.97
+Staked: 2323.2424 UNI-V2 ($6,265.61)
+KEGG Per Week: 3692.31 ($3,595.33)
+APR: Day 8.20% Week 57.38% Year 2983.86%
+You are staking 0.00 [WMATIC]-[] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[] Uni LP
+Unstake 0.00 [WMATIC]-[] Uni LP
+Claim 0.00 KEGG ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+ Price: $0.97 Market Cap: $29,002.18 
+[%]
+Staked: 5532.7158  ($5,387.40)
+KEGG Per Week: 923.08 ($898.83)
+APR: Day 2.38% Week 16.68% Year 867.57%
+You are staking 0.00  ($0.00), 0.00% of the pool.
+Stake 0.00 
+Unstake 0.00 
+Claim 0.00 KEGG ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+KWIL
+ Price: $0.00 Market Cap: $0.00 
+Staked: 7108.4272 KWIL ($0.00)
+KEGG Per Week: 553.85 ($539.30)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 KWIL ($0.00), NaN% of the pool.
+Stake 0.00 KWIL
+Unstake 0.00 KWIL
+Claim 0.00 KEGG ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[KWIL]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,844,792.56 TVL: $6,004.30
+KWIL Price: $0.66
+USDC Price: $1.00
+Staked: 0.0032 UNI-V2 ($5,850.64)
+KEGG Per Week: 553.85 ($539.30)
+APR: Day 1.32% Week 9.22% Year 479.32%
+You are staking 0.00 [KWIL]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KWIL]-[USDC] Uni LP
+Unstake 0.00 [KWIL]-[USDC] Uni LP
+Claim 0.00 KEGG ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WMATIC]-[KWIL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.32 TVL: $8,807.12
+WMATIC Price: $1.64
+KWIL Price: $0.66
+Staked: 3546.7527 UNI-V2 ($8,232.79)
+KEGG Per Week: 553.85 ($539.30)
+APR: Day 0.94% Week 6.55% Year 340.63%
+You are staking 0.00 [WMATIC]-[KWIL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[KWIL] Uni LP
+Unstake 0.00 [WMATIC]-[KWIL] Uni LP
+Claim 0.00 KEGG ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,563,847,264,021.66 TVL: $34,034,678.74
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($41,624.54)
+KEGG Per Week: 553.85 ($539.30)
+APR: Day 0.19% Week 1.30% Year 67.37%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 KEGG ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $330,953.04

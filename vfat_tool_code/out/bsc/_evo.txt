@@ -1,0 +1,367 @@
+INFO  : https://evodefi.com
+****************************************************************************************
+
+Mon Aug 23 2021 14:13:45 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 22 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+GENX
+ Price: $0.36 Market Cap: $1,100,911.05 
+[%]
+Staked: 1248937.1114 GENX ($454,783.27)
+GENX Per Week: 13934.59 ($5,074.09)
+APR: Day 0.16% Week 1.12% Year 58.02%
+You are staking 0.00 GENX ($0.00), 0.00% of the pool.
+Stake 0.00 GENX
+Unstake 0.00 GENX
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[GENX]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.24 TVL: $269,710.11
+GENX Price: $0.36
+BUSD Price: $1.00
+Staked: 217908.2348 Cake-LP ($269,611.10)
+GENX Per Week: 27869.18 ($10,148.18)
+APR: Day 0.54% Week 3.76% Year 195.73%
+You are staking 0.00 [GENX]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GENX]-[BUSD] Cake LP
+Unstake 0.00 [GENX]-[BUSD] Cake LP
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[GENX]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $27.07 TVL: $197,106.99
+GENX Price: $0.36
+WBNB Price: $484.34
+Staked: 7279.5978 Cake-LP ($197,079.03)
+GENX Per Week: 16721.51 ($6,088.91)
+APR: Day 0.44% Week 3.09% Year 160.66%
+You are staking 0.00 [GENX]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GENX]-[WBNB] Cake LP
+Unstake 0.00 [GENX]-[WBNB] Cake LP
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.74 TVL: $526,703,524.64
+WBNB Price: $484.34
+BUSD Price: $1.00
+Staked: 1679.4782 Cake-LP ($83,529.38)
+GENX Per Week: 928.97 ($338.27)
+APR: Day 0.06% Week 0.40% Year 21.06%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,028,680.63
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 42183.6482 Cake-LP ($86,292.09)
+GENX Per Week: 696.73 ($253.70)
+APR: Day 0.04% Week 0.29% Year 15.29%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,233.75 TVL: $172,044,860.87
+BTCB Price: $50,135.00
+WBNB Price: $484.34
+Staked: 23.9505 Cake-LP ($245,103.54)
+GENX Per Week: 1393.46 ($507.41)
+APR: Day 0.03% Week 0.21% Year 10.76%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,649.87 TVL: $261,574,635.44
+ETH Price: $3,323.54
+WBNB Price: $484.34
+Staked: 11.0707 Cake-LP ($29,335.93)
+GENX Per Week: 1161.22 ($422.84)
+APR: Day 0.21% Week 1.44% Year 74.95%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.03 TVL: $81,297,847.52
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 18296.5344 Cake-LP ($37,220.36)
+GENX Per Week: 928.97 ($338.27)
+APR: Day 0.13% Week 0.91% Year 47.26%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,851,764.82
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 59254.8545 Cake-LP ($121,869.95)
+GENX Per Week: 928.97 ($338.27)
+APR: Day 0.04% Week 0.28% Year 14.43%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $240.45 TVL: $82,677,053.04
+DOT Price: $28.00
+WBNB Price: $484.34
+Staked: 86.0661 Cake-LP ($20,694.81)
+GENX Per Week: 1393.46 ($507.41)
+APR: Day 0.35% Week 2.45% Year 127.50%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[Cake]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13.39 TVL: $66,463,293.66
+Cake Price: $24.98
+BUSD Price: $1.00
+Staked: 359.8784 Cake-LP ($4,820.08)
+GENX Per Week: 464.49 ($169.14)
+APR: Day 0.50% Week 3.51% Year 182.47%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $224.92 TVL: $1,029,451,288.74
+Cake Price: $24.98
+WBNB Price: $484.34
+Staked: 94.3651 Cake-LP ($21,224.74)
+GENX Per Week: 464.49 ($169.14)
+APR: Day 0.11% Week 0.80% Year 41.44%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+BUSD
+ Price: $1.00 Market Cap: $4,194,664,292.90 
+[%]
+Staked: 12783.8200 BUSD ($12,764.54)
+GENX Per Week: 116.12 ($42.28)
+APR: Day 0.05% Week 0.33% Year 17.23%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+WBNB
+ Price: $484.34 Market Cap: $3,432,559,935.18 
+[%]
+Staked: 228.7762 WBNB ($110,805.47)
+GENX Per Week: 464.49 ($169.14)
+APR: Day 0.02% Week 0.15% Year 7.94%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+USDT
+ Price: $1.00 Market Cap: $3,377,097,883.96 
+[%]
+Staked: 4539.0448 USDT ($4,535.15)
+GENX Per Week: 116.12 ($42.28)
+APR: Day 0.13% Week 0.93% Year 48.48%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+BTCB
+ Price: $50,135.00 Market Cap: $4,286,592,635.00 
+[%]
+Staked: 2.8582 BTCB ($143,296.40)
+GENX Per Week: 696.73 ($253.70)
+APR: Day 0.03% Week 0.18% Year 9.21%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+ETH
+ Price: $3,323.54 Market Cap: $4,337,219,700.00 
+[%]
+Staked: 24.9442 ETH ($82,903.09)
+GENX Per Week: 464.49 ($169.14)
+APR: Day 0.03% Week 0.20% Year 10.61%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+DAI
+ Price: $1.00 Market Cap: $261,817,648.00 
+[%]
+Staked: 10190.1763 DAI ($10,183.08)
+GENX Per Week: 116.12 ($42.28)
+APR: Day 0.06% Week 0.42% Year 21.59%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+USDC
+ Price: $1.00 Market Cap: $1,775,719,524.00 
+[%]
+Staked: 2837.2614 USDC ($2,832.03)
+GENX Per Week: 116.12 ($42.28)
+APR: Day 0.21% Week 1.49% Year 77.64%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+DOT
+ Price: $28.00 Market Cap: $391,999,999.86 
+[%]
+Staked: 6196.0132 DOT ($173,488.37)
+GENX Per Week: 696.73 ($253.70)
+APR: Day 0.02% Week 0.15% Year 7.60%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+Cake
+ Price: $24.98 Market Cap: $10,394,654,816.91 
+[%]
+Staked: 124.8286 Cake ($3,118.22)
+GENX Per Week: 116.12 ($42.28)
+APR: Day 0.19% Week 1.36% Year 70.51%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[Cake]-[GENX] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6.10 TVL: $27,999.87
+Cake Price: $24.98
+GENX Price: $0.36
+Staked: 4388.7892 Cake-LP ($26,763.63)
+GENX Per Week: 2786.92 ($1,014.82)
+APR: Day 0.54% Week 3.79% Year 197.17%
+You are staking 0.00 [Cake]-[GENX] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[GENX] Cake LP - Fee 1%
+Unstake 0.00 [Cake]-[GENX] Cake LP
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $2,142,254.26

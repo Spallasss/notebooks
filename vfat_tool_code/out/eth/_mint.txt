@@ -1,0 +1,31 @@
+INFO  : https://stake.publicmint.com
+***************************************************************************************
+
+Mon Aug 23 2021 15:37:06 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[MINT]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $53.87 TVL: $1,968,113.76
+MINT Price: $0.15
+WETH Price: $3,331.95
+Staked: 14006.5760 UNI-V2 ($754,497.08)
+MINT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [MINT]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [MINT]-[WETH] Uni LP
+Unstake 0.000000 [MINT]-[WETH] Uni LP
+Claim 0.000000 MINT ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $754,497.08

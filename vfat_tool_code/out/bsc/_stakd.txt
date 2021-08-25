@@ -1,0 +1,152 @@
+INFO  : https://app.stakd.finance
+**********************************************************************************
+
+Mon Aug 23 2021 13:45:12 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 7 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WBNB]-[STAKD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.37 TVL: $1,206.80
+WBNB Price: $483.84
+STAKD Price: $0.002668
+Staked: 246.4712 Cake-LP ($584.40)
+STAKD Per Week: 350608.70 ($935.41)
+APR: Day 22.87% Week 160.06% Year 8323.19%
+You are staking 0.00 [WBNB]-[STAKD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[STAKD] Cake LP
+Unstake 0.00 [WBNB]-[STAKD] Cake LP
+Claim 0.00 STAKD ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[BUSD]-[STAKD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.11 TVL: $559.96
+BUSD Price: $1.00
+STAKD Price: $0.002668
+Staked: 4785.3906 Cake-LP ($510.02)
+STAKD Per Week: 233739.13 ($623.60)
+APR: Day 17.47% Week 122.27% Year 6358.06%
+You are staking 0.00 [BUSD]-[STAKD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[STAKD] Cake LP
+Unstake 0.00 [BUSD]-[STAKD] Cake LP
+Claim 0.00 STAKD ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[BTCB]-[STAKD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $23.48 TVL: $29.31
+BTCB Price: $50,221.00
+STAKD Price: $0.002668
+Staked: 0.8974 Cake-LP ($21.07)
+STAKD Per Week: 175304.35 ($467.70)
+APR: Day 317.08% Week 2219.58% Year 115418.23%
+You are staking 0.00 [BTCB]-[STAKD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[STAKD] Cake LP
+Unstake 0.00 [BTCB]-[STAKD] Cake LP
+Claim 0.00 STAKD ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[BTCB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $496.77 TVL: $58,688.73
+BTCB Price: $50,221.00
+BUSD Price: $1.00
+Staked: 0.0387 Cake-LP ($19.24)
+STAKD Per Week: 11686.96 ($31.18)
+APR: Day 23.15% Week 162.06% Year 8427.21%
+You are staking 0.00 [BTCB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[BUSD] Cake LP
+Unstake 0.00 [BTCB]-[BUSD] Cake LP
+Claim 0.00 STAKD ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[ETH]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $133.00 TVL: $65,596.89
+ETH Price: $3,321.41
+BUSD Price: $1.00
+Staked: 1.6784 Cake-LP ($223.23)
+STAKD Per Week: 11686.96 ($31.18)
+APR: Day 2.00% Week 13.97% Year 726.32%
+You are staking 0.00 [ETH]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BUSD] Cake LP
+Unstake 0.00 [ETH]-[BUSD] Cake LP
+Claim 0.00 STAKD ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.52 TVL: $3,329,149.21
+WBNB Price: $483.84
+BUSD Price: $1.00
+Staked: 0.1849 Cake-LP ($11.93)
+STAKD Per Week: 11686.96 ($31.18)
+APR: Day 37.34% Week 261.37% Year 13591.18%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 STAKD ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[OIL]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $30.47 TVL: $44,173.69
+OIL Price: $0.42
+WBNB Price: $483.84
+Staked: 0.3280 Cake-LP ($9.99)
+STAKD Per Week: 11686.96 ($31.18)
+APR: Day 44.58% Week 312.03% Year 16225.76%
+You are staking 0.00 [OIL]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [OIL]-[WBNB] Cake LP
+Unstake 0.00 [OIL]-[WBNB] Cake LP
+Claim 0.00 STAKD ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,379.89

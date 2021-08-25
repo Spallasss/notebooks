@@ -1,0 +1,259 @@
+INFO  : https://app.sponge.finance
+********************************************************************************
+
+Mon Aug 23 2021 14:23:39 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 14 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+SOAK
+ Price: $0.008353 Market Cap: $39,731.71 
+[%]
+Staked: 1572859.8908 SOAK ($13,138.27)
+SOAK Per Week: 50394.40 ($420.95)
+APR: Day 0.46% Week 3.20% Year 166.61%
+You are staking 0.00 SOAK ($0.00), 0.00% of the pool.
+Stake 0.00 SOAK
+Unstake 0.00 SOAK
+Claim 0.00 SOAK ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[SOAK]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.75 TVL: $13,767.78
+SOAK Price: $0.008353
+WBNB Price: $483.87
+Staked: 2523.9945 Cake-LP ($11,997.46)
+SOAK Per Week: 20148.81 ($168.31)
+APR: Day 0.20% Week 1.40% Year 72.95%
+You are staking 0.00 [SOAK]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SOAK]-[WBNB] Cake LP
+Unstake 0.00 [SOAK]-[WBNB] Cake LP
+Claim 0.00 SOAK ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.47 TVL: $3,326,679.03
+WBNB Price: $483.87
+BUSD Price: $1.00
+Staked: 45.0543 Cake-LP ($2,904.54)
+SOAK Per Week: 279.84 ($2.34)
+APR: Day 0.01% Week 0.08% Year 4.18%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SOAK ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[SPG]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,521,969.23 TVL: $102,129.28
+SPG Price: $1.73
+WBNB Price: $483.87
+Staked: 0.0074 Cake-LP ($18,562.21)
+SOAK Per Week: 13432.54 ($112.20)
+APR: Day 0.09% Week 0.60% Year 31.43%
+You are staking 0.00 [SPG]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SPG]-[WBNB] Cake LP
+Unstake 0.00 [SPG]-[WBNB] Cake LP
+Claim 0.00 SOAK ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[SUPRA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $177.47 TVL: $4,716.87
+SUPRA Price: $11.38
+WBNB Price: $483.87
+Staked: 22.0742 Cake-LP ($3,917.58)
+SOAK Per Week: 559.69 ($4.68)
+APR: Day 0.02% Week 0.12% Year 6.21%
+You are staking 0.00 [SUPRA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SUPRA]-[WBNB] Cake LP
+Unstake 0.00 [SUPRA]-[WBNB] Cake LP
+Claim 0.00 SOAK ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[SUPRA]-[FLP] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $109.29 TVL: $1,190.36
+SUPRA Price: $11.38
+FLP Price: $146.84
+Staked: 9.1137 Cake-LP ($996.04)
+SOAK Per Week: 559.69 ($4.68)
+APR: Day 0.07% Week 0.47% Year 24.41%
+You are staking 0.00 [SUPRA]-[FLP] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SUPRA]-[FLP] Cake LP
+Unstake 0.00 [SUPRA]-[FLP] Cake LP
+Claim 0.00 SOAK ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[STEAM]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $24.70 TVL: $32,837.22
+STEAM Price: $0.28
+WBNB Price: $483.87
+Staked: 197.7625 Cake-LP ($4,885.66)
+SOAK Per Week: 8395.34 ($70.13)
+APR: Day 0.21% Week 1.44% Year 74.64%
+You are staking 0.00 [STEAM]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [STEAM]-[WBNB] Cake LP
+Unstake 0.00 [STEAM]-[WBNB] Cake LP
+Claim 0.00 SOAK ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[APE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $15.12 TVL: $24,428.11
+APE Price: $0.11
+WBNB Price: $483.87
+Staked: 19.6350 Cake-LP ($296.81)
+SOAK Per Week: 559.69 ($4.68)
+APR: Day 0.23% Week 1.58% Year 81.91%
+You are staking 0.00 [APE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [APE]-[WBNB] Cake LP
+Unstake 0.00 [APE]-[WBNB] Cake LP
+Claim 0.00 SOAK ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[ALLOY]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9.72 TVL: $497,814.23
+ALLOY Price: $0.04
+WBNB Price: $483.87
+Staked: 168.1909 TLP ($1,635.31)
+SOAK Per Week: 2798.45 ($23.38)
+APR: Day 0.20% Week 1.43% Year 74.33%
+You are staking 0.00 [ALLOY]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALLOY]-[WBNB] Uni LP
+Unstake 0.00 [ALLOY]-[WBNB] Uni LP
+Claim 0.00 SOAK ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[SOAK]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.45 TVL: $1,354.10
+SOAK Price: $0.008353
+WBNB Price: $483.87
+Staked: 219.1577 TLP ($976.24)
+SOAK Per Week: 4477.51 ($37.40)
+APR: Day 0.55% Week 3.83% Year 199.22%
+You are staking 0.00 [SOAK]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SOAK]-[WBNB] Uni LP
+Unstake 0.00 [SOAK]-[WBNB] Uni LP
+Claim 0.00 SOAK ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[SPG]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,751,147.41 TVL: $3,579.26
+SPG Price: $1.73
+WBNB Price: $483.87
+Staked: 0.0008 TLP ($2,297.02)
+SOAK Per Week: 2798.45 ($23.38)
+APR: Day 0.15% Week 1.02% Year 52.92%
+You are staking 0.00 [SPG]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SPG]-[WBNB] Uni LP
+Unstake 0.00 [SPG]-[WBNB] Uni LP
+Claim 0.00 SOAK ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[ALLOY]-[SOAK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.04 TVL: $410.93
+ALLOY Price: $0.04
+SOAK Price: $0.008353
+Staked: 6268.3230 TLP ($258.86)
+SOAK Per Week: 2238.76 ($18.70)
+APR: Day 1.03% Week 7.22% Year 375.67%
+You are staking 0.00 [ALLOY]-[SOAK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALLOY]-[SOAK] Uni LP
+Unstake 0.00 [ALLOY]-[SOAK] Uni LP
+Claim 0.00 SOAK ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[SOAK]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.29 TVL: $1,543.32
+SOAK Price: $0.008353
+BUSD Price: $1.00
+Staked: 5274.9831 Cake-LP ($1,535.18)
+SOAK Per Week: 8395.34 ($70.13)
+APR: Day 0.65% Week 4.57% Year 237.54%
+You are staking 0.00 [SOAK]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SOAK]-[BUSD] Cake LP
+Unstake 0.00 [SOAK]-[BUSD] Cake LP
+Claim 0.00 SOAK ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $63,401.17

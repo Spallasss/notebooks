@@ -1,0 +1,247 @@
+INFO  : https://polygoon.finance
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:35:18 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 15 pools among 2 categories.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WMATIC]-[PolyDoge] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $144,694.09
+WMATIC Price: $1.64
+PolyDoge Price: $0.0000000063
+Staked: 56292484.0491 UNI-V2 ($16,127.21)
+GOON Per Week: 10930.12 ($281.21)
+APR: Day 0.25% Week 1.74% Year 90.67%
+You are staking 0.00 [WMATIC]-[PolyDoge] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PolyDoge] Uni LP - Fee 1.5%
+Unstake 0.00 [WMATIC]-[PolyDoge] Uni LP
+Claim 0.00 GOON ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $188.49 TVL: $122,634,129.84
+WMATIC Price: $1.64
+WETH Price: $3,325.19
+Staked: 2.0598 UNI-V2 ($388.25)
+GOON Per Week: 10930.12 ($281.21)
+APR: Day 10.35% Week 72.43% Year 3766.35%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 GOON ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,919,589.29 TVL: $148,182,341.52
+USDC Price: $1.00
+WETH Price: $3,325.19
+Staked: 0.0000 UNI-V2 ($1,552.12)
+GOON Per Week: 10930.12 ($281.21)
+APR: Day 2.59% Week 18.12% Year 942.12%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 GOON ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,604,730.38 TVL: $33,317,795.24
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0001 UNI-V2 ($574.62)
+GOON Per Week: 10930.12 ($281.21)
+APR: Day 6.99% Week 48.94% Year 2544.78%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 GOON ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $74,975,544.03 TVL: $21,389,168.69
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0001 UNI-V2 ($10,789.80)
+GOON Per Week: 14209.16 ($365.57)
+APR: Day 0.48% Week 3.39% Year 176.18%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 GOON ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,564,425,423,288.96 TVL: $34,043,370.06
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($6,844.71)
+GOON Per Week: 14209.16 ($365.57)
+APR: Day 0.76% Week 5.34% Year 277.73%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 GOON ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+GOON
+ Price: $0.00 Market Cap: $0.00 
+Staked: 346990.5807 GOON ($0.00)
+GOON Per Week: 14764.56 ($379.86)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 GOON ($0.00), NaN% of the pool.
+Stake 0.00 GOON - Fee 0.4%
+Unstake 0.00 GOON
+Claim 0.00 GOON ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+PolyDoge
+ Price: $0.0000000063 Market Cap: $6,280,000.00 
+[%]
+Staked: 14553037614285.8086 PolyDoge ($91,393.08)
+GOON Per Week: 9843.04 ($253.24)
+APR: Day 0.04% Week 0.28% Year 14.41%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 2%
+Unstake 0.00 PolyDoge
+Claim 0.00 GOON ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+WMATIC
+ Price: $1.64 Market Cap: $602,064,535.14 
+[%]
+Staked: 34381.8603 WMATIC ($56,386.25)
+GOON Per Week: 9843.04 ($253.24)
+APR: Day 0.06% Week 0.45% Year 23.35%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 GOON ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+WETH
+ Price: $3,325.19 Market Cap: $2,027,542,943.18 
+[%]
+Staked: 4.4522 WETH ($14,804.33)
+GOON Per Week: 9843.04 ($253.24)
+APR: Day 0.24% Week 1.71% Year 88.95%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 GOON ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+USDT
+ Price: $1.00 Market Cap: $315,032,588.68 
+[%]
+Staked: 4884.8247 USDT ($4,881.02)
+GOON Per Week: 9843.04 ($253.24)
+APR: Day 0.74% Week 5.19% Year 269.79%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 GOON ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+USDC
+ Price: $1.00 Market Cap: $1,043,186,580.68 
+[%]
+Staked: 5146.7365 USDC ($5,141.84)
+GOON Per Week: 9843.04 ($253.24)
+APR: Day 0.70% Week 4.93% Year 256.11%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 GOON ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+DAI
+ Price: $1.00 Market Cap: $376,699,668.04 
+[%]
+Staked: 1254.8074 DAI ($1,253.90)
+GOON Per Week: 9843.04 ($253.24)
+APR: Day 2.89% Week 20.20% Year 1050.21%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 GOON ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WMATIC]-[GOON] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.42 TVL: $12,068.60
+WMATIC Price: $1.64
+GOON Price: $0.03
+Staked: 20069.7898 UNI-V2 ($8,510.22)
+GOON Per Week: 109301.20 ($2,812.09)
+APR: Day 4.72% Week 33.04% Year 1718.27%
+You are staking 0.00 [WMATIC]-[GOON] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[GOON] Uni LP
+Unstake 0.00 [WMATIC]-[GOON] Uni LP
+Claim 0.00 GOON ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+CRYSTL
+ Price: $0.00 Market Cap: $0.00 
+Staked: 42.7132 CRYSTL ($0.00)
+GOON Per Week: 3937.22 ($101.30)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CRYSTL ($0.00), NaN% of the pool.
+Stake 0.00 CRYSTL - Fee 2%
+Unstake 0.00 CRYSTL
+Claim 0.00 GOON ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $218,647.36

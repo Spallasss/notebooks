@@ -1,0 +1,85 @@
+INFO  : https://bsc.farms.yogi.fi
+*********************************************************************************
+
+Mon Aug 23 2021 09:20:20 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 6 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WBNB 20%]-[YOGI 80%]
+ BPT Price: $0.65 TVL: $247,326.21
+WBNB Price: $486.47
+YOGI Price: $0.12
+Staked: 381809.7995 [WBNB 20%]-[YOGI 80%] ($246,556.28)
+YOGI Per Week: 80080.00 ($9,367.59)
+APR: Day 0.54% Week 3.80% Year 197.57%
+You are staking 0.00 [WBNB 20%]-[YOGI 80%] ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB 20%]-[YOGI 80%]
+Unstake 0.00 [WBNB 20%]-[YOGI 80%]
+Claim 0.00 YOGI ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[ETH 50%]-[WBNB 50%]
+ BPT Price: $3.14 TVL: $126,725.05
+ETH Price: $3,332.25
+WBNB Price: $486.47
+Staked: 40394.0245 [ETH 50%]-[WBNB 50%] ($126,724.18)
+YOGI Per Week: 16016.00 ($1,873.52)
+APR: Day 0.21% Week 1.48% Year 76.88%
+You are staking 0.00 [ETH 50%]-[WBNB 50%] ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH 50%]-[WBNB 50%]
+Unstake 0.00 [ETH 50%]-[WBNB 50%]
+Claim 0.00 YOGI ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB 50%]-[BTCB 50%]
+ BPT Price: $NaN.N TVL: $0.70
+WBNB Price: $486.47
+BTCB Price: $49,844.00
+Staked: 0.0000 [WBNB 50%]-[BTCB 50%] ($0.00)
+YOGI Per Week: 16016.00 ($1,873.52)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WBNB 50%]-[BTCB 50%] ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB 50%]-[BTCB 50%]
+Unstake 0.00 [WBNB 50%]-[BTCB 50%]
+Claim 0.00 YOGI ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WBNB 50%]-[BUSD 50%]
+ BPT Price: $3.65 TVL: $189,085.92
+WBNB Price: $486.47
+BUSD Price: $1.00
+Staked: 51779.5739 [WBNB 50%]-[BUSD 50%] ($189,025.21)
+YOGI Per Week: 16016.00 ($1,873.52)
+APR: Day 0.14% Week 0.99% Year 51.54%
+You are staking 0.00 [WBNB 50%]-[BUSD 50%] ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB 50%]-[BUSD 50%]
+Unstake 0.00 [WBNB 50%]-[BUSD 50%]
+Claim 0.00 YOGI ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDC 33.33333333333333%]-[BUSD 33.33333333333333%]-[USDT 33.33333333333333%]
+ BPT Price: $29.94 TVL: $237,924.57
+USDC Price: $1.00
+BUSD Price: $1.00
+USDT Price: $1.00
+Staked: 7947.9487 [USDC 33.33333333333333%]-[BUSD 33.33333333333333%]-[USDT 33.33333333333333%] ($237,924.57)
+YOGI Per Week: 16016.00 ($1,873.52)
+APR: Day 0.11% Week 0.79% Year 40.95%
+You are staking 0.00 [USDC 33.33333333333333%]-[BUSD 33.33333333333333%]-[USDT 33.33333333333333%] ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC 33.33333333333333%]-[BUSD 33.33333333333333%]-[USDT 33.33333333333333%]
+Unstake 0.00 [USDC 33.33333333333333%]-[BUSD 33.33333333333333%]-[USDT 33.33333333333333%]
+Claim 0.00 YOGI ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $800,230.24

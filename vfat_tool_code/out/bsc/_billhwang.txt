@@ -1,0 +1,107 @@
+INFO  : https://www.billhwangdefi.co
+************************************************************************************
+
+Mon Aug 23 2021 09:11:51 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 20 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+6 - 
+BILL
+ Price: $0.000434 Market Cap: $12,658.85 
+[%]
+Staked: 5535761.4335 BILL ($2,401.66)
+BILL Per Week: 195576.80 ($84.85)
+APR: Day 0.50% Week 3.53% Year 183.71%
+You are staking 0.00 BILL ($0.00), 0.00% of the pool.
+Stake 0.00 BILL
+Unstake 0.00 BILL
+Claim 0.00 BILL ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[BILL]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.00 TVL: $5,384.00
+BILL Price: $0.000434
+WBNB Price: $484.12
+Staked: 1091.7795 Cake-LP ($1,093.06)
+BILL Per Week: 283444.64 ($122.97)
+APR: Day 1.61% Week 11.25% Year 585.01%
+You are staking 0.00 [BILL]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BILL]-[WBNB] Cake LP
+Unstake 0.00 [BILL]-[WBNB] Cake LP
+Claim 0.00 BILL ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[BILL]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.04 TVL: $4,522.74
+BILL Price: $0.000434
+BUSD Price: $1.00
+Staked: 15288.0126 Cake-LP ($685.04)
+BILL Per Week: 283444.64 ($122.97)
+APR: Day 2.56% Week 17.95% Year 933.45%
+You are staking 0.00 [BILL]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BILL]-[BUSD] Cake LP
+Unstake 0.00 [BILL]-[BUSD] Cake LP
+Claim 0.00 BILL ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[BILL]-[USDT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.04 TVL: $1,237.08
+BILL Price: $0.000434
+USDT Price: $1.00
+Staked: 28445.2950 Cake-LP ($1,211.35)
+BILL Per Week: 425166.96 ($184.46)
+APR: Day 2.18% Week 15.23% Year 791.82%
+You are staking 0.00 [BILL]-[USDT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BILL]-[USDT] Cake LP
+Unstake 0.00 [BILL]-[USDT] Cake LP
+Claim 0.00 BILL ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[BILL]-[DOT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.23 TVL: $1,111.94
+BILL Price: $0.000434
+DOT Price: $28.00
+Staked: 4763.8921 Cake-LP ($1,087.31)
+BILL Per Week: 425166.96 ($184.46)
+APR: Day 2.42% Week 16.96% Year 882.16%
+You are staking 0.00 [BILL]-[DOT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BILL]-[DOT] Cake LP
+Unstake 0.00 [BILL]-[DOT] Cake LP
+Claim 0.00 BILL ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $6,478.42

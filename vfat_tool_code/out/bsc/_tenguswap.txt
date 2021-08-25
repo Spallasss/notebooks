@@ -1,0 +1,207 @@
+INFO  : https://tenguswap.com
+***************************************************************************************
+
+Mon Aug 23 2021 15:16:03 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 11 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+TENGU
+ Price: $0.07 Market Cap: $543,187.05 
+[%]
+Staked: 1159898.6344 TENGU ($85,700.67)
+TENGU Per Week: 175304.35 ($12,952.60)
+APR: Day 2.16% Week 15.11% Year 785.92%
+You are staking 0.00 TENGU ($0.00), 0.00% of the pool.
+Stake 0.00 TENGU
+Unstake 0.00 TENGU
+Claim 0.00 TENGU ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[TENGU]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.67 TVL: $186,356.12
+TENGU Price: $0.07
+BUSD Price: $1.00
+Staked: 242341.8963 Cake-LP ($161,258.17)
+TENGU Per Week: 876521.74 ($64,762.98)
+APR: Day 5.74% Week 40.16% Year 2088.37%
+You are staking 0.00 [TENGU]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TENGU]-[BUSD] Cake LP
+Unstake 0.00 [TENGU]-[BUSD] Cake LP
+Claim 0.00 TENGU ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[TENGU]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13.73 TVL: $137,883.48
+TENGU Price: $0.07
+WBNB Price: $495.44
+Staked: 7118.1693 Cake-LP ($97,749.74)
+TENGU Per Week: 525913.04 ($38,857.79)
+APR: Day 5.68% Week 39.75% Year 2067.12%
+You are staking 0.00 [TENGU]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TENGU]-[WBNB] Cake LP
+Unstake 0.00 [TENGU]-[WBNB] Cake LP
+Claim 0.00 TENGU ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.32 TVL: $530,874,044.69
+WBNB Price: $495.44
+BUSD Price: $1.00
+Staked: 2731.0486 Cake-LP ($137,427.26)
+TENGU Per Week: 109565.22 ($8,095.37)
+APR: Day 0.84% Week 5.89% Year 306.31%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 TENGU ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,324.23 TVL: $175,787,241.34
+BTCB Price: $49,881.00
+WBNB Price: $495.44
+Staked: 9.0564 Cake-LP ($93,500.13)
+TENGU Per Week: 65739.13 ($4,857.22)
+APR: Day 0.74% Week 5.19% Year 270.13%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 TENGU ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,684.65 TVL: $264,972,370.41
+ETH Price: $3,334.81
+WBNB Price: $495.44
+Staked: 38.7169 Cake-LP ($103,941.31)
+TENGU Per Week: 65739.13 ($4,857.22)
+APR: Day 0.67% Week 4.67% Year 243.00%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 TENGU ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,310,571.29
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 50114.4609 Cake-LP ($102,583.45)
+TENGU Per Week: 43826.09 ($3,238.15)
+APR: Day 0.45% Week 3.16% Year 164.14%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 TENGU ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WBNB
+ Price: $495.44 Market Cap: $3,493,371,107.17 
+[%]
+Staked: 218.6395 WBNB ($108,322.74)
+TENGU Per Week: 43826.09 ($3,238.15)
+APR: Day 0.43% Week 2.99% Year 155.45%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 TENGU ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+BUSD
+ Price: $1.00 Market Cap: $4,197,411,746.51 
+[%]
+Staked: 88530.1147 BUSD ($88,454.51)
+TENGU Per Week: 43826.09 ($3,238.15)
+APR: Day 0.52% Week 3.66% Year 190.36%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 TENGU ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $229.39 TVL: $1,049,422,560.86
+Cake Price: $25.40
+WBNB Price: $495.44
+Staked: 198.1956 Cake-LP ($45,464.52)
+TENGU Per Week: 43826.09 ($3,238.15)
+APR: Day 1.02% Week 7.12% Year 370.36%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 TENGU ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $158,012,624.57
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 16158.7622 Cake-LP ($33,266.20)
+TENGU Per Week: 21913.04 ($1,619.07)
+APR: Day 0.70% Week 4.87% Year 253.09%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 TENGU ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,057,668.68

@@ -1,0 +1,329 @@
+INFO  : https://bsc.dojofarm.finance
+********************************************************************************************
+
+Mon Aug 23 2021 09:30:51 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 20 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[DOJO]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.42 TVL: $908.53
+DOJO Price: $0.005168
+WBNB Price: $488.03
+Staked: 88.2883 Cake-LP ($302.05)
+DOJO Per Week: 9947.37 ($51.40)
+APR: Day 2.43% Week 17.02% Year 884.94%
+You are staking 0.00 [DOJO]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOJO]-[WBNB] Cake LP
+Unstake 0.00 [DOJO]-[WBNB] Cake LP
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[DOJO]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.18 TVL: $277.33
+DOJO Price: $0.005168
+BUSD Price: $1.00
+Staked: 1069.4301 Cake-LP ($189.22)
+DOJO Per Week: 9947.37 ($51.40)
+APR: Day 3.88% Week 27.17% Year 1412.64%
+You are staking 0.00 [DOJO]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOJO]-[BUSD] Cake LP
+Unstake 0.00 [DOJO]-[BUSD] Cake LP
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+DOJO
+ Price: $0.005168 Market Cap: $1,549.99 
+[%]
+Staked: 99797.6449 DOJO ($515.71)
+DOJO Per Week: 7957.89 ($41.12)
+APR: Day 1.14% Week 7.97% Year 414.65%
+You are staking 0.00 DOJO ($0.00), 0.00% of the pool.
+Stake 0.00 DOJO
+Unstake 0.00 DOJO
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WBNB
+ Price: $488.03 Market Cap: $3,446,893,135.79 
+[%]
+Staked: 1.0645 WBNB ($519.53)
+DOJO Per Week: 1326.32 ($6.85)
+APR: Day 0.19% Week 1.32% Year 68.60%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 2%
+Unstake 0.00 WBNB
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+BUSD
+ Price: $1.00 Market Cap: $4,196,932,832.58 
+[%]
+Staked: 5543.0998 BUSD ($5,537.73)
+DOJO Per Week: 1326.32 ($6.85)
+APR: Day 0.02% Week 0.12% Year 6.44%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 2%
+Unstake 0.00 BUSD
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.94 TVL: $529,556,631.41
+WBNB Price: $488.03
+BUSD Price: $1.00
+Staked: 25.0505 Cake-LP ($1,251.02)
+DOJO Per Week: 1326.32 ($6.85)
+APR: Day 0.08% Week 0.55% Year 28.49%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+BTCB
+ Price: $49,844.00 Market Cap: $4,261,711,844.00 
+[%]
+Staked: 0.2208 BTCB ($11,005.56)
+DOJO Per Week: 1326.32 ($6.85)
+APR: Day 0.01% Week 0.06% Year 3.24%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 2%
+Unstake 0.00 BTCB
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+ETH
+ Price: $3,334.33 Market Cap: $4,351,300,650.00 
+[%]
+Staked: 2.9005 ETH ($9,671.13)
+DOJO Per Week: 1326.32 ($6.85)
+APR: Day 0.01% Week 0.07% Year 3.69%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 2%
+Unstake 0.00 ETH
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+Cake
+ Price: $25.13 Market Cap: $10,457,481,187.39 
+[%]
+Staked: 2.4241 Cake ($60.92)
+DOJO Per Week: 1326.32 ($6.85)
+APR: Day 1.61% Week 11.25% Year 585.05%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 2%
+Unstake 0.00 Cake
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 432.0112 USDT ($431.93)
+DOJO Per Week: 1326.32 ($6.85)
+APR: Day 0.23% Week 1.59% Year 82.51%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 2%
+Unstake 0.00 USDT
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,971,738.00 
+[%]
+Staked: 1499.2237 USDC ($1,498.36)
+DOJO Per Week: 1326.32 ($6.85)
+APR: Day 0.07% Week 0.46% Year 23.79%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 2%
+Unstake 0.00 USDC
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 134.9630 DAI ($134.96)
+DOJO Per Week: 1326.32 ($6.85)
+APR: Day 0.73% Week 5.08% Year 264.07%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 2%
+Unstake 0.00 DAI
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+LINK
+ Price: $28.73 Market Cap: $247,078,000.00 
+[%]
+Staked: 3.0885 LINK ($88.73)
+DOJO Per Week: 1326.32 ($6.85)
+APR: Day 1.10% Week 7.72% Year 401.65%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 2%
+Unstake 0.00 LINK
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,283,574.60
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 53.1527 Cake-LP ($108.80)
+DOJO Per Week: 1326.32 ($6.85)
+APR: Day 0.90% Week 6.30% Year 327.58%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $226.45 TVL: $1,036,354,880.84
+Cake Price: $25.13
+WBNB Price: $488.03
+Staked: 0.4422 Cake-LP ($100.14)
+DOJO Per Week: 1326.32 ($6.85)
+APR: Day 0.98% Week 6.84% Year 355.91%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[WBNB]-[LINK] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $241.97 TVL: $47,818,423.18
+WBNB Price: $488.03
+LINK Price: $28.73
+Staked: 0.5283 Cake-LP ($127.84)
+DOJO Per Week: 1326.32 ($6.85)
+APR: Day 0.77% Week 5.36% Year 278.79%
+You are staking 0.00 [WBNB]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LINK] Cake LP - Fee 2%
+Unstake 0.00 [WBNB]-[LINK] Cake LP
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,242.92 TVL: $174,401,398.56
+BTCB Price: $49,844.00
+WBNB Price: $488.03
+Staked: 0.1930 Cake-LP ($1,977.24)
+DOJO Per Week: 1326.32 ($6.85)
+APR: Day 0.05% Week 0.35% Year 18.02%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,664.33 TVL: $262,968,667.25
+ETH Price: $3,334.33
+WBNB Price: $488.03
+Staked: 0.7379 Cake-LP ($1,965.88)
+DOJO Per Week: 1326.32 ($6.85)
+APR: Day 0.05% Week 0.35% Year 18.13%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,995,001.62
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 360.6655 Cake-LP ($742.46)
+DOJO Per Week: 1326.32 ($6.85)
+APR: Day 0.13% Week 0.92% Year 48.00%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[USDT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.82 TVL: $253,031,461.67
+USDT Price: $1.00
+WBNB Price: $488.03
+Staked: 1.4828 Cake-LP ($75.36)
+DOJO Per Week: 1326.32 ($6.85)
+APR: Day 1.30% Week 9.09% Year 472.92%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 DOJO ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $36,304.55

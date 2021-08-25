@@ -1,0 +1,220 @@
+INFO  : https://polypizza.farm
+*************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:47:48 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 15 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[PIZZA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $57,686.92 TVL: $0.86
+USDC Price: $1.00
+PIZZA Price: $0.000783
+Staked: 0.0000 UNI-V2 ($0.81)
+PIZZA Per Week: 854.60 ($0.67)
+APR: Day 11.73% Week 82.14% Year 4271.43%
+You are staking 0.00 [USDC]-[PIZZA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[PIZZA] Uni LP
+Unstake 0.00 [USDC]-[PIZZA] Uni LP
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[PIZZA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.07 TVL: $0.97
+WMATIC Price: $1.64
+PIZZA Price: $0.000783
+Staked: 13.2137 UNI-V2 ($0.97)
+PIZZA Per Week: 854.60 ($0.67)
+APR: Day 9.87% Week 69.08% Year 3592.26%
+You are staking 0.00 [WMATIC]-[PIZZA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PIZZA] Uni LP
+Unstake 0.00 [WMATIC]-[PIZZA] Uni LP
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+PIZZA
+ Price: $0.000783 Market Cap: $2.61 
+[%]
+Staked: 1707.0571 PIZZA ($1.34)
+PIZZA Per Week: 59.82 ($0.05)
+APR: Day 0.50% Week 3.50% Year 182.23%
+You are staking 0.00 PIZZA ($0.00), 0.00% of the pool.
+Stake 0.00 PIZZA
+Unstake 0.00 PIZZA
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,603,753.65 TVL: $33,312,327.35
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.40)
+PIZZA Per Week: 128.19 ($0.10)
+APR: Day 3.57% Week 24.96% Year 1297.67%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WMATIC
+ Price: $1.64 Market Cap: $603,073,067.12 
+[%]
+Staked: 58.1514 WMATIC ($95.37)
+PIZZA Per Week: 128.19 ($0.10)
+APR: Day 0.02% Week 0.11% Year 5.47%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+DAI
+ Price: $1.00 Market Cap: $376,570,223.86 
+[%]
+Staked: 0.0010 DAI ($0.00)
+PIZZA Per Week: 85.46 ($0.07)
+APR: Day 940.34% Week 6582.37% Year 342283.24%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+USDT
+ Price: $1.00 Market Cap: $314,972,885.37 
+[%]
+Staked: 4.2551 USDT ($4.25)
+PIZZA Per Week: 85.46 ($0.07)
+APR: Day 0.22% Week 1.57% Year 81.82%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+USDC
+ Price: $1.00 Market Cap: $1,042,436,808.43 
+[%]
+Staked: 10.8544 USDC ($10.84)
+PIZZA Per Week: 85.46 ($0.07)
+APR: Day 0.09% Week 0.62% Year 32.09%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+QUICK
+ Price: $725.76 Market Cap: $694,745,862.95 
+[%]
+Staked: 0.0000 QUICK ($0.00)
+PIZZA Per Week: 85.46 ($0.07)
+APR: Day 1262.97% Week 8840.79% Year 459720.92%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+WETH
+ Price: $3,320.62 Market Cap: $2,024,693,195.56 
+[%]
+Staked: 0.0000 WETH ($0.00)
+PIZZA Per Week: 85.46 ($0.07)
+APR: Day 287768420927479.00% Week 2014378946492353.00% Year 104747705217602352.00%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+WBTC
+ Price: $50,014.00 Market Cap: $696,887,935.72 
+[%]
+Staked: 0.0003 WBTC ($16.61)
+PIZZA Per Week: 85.46 ($0.07)
+APR: Day 0.06% Week 0.40% Year 20.94%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+AAVE
+ Price: $408.08 Market Cap: $155,202,853.39 
+[%]
+Staked: 0.0292 AAVE ($11.92)
+PIZZA Per Week: 85.46 ($0.07)
+APR: Day 0.08% Week 0.56% Year 29.18%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+SUSHI
+ Price: $13.79 Market Cap: $13,993,738.77 
+[%]
+Staked: 0.0000 SUSHI ($0.00)
+PIZZA Per Week: 85.46 ($0.07)
+APR: Day 69294385344467400.00% Week 485060697411271808.00% Year 25223156265386135552.00%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 4%
+Unstake 0.00 SUSHI
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+FISH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0035 FISH ($0.00)
+PIZZA Per Week: 85.46 ($0.07)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+Stake 0.00 FISH - Fee 4%
+Unstake 0.00 FISH
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+LINK
+ Price: $28.57 Market Cap: $64,832,014.27 
+[%]
+Staked: 0.0000 LINK ($0.00)
+PIZZA Per Week: 85.46 ($0.07)
+APR: Day 744.45% Week 5211.14% Year 270979.45%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $142.51

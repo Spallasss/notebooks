@@ -1,0 +1,134 @@
+INFO  : https://ellipsis.finance
+*************************************************************************************
+
+Mon Aug 23 2021 13:58:00 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 9 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[EPS]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $42.27 TVL: $25,151,655.99
+EPS Price: $0.78
+WBNB Price: $483.47
+Staked: 591587.5433 Cake-LP ($25,006,412.47)
+EPS Per Week: 916363.64 ($719,015.56)
+APR: Day 0.41% Week 2.88% Year 149.52%
+You are staking 0.00 [EPS]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [EPS]-[WBNB] Cake LP
+Unstake 0.00 [EPS]-[WBNB] Cake LP
+Claim 0.00 EPS ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+3EPS
+ Price: $1.04 Market Cap: $640,225,434.25 
+[%]
+Staked: 307526872.2837 3EPS ($319,274,600.07)
+EPS Per Week: 1556105.51 ($1,220,982.63)
+APR: Day 0.05% Week 0.38% Year 19.89%
+You are staking 0.00 3EPS ($0.00), 0.00% of the pool.
+Stake 0.00 3EPS
+Unstake 0.00 3EPS
+Claim 0.00 EPS ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+fusdt3EPS
+ Price: $1.03 Market Cap: $1,100,886.38 
+[%]
+Staked: 1006299.8863 fusdt3EPS ($1,033,656.29)
+EPS Per Week: 5091.94 ($3,995.34)
+APR: Day 0.06% Week 0.39% Year 20.10%
+You are staking 0.00 fusdt3EPS ($0.00), 0.00% of the pool.
+Stake 0.00 fusdt3EPS
+Unstake 0.00 fusdt3EPS
+Claim 0.00 EPS ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+btcEPS
+ Price: $50,342.45 Market Cap: $17,462,924.06 
+[%]
+Staked: 181.7497 btcEPS ($9,149,726.56)
+EPS Per Week: 0.92 ($0.72)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 btcEPS ($0.00), 0.00% of the pool.
+Stake 0.00 btcEPS
+Unstake 0.00 btcEPS
+Claim 0.00 EPS ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+dai3EPS
+ Price: $1.02 Market Cap: $1,009,263.61 
+[%]
+Staked: 985594.6511 dai3EPS ($1,006,837.73)
+EPS Per Week: 4987.17 ($3,913.13)
+APR: Day 0.06% Week 0.39% Year 20.21%
+You are staking 0.00 dai3EPS ($0.00), 0.00% of the pool.
+Stake 0.00 dai3EPS
+Unstake 0.00 dai3EPS
+Claim 0.00 EPS ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+tusd3EPS
+ Price: $1.02 Market Cap: $604,958,061.28 
+[%]
+Staked: 593323158.5440 tusd3EPS ($604,958,033.25)
+EPS Per Week: 3002252.87 ($2,355,687.69)
+APR: Day 0.06% Week 0.39% Year 20.25%
+You are staking 0.00 tusd3EPS ($0.00), 0.00% of the pool.
+Stake 0.00 tusd3EPS
+Unstake 0.00 tusd3EPS
+Claim 0.00 EPS ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+pbtcEPS
+ Price: $1.00 Market Cap: $315.82 
+[%]
+Staked: 314.7023 pbtcEPS ($315.28)
+EPS Per Week: 1.59 ($1.25)
+APR: Day 0.06% Week 0.40% Year 20.61%
+You are staking 0.00 pbtcEPS ($0.00), 0.00% of the pool.
+Stake 0.00 pbtcEPS
+Unstake 0.00 pbtcEPS
+Claim 0.00 EPS ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+anybtcEPS
+ Price: $1.00 Market Cap: $158.17 
+[%]
+Staked: 158.0050 anybtcEPS ($158.17)
+EPS Per Week: 0.80 ($0.63)
+APR: Day 0.06% Week 0.40% Year 20.62%
+You are staking 0.00 anybtcEPS ($0.00), 0.00% of the pool.
+Stake 0.00 anybtcEPS
+Unstake 0.00 anybtcEPS
+Claim 0.00 EPS ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+usdn3EPS
+ Price: $1.01 Market Cap: $2,715,714.59 
+[%]
+Staked: 2643716.8994 usdn3EPS ($2,660,709.87)
+EPS Per Week: 13377.38 ($10,496.42)
+APR: Day 0.06% Week 0.39% Year 20.51%
+You are staking 0.00 usdn3EPS ($0.00), 0.00% of the pool.
+Stake 0.00 usdn3EPS
+Unstake 0.00 usdn3EPS
+Claim 0.00 EPS ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $963,090,449.69

@@ -1,0 +1,47 @@
+INFO  : https://swirl.cash/mining
+****************************************************************************
+
+Mon Aug 23 2021 14:02:53 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+SWIRL
+ Price: $0.35 Market Cap: $1,769,730.00 
+[%]
+Staked: 1145708.9711 SWIRL ($405,519.11)
+SWIRL Per Week: 15120.00 ($5,351.66)
+APR: Day 0.19% Week 1.32% Year 68.62%
+You are staking 0.00 SWIRL ($0.00), 0.00% of the pool.
+Stake 0.00 SWIRL
+Unstake 0.00 SWIRL
+Claim 0.00 SWIRL ($0.00)
+Staking or unstaking also claims rewards.
+[SWIRL]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $28.08 TVL: $573,221.84
+SWIRL Price: $0.35
+WBNB Price: $483.66
+Staked: 1034.3898 Cake-LP ($29,050.82)
+SWIRL Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SWIRL]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SWIRL]-[WBNB] Cake LP
+Unstake 0.00 [SWIRL]-[WBNB] Cake LP
+Claim 0.00 SWIRL ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $434,569.93

@@ -1,0 +1,220 @@
+INFO  : https://polybean.farm
+*************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:42:05 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 15 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[BEAN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $14,622.87 TVL: $0.52
+USDC Price: $1.00
+BEAN Price: $0.0000498610
+Staked: 0.0000 UNI-V2 ($0.31)
+BEAN Per Week: 9191.49 ($0.46)
+APR: Day 20.80% Week 145.60% Year 7571.02%
+You are staking 0.00 [USDC]-[BEAN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BEAN] Uni LP
+Unstake 0.00 [USDC]-[BEAN] Uni LP
+Claim 0.00 BEAN ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[BEAN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $1.22
+WMATIC Price: $1.64
+BEAN Price: $0.0000498610
+Staked: 64.4342 UNI-V2 ($1.21)
+BEAN Per Week: 9191.49 ($0.46)
+APR: Day 5.40% Week 37.83% Year 1967.31%
+You are staking 0.00 [WMATIC]-[BEAN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[BEAN] Uni LP
+Unstake 0.00 [WMATIC]-[BEAN] Uni LP
+Claim 0.00 BEAN ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+BEAN
+ Price: $0.0000498610 Market Cap: $1.65 
+[%]
+Staked: 10133.4666 BEAN ($0.51)
+BEAN Per Week: 4595.74 ($0.23)
+APR: Day 6.48% Week 45.35% Year 2358.31%
+You are staking 0.00 BEAN ($0.00), 0.00% of the pool.
+Stake 0.00 BEAN
+Unstake 0.00 BEAN
+Claim 0.00 BEAN ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,603,653.54 TVL: $33,310,019.20
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($2.82)
+BEAN Per Week: 612.77 ($0.03)
+APR: Day 0.15% Week 1.08% Year 56.30%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 BEAN ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WMATIC
+ Price: $1.64 Market Cap: $602,987,837.50 
+[%]
+Staked: 1.4529 WMATIC ($2.38)
+BEAN Per Week: 612.77 ($0.03)
+APR: Day 0.18% Week 1.28% Year 66.68%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 BEAN ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+DAI
+ Price: $1.00 Market Cap: $376,567,350.39 
+[%]
+Staked: 0.0099 DAI ($0.01)
+BEAN Per Week: 459.57 ($0.02)
+APR: Day 32.97% Week 230.81% Year 12001.94%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 BEAN ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+USDT
+ Price: $1.00 Market Cap: $314,975,208.11 
+[%]
+Staked: 0.2019 USDT ($0.20)
+BEAN Per Week: 459.57 ($0.02)
+APR: Day 1.62% Week 11.36% Year 590.61%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 BEAN ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+USDC
+ Price: $1.00 Market Cap: $1,042,696,644.60 
+[%]
+Staked: 1.0059 USDC ($1.00)
+BEAN Per Week: 459.57 ($0.02)
+APR: Day 0.33% Week 2.28% Year 118.63%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 BEAN ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+QUICK
+ Price: $726.19 Market Cap: $695,157,487.62 
+[%]
+Staked: 0.0000 QUICK ($0.00)
+BEAN Per Week: 459.57 ($0.02)
+APR: Day 77.06% Week 539.41% Year 28049.42%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 BEAN ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+WETH
+ Price: $3,323.15 Market Cap: $2,026,232,744.03 
+[%]
+Staked: 0.0003 WETH ($0.84)
+BEAN Per Week: 459.57 ($0.02)
+APR: Day 0.39% Week 2.73% Year 141.75%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 BEAN ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+WBTC
+ Price: $50,057.00 Market Cap: $697,487,091.58 
+[%]
+Staked: 0.0000 WBTC ($0.01)
+BEAN Per Week: 459.57 ($0.02)
+APR: Day 26.16% Week 183.11% Year 9521.71%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 BEAN ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+AAVE
+ Price: $408.38 Market Cap: $155,316,950.77 
+[%]
+Staked: 0.0000 AAVE ($0.02)
+BEAN Per Week: 459.57 ($0.02)
+APR: Day 20.92% Week 146.42% Year 7613.65%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 BEAN ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+SUSHI
+ Price: $13.81 Market Cap: $13,999,001.70 
+[%]
+Staked: 0.0012 SUSHI ($0.02)
+BEAN Per Week: 459.57 ($0.02)
+APR: Day 20.10% Week 140.68% Year 7315.60%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 4%
+Unstake 0.00 SUSHI
+Claim 0.00 BEAN ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+FISH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 78.6222 FISH ($0.00)
+BEAN Per Week: 459.57 ($0.02)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+Stake 0.00 FISH - Fee 4%
+Unstake 0.00 FISH
+Claim 0.00 BEAN ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+LINK
+ Price: $28.61 Market Cap: $64,922,783.63 
+[%]
+Staked: 0.0000 LINK ($0.00)
+BEAN Per Week: 459.57 ($0.02)
+APR: Day 1127843092573.82% Week 7894901648016.75% Year 410534885696870.81%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 BEAN ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $9.34

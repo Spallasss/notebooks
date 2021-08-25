@@ -1,0 +1,227 @@
+INFO  : https://polygon.cosmicswap.finance
+******************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:41:05 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 22 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[COSMIC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,337,415.65 TVL: $64,169.10
+USDC Price: $1.00
+COSMIC Price: $1.27
+Staked: 0.0060 UNI-V2 ($14,073.81)
+COSMIC Per Week: 819.78 ($1,040.81)
+APR: Day 1.06% Week 7.40% Year 384.56%
+You are staking 0.00 [USDC]-[COSMIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[COSMIC] Uni LP
+Unstake 0.00 [USDC]-[COSMIC] Uni LP
+Claim 0.00 COSMIC ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[COSMIC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.01 TVL: $75,630.65
+WMATIC Price: $1.65
+COSMIC Price: $1.27
+Staked: 7512.0922 UNI-V2 ($22,645.51)
+COSMIC Per Week: 819.78 ($1,040.81)
+APR: Day 0.66% Week 4.60% Year 239.00%
+You are staking 0.00 [WMATIC]-[COSMIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[COSMIC] Uni LP
+Unstake 0.00 [WMATIC]-[COSMIC] Uni LP
+Claim 0.00 COSMIC ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WMATIC]-[PolyDoge] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $145,780.79
+WMATIC Price: $1.65
+PolyDoge Price: $0.0000000063
+Staked: 16240702.4905 UNI-V2 ($4,687.80)
+COSMIC Per Week: 256.18 ($325.25)
+APR: Day 0.99% Week 6.94% Year 360.79%
+You are staking 0.00 [WMATIC]-[PolyDoge] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PolyDoge] Uni LP - Fee 3%
+Unstake 0.00 [WMATIC]-[PolyDoge] Uni LP
+Claim 0.00 COSMIC ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[USDC]-[IRON] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64,761,368.97 TVL: $194,249.27
+USDC Price: $1.00
+IRON Price: $0.93
+Staked: 0.0001 UNI-V2 ($4,544.39)
+COSMIC Per Week: 307.42 ($390.30)
+APR: Day 1.23% Week 8.59% Year 446.61%
+You are staking 0.00 [USDC]-[IRON] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[IRON] Uni LP - Fee 3%
+Unstake 0.00 [USDC]-[IRON] Uni LP
+Claim 0.00 COSMIC ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+COSMIC
+ Price: $1.27 Market Cap: $207,236.18 
+[%]
+Staked: 31615.5128 COSMIC ($40,139.41)
+COSMIC Per Week: 409.89 ($520.40)
+APR: Day 0.19% Week 1.30% Year 67.42%
+You are staking 0.00 COSMIC ($0.00), 0.00% of the pool.
+Stake 0.00 COSMIC
+Unstake 0.00 COSMIC
+Claim 0.00 COSMIC ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+USDC
+ Price: $1.00 Market Cap: $1,046,687,904.66 
+[%]
+Staked: 18480.4248 USDC ($18,452.46)
+COSMIC Per Week: 307.42 ($390.30)
+APR: Day 0.30% Week 2.12% Year 109.99%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 3%
+Unstake 0.00 USDC
+Claim 0.00 COSMIC ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+WETH
+ Price: $3,330.14 Market Cap: $2,033,444,888.27 
+[%]
+Staked: 3.0424 WETH ($10,131.50)
+COSMIC Per Week: 102.47 ($130.10)
+APR: Day 0.18% Week 1.28% Year 66.77%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 3%
+Unstake 0.00 WETH
+Claim 0.00 COSMIC ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,617,382.07 TVL: $33,422,699.53
+WMATIC Price: $1.65
+USDC Price: $1.00
+Staked: 0.0004 UNI-V2 ($1,960.33)
+COSMIC Per Week: 102.47 ($130.10)
+APR: Day 0.95% Week 6.64% Year 345.11%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 3%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 COSMIC ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[COSMIC]-[ARTH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.29 TVL: $12,705.11
+COSMIC Price: $1.27
+ARTH Price: $2.11
+Staked: 3858.6854 UNI-V2 ($12,690.46)
+COSMIC Per Week: 819.78 ($1,040.81)
+APR: Day 1.17% Week 8.20% Year 426.48%
+You are staking 0.00 [COSMIC]-[ARTH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COSMIC]-[ARTH] Uni LP - Fee 3%
+Unstake 0.00 [COSMIC]-[ARTH] Uni LP
+Claim 0.00 COSMIC ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[USDC]-[ARTH] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,902,057.38 TVL: $372,030.42
+USDC Price: $1.00
+ARTH Price: $2.11
+Staked: 0.0023 DFYNLP ($9,032.98)
+COSMIC Per Week: 614.84 ($780.60)
+APR: Day 1.23% Week 8.64% Year 449.37%
+You are staking 0.00 [USDC]-[ARTH] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[ARTH] DFYN LP - Fee 3%
+Unstake 0.00 [USDC]-[ARTH] DFYN LP
+Claim 0.00 COSMIC ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[ARTH]-[MAHA] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.76 TVL: $195,461.68
+ARTH Price: $2.11
+MAHA Price: $3.81
+Staked: 3265.6110 DFYNLP ($18,825.07)
+COSMIC Per Week: 409.89 ($520.40)
+APR: Day 0.39% Week 2.76% Year 143.75%
+You are staking 0.00 [ARTH]-[MAHA] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ARTH]-[MAHA] DFYN LP - Fee 3%
+Unstake 0.00 [ARTH]-[MAHA] DFYN LP
+Claim 0.00 COSMIC ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[FISH]-[COSMIC] PolyCat LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.31 TVL: $5,201.12
+FISH Price: $5.55
+COSMIC Price: $1.27
+Staked: 977.8002 CAT-LP ($5,191.06)
+COSMIC Per Week: 409.89 ($520.40)
+APR: Day 1.43% Week 10.02% Year 521.30%
+You are staking 0.00 [FISH]-[COSMIC] PolyCat LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FISH]-[COSMIC] PolyCat LP
+Unstake 0.00 [FISH]-[COSMIC] PolyCat LP
+Claim 0.00 COSMIC ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $162,374.78

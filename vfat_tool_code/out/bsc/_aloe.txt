@@ -1,0 +1,222 @@
+INFO  : https://aloeswap.com
+*******************************************************************************
+
+Mon Aug 23 2021 14:39:11 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 14 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[ALOE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6.94 TVL: $0.00
+ALOE Price: $0.02
+WBNB Price: $484.17
+Staked: 0.0000 Cake-LP ($0.00)
+ALOE Per Week: 4.20 ($0.10)
+APR: Day 232730149.30% Week 1629111045.08% Year 84713774344.18%
+You are staking 0.00 [ALOE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALOE]-[WBNB] Cake LP
+Unstake 0.00 [ALOE]-[WBNB] Cake LP
+Claim 0.00 ALOE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[ALOE]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $122.73 TVL: $0.00
+ALOE Price: $0.02
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+ALOE Per Week: 4.20 ($0.10)
+APR: Day 91826.80% Week 642787.58% Year 33424954.11%
+You are staking 0.00 [ALOE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALOE]-[BUSD] Cake LP
+Unstake 0.00 [ALOE]-[BUSD] Cake LP
+Claim 0.00 ALOE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+ALOE
+ Price: $0.02 Market Cap: $14,809.92 
+[%]
+Staked: 443152.6238 ALOE ($11,003.87)
+ALOE Per Week: 4198.25 ($104.25)
+APR: Day 0.14% Week 0.95% Year 49.26%
+You are staking 0.00 ALOE ($0.00), 0.00% of the pool.
+Stake 0.00 ALOE
+Unstake 0.00 ALOE
+Claim 0.00 ALOE ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WBNB
+ Price: $484.17 Market Cap: $3,428,333,372.05 
+[%]
+Staked: 0.0034 WBNB ($1.63)
+ALOE Per Week: 839.65 ($20.85)
+APR: Day 183.09% Week 1281.60% Year 66643.34%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 ALOE ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 0.9854 USDT ($0.99)
+ALOE Per Week: 839.65 ($20.85)
+APR: Day 302.33% Week 2116.32% Year 110048.70%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 ALOE ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+ETH
+ Price: $3,330.87 Market Cap: $4,346,785,350.00 
+[%]
+Staked: 0.0000 ETH ($0.00)
+ALOE Per Week: 839.65 ($20.85)
+APR: Day 9314587.61% Week 65202113.28% Year 3390509890.50%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 ALOE ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+BUSD
+ Price: $1.00 Market Cap: $4,196,088,431.70 
+[%]
+Staked: 2.3658 BUSD ($2.36)
+ALOE Per Week: 839.65 ($20.85)
+APR: Day 126.04% Week 882.31% Year 45880.18%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 ALOE ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 10.1921 DAI ($10.19)
+ALOE Per Week: 839.65 ($20.85)
+APR: Day 29.22% Week 204.56% Year 10637.24%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 ALOE ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,137,387.00 
+[%]
+Staked: 10.7747 USDC ($10.76)
+ALOE Per Week: 839.65 ($20.85)
+APR: Day 27.67% Week 193.71% Year 10072.69%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 ALOE ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+Cake
+ Price: $25.01 Market Cap: $10,407,357,583.52 
+[%]
+Staked: 7.0901 Cake ($177.32)
+ALOE Per Week: 839.65 ($20.85)
+APR: Day 1.68% Week 11.76% Year 611.41%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 ALOE ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.0000 BTCB ($0.00)
+ALOE Per Week: 839.65 ($20.85)
+APR: Day 6352673505.41% Week 44468714537.88% Year 2312373155969.98%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 ALOE ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[ALOE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $17.19 TVL: $1,941.00
+ALOE Price: $0.02
+WBNB Price: $484.17
+Staked: 79.1975 Cake-LP ($1,361.33)
+ALOE Per Week: 4198.25 ($104.25)
+APR: Day 1.09% Week 7.66% Year 398.20%
+You are staking 0.00 [ALOE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALOE]-[WBNB] Cake LP
+Unstake 0.00 [ALOE]-[WBNB] Cake LP
+Claim 0.00 ALOE ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[ALOE]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.84 TVL: $307.34
+ALOE Price: $0.02
+BUSD Price: $1.00
+Staked: 305.3338 Cake-LP ($257.06)
+ALOE Per Week: 4198.25 ($104.25)
+APR: Day 5.79% Week 40.55% Year 2108.75%
+You are staking 0.00 [ALOE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALOE]-[BUSD] Cake LP
+Unstake 0.00 [ALOE]-[BUSD] Cake LP
+Claim 0.00 ALOE ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.74 TVL: $527,393,159.39
+WBNB Price: $484.17
+BUSD Price: $1.00
+Staked: 8.2944 Cake-LP ($412.53)
+ALOE Per Week: 839.65 ($20.85)
+APR: Day 0.72% Week 5.05% Year 262.81%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 ALOE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $13,238.05

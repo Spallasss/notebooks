@@ -1,0 +1,111 @@
+INFO  : https://v0.dfx.finance
+************************************************************************
+
+Mon Aug 23 2021 15:33:19 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+Staking Contract
+Showing pool 172 only.
+
+172 - 
+[DFX]-[WETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $87.65 TVL: $1,016,051.34
+DFX Price: $0.50
+WETH Price: $3,330.58
+Staked: 1229.6903 SLP ($107,786.77)
+SUSHI Per Week: 109.19 ($1,519.87)
+APR: Day 0.20% Week 1.41% Year 73.32%
+You are staking 0.00 [DFX]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [DFX]-[WETH] SLP
+Unstake 0.00 [DFX]-[WETH] SLP
+Claim 0.00 SUSHI ($0.00)
+Staking or unstaking also claims rewards.
+[EURS 50%]-[USDC 50%]
+ BPT Price: $257.32 TVL: $71,452.15
+EURS Price: $1.18
+USDC Price: $1.00
+Staked: 177.6833 [EURS 50%]-[USDC 50%] ($45,720.62)
+DFX Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [EURS 50%]-[USDC 50%] $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [EURS 50%]-[USDC 50%]
+Unstake 0.000000 [EURS 50%]-[USDC 50%]
+Claim 0.000000 DFX ($0.00)
+Revoke (set approval to 0)
+Exit
+[CADC 50%]-[USDC 50%]
+ BPT Price: $0.08 TVL: $197.80
+CADC Price: $0.72
+USDC Price: $1.00
+Staked: 2532.8831 [CADC 50%]-[USDC 50%] ($190.29)
+DFX Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [CADC 50%]-[USDC 50%] $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [CADC 50%]-[USDC 50%]
+Unstake 0.000000 [CADC 50%]-[USDC 50%]
+Claim 0.000000 DFX ($0.00)
+Revoke (set approval to 0)
+Exit
+[XSGD 50%]-[USDC 50%]
+ BPT Price: $0.10 TVL: $145,981.27
+XSGD Price: $0.74
+USDC Price: $1.00
+Staked: 1443536.2506 [XSGD 50%]-[USDC 50%] ($145,970.17)
+DFX Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [XSGD 50%]-[USDC 50%] $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [XSGD 50%]-[USDC 50%]
+Unstake 0.000000 [XSGD 50%]-[USDC 50%]
+Claim 0.000000 DFX ($0.00)
+Revoke (set approval to 0)
+Exit
+dfx-cadc-a
+ Price: $0.00 Market Cap: $0.00 
+Staked: 3613539.0383 dfx-cadc-a ($0.00)
+DFX Per Week: 44236.03 ($22,088.73)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 dfx-cadc-a $0.00 (NaN% of the pool).
+Etherscan
+Stake 0.000000 dfx-cadc-a
+Unstake 0.000000 dfx-cadc-a
+Claim 0.000000 DFX ($0.00)
+Revoke (set approval to 0)
+Exit
+dfx-eurs-a
+ Price: $0.00 Market Cap: $0.00 
+Staked: 3220247.8758 dfx-eurs-a ($0.00)
+DFX Per Week: 44236.03 ($22,088.73)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 dfx-eurs-a $0.00 (NaN% of the pool).
+Etherscan
+Stake 0.000000 dfx-eurs-a
+Unstake 0.000000 dfx-eurs-a
+Claim 0.000000 DFX ($0.00)
+Revoke (set approval to 0)
+Exit
+dfx-xsgd-a
+ Price: $0.00 Market Cap: $0.00 
+Staked: 4756699.5112 dfx-xsgd-a ($0.00)
+DFX Per Week: 44236.03 ($22,088.73)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 dfx-xsgd-a $0.00 (NaN% of the pool).
+Etherscan
+Stake 0.000000 dfx-xsgd-a
+Unstake 0.000000 dfx-xsgd-a
+Claim 0.000000 DFX ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $191,881.08

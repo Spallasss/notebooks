@@ -1,0 +1,271 @@
+INFO  : 
+Https://PlolyUnicorn.org
+
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:57:40 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 17 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+CORN
+ Price: $0.00 Market Cap: $0.00 
+Staked: 16017.5741 CORN ($0.00)
+CORN Per Week: 5760.00 ($16.69)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CORN ($0.00), NaN% of the pool.
+Stake 0.00 CORN
+Unstake 0.00 CORN
+Claim 0.00 CORN ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[USDC]-[CORN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $112,232.29 TVL: $52.98
+USDC Price: $1.00
+CORN Price: $0.002898
+Staked: 0.0004 UNI-V2 ($44.78)
+CORN Per Week: 11520.00 ($33.38)
+APR: Day 10.65% Week 74.54% Year 3875.95%
+You are staking 0.00 [USDC]-[CORN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[CORN] Uni LP
+Unstake 0.00 [USDC]-[CORN] Uni LP
+Claim 0.00 CORN ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+WETH
+ Price: $3,320.90 Market Cap: $2,024,639,594.20 
+[%]
+Staked: 0.0058 WETH ($19.11)
+CORN Per Week: 576.00 ($1.67)
+APR: Day 1.25% Week 8.73% Year 454.17%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 CORN ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+USDC
+ Price: $1.00 Market Cap: $1,042,579,183.37 
+[%]
+Staked: 75.1063 USDC ($75.01)
+CORN Per Week: 576.00 ($1.67)
+APR: Day 0.32% Week 2.22% Year 115.69%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 CORN ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WMATIC
+ Price: $1.64 Market Cap: $603,156,683.93 
+[%]
+Staked: 9.6480 WMATIC ($15.82)
+CORN Per Week: 576.00 ($1.67)
+APR: Day 1.51% Week 10.55% Year 548.49%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 CORN ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+USDT
+ Price: $1.00 Market Cap: $314,970,871.22 
+[%]
+Staked: 39.3926 USDT ($39.35)
+CORN Per Week: 576.00 ($1.67)
+APR: Day 0.61% Week 4.24% Year 220.52%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 CORN ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+miMATIC
+ Price: $0.00 Market Cap: $0.00 
+Staked: 9.0836 miMATIC ($0.00)
+CORN Per Week: 576.00 ($1.67)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 miMATIC ($0.00), NaN% of the pool.
+Stake 0.00 miMATIC - Fee 4%
+Unstake 0.00 miMATIC
+Claim 0.00 CORN ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[WBTC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50,628,994,442,683.49 TVL: $16,272,467.78
+WBTC Price: $50,005.00
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($4.02)
+CORN Per Week: 576.00 ($1.67)
+APR: Day 5.93% Week 41.51% Year 2158.76%
+You are staking 0.00 [WBTC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WBTC]-[USDC] Uni LP
+Claim 0.00 CORN ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+QUICK
+ Price: $724.06 Market Cap: $693,118,509.60 
+[%]
+Staked: 0.4800 QUICK ($347.55)
+CORN Per Week: 576.00 ($1.67)
+APR: Day 0.07% Week 0.48% Year 24.97%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 CORN ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+DAI
+ Price: $1.00 Market Cap: $376,545,250.79 
+[%]
+Staked: 211.4647 DAI ($211.24)
+CORN Per Week: 576.00 ($1.67)
+APR: Day 0.11% Week 0.79% Year 41.08%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 CORN ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+ADDY
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.4724 ADDY ($0.00)
+CORN Per Week: 576.00 ($1.67)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ADDY ($0.00), NaN% of the pool.
+Stake 0.00 ADDY - Fee 4%
+Unstake 0.00 ADDY
+Claim 0.00 CORN ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+ICE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 59.7614 ICE ($0.00)
+CORN Per Week: 576.00 ($1.67)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ICE ($0.00), NaN% of the pool.
+Stake 0.00 ICE - Fee 5%
+Unstake 0.00 ICE
+Claim 0.00 CORN ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,794,584.13 TVL: $148,024,373.91
+USDC Price: $1.00
+WETH Price: $3,320.90
+Staked: 0.0000 UNI-V2 ($46.58)
+CORN Per Week: 1152.00 ($3.34)
+APR: Day 1.02% Week 7.17% Year 372.67%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 CORN ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WMATIC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $188.38 TVL: $122,557,604.14
+WMATIC Price: $1.64
+WETH Price: $3,320.90
+Staked: 0.0000 UNI-V2 ($0.00)
+CORN Per Week: 1152.00 ($3.34)
+APR: Day 253136808630623552.00% Week 1771957660414364928.00% Year 92141798341546983424.00%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 CORN ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,563,849,678,461.12 TVL: $34,034,710.79
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($111.08)
+CORN Per Week: 1152.00 ($3.34)
+APR: Day 0.43% Week 3.01% Year 156.26%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 CORN ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[USDC]-[miMATIC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,081,784.30 TVL: $89,168,833.78
+USDC Price: $1.00
+miMATIC Price: $0.99
+Staked: 0.0001 UNI-V2 ($141.71)
+CORN Per Week: 1152.00 ($3.34)
+APR: Day 0.34% Week 2.36% Year 122.49%
+You are staking 0.00 [USDC]-[miMATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[miMATIC] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[miMATIC] Uni LP
+Claim 0.00 CORN ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,604,181.96 TVL: $33,315,316.97
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($69.84)
+CORN Per Week: 1152.00 ($3.34)
+APR: Day 0.68% Week 4.78% Year 248.54%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 CORN ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,126.09

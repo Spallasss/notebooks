@@ -1,0 +1,255 @@
+INFO  : https://www.bigdataprotocol.com/datavault
+***************************************************************************************
+
+Mon Aug 23 2021 15:35:49 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 3 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+2 - 
+[bALPHA]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $752.80 TVL: $386,479.48
+bALPHA Price: $36.90
+WETH Price: $3,331.95
+Staked: 166.7842 UNI-V2 ($125,555.51)
+bALPHA Per Week: 677.48 ($25,002.36)
+APR: Day 2.84% Week 19.91% Year 1035.50%
+You are staking 0.00 [bALPHA]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bALPHA]-[WETH] Uni LP
+Unstake 0.00 [bALPHA]-[WETH] Uni LP
+Claim 0.00 bALPHA ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $125,555.51
+Staking Contract
+Found 12 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+WBTC
+ Price: $50,306.00 Market Cap: $9,785,677,048.03 
+[%]
+Staked: 0.0013 WBTC ($66.47)
+BDP Per Week: 2486400.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC
+Unstake 0.00 WBTC
+Claim 0.00 BDP ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+WETH
+ Price: $3,331.95 Market Cap: $22,900,460,264.27 
+[%]
+Staked: 2.2920 WETH ($7,636.83)
+BDP Per Week: 2486400.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH
+Unstake 0.00 WETH
+Claim 0.00 BDP ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+USDT
+ Price: $1.00 Market Cap: $31,868,030,215.77 
+[%]
+Staked: 7279.0080 USDT ($7,269.49)
+BDP Per Week: 2486400.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT
+Unstake 0.00 USDT
+Claim 0.00 BDP ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+USDC
+ Price: $1.00 Market Cap: $25,873,169,471.93 
+[%]
+Staked: 816.8750 USDC ($816.27)
+BDP Per Week: 2486400.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC
+Unstake 0.00 USDC
+Claim 0.00 BDP ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+OCEAN
+ Price: $0.99 Market Cap: $604,688,033.88 
+[%]
+Staked: 449162.5038 OCEAN ($443,000.44)
+BDP Per Week: 2486400.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 OCEAN ($0.00), 0.00% of the pool.
+Stake 0.00 OCEAN
+Unstake 0.00 OCEAN
+Claim 0.00 BDP ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+LINK
+ Price: $28.87 Market Cap: $28,870,000,000.00 
+[%]
+Staked: 757.3520 LINK ($21,864.75)
+BDP Per Week: 2486400.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK
+Unstake 0.00 LINK
+Claim 0.00 BDP ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+SUSHI
+ Price: $13.92 Market Cap: $3,230,086,616.24 
+[%]
+Staked: 3888.2536 SUSHI ($54,124.49)
+BDP Per Week: 2486400.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI
+Unstake 0.00 SUSHI
+Claim 0.00 BDP ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+UNI
+ Price: $29.37 Market Cap: $29,370,000,000.00 
+[%]
+Staked: 10677.6400 UNI ($313,602.29)
+BDP Per Week: 2486400.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 UNI ($0.00), 0.00% of the pool.
+Stake 0.00 UNI
+Unstake 0.00 UNI
+Claim 0.00 BDP ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+YFI
+ Price: $40,316.00 Market Cap: $1,478,226,456.00 
+[%]
+Staked: 0.8362 YFI ($33,710.95)
+BDP Per Week: 2486400.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 YFI ($0.00), 0.00% of the pool.
+Stake 0.00 YFI
+Unstake 0.00 YFI
+Claim 0.00 BDP ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+AAVE
+ Price: $412.63 Market Cap: $6,602,080,000.00 
+[%]
+Staked: 69.1220 AAVE ($28,521.81)
+BDP Per Week: 2486400.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE
+Unstake 0.00 AAVE
+Claim 0.00 BDP ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+SRM
+ Price: $7.48 Market Cap: $1,204,280,007.48 
+[%]
+Staked: 108903.4150 SRM ($814,597.54)
+BDP Per Week: 2486400.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SRM ($0.00), 0.00% of the pool.
+Stake 0.00 SRM
+Unstake 0.00 SRM
+Claim 0.00 BDP ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+TOMOE
+ Price: $3.50 Market Cap: $78,559,894.61 
+[%]
+Staked: 269191.7650 TOMOE ($942,171.18)
+BDP Per Week: 2486400.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 TOMOE ($0.00), 0.00% of the pool.
+Stake 0.00 TOMOE
+Unstake 0.00 TOMOE
+Claim 0.00 BDP ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $2,667,382.51
+Staking Contract
+Found 3 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[bALPHA]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $752.80 TVL: $386,479.48
+bALPHA Price: $36.90
+WETH Price: $3,331.95
+Staked: 312.0851 UNI-V2 ($234,938.33)
+bBETA Per Week: 137.78 ($1,085.80)
+APR: Day 0.07% Week 0.46% Year 24.03%
+You are staking 0.00 [bALPHA]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bALPHA]-[WETH] Uni LP
+Unstake 0.00 [bALPHA]-[WETH] Uni LP
+Claim 0.00 bBETA ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WETH]-[BDP] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $59.17 TVL: $1,885,622.09
+WETH Price: $3,331.95
+BDP Price: $0.21
+Staked: 22470.7661 UNI-V2 ($1,329,581.70)
+bBETA Per Week: 275.56 ($2,171.60)
+APR: Day 0.02% Week 0.16% Year 8.49%
+You are staking 0.00 [WETH]-[BDP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[BDP] Uni LP
+Unstake 0.00 [WETH]-[BDP] Uni LP
+Claim 0.00 bBETA ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[bBETA]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $335.59 TVL: $73,064.49
+bBETA Price: $7.88
+WETH Price: $3,331.95
+Staked: 217.1173 UNI-V2 ($72,863.41)
+bBETA Per Week: 275.56 ($2,171.60)
+APR: Day 0.43% Week 2.98% Year 154.98%
+You are staking 0.00 [bBETA]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bBETA]-[WETH] Uni LP
+Unstake 0.00 [bBETA]-[WETH] Uni LP
+Claim 0.00 bBETA ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,637,383.44

@@ -1,0 +1,143 @@
+INFO    : 
+https://paprprintr.finance
+
+TWITTER : 
+https://twitter.com/paprprintr
+
+TELEGRAM: 
+https://t.me/paprprintr
+
+**********************************************************************
+
+Mon Aug 23 2021 09:14:47 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Total Supply: 101336 PAPR
+Fully diluted marketcap: $102,530.05
+Price: 1 PAPR = $1.0118
+Your balance: 
+0.00 PAPR = $0.00
+Total Supply: 100000 PRNTR
+Fully diluted marketcap: $199,038.63
+Price: 1 PRNTR = $1.9904
+Your balance: 
+0.00 PRNTR =  $0.00
+-------------------------------------------------
+TREASURY INFORMATION
+Epoch duration = 6 hours
+Fixed expansion during bootstrap of 1 epochs
+Current epoch = 356
+Next epoch in 0h 45m 12s
+-------------------------------------------------
+POOLS INFORMATION
+PAPRBUSDPool
+Total supply: 17774 liquidity pool tokens
+(Total Value Locked $41,335.85)
+Price: 
+1 LP token = $2.3257
+ = 1.1522675 PAPR * $1.01 + 1.1616 BUSD * $1.00
+Epoch (6 hours)
+Day
+Week
+Month
+Year
+APR
+0.16%
+0.64%
+4.51%
+19.55%
+234.65%
+PRNTR/LP
+0.00 PRNTR/LP
+0.00 PRNTR/LP
+0.01 PRNTR/LP
+0.06 PRNTR/LP
+0.70 PRNTR/LP
+Bank Yield for
+ 
+0.0000 LP staked
+0.00 PRNTR ($0.00)
+0.00 PRNTR ($0.00)
+0.00 PRNTR ($0.00)
+0.00 PRNTR ($0.00)
+0.00 PRNTR ($0.00)
+You have staked 
+0.0000 CakeLPPAPRBUSD ($0.00)
+ = 0.000000 PAPR ($0.00000) + 0.0000 BUSD ($0.00000)
+You can claim 
+0.0000 PRNTR ($0.00)
+-------------------------------------------------
+PRNTRBUSDPool
+Total supply: 8880 liquidity pool tokens
+(Total Value Locked $25,657.46)
+Price: 
+1 LP token = $2.8893
+ = 0.7263441 PRNTR * $1.99 + 1.4457 BUSD * $1.00
+Epoch (6 hours)
+Day
+Week
+Month
+Year
+APR
+0.18%
+0.72%
+5.08%
+22.00%
+263.97%
+PRNTR/LP
+0.00 PRNTR/LP
+0.00 PRNTR/LP
+0.02 PRNTR/LP
+0.08 PRNTR/LP
+0.99 PRNTR/LP
+Bank Yield for
+ 
+0.0000 LP staked
+0.00 PRNTR ($0.00)
+0.00 PRNTR ($0.00)
+0.00 PRNTR ($0.00)
+0.00 PRNTR ($0.00)
+0.00 PRNTR ($0.00)
+You have staked 
+0.0000 CakeLPPRNTRBUSD ($0.00)
+ = 0.000000 PRNTR ($0.00000) + 0.0000 BUSD ($0.00000)
+You can claim 
+0.0000 PRNTR ($0.00)
+-------------------------------------------------
+BOARD ROOM INFORMATION
+There are 18009 PRNTR staked in the boardroom
+(Total Value Locked: $35,845.65)
+Epoch (6 hours)
+Day
+Week
+Month
+Year
+APR
+0.26%
+1.04%
+7.27%
+31.50%
+378.05%
+PAPR/PRNTR
+0.01 PAPR/PRNTR
+0.02 PAPR/PRNTR
+0.14 PAPR/PRNTR
+0.62 PAPR/PRNTR
+7.44 PAPR/PRNTR
+Boardroom Yield for
+ 
+0.00 PRNTR staked
+0.00 PAPR ($0.00)
+0.00 PAPR ($0.00)
+0.00 PAPR ($0.00)
+0.00 PAPR ($0.00)
+0.00 PAPR ($0.00)
+You have staked 
+0.0000 PRNTR ($0.00)
+Your claimable rewards: 
+0.00 PAPR ($0.00)

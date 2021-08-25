@@ -1,0 +1,223 @@
+INFO  : https://ebiswap.finance
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 13:03:29 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 17 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[EBI]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,976,245.54 TVL: $28,751.05
+EBI Price: $3.50
+USDC Price: $1.00
+Staked: 0.0047 UNI-V2 ($18,729.77)
+EBI Per Week: 6048.00 ($21,157.86)
+APR: Day 16.14% Week 112.96% Year 5874.12%
+You are staking 0.00 [EBI]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [EBI]-[USDC] Uni LP
+Unstake 0.00 [EBI]-[USDC] Uni LP
+Claim 0.00 EBI ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[EBI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.96 TVL: $35,569.99
+WMATIC Price: $1.64
+EBI Price: $3.50
+Staked: 7137.5212 UNI-V2 ($35,434.40)
+EBI Per Week: 6048.00 ($21,157.86)
+APR: Day 8.53% Week 59.71% Year 3104.92%
+You are staking 0.00 [WMATIC]-[EBI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[EBI] Uni LP
+Unstake 0.00 [WMATIC]-[EBI] Uni LP
+Claim 0.00 EBI ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,603,926.03 TVL: $33,313,465.33
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0055 UNI-V2 ($25,321.34)
+EBI Per Week: 705.60 ($2,468.42)
+APR: Day 1.39% Week 9.75% Year 506.92%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 EBI ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,697,095.13 TVL: $147,935,782.51
+USDC Price: $1.00
+WETH Price: $3,317.29
+Staked: 0.0004 UNI-V2 ($60,392.02)
+EBI Per Week: 705.60 ($2,468.42)
+APR: Day 0.58% Week 4.09% Year 212.54%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 EBI ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+EBI
+ Price: $3.50 Market Cap: $58,648.53 
+[%]
+Staked: 5638.6276 EBI ($19,725.74)
+EBI Per Week: 1612.80 ($5,642.10)
+APR: Day 4.09% Week 28.60% Year 1487.34%
+You are staking 0.00 EBI ($0.00), 0.00% of the pool.
+Stake 0.00 EBI
+Unstake 0.00 EBI
+Claim 0.00 EBI ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WMATIC
+ Price: $1.64 Market Cap: $603,131,279.14 
+[%]
+Staked: 62979.9750 WMATIC ($103,287.16)
+EBI Per Week: 645.12 ($2,256.84)
+APR: Day 0.31% Week 2.19% Year 113.62%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 EBI ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WETH
+ Price: $3,317.29 Market Cap: $2,022,450,470.44 
+[%]
+Staked: 34.6490 WETH ($114,940.79)
+EBI Per Week: 705.60 ($2,468.42)
+APR: Day 0.31% Week 2.15% Year 111.67%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 EBI ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WBTC
+ Price: $49,989.00 Market Cap: $696,539,589.29 
+[%]
+Staked: 2.4336 WBTC ($121,654.63)
+EBI Per Week: 604.80 ($2,115.79)
+APR: Day 0.25% Week 1.74% Year 90.44%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 EBI ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+USDT
+ Price: $1.00 Market Cap: $314,970,871.22 
+[%]
+Staked: 124838.1392 USDT ($124,718.29)
+EBI Per Week: 705.60 ($2,468.42)
+APR: Day 0.28% Week 1.98% Year 102.92%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 EBI ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+USDC
+ Price: $1.00 Market Cap: $1,042,367,739.55 
+[%]
+Staked: 104427.1182 USDC ($104,288.02)
+EBI Per Week: 705.60 ($2,468.42)
+APR: Day 0.34% Week 2.37% Year 123.08%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 EBI ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+DAI
+ Price: $1.00 Market Cap: $376,545,250.79 
+[%]
+Staked: 101106.5629 DAI ($100,997.67)
+EBI Per Week: 705.60 ($2,468.42)
+APR: Day 0.35% Week 2.44% Year 127.09%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 EBI ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+LINK
+ Price: $28.59 Market Cap: $64,878,744.81 
+[%]
+Staked: 4605.6325 LINK ($131,675.03)
+EBI Per Week: 322.56 ($1,128.42)
+APR: Day 0.12% Week 0.86% Year 44.56%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 EBI ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+AAVE
+ Price: $408.50 Market Cap: $155,362,589.71 
+[%]
+Staked: 188.4397 AAVE ($76,977.63)
+EBI Per Week: 322.56 ($1,128.42)
+APR: Day 0.21% Week 1.47% Year 76.23%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 EBI ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,563,707,017,887.02 TVL: $34,032,825.20
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($70,437.52)
+EBI Per Week: 322.56 ($1,128.42)
+APR: Day 0.23% Week 1.60% Year 83.30%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 EBI ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,108,580.02

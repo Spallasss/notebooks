@@ -1,0 +1,68 @@
+INFO  : https://app.lift.kitchen - Seigniorage + Product Development Fund creating consumer blockchain products to bolster the investment fund
+*****************************************************************************************
+
+Mon Aug 23 2021 15:45:01 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[WBTC]-[LFBTC] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,359,477,287.67 TVL: $58,165.76
+WBTC Price: $50,205.00
+LFBTC Price: $9,084.06
+Staked: 0.0000 SLP ($55,854.22)
+LIFT Per Week: 2500.00 ($11,724.99)
+APR: Day 3.00% Week 20.99% Year 1091.59%
+You are staking 0.000000 [WBTC]-[LFBTC] SLP $0.00 (0.00% of the pool).
+Etherscan
+Unstake 0.000000 [WBTC]-[LFBTC] SLP
+Move to Boardroom 0.000000 LIFT ($0.00)
+Revoke (set approval to 0)
+Exit
+[WETH]-[LFETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,969.35 TVL: $16,300.10
+WETH Price: $3,326.01
+LFETH Price: $1,157.21
+Staked: 3.7071 SLP ($14,714.84)
+LIFT Per Week: 2500.00 ($11,724.99)
+APR: Day 11.38% Week 79.68% Year 4143.43%
+You are staking 0.000000 [WETH]-[LFETH] SLP $0.00 (0.00% of the pool).
+Etherscan
+Unstake 0.000000 [WETH]-[LFETH] SLP
+Move to Boardroom 0.000000 LIFT ($0.00)
+Revoke (set approval to 0)
+Exit
+[LFBTC]-[LIFT] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $468.77 TVL: $3,371.10
+LFBTC Price: $9,084.06
+LIFT Price: $4.69
+Staked: 1.9869 SLP ($931.39)
+LIFT Per Week: 7500.00 ($35,175.01)
+APR: Day 539.51% Week 3776.60% Year 196383.22%
+You are staking 0.000000 [LFBTC]-[LIFT] SLP $0.00 (0.00% of the pool).
+Etherscan
+Unstake 0.000000 [LFBTC]-[LIFT] SLP
+Move to Boardroom 0.000000 LIFT ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $71,500.46

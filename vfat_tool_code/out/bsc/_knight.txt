@@ -1,0 +1,201 @@
+INFO  : https://www.knightsdefi.com
+********************************************************************************
+
+Mon Aug 23 2021 13:54:35 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 19 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+KNIGHT
+ Price: $0.00 Market Cap: $0.00 
+Staked: 2732991.0092 KNIGHT ($0.00)
+KNIGHT Per Week: 50400.00 ($519.89)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 KNIGHT ($0.00), NaN% of the pool.
+Stake 0.00 KNIGHT
+Unstake 0.00 KNIGHT
+Claim 0.00 KNIGHT ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[KNIGHT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.76 TVL: $11,691.11
+KNIGHT Price: $0.01
+WBNB Price: $484.05
+Staked: 2416.6350 Cake-LP ($11,512.23)
+KNIGHT Per Week: 40320.00 ($415.91)
+APR: Day 0.52% Week 3.61% Year 187.87%
+You are staking 0.00 [KNIGHT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KNIGHT]-[WBNB] Cake LP
+Unstake 0.00 [KNIGHT]-[WBNB] Cake LP
+Claim 0.00 KNIGHT ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[KNIGHT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.21 TVL: $5,378.79
+KNIGHT Price: $0.01
+BUSD Price: $1.00
+Staked: 25956.9780 Cake-LP ($5,366.08)
+KNIGHT Per Week: 30240.00 ($311.93)
+APR: Day 0.83% Week 5.81% Year 302.28%
+You are staking 0.00 [KNIGHT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KNIGHT]-[BUSD] Cake LP
+Unstake 0.00 [KNIGHT]-[BUSD] Cake LP
+Claim 0.00 KNIGHT ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WBNB]-[TABLE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,504.63 TVL: $12,695.37
+WBNB Price: $484.05
+TABLE Price: $2,946.34
+Staked: 5.0658 Cake-LP ($12,687.82)
+KNIGHT Per Week: 30240.00 ($311.93)
+APR: Day 0.35% Week 2.46% Year 127.84%
+You are staking 0.00 [WBNB]-[TABLE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[TABLE] Cake LP
+Unstake 0.00 [WBNB]-[TABLE] Cake LP
+Claim 0.00 KNIGHT ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[BUSD]-[TABLE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $114.18 TVL: $4,887.41
+BUSD Price: $1.00
+TABLE Price: $2,946.34
+Staked: 42.7754 Cake-LP ($4,884.17)
+KNIGHT Per Week: 24192.00 ($249.55)
+APR: Day 0.73% Week 5.11% Year 265.68%
+You are staking 0.00 [BUSD]-[TABLE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[TABLE] Cake LP
+Unstake 0.00 [BUSD]-[TABLE] Cake LP
+Claim 0.00 KNIGHT ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[KNIGHT]-[PSI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $46,748.70 TVL: $1,465.68
+KNIGHT Price: $0.01
+PSI Price: $50.87
+Staked: 0.0035 DPEX-LP ($162.23)
+KNIGHT Per Week: 2016.00 ($20.80)
+APR: Day 1.83% Week 12.82% Year 666.57%
+You are staking 0.00 [KNIGHT]-[PSI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KNIGHT]-[PSI] Uni LP
+Unstake 0.00 [KNIGHT]-[PSI] Uni LP
+Claim 0.00 KNIGHT ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[KNIGHT]-[LINK] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.09 TVL: $1,191.04
+KNIGHT Price: $0.01
+LINK Price: $28.69
+Staked: 1022.0339 Cake-LP ($1,112.84)
+KNIGHT Per Week: 6048.00 ($62.39)
+APR: Day 0.80% Week 5.61% Year 291.52%
+You are staking 0.00 [KNIGHT]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KNIGHT]-[LINK] Cake LP
+Unstake 0.00 [KNIGHT]-[LINK] Cake LP
+Claim 0.00 KNIGHT ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[KNIGHT]-[ADA] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.34 TVL: $1,361.68
+KNIGHT Price: $0.01
+ADA Price: $2.85
+Staked: 3702.8725 Cake-LP ($1,271.07)
+KNIGHT Per Week: 6048.00 ($62.39)
+APR: Day 0.70% Week 4.91% Year 255.23%
+You are staking 0.00 [KNIGHT]-[ADA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KNIGHT]-[ADA] Cake LP
+Unstake 0.00 [KNIGHT]-[ADA] Cake LP
+Claim 0.00 KNIGHT ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[Cake]-[KNIGHT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.02 TVL: $1,058.16
+Cake Price: $25.02
+KNIGHT Price: $0.01
+Staked: 908.1625 Cake-LP ($923.64)
+KNIGHT Per Week: 6048.00 ($62.39)
+APR: Day 0.96% Week 6.75% Year 351.23%
+You are staking 0.00 [Cake]-[KNIGHT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[KNIGHT] Cake LP
+Unstake 0.00 [Cake]-[KNIGHT] Cake LP
+Claim 0.00 KNIGHT ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[DARA]-[KNIGHT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.08 TVL: $813.46
+DARA Price: $0.14
+KNIGHT Price: $0.01
+Staked: 9522.6932 Cake-LP ($725.78)
+KNIGHT Per Week: 6048.00 ($62.39)
+APR: Day 1.23% Week 8.60% Year 446.99%
+You are staking 0.00 [DARA]-[KNIGHT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DARA]-[KNIGHT] Cake LP
+Unstake 0.00 [DARA]-[KNIGHT] Cake LP
+Claim 0.00 KNIGHT ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $38,645.87

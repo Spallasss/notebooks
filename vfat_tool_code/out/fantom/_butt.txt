@@ -1,0 +1,239 @@
+INFO  : https://www.buttcoincrypto.com
+******************************************************************************
+
+Mon Aug 23 2021 13:25:42 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 16 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+BUTT
+ Price: $0.000802 Market Cap: $16,833.84 
+Staked: 1834235.5398 BUTT ($1,470.34)
+SHIT Per Week: 585.29 ($41.66)
+APR: Day 0.40% Week 2.83% Year 147.32%
+You are staking 0.00 BUTT ($0.00), 0.00% of the pool.
+Stake 0.00 BUTT - Fee 1%
+Unstake 0.00 BUTT
+Claim 0.00 SHIT ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WFTM]-[BUTT] ZooDex LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.04 TVL: $15,413.27
+WFTM Price: $0.57
+BUTT Price: $0.000802
+Staked: 40728.1505 ZDEXLP ($1,760.64)
+SHIT Per Week: 780.39 ($55.54)
+APR: Day 0.45% Week 3.15% Year 164.04%
+You are staking 0.00 [WFTM]-[BUTT] ZooDex LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BUTT] ZooDex LP - Fee 1%
+Unstake 0.00 [WFTM]-[BUTT] ZooDex LP
+Claim 0.00 SHIT ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WFTM]-[SHIT] ZooDex LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.43 TVL: $2,106.63
+WFTM Price: $0.57
+SHIT Price: $0.07
+Staked: 4435.6434 ZDEXLP ($1,893.97)
+SHIT Per Week: 2146.06 ($152.74)
+APR: Day 1.15% Week 8.06% Year 419.36%
+You are staking 0.00 [WFTM]-[SHIT] ZooDex LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SHIT] ZooDex LP - Fee 1%
+Unstake 0.00 [WFTM]-[SHIT] ZooDex LP
+Claim 0.00 SHIT ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[SHIT]-[BUTT] ZooDex LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $540.78
+SHIT Price: $0.07
+BUTT Price: $0.000802
+Staked: 33996.2904 ZDEXLP ($523.39)
+SHIT Per Week: 390.19 ($27.77)
+APR: Day 0.76% Week 5.31% Year 275.92%
+You are staking 0.00 [SHIT]-[BUTT] ZooDex LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SHIT]-[BUTT] ZooDex LP - Fee 1%
+Unstake 0.00 [SHIT]-[BUTT] ZooDex LP
+Claim 0.00 SHIT ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[ZOO]-[BUTT] ZooDex LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,787,986.29 TVL: $829.76
+ZOO Price: $0.04
+BUTT Price: $0.000802
+Staked: 0.0001 ZDEXLP ($816.64)
+SHIT Per Week: 390.19 ($27.77)
+APR: Day 0.49% Week 3.40% Year 176.84%
+You are staking 0.00 [ZOO]-[BUTT] ZooDex LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZOO]-[BUTT] ZooDex LP - Fee 1%
+Unstake 0.00 [ZOO]-[BUTT] ZooDex LP
+Claim 0.00 SHIT ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[REAPER]-[BUTT] ZooDex LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $249.61
+REAPER Price: $0.001795
+BUTT Price: $0.000802
+Staked: 101066.2097 ZDEXLP ($243.72)
+SHIT Per Week: 195.10 ($13.89)
+APR: Day 0.81% Week 5.70% Year 296.26%
+You are staking 0.00 [REAPER]-[BUTT] ZooDex LP ($0.00), 0.00% of the pool.
+Stake 0.00 [REAPER]-[BUTT] ZooDex LP - Fee 1%
+Unstake 0.00 [REAPER]-[BUTT] ZooDex LP
+Claim 0.00 SHIT ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[REAPER]-[SHIT] ZooDex LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $189.63
+REAPER Price: $0.001795
+SHIT Price: $0.07
+Staked: 8062.1522 ZDEXLP ($184.26)
+SHIT Per Week: 195.10 ($13.89)
+APR: Day 1.08% Week 7.54% Year 391.87%
+You are staking 0.00 [REAPER]-[SHIT] ZooDex LP ($0.00), 0.00% of the pool.
+Stake 0.00 [REAPER]-[SHIT] ZooDex LP - Fee 1%
+Unstake 0.00 [REAPER]-[SHIT] ZooDex LP
+Claim 0.00 SHIT ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[TOTEM]-[SHIT] ZooDex LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.23 TVL: $81.74
+TOTEM Price: $0.19
+SHIT Price: $0.07
+Staked: 308.0961 ZDEXLP ($71.92)
+SHIT Per Week: 195.10 ($13.89)
+APR: Day 2.76% Week 19.31% Year 1003.93%
+You are staking 0.00 [TOTEM]-[SHIT] ZooDex LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TOTEM]-[SHIT] ZooDex LP - Fee 1%
+Unstake 0.00 [TOTEM]-[SHIT] ZooDex LP
+Claim 0.00 SHIT ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[HODL]-[BUTT] ZooDex LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $770,494.98 TVL: $335.02
+HODL Price: $86.48
+BUTT Price: $0.000802
+Staked: 0.0004 ZDEXLP ($304.21)
+SHIT Per Week: 390.19 ($27.77)
+APR: Day 1.30% Week 9.13% Year 474.71%
+You are staking 0.00 [HODL]-[BUTT] ZooDex LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HODL]-[BUTT] ZooDex LP - Fee 1%
+Unstake 0.00 [HODL]-[BUTT] ZooDex LP
+Claim 0.00 SHIT ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[SHIT]-[HODL] ZooDex LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9,574,659.20 TVL: $131.67
+SHIT Price: $0.07
+HODL Price: $86.48
+Staked: 0.0000 ZDEXLP ($123.85)
+SHIT Per Week: 195.10 ($13.89)
+APR: Day 1.60% Week 11.21% Year 582.99%
+You are staking 0.00 [SHIT]-[HODL] ZooDex LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SHIT]-[HODL] ZooDex LP - Fee 1%
+Unstake 0.00 [SHIT]-[HODL] ZooDex LP
+Claim 0.00 SHIT ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[BABYBOO]-[SHIT] SPOOKY LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $684.68
+BABYBOO Price: $0.0000067989
+SHIT Price: $0.07
+Staked: 65588.2410 spLP ($115.05)
+SHIT Per Week: 390.19 ($27.77)
+APR: Day 3.45% Week 24.14% Year 1255.24%
+You are staking 0.00 [BABYBOO]-[SHIT] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BABYBOO]-[SHIT] SPOOKY LP - Fee 1%
+Unstake 0.00 [BABYBOO]-[SHIT] SPOOKY LP
+Claim 0.00 SHIT ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[SHIT]-[WILD] ZooDex LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.18 TVL: $306.38
+SHIT Price: $0.07
+WILD Price: $0.12
+Staked: 1654.8962 ZDEXLP ($302.61)
+SHIT Per Week: 195.10 ($13.89)
+APR: Day 0.66% Week 4.59% Year 238.61%
+You are staking 0.00 [SHIT]-[WILD] ZooDex LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SHIT]-[WILD] ZooDex LP - Fee 1%
+Unstake 0.00 [SHIT]-[WILD] ZooDex LP
+Claim 0.00 SHIT ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $7,810.61

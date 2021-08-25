@@ -1,0 +1,221 @@
+INFO  : https://barbershop.finance
+********************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:58:23 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 11 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+HAIR
+ Price: $0.00 Market Cap: $0.00 
+Staked: 5382684.4481 HAIR ($0.00)
+HAIR Per Week: 950495.05 ($46,262.74)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 HAIR ($0.00), NaN% of the pool.
+Stake 0.00 HAIR
+Unstake 0.00 HAIR
+Claim 0.00 HAIR ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[HAIR] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.57 TVL: $357,482.75
+WMATIC Price: $1.64
+HAIR Price: $0.05
+Staked: 410685.0127 APE-LP ($234,845.65)
+HAIR Per Week: 1520792.08 ($74,020.39)
+APR: Day 4.50% Week 31.52% Year 1638.97%
+You are staking 0.00 [WMATIC]-[HAIR] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[HAIR] APE LP
+Unstake 0.00 [WMATIC]-[HAIR] APE LP
+Claim 0.00 HAIR ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[BANANA]-[WETH] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $251.04 TVL: $2,004,185.20
+BANANA Price: $4.69
+WETH Price: $3,320.90
+Staked: 3126.5724 APE-LP ($784,886.09)
+HAIR Per Week: 380198.02 ($18,505.10)
+APR: Day 0.34% Week 2.36% Year 122.60%
+You are staking 0.00 [BANANA]-[WETH] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BANANA]-[WETH] APE LP
+Unstake 0.00 [BANANA]-[WETH] APE LP
+Claim 0.00 HAIR ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WMATIC]-[LINK] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13.75 TVL: $707,367.03
+WMATIC Price: $1.64
+LINK Price: $28.58
+Staked: 10920.1469 APE-LP ($150,110.60)
+HAIR Per Week: 190099.01 ($9,252.55)
+APR: Day 0.88% Week 6.16% Year 320.52%
+You are staking 0.00 [WMATIC]-[LINK] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[LINK] APE LP - Fee 4%
+Unstake 0.00 [WMATIC]-[LINK] APE LP
+Claim 0.00 HAIR ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDC]-[DAI] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,744,318,884.76 TVL: $10,372,418.67
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0008 APE-LP ($1,371,847.63)
+HAIR Per Week: 285148.51 ($13,878.82)
+APR: Day 0.14% Week 1.01% Year 52.61%
+You are staking 0.00 [USDC]-[DAI] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] APE LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] APE LP
+Claim 0.00 HAIR ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WMATIC]-[WBTC] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $57,464,786.40 TVL: $6,730,255.71
+WMATIC Price: $1.64
+WBTC Price: $50,005.00
+Staked: 0.0084 APE-LP ($485,125.47)
+HAIR Per Week: 380198.02 ($18,505.10)
+APR: Day 0.54% Week 3.81% Year 198.35%
+You are staking 0.00 [WMATIC]-[WBTC] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WBTC] APE LP - Fee 4%
+Unstake 0.00 [WMATIC]-[WBTC] APE LP
+Claim 0.00 HAIR ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[WMATIC]-[PolyDoge] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $291,278.15
+WMATIC Price: $1.64
+PolyDoge Price: $0.0000000062
+Staked: 767791006.9943 APE-LP ($155,927.76)
+HAIR Per Week: 190099.01 ($9,252.55)
+APR: Day 0.85% Week 5.93% Year 308.56%
+You are staking 0.00 [WMATIC]-[PolyDoge] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PolyDoge] APE LP - Fee 3%
+Unstake 0.00 [WMATIC]-[PolyDoge] APE LP
+Claim 0.00 HAIR ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[WMATIC]-[USDT] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,588,173.58 TVL: $5,836,020.65
+WMATIC Price: $1.64
+USDT Price: $1.00
+Staked: 0.0341 APE-LP ($88,149.89)
+HAIR Per Week: 152079.21 ($7,402.04)
+APR: Day 1.20% Week 8.40% Year 436.65%
+You are staking 0.00 [WMATIC]-[USDT] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDT] APE LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDT] APE LP
+Claim 0.00 HAIR ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[HAIR]-[USDC] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $17,926,672.27 TVL: $178,417.54
+HAIR Price: $0.05
+USDC Price: $1.00
+Staked: 0.0097 APE-LP ($174,475.77)
+HAIR Per Week: 1140594.06 ($55,515.29)
+APR: Day 4.55% Week 31.82% Year 1654.55%
+You are staking 0.00 [HAIR]-[USDC] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HAIR]-[USDC] APE LP
+Unstake 0.00 [HAIR]-[USDC] APE LP
+Claim 0.00 HAIR ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[WMATIC]-[CRYSTL] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.78 TVL: $2,969,368.96
+WMATIC Price: $1.64
+CRYSTL Price: $1.12
+Staked: 123259.5942 APE-LP ($342,690.36)
+HAIR Per Week: 380198.02 ($18,505.10)
+APR: Day 0.77% Week 5.40% Year 280.80%
+You are staking 0.00 [WMATIC]-[CRYSTL] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[CRYSTL] APE LP
+Unstake 0.00 [WMATIC]-[CRYSTL] APE LP
+Claim 0.00 HAIR ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[WMATIC]-[SING] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8.27 TVL: $608,690.33
+WMATIC Price: $1.64
+SING Price: $6.48
+Staked: 3250.7129 APE-LP ($26,882.31)
+HAIR Per Week: 190099.01 ($9,252.55)
+APR: Day 4.92% Week 34.42% Year 1789.77%
+You are staking 0.00 [WMATIC]-[SING] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[SING] APE LP
+Unstake 0.00 [WMATIC]-[SING] APE LP
+Claim 0.00 HAIR ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $3,814,941.51

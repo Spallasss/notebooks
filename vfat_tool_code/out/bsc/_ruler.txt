@@ -1,0 +1,24 @@
+INFO  : https://app.rulerprotocol.com/app/farms
+***************************************************************************
+
+Mon Aug 23 2021 09:19:30 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+nrvRC_WBNB_BUSD
+ Price: $1.00 Market Cap: $411,088.63 
+[%]
+Staked: 410154.6087 nrvRC_WBNB_BUSD ($410,173.70)
+RULER Per Week: 100.00 ($2,514.00)
+APR: Day 0.09% Week 0.61% Year 31.87%
+You are staking 0.000000 nrvRC_WBNB_BUSD $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 nrvRC_WBNB_BUSD
+Unstake 0.000000 nrvRC_WBNB_BUSD
+Claim 0.000000 RULER ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $410,173.70

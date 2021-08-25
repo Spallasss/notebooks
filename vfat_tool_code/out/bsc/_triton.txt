@@ -1,0 +1,456 @@
+INFO  : https://triton.farm/
+**********************************************************************************
+
+Mon Aug 23 2021 09:22:32 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 26 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+TRITON
+ Price: $0.00 Market Cap: $0.00 
+Staked: 427050.5895 TRITON ($0.00)
+TRITON Per Week: 13360.47 ($2.17)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 TRITON ($0.00), NaN% of the pool.
+Stake 0.00 TRITON
+Unstake 0.00 TRITON
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[TRITON]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $38.42
+TRITON Price: $0.000162
+BUSD Price: $1.00
+Staked: 1387.1468 Cake-LP ($37.12)
+TRITON Per Week: 33401.18 ($5.41)
+APR: Day 2.08% Week 14.59% Year 758.51%
+You are staking 0.00 [TRITON]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TRITON]-[BUSD] Cake LP
+Unstake 0.00 [TRITON]-[BUSD] Cake LP
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[TRITON]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.59 TVL: $38.83
+TRITON Price: $0.000162
+WBNB Price: $486.60
+Staked: 58.4282 Cake-LP ($34.19)
+TRITON Per Week: 25050.89 ($4.06)
+APR: Day 1.70% Week 11.88% Year 617.66%
+You are staking 0.00 [TRITON]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TRITON]-[WBNB] Cake LP
+Unstake 0.00 [TRITON]-[WBNB] Cake LP
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $225.99 TVL: $1,034,280,639.99
+Cake Price: $25.10
+WBNB Price: $486.60
+Staked: 3.4328 Cake-LP ($775.78)
+TRITON Per Week: 4175.15 ($0.68)
+APR: Day 0.01% Week 0.09% Year 4.54%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[Cake]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13.43 TVL: $66,520,547.71
+Cake Price: $25.10
+BUSD Price: $1.00
+Staked: 238.6424 Cake-LP ($3,204.56)
+TRITON Per Week: 4175.15 ($0.68)
+APR: Day 0.00% Week 0.02% Year 1.10%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[TWT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $44.02 TVL: $12,346,690.17
+TWT Price: $0.94
+WBNB Price: $486.60
+Staked: 0.0805 Cake-LP ($3.54)
+TRITON Per Week: 4175.15 ($0.68)
+APR: Day 2.73% Week 19.10% Year 992.96%
+You are staking 0.00 [TWT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TWT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [TWT]-[WBNB] Cake LP
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,964,095.15
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.4896 Cake-LP ($1.01)
+TRITON Per Week: 4175.15 ($0.68)
+APR: Day 9.59% Week 67.16% Year 3492.44%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,227.90 TVL: $174,145,826.52
+BTCB Price: $49,844.00
+WBNB Price: $486.60
+Staked: 0.0025 Cake-LP ($25.39)
+TRITON Per Week: 4175.15 ($0.68)
+APR: Day 0.38% Week 2.67% Year 138.64%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,659.86 TVL: $262,558,847.92
+ETH Price: $3,332.93
+WBNB Price: $486.60
+Staked: 0.0006 Cake-LP ($1.53)
+TRITON Per Week: 3340.12 ($0.54)
+APR: Day 5.05% Week 35.34% Year 1837.67%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $241.53 TVL: $83,047,554.95
+DOT Price: $28.12
+WBNB Price: $486.60
+Staked: 0.0077 Cake-LP ($1.85)
+TRITON Per Week: 3340.12 ($0.54)
+APR: Day 4.17% Week 29.19% Year 1517.79%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.44 TVL: $46,965,376.39
+ADA Price: $2.83
+WBNB Price: $486.60
+Staked: 2.0000 Cake-LP ($154.88)
+TRITON Per Week: 3340.12 ($0.54)
+APR: Day 0.05% Week 0.35% Year 18.18%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[WBNB]-[UNI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $243.71 TVL: $33,996,338.42
+WBNB Price: $486.60
+UNI Price: $29.38
+Staked: 3.8828 Cake-LP ($946.30)
+TRITON Per Week: 3340.12 ($0.54)
+APR: Day 0.01% Week 0.06% Year 2.98%
+You are staking 0.00 [WBNB]-[UNI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[UNI] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[UNI] Cake LP
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,210,830.68
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 136.5006 Cake-LP ($279.37)
+TRITON Per Week: 3340.12 ($0.54)
+APR: Day 0.03% Week 0.19% Year 10.08%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[BTCB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $471.90 TVL: $137,253,355.53
+BTCB Price: $49,844.00
+BUSD Price: $1.00
+Staked: 0.1011 Cake-LP ($47.72)
+TRITON Per Week: 3340.12 ($0.54)
+APR: Day 0.16% Week 1.13% Year 59.00%
+You are staking 0.00 [BTCB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[BUSD] Cake LP
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[XRP]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $51.73 TVL: $39,611,404.94
+XRP Price: $1.29
+WBNB Price: $486.60
+Staked: 3.3573 Cake-LP ($173.65)
+TRITON Per Week: 3340.12 ($0.54)
+APR: Day 0.04% Week 0.31% Year 16.21%
+You are staking 0.00 [XRP]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XRP]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [XRP]-[WBNB] Cake LP
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[VAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.82 TVL: $25,450,039.26
+VAI Price: $0.79
+BUSD Price: $1.00
+Staked: 0.4891 Cake-LP ($0.89)
+TRITON Per Week: 3340.12 ($0.54)
+APR: Day 8.69% Week 60.83% Year 3162.94%
+You are staking 0.00 [VAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [VAI]-[BUSD] Cake LP
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[WBNB]-[LINK] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $241.57 TVL: $47,739,987.12
+WBNB Price: $486.60
+LINK Price: $28.72
+Staked: 0.0060 Cake-LP ($1.44)
+TRITON Per Week: 3340.12 ($0.54)
+APR: Day 5.38% Week 37.66% Year 1958.17%
+You are staking 0.00 [WBNB]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LINK] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[LINK] Cake LP
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[DOGE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,786,168.38 TVL: $26,205,589.60
+DOGE Price: $0.33
+WBNB Price: $486.60
+Staked: 0.0004 Cake-LP ($1,074.42)
+TRITON Per Week: 3340.12 ($0.54)
+APR: Day 0.01% Week 0.05% Year 2.62%
+You are staking 0.00 [DOGE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOGE]-[WBNB] Cake LP
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[TRX]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13.53 TVL: $17,820,462.18
+TRX Price: $0.09
+WBNB Price: $486.60
+Staked: 0.1096 Cake-LP ($1.48)
+TRITON Per Week: 3340.12 ($0.54)
+APR: Day 5.21% Week 36.50% Year 1897.84%
+You are staking 0.00 [TRX]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TRX]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [TRX]-[WBNB] Cake LP
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+WBNB
+ Price: $486.60 Market Cap: $3,438,902,335.86 
+[%]
+Staked: 4.8042 WBNB ($2,337.74)
+TRITON Per Week: 1670.06 ($0.27)
+APR: Day 0.00% Week 0.01% Year 0.60%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+BUSD
+ Price: $1.00 Market Cap: $4,195,962,401.72 
+[%]
+Staked: 303.8603 BUSD ($303.50)
+TRITON Per Week: 1670.06 ($0.27)
+APR: Day 0.01% Week 0.09% Year 4.64%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,777,827.00 
+[%]
+Staked: 335.3003 USDC ($335.07)
+TRITON Per Week: 1670.06 ($0.27)
+APR: Day 0.01% Week 0.08% Year 4.20%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 56.4546 USDT ($56.44)
+TRITON Per Week: 1670.06 ($0.27)
+APR: Day 0.07% Week 0.48% Year 24.94%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 504.7415 DAI ($504.74)
+TRITON Per Week: 1670.06 ($0.27)
+APR: Day 0.01% Week 0.05% Year 2.79%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+Cake
+ Price: $25.10 Market Cap: $10,444,926,495.89 
+[%]
+Staked: 2.9406 Cake ($73.81)
+TRITON Per Week: 1670.06 ($0.27)
+APR: Day 0.05% Week 0.37% Year 19.07%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+BTCB
+ Price: $49,844.00 Market Cap: $4,261,711,844.00 
+[%]
+Staked: 0.0018 BTCB ($91.75)
+TRITON Per Week: 1670.06 ($0.27)
+APR: Day 0.04% Week 0.30% Year 15.34%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $10,468.16

@@ -1,0 +1,431 @@
+INFO  : https://zeusfarmsdefi.com
+**************************************************************************
+
+Mon Aug 23 2021 09:17:16 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 25 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[ZEUS]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.05 TVL: $39.46
+ZEUS Price: $0.000368
+BUSD Price: $1.00
+Staked: 808.8213 Cake-LP ($37.96)
+ZEUS Per Week: 33243.90 ($12.22)
+APR: Day 4.60% Week 32.19% Year 1674.12%
+You are staking 0.00 [ZEUS]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZEUS]-[BUSD] Cake LP
+Unstake 0.00 [ZEUS]-[BUSD] Cake LP
+Claim 0.00 ZEUS ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[ZEUS]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.03 TVL: $209.96
+ZEUS Price: $0.000368
+WBNB Price: $486.14
+Staked: 130.4012 Cake-LP ($134.07)
+ZEUS Per Week: 19946.34 ($7.33)
+APR: Day 0.78% Week 5.47% Year 284.39%
+You are staking 0.00 [ZEUS]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZEUS]-[WBNB] Cake LP
+Unstake 0.00 [ZEUS]-[WBNB] Cake LP
+Claim 0.00 ZEUS ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.40 TVL: $46,943,785.93
+ADA Price: $2.83
+WBNB Price: $486.14
+Staked: 5.9909 Cake-LP ($463.72)
+ZEUS Per Week: 3324.39 ($1.22)
+APR: Day 0.04% Week 0.26% Year 13.70%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 ZEUS ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.83 TVL: $528,564,886.22
+WBNB Price: $486.14
+BUSD Price: $1.00
+Staked: 1.1099 Cake-LP ($55.31)
+ZEUS Per Week: 4155.49 ($1.53)
+APR: Day 0.39% Week 2.76% Year 143.63%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 ZEUS ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,356,958.44
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+ZEUS Per Week: 3324.39 ($1.22)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 ZEUS ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,657.97 TVL: $262,371,019.05
+ETH Price: $3,331.38
+WBNB Price: $486.14
+Staked: 0.1567 Cake-LP ($416.53)
+ZEUS Per Week: 4155.49 ($1.53)
+APR: Day 0.05% Week 0.37% Year 19.07%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 ZEUS ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,234.38 TVL: $174,089,974.29
+BTCB Price: $49,954.00
+WBNB Price: $486.14
+Staked: 0.0071 Cake-LP ($72.94)
+ZEUS Per Week: 3324.39 ($1.22)
+APR: Day 0.24% Week 1.68% Year 87.12%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 ZEUS ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,918,407.85
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+ZEUS Per Week: 3324.39 ($1.22)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 ZEUS ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,315,014.51
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+ZEUS Per Week: 3324.39 ($1.22)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 ZEUS ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[Cake]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13.42 TVL: $66,486,292.29
+Cake Price: $25.08
+BUSD Price: $1.00
+Staked: 6.9941 Cake-LP ($93.87)
+ZEUS Per Week: 2493.29 ($0.92)
+APR: Day 0.14% Week 0.98% Year 50.77%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 ZEUS ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $225.79 TVL: $1,033,408,711.36
+Cake Price: $25.08
+WBNB Price: $486.14
+Staked: 8.9722 Cake-LP ($2,025.83)
+ZEUS Per Week: 2493.29 ($0.92)
+APR: Day 0.01% Week 0.05% Year 2.35%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 ZEUS ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[DOGE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,784,497.09 TVL: $26,189,854.35
+DOGE Price: $0.33
+WBNB Price: $486.14
+Staked: 0.0001 Cake-LP ($365.00)
+ZEUS Per Week: 2493.29 ($0.92)
+APR: Day 0.04% Week 0.25% Year 13.06%
+You are staking 0.00 [DOGE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOGE]-[WBNB] Cake LP
+Claim 0.00 ZEUS ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[DOGE]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $180,064.47 TVL: $7,706.23
+DOGE Price: $0.33
+BUSD Price: $1.00
+Staked: 0.0001 Cake-LP ($11.82)
+ZEUS Per Week: 2493.29 ($0.92)
+APR: Day 1.11% Week 7.75% Year 403.16%
+You are staking 0.00 [DOGE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DOGE]-[BUSD] Cake LP
+Claim 0.00 ZEUS ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+ZEUS
+ Price: $0.000368 Market Cap: $265.14 
+[%]
+Staked: 225295.1499 ZEUS ($82.82)
+ZEUS Per Week: 9973.17 ($3.67)
+APR: Day 0.63% Week 4.43% Year 230.19%
+You are staking 0.00 ZEUS ($0.00), 0.00% of the pool.
+Stake 0.00 ZEUS
+Unstake 0.00 ZEUS
+Claim 0.00 ZEUS ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+WBNB
+ Price: $486.14 Market Cap: $3,438,689,471.31 
+[%]
+Staked: 3.3852 WBNB ($1,645.69)
+ZEUS Per Week: 1662.20 ($0.61)
+APR: Day 0.01% Week 0.04% Year 1.93%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 ZEUS ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+BUSD
+ Price: $1.00 Market Cap: $4,195,071,789.84 
+[%]
+Staked: 71.6544 BUSD ($71.55)
+ZEUS Per Week: 2493.29 ($0.92)
+APR: Day 0.18% Week 1.28% Year 66.61%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 ZEUS ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+ETH
+ Price: $3,331.38 Market Cap: $4,347,450,900.00 
+[%]
+Staked: 0.0200 ETH ($66.49)
+ZEUS Per Week: 1662.20 ($0.61)
+APR: Day 0.13% Week 0.92% Year 47.79%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 ZEUS ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.0005 BTCB ($23.91)
+ZEUS Per Week: 1662.20 ($0.61)
+APR: Day 0.37% Week 2.56% Year 132.86%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 ZEUS ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+Cake
+ Price: $25.08 Market Cap: $10,436,555,825.37 
+[%]
+Staked: 41.1672 Cake ($1,032.47)
+ZEUS Per Week: 2493.29 ($0.92)
+APR: Day 0.01% Week 0.09% Year 4.62%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 ZEUS ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 197.7420 USDT ($197.70)
+ZEUS Per Week: 1662.20 ($0.61)
+APR: Day 0.04% Week 0.31% Year 16.07%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 ZEUS ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 161.3244 DAI ($161.32)
+ZEUS Per Week: 1662.20 ($0.61)
+APR: Day 0.05% Week 0.38% Year 19.70%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 ZEUS ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+DOGE
+ Price: $0.33 Market Cap: $650,902,000.00 
+[%]
+Staked: 893.8864 DOGE ($290.92)
+ZEUS Per Week: 2493.29 ($0.92)
+APR: Day 0.05% Week 0.32% Year 16.38%
+You are staking 0.00 DOGE ($0.00), 0.00% of the pool.
+Stake 0.00 DOGE - Fee 4%
+Unstake 0.00 DOGE
+Claim 0.00 ZEUS ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[DOT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11.27 TVL: $13,037.20
+DOT Price: $28.08
+BUSD Price: $1.00
+Staked: 4.2657 Cake-LP ($48.09)
+ZEUS Per Week: 3324.39 ($1.22)
+APR: Day 0.36% Week 2.54% Year 132.16%
+You are staking 0.00 [DOT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[BUSD] Cake LP
+Claim 0.00 ZEUS ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[USDT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.73 TVL: $252,731,864.71
+USDT Price: $1.00
+WBNB Price: $486.14
+Staked: 11.7311 Cake-LP ($595.07)
+ZEUS Per Week: 3324.39 ($1.22)
+APR: Day 0.03% Week 0.21% Year 10.68%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 ZEUS ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[BTCB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $472.37 TVL: $137,416,291.74
+BTCB Price: $49,954.00
+BUSD Price: $1.00
+Staked: 0.0260 Cake-LP ($12.28)
+ZEUS Per Week: 3324.39 ($1.22)
+APR: Day 1.42% Week 9.95% Year 517.40%
+You are staking 0.00 [BTCB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[BUSD] Cake LP
+Claim 0.00 ZEUS ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $7,905.37

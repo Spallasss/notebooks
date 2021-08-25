@@ -1,0 +1,135 @@
+INFO  : https://www.sharedstake.org/earn
+*********************************************************************************
+
+Mon Aug 23 2021 15:31:43 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[SGT]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $26.83 TVL: $30,516.43
+SGT Price: $0.04
+WETH Price: $3,330.58
+Staked: 632.5307 UNI-V2 ($16,967.97)
+SGT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [SGT]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [SGT]-[WETH] Uni LP
+Unstake 0.000000 [SGT]-[WETH] Uni LP
+Claim 0.000000 SGT ($0.00)
+Revoke (set approval to 0)
+Exit
+SGT
+ Price: $0.04 Market Cap: $389,522.10 
+[%]
+Staked: 188632.7865 SGT ($7,347.66)
+SGT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 SGT $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 SGT
+Unstake 0.000000 SGT
+Claim 0.000000 SGT ($0.00)
+Revoke (set approval to 0)
+Exit
+vETH2
+ Price: $3,330.58 Market Cap: $53,289,136.26 
+[%]
+Staked: 337.1261 vETH2 ($1,122,825.43)
+SGT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 vETH2 $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 vETH2
+Unstake 0.000000 vETH2
+Claim 0.000000 SGT ($0.00)
+Revoke (set approval to 0)
+Exit
+[SGT]-[vETH2] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $24.22 TVL: $15,564.96
+SGT Price: $0.04
+vETH2 Price: $3,330.58
+Staked: 228.1880 UNI-V2 ($5,527.56)
+SGT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [SGT]-[vETH2] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [SGT]-[vETH2] Uni LP
+Unstake 0.000000 [SGT]-[vETH2] Uni LP
+Claim 0.000000 SGT ($0.00)
+Revoke (set approval to 0)
+Exit
+saddleVETH2
+ Price: $3,345.11 Market Cap: $308,602.24 
+Staked: 54.3290 saddleVETH2 ($181,736.53)
+SGT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 saddleVETH2 $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 saddleVETH2
+Unstake 0.000000 saddleVETH2
+Claim 0.000000 SGT ($0.00)
+Revoke (set approval to 0)
+Exit
+[SGT]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $26.83 TVL: $30,516.43
+SGT Price: $0.04
+WETH Price: $3,330.58
+Staked: 75.5283 UNI-V2 ($2,026.09)
+SGT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [SGT]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [SGT]-[WETH] Uni LP
+Unstake 0.000000 [SGT]-[WETH] Uni LP
+Claim 0.000000 SGT ($0.00)
+Revoke (set approval to 0)
+Exit
+SGT
+ Price: $0.04 Market Cap: $389,522.10 
+[%]
+Staked: 6011.0908 SGT ($234.15)
+SGT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 SGT $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 SGT
+Unstake 0.000000 SGT
+Claim 0.000000 SGT ($0.00)
+Revoke (set approval to 0)
+Exit
+vETH2
+ Price: $3,330.58 Market Cap: $53,289,136.26 
+[%]
+Staked: 531.8533 vETH2 ($1,771,380.03)
+SGT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 vETH2 $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 vETH2
+Unstake 0.000000 vETH2
+Claim 0.000000 SGT ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $3,108,045.42

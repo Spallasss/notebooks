@@ -1,0 +1,50 @@
+INFO  : https://farms.polispay.org
+**************************************************************************
+
+Mon Aug 23 2021 13:55:25 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 5 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+POLIS
+ Price: $0.22 Market Cap: $3,180,095.00 
+[%]
+Staked: 9006987.4700 POLIS ($1,995,110.77)
+POLIS Per Week: 12902.40 ($2,857.97)
+APR: Day 0.02% Week 0.14% Year 7.45%
+You are staking 0.00 POLIS ($0.00), 0.00% of the pool.
+Stake 0.00 POLIS
+Unstake 0.00 POLIS
+Claim 0.00 POLIS ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[POLIS]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $20.94 TVL: $364,036.23
+POLIS Price: $0.22
+WBNB Price: $484.05
+Staked: 17347.6368 Cake-LP ($363,278.21)
+POLIS Per Week: 20643.84 ($4,572.76)
+APR: Day 0.18% Week 1.26% Year 65.45%
+You are staking 0.00 [POLIS]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [POLIS]-[WBNB] Cake LP
+Unstake 0.00 [POLIS]-[WBNB] Cake LP
+Claim 0.00 POLIS ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $2,358,388.98

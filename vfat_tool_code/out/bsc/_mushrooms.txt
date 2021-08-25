@@ -1,0 +1,115 @@
+INFO  : https://mushrooms.finance
+*******************************************************************************
+
+Mon Aug 23 2021 14:28:38 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 9 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+MM
+ Price: $4.23 Market Cap: $88,445.46 
+[%]
+Staked: 10046.3581 MM ($42,545.10)
+MM Per Week: 11.40 ($48.29)
+APR: Day 0.02% Week 0.11% Year 5.90%
+You are staking 0.00 MM ($0.00), 0.00% of the pool.
+Stake 0.00 MM
+Unstake 0.00 MM
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[MM]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $91.19 TVL: $53,173.61
+MM Price: $4.23
+WBNB Price: $483.90
+Staked: 74.8824 Cake-LP ($6,828.72)
+MM Per Week: 22.80 ($96.58)
+APR: Day 0.20% Week 1.41% Year 73.54%
+You are staking 0.00 [MM]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MM]-[WBNB] Cake LP
+Unstake 0.00 [MM]-[WBNB] Cake LP
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+2 - mBTCB Price: $65,596.75 TVL: $104,198.18
+Staked: 1.1232 mBTCB ($73,677.10)
+MM Per Week: 11.40 ($48.29)
+APR: Day 0.01% Week 0.07% Year 3.41%
+You are staking 0.00 mBTCB ($0.00), 0.00% of the pool.
+Stake 0.00 mBTCB
+Unstake 0.00 mBTCB
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+3 - mBUSD Price: $1.04 TVL: $36,628.42
+Staked: 27548.9768 mBUSD ($28,722.63)
+MM Per Week: 11.40 ($48.29)
+APR: Day 0.02% Week 0.17% Year 8.74%
+You are staking 0.00 mBUSD ($0.00), 0.00% of the pool.
+Stake 0.00 mBUSD
+Unstake 0.00 mBUSD
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+4 - mEPS Price: $0.79 TVL: $32,768.90
+Staked: 40744.3224 mEPS ($32,121.09)
+MM Per Week: 5.70 ($24.14)
+APR: Day 0.01% Week 0.08% Year 3.91%
+You are staking 0.00 mEPS ($0.00), 0.00% of the pool.
+Stake 0.00 mEPS
+Unstake 0.00 mEPS
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+5 - mlowb Price: $0.00 TVL: $0.00
+Staked: 260120537.2346 mlowb ($0.00)
+MM Per Week: 5.70 ($24.14)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 mlowb ($0.00), NaN% of the pool.
+Stake 0.00 mlowb
+Unstake 0.00 mlowb
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+6 - Wrapped 
+[USDT]-[lowb] Cake LP
+ Price: $0.03 TVL: $46,568.59
+Staked: 1112235.9119 mCake-LP ($34,492.58)
+MM Per Week: 5.70 ($24.14)
+APR: Day 0.01% Week 0.07% Year 3.64%
+You are staking 0.00 mCake-LP ($0.00), 0.00% of the pool.
+Stake 0.00 mCake-LP
+Unstake 0.00 mCake-LP
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+7 - mCake Price: $25.58 TVL: $6,701.67
+Staked: 232.3332 mCake ($5,942.97)
+MM Per Week: 11.40 ($48.29)
+APR: Day 0.12% Week 0.81% Year 42.25%
+You are staking 0.00 mCake ($0.00), 0.00% of the pool.
+Stake 0.00 mCake
+Unstake 0.00 mCake
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+8 - mXVS Price: $37.41 TVL: $6,489.99
+Staked: 171.5313 mXVS ($6,416.41)
+MM Per Week: 5.70 ($24.14)
+APR: Day 0.05% Week 0.38% Year 19.57%
+You are staking 0.00 mXVS ($0.00), 0.00% of the pool.
+Stake 0.00 mXVS
+Unstake 0.00 mXVS
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $230,746.60

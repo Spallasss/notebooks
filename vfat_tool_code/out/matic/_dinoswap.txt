@@ -1,0 +1,297 @@
+INFO  : https://dinoswap.exchange
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:26:20 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 19 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[BEL]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $186.15 TVL: $5,909,672.32
+BEL Price: $2.58
+WETH Price: $3,325.78
+Staked: 31613.0384 UNI-V2 ($5,884,808.60)
+DINO Per Week: 82285.71 ($69,366.58)
+APR: Day 0.17% Week 1.18% Year 61.29%
+You are staking 0.00 [BEL]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BEL]-[WETH] Uni LP
+Unstake 0.00 [BEL]-[WETH] Uni LP
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WETH]-[DFYN] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $154.73 TVL: $6,785,701.79
+WETH Price: $3,325.78
+DFYN Price: $1.21
+Staked: 18916.2106 DFYNLP ($2,926,862.01)
+DINO Per Week: 82285.71 ($69,366.58)
+APR: Day 0.34% Week 2.37% Year 123.24%
+You are staking 0.00 [WETH]-[DFYN] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[DFYN] DFYN LP
+Unstake 0.00 [WETH]-[DFYN] DFYN LP
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[USDC]-[xMARK] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $59,177,545,088.21 TVL: $4,236,008.23
+USDC Price: $1.00
+xMARK Price: $0.87
+Staked: 0.0001 SLP ($4,217,683.91)
+DINO Per Week: 82285.71 ($69,366.58)
+APR: Day 0.23% Week 1.64% Year 85.52%
+You are staking 0.00 [USDC]-[xMARK] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[xMARK] SLP
+Unstake 0.00 [USDC]-[xMARK] SLP
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+stkGHST-WETH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.6278 stkGHST-WETH ($0.00)
+DINO Per Week: 82285.71 ($69,366.58)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 stkGHST-WETH ($0.00), NaN% of the pool.
+Stake 0.00 stkGHST-WETH
+Unstake 0.00 stkGHST-WETH
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WETH]-[SX] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $90.39 TVL: $8,264,177.91
+WETH Price: $3,325.78
+SX Price: $0.60
+Staked: 87810.4742 SLP ($7,937,516.68)
+DINO Per Week: 82285.71 ($69,366.58)
+APR: Day 0.12% Week 0.87% Year 45.44%
+You are staking 0.00 [WETH]-[SX] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[SX] SLP
+Unstake 0.00 [WETH]-[SX] SLP
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WMATIC]-[CGG] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.50 TVL: $3,414,728.54
+WMATIC Price: $1.64
+CGG Price: $0.92
+Staked: 1353020.6379 SLP ($3,379,571.27)
+DINO Per Week: 82285.71 ($69,366.58)
+APR: Day 0.29% Week 2.05% Year 106.73%
+You are staking 0.00 [WMATIC]-[CGG] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[CGG] SLP
+Unstake 0.00 [WMATIC]-[CGG] SLP
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[USDC]-[DINO] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,878,125.64 TVL: $14,178,944.87
+USDC Price: $1.00
+DINO Price: $0.84
+Staked: 7.4884 SLP ($14,064,164.76)
+DINO Per Week: 1152000.00 ($971,132.07)
+APR: Day 0.99% Week 6.91% Year 359.06%
+You are staking 0.00 [USDC]-[DINO] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DINO] SLP
+Unstake 0.00 [USDC]-[DINO] SLP
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[WETH]-[DINO] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $108.21 TVL: $6,884,495.54
+WETH Price: $3,325.78
+DINO Price: $0.84
+Staked: 62804.2374 UNI-V2 ($6,796,167.23)
+DINO Per Week: 658285.71 ($554,932.61)
+APR: Day 1.17% Week 8.17% Year 424.60%
+You are staking 0.00 [WETH]-[DINO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[DINO] Uni LP
+Unstake 0.00 [WETH]-[DINO] Uni LP
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[UST]-[USDT] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,023,520.52 TVL: $27,937,652.64
+UST Price: $1.00
+USDT Price: $1.00
+Staked: 7.9578 DFYNLP ($16,102,770.40)
+DINO Per Week: 82285.71 ($69,366.58)
+APR: Day 0.06% Week 0.43% Year 22.40%
+You are staking 0.00 [UST]-[USDT] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[USDT] DFYN LP
+Unstake 0.00 [UST]-[USDT] DFYN LP
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WETH]-[ARPA] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $32.83 TVL: $6,738,176.15
+WETH Price: $3,325.78
+ARPA Price: $0.08
+Staked: 173545.7901 SLP ($5,697,571.89)
+DINO Per Week: 82285.71 ($69,366.58)
+APR: Day 0.17% Week 1.22% Year 63.31%
+You are staking 0.00 [WETH]-[ARPA] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[ARPA] SLP
+Unstake 0.00 [WETH]-[ARPA] SLP
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[SFI]-[WETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,467.73 TVL: $3,036,243.41
+SFI Price: $899.36
+WETH Price: $3,325.78
+Staked: 875.0776 SLP ($3,034,529.73)
+DINO Per Week: 82285.71 ($69,366.58)
+APR: Day 0.33% Week 2.29% Year 118.87%
+You are staking 0.00 [SFI]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SFI]-[WETH] SLP
+Unstake 0.00 [SFI]-[WETH] SLP
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[ROUTE (PoS)]-[WETH] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $264.75 TVL: $4,972,858.80
+ROUTE (PoS) Price: $4.71
+WETH Price: $3,325.78
+Staked: 7978.7988 DFYNLP ($2,112,362.54)
+DINO Per Week: 82285.71 ($69,366.58)
+APR: Day 0.47% Week 3.28% Year 170.76%
+You are staking 0.00 [ROUTE (PoS)]-[WETH] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ROUTE (PoS)]-[WETH] DFYN LP
+Unstake 0.00 [ROUTE (PoS)]-[WETH] DFYN LP
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[USDC]-[$DG] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,889,692,807.28 TVL: $3,129,609.43
+USDC Price: $1.00
+$DG Price: $248.67
+Staked: 0.0017 UNI-V2 ($3,129,595.70)
+DINO Per Week: 82285.71 ($69,366.58)
+APR: Day 0.32% Week 2.22% Year 115.26%
+You are staking 0.00 [USDC]-[$DG] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[$DG] Uni LP
+Unstake 0.00 [USDC]-[$DG] Uni LP
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[USDC]-[FOR] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $39,960,272.78 TVL: $1,642,153.81
+USDC Price: $1.00
+FOR Price: $0.08
+Staked: 0.0410 UNI-V2 ($1,640,204.21)
+DINO Per Week: 82285.71 ($69,366.58)
+APR: Day 0.60% Week 4.23% Year 219.92%
+You are staking 0.00 [USDC]-[FOR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[FOR] Uni LP
+Unstake 0.00 [USDC]-[FOR] Uni LP
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[USDC]-[DNXC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,816,670.49 TVL: $1,235,996.54
+USDC Price: $1.00
+DNXC Price: $0.79
+Staked: 0.3950 UNI-V2 ($717,638.22)
+DINO Per Week: 82285.71 ($69,366.58)
+APR: Day 1.38% Week 9.67% Year 502.63%
+You are staking 0.00 [USDC]-[DNXC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DNXC] Uni LP
+Unstake 0.00 [USDC]-[DNXC] Uni LP
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $77,641,447.17

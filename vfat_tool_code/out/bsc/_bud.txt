@@ -1,0 +1,112 @@
+INFO  : https://buddefi.com/
+****************************************************************************************
+
+Mon Aug 23 2021 14:09:01 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 6 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[BUD]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.04 TVL: $178.19
+BUD Price: $0.000431
+BUSD Price: $1.00
+Staked: 3677.8719 Cake-LP ($160.35)
+BUD Per Week: 37632.00 ($16.20)
+APR: Day 1.44% Week 10.10% Year 525.45%
+You are staking 0.00 [BUD]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUD]-[BUSD] Cake LP
+Unstake 0.00 [BUD]-[BUSD] Cake LP
+Claim 0.00 BUD ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[BUD]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.95 TVL: $48.97
+BUD Price: $0.000431
+WBNB Price: $485.11
+Staked: 36.5776 Cake-LP ($34.67)
+BUD Per Week: 18816.00 ($8.10)
+APR: Day 3.34% Week 23.37% Year 1215.25%
+You are staking 0.00 [BUD]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUD]-[WBNB] Cake LP
+Unstake 0.00 [BUD]-[WBNB] Cake LP
+Claim 0.00 BUD ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.60 TVL: $3,333,341.45
+WBNB Price: $485.11
+BUSD Price: $1.00
+Staked: 0.9958 Cake-LP ($64.33)
+BUD Per Week: 3920.00 ($1.69)
+APR: Day 0.37% Week 2.62% Year 136.44%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 BUD ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+BUD
+ Price: $0.000431 Market Cap: $193.16 
+[%]
+Staked: 142878.3701 BUD ($61.52)
+BUD Per Week: 7840.00 ($3.38)
+APR: Day 0.78% Week 5.49% Year 285.33%
+You are staking 0.00 BUD ($0.00), 0.00% of the pool.
+Stake 0.00 BUD
+Unstake 0.00 BUD
+Claim 0.00 BUD ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+BUSD
+ Price: $1.00 Market Cap: $4,198,911,503.29 
+[%]
+Staked: 2.8801 BUSD ($2.88)
+BUD Per Week: 1568.00 ($0.68)
+APR: Day 3.35% Week 23.45% Year 1219.52%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 BUD ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WBNB
+ Price: $485.11 Market Cap: $3,437,468,824.18 
+[%]
+Staked: 0.0000 WBNB ($0.00)
+BUD Per Week: 784.00 ($0.34)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 WBNB ($0.00), NaN% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 BUD ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $323.74

@@ -1,0 +1,87 @@
+INFO  : https://tomb.finance
+*********************************************************************************
+
+Mon Aug 23 2021 13:21:29 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Masonry Contract
+Masonry
+There is a total 11452.69 TSHARE ($14,512,510.12) staked in the Masonry.
+You are staking 0 TSHARE ($0.00), 0.00% of the pool.
+There will be 228735.828569800476543605 TOMB issued at next expansion.
+Masonry APR: Day 3.60% Week 25.21% Year 1314.55%
+Stake 0.000000000000000000 TSHARE
+Unstake 0.000000000000000000 TSHARE
+Claim 0.000000000000000000 TOMB ($0.00)
+Revoke (set approval to 0)
+Exit
+
+
+-------------------------------------------------
+Staking Contract
+0 - 
+[WFTM]-[TOMB] SPOOKY LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.63 TVL: $17,733,006.34
+WFTM Price: $0.57
+TOMB Price: $0.57
+Staked: 10883065.7280 spLP ($17,718,493.86)
+TSHARE Per Week: 671.62 ($851,051.35)
+APR: Day 0.69% Week 4.80% Year 249.77%
+You are staking 0.00 [WFTM]-[TOMB] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[TOMB] SPOOKY LP
+Unstake 0.00 [WFTM]-[TOMB] SPOOKY LP
+Claim 0.00 TSHARE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WFTM]-[TSHARE] SPOOKY LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $60.47 TVL: $7,572,997.37
+WFTM Price: $0.57
+TSHARE Price: $1,267.17
+Staked: 125097.6775 spLP ($7,564,109.36)
+TSHARE Per Week: 454.05 ($575,358.66)
+APR: Day 1.09% Week 7.61% Year 395.53%
+You are staking 0.00 [WFTM]-[TSHARE] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[TSHARE] SPOOKY LP
+Unstake 0.00 [WFTM]-[TSHARE] SPOOKY LP
+Claim 0.00 TSHARE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $39,795,113.34
+-------------------------------------------------
+Below pools are now closed, please unstake your funds. There are no more rewards to be received.
+Staking Contract
+0 - 
+[WFTM]-[TOMB] SPOOKY LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.63 TVL: $17,733,006.34
+WFTM Price: $0.57
+TOMB Price: $0.57
+Staked: 332.0134 spLP ($540.54)
+TOMB Per Week: 84000.00 ($47,985.84)
+APR: Day 1268.19% Week 8877.32% Year 461620.72%
+You are staking 0.00 [WFTM]-[TOMB] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[TOMB] SPOOKY LP
+Unstake 0.00 [WFTM]-[TOMB] SPOOKY LP
+Claim 0.00 TOMB ($0.00)
+Staking or unstaking also claims rewards.

@@ -1,0 +1,324 @@
+INFO  : https://polygon4.SpacePortDeFi.com
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:52:03 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 21 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+GALACTICA
+ Price: $0.00 Market Cap: $0.00 
+Staked: 32902.5559 GALACTICA ($0.00)
+GALACTICA Per Week: 1779.43 ($1.84)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 GALACTICA ($0.00), NaN% of the pool.
+Stake 0.00 GALACTICA
+Unstake 0.00 GALACTICA
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,604,181.12 TVL: $33,279,104.37
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($36.94)
+GALACTICA Per Week: 684.39 ($0.71)
+APR: Day 0.27% Week 1.92% Year 99.67%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,798,181.37 TVL: $148,027,588.85
+USDC Price: $1.00
+WETH Price: $3,321.05
+Staked: 0.0000 UNI-V2 ($203.23)
+GALACTICA Per Week: 547.52 ($0.57)
+APR: Day 0.04% Week 0.28% Year 14.49%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WBTC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50,636,052,034,152.35 TVL: $16,274,736.13
+WBTC Price: $50,019.00
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+GALACTICA Per Week: 547.52 ($0.57)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBTC]-[USDC] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBTC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WBTC]-[USDC] Uni LP
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,563,847,264,021.66 TVL: $34,034,678.74
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($12.47)
+GALACTICA Per Week: 547.52 ($0.57)
+APR: Day 0.65% Week 4.54% Year 236.25%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[USDC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $74,952,245.29 TVL: $21,382,525.74
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 UNI-V2 ($33.92)
+GALACTICA Per Week: 410.64 ($0.42)
+APR: Day 0.18% Week 1.25% Year 65.13%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[DAI]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $27,060,139.15 TVL: $3,960,143.68
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($2.03)
+GALACTICA Per Week: 410.64 ($0.42)
+APR: Day 3.00% Week 20.97% Year 1090.43%
+You are staking 0.00 [DAI]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [DAI]-[USDT] Uni LP
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WMATIC
+ Price: $1.64 Market Cap: $603,154,343.29 
+[%]
+Staked: 4.0202 WMATIC ($6.59)
+GALACTICA Per Week: 410.64 ($0.42)
+APR: Day 0.92% Week 6.44% Year 335.10%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+WETH
+ Price: $3,321.05 Market Cap: $2,024,898,317.08 
+[%]
+Staked: 0.0017 WETH ($5.66)
+GALACTICA Per Week: 342.20 ($0.35)
+APR: Day 0.89% Week 6.26% Year 325.26%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+WBTC
+ Price: $50,019.00 Market Cap: $696,957,605.01 
+[%]
+Staked: 0.0000 WBTC ($1.43)
+GALACTICA Per Week: 342.20 ($0.35)
+APR: Day 3.53% Week 24.70% Year 1284.32%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+QUICK
+ Price: $725.40 Market Cap: $694,401,246.94 
+[%]
+Staked: 0.0468 QUICK ($33.96)
+GALACTICA Per Week: 273.76 ($0.28)
+APR: Day 0.12% Week 0.83% Year 43.37%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+USDC
+ Price: $1.00 Market Cap: $1,042,578,139.51 
+[%]
+Staked: 12.4800 USDC ($12.46)
+GALACTICA Per Week: 342.20 ($0.35)
+APR: Day 0.41% Week 2.84% Year 147.71%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+USDT
+ Price: $1.00 Market Cap: $314,972,385.85 
+[%]
+Staked: 35.3544 USDT ($35.32)
+GALACTICA Per Week: 342.20 ($0.35)
+APR: Day 0.14% Week 1.00% Year 52.13%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+DAI
+ Price: $1.00 Market Cap: $376,545,250.79 
+[%]
+Staked: 16.2240 DAI ($16.21)
+GALACTICA Per Week: 342.20 ($0.35)
+APR: Day 0.31% Week 2.18% Year 113.60%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+AAVE
+ Price: $408.15 Market Cap: $155,229,476.11 
+[%]
+Staked: 0.0110 AAVE ($4.51)
+GALACTICA Per Week: 273.76 ($0.28)
+APR: Day 0.90% Week 6.28% Year 326.80%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+LINK
+ Price: $28.57 Market Cap: $64,832,014.27 
+[%]
+Staked: 0.4495 LINK ($12.84)
+GALACTICA Per Week: 273.76 ($0.28)
+APR: Day 0.32% Week 2.21% Year 114.68%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+SATELITE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 11786.9088 SATELITE ($0.00)
+GALACTICA Per Week: 136.88 ($0.14)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SATELITE ($0.00), NaN% of the pool.
+Stake 0.00 SATELITE - Fee 2%
+Unstake 0.00 SATELITE
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+STARSHIP
+ Price: $0.00 Market Cap: $0.00 
+Staked: 5558.7565 STARSHIP ($0.00)
+GALACTICA Per Week: 136.88 ($0.14)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 STARSHIP ($0.00), NaN% of the pool.
+Stake 0.00 STARSHIP - Fee 2%
+Unstake 0.00 STARSHIP
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+UFO
+ Price: $0.00 Market Cap: $0.00 
+Staked: 4634.5197 UFO ($0.00)
+GALACTICA Per Week: 273.76 ($0.28)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 UFO ($0.00), NaN% of the pool.
+Stake 0.00 UFO - Fee 2%
+Unstake 0.00 UFO
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[USDC]-[GALACTICA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $67,261.34 TVL: $82.71
+USDC Price: $1.00
+GALACTICA Price: $0.001035
+Staked: 0.0006 UNI-V2 ($43.17)
+GALACTICA Per Week: 5475.16 ($5.67)
+APR: Day 1.87% Week 13.12% Year 682.30%
+You are staking 0.00 [USDC]-[GALACTICA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[GALACTICA] Uni LP
+Unstake 0.00 [USDC]-[GALACTICA] Uni LP
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[WMATIC]-[GALACTICA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.08 TVL: $94.56
+WMATIC Price: $1.64
+GALACTICA Price: $0.001035
+Staked: 51.5941 UNI-V2 ($4.36)
+GALACTICA Per Week: 4106.37 ($4.25)
+APR: Day 13.92% Week 97.45% Year 5067.54%
+You are staking 0.00 [WMATIC]-[GALACTICA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[GALACTICA] Uni LP
+Unstake 0.00 [WMATIC]-[GALACTICA] Uni LP
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $465.12

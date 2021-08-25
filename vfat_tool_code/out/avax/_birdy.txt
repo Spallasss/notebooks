@@ -1,0 +1,132 @@
+INFO  : https://birdy.finance
+******************************************************************************
+
+Mon Aug 23 2021 13:14:56 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 6 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WAVAX]-[USDT] PGL
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $20,052,302.52 TVL: $1,311,249.66
+WAVAX Price: $49.33
+USDT Price: $1.24
+Staked: 0.0001 PGL ($2,875.48)
+BIRD Per Week: 120960.00 ($149.34)
+APR: Day 0.74% Week 5.19% Year 270.06%
+You are staking 0.00 [WAVAX]-[USDT] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[USDT] PGL
+Unstake 0.00 [WAVAX]-[USDT] PGL - Fee 4%
+Claim 0.00 BIRD ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WAVAX]-[PEFI] PGL
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $25.97 TVL: $3,915,697.57
+WAVAX Price: $49.33
+PEFI Price: $2.15
+Staked: 160.7493 PGL ($4,174.42)
+BIRD Per Week: 241920.00 ($298.67)
+APR: Day 1.02% Week 7.15% Year 372.05%
+You are staking 0.00 [WAVAX]-[PEFI] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[PEFI] PGL
+Unstake 0.00 [WAVAX]-[PEFI] PGL - Fee 4%
+Claim 0.00 BIRD ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[PNG]-[PEFI] PGL
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.85 TVL: $3,194,340.82
+PNG Price: $3.49
+PEFI Price: $2.15
+Staked: 123.1026 PGL ($719.64)
+BIRD Per Week: 362880.00 ($448.01)
+APR: Day 8.89% Week 62.26% Year 3237.27%
+You are staking 0.00 [PNG]-[PEFI] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [PNG]-[PEFI] PGL
+Unstake 0.00 [PNG]-[PEFI] PGL - Fee 4%
+Claim 0.00 BIRD ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[BIRD]-[WAVAX] PGL
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.54 TVL: $3,211.05
+BIRD Price: $0.001235
+WAVAX Price: $49.33
+Staked: 5529.6115 PGL ($3,007.62)
+BIRD Per Week: 967680.00 ($1,194.69)
+APR: Day 5.67% Week 39.72% Year 2065.55%
+You are staking 0.00 [BIRD]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [BIRD]-[WAVAX] PGL
+Unstake 0.00 [BIRD]-[WAVAX] PGL - Fee 4%
+Claim 0.00 BIRD ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BIRD]-[USDT] PGL
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $81,417.45 TVL: $8,401.04
+BIRD Price: $0.001235
+USDT Price: $1.24
+Staked: 0.0423 PGL ($3,441.72)
+BIRD Per Week: 1209600.00 ($1,493.37)
+APR: Day 6.20% Week 43.39% Year 2256.29%
+You are staking 0.00 [BIRD]-[USDT] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [BIRD]-[USDT] PGL
+Unstake 0.00 [BIRD]-[USDT] PGL - Fee 4%
+Claim 0.00 BIRD ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[PNG]-[WAVAX] PGL
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $29.72 TVL: $176,331,738.14
+PNG Price: $3.49
+WAVAX Price: $49.33
+Staked: 912.1152 PGL ($27,104.80)
+BIRD Per Week: 120960.00 ($149.34)
+APR: Day 0.08% Week 0.55% Year 28.65%
+You are staking 0.00 [PNG]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [PNG]-[WAVAX] PGL
+Unstake 0.00 [PNG]-[WAVAX] PGL - Fee 4%
+Claim 0.00 BIRD ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $41,323.67

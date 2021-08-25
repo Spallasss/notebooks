@@ -1,0 +1,87 @@
+INFO  : https://app.tendieswap.org
+*******************************************************************************
+
+Mon Aug 23 2021 09:28:36 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 9 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+TENDIE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 4232364.3895 TENDIE ($0.00)
+TENDIE Per Week: 2520.00 ($5,450.51)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 TENDIE ($0.00), NaN% of the pool.
+Stake 0.00 TENDIE
+Unstake 0.00 TENDIE
+Claim 0.00 TENDIE ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[TENDIE]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $66.03 TVL: $624,041.49
+TENDIE Price: $2.16
+WBNB Price: $487.75
+Staked: 9424.2758 TDS ($622,285.87)
+TENDIE Per Week: 2520.00 ($5,450.51)
+APR: Day 0.13% Week 0.88% Year 45.55%
+You are staking 0.00 [TENDIE]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TENDIE]-[WBNB] Uni LP
+Unstake 0.00 [TENDIE]-[WBNB] Uni LP
+Claim 0.00 TENDIE ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[TENDIE]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.98 TVL: $430,425.09
+TENDIE Price: $2.16
+BUSD Price: $1.00
+Staked: 143929.0265 TDS ($429,232.25)
+TENDIE Per Week: 2520.00 ($5,450.51)
+APR: Day 0.18% Week 1.27% Year 66.03%
+You are staking 0.00 [TENDIE]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TENDIE]-[BUSD] Uni LP
+Unstake 0.00 [TENDIE]-[BUSD] Uni LP
+Claim 0.00 TENDIE ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[ETH]-[TENDIE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $171.86 TVL: $432,961.87
+ETH Price: $3,333.34
+TENDIE Price: $2.16
+Staked: 2496.7670 TDS ($429,098.51)
+TENDIE Per Week: 2520.00 ($5,450.51)
+APR: Day 0.18% Week 1.27% Year 66.05%
+You are staking 0.00 [ETH]-[TENDIE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[TENDIE] Uni LP
+Unstake 0.00 [ETH]-[TENDIE] Uni LP
+Claim 0.00 TENDIE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,480,616.63

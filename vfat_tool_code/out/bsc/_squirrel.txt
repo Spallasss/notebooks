@@ -1,0 +1,219 @@
+INFO  : https://squirrel.finance
+**********************************************************************************
+
+Mon Aug 23 2021 14:03:01 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Showing incentivized pools only.
+
+[NUTS]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $58.90 TVL: $1,151,232.19
+NUTS Price: $1.71
+WBNB Price: $484.40
+Staked: 8866.1134 APE-LP ($522,245.19)
+NUTS Per Week: 6000.00 ($10,260.00)
+APR: Day 0.28% Week 1.96% Year 102.16%
+You are staking 0.00 [NUTS]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NUTS]-[WBNB] APE LP
+Unstake 0.00 [NUTS]-[WBNB] APE LP
+Harvest 0.00 NUTS ($0.00)
+Unstaking also harvests rewards.
+
+[NUTS]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.69 TVL: $467,292.63
+NUTS Price: $1.71
+BUSD Price: $1.00
+Staked: 173732.2160 Cake-LP ($466,523.76)
+NUTS Per Week: 6000.00 ($10,260.00)
+APR: Day 0.31% Week 2.20% Year 114.36%
+You are staking 0.00 [NUTS]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+NUTS
+ Price: $1.71 Market Cap: $2,350,395.00 
+[%]
+Staked: 678692.4359 NUTS ($1,160,564.07)
+Estimated APR: 200% (varies from TVL & NUTS price)
+Stake 0.00 [NUTS]-[BUSD] Cake LP
+Unstake 0.00 [NUTS]-[BUSD] Cake LP
+Harvest 0.00 NUTS ($0.00)
+Unstaking also harvests rewards.
+
+You are staking 0.00 NUTS ($0.00), 0.00% of the pool.
+Stake 0.00 NUTS
+Unstake 0.00 NUTS
+Compound 0.00 NUTS-BNB APE LP ($0.00)
+Harvest 0.00 NUTS-BNB APE LP ($0.00)
+Unstaking also harvests rewards.
+
+Cake
+ Price: $25.00 Market Cap: $10,402,890,851.51 
+[%]
+Staked: 72289.1557 Cake ($1,807,228.89)
+NUTS Per Week: 3000.00 ($5,130.00)
+APR: ~80% CAKE + 14.76% NUTS
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Compound 0.00 NUTS ($0.00)
+Harvest 0.00 NUTS ($0.00)
+Unstaking also harvests rewards.
+
+BANANA
+ Price: $4.78 Market Cap: $302,848,483.08 
+[%]
+Staked: -24508.2627 BANANA ($-117,149.50)
+NUTS Per Week: 2000.00 ($3,420.00)
+APR: ~140% BANANA + -151.81% NUTS
+You are staking 0.00 BANANA ($0.00), 0.00% of the pool.
+SWAMP
+ Price: $1.86 Market Cap: $1,696,226.56 
+[%]
+Staked: 49976.9601 SWAMP ($92,957.15)
+Stake 0.00 BANANA
+Unstake 0.00 BANANA
+Compound 0.00 NUTS ($0.00)
+Harvest 0.00 NUTS ($0.00)
+Unstaking also harvests rewards.
+
+NUTS Per Week: 1500.00 ($2,565.00)
+APR: ~200% SWAMP + 143.49% NUTS
+You are staking 0.00 SWAMP ($0.00), 0.00% of the pool.
+Stake 0.00 SWAMP
+Unstake 0.00 SWAMP
+Compound 0.00 NUTS ($0.00)
+Harvest 0.00 NUTS ($0.00)
+Unstaking also harvests rewards.
+
+[AUTO]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,737.39 TVL: $29,761,513.80
+AUTO Price: $1,418.24
+WBNB Price: $484.40
+Staked: 6.2592 Cake-LP ($10,874.71)
+NUTS Per Week: 1500.00 ($2,565.00)
+APR: ~200% AUTO + 1226.52% NUTS
+You are staking 0.00 [AUTO]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AUTO]-[WBNB] Cake LP
+Unstake 0.00 [AUTO]-[WBNB] Cake LP
+Harvest 0.00 AUTO + 0.00 NUTS
+Unstaking also harvests rewards.
+
+[WBNB]-[BAKE] BLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $114.81 TVL: $60,131,083.32
+WBNB Price: $484.40
+BAKE Price: $3.17
+Staked: 2360.7398 BLP ($271,031.29)
+NUTS Per Week: 1000.00 ($1,710.00)
+APR: ~40% BAKE + 32.81% NUTS
+You are staking 0.00 [WBNB]-[BAKE] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BAKE] BLP
+Unstake 0.00 [WBNB]-[BAKE] BLP
+Harvest 0.00 BAKE + 0.00 NUTS
+Unstaking also harvests rewards.
+
+[USDT]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $55,164,561.27
+USDT Price: $1.00
+USDC Price: $1.00
+Staked: 551374.5436 BSW-LP ($1,103,461.22)
+NUTS Per Week: 2000.00 ($3,420.00)
+APR: ~20% BSW + 16.12% NUTS
+You are staking 0.00 [USDT]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] Uni LP
+Unstake 0.00 [USDT]-[USDC] Uni LP
+BSW
+ Price: $1.71 Market Cap: $152,613,091.58 
+[%]
+Staked: 159620.7303 BSW ($272,951.45)
+Harvest 0.00 BSW + 0.00 NUTS
+Unstaking also harvests rewards.
+
+NUTS Per Week: 1500.00 ($2,565.00)
+APR: ~200% BSW + 48.87% NUTS
+You are staking 0.00 BSW ($0.00), 0.00% of the pool.
+Stake 0.00 BSW
+Unstake 0.00 BSW
+Cake
+ Price: $25.00 Market Cap: $10,402,890,851.51 
+[%]
+Staked: 23658.8428 Cake ($591,471.07)
+Harvest 0.00 BSW + 0.00 NUTS
+Unstaking also harvests rewards.
+
+NUTS Per Week: 1500.00 ($2,565.00)
+APR: ~80% BTT + 22.55% NUTS
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Harvest 0.00 BTT + 0.00 NUTS
+Unstaking also harvests rewards.
+
+BUNNY
+ Price: $7.77 Market Cap: $86,282,950.79 
+[%]
+Staked: 1860.9552 BUNNY ($14,459.62)
+NUTS Per Week: 1000.00 ($1,710.00)
+APR: ~140% WBNB + 614.95% NUTS
+You are staking 0.00 BUNNY ($0.00), 0.00% of the pool.
+Stake 0.00 BUNNY
+Unstake 0.00 BUNNY
+Harvest 0.00 WBNB + 0.00 NUTS
+Unstaking also harvests rewards.
+
+KRW
+ Price: $0.004932 Market Cap: $49,321,095.07 
+[%]
+Staked: 55853659.7780 KRW ($275,476.39)
+NUTS Per Week: 1500.00 ($2,565.00)
+APR: ~300% KROWN + 48.42% NUTS
+You are staking 0.00 KRW ($0.00), 0.00% of the pool.
+Stake 0.00 KRW
+Unstake 0.00 KRW
+Compound 0.00 NUTS ($0.00)
+Harvest 0.00 NUTS ($0.00)
+Unstaking also harvests rewards.
+
+HUNNY
+ Price: $1.17 Market Cap: $22,293,155.47 
+[%]
+Staked: 70170.3236 HUNNY ($82,099.28)
+NUTS Per Week: 1500.00 ($2,565.00)
+APR: ~120% WBNB + 162.46% NUTS
+You are staking 0.00 HUNNY ($0.00), 0.00% of the pool.
+Stake 0.00 HUNNY
+Unstake 0.00 HUNNY
+Harvest 0.00 WBNB + 0.00 NUTS
+Unstaking also harvests rewards.

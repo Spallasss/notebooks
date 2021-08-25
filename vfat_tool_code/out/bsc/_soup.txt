@@ -1,0 +1,91 @@
+INFO  : https://soups.finance
+*********************************************************************************
+
+Mon Aug 23 2021 13:35:33 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 2 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[SOUP]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $73.26 TVL: $28,233.26
+SOUP Price: $2.50
+WBNB Price: $481.19
+Staked: 310.3301 Cake-LP ($22,735.94)
+SOUPS Per Week: 612.86 ($625.39)
+APR: Day 0.39% Week 2.75% Year 143.04%
+You are staking 0.00 [SOUP]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SOUP]-[WBNB] Cake LP
+Unstake 0.00 [SOUP]-[WBNB] Cake LP
+Claim 0.00 SOUPS ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[SOUPS]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.06 TVL: $11,430.32
+SOUPS Price: $1.02
+WBNB Price: $481.19
+Staked: 209.4614 Cake-LP ($10,484.73)
+SOUPS Per Week: 193.54 ($197.49)
+APR: Day 0.27% Week 1.88% Year 97.95%
+You are staking 0.00 [SOUPS]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SOUPS]-[WBNB] Cake LP
+Unstake 0.00 [SOUPS]-[WBNB] Cake LP
+Claim 0.00 SOUPS ($0.00)
+Staking or unstaking also claims rewards.
+Boardroom
+There is a total 3672.20 SOUPS ($3,747.28) staked in the Boardroom.
+You are staking 0 SOUPS ($0.00), 0.00% of the pool.
+There will be 359.25 SOUP issued at next expansion.
+Boardroom APR: Day 95.92% Week 671.45% Year 35011.22%
+Stake 0.00 SOUPS
+Unstake 0.00 SOUPS
+Claim 0.00 SOUP ($0.00)
+Revoke (set approval to 0)
+Exit
+
+
+* Expired *
+
+Please remove your funds
+
+Finished reading smart contracts.
+
+[SOUP]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $73.26 TVL: $28,233.26
+SOUP Price: $2.50
+WBNB Price: $481.19
+Staked: 22.7280 Cake-LP ($1,665.14)
+SOUP Per Week: 700.00 ($1,750.94)
+APR: Day 15.02% Week 105.15% Year 5467.95%
+You are staking 0.00 [SOUP]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SOUP]-[WBNB] Cake LP
+Unstake 0.00 [SOUP]-[WBNB] Cake LP
+Claim 0.00 SOUP ($0.00)
+Staking or unstaking also claims rewards.

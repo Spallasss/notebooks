@@ -1,0 +1,298 @@
+INFO  : https://www.aotfinance.com
+**********************************************************************************
+
+Mon Aug 23 2021 14:21:17 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 18 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[BUSD]-[AOT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.06 TVL: $226.16
+BUSD Price: $1.00
+AOT Price: $0.000652
+Staked: 2885.4500 Cake-LP ($162.99)
+AOT Per Week: 24585.37 ($16.02)
+APR: Day 1.40% Week 9.83% Year 511.19%
+You are staking 0.00 [BUSD]-[AOT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[AOT] Cake LP
+Unstake 0.00 [BUSD]-[AOT] Cake LP
+Claim 0.00 AOT ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WBNB]-[AOT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.22 TVL: $80.90
+WBNB Price: $483.99
+AOT Price: $0.000652
+Staked: 44.7127 Cake-LP ($54.68)
+AOT Per Week: 18439.02 ($12.02)
+APR: Day 3.14% Week 21.98% Year 1142.77%
+You are staking 0.00 [WBNB]-[AOT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[AOT] Cake LP
+Unstake 0.00 [WBNB]-[AOT] Cake LP
+Claim 0.00 AOT ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.72 TVL: $527,209,212.83
+WBNB Price: $483.99
+BUSD Price: $1.00
+Staked: 2.5067 Cake-LP ($124.62)
+AOT Per Week: 3687.80 ($2.40)
+APR: Day 0.28% Week 1.93% Year 100.29%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 AOT ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,024,024.08
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 167.5075 Cake-LP ($342.65)
+AOT Per Week: 3687.80 ($2.40)
+APR: Day 0.10% Week 0.70% Year 36.47%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 AOT ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,230.06 TVL: $171,979,727.17
+BTCB Price: $50,135.00
+WBNB Price: $483.99
+Staked: 0.0204 Cake-LP ($209.12)
+AOT Per Week: 3687.80 ($2.40)
+APR: Day 0.16% Week 1.15% Year 59.77%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 AOT ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,648.66 TVL: $261,452,317.32
+ETH Price: $3,322.90
+WBNB Price: $483.99
+Staked: 0.2362 Cake-LP ($625.68)
+AOT Per Week: 3687.80 ($2.40)
+APR: Day 0.05% Week 0.38% Year 19.98%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 AOT ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.03 TVL: $81,280,379.24
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 96.6123 Cake-LP ($196.53)
+AOT Per Week: 3687.80 ($2.40)
+APR: Day 0.17% Week 1.22% Year 63.59%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 AOT ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,810,524.25
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 86.1532 Cake-LP ($177.18)
+AOT Per Week: 3687.80 ($2.40)
+APR: Day 0.19% Week 1.36% Year 70.54%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 AOT ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $240.32 TVL: $82,632,510.67
+DOT Price: $27.99
+WBNB Price: $483.99
+Staked: 0.2862 Cake-LP ($68.79)
+AOT Per Week: 3687.80 ($2.40)
+APR: Day 0.50% Week 3.49% Year 181.69%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 AOT ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+AOT
+ Price: $0.000652 Market Cap: $601.07 
+[%]
+Staked: 338601.4519 AOT ($220.68)
+AOT Per Week: 12292.68 ($8.01)
+APR: Day 0.52% Week 3.63% Year 188.78%
+You are staking 0.00 AOT ($0.00), 0.00% of the pool.
+Stake 0.00 AOT
+Unstake 0.00 AOT
+Claim 0.00 AOT ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+BUSD
+ Price: $1.00 Market Cap: $4,194,416,433.94 
+[%]
+Staked: 2080.4490 BUSD ($2,077.19)
+AOT Per Week: 2458.54 ($1.60)
+APR: Day 0.01% Week 0.08% Year 4.01%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 AOT ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+WBNB
+ Price: $483.99 Market Cap: $3,430,245,923.97 
+[%]
+Staked: 1.3433 WBNB ($650.13)
+AOT Per Week: 2458.54 ($1.60)
+APR: Day 0.04% Week 0.25% Year 12.82%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 AOT ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+USDT
+ Price: $1.00 Market Cap: $3,377,097,883.96 
+[%]
+Staked: 76.5637 USDT ($76.50)
+AOT Per Week: 2458.54 ($1.60)
+APR: Day 0.30% Week 2.09% Year 108.92%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 AOT ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+BTCB
+ Price: $50,135.00 Market Cap: $4,286,592,635.00 
+[%]
+Staked: 0.0048 BTCB ($240.65)
+AOT Per Week: 2458.54 ($1.60)
+APR: Day 0.10% Week 0.67% Year 34.62%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 AOT ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+ETH
+ Price: $3,322.90 Market Cap: $4,336,384,500.00 
+[%]
+Staked: 0.0221 ETH ($73.57)
+AOT Per Week: 2458.54 ($1.60)
+APR: Day 0.31% Week 2.18% Year 113.25%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 AOT ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+DAI
+ Price: $1.00 Market Cap: $261,817,648.00 
+[%]
+Staked: 96.0006 DAI ($95.93)
+AOT Per Week: 2458.54 ($1.60)
+APR: Day 0.24% Week 1.67% Year 86.85%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 AOT ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+USDC
+ Price: $1.00 Market Cap: $1,775,625,237.00 
+[%]
+Staked: 119.7295 USDC ($119.50)
+AOT Per Week: 2458.54 ($1.60)
+APR: Day 0.19% Week 1.34% Year 69.72%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 AOT ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+DOT
+ Price: $27.99 Market Cap: $391,859,999.86 
+[%]
+Staked: 1.7454 DOT ($48.85)
+AOT Per Week: 2458.54 ($1.60)
+APR: Day 0.47% Week 3.28% Year 170.55%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 AOT ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $5,565.25

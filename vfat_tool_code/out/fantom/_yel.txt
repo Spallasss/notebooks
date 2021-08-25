@@ -1,0 +1,68 @@
+INFO  : https://yel.finance
+********************************************************************************
+
+Mon Aug 23 2021 13:29:35 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 2 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+YEL
+ Price: $0.01 Market Cap: $561,069.22 
+Staked: 11389065.1195 YEL ($153,306.46)
+YEL Per Week: 157342.66 ($2,117.97)
+APR: Day 0.20% Week 1.38% Year 71.84%
+You are staking 0.00 YEL ($0.00), 0.00% of the pool.
+Stake 0.00 YEL
+Unstake 0.00 YEL
+Claim 0.00 YEL ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WFTM]-[YEL] SPOOKY LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.21 TVL: $432,843.87
+WFTM Price: $0.57
+YEL Price: $0.01
+Staked: 1452402.4408 spLP ($308,464.28)
+YEL Per Week: 1573426.57 ($21,179.65)
+APR: Day 0.98% Week 6.87% Year 357.04%
+You are staking 0.00 [WFTM]-[YEL] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[YEL] SPOOKY LP
+Unstake 0.00 [WFTM]-[YEL] SPOOKY LP
+Claim 0.00 YEL ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $461,770.74
+Staking Contract
+Found 1 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+xBOO
+ Price: $0.00 Market Cap: $0.00 
+Staked: 482.4324 xBOO ($0.00)
+YEL Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 xBOO ($0.00), NaN% of the pool.
+Stake 0.00 xBOO
+Unstake 0.00 xBOO
+Claim 0.00 YEL ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $0.00

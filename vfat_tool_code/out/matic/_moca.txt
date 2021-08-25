@@ -1,0 +1,67 @@
+INFO  : https://museumofcryptoart.com
+*******************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:34:08 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+MOCA
+ Price: $5.59 Market Cap: $19,015,721.10 
+[%]
+Staked: 48774.4745 MOCA ($272,863.52)
+MOCA Per Week: 3111.11 ($17,404.77)
+APR: Day 0.91% Week 6.38% Year 331.69%
+You are staking 0.000000 MOCA $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 MOCA
+Unstake 0.000000 MOCA
+Claim 0.000000 MOCA ($0.00)
+Revoke (set approval to 0)
+Exit
+[WETH]-[MOCA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $275.34 TVL: $670,515.66
+WETH Price: $3,321.91
+MOCA Price: $5.59
+Staked: 782.7354 UNI-V2 ($215,518.44)
+MOCA Per Week: 6222.22 ($34,809.55)
+APR: Day 2.31% Week 16.15% Year 839.88%
+You are staking 0.000000 [WETH]-[MOCA] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WETH]-[MOCA] Uni LP
+Unstake 0.000000 [WETH]-[MOCA] Uni LP
+Claim 0.000000 MOCA ($0.00)
+Revoke (set approval to 0)
+Exit
+[USDC]-[MOCA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,769,504.58 TVL: $617,798.47
+USDC Price: $1.00
+MOCA Price: $5.59
+Staked: 0.0428 UNI-V2 ($204,020.56)
+MOCA Per Week: 6222.22 ($34,809.55)
+APR: Day 2.44% Week 17.06% Year 887.21%
+You are staking 0.000000 [USDC]-[MOCA] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [USDC]-[MOCA] Uni LP
+Unstake 0.000000 [USDC]-[MOCA] Uni LP
+Claim 0.000000 MOCA ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $692,402.52

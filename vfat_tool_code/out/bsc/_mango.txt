@@ -1,0 +1,404 @@
+INFO  : http://mangofarm.finance
+****************************************************************************************
+
+Mon Aug 23 2021 14:15:25 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 21 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[MANGO]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.31 TVL: $948.36
+MANGO Price: $0.02
+BUSD Price: $1.00
+Staked: 3067.1477 Cheese-LP ($937.35)
+MANGO Per Week: 4178.90 ($72.02)
+APR: Day 1.10% Week 7.68% Year 399.56%
+You are staking 0.00 [MANGO]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MANGO]-[BUSD] Uni LP - Fee 2.5%
+Unstake 0.00 [MANGO]-[BUSD] Uni LP
+Claim 0.00 MANGO ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[MANGO]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7.83 TVL: $494.49
+MANGO Price: $0.02
+WBNB Price: $483.98
+Staked: 59.9411 Cheese-LP ($469.25)
+MANGO Per Week: 1955.27 ($33.70)
+APR: Day 1.03% Week 7.18% Year 373.44%
+You are staking 0.00 [MANGO]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MANGO]-[WBNB] Uni LP - Fee 2.5%
+Unstake 0.00 [MANGO]-[WBNB] Uni LP
+Claim 0.00 MANGO ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $58.80 TVL: $2,627.56
+WBNB Price: $483.98
+BUSD Price: $1.00
+Staked: 15.5036 Cheese-LP ($911.68)
+MANGO Per Week: 1188.50 ($20.48)
+APR: Day 0.32% Week 2.25% Year 116.83%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP - Fee 3.5%
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 MANGO ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[MANGO]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.31 TVL: $948.36
+MANGO Price: $0.02
+BUSD Price: $1.00
+Staked: 3067.1477 Cheese-LP ($937.35)
+MANGO Per Week: 0.08 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.01%
+You are staking 0.00 [MANGO]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MANGO]-[BUSD] Uni LP - Fee 4.5%
+Unstake 0.00 [MANGO]-[BUSD] Uni LP
+Claim 0.00 MANGO ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[MANGO]-[CHS] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.06 TVL: $207.64
+MANGO Price: $0.02
+CHS Price: $0.04
+Staked: 1499.6455 Cheese-LP ($85.19)
+MANGO Per Week: 153.35 ($2.64)
+APR: Day 0.44% Week 3.10% Year 161.34%
+You are staking 0.00 [MANGO]-[CHS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MANGO]-[CHS] Uni LP
+Unstake 0.00 [MANGO]-[CHS] Uni LP
+Claim 0.00 MANGO ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[PIZZA]-[MANGO] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.13 TVL: $2,657.57
+PIZZA Price: $0.22
+MANGO Price: $0.02
+Staked: 20412.0658 Cheese-LP ($2,652.48)
+MANGO Per Week: 27220.39 ($469.14)
+APR: Day 2.53% Week 17.69% Year 919.72%
+You are staking 0.00 [PIZZA]-[MANGO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PIZZA]-[MANGO] Uni LP - Fee 3.5%
+Unstake 0.00 [PIZZA]-[MANGO] Uni LP
+Claim 0.00 MANGO ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[ETH]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $118.37 TVL: $2,787.44
+ETH Price: $3,322.85
+BUSD Price: $1.00
+Staked: 6.6415 Cheese-LP ($786.13)
+MANGO Per Week: 38.34 ($0.66)
+APR: Day 0.01% Week 0.08% Year 4.37%
+You are staking 0.00 [ETH]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BUSD] Uni LP - Fee 2.5%
+Unstake 0.00 [ETH]-[BUSD] Uni LP
+Claim 0.00 MANGO ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[USDT]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $51.13 TVL: $20,123.57
+USDT Price: $1.00
+WBNB Price: $483.98
+Staked: 1.5997 Cheese-LP ($81.80)
+MANGO Per Week: 38.34 ($0.66)
+APR: Day 0.12% Week 0.81% Year 42.01%
+You are staking 0.00 [USDT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Uni LP - Fee 2.5%
+Unstake 0.00 [USDT]-[WBNB] Uni LP
+Claim 0.00 MANGO ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[PIZZA]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $25.48 TVL: $14,388.39
+PIZZA Price: $0.22
+WBNB Price: $483.98
+Staked: 11.1261 Cheese-LP ($283.52)
+MANGO Per Week: 38.34 ($0.66)
+APR: Day 0.03% Week 0.23% Year 12.12%
+You are staking 0.00 [PIZZA]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PIZZA]-[WBNB] Uni LP - Fee 2.5%
+Unstake 0.00 [PIZZA]-[WBNB] Uni LP
+Claim 0.00 MANGO ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[CHS]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11.45 TVL: $22,439.62
+CHS Price: $0.04
+WBNB Price: $483.98
+Staked: 466.9769 Cheese-LP ($5,348.79)
+MANGO Per Week: 3757.18 ($64.76)
+APR: Day 0.17% Week 1.21% Year 62.95%
+You are staking 0.00 [CHS]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CHS]-[WBNB] Uni LP - Fee 3.5%
+Unstake 0.00 [CHS]-[WBNB] Uni LP
+Claim 0.00 MANGO ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[MANGO]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.28 TVL: $95.92
+MANGO Price: $0.02
+USDT Price: $1.00
+Staked: 334.0548 Cheese-LP ($94.52)
+MANGO Per Week: 191.69 ($3.30)
+APR: Day 0.50% Week 3.50% Year 181.75%
+You are staking 0.00 [MANGO]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MANGO]-[USDT] Uni LP
+Unstake 0.00 [MANGO]-[USDT] Uni LP
+Claim 0.00 MANGO ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+MANGO
+ Price: $0.02 Market Cap: $37,726.23 
+[%]
+Staked: 1325483.7763 MANGO ($22,844.76)
+MANGO Per Week: 42598.38 ($734.18)
+APR: Day 0.46% Week 3.21% Year 167.12%
+You are staking 0.00 MANGO ($0.00), 0.00% of the pool.
+Stake 0.00 MANGO - Fee 5.5%
+Unstake 0.00 MANGO
+Claim 0.00 MANGO ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[KP3RB]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $30.00 TVL: $9,060.23
+KP3RB Price: $0.35
+WBNB Price: $483.98
+Staked: 97.7264 Cheese-LP ($2,931.99)
+MANGO Per Week: 3757.18 ($64.76)
+APR: Day 0.32% Week 2.21% Year 114.85%
+You are staking 0.00 [KP3RB]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KP3RB]-[WBNB] Uni LP - Fee 3.5%
+Unstake 0.00 [KP3RB]-[WBNB] Uni LP
+Claim 0.00 MANGO ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WBNB]-[KIWI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $22.86 TVL: $8,531.34
+WBNB Price: $483.98
+KIWI Price: $0.22
+Staked: 1.2231 Cheese-LP ($27.96)
+MANGO Per Week: 38.34 ($0.66)
+APR: Day 0.34% Week 2.36% Year 122.90%
+You are staking 0.00 [WBNB]-[KIWI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[KIWI] Uni LP - Fee 2.5%
+Unstake 0.00 [WBNB]-[KIWI] Uni LP
+Claim 0.00 MANGO ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[1INCH]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.98 TVL: $254.19
+1INCH Price: $3.44
+BUSD Price: $1.00
+Staked: 63.6409 Cheese-LP ($253.44)
+MANGO Per Week: 38.34 ($0.66)
+APR: Day 0.04% Week 0.26% Year 13.56%
+You are staking 0.00 [1INCH]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [1INCH]-[BUSD] Uni LP - Fee 2.5%
+Unstake 0.00 [1INCH]-[BUSD] Uni LP
+Claim 0.00 MANGO ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[Cake]-[MANGO] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.37 TVL: $458.93
+Cake Price: $24.97
+MANGO Price: $0.02
+Staked: 315.7246 Cheese-LP ($431.47)
+MANGO Per Week: 76.68 ($1.32)
+APR: Day 0.04% Week 0.31% Year 15.93%
+You are staking 0.00 [Cake]-[MANGO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[MANGO] Uni LP - Fee 2.5%
+Unstake 0.00 [Cake]-[MANGO] Uni LP
+Claim 0.00 MANGO ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[Cake]-[MANGO] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.36 TVL: $291.27
+Cake Price: $24.97
+MANGO Price: $0.02
+Staked: 206.8229 Cake-LP ($280.27)
+MANGO Per Week: 421.72 ($7.27)
+APR: Day 0.37% Week 2.59% Year 134.85%
+You are staking 0.00 [Cake]-[MANGO] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[MANGO] Cake LP - Fee 3.5%
+Unstake 0.00 [Cake]-[MANGO] Cake LP
+Claim 0.00 MANGO ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[1INCH]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $91.62 TVL: $908.39
+1INCH Price: $3.44
+WBNB Price: $483.98
+Staked: 9.5402 Cheese-LP ($874.09)
+MANGO Per Week: 9622.98 ($165.85)
+APR: Day 2.71% Week 18.97% Year 986.66%
+You are staking 0.00 [1INCH]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [1INCH]-[WBNB] Uni LP - Fee 3.5%
+Unstake 0.00 [1INCH]-[WBNB] Uni LP
+Claim 0.00 MANGO ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[MANGO]-[KITTY] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $2,367.86
+MANGO Price: $0.02
+KITTY Price: $0.0000000681
+Staked: 30558911.2140 Cheese-LP ($2,133.65)
+MANGO Per Week: 3412.13 ($58.81)
+APR: Day 0.39% Week 2.76% Year 143.32%
+You are staking 0.00 [MANGO]-[KITTY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MANGO]-[KITTY] Uni LP - Fee 2.5%
+Unstake 0.00 [MANGO]-[KITTY] Uni LP
+Claim 0.00 MANGO ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[CHS]-[ANKR] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.15 TVL: $1,109.30
+CHS Price: $0.04
+ANKR Price: $0.11
+Staked: 7367.6286 Cheese-LP ($1,087.43)
+MANGO Per Week: 345.05 ($5.95)
+APR: Day 0.08% Week 0.55% Year 28.44%
+You are staking 0.00 [CHS]-[ANKR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CHS]-[ANKR] Uni LP - Fee 2.5%
+Unstake 0.00 [CHS]-[ANKR] Uni LP
+Claim 0.00 MANGO ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+KITTY
+ Price: $0.0000000681 Market Cap: $68,136.05 
+[%]
+Staked: 333972637239.5883 KITTY ($22,755.58)
+MANGO Per Week: 1916928.82 ($33,038.33)
+APR: Day 20.74% Week 145.19% Year 7549.77%
+You are staking 0.00 KITTY ($0.00), 0.00% of the pool.
+Stake 0.00 KITTY - Fee 3.5%
+Unstake 0.00 KITTY
+Claim 0.00 MANGO ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $66,208.69

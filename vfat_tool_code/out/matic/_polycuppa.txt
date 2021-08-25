@@ -1,0 +1,225 @@
+INFO  : https://polycuppa.finance/
+
+*******************************************************************************************
+
+
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+
+
+Mon Aug 23 2021 12:13:30 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 15 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[CUPPA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $505,343.78 TVL: $21.12
+USDC Price: $1.00
+CUPPA Price: $0.05
+Staked: 0.0000 UNI-V2 ($20.23)
+CUPPA Per Week: 228.57 ($12.50)
+APR: Day 8.83% Week 61.81% Year 3214.08%
+You are staking 0.00 [USDC]-[CUPPA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[CUPPA] Uni LP
+Unstake 0.00 [USDC]-[CUPPA] Uni LP
+Claim 0.00 CUPPA ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+CUPPA
+ Price: $0.05 Market Cap: $266.62 
+[%]
+Staked: 2745.6990 CUPPA ($150.17)
+CUPPA Per Week: 228.57 ($12.50)
+APR: Day 1.19% Week 8.32% Year 432.88%
+You are staking 0.00 CUPPA ($0.00), 0.00% of the pool.
+Stake 0.00 CUPPA
+Unstake 0.00 CUPPA
+Claim 0.00 CUPPA ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+WMATIC
+ Price: $1.64 Market Cap: $601,970,869.37 
+[%]
+Staked: 178.5600 WMATIC ($292.84)
+CUPPA Per Week: 45.71 ($2.50)
+APR: Day 0.12% Week 0.85% Year 44.40%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 CUPPA ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WBTC
+ Price: $50,015.00 Market Cap: $697,151,944.58 
+[%]
+Staked: 0.0010 WBTC ($50.87)
+CUPPA Per Week: 45.71 ($2.50)
+APR: Day 0.70% Week 4.92% Year 255.58%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 CUPPA ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+DAI
+ Price: $1.00 Market Cap: $375,664,195.61 
+[%]
+Staked: 33.2502 DAI ($33.20)
+CUPPA Per Week: 45.71 ($2.50)
+APR: Day 1.08% Week 7.53% Year 391.63%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 CUPPA ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+USDT
+ Price: $1.00 Market Cap: $314,846,345.41 
+[%]
+Staked: 10.0000 USDT ($9.99)
+CUPPA Per Week: 45.71 ($2.50)
+APR: Day 3.58% Week 25.03% Year 1301.60%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 CUPPA ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+USDC
+ Price: $1.00 Market Cap: $1,046,023,731.72 
+[%]
+Staked: 41.5884 USDC ($41.48)
+CUPPA Per Week: 45.71 ($2.50)
+APR: Day 0.86% Week 6.03% Year 313.42%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 CUPPA ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+LINK
+ Price: $28.56 Market Cap: $64,809,321.93 
+[%]
+Staked: 2.1971 LINK ($62.75)
+CUPPA Per Week: 45.71 ($2.50)
+APR: Day 0.57% Week 3.98% Year 207.20%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 CUPPA ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+QUICK
+ Price: $727.30 Market Cap: $696,220,053.63 
+[%]
+Staked: 0.0327 QUICK ($23.76)
+CUPPA Per Week: 45.71 ($2.50)
+APR: Day 1.50% Week 10.52% Year 547.14%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 CUPPA ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+AAVE
+ Price: $408.06 Market Cap: $155,338,070.10 
+[%]
+Staked: 0.1131 AAVE ($46.13)
+CUPPA Per Week: 45.71 ($2.50)
+APR: Day 0.77% Week 5.42% Year 281.81%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 CUPPA ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+MOCHA
+ Price: $0.00 Market Cap: $0.00 
+Staked: 314.2358 MOCHA ($0.00)
+CUPPA Per Week: 68.57 ($3.75)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MOCHA ($0.00), NaN% of the pool.
+Stake 0.00 MOCHA
+Unstake 0.00 MOCHA
+Claim 0.00 CUPPA ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[WMATIC]-[CUPPA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.63 TVL: $50.54
+WMATIC Price: $1.64
+CUPPA Price: $0.05
+Staked: 78.3540 UNI-V2 ($49.04)
+CUPPA Per Week: 228.57 ($12.50)
+APR: Day 3.64% Week 25.49% Year 1325.66%
+You are staking 0.00 [WMATIC]-[CUPPA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[CUPPA] Uni LP
+Unstake 0.00 [WMATIC]-[CUPPA] Uni LP
+Claim 0.00 CUPPA ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[USDC]-[CUPPA] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $482,744.68 TVL: $58.28
+USDC Price: $1.00
+CUPPA Price: $0.05
+Staked: 0.0001 SLP ($47.90)
+CUPPA Per Week: 228.57 ($12.50)
+APR: Day 3.73% Week 26.10% Year 1357.17%
+You are staking 0.00 [USDC]-[CUPPA] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[CUPPA] SLP
+Unstake 0.00 [USDC]-[CUPPA] SLP
+Claim 0.00 CUPPA ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+PolyDoge
+ Price: $0.0000000064 Market Cap: $6,408,000.00 
+[%]
+Staked: 455352866.3094 PolyDoge ($2.92)
+CUPPA Per Week: 45.71 ($2.50)
+APR: Day 12.24% Week 85.68% Year 4455.62%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 4%
+Unstake 0.00 PolyDoge
+Claim 0.00 CUPPA ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+WETH
+ Price: $3,320.03 Market Cap: $2,027,862,868.46 
+[%]
+Staked: 0.0033 WETH ($10.81)
+CUPPA Per Week: 45.71 ($2.50)
+APR: Day 3.30% Week 23.13% Year 1202.68%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 CUPPA ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $842.07

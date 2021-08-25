@@ -1,0 +1,433 @@
+INFO  : https://silver.eternity.money
+************************************************************************************
+
+Mon Aug 23 2021 15:09:35 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 27 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[ETY]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $99,211.31 TVL: $278.20
+ETY Price: $0.001766
+BUSD Price: $1.00
+Staked: 0.0002 Cake-LP ($16.87)
+SILVER Per Week: 917.29 ($2.09)
+APR: Day 1.77% Week 12.40% Year 644.66%
+You are staking 0.00 [ETY]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETY]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [ETY]-[BUSD] Cake LP
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+ETY
+ Price: $0.001766 Market Cap: $558.07 
+[%]
+Staked: 34003.0805 ETY ($60.04)
+SILVER Per Week: 733.83 ($1.67)
+APR: Day 0.40% Week 2.79% Year 144.93%
+You are staking 0.00 ETY ($0.00), 0.00% of the pool.
+Stake 0.00 ETY - Fee 1%
+Unstake 0.00 ETY
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+SILVER
+ Price: $0.00 Market Cap: $0.00 
+Staked: 64464.3835 SILVER ($0.00)
+SILVER Per Week: 1589.97 ($3.63)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SILVER ($0.00), NaN% of the pool.
+Stake 0.00 SILVER
+Unstake 0.00 SILVER
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.97 TVL: $526,543,157.72
+WBNB Price: $488.96
+BUSD Price: $1.00
+Staked: 0.0211 Cake-LP ($1.06)
+SILVER Per Week: 366.92 ($0.84)
+APR: Day 11.32% Week 79.27% Year 4122.28%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,252.73 TVL: $174,568,706.49
+BTCB Price: $49,844.00
+WBNB Price: $488.96
+Staked: 0.0047 Cake-LP ($48.54)
+SILVER Per Week: 305.76 ($0.70)
+APR: Day 0.21% Week 1.44% Year 74.70%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,666.18 TVL: $263,152,238.12
+ETH Price: $3,332.55
+WBNB Price: $488.96
+Staked: 0.0029 Cake-LP ($7.68)
+SILVER Per Week: 305.76 ($0.70)
+APR: Day 1.30% Week 9.08% Year 472.18%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $227.57 TVL: $1,041,107,310.90
+Cake Price: $25.33
+WBNB Price: $488.96
+Staked: 0.0061 Cake-LP ($1.40)
+SILVER Per Week: 214.03 ($0.49)
+APR: Day 4.99% Week 34.91% Year 1815.19%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[Cake]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13.49 TVL: $66,683,109.58
+Cake Price: $25.33
+BUSD Price: $1.00
+Staked: 1.1210 Cake-LP ($15.12)
+SILVER Per Week: 214.03 ($0.49)
+APR: Day 0.46% Week 3.23% Year 167.85%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $242.51 TVL: $83,382,754.52
+DOT Price: $28.21
+WBNB Price: $488.96
+Staked: 0.0440 Cake-LP ($10.67)
+SILVER Per Week: 183.46 ($0.42)
+APR: Day 0.56% Week 3.92% Year 203.95%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.63 TVL: $47,070,545.51
+ADA Price: $2.83
+WBNB Price: $488.96
+Staked: 0.0209 Cake-LP ($1.62)
+SILVER Per Week: 183.46 ($0.42)
+APR: Day 3.68% Week 25.75% Year 1339.01%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,190,184.04
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 26.9691 Cake-LP ($55.19)
+SILVER Per Week: 275.19 ($0.63)
+APR: Day 0.16% Week 1.14% Year 59.13%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.03 TVL: $81,331,395.81
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 48.0000 Cake-LP ($97.68)
+SILVER Per Week: 275.19 ($0.63)
+APR: Day 0.09% Week 0.64% Year 33.41%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,949,018.61
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 48.0000 Cake-LP ($98.78)
+SILVER Per Week: 275.19 ($0.63)
+APR: Day 0.09% Week 0.64% Year 33.03%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+BUSD
+ Price: $1.00 Market Cap: $4,194,374,423.94 
+[%]
+Staked: 148.0000 BUSD ($147.77)
+SILVER Per Week: 214.03 ($0.49)
+APR: Day 0.05% Week 0.33% Year 17.18%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 0.9600 USDT ($0.96)
+SILVER Per Week: 214.03 ($0.49)
+APR: Day 7.26% Week 50.85% Year 2644.24%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+WBNB
+ Price: $488.96 Market Cap: $3,447,837,775.42 
+[%]
+Staked: 0.0200 WBNB ($9.78)
+SILVER Per Week: 214.03 ($0.49)
+APR: Day 0.71% Week 4.99% Year 259.53%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+BTCB
+ Price: $49,844.00 Market Cap: $4,261,711,844.00 
+[%]
+Staked: 0.0001 BTCB ($6.13)
+SILVER Per Week: 122.31 ($0.28)
+APR: Day 0.65% Week 4.55% Year 236.46%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+ETH
+ Price: $3,332.55 Market Cap: $4,348,977,750.00 
+[%]
+Staked: 0.0017 ETH ($5.76)
+SILVER Per Week: 122.31 ($0.28)
+APR: Day 0.69% Week 4.84% Year 251.84%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+Cake
+ Price: $25.33 Market Cap: $10,540,782,620.53 
+[%]
+Staked: 0.1632 Cake ($4.13)
+SILVER Per Week: 122.31 ($0.28)
+APR: Day 0.96% Week 6.75% Year 350.83%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 48.0000 DAI ($48.00)
+SILVER Per Week: 122.31 ($0.28)
+APR: Day 0.08% Week 0.58% Year 30.21%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,859,661.00 
+[%]
+Staked: 47.9595 USDC ($47.93)
+SILVER Per Week: 122.31 ($0.28)
+APR: Day 0.08% Week 0.58% Year 30.26%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+DOT
+ Price: $28.21 Market Cap: $394,939,999.86 
+[%]
+Staked: 0.0480 DOT ($1.35)
+SILVER Per Week: 122.31 ($0.28)
+APR: Day 2.94% Week 20.60% Year 1071.04%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+MATIC
+ Price: $1.65 Market Cap: $3,300,000,000.00 
+[%]
+Staked: 2.1027 MATIC ($3.47)
+SILVER Per Week: 183.46 ($0.42)
+APR: Day 1.72% Week 12.06% Year 627.00%
+You are staking 0.00 MATIC ($0.00), 0.00% of the pool.
+Stake 0.00 MATIC - Fee 4%
+Unstake 0.00 MATIC
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+TRX
+ Price: $0.09 Market Cap: $292,344,070.00 
+[%]
+Staked: 18.2400 TRX ($1.65)
+SILVER Per Week: 183.46 ($0.42)
+APR: Day 3.62% Week 25.34% Year 1317.73%
+You are staking 0.00 TRX ($0.00), 0.00% of the pool.
+Stake 0.00 TRX - Fee 4%
+Unstake 0.00 TRX
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+ADA
+ Price: $2.83 Market Cap: $792,400,000.00 
+[%]
+Staked: 0.0000 ADA ($0.00)
+SILVER Per Week: 183.46 ($0.42)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ADA ($0.00), NaN% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[BUSD]-[SILVER] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.10 TVL: $344.08
+BUSD Price: $1.00
+SILVER Price: $0.002280
+Staked: 1097.6828 Cake-LP ($114.03)
+SILVER Per Week: 2813.03 ($6.41)
+APR: Day 0.80% Week 5.63% Year 292.53%
+You are staking 0.00 [BUSD]-[SILVER] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[SILVER] Cake LP
+Unstake 0.00 [BUSD]-[SILVER] Cake LP
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+[WBNB]-[SILVER] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.32 TVL: $106.93
+WBNB Price: $488.96
+SILVER Price: $0.002280
+Staked: 45.9977 Cake-LP ($106.59)
+SILVER Per Week: 2446.11 ($5.58)
+APR: Day 0.75% Week 5.23% Year 272.12%
+You are staking 0.00 [WBNB]-[SILVER] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[SILVER] Cake LP
+Unstake 0.00 [WBNB]-[SILVER] Cake LP
+Claim 0.00 SILVER ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $912.19

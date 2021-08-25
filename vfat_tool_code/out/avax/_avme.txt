@@ -1,0 +1,32 @@
+INFO  : https://avme.io
+*************************************************************************
+
+Mon Aug 23 2021 13:15:43 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+[AVME]-[WAVAX] PGL
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13.50 TVL: $827,546.51
+AVME Price: $0.84
+WAVAX Price: $49.33
+Staked: 61079.8297 PGL ($824,644.88)
+AVME Per Week: 35770.09 ($30,126.93)
+APR: Day 0.52% Week 3.65% Year 189.97%
+You are staking 0.000000 [AVME]-[WAVAX] PGL $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [AVME]-[WAVAX] PGL
+Unstake 0.000000 [AVME]-[WAVAX] PGL
+Claim 0.000000 AVME ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $824,644.88

@@ -1,7 +1,7 @@
 INFO  : https://app.pangolin.exchange/#/png
 *************************************************************************
 
-Tue Jul 13 2021 23:51:07 GMT+0530 (India Standard Time)
+Mon Aug 23 2021 13:13:05 GMT+0530 (India Standard Time)
 [CHANGE WALLET]
  -=- 
 [CLEAR BROWSER STORAGE]
@@ -16,12 +16,12 @@ Reading smart contracts...
 [-]
  
 [<=>]
- Price: $326.89 TVL: $46,569,232.02
-WAVAX Price: $12.34
-ETH Price: $2,018.58
-Staked: 126480.5622 PGL ($41,345,500.30)
-PNG Per Week: 85242.64 ($104,848.45)
-APR: Day 0.04% Week 0.25% Year 13.19%
+ Price: $1,066.40 TVL: $63,159,189.51
+WAVAX Price: $49.33
+ETH Price: $5,342.50
+Staked: 51869.7065 PGL ($55,314,110.06)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0.000000 [WAVAX]-[ETH] PGL $0.00 (0.00% of the pool).
 Explorer
 Stake 0.000000 [WAVAX]-[ETH] PGL
@@ -36,12 +36,12 @@ Exit
 [-]
  
 [<=>]
- Price: $131,184,941.23 TVL: $10,136,826.96
-WBTC Price: $32,914.52
-WAVAX Price: $12.34
-Staked: 0.0771 PGL ($10,114,287.63)
-PNG Per Week: 18628.71 ($22,913.31)
-APR: Day 0.03% Week 0.23% Year 11.78%
+ Price: $392,941,776.87 TVL: $21,724,261.93
+WBTC Price: $73,378.81
+WAVAX Price: $49.33
+Staked: 0.0552 PGL ($21,688,811.92)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0.000000 [WBTC]-[WAVAX] PGL $0.00 (0.00% of the pool).
 Explorer
 Stake 0.000000 [WBTC]-[WAVAX] PGL
@@ -56,12 +56,12 @@ Exit
 [-]
  
 [<=>]
- Price: $30.05 TVL: $9,487,949.25
-WAVAX Price: $12.34
-LINK Price: $17.58
-Staked: 314568.2008 PGL ($9,451,713.18)
-PNG Per Week: 17359.04 ($21,351.63)
-APR: Day 0.03% Week 0.23% Year 11.75%
+ Price: $102.08 TVL: $16,845,251.30
+WAVAX Price: $49.33
+LINK Price: $50.48
+Staked: 164536.2201 PGL ($16,796,051.44)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0.000000 [WAVAX]-[LINK] PGL $0.00 (0.00% of the pool).
 Explorer
 Stake 0.000000 [WAVAX]-[LINK] PGL
@@ -76,12 +76,12 @@ Exit
 [-]
  
 [<=>]
- Price: $8.80 TVL: $55,823,770.34
-PNG Price: $1.23
-WAVAX Price: $12.34
-Staked: 6295567.3151 PGL ($55,378,405.06)
-PNG Per Week: 1016728.73 ($1,250,576.34)
-APR: Day 0.32% Week 2.26% Year 117.43%
+ Price: $29.72 TVL: $176,321,464.46
+PNG Price: $3.49
+WAVAX Price: $49.33
+Staked: 5874686.7844 PGL ($174,574,566.41)
+PNG Per Week: 1113809.75 ($3,887,196.04)
+APR: Day 0.32% Week 2.23% Year 115.79%
 You are staking 0.000000 [PNG]-[WAVAX] PGL $0.00 (0.00% of the pool).
 Explorer
 Stake 0.000000 [PNG]-[WAVAX] PGL
@@ -96,12 +96,12 @@ Exit
 [-]
  
 [<=>]
- Price: $8,610,105.67 TVL: $3,678,300.93
-WAVAX Price: $12.34
-USDT Price: $1.01
-Staked: 0.4174 PGL ($3,593,819.88)
-PNG Per Week: 12372.36 ($15,218.00)
-APR: Day 0.06% Week 0.42% Year 22.02%
+ Price: $20,077,851.53 TVL: $1,312,920.34
+WAVAX Price: $49.33
+USDT Price: $1.24
+Staked: 0.0443 PGL ($890,353.48)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0.000000 [WAVAX]-[USDT] PGL $0.00 (0.00% of the pool).
 Explorer
 Stake 0.000000 [WAVAX]-[USDT] PGL
@@ -116,12 +116,12 @@ Exit
 [-]
  
 [<=>]
- Price: $19.44 TVL: $5,131,409.66
-SUSHI Price: $7.21
-WAVAX Price: $12.34
-Staked: 263476.2191 PGL ($5,121,609.89)
-PNG Per Week: 9562.34 ($11,761.68)
-APR: Day 0.03% Week 0.23% Year 11.94%
+ Price: $57.56 TVL: $14,139,153.30
+SUSHI Price: $13.80
+WAVAX Price: $49.33
+Staked: 245060.1306 PGL ($14,106,666.75)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0.000000 [SUSHI]-[WAVAX] PGL $0.00 (0.00% of the pool).
 Explorer
 Stake 0.000000 [SUSHI]-[WAVAX] PGL
@@ -136,12 +136,12 @@ Exit
 [-]
  
 [<=>]
- Price: $7.86 TVL: $3,999,230.49
-WAVAX Price: $12.34
+ Price: $16.40 TVL: $6,959,212.13
+WAVAX Price: $49.33
 DAI Price: $1.00
-Staked: 505578.8177 PGL ($3,972,416.44)
-PNG Per Week: 8086.45 ($9,946.33)
-APR: Day 0.04% Week 0.25% Year 13.02%
+Staked: 421619.5814 PGL ($6,916,358.92)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0.000000 [WAVAX]-[DAI] PGL $0.00 (0.00% of the pool).
 Explorer
 Stake 0.000000 [WAVAX]-[DAI] PGL
@@ -156,12 +156,12 @@ Exit
 [-]
  
 [<=>]
- Price: $122.84 TVL: $2,412,377.24
-AAVE Price: $292.86
-WAVAX Price: $12.34
-Staked: 19525.8180 PGL ($2,398,475.36)
-PNG Per Week: 4401.68 ($5,414.07)
-APR: Day 0.03% Week 0.23% Year 11.74%
+ Price: $490.56 TVL: $9,013,415.94
+AAVE Price: $1,165.08
+WAVAX Price: $49.33
+Staked: 18274.5865 PGL ($8,964,753.19)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0.000000 [AAVE]-[WAVAX] PGL $0.00 (0.00% of the pool).
 Explorer
 Stake 0.000000 [AAVE]-[WAVAX] PGL
@@ -176,12 +176,12 @@ Exit
 [-]
  
 [<=>]
- Price: $31.64 TVL: $939,319.20
-WAVAX Price: $12.34
-UNI Price: $19.14
-Staked: 29210.9114 PGL ($924,175.42)
-PNG Per Week: 1723.39 ($2,119.77)
-APR: Day 0.03% Week 0.23% Year 11.93%
+ Price: $119.25 TVL: $2,519,568.03
+WAVAX Price: $49.33
+UNI Price: $67.86
+Staked: 20689.2369 PGL ($2,467,144.73)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0.000000 [WAVAX]-[UNI] PGL $0.00 (0.00% of the pool).
 Explorer
 Stake 0.000000 [WAVAX]-[UNI] PGL
@@ -196,12 +196,12 @@ Exit
 [-]
  
 [<=>]
- Price: $1,305.20 TVL: $351,009.67
-YFI Price: $32,834.74
-WAVAX Price: $12.34
-Staked: 265.1159 PGL ($346,028.84)
-PNG Per Week: 639.68 ($786.81)
-APR: Day 0.03% Week 0.23% Year 11.82%
+ Price: $4,531.24 TVL: $11,949.30
+YFI Price: $98,867.41
+WAVAX Price: $49.33
+Staked: 2.0623 PGL ($9,344.77)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0.000000 [YFI]-[WAVAX] PGL $0.00 (0.00% of the pool).
 Explorer
 Stake 0.000000 [YFI]-[WAVAX] PGL
@@ -216,12 +216,12 @@ Exit
 [-]
  
 [<=>]
- Price: $104.22 TVL: $4,444,583.56
-PNG Price: $1.23
-ETH Price: $2,018.58
-Staked: 42205.4011 PGL ($4,398,570.41)
-PNG Per Week: 24435.02 ($30,055.07)
-APR: Day 0.10% Week 0.68% Year 35.53%
+ Price: $286.70 TVL: $247,388.81
+PNG Price: $3.49
+ETH Price: $5,342.50
+Staked: 425.6689 PGL ($122,038.26)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0.000000 [PNG]-[ETH] PGL $0.00 (0.00% of the pool).
 Explorer
 Stake 0.000000 [PNG]-[ETH] PGL
@@ -236,12 +236,12 @@ Exit
 [-]
  
 [<=>]
- Price: $42,150,929.29 TVL: $162,477.50
-WBTC Price: $32,914.52
-PNG Price: $1.23
-Staked: 0.0034 PGL ($142,729.84)
-PNG Per Week: 894.67 ($1,100.45)
-APR: Day 0.11% Week 0.77% Year 40.09%
+ Price: $106,562,849.03 TVL: $56,931.56
+WBTC Price: $73,378.81
+PNG Price: $3.49
+Staked: 0.0001 PGL ($13,259.73)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0.000000 [WBTC]-[PNG] PGL $0.00 (0.00% of the pool).
 Explorer
 Stake 0.000000 [WBTC]-[PNG] PGL
@@ -256,12 +256,12 @@ Exit
 [-]
  
 [<=>]
- Price: $9.71 TVL: $1,355,602.85
-PNG Price: $1.23
-LINK Price: $17.58
-Staked: 139075.0220 PGL ($1,350,444.33)
-PNG Per Week: 7470.25 ($9,188.41)
-APR: Day 0.10% Week 0.68% Year 35.38%
+ Price: $27.83 TVL: $536,014.92
+PNG Price: $3.49
+LINK Price: $50.48
+Staked: 18993.1105 PGL ($528,608.37)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0.000000 [PNG]-[LINK] PGL $0.00 (0.00% of the pool).
 Explorer
 Stake 0.000000 [PNG]-[LINK] PGL
@@ -276,12 +276,12 @@ Exit
 [-]
  
 [<=>]
- Price: $2,449,763.38 TVL: $581,964.57
-PNG Price: $1.23
-USDT Price: $1.01
-Staked: 0.2103 PGL ($515,224.13)
-PNG Per Week: 3228.02 ($3,970.46)
-APR: Day 0.11% Week 0.77% Year 40.07%
+ Price: $4,661,942.07 TVL: $335,843.58
+PNG Price: $3.49
+USDT Price: $1.24
+Staked: 0.0498 PGL ($232,202.86)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0.000000 [PNG]-[USDT] PGL $0.00 (0.00% of the pool).
 Explorer
 Stake 0.000000 [PNG]-[USDT] PGL
@@ -296,12 +296,12 @@ Exit
 [-]
  
 [<=>]
- Price: $6.24 TVL: $80,285.00
-SUSHI Price: $7.21
-PNG Price: $1.23
-Staked: 12646.9109 PGL ($78,887.39)
-PNG Per Week: 451.61 ($555.48)
-APR: Day 0.10% Week 0.70% Year 36.62%
+ Price: $15.54 TVL: $21,955.71
+SUSHI Price: $13.80
+PNG Price: $3.49
+Staked: 1277.2482 PGL ($19,854.81)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0.000000 [SUSHI]-[PNG] PGL $0.00 (0.00% of the pool).
 Explorer
 Stake 0.000000 [SUSHI]-[PNG] PGL
@@ -316,12 +316,12 @@ Exit
 [-]
  
 [<=>]
- Price: $2.37 TVL: $135,263.86
-PNG Price: $1.23
+ Price: $4.13 TVL: $30,554.20
+PNG Price: $3.49
 DAI Price: $1.00
-Staked: 55736.6785 PGL ($132,023.02)
-PNG Per Week: 750.86 ($923.55)
-APR: Day 0.10% Week 0.70% Year 36.38%
+Staked: 7029.1369 PGL ($29,029.91)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0.000000 [PNG]-[DAI] PGL $0.00 (0.00% of the pool).
 Explorer
 Stake 0.000000 [PNG]-[DAI] PGL
@@ -336,12 +336,12 @@ Exit
 [-]
  
 [<=>]
- Price: $39.78 TVL: $168,812.38
-PNG Price: $1.23
-AAVE Price: $292.86
-Staked: 4192.6103 PGL ($166,785.99)
-PNG Per Week: 925.82 ($1,138.76)
-APR: Day 0.10% Week 0.68% Year 35.50%
+ Price: $133.92 TVL: $25,417.67
+PNG Price: $3.49
+AAVE Price: $1,165.08
+Staked: 137.1020 PGL ($18,361.32)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0.000000 [PNG]-[AAVE] PGL $0.00 (0.00% of the pool).
 Explorer
 Stake 0.000000 [PNG]-[AAVE] PGL
@@ -356,12 +356,12 @@ Exit
 [-]
  
 [<=>]
- Price: $10.12 TVL: $73,968.84
-PNG Price: $1.23
-UNI Price: $19.14
-Staked: 6650.5183 PGL ($67,334.57)
-PNG Per Week: 409.31 ($503.45)
-APR: Day 0.11% Week 0.75% Year 38.88%
+ Price: $32.16 TVL: $53,012.44
+PNG Price: $3.49
+UNI Price: $67.86
+Staked: 1185.1561 PGL ($38,116.42)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0.000000 [PNG]-[UNI] PGL $0.00 (0.00% of the pool).
 Explorer
 Stake 0.000000 [PNG]-[UNI] PGL
@@ -376,12 +376,12 @@ Exit
 [-]
  
 [<=>]
- Price: $419.31 TVL: $23,971.36
-PNG Price: $1.23
-YFI Price: $32,834.74
-Staked: 56.3481 PGL ($23,627.16)
-PNG Per Week: 131.11 ($161.26)
-APR: Day 0.10% Week 0.68% Year 35.49%
+ Price: $1,226.88 TVL: $8,970.10
+PNG Price: $3.49
+YFI Price: $98,867.41
+Staked: 6.2167 PGL ($7,627.12)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0.000000 [PNG]-[YFI] PGL $0.00 (0.00% of the pool).
 Explorer
 Stake 0.000000 [PNG]-[YFI] PGL
@@ -396,12 +396,12 @@ Exit
 [-]
  
 [<=>]
- Price: $1.11 TVL: $210,106.23
-PNG Price: $1.23
-SPORE Price: $0.0000000001
-Staked: 183907.8621 PGL ($204,520.51)
-PNG Per Week: 1853.29 ($2,279.54)
-APR: Day 0.16% Week 1.11% Year 57.96%
+ Price: $3.21 TVL: $597,167.83
+PNG Price: $3.49
+SPORE Price: $0.0000000003
+Staked: 181175.4812 PGL ($582,336.06)
+PNG Per Week: 1931.86 ($6,742.18)
+APR: Day 0.17% Week 1.16% Year 60.20%
 You are staking 0.000000 [PNG]-[SPORE] PGL $0.00 (0.00% of the pool).
 Explorer
 Stake 0.000000 [PNG]-[SPORE] PGL
@@ -416,12 +416,12 @@ Exit
 [-]
  
 [<=>]
- Price: $3.57 TVL: $226,636.83
-SPORE Price: $0.0000000001
-WAVAX Price: $12.34
-Staked: 39552.4359 PGL ($141,229.61)
-PNG Per Week: 413.02 ($508.01)
-APR: Day 0.05% Week 0.36% Year 18.70%
+ Price: $12.21 TVL: $841,885.94
+SPORE Price: $0.0000000003
+WAVAX Price: $49.33
+Staked: 51071.1584 PGL ($623,412.22)
+PNG Per Week: 522.61 ($1,823.91)
+APR: Day 0.04% Week 0.29% Year 15.21%
 You are staking 0.000000 [SPORE]-[WAVAX] PGL $0.00 (0.00% of the pool).
 Explorer
 Stake 0.000000 [SPORE]-[WAVAX] PGL
@@ -429,4 +429,4 @@ Unstake 0.000000 [SPORE]-[WAVAX] PGL
 Claim 0.000000 PNG ($0.00)
 Revoke (set approval to 0)
 Exit
-Total staked: $139,867,808.96
+Total staked: $303,943,008.72

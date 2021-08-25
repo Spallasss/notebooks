@@ -1,0 +1,130 @@
+INFO  : https://app.alchemix.fi/farms
+*********************************************************************************
+
+Mon Aug 23 2021 15:33:09 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Finished reading smart contracts.
+
+alUSD
+ Price: $1.00 Market Cap: $251,601,057.12 
+[%]
+Staked: 5683435.6807 alUSD ($5,683,435.68)
+ALCX Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 alUSD ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 alUSD
+Withdraw 0.00 alUSD
+Claim 0.00 ALCX ($0.00)
+Staking or unstaking also claims rewards.
+
+
+ALCX
+ Price: $361.05 Market Cap: $502,685,017.83 
+[%]
+Staked: 165539.6615 ALCX ($59,768,094.78)
+ALCX Per Week: 2737.48 ($988,367.18)
+APR: Day 0.24% Week 1.65% Year 85.99%
+You are staking 0.00 ALCX ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 ALCX
+Withdraw 0.00 ALCX
+Claim 0.00 ALCX ($0.00)
+Staking or unstaking also claims rewards.
+
+
+[WETH]-[ALCX] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,309.11 TVL: $197,524,159.04
+WETH Price: $3,330.58
+ALCX Price: $361.05
+Staked: 412.5969 SLP ($952,731.17)
+ALCX Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WETH]-[ALCX] SLP ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 [WETH]-[ALCX] SLP
+Withdraw 0.00 [WETH]-[ALCX] SLP
+Claim 0.00 ALCX ($0.00)
+Staking or unstaking also claims rewards.
+
+
+alUSD3CRV-f
+ Price: $1.01 Market Cap: $417,461,947.10 
+Staked: 777383.0370 alUSD3CRV-f ($782,405.10)
+ALCX Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 alUSD3CRV-f ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 alUSD3CRV-f
+Withdraw 0.00 alUSD3CRV-f
+Claim 0.00 ALCX ($0.00)
+Staking or unstaking also claims rewards.
+
+
+POOL
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 POOL ($0.00)
+ALCX Per Week: 11558.25 ($4,173,105.86)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 POOL ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 POOL
+Withdraw 0.00 POOL
+Claim 0.00 ALCX ($0.00)
+Staking or unstaking also claims rewards.
+
+
+saddlealETH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 43380.1245 saddlealETH ($0.00)
+ALCX Per Week: 912.49 ($329,455.73)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 saddlealETH ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 saddlealETH
+Withdraw 0.00 saddlealETH
+Claim 0.00 ALCX ($0.00)
+Staking or unstaking also claims rewards.
+
+
+Total Staked: $67,186,666.73
+Staking Contract
+Found 1 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WETH]-[ALCX] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,309.11 TVL: $197,524,159.04
+WETH Price: $3,330.58
+ALCX Price: $361.05
+Staked: 84625.0501 SLP ($195,408,440.43)
+ALCX Per Week: 8820.77 ($3,184,738.68) APR: Year 84.75%
+SUSHI Per Week: 1310.24 ($18,238.47) APR: Year 0.49%
+Total Per Week: $3,202,977.16
+Total APR: Day 0.23% Week 1.64% Year 85.23%
+You are staking 0.00 [WETH]-[ALCX] SLP ($0.00), 0.00% of the pool.
+Unstake 0.00 [WETH]-[ALCX] SLP
+Claim 0.00 ALCX ($0.00) + 0.00 SUSHI ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $195,408,440.43

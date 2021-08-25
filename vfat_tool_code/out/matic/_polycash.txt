@@ -1,0 +1,177 @@
+INFO  : https://polycash.finance
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:30:27 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 12 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WMATIC]-[CASH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.21 TVL: $2,799.81
+WMATIC Price: $1.65
+CASH Price: $0.004997
+Staked: 9597.7165 UNI-V2 ($2,001.75)
+CASH Per Week: 40186.05 ($200.79)
+APR: Day 1.43% Week 10.03% Year 521.60%
+You are staking 0.00 [WMATIC]-[CASH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[CASH] Uni LP
+Unstake 0.00 [WMATIC]-[CASH] Uni LP
+Claim 0.00 CASH ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+CASH
+ Price: $0.004997 Market Cap: $4,777.55 
+[%]
+Staked: 426401.9546 CASH ($2,130.53)
+CASH Per Week: 20093.02 ($100.40)
+APR: Day 0.67% Week 4.71% Year 245.04%
+You are staking 0.00 CASH ($0.00), 0.00% of the pool.
+Stake 0.00 CASH
+Unstake 0.00 CASH
+Claim 0.00 CASH ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+WMATIC
+ Price: $1.65 Market Cap: $605,551,209.47 
+[%]
+Staked: 458.2437 WMATIC ($756.10)
+CASH Per Week: 8037.21 ($40.16)
+APR: Day 0.76% Week 5.31% Year 276.18%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 CASH ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+DAI
+ Price: $1.00 Market Cap: $376,255,408.70 
+[%]
+Staked: 792.7687 DAI ($792.77)
+CASH Per Week: 8037.21 ($40.16)
+APR: Day 0.72% Week 5.07% Year 263.41%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 CASH ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WETH
+ Price: $3,319.31 Market Cap: $2,026,822,127.25 
+[%]
+Staked: 5.5971 WETH ($18,578.46)
+CASH Per Week: 8037.21 ($40.16)
+APR: Day 0.03% Week 0.22% Year 11.24%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 CASH ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WBTC
+ Price: $50,128.00 Market Cap: $699,241,209.55 
+[%]
+Staked: 0.0231 WBTC ($1,158.41)
+CASH Per Week: 8037.21 ($40.16)
+APR: Day 0.50% Week 3.47% Year 180.27%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 CASH ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+USDT
+ Price: $1.00 Market Cap: $314,870,555.44 
+[%]
+Staked: 1043.8456 USDT ($1,042.80)
+CASH Per Week: 8037.21 ($40.16)
+APR: Day 0.55% Week 3.85% Year 200.25%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 CASH ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+SUSHI
+ Price: $13.87 Market Cap: $14,059,822.85 
+[%]
+Staked: 124.8676 SUSHI ($1,731.91)
+CASH Per Week: 8037.21 ($40.16)
+APR: Day 0.33% Week 2.32% Year 120.57%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 4%
+Unstake 0.00 SUSHI
+Claim 0.00 CASH ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+USDC
+ Price: $1.00 Market Cap: $1,045,118,191.36 
+[%]
+Staked: 1608.2502 USDC ($1,603.41)
+CASH Per Week: 8037.21 ($40.16)
+APR: Day 0.36% Week 2.50% Year 130.24%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 CASH ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+FISH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 111.6669 FISH ($0.00)
+CASH Per Week: 8037.21 ($40.16)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+Stake 0.00 FISH - Fee 4%
+Unstake 0.00 FISH
+Claim 0.00 CASH ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[miMATIC]-[CASH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.15 TVL: $1,139.96
+miMATIC Price: $0.99
+CASH Price: $0.004997
+Staked: 7218.6696 UNI-V2 ($1,076.40)
+CASH Per Week: 40186.05 ($200.79)
+APR: Day 2.66% Week 18.65% Year 970.01%
+You are staking 0.00 [miMATIC]-[CASH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [miMATIC]-[CASH] Uni LP
+Unstake 0.00 [miMATIC]-[CASH] Uni LP
+Claim 0.00 CASH ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+miMATIC
+ Price: $0.99 Market Cap: $94,900,061.60 
+[%]
+Staked: 386.9850 miMATIC ($383.49)
+CASH Per Week: 8037.21 ($40.16)
+APR: Day 1.50% Week 10.47% Year 544.54%
+You are staking 0.00 miMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 miMATIC - Fee 4%
+Unstake 0.00 miMATIC
+Claim 0.00 CASH ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $31,256.03

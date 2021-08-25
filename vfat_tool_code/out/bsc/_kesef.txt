@@ -1,0 +1,304 @@
+INFO  : https://kesef.finance
+**************************************************************************************
+
+Mon Aug 23 2021 14:38:24 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 24 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+KSF
+ Price: $0.00 Market Cap: $0.00 
+Staked: 88765.1882 KSF ($0.00)
+KSF Per Week: 403.93 ($31.55)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 KSF ($0.00), NaN% of the pool.
+Stake 0.00 KSF
+Unstake 0.00 KSF
+Claim 0.00 KSF ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+BUSD
+ Price: $1.00 Market Cap: $4,196,088,431.70 
+[%]
+Staked: 314.8920 BUSD ($314.52)
+KSF Per Week: 40.39 ($3.15)
+APR: Day 0.14% Week 1.00% Year 52.16%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 KSF ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+WBNB
+ Price: $484.17 Market Cap: $3,428,406,950.93 
+[%]
+Staked: 2.5681 WBNB ($1,243.41)
+KSF Per Week: 60.59 ($4.73)
+APR: Day 0.05% Week 0.38% Year 19.79%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 KSF ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+ETH
+ Price: $3,330.87 Market Cap: $4,346,785,350.00 
+[%]
+Staked: 0.2380 ETH ($792.75)
+KSF Per Week: 40.39 ($3.15)
+APR: Day 0.06% Week 0.40% Year 20.69%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 KSF ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+DOT
+ Price: $28.00 Market Cap: $391,999,999.86 
+[%]
+Staked: 15.4684 DOT ($433.12)
+KSF Per Week: 40.39 ($3.15)
+APR: Day 0.10% Week 0.73% Year 37.88%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 KSF ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+AUTO
+ Price: $1,422.81 Market Cap: $91,235,284.79 
+[%]
+Staked: 0.4231 AUTO ($601.95)
+KSF Per Week: 60.59 ($4.73)
+APR: Day 0.11% Week 0.79% Year 40.88%
+You are staking 0.00 AUTO ($0.00), 0.00% of the pool.
+Stake 0.00 AUTO - Fee 4%
+Unstake 0.00 AUTO
+Claim 0.00 KSF ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[BUSD]-[KSF] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.58 TVL: $1,552.21
+BUSD Price: $1.00
+KSF Price: $0.08
+Staked: 1347.9735 Cake-LP ($776.07)
+KSF Per Week: 1009.82 ($78.87)
+APR: Day 1.45% Week 10.16% Year 528.48%
+You are staking 0.00 [BUSD]-[KSF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[KSF] Cake LP
+Unstake 0.00 [BUSD]-[KSF] Cake LP
+Claim 0.00 KSF ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,875.83 TVL: $1,948,183.92
+BTCB Price: $49,954.00
+WBNB Price: $484.17
+Staked: 0.0065 Cake-LP ($70.41)
+KSF Per Week: 121.18 ($9.46)
+APR: Day 1.92% Week 13.44% Year 699.00%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 KSF ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $2,586,427.06
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 56.2900 Cake-LP ($115.20)
+KSF Per Week: 80.79 ($6.31)
+APR: Day 0.78% Week 5.48% Year 284.82%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 KSF ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 4104.1477 USDT ($4,103.36)
+KSF Per Week: 20.20 ($1.58)
+APR: Day 0.01% Week 0.04% Year 2.00%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 KSF ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WBNB]-[KSF] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $12.70 TVL: $2,160.34
+WBNB Price: $484.17
+KSF Price: $0.08
+Staked: 84.8032 Cake-LP ($1,077.19)
+KSF Per Week: 807.86 ($63.10)
+APR: Day 0.84% Week 5.86% Year 304.60%
+You are staking 0.00 [WBNB]-[KSF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[KSF] Cake LP
+Unstake 0.00 [WBNB]-[KSF] Cake LP
+Claim 0.00 KSF ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.13 TVL: $4,006,244.74
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 44.9717 Cake-LP ($96.01)
+KSF Per Week: 80.79 ($6.31)
+APR: Day 0.94% Week 6.57% Year 341.74%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 KSF ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $252.16 TVL: $673,044.14
+DOT Price: $28.00
+WBNB Price: $484.17
+Staked: 1.7207 Cake-LP ($433.88)
+KSF Per Week: 121.18 ($9.46)
+APR: Day 0.31% Week 2.18% Year 113.43%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 KSF ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.51 TVL: $3,329,081.83
+WBNB Price: $484.17
+BUSD Price: $1.00
+Staked: 1.1663 Cake-LP ($75.24)
+KSF Per Week: 80.79 ($6.31)
+APR: Day 1.20% Week 8.39% Year 436.06%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 KSF ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+Cake
+ Price: $25.01 Market Cap: $10,407,352,430.13 
+[%]
+Staked: 27.6436 Cake ($691.37)
+KSF Per Week: 40.39 ($3.15)
+APR: Day 0.07% Week 0.46% Year 23.73%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 KSF ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,862.00 TVL: $3,522,594.83
+ETH Price: $3,330.87
+WBNB Price: $484.17
+Staked: 0.0399 Cake-LP ($114.23)
+KSF Per Week: 121.18 ($9.46)
+APR: Day 1.18% Week 8.29% Year 430.85%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 KSF ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[Cake]-[KSF] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.82 TVL: $512.16
+Cake Price: $25.01
+KSF Price: $0.08
+Staked: 150.1073 Cake-LP ($423.31)
+KSF Per Week: 727.07 ($56.79)
+APR: Day 1.92% Week 13.42% Year 697.60%
+You are staking 0.00 [Cake]-[KSF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[KSF] Cake LP
+Unstake 0.00 [Cake]-[KSF] Cake LP
+Claim 0.00 KSF ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[ADA]-[KSF] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.94 TVL: $516.22
+ADA Price: $2.82
+KSF Price: $0.08
+Staked: 545.1196 Cake-LP ($513.71)
+KSF Per Week: 727.07 ($56.79)
+APR: Day 1.58% Week 11.05% Year 574.83%
+You are staking 0.00 [ADA]-[KSF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[KSF] Cake LP
+Unstake 0.00 [ADA]-[KSF] Cake LP
+Claim 0.00 KSF ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $11,875.73

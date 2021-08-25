@@ -1,0 +1,241 @@
+INFO  : https://polydex.fi
+*****************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:25:37 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 13 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+PLX
+ Price: $0.003590 Market Cap: $1,021,944.65 
+[%]
+Staked: 122820359.7342 PLX ($440,877.46)
+PLX Per Week: 1426782.64 ($5,121.60)
+APR: Day 0.17% Week 1.16% Year 60.41%
+You are staking 0.00 PLX ($0.00), 0.00% of the pool.
+Stake 0.00 PLX
+Unstake 0.00 PLX
+Claim 0.00 PLX ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[PLX]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7.28 TVL: $145,492.84
+PLX Price: $0.003590
+WETH Price: $3,320.07
+Staked: 19317.8834 PolyDexV2-LP ($140,552.74)
+PLX Per Week: 3424278.33 ($12,291.83)
+APR: Day 1.25% Week 8.75% Year 454.76%
+You are staking 0.00 [PLX]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PLX]-[WETH] Uni LP
+Unstake 0.00 [PLX]-[WETH] Uni LP
+Claim 0.00 PLX ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[PLX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.16 TVL: $76,913.99
+WMATIC Price: $1.66
+PLX Price: $0.003590
+Staked: 464018.0777 PolyDexV2-LP ($76,252.96)
+PLX Per Week: 1426782.64 ($5,121.60)
+APR: Day 0.96% Week 6.72% Year 349.26%
+You are staking 0.00 [WMATIC]-[PLX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PLX] Uni LP
+Unstake 0.00 [WMATIC]-[PLX] Uni LP
+Claim 0.00 PLX ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WMATIC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $149.82 TVL: $191,511.74
+WMATIC Price: $1.66
+WETH Price: $3,320.07
+Staked: 1272.2260 PolyDexV2-LP ($190,610.83)
+PLX Per Week: 285356.53 ($1,024.32)
+APR: Day 0.08% Week 0.54% Year 27.94%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 PLX ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WBTC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,583,628,513.06 TVL: $132,785.80
+WBTC Price: $50,124.00
+WETH Price: $3,320.07
+Staked: 0.0001 PolyDexV2-LP ($132,643.41)
+PLX Per Week: 285356.53 ($1,024.32)
+APR: Day 0.11% Week 0.77% Year 40.16%
+You are staking 0.00 [WBTC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] Uni LP
+Unstake 0.00 [WBTC]-[WETH] Uni LP
+Claim 0.00 PLX ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WETH]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $115,781,173.21 TVL: $112,375.04
+WETH Price: $3,320.07
+USDT Price: $1.00
+Staked: 0.0010 PolyDexV2-LP ($112,000.52)
+PLX Per Week: 285356.53 ($1,024.32)
+APR: Day 0.13% Week 0.91% Year 47.56%
+You are staking 0.00 [WETH]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[USDT] Uni LP
+Unstake 0.00 [WETH]-[USDT] Uni LP
+Claim 0.00 PLX ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $116,281,733.09 TVL: $125,585.49
+USDC Price: $1.00
+WETH Price: $3,320.07
+Staked: 0.0011 PolyDexV2-LP ($124,532.03)
+PLX Per Week: 285356.53 ($1,024.32)
+APR: Day 0.12% Week 0.82% Year 42.77%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 PLX ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[WETH]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $116.32 TVL: $85,578.36
+WETH Price: $3,320.07
+DAI Price: $1.00
+Staked: 735.3569 PolyDexV2-LP ($85,533.98)
+PLX Per Week: 142678.26 ($512.16)
+APR: Day 0.09% Week 0.60% Year 31.14%
+You are staking 0.00 [WETH]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[DAI] Uni LP
+Unstake 0.00 [WETH]-[DAI] Uni LP
+Claim 0.00 PLX ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,995,899,981,357.22 TVL: $123,986.63
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 PolyDexV2-LP ($123,859.55)
+PLX Per Week: 285356.53 ($1,024.32)
+APR: Day 0.12% Week 0.83% Year 43.00%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 PLX ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[DAI]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,999,386.65 TVL: $81,980.85
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 0.0410 PolyDexV2-LP ($81,953.59)
+PLX Per Week: 142678.26 ($512.16)
+APR: Day 0.09% Week 0.62% Year 32.50%
+You are staking 0.00 [DAI]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDT] Uni LP
+Unstake 0.00 [DAI]-[USDT] Uni LP
+Claim 0.00 PLX ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[USDC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,996,448.40 TVL: $63,823.51
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0320 PolyDexV2-LP ($63,805.08)
+PLX Per Week: 142678.26 ($512.16)
+APR: Day 0.11% Week 0.80% Year 41.74%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 PLX ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[USDC]-[PLX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $130,184.30 TVL: $45,918.89
+USDC Price: $1.00
+PLX Price: $0.003590
+Staked: 0.3518 UNI-V2 ($45,796.68)
+PLX Per Week: 570713.06 ($2,048.64)
+APR: Day 0.64% Week 4.47% Year 232.61%
+You are staking 0.00 [USDC]-[PLX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[PLX] Uni LP
+Unstake 0.00 [USDC]-[PLX] Uni LP
+Claim 0.00 PLX ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,618,418.84

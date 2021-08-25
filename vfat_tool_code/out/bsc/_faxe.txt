@@ -1,0 +1,568 @@
+INFO  : https://www.faxe.farmwiki.xyz
+***************************************************************************
+
+Mon Aug 23 2021 09:18:46 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 33 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[FAXE]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.09 TVL: $145.46
+FAXE Price: $0.001500
+BUSD Price: $1.00
+Staked: 568.9576 Cake-LP ($51.67)
+FAXE Per Week: 260.75 ($0.39)
+APR: Day 0.11% Week 0.76% Year 39.37%
+You are staking 0.00 [FAXE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FAXE]-[BUSD] Cake LP
+Unstake 0.00 [FAXE]-[BUSD] Cake LP
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[HALVAR]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.11 TVL: $153.26
+HALVAR Price: $0.002062
+BUSD Price: $1.00
+Staked: 53.5390 Cake-LP ($5.63)
+FAXE Per Week: 86.92 ($0.13)
+APR: Day 0.33% Week 2.32% Year 120.52%
+You are staking 0.00 [HALVAR]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HALVAR]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [HALVAR]-[BUSD] Cake LP
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[HALVAR] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.25 TVL: $78.52
+WBNB Price: $486.45
+HALVAR Price: $0.002062
+Staked: 15.0041 Cake-LP ($33.73)
+FAXE Per Week: 86.92 ($0.13)
+APR: Day 0.06% Week 0.39% Year 20.11%
+You are staking 0.00 [WBNB]-[HALVAR] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[HALVAR] Cake LP - Fee 1%
+Unstake 0.00 [WBNB]-[HALVAR] Cake LP
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.85 TVL: $528,089,909.41
+WBNB Price: $486.45
+BUSD Price: $1.00
+Staked: 1.2582 Cake-LP ($62.72)
+FAXE Per Week: 21.73 ($0.03)
+APR: Day 0.01% Week 0.05% Year 2.70%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WIKI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.06 TVL: $299.64
+WIKI Price: $0.000653
+BUSD Price: $1.00
+Staked: 843.8117 Cake-LP ($47.73)
+FAXE Per Week: 69.53 ($0.10)
+APR: Day 0.03% Week 0.22% Year 11.37%
+You are staking 0.00 [WIKI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WIKI]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [WIKI]-[BUSD] Cake LP
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WIKI]-[USDC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.05 TVL: $37.34
+WIKI Price: $0.000653
+USDC Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+FAXE Per Week: 69.53 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WIKI]-[USDC] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WIKI]-[USDC] Cake LP - Fee 1%
+Unstake 0.00 [WIKI]-[USDC] Cake LP
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[WIKI]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.22 TVL: $119.78
+WIKI Price: $0.000653
+WBNB Price: $486.45
+Staked: 34.3502 Cake-LP ($41.80)
+FAXE Per Week: 69.53 ($0.10)
+APR: Day 0.04% Week 0.25% Year 12.98%
+You are staking 0.00 [WIKI]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WIKI]-[WBNB] Cake LP - Fee 1%
+Unstake 0.00 [WIKI]-[WBNB] Cake LP
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[sWIKI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.83 TVL: $382.67
+sWIKI Price: $1.81
+BUSD Price: $1.00
+Staked: 20.7782 Cake-LP ($58.85)
+FAXE Per Week: 69.53 ($0.10)
+APR: Day 0.03% Week 0.18% Year 9.22%
+You are staking 0.00 [sWIKI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [sWIKI]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [sWIKI]-[BUSD] Cake LP
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+FAXE
+ Price: $0.001500 Market Cap: $459.38 
+[%]
+Staked: 54389.9117 FAXE ($81.61)
+FAXE Per Week: 199.91 ($0.30)
+APR: Day 0.05% Week 0.37% Year 19.11%
+You are staking 0.00 FAXE ($0.00), 0.00% of the pool.
+Stake 0.00 FAXE
+Unstake 0.00 FAXE
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+HALVAR
+ Price: $0.002062 Market Cap: $896.08 
+[%]
+Staked: 16590.6302 HALVAR ($34.20)
+FAXE Per Week: 78.22 ($0.12)
+APR: Day 0.05% Week 0.34% Year 17.84%
+You are staking 0.00 HALVAR ($0.00), 0.00% of the pool.
+Stake 0.00 HALVAR - Fee 1.5%
+Unstake 0.00 HALVAR
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+WIKI
+ Price: $0.000653 Market Cap: $740.18 
+[%]
+Staked: 2910.1363 WIKI ($1.90)
+FAXE Per Week: 78.22 ($0.12)
+APR: Day 0.88% Week 6.17% Year 321.05%
+You are staking 0.00 WIKI ($0.00), 0.00% of the pool.
+Stake 0.00 WIKI - Fee 1.5%
+Unstake 0.00 WIKI
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+sWIKI
+ Price: $1.81 Market Cap: $3,615.65 
+[%]
+Staked: 4.2776 sWIKI ($7.73)
+FAXE Per Week: 78.22 ($0.12)
+APR: Day 0.22% Week 1.52% Year 78.92%
+You are staking 0.00 sWIKI ($0.00), 0.00% of the pool.
+Stake 0.00 sWIKI - Fee 1.5%
+Unstake 0.00 sWIKI
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+FOX
+ Price: $0.00 Market Cap: $0.00 
+Staked: 39429459.6463 FOX ($0.00)
+FAXE Per Week: 19.56 ($0.03)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FOX ($0.00), NaN% of the pool.
+Stake 0.00 FOX - Fee 4%
+Unstake 0.00 FOX
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[USDT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.74 TVL: $252,811,877.09
+USDT Price: $1.00
+WBNB Price: $486.45
+Staked: 0.5812 Cake-LP ($29.49)
+FAXE Per Week: 19.56 ($0.03)
+APR: Day 0.01% Week 0.10% Year 5.17%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,237.64 TVL: $174,145,647.95
+BTCB Price: $49,954.00
+WBNB Price: $486.45
+Staked: 0.0000 Cake-LP ($0.00)
+FAXE Per Week: 17.38 ($0.03)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,659.05 TVL: $262,477,773.98
+ETH Price: $3,331.96
+WBNB Price: $486.45
+Staked: 0.0055 Cake-LP ($14.52)
+FAXE Per Week: 17.38 ($0.03)
+APR: Day 0.03% Week 0.18% Year 9.34%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $225.95 TVL: $1,034,151,798.45
+Cake Price: $25.10
+WBNB Price: $486.45
+Staked: 0.4456 Cake-LP ($100.69)
+FAXE Per Week: 15.21 ($0.02)
+APR: Day 0.00% Week 0.02% Year 1.18%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $241.41 TVL: $83,004,289.32
+DOT Price: $28.10
+WBNB Price: $486.45
+Staked: 0.0048 Cake-LP ($1.16)
+FAXE Per Week: 15.21 ($0.02)
+APR: Day 0.28% Week 1.97% Year 102.41%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.43 TVL: $46,958,106.77
+ADA Price: $2.83
+WBNB Price: $486.45
+Staked: 0.0180 Cake-LP ($1.39)
+FAXE Per Week: 15.21 ($0.02)
+APR: Day 0.23% Week 1.64% Year 85.15%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[WBNB]-[LINK] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $241.49 TVL: $47,723,870.79
+WBNB Price: $486.45
+LINK Price: $28.71
+Staked: 0.0058 Cake-LP ($1.39)
+FAXE Per Week: 15.21 ($0.02)
+APR: Day 0.23% Week 1.64% Year 85.31%
+You are staking 0.00 [WBNB]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LINK] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[LINK] Cake LP
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[WBNB]-[UNI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $243.63 TVL: $33,985,015.23
+WBNB Price: $486.45
+UNI Price: $29.37
+Staked: 0.0724 Cake-LP ($17.64)
+FAXE Per Week: 15.21 ($0.02)
+APR: Day 0.02% Week 0.13% Year 6.73%
+You are staking 0.00 [WBNB]-[UNI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[UNI] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[UNI] Cake LP
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,316,275.26
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+FAXE Per Week: 13.04 ($0.02)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,927,590.58
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+FAXE Per Week: 13.04 ($0.02)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,305,203.32
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 3.8364 Cake-LP ($7.85)
+FAXE Per Week: 13.04 ($0.02)
+APR: Day 0.04% Week 0.25% Year 12.96%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+BUSD
+ Price: $1.00 Market Cap: $4,195,202,020.82 
+[%]
+Staked: 2.0200 BUSD ($2.02)
+FAXE Per Week: 15.21 ($0.02)
+APR: Day 0.16% Week 1.13% Year 58.83%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+WBNB
+ Price: $486.45 Market Cap: $3,438,804,372.09 
+[%]
+Staked: 0.0021 WBNB ($1.03)
+FAXE Per Week: 15.21 ($0.02)
+APR: Day 0.32% Week 2.22% Year 115.51%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.0055 BTCB ($275.23)
+FAXE Per Week: 13.91 ($0.02)
+APR: Day 0.00% Week 0.01% Year 0.39%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+ETH
+ Price: $3,331.96 Market Cap: $4,348,207,800.00 
+[%]
+Staked: 0.0005 ETH ($1.60)
+FAXE Per Week: 13.91 ($0.02)
+APR: Day 0.19% Week 1.30% Year 67.84%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+Cake
+ Price: $25.10 Market Cap: $10,444,889,226.96 
+[%]
+Staked: 0.7453 Cake ($18.71)
+FAXE Per Week: 13.04 ($0.02)
+APR: Day 0.01% Week 0.10% Year 5.44%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 202.8329 USDT ($202.79)
+FAXE Per Week: 13.04 ($0.02)
+APR: Day 0.00% Week 0.01% Year 0.50%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+[FAXE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.13 TVL: $20.53
+FAXE Price: $0.001500
+WBNB Price: $486.45
+Staked: 5.9266 Cake-LP ($12.64)
+FAXE Per Week: 234.67 ($0.35)
+APR: Day 0.40% Week 2.79% Year 144.88%
+You are staking 0.00 [FAXE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FAXE]-[WBNB] Cake LP
+Unstake 0.00 [FAXE]-[WBNB] Cake LP
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+[ETH]-[FAXE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.08 TVL: $19.37
+ETH Price: $3,331.96
+FAXE Price: $0.001500
+Staked: 3.1621 Cake-LP ($16.08)
+FAXE Per Week: 208.60 ($0.31)
+APR: Day 0.28% Week 1.95% Year 101.24%
+You are staking 0.00 [ETH]-[FAXE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[FAXE] Cake LP
+Unstake 0.00 [ETH]-[FAXE] Cake LP
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+[WIKI]-[FAXE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $5.42
+WIKI Price: $0.000653
+FAXE Price: $0.001500
+Staked: 0.0000 Cake-LP ($0.00)
+FAXE Per Week: 130.37 ($0.20)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WIKI]-[FAXE] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WIKI]-[FAXE] Cake LP - Fee 1%
+Unstake 0.00 [WIKI]-[FAXE] Cake LP
+Claim 0.00 FAXE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,131.79

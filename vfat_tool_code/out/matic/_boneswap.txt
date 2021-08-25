@@ -1,0 +1,623 @@
+INFO  : https://farm.boneswap.finance
+********************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:03:25 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 37 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+BONE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 936912.8702 BONE ($0.00)
+BONE Per Week: 15638.01 ($250.67)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BONE ($0.00), NaN% of the pool.
+Stake 0.00 BONE
+Unstake 0.00 BONE
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[BONE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.37 TVL: $13,185.26
+WMATIC Price: $1.65
+BONE Price: $0.02
+Staked: 30887.2366 UNI-V2 ($11,422.16)
+BONE Per Week: 62552.04 ($1,002.66)
+APR: Day 1.25% Week 8.78% Year 456.47%
+You are staking 0.00 [WMATIC]-[BONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[BONE] Uni LP
+Unstake 0.00 [WMATIC]-[BONE] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,615,733.27 TVL: $33,413,202.34
+WMATIC Price: $1.65
+USDC Price: $1.00
+Staked: 0.0015 UNI-V2 ($6,879.94)
+BONE Per Week: 7819.00 ($125.33)
+APR: Day 0.26% Week 1.82% Year 94.73%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[BONE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $313,702.95 TVL: $13,652.39
+USDC Price: $1.00
+BONE Price: $0.02
+Staked: 0.0355 UNI-V2 ($11,139.12)
+BONE Per Week: 62552.04 ($1,002.66)
+APR: Day 1.29% Week 9.00% Year 468.07%
+You are staking 0.00 [USDC]-[BONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BONE] Uni LP
+Unstake 0.00 [USDC]-[BONE] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,805,553.50 TVL: $148,101,750.37
+USDC Price: $1.00
+WETH Price: $3,324.85
+Staked: 0.0001 UNI-V2 ($11,570.68)
+BONE Per Week: 6255.20 ($100.27)
+APR: Day 0.12% Week 0.87% Year 45.06%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WMATIC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $189.06 TVL: $123,016,793.06
+WMATIC Price: $1.65
+WETH Price: $3,324.85
+Staked: 155.2060 UNI-V2 ($29,342.89)
+BONE Per Week: 6255.20 ($100.27)
+APR: Day 0.05% Week 0.34% Year 17.77%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[USDC]-[miMATIC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,079,914.09 TVL: $89,358,980.81
+USDC Price: $1.00
+miMATIC Price: $0.99
+Staked: 0.0020 UNI-V2 ($4,159.83)
+BONE Per Week: 3909.50 ($62.67)
+APR: Day 0.22% Week 1.51% Year 78.34%
+You are staking 0.00 [USDC]-[miMATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[miMATIC] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[miMATIC] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[WBTC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50,640,842,298,487.30 TVL: $16,275,785.46
+WBTC Price: $50,080.00
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($9,932.50)
+BONE Per Week: 3909.50 ($62.67)
+APR: Day 0.09% Week 0.63% Year 32.81%
+You are staking 0.00 [WBTC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WBTC]-[USDC] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,562,288,484,976.68 TVL: $33,949,410.14
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($53,043.85)
+BONE Per Week: 3909.50 ($62.67)
+APR: Day 0.02% Week 0.12% Year 6.14%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[USDC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $74,894,600.12 TVL: $21,366,069.69
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0002 UNI-V2 ($11,512.16)
+BONE Per Week: 3909.50 ($62.67)
+APR: Day 0.08% Week 0.54% Year 28.31%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[DAI]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $27,050,579.68 TVL: $3,958,720.51
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 0.0001 UNI-V2 ($2,233.97)
+BONE Per Week: 3909.50 ($62.67)
+APR: Day 0.40% Week 2.81% Year 145.87%
+You are staking 0.00 [DAI]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [DAI]-[USDT] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+WMATIC
+ Price: $1.65 Market Cap: $605,605,018.26 
+[%]
+Staked: 26071.3605 WMATIC ($43,017.74)
+BONE Per Week: 7819.00 ($125.33)
+APR: Day 0.04% Week 0.29% Year 15.15%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+WETH
+ Price: $3,324.85 Market Cap: $2,030,808,778.09 
+[%]
+Staked: 13.9126 WETH ($46,257.25)
+BONE Per Week: 7819.00 ($125.33)
+APR: Day 0.04% Week 0.27% Year 14.09%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+WBTC
+ Price: $50,080.00 Market Cap: $698,418,977.30 
+[%]
+Staked: 3.0126 WBTC ($150,873.19)
+BONE Per Week: 7819.00 ($125.33)
+APR: Day 0.01% Week 0.08% Year 4.32%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+QUICK
+ Price: $733.90 Market Cap: $702,538,013.69 
+[%]
+Staked: 1.4416 QUICK ($1,058.01)
+BONE Per Week: 3909.50 ($62.67)
+APR: Day 0.85% Week 5.92% Year 308.00%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+USDC
+ Price: $1.00 Market Cap: $1,046,361,744.36 
+[%]
+Staked: 54442.7016 USDC ($54,320.48)
+BONE Per Week: 4691.40 ($75.20)
+APR: Day 0.02% Week 0.14% Year 7.20%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+USDT
+ Price: $1.00 Market Cap: $314,825,905.66 
+[%]
+Staked: 12390.8919 USDT ($12,376.67)
+BONE Per Week: 4691.40 ($75.20)
+APR: Day 0.09% Week 0.61% Year 31.59%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+DAI
+ Price: $1.00 Market Cap: $375,664,195.61 
+[%]
+Staked: 12585.5926 DAI ($12,565.61)
+BONE Per Week: 4691.40 ($75.20)
+APR: Day 0.09% Week 0.60% Year 31.12%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+AAVE
+ Price: $408.99 Market Cap: $155,692,097.46 
+[%]
+Staked: 36.5038 AAVE ($14,929.67)
+BONE Per Week: 3909.50 ($62.67)
+APR: Day 0.06% Week 0.42% Year 21.83%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+LINK
+ Price: $28.59 Market Cap: $64,877,398.95 
+[%]
+Staked: 361.1982 LINK ($10,326.66)
+BONE Per Week: 3909.50 ($62.67)
+APR: Day 0.09% Week 0.61% Year 31.56%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+miMATIC
+ Price: $0.99 Market Cap: $94,430,463.62 
+[%]
+Staked: 1316.0438 miMATIC ($1,297.59)
+BONE Per Week: 3909.50 ($62.67)
+APR: Day 0.69% Week 4.83% Year 251.13%
+You are staking 0.00 miMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 miMATIC - Fee 4%
+Unstake 0.00 miMATIC
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[WMATIC]-[BONE] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.36 TVL: $16,202.76
+WMATIC Price: $1.65
+BONE Price: $0.02
+Staked: 43012.1252 SLP ($15,618.94)
+BONE Per Week: 62552.04 ($1,002.66)
+APR: Day 0.92% Week 6.42% Year 333.82%
+You are staking 0.00 [WMATIC]-[BONE] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[BONE] SLP
+Unstake 0.00 [WMATIC]-[BONE] SLP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[WMATIC]-[BONE] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.33 TVL: $13,061.42
+WMATIC Price: $1.65
+BONE Price: $0.02
+Staked: 35619.3622 APE-LP ($11,847.99)
+BONE Per Week: 62552.04 ($1,002.66)
+APR: Day 1.21% Week 8.46% Year 440.06%
+You are staking 0.00 [WMATIC]-[BONE] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[BONE] APE LP
+Unstake 0.00 [WMATIC]-[BONE] APE LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[polyBUNNY]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $237.87 TVL: $12,497,587.38
+polyBUNNY Price: $4.08
+WETH Price: $3,324.85
+Staked: 4.3641 UNI-V2 ($1,038.08)
+BONE Per Week: 3909.50 ($62.67)
+APR: Day 0.86% Week 6.04% Year 313.91%
+You are staking 0.00 [polyBUNNY]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [polyBUNNY]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [polyBUNNY]-[WETH] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+polyBUNNY
+ Price: $4.08 Market Cap: $24,238,450.12 
+[%]
+Staked: 131.4657 polyBUNNY ($535.91)
+BONE Per Week: 2345.70 ($37.60)
+APR: Day 1.00% Week 7.02% Year 364.84%
+You are staking 0.00 polyBUNNY ($0.00), 0.00% of the pool.
+Stake 0.00 polyBUNNY - Fee 4%
+Unstake 0.00 polyBUNNY
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+FISH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 93.4973 FISH ($0.00)
+BONE Per Week: 2345.70 ($37.60)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+Stake 0.00 FISH - Fee 4%
+Unstake 0.00 FISH
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+PolyDoge
+ Price: $0.0000000064 Market Cap: $6,412,000.00 
+[%]
+Staked: 244900343723.2198 PolyDoge ($1,570.30)
+BONE Per Week: 2345.70 ($37.60)
+APR: Day 0.34% Week 2.39% Year 124.51%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 4%
+Unstake 0.00 PolyDoge
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+[WMATIC]-[BPUL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.86 TVL: $49,473.48
+WMATIC Price: $1.65
+BPUL Price: $0.07
+Staked: 4754.8088 UNI-V2 ($4,095.04)
+BONE Per Week: 3909.50 ($62.67)
+APR: Day 0.22% Week 1.53% Year 79.58%
+You are staking 0.00 [WMATIC]-[BPUL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[BPUL] Uni LP - Fee 3%
+Unstake 0.00 [WMATIC]-[BPUL] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+[WMATIC]-[BNT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.03 TVL: $4,465.75
+WMATIC Price: $1.65
+BNT Price: $0.04
+Staked: 1592.7560 UNI-V2 ($1,647.89)
+BONE Per Week: 3909.50 ($62.67)
+APR: Day 0.54% Week 3.80% Year 197.75%
+You are staking 0.00 [WMATIC]-[BNT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[BNT] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[BNT] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+[BONE]-[SPADE] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.73 TVL: $477.00
+BONE Price: $0.02
+SPADE Price: $7.92
+Staked: 611.0485 SLP ($446.45)
+BONE Per Week: 7819.00 ($125.33)
+APR: Day 4.01% Week 28.07% Year 1459.82%
+You are staking 0.00 [BONE]-[SPADE] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [BONE]-[SPADE] SLP
+Unstake 0.00 [BONE]-[SPADE] SLP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+[WMATIC]-[BONE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.33 TVL: $9,787.89
+WMATIC Price: $1.65
+BONE Price: $0.02
+Staked: 29631.7508 BONE-LPs ($9,733.17)
+BONE Per Week: 62552.04 ($1,002.66)
+APR: Day 1.47% Week 10.30% Year 535.68%
+You are staking 0.00 [WMATIC]-[BONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[BONE] Uni LP
+Unstake 0.00 [WMATIC]-[BONE] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+[USDC]-[BONE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $256,219.07 TVL: $6,456.64
+USDC Price: $1.00
+BONE Price: $0.02
+Staked: 0.0251 BONE-LPs ($6,437.15)
+BONE Per Week: 62552.04 ($1,002.66)
+APR: Day 2.23% Week 15.58% Year 809.96%
+You are staking 0.00 [USDC]-[BONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BONE] Uni LP
+Unstake 0.00 [USDC]-[BONE] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,580,960.64 TVL: $2,229.09
+WMATIC Price: $1.65
+USDC Price: $1.00
+Staked: 0.0008 BONE-LPs ($2,179.14)
+BONE Per Week: 1563.80 ($25.07)
+APR: Day 0.16% Week 1.15% Year 59.82%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+33 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,997,808,917,439.56 TVL: $5,980.12
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 BONE-LPs ($5,978.84)
+BONE Per Week: 1563.80 ($25.07)
+APR: Day 0.06% Week 0.42% Year 21.80%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+34 - 
+[USDC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,996,353.61 TVL: $11,485.31
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0048 BONE-LPs ($9,485.25)
+BONE Per Week: 1563.80 ($25.07)
+APR: Day 0.04% Week 0.26% Year 13.74%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+35 - 
+[USDC]-[miMATIC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,984,783.00 TVL: $6,777.96
+USDC Price: $1.00
+miMATIC Price: $0.99
+Staked: 0.0034 BONE-LPs ($6,776.66)
+BONE Per Week: 1563.80 ($25.07)
+APR: Day 0.05% Week 0.37% Year 19.23%
+You are staking 0.00 [USDC]-[miMATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[miMATIC] Uni LP
+Unstake 0.00 [USDC]-[miMATIC] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+36 - 
+[DAI]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,997,297.23 TVL: $3,997.76
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 0.0020 BONE-LPs ($3,997.59)
+BONE Per Week: 1563.80 ($25.07)
+APR: Day 0.09% Week 0.63% Year 32.61%
+You are staking 0.00 [DAI]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDT] Uni LP
+Unstake 0.00 [DAI]-[USDT] Uni LP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $579,648.36

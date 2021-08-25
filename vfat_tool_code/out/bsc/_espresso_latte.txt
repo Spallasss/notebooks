@@ -1,0 +1,145 @@
+INFO  : https://espresso.latteswap.finance
+***********************************************************************************************
+
+Mon Aug 23 2021 09:12:58 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 7 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+Espresso
+ Price: $0.0000094783 Market Cap: $538.04 
+[%]
+Staked: 13275023.4313 Espresso ($125.82)
+ESPRESSO Per Week: 2519748.33 ($23.88)
+APR: Day 2.71% Week 18.98% Year 987.02%
+You are staking 0.00 Espresso ($0.00), 0.00% of the pool.
+Stake 0.00 Espresso
+Unstake 0.00 Espresso
+Claim 0.00 ESPRESSO ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[Espresso]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.16 TVL: $132.22
+Espresso Price: $0.0000094783
+WBNB Price: $484.12
+Staked: 757.0265 Cake-LP ($120.00)
+ESPRESSO Per Week: 2013382.60 ($19.08)
+APR: Day 2.27% Week 15.90% Year 826.92%
+You are staking 0.00 [Espresso]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Espresso]-[WBNB] Cake LP
+Unstake 0.00 [Espresso]-[WBNB] Cake LP
+Claim 0.00 ESPRESSO ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[Espresso]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $100.57
+Espresso Price: $0.0000094783
+BUSD Price: $1.00
+Staked: 11839.1152 Cake-LP ($83.67)
+ESPRESSO Per Week: 2013382.60 ($19.08)
+APR: Day 3.26% Week 22.81% Year 1186.08%
+You are staking 0.00 [Espresso]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Espresso]-[BUSD] Cake LP
+Unstake 0.00 [Espresso]-[BUSD] Cake LP
+Claim 0.00 ESPRESSO ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.73 TVL: $527,367,291.92
+WBNB Price: $484.12
+BUSD Price: $1.00
+Staked: 0.0144 Cake-LP ($0.72)
+ESPRESSO Per Week: 10066.91 ($0.10)
+APR: Day 1.90% Week 13.31% Year 691.91%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 ESPRESSO ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[Espresso]-[Latte] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $76.02
+Espresso Price: $0.0000094783
+Latte Price: $0.0000247879
+Staked: 2078525.2494 Cake-LP ($74.86)
+ESPRESSO Per Week: 503345.65 ($4.77)
+APR: Day 0.91% Week 6.37% Year 331.42%
+You are staking 0.00 [Espresso]-[Latte] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Espresso]-[Latte] Cake LP
+Unstake 0.00 [Espresso]-[Latte] Cake LP
+Claim 0.00 ESPRESSO ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[Cake]-[Espresso] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.04 TVL: $31.74
+Cake Price: $25.01
+Espresso Price: $0.0000094783
+Staked: 762.4494 Cake-LP ($26.97)
+ESPRESSO Per Week: 1510036.95 ($14.31)
+APR: Day 7.58% Week 53.06% Year 2759.06%
+You are staking 0.00 [Cake]-[Espresso] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[Espresso] Cake LP
+Unstake 0.00 [Cake]-[Espresso] Cake LP
+Claim 0.00 ESPRESSO ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[PANTHER]-[Espresso] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $9.98
+PANTHER Price: $0.05
+Espresso Price: $0.0000094783
+Staked: 5290.4590 Cake-LP ($7.60)
+ESPRESSO Per Week: 1510036.95 ($14.31)
+APR: Day 26.90% Week 188.29% Year 9791.03%
+You are staking 0.00 [PANTHER]-[Espresso] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PANTHER]-[Espresso] Cake LP
+Unstake 0.00 [PANTHER]-[Espresso] Cake LP
+Claim 0.00 ESPRESSO ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $439.64

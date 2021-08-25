@@ -1,0 +1,158 @@
+INFO  : https://batswap.finance/
+TG Group  : https://t.me/batswapchat
+BUY $BATSWAP  : https://quickswap.exchange/#/swap?outputCurrency=0xb8ec286d18afe8f370e39c3775e756763fb2f184
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:10:25 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 9 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WMATIC]-[BATSWAP] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $6.60
+WMATIC Price: $1.65
+BATSWAP Price: $0.0000270470
+Staked: 40.1241 UNI-V2 ($0.56)
+BATSWAP Per Week: 12292.68 ($0.33)
+APR: Day 8.42% Week 58.95% Year 3065.43%
+You are staking 0.00 [WMATIC]-[BATSWAP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[BATSWAP] Uni LP
+Unstake 0.00 [WMATIC]-[BATSWAP] Uni LP
+Claim 0.00 BATSWAP ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[USDC]-[BATSWAP] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11,640.53 TVL: $1.68
+USDC Price: $1.00
+BATSWAP Price: $0.0000270470
+Staked: 0.0000 UNI-V2 ($0.39)
+BATSWAP Per Week: 12292.68 ($0.33)
+APR: Day 12.10% Week 84.69% Year 4404.01%
+You are staking 0.00 [USDC]-[BATSWAP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BATSWAP] Uni LP
+Unstake 0.00 [USDC]-[BATSWAP] Uni LP
+Claim 0.00 BATSWAP ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,615,054.47 TVL: $33,392,823.48
+WMATIC Price: $1.65
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($2.69)
+BATSWAP Per Week: 5268.29 ($0.14)
+APR: Day 0.76% Week 5.30% Year 275.54%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 BATSWAP ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,654,616.45 TVL: $147,964,498.43
+USDC Price: $1.00
+WETH Price: $3,319.69
+Staked: 0.0000 UNI-V2 ($1.25)
+BATSWAP Per Week: 5268.29 ($0.14)
+APR: Day 1.62% Week 11.37% Year 591.15%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 BATSWAP ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+BATSWAP
+ Price: $0.0000270470 Market Cap: $10.25 
+[%]
+Staked: 128015.5079 BATSWAP ($3.46)
+BATSWAP Per Week: 8780.49 ($0.24)
+APR: Day 0.98% Week 6.86% Year 356.66%
+You are staking 0.00 BATSWAP ($0.00), 0.00% of the pool.
+Stake 0.00 BATSWAP
+Unstake 0.00 BATSWAP
+Claim 0.00 BATSWAP ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WMATIC
+ Price: $1.65 Market Cap: $605,612,993.62 
+[%]
+Staked: 0.9300 WMATIC ($1.53)
+BATSWAP Per Week: 7024.39 ($0.19)
+APR: Day 1.77% Week 12.38% Year 643.80%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 BATSWAP ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WBTC
+ Price: $50,018.00 Market Cap: $697,143,853.15 
+[%]
+Staked: 0.0000 WBTC ($0.00)
+BATSWAP Per Week: 7024.39 ($0.19)
+APR: Day 5426.29% Week 37984.01% Year 1975168.41%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 BATSWAP ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WETH
+ Price: $3,319.69 Market Cap: $2,027,633,182.88 
+[%]
+Staked: 0.0003 WETH ($0.92)
+BATSWAP Per Week: 7024.39 ($0.19)
+APR: Day 2.94% Week 20.56% Year 1068.97%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 BATSWAP ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+USDT
+ Price: $1.00 Market Cap: $314,845,845.99 
+[%]
+Staked: 0.0000 USDT ($0.00)
+BATSWAP Per Week: 7024.39 ($0.19)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDT ($0.00), NaN% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 BATSWAP ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $10.82

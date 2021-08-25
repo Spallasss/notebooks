@@ -1,0 +1,393 @@
+INFO  : https://titanbull.finance
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:22:09 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 25 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+TBULL
+ Price: $0.00 Market Cap: $0.00 
+Staked: 3816.5075 TBULL ($0.00)
+TBULL Per Week: 220.97 ($24.76)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 TBULL ($0.00), NaN% of the pool.
+Stake 0.00 TBULL
+Unstake 0.00 TBULL
+Claim 0.00 TBULL ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[TBULL]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $691,905.07 TVL: $575.61
+TBULL Price: $0.11
+USDC Price: $1.00
+Staked: 0.0008 BULL-LP ($548.91)
+TBULL Per Week: 883.89 ($99.03)
+APR: Day 2.58% Week 18.04% Year 938.09%
+You are staking 0.00 [TBULL]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TBULL]-[USDC] Uni LP
+Unstake 0.00 [TBULL]-[USDC] Uni LP
+Claim 0.00 TBULL ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[TBULL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.89 TVL: $416.74
+WMATIC Price: $1.64
+TBULL Price: $0.11
+Staked: 468.3721 BULL-LP ($416.13)
+TBULL Per Week: 883.89 ($99.03)
+APR: Day 3.40% Week 23.80% Year 1237.44%
+You are staking 0.00 [WMATIC]-[TBULL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[TBULL] Uni LP
+Unstake 0.00 [WMATIC]-[TBULL] Uni LP
+Claim 0.00 TBULL ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,603,424.83 TVL: $33,308,420.16
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($19.91)
+TBULL Per Week: 110.49 ($12.38)
+APR: Day 8.88% Week 62.18% Year 3233.61%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 TBULL ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,787,190.14 TVL: $148,084,836.11
+USDC Price: $1.00
+WETH Price: $3,321.65
+Staked: 0.0000 UNI-V2 ($0.00)
+TBULL Per Week: 110.49 ($12.38)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 TBULL ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WBTC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50,638,315,982,075.85 TVL: $16,275,013.79
+WBTC Price: $50,038.00
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($533.25)
+TBULL Per Week: 110.49 ($12.38)
+APR: Day 0.33% Week 2.32% Year 120.71%
+You are staking 0.00 [WBTC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WBTC]-[USDC] Uni LP
+Claim 0.00 TBULL ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WMATIC
+ Price: $1.64 Market Cap: $601,926,855.24 
+[%]
+Staked: 2804.0755 WMATIC ($4,598.68)
+TBULL Per Week: 110.49 ($12.38)
+APR: Day 0.04% Week 0.27% Year 14.00%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 TBULL ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WETH
+ Price: $3,321.65 Market Cap: $2,028,872,772.08 
+[%]
+Staked: 0.1014 WETH ($336.84)
+TBULL Per Week: 110.49 ($12.38)
+APR: Day 0.52% Week 3.67% Year 191.09%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 TBULL ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+WBTC
+ Price: $50,038.00 Market Cap: $697,472,538.29 
+[%]
+Staked: 0.0336 WBTC ($1,681.28)
+TBULL Per Week: 88.39 ($9.90)
+APR: Day 0.08% Week 0.59% Year 30.63%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 TBULL ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+QUICK
+ Price: $726.86 Market Cap: $695,798,856.29 
+[%]
+Staked: 2.4015 QUICK ($1,745.52)
+TBULL Per Week: 55.24 ($6.19)
+APR: Day 0.05% Week 0.35% Year 18.44%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 TBULL ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+USDC
+ Price: $1.00 Market Cap: $1,046,860,326.62 
+[%]
+Staked: 101.9253 USDC ($101.77)
+TBULL Per Week: 110.49 ($12.38)
+APR: Day 1.74% Week 12.16% Year 632.46%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 TBULL ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+USDT
+ Price: $1.00 Market Cap: $314,854,133.87 
+[%]
+Staked: 701.5147 USDT ($700.71)
+TBULL Per Week: 110.49 ($12.38)
+APR: Day 0.25% Week 1.77% Year 91.86%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 TBULL ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+DAI
+ Price: $1.00 Market Cap: $375,664,195.61 
+[%]
+Staked: 0.0000 DAI ($0.00)
+TBULL Per Week: 110.49 ($12.38)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DAI ($0.00), NaN% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 TBULL ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+AAVE
+ Price: $407.92 Market Cap: $155,142,001.46 
+[%]
+Staked: 1.9403 AAVE ($791.48)
+TBULL Per Week: 55.24 ($6.19)
+APR: Day 0.11% Week 0.78% Year 40.66%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 TBULL ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+LINK
+ Price: $28.59 Market Cap: $64,877,398.95 
+[%]
+Staked: 0.0000 LINK ($0.00)
+TBULL Per Week: 55.24 ($6.19)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 LINK ($0.00), NaN% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 TBULL ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[TBULL]-[TITAN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.87 TVL: $1,040,189.48
+TBULL Price: $0.11
+TITAN Price: $0.01
+Staked: 260473.8377 BULL-LP ($1,008,078.79)
+TBULL Per Week: 198.87 ($22.28)
+APR: Day 0.00% Week 0.00% Year 0.11%
+You are staking 0.00 [TBULL]-[TITAN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TBULL]-[TITAN] Uni LP
+Unstake 0.00 [TBULL]-[TITAN] Uni LP
+Claim 0.00 TBULL ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[TBULL]-[GBULL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $87.78
+TBULL Price: $0.11
+GBULL Price: $0.001910
+Staked: 2844.6787 BULL-LP ($84.61)
+TBULL Per Week: 198.87 ($22.28)
+APR: Day 3.76% Week 26.33% Year 1369.28%
+You are staking 0.00 [TBULL]-[GBULL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TBULL]-[GBULL] Uni LP
+Unstake 0.00 [TBULL]-[GBULL] Uni LP
+Claim 0.00 TBULL ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[TBULL]-[BULL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $71.55
+TBULL Price: $0.11
+BULL Price: $0.001817
+Staked: 2351.8359 BULL-LP ($70.74)
+TBULL Per Week: 198.87 ($22.28)
+APR: Day 4.50% Week 31.50% Year 1637.89%
+You are staking 0.00 [TBULL]-[BULL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TBULL]-[BULL] Uni LP
+Unstake 0.00 [TBULL]-[BULL] Uni LP
+Claim 0.00 TBULL ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[TBULL]-[XBULL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.37 TVL: $96.10
+TBULL Price: $0.11
+XBULL Price: $0.30
+Staked: 240.5719 BULL-LP ($89.58)
+TBULL Per Week: 198.87 ($22.28)
+APR: Day 3.55% Week 24.87% Year 1293.34%
+You are staking 0.00 [TBULL]-[XBULL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TBULL]-[XBULL] Uni LP
+Unstake 0.00 [TBULL]-[XBULL] Uni LP
+Claim 0.00 TBULL ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[WMATIC]-[TITAN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $16.95 TVL: $2,169,108.83
+WMATIC Price: $1.64
+TITAN Price: $0.01
+Staked: 65187.7347 BULL-LP ($1,105,164.63)
+TBULL Per Week: 88.39 ($9.90)
+APR: Day 0.00% Week 0.00% Year 0.05%
+You are staking 0.00 [WMATIC]-[TITAN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[TITAN] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[TITAN] Uni LP
+Claim 0.00 TBULL ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[USDC]-[TITAN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13,109,334.05 TVL: $4,732,847.91
+USDC Price: $1.00
+TITAN Price: $0.01
+Staked: 0.0809 BULL-LP ($1,060,449.24)
+TBULL Per Week: 88.39 ($9.90)
+APR: Day 0.00% Week 0.00% Year 0.05%
+You are staking 0.00 [USDC]-[TITAN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[TITAN] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[TITAN] Uni LP
+Claim 0.00 TBULL ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+polyBUNNY
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0096 polyBUNNY ($0.00)
+TBULL Per Week: 55.24 ($6.19)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 polyBUNNY ($0.00), NaN% of the pool.
+Stake 0.00 polyBUNNY - Fee 4%
+Unstake 0.00 polyBUNNY
+Claim 0.00 TBULL ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+FISH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 6.7614 FISH ($0.00)
+TBULL Per Week: 55.24 ($6.19)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+Stake 0.00 FISH - Fee 4%
+Unstake 0.00 FISH
+Claim 0.00 TBULL ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+PolyDoge
+ Price: $0.0000000064 Market Cap: $6,358,000.00 
+[%]
+Staked: 39458585527.4218 PolyDoge ($250.88)
+TBULL Per Week: 55.24 ($6.19)
+APR: Day 0.35% Week 2.47% Year 128.28%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 4%
+Unstake 0.00 PolyDoge
+Claim 0.00 TBULL ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+miMATIC
+ Price: $0.00 Market Cap: $0.00 
+Staked: 9.5811 miMATIC ($0.00)
+TBULL Per Week: 55.24 ($6.19)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 miMATIC ($0.00), NaN% of the pool.
+Stake 0.00 miMATIC - Fee 4%
+Unstake 0.00 miMATIC
+Claim 0.00 TBULL ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $3,185,662.95

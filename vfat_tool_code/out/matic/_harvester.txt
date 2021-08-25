@@ -1,0 +1,209 @@
+INFO  : https://harvester.app
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:57:20 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 17 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[🌾]-[WETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7.52 TVL: $3,218.98
+🌾 Price: $0.003893
+WETH Price: $3,325.95
+Staked: 401.5821 SLP ($3,021.32)
+🌾 Per Week: 27592.81 ($107.41)
+APR: Day 0.51% Week 3.55% Year 184.86%
+You are staking 0.00 [🌾]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [🌾]-[WETH] SLP
+Unstake 0.00 [🌾]-[WETH] SLP & Claim 0.00 🌾 ($0.00) - Fee 4%
+Staking or unstaking also claims rewards.
+1 - 
+🌾
+ Price: $0.003893 Market Cap: $3,705.72 
+[%]
+Staked: 66346.6478 🌾 ($258.26)
+🌾 Per Week: 6898.20 ($26.85)
+APR: Day 1.49% Week 10.40% Year 540.66%
+You are staking 0.00 🌾 ($0.00), 0.00% of the pool.
+Stake 0.00 🌾
+Unstake 0.00 🌾 & Claim 0.00 🌾 ($0.00) - Fee 4%
+Staking or unstaking also claims rewards.
+2 - 
+WETH
+ Price: $3,325.95 Market Cap: $2,031,592,321.46 
+[%]
+Staked: 6.1304 WETH ($20,389.29)
+🌾 Per Week: 6898.20 ($26.85)
+APR: Day 0.02% Week 0.13% Year 6.85%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH
+Unstake 0.00 WETH & Claim 0.00 🌾 ($0.00) - Fee 4%
+Staking or unstaking also claims rewards.
+3 - 
+WMATIC
+ Price: $1.65 Market Cap: $605,587,181.87 
+[%]
+Staked: 2556.4411 WMATIC ($4,218.13)
+🌾 Per Week: 5518.56 ($21.48)
+APR: Day 0.07% Week 0.51% Year 26.48%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC
+Unstake 0.00 WMATIC & Claim 0.00 🌾 ($0.00) - Fee 4%
+Staking or unstaking also claims rewards.
+4 - 
+DAI
+ Price: $1.00 Market Cap: $375,659,203.55 
+[%]
+Staked: 112656.2141 DAI ($112,477.32)
+🌾 Per Week: 3449.10 ($13.43)
+APR: Day 0.00% Week 0.01% Year 0.62%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI
+Unstake 0.00 DAI & Claim 0.00 🌾 ($0.00) - Fee 4%
+Staking or unstaking also claims rewards.
+5 - 
+SUSHI
+ Price: $13.84 Market Cap: $14,029,412.28 
+[%]
+Staked: 3.2518 SUSHI ($45.01)
+🌾 Per Week: 4138.92 ($16.11)
+APR: Day 5.11% Week 35.80% Year 1861.50%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI
+Unstake 0.00 SUSHI & Claim 0.00 🌾 ($0.00) - Fee 4%
+Staking or unstaking also claims rewards.
+6 - 
+LINK
+ Price: $28.63 Market Cap: $64,968,168.31 
+[%]
+Staked: 19.5717 LINK ($560.34)
+🌾 Per Week: 4138.92 ($16.11)
+APR: Day 0.41% Week 2.88% Year 149.51%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK
+Unstake 0.00 LINK & Claim 0.00 🌾 ($0.00) - Fee 4%
+Staking or unstaking also claims rewards.
+7 - 
+AAVE
+ Price: $409.26 Market Cap: $155,794,879.60 
+[%]
+Staked: 0.3000 AAVE ($122.78)
+🌾 Per Week: 4138.92 ($16.11)
+APR: Day 1.87% Week 13.12% Year 682.35%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE
+Unstake 0.00 AAVE & Claim 0.00 🌾 ($0.00) - Fee 4%
+Staking or unstaking also claims rewards.
+8 - 
+SNX
+ Price: $13.98 Market Cap: $3,881,442.25 
+[%]
+Staked: 819.9530 SNX ($11,462.94)
+🌾 Per Week: 4138.92 ($16.11)
+APR: Day 0.02% Week 0.14% Year 7.31%
+You are staking 0.00 SNX ($0.00), 0.00% of the pool.
+Stake 0.00 SNX
+Unstake 0.00 SNX & Claim 0.00 🌾 ($0.00) - Fee 4%
+Staking or unstaking also claims rewards.
+9 - 
+USDC
+ Price: $1.00 Market Cap: $1,046,621,970.92 
+[%]
+Staked: 4377.1361 USDC ($4,368.45)
+🌾 Per Week: 3449.10 ($13.43)
+APR: Day 0.04% Week 0.31% Year 15.98%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC
+Unstake 0.00 USDC & Claim 0.00 🌾 ($0.00) - Fee 4%
+Staking or unstaking also claims rewards.
+10 - 
+CRV
+ Price: $2.43 Market Cap: $6,972,979.67 
+[%]
+Staked: 260.0655 CRV ($631.96)
+🌾 Per Week: 3449.10 ($13.43)
+APR: Day 0.30% Week 2.12% Year 110.47%
+You are staking 0.00 CRV ($0.00), 0.00% of the pool.
+Stake 0.00 CRV
+Unstake 0.00 CRV & Claim 0.00 🌾 ($0.00) - Fee 4%
+Staking or unstaking also claims rewards.
+11 - 
+GRT
+ Price: $1.04 Market Cap: $2,767,249.40 
+[%]
+Staked: 3600.2994 GRT ($3,744.31)
+🌾 Per Week: 3449.10 ($13.43)
+APR: Day 0.05% Week 0.36% Year 18.65%
+You are staking 0.00 GRT ($0.00), 0.00% of the pool.
+Stake 0.00 GRT
+Unstake 0.00 GRT & Claim 0.00 🌾 ($0.00) - Fee 4%
+Staking or unstaking also claims rewards.
+12 - 
+WBTC
+ Price: $50,114.00 Market Cap: $698,893,143.53 
+[%]
+Staked: 0.0351 WBTC ($1,758.81)
+🌾 Per Week: 2759.28 ($10.74)
+APR: Day 0.09% Week 0.61% Year 31.76%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC
+Unstake 0.00 WBTC & Claim 0.00 🌾 ($0.00) - Fee 4%
+Staking or unstaking also claims rewards.
+13 - 
+USDT
+ Price: $1.00 Market Cap: $314,825,905.66 
+[%]
+Staked: 409.1994 USDT ($408.73)
+🌾 Per Week: 3449.10 ($13.43)
+APR: Day 0.47% Week 3.28% Year 170.81%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT
+Unstake 0.00 USDT & Claim 0.00 🌾 ($0.00) - Fee 4%
+Staking or unstaking also claims rewards.
+14 - pDAI Price: $1.01 TVL: $3,030,478.81
+Staked: 674.5657 pDAI ($684.15)
+🌾 Per Week: 13796.41 ($53.70)
+APR: Day 1.12% Week 7.85% Year 408.18%
+You are staking 0.00 pDAI ($0.00), 0.00% of the pool.
+Stake 0.00 pDAI
+Unstake 0.00 pDAI & Claim 0.00 🌾 ($0.00) - Fee 4%
+Staking or unstaking also claims rewards.
+15 - Wrapped 
+[USDC]-[miMATIC] Uni LP
+ Price: $2,139,926.28 TVL: $7,140,268.28
+Staked: 0.0024 pUNI-V2 ($5,164.55)
+🌾 Per Week: 13796.41 ($53.70)
+APR: Day 0.15% Week 1.04% Year 54.07%
+You are staking 0.00 pUNI-V2 ($0.00), 0.00% of the pool.
+Stake 0.00 pUNI-V2
+Unstake 0.00 pUNI-V2 & Claim 0.00 🌾 ($0.00) - Fee 4%
+Staking or unstaking also claims rewards.
+16 - 
+FISH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 5.2360 FISH ($0.00)
+🌾 Per Week: 4138.92 ($16.11)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+Stake 0.00 FISH - Fee 2%
+Unstake 0.00 FISH & Claim 0.00 🌾 ($0.00) - Fee 2%
+Staking or unstaking also claims rewards.
+Total Staked: $169,316.35

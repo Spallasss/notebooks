@@ -1,0 +1,221 @@
+INFO  : https://www.punchdefi.com/
+****************************************************************************************
+
+Mon Aug 23 2021 14:28:45 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 19 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+PUNCH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 3933260399.5822 PUNCH ($0.00)
+PUNCH Per Week: 125131034.48 ($1.64)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 PUNCH ($0.00), NaN% of the pool.
+Stake 0.00 PUNCH
+Unstake 0.00 PUNCH
+Claim 0.00 PUNCH ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[PUNCH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $31.27
+PUNCH Price: $0.0000000131
+WBNB Price: $483.90
+Staked: 4636.5372 Cake-LP ($24.81)
+PUNCH Per Week: 375393103.45 ($4.91)
+APR: Day 2.83% Week 19.80% Year 1029.84%
+You are staking 0.00 [PUNCH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PUNCH]-[WBNB] Cake LP
+Unstake 0.00 [PUNCH]-[WBNB] Cake LP
+Claim 0.00 PUNCH ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[PUNCH]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $114.60
+PUNCH Price: $0.0000000131
+BUSD Price: $1.00
+Staked: 453392.5040 Cake-LP ($111.79)
+PUNCH Per Week: 375393103.45 ($4.91)
+APR: Day 0.63% Week 4.40% Year 228.59%
+You are staking 0.00 [PUNCH]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PUNCH]-[BUSD] Cake LP
+Unstake 0.00 [PUNCH]-[BUSD] Cake LP
+Claim 0.00 PUNCH ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+BUSD
+ Price: $1.00 Market Cap: $4,192,962,888.14 
+[%]
+Staked: 327.5673 BUSD ($326.94)
+PUNCH Per Week: 25026206.90 ($0.33)
+APR: Day 0.01% Week 0.10% Year 5.21%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 3%
+Unstake 0.00 BUSD
+Claim 0.00 PUNCH ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WBNB
+ Price: $483.90 Market Cap: $3,427,872,073.47 
+[%]
+Staked: 0.4682 WBNB ($226.56)
+PUNCH Per Week: 25026206.90 ($0.33)
+APR: Day 0.02% Week 0.14% Year 7.52%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 3%
+Unstake 0.00 WBNB
+Claim 0.00 PUNCH ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.0001 BTCB ($4.81)
+PUNCH Per Week: 25026206.90 ($0.33)
+APR: Day 0.97% Week 6.81% Year 354.37%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 3%
+Unstake 0.00 BTCB
+Claim 0.00 PUNCH ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+ETH
+ Price: $3,322.23 Market Cap: $4,335,510,150.00 
+[%]
+Staked: 0.0004 ETH ($1.39)
+PUNCH Per Week: 25026206.90 ($0.33)
+APR: Day 3.38% Week 23.63% Year 1228.90%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 3%
+Unstake 0.00 ETH
+Claim 0.00 PUNCH ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+DAI
+ Price: $1.00 Market Cap: $261,817,648.00 
+[%]
+Staked: 49.2743 DAI ($49.24)
+PUNCH Per Week: 25026206.90 ($0.33)
+APR: Day 0.10% Week 0.67% Year 34.60%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 3%
+Unstake 0.00 DAI
+Claim 0.00 PUNCH ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,024,094.88
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 16.3828 Cake-LP ($33.51)
+PUNCH Per Week: 37539310.34 ($0.49)
+APR: Day 0.21% Week 1.47% Year 76.27%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 PUNCH ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.70 TVL: $527,080,128.41
+WBNB Price: $483.90
+BUSD Price: $1.00
+Staked: 20.1062 Cake-LP ($999.34)
+PUNCH Per Week: 37539310.34 ($0.49)
+APR: Day 0.01% Week 0.05% Year 2.56%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 PUNCH ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,648.15 TVL: $261,401,632.97
+ETH Price: $3,322.23
+WBNB Price: $483.90
+Staked: 0.0001 Cake-LP ($0.26)
+PUNCH Per Week: 37539310.34 ($0.49)
+APR: Day 26.51% Week 185.58% Year 9650.08%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 PUNCH ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+Cake
+ Price: $24.98 Market Cap: $10,394,787,404.65 
+[%]
+Staked: 12.8573 Cake ($321.17)
+PUNCH Per Week: 25026206.90 ($0.33)
+APR: Day 0.01% Week 0.10% Year 5.30%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 PUNCH ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+ADA
+ Price: $2.82 Market Cap: $789,600,000.00 
+[%]
+Staked: 537.1204 ADA ($1,514.68)
+PUNCH Per Week: 50052413.79 ($0.66)
+APR: Day 0.01% Week 0.04% Year 2.25%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 PUNCH ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+LTC
+ Price: $189.10 Market Cap: $112,514,500.00 
+[%]
+Staked: 0.4085 LTC ($77.25)
+PUNCH Per Week: 625655172.41 ($8.19)
+APR: Day 1.51% Week 10.60% Year 551.35%
+You are staking 0.00 LTC ($0.00), 0.00% of the pool.
+Stake 0.00 LTC - Fee 75%
+Unstake 0.00 LTC
+Claim 0.00 PUNCH ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $3,691.76

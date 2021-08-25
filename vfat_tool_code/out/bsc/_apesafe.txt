@@ -1,0 +1,81 @@
+INFO  : https://apesafe.finance/farms
+*************************************************************************************
+
+Mon Aug 23 2021 13:53:13 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 10 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+3 - 
+[BUSD]-[APESAFE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $28.03
+BUSD Price: $1.00
+APESAFE Price: $0.0000052259
+Staked: 5271.2187 Mochi-LP ($24.54)
+APESAFE Per Week: 180000.00 ($0.94)
+APR: Day 0.55% Week 3.83% Year 199.36%
+You are staking 0.00 [BUSD]-[APESAFE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[APESAFE] Uni LP
+Unstake 0.00 [BUSD]-[APESAFE] Uni LP
+Claim 0.00 APESAFE ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[APEDOGE]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.06 TVL: $18.56
+APEDOGE Price: $0.0000020115
+WBNB Price: $484.00
+Staked: 0.0000 Mochi-LP ($0.00)
+APESAFE Per Week: 180000.00 ($0.94)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [APEDOGE]-[WBNB] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [APEDOGE]-[WBNB] Uni LP
+Unstake 0.00 [APEDOGE]-[WBNB] Uni LP
+Claim 0.00 APESAFE ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+APESAFE
+ Price: $0.0000052259 Market Cap: $362.69 
+[%]
+Staked: 8364475.5292 APESAFE ($43.71)
+APESAFE Per Week: 84000.00 ($0.44)
+APR: Day 0.14% Week 1.00% Year 52.22%
+You are staking 0.00 APESAFE ($0.00), 0.00% of the pool.
+Stake 0.00 APESAFE
+Unstake 0.00 APESAFE
+Claim 0.00 APESAFE ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+APEDOGE
+ Price: $0.0000020115 Market Cap: $201.15 
+[%]
+Staked: 4351759.6156 APEDOGE ($8.75)
+APESAFE Per Week: 84000.00 ($0.44)
+APR: Day 0.72% Week 5.01% Year 260.77%
+You are staking 0.00 APEDOGE ($0.00), 0.00% of the pool.
+Stake 0.00 APEDOGE
+Unstake 0.00 APEDOGE
+Claim 0.00 APESAFE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $77.00

@@ -1,0 +1,175 @@
+INFO  : https://polyshield.finance
+****************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:50:14 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 10 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+SHI3LD
+ Price: $17.39 Market Cap: $881,719.83 
+[%]
+Staked: 24206.5992 SHI3LD ($420,930.23)
+SHI3LD Per Week: 10518.26 ($182,902.77)
+APR: Day 6.21% Week 43.45% Year 2259.51%
+You are staking 0.00 SHI3LD ($0.00), 0.00% of the pool.
+Stake 0.00 SHI3LD
+Unstake 0.00 SHI3LD
+Claim 0.00 SHI3LD ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+WETH
+ Price: $3,321.04 Market Cap: $2,024,908,050.07 
+[%]
+Staked: 936.4701 WETH ($3,110,054.52)
+SHI3LD Per Week: 2629.57 ($45,725.69)
+APR: Day 0.21% Week 1.47% Year 76.45%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 SHI3LD ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+QUICK
+ Price: $725.76 Market Cap: $694,745,862.95 
+[%]
+Staked: 1299.5482 QUICK ($943,160.12)
+SHI3LD Per Week: 2629.57 ($45,725.69)
+APR: Day 0.69% Week 4.85% Year 252.10%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 SHI3LD ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WMATIC
+ Price: $1.64 Market Cap: $603,131,237.05 
+[%]
+Staked: 620552.9766 WMATIC ($1,017,706.88)
+SHI3LD Per Week: 2629.57 ($45,725.69)
+APR: Day 0.64% Week 4.49% Year 233.64%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 SHI3LD ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+USDC
+ Price: $1.00 Market Cap: $1,042,636,195.99 
+[%]
+Staked: 1110930.7241 USDC ($1,109,570.94)
+SHI3LD Per Week: 2629.57 ($45,725.69)
+APR: Day 0.59% Week 4.12% Year 214.29%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 SHI3LD ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,563,843,222,546.48 TVL: $34,034,625.09
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($1,301,192.15)
+SHI3LD Per Week: 2629.57 ($45,725.69)
+APR: Day 0.50% Week 3.51% Year 182.74%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 SHI3LD ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[WMATIC]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $93.80 TVL: $31,625,890.51
+WMATIC Price: $1.64
+QUICK Price: $725.76
+Staked: 8964.3590 UNI-V2 ($840,829.75)
+SHI3LD Per Week: 3944.35 ($68,588.54)
+APR: Day 1.17% Week 8.16% Year 424.18%
+You are staking 0.00 [WMATIC]-[QUICK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[QUICK] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[QUICK] Uni LP
+Claim 0.00 SHI3LD ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,797,768.24 TVL: $148,027,213.21
+USDC Price: $1.00
+WETH Price: $3,321.04
+Staked: 0.0071 UNI-V2 ($1,153,218.76)
+SHI3LD Per Week: 3944.35 ($68,588.54)
+APR: Day 0.85% Week 5.95% Year 309.27%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 SHI3LD ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[USDC]-[SHI3LD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9,175,123.28 TVL: $428,735.04
+USDC Price: $1.00
+SHI3LD Price: $17.39
+Staked: 0.0465 UNI-V2 ($426,186.02)
+SHI3LD Per Week: 14462.61 ($251,491.31)
+APR: Day 8.43% Week 59.01% Year 3068.51%
+You are staking 0.00 [USDC]-[SHI3LD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[SHI3LD] Uni LP
+Unstake 0.00 [USDC]-[SHI3LD] Uni LP
+Claim 0.00 SHI3LD ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[WMATIC]-[SHI3LD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11.64 TVL: $426,463.13
+WMATIC Price: $1.64
+SHI3LD Price: $17.39
+Staked: 36191.4034 UNI-V2 ($421,385.46)
+SHI3LD Per Week: 14462.61 ($251,491.31)
+APR: Day 8.53% Week 59.68% Year 3103.46%
+You are staking 0.00 [WMATIC]-[SHI3LD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[SHI3LD] Uni LP
+Unstake 0.00 [WMATIC]-[SHI3LD] Uni LP
+Claim 0.00 SHI3LD ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $10,744,234.83

@@ -1,0 +1,320 @@
+INFO  : https://penguinfinance.org
+********************************************************************************
+
+Mon Aug 23 2021 13:13:52 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 7 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WAVAX]-[PEFI] PGL
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $25.96 TVL: $3,914,710.97
+WAVAX Price: $49.33
+PEFI Price: $2.15
+Staked: 137579.9776 PGL ($3,571,844.86)
+PEFI Per Week: 46872.82 ($100,722.53)
+APR: Day 0.40% Week 2.82% Year 146.63%
+You are staking 0.00 [WAVAX]-[PEFI] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[PEFI] PGL
+Unstake 0.00 [WAVAX]-[PEFI] PGL - Fee 1%
+Claim 0.00 PEFI ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WAVAX]-[ETH] PGL
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,063.28 TVL: $62,974,168.22
+WAVAX Price: $49.33
+ETH Price: $5,311.29
+Staked: 5348.8097 PGL ($5,687,287.46)
+PEFI Per Week: 32225.06 ($69,246.74)
+APR: Day 0.17% Week 1.22% Year 63.31%
+You are staking 0.00 [WAVAX]-[ETH] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[ETH] PGL
+Unstake 0.00 [WAVAX]-[ETH] PGL - Fee 1%
+Claim 0.00 PEFI ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[PNG]-[PEFI] PGL
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.84 TVL: $3,193,537.75
+PNG Price: $3.49
+PEFI Price: $2.15
+Staked: 393955.1414 PGL ($2,302,410.97)
+PEFI Per Week: 38084.17 ($81,837.06)
+APR: Day 0.51% Week 3.55% Year 184.83%
+You are staking 0.00 [PNG]-[PEFI] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [PNG]-[PEFI] PGL
+Unstake 0.00 [PNG]-[PEFI] PGL - Fee 1%
+Claim 0.00 PEFI ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[SNOB]-[PEFI] PGL
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.77 TVL: $2,632,545.10
+SNOB Price: $1.55
+PEFI Price: $2.15
+Staked: 658677.0454 PGL ($2,484,064.43)
+PEFI Per Week: 38084.17 ($81,837.06)
+APR: Day 0.47% Week 3.29% Year 171.31%
+You are staking 0.00 [SNOB]-[PEFI] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [SNOB]-[PEFI] PGL
+Unstake 0.00 [SNOB]-[PEFI] PGL - Fee 1%
+Claim 0.00 PEFI ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[SUSHI]-[PEFI] PGL
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11.91 TVL: $876,816.91
+SUSHI Price: $13.80
+PEFI Price: $2.15
+Staked: 71233.9688 PGL ($848,586.88)
+PEFI Per Week: 38084.17 ($81,837.06)
+APR: Day 1.38% Week 9.64% Year 501.48%
+You are staking 0.00 [SUSHI]-[PEFI] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [SUSHI]-[PEFI] PGL
+Unstake 0.00 [SUSHI]-[PEFI] PGL - Fee 1%
+Claim 0.00 PEFI ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[DAI]-[PEFI] PGL
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.11 TVL: $688,684.30
+DAI Price: $1.00
+PEFI Price: $2.15
+Staked: 215309.6536 PGL ($670,662.87)
+PEFI Per Week: 38084.17 ($81,837.06)
+APR: Day 1.74% Week 12.20% Year 634.53%
+You are staking 0.00 [DAI]-[PEFI] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[PEFI] PGL
+Unstake 0.00 [DAI]-[PEFI] PGL - Fee 4%
+Claim 0.00 PEFI ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[LINK]-[PEFI] PGL
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $21.14 TVL: $849,862.22
+LINK Price: $50.76
+PEFI Price: $2.15
+Staked: 38082.7615 PGL ($805,170.93)
+PEFI Per Week: 38084.17 ($81,837.06)
+APR: Day 1.45% Week 10.16% Year 528.52%
+You are staking 0.00 [LINK]-[PEFI] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [LINK]-[PEFI] PGL
+Unstake 0.00 [LINK]-[PEFI] PGL - Fee 4%
+Claim 0.00 PEFI ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $16,370,028.40
+
+xPEFI Price: $12.53 Total Supply: 1422511.5662 TVL: $17,827,779.34
+PEFI Price: $2.14
+There is a total of 8296438.34 PEFI staked in xPEFI
+Your balance is 0.00 xPEFI (0.00 PEFI), $0.00, 0.00% of the pool
+Stake 0.00 PEFI
+*** Paper hands penalty ***
+Unstaking currently incurs a 25% fee.
+Unstake 0.00 xPEFI
+[DAI]-[PEFI] PGL
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.11 TVL: $688,684.30
+DAI Price: $1.00
+PEFI Price: $2.15
+Staked: 71568.0411 PGL ($222,925.57)
+You are staking 0.000000 [DAI]-[PEFI] PGL $0.00 (0.00% of the pool).
+[PNG]-[WAVAX] PGL
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $29.72 TVL: $176,320,777.47
+PNG Price: $3.49
+WAVAX Price: $49.33
+Staked: 28472.9153 PGL ($846,112.72)
+You are staking 0.000000 [PNG]-[WAVAX] PGL $0.00 (0.00% of the pool).
+[WAVAX]-[PEFI] PGL
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $25.96 TVL: $3,914,710.97
+WAVAX Price: $49.33
+PEFI Price: $2.15
+Staked: 61730.3125 PGL ($1,602,639.45)
+You are staking 0.000000 [WAVAX]-[PEFI] PGL $0.00 (0.00% of the pool).
+[SUSHI]-[PEFI] PGL
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11.91 TVL: $876,816.91
+SUSHI Price: $13.80
+PEFI Price: $2.15
+Staked: 27465.0845 PGL ($327,182.53)
+You are staking 0.000000 [SUSHI]-[PEFI] PGL $0.00 (0.00% of the pool).
+[PNG]-[PEFI] PGL
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.84 TVL: $3,193,537.75
+PNG Price: $3.49
+PEFI Price: $2.15
+Staked: 118331.5579 PGL ($691,570.81)
+You are staking 0.000000 [PNG]-[PEFI] PGL $0.00 (0.00% of the pool).
+[LINK]-[PEFI] PGL
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $21.14 TVL: $849,862.22
+LINK Price: $50.76
+PEFI Price: $2.15
+Staked: 13575.3737 PGL ($287,019.53)
+You are staking 0.000000 [LINK]-[PEFI] PGL $0.00 (0.00% of the pool).
+[WAVAX]-[ETH] PGL
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,063.28 TVL: $62,974,168.22
+WAVAX Price: $49.33
+ETH Price: $5,311.29
+Staked: 2.8938 PGL ($3,076.94)
+You are staking 0.000000 [WAVAX]-[ETH] PGL $0.00 (0.00% of the pool).
+[SNOB]-[PEFI] PGL
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.77 TVL: $2,632,545.10
+SNOB Price: $1.55
+PEFI Price: $2.15
+Staked: 68320.7401 PGL ($257,657.56)
+You are staking 0.000000 [SNOB]-[PEFI] PGL $0.00 (0.00% of the pool).
+gondolaETHPool
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0606 gondolaETHPool ($0.00)
+You are staking 0.000000 gondolaETHPool $0.00 (NaN% of the pool).
+[WAVAX]-[ETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,033.41 TVL: $69,005.70
+WAVAX Price: $49.33
+ETH Price: $5,311.29
+Staked: 1.1341 Lydia-LP ($1,171.99)
+You are staking 0.000000 [WAVAX]-[ETH] Uni LP $0.00 (0.00% of the pool).
+[LYD]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $427,595.36 TVL: $298,105.88
+LYD Price: $0.03
+USDT Price: $1.24
+Staked: 0.0362 Lydia-LP ($15,480.48)
+You are staking 0.000000 [LYD]-[USDT] Uni LP $0.00 (0.00% of the pool).
+[LYD]-[PNG] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.70 TVL: $261,520.74
+LYD Price: $0.03
+PNG Price: $3.49
+Staked: 11333.6984 Lydia-LP ($7,951.70)
+You are staking 0.000000 [LYD]-[PNG] Uni LP $0.00 (0.00% of the pool).
+[WAVAX]-[ETH] PGL
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,063.28 TVL: $62,974,168.22
+WAVAX Price: $49.33
+ETH Price: $5,311.29
+Staked: 6.4656 PGL ($6,874.76)
+You are staking 0.000000 [WAVAX]-[ETH] PGL $0.00 (0.00% of the pool).
+[WAVAX]-[LINK] PGL
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $102.37 TVL: $16,893,206.97
+WAVAX Price: $49.33
+LINK Price: $50.76
+Staked: 6.0871 PGL ($623.15)
+You are staking 0.000000 [WAVAX]-[LINK] PGL $0.00 (0.00% of the pool).

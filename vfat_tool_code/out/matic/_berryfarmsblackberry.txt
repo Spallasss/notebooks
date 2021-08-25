@@ -1,0 +1,250 @@
+INFO  : https://blackberryfarms.world/
+********************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:52:44 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 17 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[BLACKBRY] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $741,212.99 TVL: $114.20
+USDC Price: $1.00
+BLACKBRY Price: $0.12
+Staked: 0.0000 UNI-V2 ($32.47)
+BLACKBRY Per Week: 300.00 ($35.22)
+APR: Day 15.50% Week 108.50% Year 5641.75%
+You are staking 0.00 [USDC]-[BLACKBRY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BLACKBRY] Uni LP
+Unstake 0.00 [USDC]-[BLACKBRY] Uni LP
+Claim 0.00 BLACKBRY ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[BLACKBRY] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.95 TVL: $131.70
+WMATIC Price: $1.64
+BLACKBRY Price: $0.12
+Staked: 23.6511 UNI-V2 ($22.36)
+BLACKBRY Per Week: 300.00 ($35.22)
+APR: Day 22.50% Week 157.52% Year 8190.99%
+You are staking 0.00 [WMATIC]-[BLACKBRY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[BLACKBRY] Uni LP
+Unstake 0.00 [WMATIC]-[BLACKBRY] Uni LP
+Claim 0.00 BLACKBRY ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[USDC]-[RASP] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,034,777.07 TVL: $4,121.30
+USDC Price: $1.00
+RASP Price: $1.83
+Staked: 0.0000 UNI-V2 ($46.96)
+BLACKBRY Per Week: 150.00 ($17.61)
+APR: Day 5.36% Week 37.50% Year 1950.06%
+You are staking 0.00 [USDC]-[RASP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[RASP] Uni LP
+Unstake 0.00 [USDC]-[RASP] Uni LP
+Claim 0.00 BLACKBRY ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[BLUEBRY] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $692,647.87 TVL: $219.13
+USDC Price: $1.00
+BLUEBRY Price: $0.10
+Staked: 0.0001 UNI-V2 ($34.82)
+BLACKBRY Per Week: 75.00 ($8.81)
+APR: Day 3.61% Week 25.29% Year 1314.88%
+You are staking 0.00 [USDC]-[BLUEBRY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BLUEBRY] Uni LP
+Unstake 0.00 [USDC]-[BLUEBRY] Uni LP
+Claim 0.00 BLACKBRY ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+BLACKBRY
+ Price: $0.12 Market Cap: $261.09 
+[%]
+Staked: 664.5368 BLACKBRY ($78.02)
+BLACKBRY Per Week: 150.00 ($17.61)
+APR: Day 3.22% Week 22.57% Year 1173.75%
+You are staking 0.00 BLACKBRY ($0.00), 0.00% of the pool.
+Stake 0.00 BLACKBRY
+Unstake 0.00 BLACKBRY
+Claim 0.00 BLACKBRY ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+BLUEBRY
+ Price: $0.10 Market Cap: $277.75 
+[%]
+Staked: 137.4815 BLUEBRY ($14.42)
+BLACKBRY Per Week: 90.00 ($10.57)
+APR: Day 10.47% Week 73.30% Year 3811.46%
+You are staking 0.00 BLUEBRY ($0.00), 0.00% of the pool.
+Stake 0.00 BLUEBRY
+Unstake 0.00 BLUEBRY
+Claim 0.00 BLACKBRY ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+RASP
+ Price: $1.83 Market Cap: $7,477.58 
+[%]
+Staked: 22.2678 RASP ($40.79)
+BLACKBRY Per Week: 75.00 ($8.81)
+APR: Day 3.08% Week 21.59% Year 1122.52%
+You are staking 0.00 RASP ($0.00), 0.00% of the pool.
+Stake 0.00 RASP
+Unstake 0.00 RASP
+Claim 0.00 BLACKBRY ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+PolyDoge
+ Price: $0.0000000062 Market Cap: $6,236,000.00 
+[%]
+Staked: 2254369664.8208 PolyDoge ($14.06)
+BLACKBRY Per Week: 45.00 ($5.28)
+APR: Day 5.37% Week 37.58% Year 1954.32%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 3%
+Unstake 0.00 PolyDoge
+Claim 0.00 BLACKBRY ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+WMATIC
+ Price: $1.64 Market Cap: $603,168,498.48 
+[%]
+Staked: 15.3600 WMATIC ($25.19)
+BLACKBRY Per Week: 45.00 ($5.28)
+APR: Day 3.00% Week 20.97% Year 1090.67%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 BLACKBRY ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+WETH
+ Price: $3,321.08 Market Cap: $2,024,915,944.35 
+[%]
+Staked: 0.0084 WETH ($28.00)
+BLACKBRY Per Week: 30.00 ($3.52)
+APR: Day 1.80% Week 12.58% Year 654.22%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 BLACKBRY ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+WBTC
+ Price: $50,019.00 Market Cap: $696,957,605.01 
+[%]
+Staked: 0.0098 WBTC ($489.79)
+BLACKBRY Per Week: 30.00 ($3.52)
+APR: Day 0.10% Week 0.72% Year 37.40%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 BLACKBRY ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+DAI
+ Price: $1.00 Market Cap: $376,545,250.79 
+[%]
+Staked: 30.7200 DAI ($30.69)
+BLACKBRY Per Week: 30.00 ($3.52)
+APR: Day 1.64% Week 11.48% Year 596.87%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 BLACKBRY ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+LINK
+ Price: $28.57 Market Cap: $64,832,014.27 
+[%]
+Staked: 0.4106 LINK ($11.73)
+BLACKBRY Per Week: 30.00 ($3.52)
+APR: Day 4.29% Week 30.02% Year 1561.23%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 BLACKBRY ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+QUICK
+ Price: $725.29 Market Cap: $694,295,947.61 
+[%]
+Staked: 0.3078 QUICK ($223.28)
+BLACKBRY Per Week: 30.00 ($3.52)
+APR: Day 0.23% Week 1.58% Year 82.03%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 BLACKBRY ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+AAVE
+ Price: $408.15 Market Cap: $155,229,476.11 
+[%]
+Staked: 0.6290 AAVE ($256.73)
+BLACKBRY Per Week: 30.00 ($3.52)
+APR: Day 0.20% Week 1.37% Year 71.34%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 BLACKBRY ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+NEPTUNE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 18.4326 NEPTUNE ($0.00)
+BLACKBRY Per Week: 15.00 ($1.76)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 NEPTUNE ($0.00), NaN% of the pool.
+Stake 0.00 NEPTUNE - Fee 4%
+Unstake 0.00 NEPTUNE
+Claim 0.00 BLACKBRY ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+RGEM
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.7503 RGEM ($0.00)
+BLACKBRY Per Week: 15.00 ($1.76)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RGEM ($0.00), NaN% of the pool.
+Stake 0.00 RGEM - Fee 2%
+Unstake 0.00 RGEM
+Claim 0.00 BLACKBRY ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,349.31

@@ -1,0 +1,28 @@
+INFO  : https://midasdollar.fi
+********************************************************************************
+
+Mon Aug 23 2021 13:44:51 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 3 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+Boardroom
+There is a total 2561.31 MDS ($0.00) staked in the Boardroom.
+You are staking 0 MDS ($0.00), 0.00% of the pool.
+There will be 55241.88 MDO issued at next expansion.
+Boardroom APR: Day NaN% Week NaN% Year NaN%
+Stake 0.00 MDS
+Unstake 0.00 MDS
+Claim 0.00 MDO ($0.00)
+Revoke (set approval to 0)
+Exit
+

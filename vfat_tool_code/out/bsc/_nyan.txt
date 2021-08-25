@@ -1,0 +1,221 @@
+INFO  : https://yieldnyan.com
+******************************************************************************
+
+Mon Aug 23 2021 13:38:37 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 11 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+NYAN
+ Price: $0.001707 Market Cap: $10,284.99 
+[%]
+Staked: 1510954.6724 NYAN ($2,579.77)
+NYAN Per Week: 49745.45 ($84.93)
+APR: Day 0.47% Week 3.29% Year 171.20%
+You are staking 0.00 NYAN ($0.00), 0.00% of the pool.
+Stake 0.00 NYAN
+Unstake 0.00 NYAN
+Claim 0.00 NYAN ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[NYAN]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.18 TVL: $1,376.53
+NYAN Price: $0.001707
+WBNB Price: $481.29
+Staked: 522.8839 Cake-LP ($1,141.02)
+NYAN Per Week: 32727.27 ($55.88)
+APR: Day 0.70% Week 4.90% Year 254.65%
+You are staking 0.00 [NYAN]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NYAN]-[WBNB] Cake LP
+Unstake 0.00 [NYAN]-[WBNB] Cake LP
+Claim 0.00 NYAN ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[NYAN]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.09 TVL: $384.52
+NYAN Price: $0.001707
+BUSD Price: $1.00
+Staked: 4169.0497 Cake-LP ($371.62)
+NYAN Per Week: 15709.09 ($26.82)
+APR: Day 1.03% Week 7.22% Year 375.30%
+You are staking 0.00 [NYAN]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NYAN]-[BUSD] Cake LP
+Unstake 0.00 [NYAN]-[BUSD] Cake LP
+Claim 0.00 NYAN ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[NYAN]-[BTCB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $19.50 TVL: $967.13
+NYAN Price: $0.001707
+BTCB Price: $50,236.00
+Staked: 43.0718 Cake-LP ($839.78)
+NYAN Per Week: 26181.82 ($44.70)
+APR: Day 0.76% Week 5.32% Year 276.80%
+You are staking 0.00 [NYAN]-[BTCB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NYAN]-[BTCB] Cake LP
+Unstake 0.00 [NYAN]-[BTCB] Cake LP
+Claim 0.00 NYAN ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[DAI]-[NYAN] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.09 TVL: $425.62
+DAI Price: $1.00
+NYAN Price: $0.001707
+Staked: 3003.3028 Cake-LP ($258.22)
+NYAN Per Week: 15709.09 ($26.82)
+APR: Day 1.48% Week 10.39% Year 540.12%
+You are staking 0.00 [DAI]-[NYAN] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[NYAN] Cake LP
+Unstake 0.00 [DAI]-[NYAN] Cake LP
+Claim 0.00 NYAN ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[ETH]-[NYAN] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.96 TVL: $605.42
+ETH Price: $3,319.68
+NYAN Price: $0.001707
+Staked: 104.1190 Cake-LP ($516.36)
+NYAN Per Week: 19636.36 ($33.53)
+APR: Day 0.93% Week 6.49% Year 337.63%
+You are staking 0.00 [ETH]-[NYAN] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[NYAN] Cake LP
+Unstake 0.00 [ETH]-[NYAN] Cake LP
+Claim 0.00 NYAN ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[NYAN]-[DOT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.46 TVL: $799.70
+NYAN Price: $0.001707
+DOT Price: $27.99
+Staked: 1427.9109 Cake-LP ($653.62)
+NYAN Per Week: 19636.36 ($33.53)
+APR: Day 0.73% Week 5.13% Year 266.73%
+You are staking 0.00 [NYAN]-[DOT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NYAN]-[DOT] Cake LP
+Unstake 0.00 [NYAN]-[DOT] Cake LP
+Claim 0.00 NYAN ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[NYAN]-[EOS] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.21 TVL: $453.97
+NYAN Price: $0.001707
+EOS Price: $6.11
+Staked: 2028.4347 Cake-LP ($428.41)
+NYAN Per Week: 13090.91 ($22.35)
+APR: Day 0.75% Week 5.22% Year 271.30%
+You are staking 0.00 [NYAN]-[EOS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NYAN]-[EOS] Cake LP
+Unstake 0.00 [NYAN]-[EOS] Cake LP
+Claim 0.00 NYAN ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.34 TVL: $3,320,084.19
+WBNB Price: $481.29
+BUSD Price: $1.00
+Staked: 3.1034 Cake-LP ($199.67)
+NYAN Per Week: 3927.27 ($6.71)
+APR: Day 0.48% Week 3.36% Year 174.62%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 NYAN ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[DAI]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $67.98 TVL: $43,307.65
+DAI Price: $1.00
+WBNB Price: $481.29
+Staked: 2.9665 Cake-LP ($201.66)
+NYAN Per Week: 2618.18 ($4.47)
+APR: Day 0.32% Week 2.22% Year 115.27%
+You are staking 0.00 [DAI]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[WBNB] Cake LP
+Unstake 0.00 [DAI]-[WBNB] Cake LP
+Claim 0.00 NYAN ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $260.02 TVL: $8,021,340.78
+Cake Price: $25.01
+WBNB Price: $481.29
+Staked: 4.1694 Cake-LP ($1,084.11)
+NYAN Per Week: 2618.18 ($4.47)
+APR: Day 0.06% Week 0.41% Year 21.44%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 NYAN ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $8,274.26

@@ -1,0 +1,284 @@
+INFO  : https://skylinefi.com
+******************************************************************************
+
+Mon Aug 23 2021 09:22:00 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 18 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[SKY]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.09 TVL: $75.08
+SKY Price: $0.001782
+BUSD Price: $1.00
+Staked: 59.7611 Cake-LP ($5.19)
+SKY Per Week: 27428.57 ($48.89)
+APR: Day 134.69% Week 942.83% Year 49027.20%
+You are staking 0.00 [SKY]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SKY]-[BUSD] Cake LP
+Unstake 0.00 [SKY]-[BUSD] Cake LP
+Claim 0.00 SKY ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[SKY]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.93 TVL: $128.60
+SKY Price: $0.001782
+WBNB Price: $486.60
+Staked: 10.0206 Cake-LP ($19.31)
+SKY Per Week: 24685.71 ($44.00)
+APR: Day 32.54% Week 227.80% Year 11845.47%
+You are staking 0.00 [SKY]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SKY]-[WBNB] Cake LP
+Unstake 0.00 [SKY]-[WBNB] Cake LP
+Claim 0.00 SKY ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.86 TVL: $528,181,707.02
+WBNB Price: $486.60
+BUSD Price: $1.00
+Staked: 0.0050 Cake-LP ($0.25)
+SKY Per Week: 6857.14 ($12.22)
+APR: Day 699.02% Week 4893.14% Year 254443.46%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SKY ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[SKY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.10 TVL: $11.28
+USDT Price: $1.00
+SKY Price: $0.001782
+Staked: 100.4249 Cake-LP ($10.33)
+SKY Per Week: 24685.71 ($44.00)
+APR: Day 60.83% Week 425.79% Year 22141.15%
+You are staking 0.00 [USDT]-[SKY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[SKY] Cake LP
+Unstake 0.00 [USDT]-[SKY] Cake LP
+Claim 0.00 SKY ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDC]-[SKY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.12 TVL: $22.31
+USDC Price: $1.00
+SKY Price: $0.001782
+Staked: 191.0715 Cake-LP ($22.27)
+SKY Per Week: 24685.71 ($44.00)
+APR: Day 28.22% Week 197.56% Year 10273.33%
+You are staking 0.00 [USDC]-[SKY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[SKY] Cake LP
+Unstake 0.00 [USDC]-[SKY] Cake LP
+Claim 0.00 SKY ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[BTCB]-[SKY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $24.22 TVL: $23.23
+BTCB Price: $49,844.00
+SKY Price: $0.001782
+Staked: 0.5898 Cake-LP ($14.29)
+SKY Per Week: 24685.71 ($44.00)
+APR: Day 44.00% Week 307.97% Year 16014.59%
+You are staking 0.00 [BTCB]-[SKY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[SKY] Cake LP
+Unstake 0.00 [BTCB]-[SKY] Cake LP
+Claim 0.00 SKY ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[ETH]-[SKY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9.62 TVL: $6.00
+ETH Price: $3,332.93
+SKY Price: $0.001782
+Staked: 0.5028 Cake-LP ($4.84)
+SKY Per Week: 24685.71 ($44.00)
+APR: Day 129.88% Week 909.14% Year 47275.30%
+You are staking 0.00 [ETH]-[SKY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[SKY] Cake LP
+Unstake 0.00 [ETH]-[SKY] Cake LP
+Claim 0.00 SKY ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+BUSD
+ Price: $1.00 Market Cap: $4,195,962,401.72 
+[%]
+Staked: 2.0228 BUSD ($2.02)
+SKY Per Week: 3428.57 ($6.11)
+APR: Day 43.21% Week 302.46% Year 15727.91%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 3%
+Unstake 0.00 BUSD
+Claim 0.00 SKY ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+WBNB
+ Price: $486.60 Market Cap: $3,439,023,026.37 
+[%]
+Staked: 0.0920 WBNB ($44.76)
+SKY Per Week: 5485.71 ($9.78)
+APR: Day 3.12% Week 21.84% Year 1135.90%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 3%
+Unstake 0.00 WBNB
+Claim 0.00 SKY ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 19.4000 USDT ($19.40)
+SKY Per Week: 3428.57 ($6.11)
+APR: Day 4.50% Week 31.51% Year 1638.27%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 3%
+Unstake 0.00 USDT
+Claim 0.00 SKY ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,777,827.00 
+[%]
+Staked: 105.7626 USDC ($105.69)
+SKY Per Week: 3428.57 ($6.11)
+APR: Day 0.83% Week 5.78% Year 300.66%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 3%
+Unstake 0.00 USDC
+Claim 0.00 SKY ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 0.0000 DAI ($0.00)
+SKY Per Week: 3428.57 ($6.11)
+APR: Day 89997411.80% Week 629981882.62% Year 32759057896.15%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 3%
+Unstake 0.00 DAI
+Claim 0.00 SKY ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+BTCB
+ Price: $49,844.00 Market Cap: $4,261,711,844.00 
+[%]
+Staked: 0.0002 BTCB ($8.57)
+SKY Per Week: 5485.71 ($9.78)
+APR: Day 16.30% Week 114.11% Year 5933.86%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 3%
+Unstake 0.00 BTCB
+Claim 0.00 SKY ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+ETH
+ Price: $3,332.93 Market Cap: $4,349,473,650.00 
+[%]
+Staked: 0.0000 ETH ($0.00)
+SKY Per Week: 5485.71 ($9.78)
+APR: Day 135572377.74% Week 949006644.18% Year 49348345497.29%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 3%
+Unstake 0.00 ETH
+Claim 0.00 SKY ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+DOT
+ Price: $28.12 Market Cap: $393,679,999.86 
+[%]
+Staked: 0.0000 DOT ($0.00)
+SKY Per Week: 4114.29 ($7.33)
+APR: Day 79231007.35% Week 554617051.43% Year 28840086674.15%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 3%
+Unstake 0.00 DOT
+Claim 0.00 SKY ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+ADA
+ Price: $2.83 Market Cap: $792,400,000.00 
+[%]
+Staked: 188.1737 ADA ($532.53)
+SKY Per Week: 4114.29 ($7.33)
+APR: Day 0.20% Week 1.38% Year 71.60%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 3%
+Unstake 0.00 ADA
+Claim 0.00 SKY ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+LINK
+ Price: $28.72 Market Cap: $246,992,000.00 
+[%]
+Staked: 0.0000 LINK ($0.00)
+SKY Per Week: 4114.29 ($7.33)
+APR: Day 77575763.46% Week 543030344.22% Year 28237577899.62%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 3%
+Unstake 0.00 LINK
+Claim 0.00 SKY ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+Cake
+ Price: $25.10 Market Cap: $10,444,920,467.78 
+[%]
+Staked: 4.8987 Cake ($122.96)
+SKY Per Week: 1371.43 ($2.44)
+APR: Day 0.28% Week 1.99% Year 103.37%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 3%
+Unstake 0.00 Cake
+Claim 0.00 SKY ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $912.40

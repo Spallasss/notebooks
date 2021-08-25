@@ -1,0 +1,474 @@
+INFO    :   https://polycow.finance
+TELEGRAM:   https://t.me/polycowfinance     
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:14:48 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 13 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[BUTTER] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $995,402.62 TVL: $3,186.69
+USDC Price: $1.00
+BUTTER Price: $0.23
+Staked: 0.0012 UNI-V2 ($1,235.64)
+BUTTER Per Week: 1600.00 ($370.94)
+APR: Day 4.29% Week 30.02% Year 1561.06%
+You are staking 0.00 [USDC]-[BUTTER] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUTTER] Uni LP
+Unstake 0.00 [USDC]-[BUTTER] Uni LP
+Claim 0.00 BUTTER ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[BUTTER] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.27 TVL: $4,769.02
+WMATIC Price: $1.64
+BUTTER Price: $0.23
+Staked: 1383.0254 UNI-V2 ($1,762.20)
+BUTTER Per Week: 1600.00 ($370.94)
+APR: Day 3.01% Week 21.05% Year 1094.60%
+You are staking 0.00 [WMATIC]-[BUTTER] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[BUTTER] Uni LP
+Unstake 0.00 [WMATIC]-[BUTTER] Uni LP
+Claim 0.00 BUTTER ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[USDC]-[MILK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $819,242.07 TVL: $2,861.53
+USDC Price: $1.00
+MILK Price: $0.13
+Staked: 0.0023 UNI-V2 ($1,852.15)
+BUTTER Per Week: 800.00 ($185.47)
+APR: Day 1.43% Week 10.01% Year 520.72%
+You are staking 0.00 [USDC]-[MILK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[MILK] Uni LP
+Unstake 0.00 [USDC]-[MILK] Uni LP
+Claim 0.00 BUTTER ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+BUTTER
+ Price: $0.23 Market Cap: $6,347.06 
+[%]
+Staked: 6707.1503 BUTTER ($1,554.99)
+BUTTER Per Week: 560.00 ($129.83)
+APR: Day 1.19% Week 8.35% Year 434.16%
+You are staking 0.00 BUTTER ($0.00), 0.00% of the pool.
+Stake 0.00 BUTTER
+Unstake 0.00 BUTTER
+Claim 0.00 BUTTER ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+MILK
+ Price: $0.13 Market Cap: $4,227.21 
+[%]
+Staked: 10818.0078 MILK ($1,385.71)
+BUTTER Per Week: 160.00 ($37.09)
+APR: Day 0.38% Week 2.68% Year 139.20%
+You are staking 0.00 MILK ($0.00), 0.00% of the pool.
+Stake 0.00 MILK
+Unstake 0.00 MILK
+Claim 0.00 BUTTER ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WMATIC
+ Price: $1.64 Market Cap: $601,957,518.44 
+[%]
+Staked: 623.0813 WMATIC ($1,021.85)
+BUTTER Per Week: 160.00 ($37.09)
+APR: Day 0.52% Week 3.63% Year 188.77%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 BUTTER ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+USDC
+ Price: $1.00 Market Cap: $1,045,687,094.96 
+[%]
+Staked: 1461.4570 USDC ($1,457.24)
+BUTTER Per Week: 160.00 ($37.09)
+APR: Day 0.36% Week 2.55% Year 132.37%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 BUTTER ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WETH
+ Price: $3,319.14 Market Cap: $2,027,322,412.64 
+[%]
+Staked: 0.2885 WETH ($957.61)
+BUTTER Per Week: 160.00 ($37.09)
+APR: Day 0.55% Week 3.87% Year 201.43%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 BUTTER ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+miMATIC
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1159.0196 miMATIC ($0.00)
+BUTTER Per Week: 160.00 ($37.09)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 miMATIC ($0.00), NaN% of the pool.
+Stake 0.00 miMATIC - Fee 4%
+Unstake 0.00 miMATIC
+Claim 0.00 BUTTER ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+LINK
+ Price: $28.56 Market Cap: $64,809,321.93 
+[%]
+Staked: 24.7566 LINK ($707.05)
+BUTTER Per Week: 80.00 ($18.55)
+APR: Day 0.37% Week 2.62% Year 136.41%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 BUTTER ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[USDC]-[miMATIC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,078,501.32 TVL: $89,299,701.80
+USDC Price: $1.00
+miMATIC Price: $0.99
+Staked: 0.0005 UNI-V2 ($1,081.31)
+BUTTER Per Week: 160.00 ($37.09)
+APR: Day 0.49% Week 3.43% Year 178.39%
+You are staking 0.00 [USDC]-[miMATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[miMATIC] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[miMATIC] Uni LP
+Claim 0.00 BUTTER ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+BONE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 7.1215 BONE ($0.00)
+BUTTER Per Week: 80.00 ($18.55)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BONE ($0.00), NaN% of the pool.
+Stake 0.00 BONE - Fee 4%
+Unstake 0.00 BONE
+Claim 0.00 BUTTER ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+DAI
+ Price: $1.00 Market Cap: $375,664,195.61 
+[%]
+Staked: 519.1719 DAI ($518.35)
+BUTTER Per Week: 80.00 ($18.55)
+APR: Day 0.51% Week 3.58% Year 186.06%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 BUTTER ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $13,534.09
+Found 18 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+MILK
+ Price: $0.13 Market Cap: $4,227.21 
+[%]
+Staked: 2188.4163 MILK ($280.32)
+MILK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 MILK ($0.00), 0.00% of the pool.
+Stake 0.00 MILK
+Unstake 0.00 MILK
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+WMATIC
+ Price: $1.64 Market Cap: $601,957,518.44 
+[%]
+Staked: 16.4928 WMATIC ($27.05)
+MILK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+QUICK
+ Price: $726.96 Market Cap: $695,894,582.96 
+[%]
+Staked: 0.0000 QUICK ($0.00)
+MILK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WETH
+ Price: $3,319.14 Market Cap: $2,027,322,412.64 
+[%]
+Staked: 0.0000 WETH ($0.00)
+MILK Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WETH ($0.00), NaN% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WBTC
+ Price: $49,995.00 Market Cap: $696,873,167.43 
+[%]
+Staked: 0.0000 WBTC ($0.00)
+MILK Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WBTC ($0.00), NaN% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+AAVE
+ Price: $407.68 Market Cap: $155,193,413.76 
+[%]
+Staked: 0.0000 AAVE ($0.00)
+MILK Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 AAVE ($0.00), NaN% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+USDC
+ Price: $1.00 Market Cap: $1,045,687,094.96 
+[%]
+Staked: 0.1409 USDC ($0.14)
+MILK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+USDT
+ Price: $1.00 Market Cap: $314,846,345.41 
+[%]
+Staked: 191.5185 USDT ($191.30)
+MILK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+SUSHI
+ Price: $13.80 Market Cap: $13,988,864.84 
+[%]
+Staked: 0.0000 SUSHI ($0.00)
+MILK Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SUSHI ($0.00), NaN% of the pool.
+Stake 0.00 SUSHI - Fee 4%
+Unstake 0.00 SUSHI
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+DAI
+ Price: $1.00 Market Cap: $375,664,195.61 
+[%]
+Staked: 0.0000 DAI ($0.00)
+MILK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,600,250.21 TVL: $33,285,708.57
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($124.70)
+MILK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[USDC]-[MILK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $819,242.07 TVL: $2,861.53
+USDC Price: $1.00
+MILK Price: $0.13
+Staked: 0.0000 UNI-V2 ($0.28)
+MILK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[MILK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[MILK] Uni LP
+Unstake 0.00 [USDC]-[MILK] Uni LP
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WMATIC]-[MILK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.03 TVL: $107.03
+WMATIC Price: $1.64
+MILK Price: $0.13
+Staked: 18.4217 UNI-V2 ($18.95)
+MILK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[MILK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[MILK] Uni LP
+Unstake 0.00 [WMATIC]-[MILK] Uni LP
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+xUSD
+ Price: $0.00 Market Cap: $0.00 
+Staked: 13.5342 xUSD ($0.00)
+MILK Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 xUSD ($0.00), NaN% of the pool.
+Stake 0.00 xUSD - Fee 2%
+Unstake 0.00 xUSD
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[USDC]-[MILK] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $738,566.20 TVL: $2.89
+USDC Price: $1.00
+MILK Price: $0.13
+Staked: 0.0000 SLP ($0.00)
+MILK Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [USDC]-[MILK] SLP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[MILK] SLP
+Unstake 0.00 [USDC]-[MILK] SLP
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[WMATIC]-[MILK] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.95 TVL: $65.63
+WMATIC Price: $1.64
+MILK Price: $0.13
+Staked: 0.0000 SLP ($0.00)
+MILK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[MILK] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[MILK] SLP
+Unstake 0.00 [WMATIC]-[MILK] SLP
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[WMATIC]-[MILK] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.92 TVL: $5.17
+WMATIC Price: $1.64
+MILK Price: $0.13
+Staked: 0.0000 APE-LP ($0.00)
+MILK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[MILK] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[MILK] APE LP
+Unstake 0.00 [WMATIC]-[MILK] APE LP
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[USDC]-[MILK] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $720,024.72 TVL: $72.30
+USDC Price: $1.00
+MILK Price: $0.13
+Staked: 0.0000 APE-LP ($14.40)
+MILK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[MILK] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[MILK] APE LP
+Unstake 0.00 [USDC]-[MILK] APE LP
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $657.14

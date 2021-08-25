@@ -1,0 +1,202 @@
+INFO  : https://app.barbecueswapfinance.com
+****************************************************************************************
+
+Mon Aug 23 2021 14:23:02 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 21 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+BBQ
+ Price: $0.00 Market Cap: $0.00 
+Staked: 2039531.5602 BBQ ($0.00)
+BBQ Per Week: 61245.57 ($13,535.48)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BBQ ($0.00), NaN% of the pool.
+Stake 0.00 BBQ
+Unstake 0.00 BBQ
+Claim 0.00 BBQ ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WBNB
+ Price: $483.88 Market Cap: $3,429,293,249.78 
+[%]
+Staked: 303.3701 WBNB ($146,794.74)
+BBQ Per Week: 7655.70 ($1,691.94)
+APR: Day 0.16% Week 1.15% Year 59.93%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 3%
+Unstake 0.00 WBNB
+Claim 0.00 BBQ ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+BUSD
+ Price: $1.00 Market Cap: $4,192,546,989.20 
+[%]
+Staked: 112722.3953 BUSD ($112,495.60)
+BBQ Per Week: 7655.70 ($1,691.94)
+APR: Day 0.21% Week 1.50% Year 78.21%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 3%
+Unstake 0.00 BUSD
+Claim 0.00 BBQ ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+Cake
+ Price: $24.97 Market Cap: $10,390,574,024.89 
+[%]
+Staked: 3171.4294 Cake ($79,190.59)
+BBQ Per Week: 7655.70 ($1,691.94)
+APR: Day 0.31% Week 2.14% Year 111.10%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 3%
+Unstake 0.00 Cake
+Claim 0.00 BBQ ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+ADA
+ Price: $2.82 Market Cap: $789,600,000.00 
+[%]
+Staked: 79702.0382 ADA ($224,759.75)
+BBQ Per Week: 7655.70 ($1,691.94)
+APR: Day 0.11% Week 0.75% Year 39.14%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 3%
+Unstake 0.00 ADA
+Claim 0.00 BBQ ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+ETH
+ Price: $3,321.84 Market Cap: $4,335,001,200.00 
+[%]
+Staked: 32.1558 ETH ($106,816.53)
+BBQ Per Week: 7655.70 ($1,691.94)
+APR: Day 0.23% Week 1.58% Year 82.37%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 3%
+Unstake 0.00 ETH
+Claim 0.00 BBQ ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WBNB]-[BBQ] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $21.22 TVL: $88,416.38
+WBNB Price: $483.88
+BBQ Price: $0.22
+Staked: 3923.8140 APE-LP ($83,247.44)
+BBQ Per Week: 30622.78 ($6,767.74)
+APR: Day 1.16% Week 8.13% Year 422.74%
+You are staking 0.00 [WBNB]-[BBQ] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BBQ] APE LP
+Unstake 0.00 [WBNB]-[BBQ] APE LP
+Claim 0.00 BBQ ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[BBQ]-[BUSD] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.96 TVL: $77,735.05
+BBQ Price: $0.22
+BUSD Price: $1.00
+Staked: 80016.9797 APE-LP ($76,677.99)
+BBQ Per Week: 30622.78 ($6,767.74)
+APR: Day 1.26% Week 8.83% Year 458.96%
+You are staking 0.00 [BBQ]-[BUSD] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BBQ]-[BUSD] APE LP
+Unstake 0.00 [BBQ]-[BUSD] APE LP
+Claim 0.00 BBQ ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[USDC]-[BUSD] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.02 TVL: $21,007,765.95
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 50880.3893 APE-LP ($102,589.41)
+BBQ Per Week: 7655.70 ($1,691.94)
+APR: Day 0.24% Week 1.65% Year 85.76%
+You are staking 0.00 [USDC]-[BUSD] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] APE LP - Fee 3%
+Unstake 0.00 [USDC]-[BUSD] APE LP
+Claim 0.00 BBQ ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+BANANA
+ Price: $4.77 Market Cap: $302,233,876.67 
+[%]
+Staked: 6809.6360 BANANA ($32,481.96)
+BBQ Per Week: 7655.70 ($1,691.94)
+APR: Day 0.74% Week 5.21% Year 270.86%
+You are staking 0.00 BANANA ($0.00), 0.00% of the pool.
+Stake 0.00 BANANA - Fee 3%
+Unstake 0.00 BANANA
+Claim 0.00 BBQ ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+BTCB
+ Price: $50,135.00 Market Cap: $4,286,592,635.00 
+[%]
+Staked: 1.4101 BTCB ($70,694.25)
+BBQ Per Week: 7655.70 ($1,691.94)
+APR: Day 0.34% Week 2.39% Year 124.45%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 3%
+Unstake 0.00 BTCB
+Claim 0.00 BBQ ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[BREW]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $40.93 TVL: $1,268,814.50
+BREW Price: $0.80
+WBNB Price: $483.88
+Staked: 480.8675 Cafe-LP ($19,680.50)
+BBQ Per Week: 7655.70 ($1,691.94)
+APR: Day 1.23% Week 8.60% Year 447.04%
+You are staking 0.00 [BREW]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BREW]-[WBNB] Uni LP - Fee 3%
+Unstake 0.00 [BREW]-[WBNB] Uni LP
+Claim 0.00 BBQ ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+DOT
+ Price: $27.97 Market Cap: $391,579,999.86 
+[%]
+Staked: 726.7937 DOT ($20,328.42)
+BBQ Per Week: 10207.59 ($2,255.91)
+APR: Day 1.59% Week 11.10% Year 577.06%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 3%
+Unstake 0.00 DOT
+Claim 0.00 BBQ ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,075,757.19

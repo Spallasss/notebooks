@@ -1,0 +1,448 @@
+INFO  : https://www.chadfinance.io
+*************************************************************************
+
+Mon Aug 23 2021 13:22:28 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 23 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WFTM]-[CHAD] BRUSH LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.09 TVL: $3,595.36
+WFTM Price: $0.57
+CHAD Price: $0.003226
+Staked: 36590.0514 BRUSH-LP ($3,472.81)
+CHAD Per Week: 56954.26 ($183.71)
+APR: Day 0.76% Week 5.29% Year 275.08%
+You are staking 0.00 [WFTM]-[CHAD] BRUSH LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[CHAD] BRUSH LP - Fee 1%
+Unstake 0.00 [WFTM]-[CHAD] BRUSH LP
+Claim 0.00 CHAD ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[BRUSH]-[CHAD] BRUSH LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $1,008.00
+BRUSH Price: $0.007271
+CHAD Price: $0.003226
+Staked: 34537.2682 BRUSH-LP ($345.52)
+CHAD Per Week: 5695.43 ($18.37)
+APR: Day 0.76% Week 5.32% Year 276.48%
+You are staking 0.00 [BRUSH]-[CHAD] BRUSH LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BRUSH]-[CHAD] BRUSH LP - Fee 1%
+Unstake 0.00 [BRUSH]-[CHAD] BRUSH LP
+Claim 0.00 CHAD ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[USDC]-[CHAD] BRUSH LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $118,631.67 TVL: $1,763.94
+USDC Price: $1.00
+CHAD Price: $0.003226
+Staked: 0.0145 BRUSH-LP ($1,715.26)
+CHAD Per Week: 28477.13 ($91.86)
+APR: Day 0.77% Week 5.36% Year 278.47%
+You are staking 0.00 [USDC]-[CHAD] BRUSH LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[CHAD] BRUSH LP - Fee 1%
+Unstake 0.00 [USDC]-[CHAD] BRUSH LP
+Claim 0.00 CHAD ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+CHAD
+ Price: $0.003226 Market Cap: $13,247.52 
+Staked: 891190.2922 CHAD ($2,874.65)
+CHAD Per Week: 19364.45 ($62.46)
+APR: Day 0.31% Week 2.17% Year 112.99%
+You are staking 0.00 CHAD ($0.00), 0.00% of the pool.
+Stake 0.00 CHAD
+Unstake 0.00 CHAD
+Claim 0.00 CHAD ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BOMB]-[CHAD] SPOOKY LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5,552,599.93 TVL: $1,666.98
+BOMB Price: $0.002199
+CHAD Price: $0.003226
+Staked: 0.0001 spLP ($696.73)
+CHAD Per Week: 13669.02 ($44.09)
+APR: Day 0.90% Week 6.33% Year 329.07%
+You are staking 0.00 [BOMB]-[CHAD] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BOMB]-[CHAD] SPOOKY LP - Fee 1%
+Unstake 0.00 [BOMB]-[CHAD] SPOOKY LP
+Claim 0.00 CHAD ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[STEAK]-[CHAD] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.08 TVL: $11.26
+STEAK Price: $0.45
+CHAD Price: $0.003226
+Staked: 0.0910 SPIRIT-LP ($0.01)
+CHAD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [STEAK]-[CHAD] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [STEAK]-[CHAD] SPIRIT LP - Fee 10%
+Unstake 0.00 [STEAK]-[CHAD] SPIRIT LP
+Claim 0.00 CHAD ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[TOMB]-[CHAD] BRUSH LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.09 TVL: $214.60
+TOMB Price: $0.57
+CHAD Price: $0.003226
+Staked: 2105.4771 BRUSH-LP ($199.59)
+CHAD Per Week: 5695.43 ($18.37)
+APR: Day 1.31% Week 9.20% Year 478.63%
+You are staking 0.00 [TOMB]-[CHAD] BRUSH LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TOMB]-[CHAD] BRUSH LP - Fee 1%
+Unstake 0.00 [TOMB]-[CHAD] BRUSH LP
+Claim 0.00 CHAD ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[CzTears]-[CHAD] BRUSH LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $897.64
+CzTears Price: $0.000357
+CHAD Price: $0.003226
+Staked: 394760.9125 BRUSH-LP ($860.21)
+CHAD Per Week: 5695.43 ($18.37)
+APR: Day 0.31% Week 2.14% Year 111.05%
+You are staking 0.00 [CzTears]-[CHAD] BRUSH LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CzTears]-[CHAD] BRUSH LP - Fee 1%
+Unstake 0.00 [CzTears]-[CHAD] BRUSH LP
+Claim 0.00 CHAD ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[Shiba]-[CHAD] BRUSH LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $381.25
+Shiba Price: $0.0000000000
+CHAD Price: $0.003226
+Staked: 30499.9761 BRUSH-LP ($368.20)
+CHAD Per Week: 5695.43 ($18.37)
+APR: Day 0.71% Week 4.99% Year 259.46%
+You are staking 0.00 [Shiba]-[CHAD] BRUSH LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Shiba]-[CHAD] BRUSH LP - Fee 1%
+Unstake 0.00 [Shiba]-[CHAD] BRUSH LP
+Claim 0.00 CHAD ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[WFTM]-[Shiba] BRUSH LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.16 TVL: $1,686.84
+WFTM Price: $0.57
+Shiba Price: $0.0000000000
+Staked: 9673.2351 BRUSH-LP ($1,578.77)
+CHAD Per Week: 3417.26 ($11.02)
+APR: Day 0.10% Week 0.70% Year 36.31%
+You are staking 0.00 [WFTM]-[Shiba] BRUSH LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[Shiba] BRUSH LP - Fee 4%
+Unstake 0.00 [WFTM]-[Shiba] BRUSH LP
+Claim 0.00 CHAD ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[ATRI]-[CHAD] BRUSH LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $28,270,144.76 TVL: $262.16
+ATRI Price: $0.06
+CHAD Price: $0.003226
+Staked: 0.0000 BRUSH-LP ($253.80)
+CHAD Per Week: 5695.43 ($18.37)
+APR: Day 1.03% Week 7.24% Year 376.40%
+You are staking 0.00 [ATRI]-[CHAD] BRUSH LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ATRI]-[CHAD] BRUSH LP - Fee 1%
+Unstake 0.00 [ATRI]-[CHAD] BRUSH LP
+Claim 0.00 CHAD ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[PHANT]-[CHAD] BRUSH LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $139.28
+PHANT Price: $0.0000000000
+CHAD Price: $0.003226
+Staked: 67395038.4055 BRUSH-LP ($49.18)
+CHAD Per Week: 3417.26 ($11.02)
+APR: Day 3.20% Week 22.41% Year 1165.47%
+You are staking 0.00 [PHANT]-[CHAD] BRUSH LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PHANT]-[CHAD] BRUSH LP - Fee 1%
+Unstake 0.00 [PHANT]-[CHAD] BRUSH LP
+Claim 0.00 CHAD ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[CHAD]-[OPERA] Opera Swap LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $1.66
+CHAD Price: $0.003226
+OPERA Price: $0.002659
+Staked: 46.0152 OperaSwap-LP ($0.27)
+CHAD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [CHAD]-[OPERA] Opera Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CHAD]-[OPERA] Opera Swap LP
+Unstake 0.00 [CHAD]-[OPERA] Opera Swap LP
+Claim 0.00 CHAD ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[JUST]-[CHAD] ZooDex LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7.58 TVL: $352.22
+JUST Price: $0.0000417924
+CHAD Price: $0.003226
+Staked: 42.2272 ZDEXLP ($320.01)
+CHAD Per Week: 7973.60 ($25.72)
+APR: Day 1.15% Week 8.04% Year 417.93%
+You are staking 0.00 [JUST]-[CHAD] ZooDex LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JUST]-[CHAD] ZooDex LP - Fee 1%
+Unstake 0.00 [JUST]-[CHAD] ZooDex LP
+Claim 0.00 CHAD ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[iFUSD]-[CHAD] BRUSH LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.08 TVL: $329.86
+iFUSD Price: $0.49
+CHAD Price: $0.003226
+Staked: 2111.9673 BRUSH-LP ($171.79)
+CHAD Per Week: 5695.43 ($18.37)
+APR: Day 1.53% Week 10.69% Year 556.10%
+You are staking 0.00 [iFUSD]-[CHAD] BRUSH LP ($0.00), 0.00% of the pool.
+Stake 0.00 [iFUSD]-[CHAD] BRUSH LP - Fee 1%
+Unstake 0.00 [iFUSD]-[CHAD] BRUSH LP
+Claim 0.00 CHAD ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[SafePapillonShitCumRocketDogeElonMoonATHonlyNOdipFOMOHodlBullFUDHentaiWaifuNFTDiamondHandsApe]-[CHAD] BRUSH LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6.63 TVL: $178.99
+SafePapillonShitCumRocketDogeElonMoonATHonlyNOdipFOMOHodlBullFUDHentaiWaifuNFTDiamondHandsApe Price: $0.0000029331
+CHAD Price: $0.003226
+Staked: 26.4110 BRUSH-LP ($175.21)
+CHAD Per Week: 13669.02 ($44.09)
+APR: Day 3.60% Week 25.17% Year 1308.59%
+You are staking 0.00 [SafePapillonShitCumRocketDogeElonMoonATHonlyNOdipFOMOHodlBullFUDHentaiWaifuNFTDiamondHandsApe]-[CHAD] BRUSH LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SafePapillonShitCumRocketDogeElonMoonATHonlyNOdipFOMOHodlBullFUDHentaiWaifuNFTDiamondHandsApe]-[CHAD] BRUSH LP - Fee 1%
+Unstake 0.00 [SafePapillonShitCumRocketDogeElonMoonATHonlyNOdipFOMOHodlBullFUDHentaiWaifuNFTDiamondHandsApe]-[CHAD] BRUSH LP
+Claim 0.00 CHAD ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[CHAD]-[YORO] BRUSH LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $60.81
+CHAD Price: $0.003226
+YORO Price: $0.0000000000
+Staked: 4297.6162 BRUSH-LP ($55.57)
+CHAD Per Week: 4556.34 ($14.70)
+APR: Day 3.78% Week 26.45% Year 1375.35%
+You are staking 0.00 [CHAD]-[YORO] BRUSH LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CHAD]-[YORO] BRUSH LP - Fee 1%
+Unstake 0.00 [CHAD]-[YORO] BRUSH LP
+Claim 0.00 CHAD ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[xSTEAK]-[CHAD] BRUSH LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.10 TVL: $332.35
+xSTEAK Price: $0.72
+CHAD Price: $0.003226
+Staked: 3404.2527 BRUSH-LP ($330.92)
+CHAD Per Week: 5695.43 ($18.37)
+APR: Day 0.79% Week 5.55% Year 288.68%
+You are staking 0.00 [xSTEAK]-[CHAD] BRUSH LP ($0.00), 0.00% of the pool.
+Stake 0.00 [xSTEAK]-[CHAD] BRUSH LP
+Unstake 0.00 [xSTEAK]-[CHAD] BRUSH LP
+Claim 0.00 CHAD ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[SBRW]-[CHAD] BRUSH LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $87.20
+SBRW Price: $0.004095
+CHAD Price: $0.003226
+Staked: 7781.3212 BRUSH-LP ($57.81)
+CHAD Per Week: 5695.43 ($18.37)
+APR: Day 4.54% Week 31.78% Year 1652.39%
+You are staking 0.00 [SBRW]-[CHAD] BRUSH LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SBRW]-[CHAD] BRUSH LP - Fee 1%
+Unstake 0.00 [SBRW]-[CHAD] BRUSH LP
+Claim 0.00 CHAD ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[WFTM]-[HODL] BRUSH LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $113,113,959.70 TVL: $49,503.65
+WFTM Price: $0.57
+HODL Price: $86.76
+Staked: 0.0000 BRUSH-LP ($799.04)
+CHAD Per Week: 17086.28 ($55.11)
+APR: Day 0.99% Week 6.90% Year 358.67%
+You are staking 0.00 [WFTM]-[HODL] BRUSH LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[HODL] BRUSH LP - Fee 4%
+Unstake 0.00 [WFTM]-[HODL] BRUSH LP
+Claim 0.00 CHAD ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[GRIM]-[CHAD] BRUSH LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $280.32
+GRIM Price: $0.006059
+CHAD Price: $0.003226
+Staked: 10357.4518 BRUSH-LP ($250.99)
+CHAD Per Week: 11390.85 ($36.74)
+APR: Day 2.09% Week 14.64% Year 761.22%
+You are staking 0.00 [GRIM]-[CHAD] BRUSH LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GRIM]-[CHAD] BRUSH LP - Fee 1%
+Unstake 0.00 [GRIM]-[CHAD] BRUSH LP
+Claim 0.00 CHAD ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[CASPER]-[CHAD] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $86.82
+CASPER Price: $0.005596
+CHAD Price: $0.003226
+Staked: 9805.9115 SPIRIT-LP ($84.91)
+CHAD Per Week: 14808.11 ($47.77)
+APR: Day 8.04% Week 56.26% Year 2925.34%
+You are staking 0.00 [CASPER]-[CHAD] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CASPER]-[CHAD] SPIRIT LP - Fee 1%
+Unstake 0.00 [CASPER]-[CHAD] SPIRIT LP
+Claim 0.00 CHAD ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[Nova]-[CHAD] BRUSH LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $927.93 TVL: $93.75
+Nova Price: $0.04
+CHAD Price: $0.003226
+Staked: 0.0956 BRUSH-LP ($88.73)
+CHAD Per Week: 13669.02 ($44.09)
+APR: Day 7.10% Week 49.69% Year 2584.01%
+You are staking 0.00 [Nova]-[CHAD] BRUSH LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Nova]-[CHAD] BRUSH LP - Fee 1%
+Unstake 0.00 [Nova]-[CHAD] BRUSH LP
+Claim 0.00 CHAD ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $14,749.97

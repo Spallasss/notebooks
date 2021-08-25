@@ -1,0 +1,242 @@
+INFO  : 
+https://www.teabagsdefi.com
+
+********************************************************************************
+
+Mon Aug 23 2021 15:11:11 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 15 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+TEABAG
+ Price: $0.00 Market Cap: $0.00 
+Staked: 40948.4773 TEABAG ($0.00)
+TEABAG Per Week: 3024.00 ($13.44)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 TEABAG ($0.00), NaN% of the pool.
+Stake 0.00 TEABAG
+Unstake 0.00 TEABAG
+Claim 0.00 TEABAG ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WBNB]-[TEABAG] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.01 TVL: $269.89
+WBNB Price: $489.11
+TEABAG Price: $0.004446
+Staked: 88.0770 Cake-LP ($265.14)
+TEABAG Per Week: 9072.00 ($40.33)
+APR: Day 2.17% Week 15.21% Year 791.02%
+You are staking 0.00 [WBNB]-[TEABAG] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[TEABAG] Cake LP
+Unstake 0.00 [WBNB]-[TEABAG] Cake LP
+Claim 0.00 TEABAG ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[BUSD]-[TEABAG] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.14 TVL: $109.73
+BUSD Price: $1.00
+TEABAG Price: $0.004446
+Staked: 792.3122 Cake-LP ($107.70)
+TEABAG Per Week: 9072.00 ($40.33)
+APR: Day 5.35% Week 37.45% Year 1947.46%
+You are staking 0.00 [BUSD]-[TEABAG] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[TEABAG] Cake LP
+Unstake 0.00 [BUSD]-[TEABAG] Cake LP
+Claim 0.00 TEABAG ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $227.70 TVL: $1,041,672,118.89
+Cake Price: $25.35
+WBNB Price: $489.11
+Staked: 0.0418 Cake-LP ($9.53)
+TEABAG Per Week: 756.00 ($3.36)
+APR: Day 5.04% Week 35.28% Year 1834.54%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 TEABAG ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+Cake
+ Price: $25.35 Market Cap: $10,549,120,578.90 
+[%]
+Staked: 0.5569 Cake ($14.12)
+TEABAG Per Week: 756.00 ($3.36)
+APR: Day 3.40% Week 23.81% Year 1237.96%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 TEABAG ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+BUSD
+ Price: $1.00 Market Cap: $4,194,429,036.93 
+[%]
+Staked: 200.8139 BUSD ($200.50)
+TEABAG Per Week: 756.00 ($3.36)
+APR: Day 0.24% Week 1.68% Year 87.17%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 TEABAG ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WBNB
+ Price: $489.11 Market Cap: $3,447,855,483.17 
+[%]
+Staked: 1.1090 WBNB ($542.42)
+TEABAG Per Week: 756.00 ($3.36)
+APR: Day 0.09% Week 0.62% Year 32.22%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 TEABAG ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+BTCB
+ Price: $49,844.00 Market Cap: $4,261,711,844.00 
+[%]
+Staked: 0.0077 BTCB ($384.24)
+TEABAG Per Week: 756.00 ($3.36)
+APR: Day 0.12% Week 0.87% Year 45.49%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 TEABAG ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+ETH
+ Price: $3,333.60 Market Cap: $4,350,348,000.00 
+[%]
+Staked: 0.0101 ETH ($33.81)
+TEABAG Per Week: 756.00 ($3.36)
+APR: Day 1.42% Week 9.94% Year 516.89%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 TEABAG ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 4.7769 DAI ($4.78)
+TEABAG Per Week: 756.00 ($3.36)
+APR: Day 10.05% Week 70.36% Year 3658.85%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 TEABAG ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 206.4058 USDT ($206.37)
+TEABAG Per Week: 756.00 ($3.36)
+APR: Day 0.23% Week 1.63% Year 84.69%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 TEABAG ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,863,219.00 
+[%]
+Staked: 49.6121 USDC ($49.58)
+TEABAG Per Week: 756.00 ($3.36)
+APR: Day 0.97% Week 6.78% Year 352.52%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 TEABAG ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,192,249.19
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 20.9390 Cake-LP ($42.85)
+TEABAG Per Week: 756.00 ($3.36)
+APR: Day 1.12% Week 7.84% Year 407.92%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 TEABAG ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.98 TVL: $526,632,773.41
+WBNB Price: $489.11
+BUSD Price: $1.00
+Staked: 0.7320 Cake-LP ($36.59)
+TEABAG Per Week: 756.00 ($3.36)
+APR: Day 1.31% Week 9.19% Year 477.71%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 TEABAG ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,667.02 TVL: $263,235,590.36
+ETH Price: $3,333.60
+WBNB Price: $489.11
+Staked: 0.1008 Cake-LP ($268.84)
+TEABAG Per Week: 756.00 ($3.36)
+APR: Day 0.18% Week 1.25% Year 65.01%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 TEABAG ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $2,166.45

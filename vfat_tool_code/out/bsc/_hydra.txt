@@ -1,0 +1,360 @@
+INFO  : https://www.hydradefi.com
+******************************************************************************
+
+Mon Aug 23 2021 14:37:24 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 22 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[HYDRA]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.06 TVL: $64.29
+HYDRA Price: $0.000509
+BUSD Price: $1.00
+Staked: 880.4077 Cake-LP ($49.78)
+HYDRA Per Week: 21794.59 ($11.10)
+APR: Day 3.19% Week 22.30% Year 1159.38%
+You are staking 0.00 [HYDRA]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HYDRA]-[BUSD] Cake LP
+Unstake 0.00 [HYDRA]-[BUSD] Cake LP
+Claim 0.00 HYDRA ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[HYDRA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.18 TVL: $153.12
+HYDRA Price: $0.000509
+WBNB Price: $484.19
+Staked: 64.2213 Cake-LP ($75.62)
+HYDRA Per Week: 20432.43 ($10.40)
+APR: Day 1.97% Week 13.76% Year 715.41%
+You are staking 0.00 [HYDRA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HYDRA]-[WBNB] Cake LP
+Unstake 0.00 [HYDRA]-[WBNB] Cake LP
+Claim 0.00 HYDRA ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.74 TVL: $527,409,622.98
+WBNB Price: $484.19
+BUSD Price: $1.00
+Staked: 0.0456 Cake-LP ($2.27)
+HYDRA Per Week: 2724.32 ($1.39)
+APR: Day 8.73% Week 61.14% Year 3179.38%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 HYDRA ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,309,455.22
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 10.2782 Cake-LP ($21.04)
+HYDRA Per Week: 2724.32 ($1.39)
+APR: Day 0.94% Week 6.59% Year 342.91%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 HYDRA ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,213.70 TVL: $173,738,032.39
+BTCB Price: $49,954.00
+WBNB Price: $484.19
+Staked: 0.0000 Cake-LP ($0.00)
+HYDRA Per Week: 2724.32 ($1.39)
+APR: Day 61185.46% Week 428298.20% Year 22271506.27%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 HYDRA ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,652.45 TVL: $261,826,311.50
+ETH Price: $3,331.01
+WBNB Price: $484.19
+Staked: 0.0000 Cake-LP ($0.00)
+HYDRA Per Week: 2724.32 ($1.39)
+APR: Day 18453.08% Week 129171.54% Year 6716919.92%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 HYDRA ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,327,398.96
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 4.7283 Cake-LP ($9.62)
+HYDRA Per Week: 2724.32 ($1.39)
+APR: Day 2.06% Week 14.41% Year 749.54%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 HYDRA ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,911,320.54
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 468.4449 Cake-LP ($964.03)
+HYDRA Per Week: 2724.32 ($1.39)
+APR: Day 0.02% Week 0.14% Year 7.48%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 HYDRA ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $240.37 TVL: $82,648,920.10
+DOT Price: $27.99
+WBNB Price: $484.19
+Staked: 0.0012 Cake-LP ($0.29)
+HYDRA Per Week: 2724.32 ($1.39)
+APR: Day 68.69% Week 480.85% Year 25003.99%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 HYDRA ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $225.02 TVL: $1,029,901,026.31
+Cake Price: $25.01
+WBNB Price: $484.19
+Staked: 0.1862 Cake-LP ($41.91)
+HYDRA Per Week: 2724.32 ($1.39)
+APR: Day 0.47% Week 3.31% Year 172.12%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 HYDRA ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.11 TVL: $46,766,353.01
+ADA Price: $2.82
+WBNB Price: $484.19
+Staked: 0.0000 Cake-LP ($0.00)
+HYDRA Per Week: 2724.32 ($1.39)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 HYDRA ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+HYDRA
+ Price: $0.000509 Market Cap: $264.89 
+[%]
+Staked: 161926.0971 HYDRA ($82.45)
+HYDRA Per Week: 11351.35 ($5.78)
+APR: Day 1.00% Week 7.01% Year 364.53%
+You are staking 0.00 HYDRA ($0.00), 0.00% of the pool.
+Stake 0.00 HYDRA
+Unstake 0.00 HYDRA
+Claim 0.00 HYDRA ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+BUSD
+ Price: $1.00 Market Cap: $4,196,344,692.66 
+[%]
+Staked: 4.0963 BUSD ($4.09)
+HYDRA Per Week: 2270.27 ($1.16)
+APR: Day 4.04% Week 28.25% Year 1469.15%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 HYDRA ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+WBNB
+ Price: $484.19 Market Cap: $3,428,717,843.18 
+[%]
+Staked: 0.1440 WBNB ($69.72)
+HYDRA Per Week: 2270.27 ($1.16)
+APR: Day 0.24% Week 1.66% Year 86.22%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 HYDRA ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 3.8400 USDT ($3.84)
+HYDRA Per Week: 2270.27 ($1.16)
+APR: Day 4.30% Week 30.11% Year 1565.75%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 HYDRA ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.0000 BTCB ($0.00)
+HYDRA Per Week: 2270.27 ($1.16)
+APR: Day 3443719224478.86% Week 24106034571352.00% Year 1253513797710304.00%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 HYDRA ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+ETH
+ Price: $3,331.01 Market Cap: $4,346,968,050.00 
+[%]
+Staked: 0.0264 ETH ($87.81)
+HYDRA Per Week: 2270.27 ($1.16)
+APR: Day 0.19% Week 1.32% Year 68.46%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 HYDRA ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 30.7457 DAI ($30.75)
+HYDRA Per Week: 2270.27 ($1.16)
+APR: Day 0.54% Week 3.76% Year 195.52%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 HYDRA ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,116,039.00 
+[%]
+Staked: 0.0000 USDC ($0.00)
+HYDRA Per Week: 2270.27 ($1.16)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDC ($0.00), NaN% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 HYDRA ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+DOT
+ Price: $27.99 Market Cap: $391,859,999.86 
+[%]
+Staked: 0.0000 DOT ($0.00)
+HYDRA Per Week: 2270.27 ($1.16)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DOT ($0.00), NaN% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 HYDRA ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+Cake
+ Price: $25.01 Market Cap: $10,407,343,418.89 
+[%]
+Staked: 0.0000 Cake ($0.00)
+HYDRA Per Week: 2270.27 ($1.16)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 Cake ($0.00), NaN% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 HYDRA ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+ADA
+ Price: $2.82 Market Cap: $789,600,000.00 
+[%]
+Staked: 0.0000 ADA ($0.00)
+HYDRA Per Week: 2270.27 ($1.16)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ADA ($0.00), NaN% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 HYDRA ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,443.22

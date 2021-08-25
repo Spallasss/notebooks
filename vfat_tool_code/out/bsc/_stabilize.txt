@@ -1,0 +1,183 @@
+INFO  : https://www.stabilize.finance/bsc
+**************************************************************************************
+
+Mon Aug 23 2021 14:07:03 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[WBNB]-[STBB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $17.78 TVL: $2,695.21
+WBNB Price: $485.10
+STBB Price: $0.16
+Staked: 84.4324 Cake-LP ($1,501.25)
+STBB Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WBNB]-[STBB] Cake LP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [WBNB]-[STBB] Cake LP
+Unstake 0.000000 [WBNB]-[STBB] Cake LP
+Claim 0.000000 STBB ($0.00)
+Revoke (set approval to 0)
+Exit
+zsb-USD
+ Price: $0.00 Market Cap: $0.00 
+Staked: 290468.4027 zsb-USD ($0.00)
+STBB Per Week: 4204.25 ($659.14)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 zsb-USD $0.00 (NaN% of the pool).
+BSC Scan
+Stake 0.000000 zsb-USD
+Unstake 0.000000 zsb-USD
+Claim 0.000000 STBB ($0.00)
+Revoke (set approval to 0)
+Exit
+zsb-IRON
+ Price: $0.00 Market Cap: $0.00 
+Staked: 631.3892 zsb-IRON ($0.00)
+STBB Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 zsb-IRON $0.00 (NaN% of the pool).
+BSC Scan
+Stake 0.000000 zsb-IRON
+Unstake 0.000000 zsb-IRON
+Claim 0.000000 STBB ($0.00)
+Revoke (set approval to 0)
+Exit
+zsb-BDO
+ Price: $0.00 Market Cap: $0.00 
+Staked: 21.1711 zsb-BDO ($0.00)
+STBB Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 zsb-BDO $0.00 (NaN% of the pool).
+BSC Scan
+Stake 0.000000 zsb-BDO
+Unstake 0.000000 zsb-BDO
+Claim 0.000000 STBB ($0.00)
+Revoke (set approval to 0)
+Exit
+zsb-ETH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 158.8097 zsb-ETH ($0.00)
+STBB Per Week: 928.84 ($145.62)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 zsb-ETH $0.00 (NaN% of the pool).
+BSC Scan
+Stake 0.000000 zsb-ETH
+Unstake 0.000000 zsb-ETH
+Claim 0.000000 STBB ($0.00)
+Revoke (set approval to 0)
+Exit
+zsb-MDO
+ Price: $0.00 Market Cap: $0.00 
+Staked: 328.2422 zsb-MDO ($0.00)
+STBB Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 zsb-MDO $0.00 (NaN% of the pool).
+BSC Scan
+Stake 0.000000 zsb-MDO
+Unstake 0.000000 zsb-MDO
+Claim 0.000000 STBB ($0.00)
+Revoke (set approval to 0)
+Exit
+zsb-BTC
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0703 zsb-BTC ($0.00)
+STBB Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 zsb-BTC $0.00 (NaN% of the pool).
+BSC Scan
+Stake 0.000000 zsb-BTC
+Unstake 0.000000 zsb-BTC
+Claim 0.000000 STBB ($0.00)
+Revoke (set approval to 0)
+Exit
+[WBNB]-[STBB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $17.70 TVL: $138,912.20
+WBNB Price: $485.10
+STBB Price: $0.16
+Staked: 7378.8703 Cake-LP ($130,573.94)
+STBB Per Week: 18089.30 ($2,836.04)
+APR: Day 0.31% Week 2.17% Year 112.94%
+You are staking 0.000000 [WBNB]-[STBB] Cake LP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [WBNB]-[STBB] Cake LP
+Unstake 0.000000 [WBNB]-[STBB] Cake LP
+Claim 0.000000 STBB ($0.00)
+Revoke (set approval to 0)
+Exit
+zsb-USDG
+ Price: $0.00 Market Cap: $0.00 
+Staked: 201766.9147 zsb-USDG ($0.00)
+STBB Per Week: 3794.56 ($594.91)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 zsb-USDG $0.00 (NaN% of the pool).
+BSC Scan
+Stake 0.000000 zsb-USDG
+Unstake 0.000000 zsb-USDG
+Claim 0.000000 STBB ($0.00)
+Revoke (set approval to 0)
+Exit
+zsb-MBDO
+ Price: $0.00 Market Cap: $0.00 
+Staked: 952.6846 zsb-MBDO ($0.00)
+STBB Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 zsb-MBDO $0.00 (NaN% of the pool).
+BSC Scan
+Stake 0.000000 zsb-MBDO
+Unstake 0.000000 zsb-MBDO
+Claim 0.000000 STBB ($0.00)
+Revoke (set approval to 0)
+Exit
+zsb-UST
+ Price: $0.00 Market Cap: $0.00 
+Staked: 14830.8400 zsb-UST ($0.00)
+STBB Per Week: 812.54 ($127.39)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 zsb-UST $0.00 (NaN% of the pool).
+BSC Scan
+Stake 0.000000 zsb-UST
+Unstake 0.000000 zsb-UST
+Claim 0.000000 STBB ($0.00)
+Revoke (set approval to 0)
+Exit
+zsb-DOLLY
+ Price: $0.00 Market Cap: $0.00 
+Staked: 4.3720 zsb-DOLLY ($0.00)
+STBB Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 zsb-DOLLY $0.00 (NaN% of the pool).
+BSC Scan
+Stake 0.000000 zsb-DOLLY
+Unstake 0.000000 zsb-DOLLY
+Claim 0.000000 STBB ($0.00)
+Revoke (set approval to 0)
+Exit
+zsb-IRON2
+ Price: $0.00 Market Cap: $0.00 
+Staked: 4.0897 zsb-IRON2 ($0.00)
+STBB Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 zsb-IRON2 $0.00 (NaN% of the pool).
+BSC Scan
+Stake 0.000000 zsb-IRON2
+Unstake 0.000000 zsb-IRON2
+Claim 0.000000 STBB ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $0.00

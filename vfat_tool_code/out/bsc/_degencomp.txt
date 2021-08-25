@@ -1,0 +1,47 @@
+INFO  : https://degentoken.finance
+***************************************************************************************
+
+Mon Aug 23 2021 14:20:25 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 51 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+2 - 
+DGNZ
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1500293.7241 DGNZ ($0.00)
+aDGNZ Per Week: 733.09 ($20.16)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DGNZ ($0.00), NaN% of the pool.
+Stake 0.00 DGNZ
+Unstake 0.00 DGNZ
+Claim 0.00 aDGNZ ($0.00)
+Staking or unstaking also claims rewards.
+33 - 
+[WBNB]-[aDGNZ] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7.60 TVL: $321.13
+WBNB Price: $483.99
+aDGNZ Price: $0.03
+Staked: 42.0087 Cake-LP ($319.08)
+aDGNZ Per Week: 1282.91 ($35.28)
+APR: Day 1.58% Week 11.06% Year 574.96%
+You are staking 0.00 [WBNB]-[aDGNZ] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[aDGNZ] Cake LP
+Unstake 0.00 [WBNB]-[aDGNZ] Cake LP
+Claim 0.00 aDGNZ ($0.00)
+Staking or unstaking also claims rewards.

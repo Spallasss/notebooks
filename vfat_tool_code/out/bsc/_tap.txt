@@ -1,0 +1,878 @@
+INFO  : https://tapswap.finance
+**************************************************************************************
+
+Mon Aug 23 2021 14:21:03 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 68 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+4 - 
+BTCB
+ Price: $50,135.00 Market Cap: $4,286,592,635.00 
+[%]
+Staked: 0.0835 BTCB ($4,184.53)
+TAPS Per Week: 56.09 ($1.47)
+APR: Day 0.01% Week 0.04% Year 1.82%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+ETH
+ Price: $3,322.90 Market Cap: $4,336,384,500.00 
+[%]
+Staked: 0.0192 ETH ($63.83)
+TAPS Per Week: 56.09 ($1.47)
+APR: Day 0.33% Week 2.30% Year 119.48%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WBNB
+ Price: $483.99 Market Cap: $3,430,245,923.97 
+[%]
+Staked: 0.1578 WBNB ($76.38)
+TAPS Per Week: 74.79 ($1.96)
+APR: Day 0.37% Week 2.56% Year 133.14%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+ADA
+ Price: $2.83 Market Cap: $792,400,000.00 
+[%]
+Staked: 3.2408 ADA ($9.17)
+TAPS Per Week: 56.09 ($1.47)
+APR: Day 2.28% Week 15.99% Year 831.56%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[TAPS]-[BUSD] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.34 TVL: $650.12
+TAPS Price: $0.03
+BUSD Price: $1.00
+Staked: 1748.3644 APE-LP ($590.22)
+TAPS Per Week: 747.93 ($19.56)
+APR: Day 0.47% Week 3.31% Year 172.29%
+You are staking 0.00 [TAPS]-[BUSD] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TAPS]-[BUSD] APE LP
+Unstake 0.00 [TAPS]-[BUSD] APE LP
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[TAPS]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7.38 TVL: $471.04
+TAPS Price: $0.03
+WBNB Price: $483.99
+Staked: 58.6650 APE-LP ($433.12)
+TAPS Per Week: 1495.85 ($39.11)
+APR: Day 1.29% Week 9.03% Year 469.57%
+You are staking 0.00 [TAPS]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TAPS]-[WBNB] APE LP
+Unstake 0.00 [TAPS]-[WBNB] APE LP
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[TAPS]-[BANANA] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.71 TVL: $44.26
+TAPS Price: $0.03
+BANANA Price: $4.77
+Staked: 28.4073 APE-LP ($20.30)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.69% Week 4.82% Year 250.43%
+You are staking 0.00 [TAPS]-[BANANA] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TAPS]-[BANANA] APE LP - Fee 2%
+Unstake 0.00 [TAPS]-[BANANA] APE LP
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[USDT]-[BUSD] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $13,746,823.26
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 288.0000 APE-LP ($589.01)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.02% Week 0.17% Year 8.63%
+You are staking 0.00 [USDT]-[BUSD] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] APE LP - Fee 2%
+Unstake 0.00 [USDT]-[BUSD] APE LP
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[Cake]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $233.31 TVL: $3,980,617.25
+Cake Price: $24.98
+WBNB Price: $483.99
+Staked: 2.3471 APE-LP ($547.62)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.03% Week 0.18% Year 9.28%
+You are staking 0.00 [Cake]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] APE LP - Fee 2%
+Unstake 0.00 [Cake]-[WBNB] APE LP
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[ETH]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,636.57 TVL: $20,250,261.87
+ETH Price: $3,322.90
+WBNB Price: $483.99
+Staked: 0.0000 APE-LP ($0.00)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[WBNB] APE LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[WBNB] APE LP - Fee 2%
+Unstake 0.00 [ETH]-[WBNB] APE LP
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[TAPS]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7.38 TVL: $471.04
+TAPS Price: $0.03
+WBNB Price: $483.99
+Staked: 58.6650 APE-LP ($433.12)
+TAPS Per Week: 112.19 ($2.93)
+APR: Day 0.10% Week 0.68% Year 35.22%
+You are staking 0.00 [TAPS]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TAPS]-[WBNB] APE LP - Fee 4%
+Unstake 0.00 [TAPS]-[WBNB] APE LP
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[BTCB]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,156.82 TVL: $10,248,426.26
+BTCB Price: $50,135.00
+WBNB Price: $483.99
+Staked: 0.0009 APE-LP ($9.27)
+TAPS Per Week: 74.79 ($1.96)
+APR: Day 3.01% Week 21.09% Year 1096.82%
+You are staking 0.00 [BTCB]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] APE LP - Fee 2%
+Unstake 0.00 [BTCB]-[WBNB] APE LP
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[WBNB]-[BSC] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7.34 TVL: $1,572.79
+WBNB Price: $483.99
+BSC Price: $0.03
+Staked: 186.3175 APE-LP ($1,368.34)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.01% Week 0.07% Year 3.72%
+You are staking 0.00 [WBNB]-[BSC] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BSC] APE LP - Fee 2%
+Unstake 0.00 [WBNB]-[BSC] APE LP
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[BURGER]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $126.09 TVL: $2,357.37
+BURGER Price: $6.06
+WBNB Price: $483.99
+Staked: 0.1158 APE-LP ($14.60)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.96% Week 6.70% Year 348.30%
+You are staking 0.00 [BURGER]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BURGER]-[WBNB] APE LP - Fee 2%
+Unstake 0.00 [BURGER]-[WBNB] APE LP
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[MATIC]-[BUSD] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.58 TVL: $141.55
+MATIC Price: $1.64
+BUSD Price: $1.00
+Staked: 53.1367 APE-LP ($137.35)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.10% Week 0.71% Year 37.02%
+You are staking 0.00 [MATIC]-[BUSD] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MATIC]-[BUSD] APE LP - Fee 2%
+Unstake 0.00 [MATIC]-[BUSD] APE LP
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+MATIC
+ Price: $1.64 Market Cap: $3,280,000,000.00 
+[%]
+Staked: 19.4007 MATIC ($31.82)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.44% Week 3.07% Year 159.80%
+You are staking 0.00 MATIC ($0.00), 0.00% of the pool.
+Stake 0.00 MATIC - Fee 4%
+Unstake 0.00 MATIC
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+BAKE
+ Price: $3.14 Market Cap: $2,289,775,207.77 
+[%]
+Staked: 23.8087 BAKE ($74.76)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.19% Week 1.31% Year 68.01%
+You are staking 0.00 BAKE ($0.00), 0.00% of the pool.
+Stake 0.00 BAKE - Fee 4%
+Unstake 0.00 BAKE
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+XRP
+ Price: $1.25 Market Cap: $271,250,000.00 
+[%]
+Staked: 98.4077 XRP ($123.01)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.11% Week 0.79% Year 41.33%
+You are staking 0.00 XRP ($0.00), 0.00% of the pool.
+Stake 0.00 XRP - Fee 4%
+Unstake 0.00 XRP
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+[DOGE]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,608,255.68 TVL: $5,868,247.87
+DOGE Price: $0.32
+WBNB Price: $483.99
+Staked: 0.0000 APE-LP ($19.87)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.70% Week 4.92% Year 255.89%
+You are staking 0.00 [DOGE]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[WBNB] APE LP - Fee 2%
+Unstake 0.00 [DOGE]-[WBNB] APE LP
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+BANANA
+ Price: $4.77 Market Cap: $302,232,075.99 
+[%]
+Staked: 191.0400 BANANA ($911.26)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.02% Week 0.11% Year 5.58%
+You are staking 0.00 BANANA ($0.00), 0.00% of the pool.
+Stake 0.00 BANANA - Fee 4%
+Unstake 0.00 BANANA
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+[BANANA]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $107.49 TVL: $60,825,499.01
+BANANA Price: $4.77
+WBNB Price: $483.99
+Staked: 0.2982 APE-LP ($32.06)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.44% Week 3.05% Year 158.61%
+You are staking 0.00 [BANANA]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BANANA]-[WBNB] APE LP - Fee 2%
+Unstake 0.00 [BANANA]-[WBNB] APE LP
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+[WBNB]-[BAKE] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $86.05 TVL: $3,635,542.51
+WBNB Price: $483.99
+BAKE Price: $3.14
+Staked: 0.2772 APE-LP ($23.85)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.59% Week 4.10% Year 213.15%
+You are staking 0.00 [WBNB]-[BAKE] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BAKE] APE LP - Fee 2%
+Unstake 0.00 [WBNB]-[BAKE] APE LP
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+33 - 
+BSC
+ Price: $0.03 Market Cap: $543,550.36 
+[%]
+Staked: 38207.1246 BSC ($988.93)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.01% Week 0.10% Year 5.14%
+You are staking 0.00 BSC ($0.00), 0.00% of the pool.
+Stake 0.00 BSC - Fee 4%
+Unstake 0.00 BSC
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+34 - 
+[WBNB]-[BSC] BLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7.22 TVL: $53,150.75
+WBNB Price: $483.99
+BSC Price: $0.03
+Staked: 734.2474 BLP ($5,302.44)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.00% Week 0.02% Year 0.96%
+You are staking 0.00 [WBNB]-[BSC] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BSC] BLP - Fee 2%
+Unstake 0.00 [WBNB]-[BSC] BLP
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+35 - 
+[TAPS]-[BSC] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.09 TVL: $0.78
+TAPS Price: $0.03
+BSC Price: $0.03
+Staked: 0.0000 APE-LP ($0.00)
+TAPS Per Week: 3.74 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [TAPS]-[BSC] APE LP ($0.00), NaN% of the pool.
+Stake 0.00 [TAPS]-[BSC] APE LP - Fee 4%
+Unstake 0.00 [TAPS]-[BSC] APE LP
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+36 - 
+[JDI]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $14.97 TVL: $1,080,631.86
+JDI Price: $0.10
+WBNB Price: $483.99
+Staked: 0.1371 APE-LP ($2.05)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 6.81% Week 47.64% Year 2477.36%
+You are staking 0.00 [JDI]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JDI]-[WBNB] APE LP - Fee 2%
+Unstake 0.00 [JDI]-[WBNB] APE LP
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+37 - 
+UNI
+ Price: $29.36 Market Cap: $108,632,000.00 
+[%]
+Staked: 1.0033 UNI ($29.46)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.47% Week 3.32% Year 172.61%
+You are staking 0.00 UNI ($0.00), 0.00% of the pool.
+Stake 0.00 UNI - Fee 4%
+Unstake 0.00 UNI
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+38 - 
+BIFI
+ Price: $1,261.40 Market Cap: $100,912,000.00 
+[%]
+Staked: 0.0021 BIFI ($2.63)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 5.32% Week 37.24% Year 1936.68%
+You are staking 0.00 BIFI ($0.00), 0.00% of the pool.
+Stake 0.00 BIFI - Fee 4%
+Unstake 0.00 BIFI
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+39 - 
+AUTO
+ Price: $1,417.80 Market Cap: $90,911,699.21 
+[%]
+Staked: 0.0126 AUTO ($17.82)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.78% Week 5.49% Year 285.40%
+You are staking 0.00 AUTO ($0.00), 0.00% of the pool.
+Stake 0.00 AUTO - Fee 4%
+Unstake 0.00 AUTO
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+40 - 
+SPACE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 4.9776 SPACE ($0.00)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SPACE ($0.00), NaN% of the pool.
+Stake 0.00 SPACE - Fee 4%
+Unstake 0.00 SPACE
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+41 - 
+SWAMP
+ Price: $1.86 Market Cap: $1,696,367.67 
+[%]
+Staked: 10.5836 SWAMP ($19.69)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.71% Week 4.97% Year 258.28%
+You are staking 0.00 SWAMP ($0.00), 0.00% of the pool.
+Stake 0.00 SWAMP - Fee 4%
+Unstake 0.00 SWAMP
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+42 - 
+BUNNY
+ Price: $7.78 Market Cap: $86,394,673.45 
+[%]
+Staked: 3.8710 BUNNY ($30.12)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.46% Week 3.25% Year 168.83%
+You are staking 0.00 BUNNY ($0.00), 0.00% of the pool.
+Stake 0.00 BUNNY - Fee 4%
+Unstake 0.00 BUNNY
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+43 - 
+JDI
+ Price: $0.10 Market Cap: $2,053,942.38 
+[%]
+Staked: 96.2423 JDI ($9.88)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 1.41% Week 9.89% Year 514.42%
+You are staking 0.00 JDI ($0.00), 0.00% of the pool.
+Stake 0.00 JDI - Fee 4%
+Unstake 0.00 JDI
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+44 - 
+[LYPTUS]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $23.02 TVL: $246,106.11
+LYPTUS Price: $0.25
+WBNB Price: $483.99
+Staked: 4.0543 APE-LP ($93.33)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.15% Week 1.05% Year 54.48%
+You are staking 0.00 [LYPTUS]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LYPTUS]-[WBNB] APE LP - Fee 2%
+Unstake 0.00 [LYPTUS]-[WBNB] APE LP
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+45 - 
+LYPTUS
+ Price: $0.25 Market Cap: $1,119,765.70 
+[%]
+Staked: 24.8117 LYPTUS ($6.24)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 2.24% Week 15.68% Year 815.15%
+You are staking 0.00 LYPTUS ($0.00), 0.00% of the pool.
+Stake 0.00 LYPTUS - Fee 4%
+Unstake 0.00 LYPTUS
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+46 - 
+[BREW]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $38.46 TVL: $129.00
+BREW Price: $0.75
+WBNB Price: $483.99
+Staked: 2.2727 APE-LP ($87.40)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.16% Week 1.12% Year 58.17%
+You are staking 0.00 [BREW]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BREW]-[WBNB] APE LP - Fee 2%
+Unstake 0.00 [BREW]-[WBNB] APE LP
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+47 - 
+BREW
+ Price: $0.75 Market Cap: $4,663,577.41 
+[%]
+Staked: 0.6064 BREW ($0.45)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 30.84% Week 215.89% Year 11226.13%
+You are staking 0.00 BREW ($0.00), 0.00% of the pool.
+Stake 0.00 BREW - Fee 4%
+Unstake 0.00 BREW
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+48 - 
+[WATCH]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $32.03 TVL: $1,961,921.33
+WATCH Price: $0.53
+WBNB Price: $483.99
+Staked: 0.4297 APE-LP ($13.76)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 1.02% Week 7.11% Year 369.49%
+You are staking 0.00 [WATCH]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WATCH]-[WBNB] APE LP - Fee 2%
+Unstake 0.00 [WATCH]-[WBNB] APE LP
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+49 - 
+WATCH
+ Price: $0.53 Market Cap: $10,500,886.82 
+[%]
+Staked: 138.8011 WATCH ($72.88)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.19% Week 1.34% Year 69.77%
+You are staking 0.00 WATCH ($0.00), 0.00% of the pool.
+Stake 0.00 WATCH - Fee 4%
+Unstake 0.00 WATCH
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+50 - 
+[SHIB]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.13 TVL: $4,593,412.43
+SHIB Price: $0.0000083149
+WBNB Price: $483.99
+Staked: 454.0539 APE-LP ($58.54)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.24% Week 1.67% Year 86.85%
+You are staking 0.00 [SHIB]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SHIB]-[WBNB] APE LP - Fee 2%
+Unstake 0.00 [SHIB]-[WBNB] APE LP
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+51 - 
+SHIB
+ Price: $0.0000083149 Market Cap: $35,089,075.28 
+[%]
+Staked: 7232209.5456 SHIB ($60.14)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.23% Week 1.63% Year 84.55%
+You are staking 0.00 SHIB ($0.00), 0.00% of the pool.
+Stake 0.00 SHIB - Fee 4%
+Unstake 0.00 SHIB
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+52 - 
+[BFT]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.88 TVL: $977,297.44
+BFT Price: $0.004138
+WBNB Price: $483.99
+Staked: 9.8000 APE-LP ($28.20)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.50% Week 3.47% Year 180.32%
+You are staking 0.00 [BFT]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BFT]-[WBNB] APE LP - Fee 2%
+Unstake 0.00 [BFT]-[WBNB] APE LP
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+53 - 
+BFT
+ Price: $0.004138 Market Cap: $2,275,938.72 
+[%]
+Staked: 7200.1946 BFT ($29.79)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.47% Week 3.28% Year 170.65%
+You are staking 0.00 BFT ($0.00), 0.00% of the pool.
+Stake 0.00 BFT - Fee 4%
+Unstake 0.00 BFT
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+54 - 
+[PANTHER]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11.25 TVL: $38.59
+PANTHER Price: $0.03
+WBNB Price: $483.99
+Staked: 0.0000 APE-LP ($0.00)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [PANTHER]-[WBNB] APE LP ($0.00), NaN% of the pool.
+Stake 0.00 [PANTHER]-[WBNB] APE LP - Fee 2%
+Unstake 0.00 [PANTHER]-[WBNB] APE LP
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+56 - 
+[ALLOY]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9.48 TVL: $644.22
+ALLOY Price: $0.04
+WBNB Price: $483.99
+Staked: 2.5557 APE-LP ($24.22)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.58% Week 4.04% Year 209.93%
+You are staking 0.00 [ALLOY]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALLOY]-[WBNB] APE LP - Fee 2%
+Unstake 0.00 [ALLOY]-[WBNB] APE LP
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+57 - 
+ALLOY
+ Price: $0.04 Market Cap: $831,255.15 
+[%]
+Staked: 644.4815 ALLOY ($28.16)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.50% Week 3.47% Year 180.54%
+You are staking 0.00 ALLOY ($0.00), 0.00% of the pool.
+Stake 0.00 ALLOY - Fee 4%
+Unstake 0.00 ALLOY
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+58 - 
+Cake
+ Price: $24.98 Market Cap: $10,394,718,969.17 
+[%]
+Staked: 1.7128 Cake ($42.78)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.33% Week 2.29% Year 118.84%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+59 - 
+[CELR]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10.09 TVL: $2,651,640.34
+CELR Price: $0.05
+WBNB Price: $483.99
+Staked: 16.5934 APE-LP ($167.49)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.08% Week 0.58% Year 30.36%
+You are staking 0.00 [CELR]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CELR]-[WBNB] APE LP - Fee 2%
+Unstake 0.00 [CELR]-[WBNB] APE LP
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+60 - 
+CELR
+ Price: $0.05 Market Cap: $103,412,909.20 
+[%]
+Staked: 613.0589 CELR ($31.70)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.44% Week 3.08% Year 160.40%
+You are staking 0.00 CELR ($0.00), 0.00% of the pool.
+Stake 0.00 CELR - Fee 4%
+Unstake 0.00 CELR
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+61 - 
+[DOT]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $237.08 TVL: $7,924,008.16
+DOT Price: $27.99
+WBNB Price: $483.99
+Staked: 0.9662 APE-LP ($229.06)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.06% Week 0.43% Year 22.20%
+You are staking 0.00 [DOT]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] APE LP - Fee 2%
+Unstake 0.00 [DOT]-[WBNB] APE LP
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+62 - 
+DOT
+ Price: $27.99 Market Cap: $391,859,999.86 
+[%]
+Staked: 1.9624 DOT ($54.93)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.25% Week 1.78% Year 92.57%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+63 - 
+DOT
+ Price: $27.99 Market Cap: $391,859,999.86 
+[%]
+Staked: 1.9624 DOT ($54.93)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.25% Week 1.78% Year 92.57%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 2%
+Unstake 0.00 DOT
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+64 - 
+[LTC]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $612.23 TVL: $7,149,105.19
+LTC Price: $189.11
+WBNB Price: $483.99
+Staked: 0.4592 APE-LP ($281.13)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 0.05% Week 0.35% Year 18.09%
+You are staking 0.00 [LTC]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LTC]-[WBNB] APE LP - Fee 2%
+Unstake 0.00 [LTC]-[WBNB] APE LP
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+65 - 
+LTC
+ Price: $189.11 Market Cap: $112,520,450.00 
+[%]
+Staked: 0.0224 LTC ($4.24)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 3.29% Week 23.04% Year 1198.02%
+You are staking 0.00 LTC ($0.00), 0.00% of the pool.
+Stake 0.00 LTC - Fee 4%
+Unstake 0.00 LTC
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+66 - 
+LTC
+ Price: $189.11 Market Cap: $112,520,450.00 
+[%]
+Staked: 0.0224 LTC ($4.24)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day 3.29% Week 23.04% Year 1198.02%
+You are staking 0.00 LTC ($0.00), 0.00% of the pool.
+Stake 0.00 LTC - Fee 4%
+Unstake 0.00 LTC
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+67 - 
+DPET
+ Price: $0.00 Market Cap: $0.00 
+Staked: 8.9280 DPET ($0.00)
+TAPS Per Week: 37.40 ($0.98)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DPET ($0.00), NaN% of the pool.
+Stake 0.00 DPET - Fee 4%
+Unstake 0.00 DPET
+Claim 0.00 TAPS ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $17,470.11

@@ -1,0 +1,161 @@
+INFO  : https://sponge.farm
+Telegram: https://t.me/spongefarm
+***************************************************************************************
+
+Mon Aug 23 2021 15:16:09 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 10 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[SPONGE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.44 TVL: $13.06
+SPONGE Price: $0.0000961180
+WBNB Price: $495.44
+Staked: 0.0000 Cake-LP ($0.00)
+SPONGE Per Week: 126.61 ($0.01)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [SPONGE]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [SPONGE]-[WBNB] Cake LP
+Unstake 0.00 [SPONGE]-[WBNB] Cake LP
+Claim 0.00 SPONGE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[SPONGE]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $12.34 TVL: $0.04
+SPONGE Price: $0.0000961180
+BUSD Price: $1.00
+Staked: 0.0001 Cake-LP ($0.00)
+SPONGE Per Week: 126.61 ($0.01)
+APR: Day 140.84% Week 985.88% Year 51265.63%
+You are staking 0.00 [SPONGE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SPONGE]-[BUSD] Cake LP
+Unstake 0.00 [SPONGE]-[BUSD] Cake LP
+Claim 0.00 SPONGE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.32 TVL: $530,874,044.69
+WBNB Price: $495.44
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+SPONGE Per Week: 58.43 ($0.01)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SPONGE ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+SPONGE
+ Price: $0.0000961180 Market Cap: $7.47 
+[%]
+Staked: 1213.9130 SPONGE ($0.12)
+SPONGE Per Week: 126.61 ($0.01)
+APR: Day 1.49% Week 10.43% Year 542.35%
+You are staking 0.00 SPONGE ($0.00), 0.00% of the pool.
+Stake 0.00 SPONGE
+Unstake 0.00 SPONGE
+Claim 0.00 SPONGE ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+BUSD
+ Price: $1.00 Market Cap: $4,197,411,746.51 
+[%]
+Staked: 106.1415 BUSD ($106.05)
+SPONGE Per Week: 48.70 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.23%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 SPONGE ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WBNB
+ Price: $495.44 Market Cap: $3,493,371,107.17 
+[%]
+Staked: 0.0000 WBNB ($0.00)
+SPONGE Per Week: 48.70 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 WBNB ($0.00), NaN% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 SPONGE ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+Cake
+ Price: $25.40 Market Cap: $10,569,971,058.31 
+[%]
+Staked: 0.9696 Cake ($24.63)
+SPONGE Per Week: 48.70 ($0.00)
+APR: Day 0.00% Week 0.02% Year 0.99%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 SPONGE ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+ETH
+ Price: $3,334.81 Market Cap: $4,351,927,050.00 
+[%]
+Staked: 0.0000 ETH ($0.00)
+SPONGE Per Week: 48.70 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ETH ($0.00), NaN% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 SPONGE ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+BTCB
+ Price: $49,881.00 Market Cap: $4,264,875,381.00 
+[%]
+Staked: 0.0000 BTCB ($0.00)
+SPONGE Per Week: 48.70 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BTCB ($0.00), NaN% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 SPONGE ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 0.0000 DAI ($0.00)
+SPONGE Per Week: 19478.26 ($1.87)
+APR: Day 2673996.98% Week 18717978.87% Year 973334901.39%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI
+Unstake 0.00 DAI
+Claim 0.00 SPONGE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $130.80

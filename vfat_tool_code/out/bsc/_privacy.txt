@@ -1,0 +1,69 @@
+INFO  : https://privacyswap.finance
+****************************************************************************************
+
+Mon Aug 23 2021 14:23:28 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 4 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[PRV]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $71.97 TVL: $535,529.47
+PRV Price: $2.52
+WBNB Price: $483.88
+Staked: 6212.8997 Cake-LP ($447,162.79)
+PRV Per Week: 8064.00 ($20,319.67)
+APR: Day 0.65% Week 4.54% Year 236.29%
+You are staking 0.00 [PRV]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PRV]-[WBNB] Cake LP
+Unstake 0.00 [PRV]-[WBNB] Cake LP
+Claim 0.00 PRV ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[PRV]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.26 TVL: $440,578.31
+PRV Price: $2.52
+BUSD Price: $1.00
+Staked: 111557.9434 Cake-LP ($363,235.55)
+PRV Per Week: 8064.00 ($20,319.67)
+APR: Day 0.80% Week 5.59% Year 290.89%
+You are staking 0.00 [PRV]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PRV]-[BUSD] Cake LP
+Unstake 0.00 [PRV]-[BUSD] Cake LP
+Claim 0.00 PRV ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+PRV
+ Price: $2.52 Market Cap: $982,527.09 
+[%]
+Staked: 165890.0509 PRV ($418,009.71)
+PRV Per Week: 4032.00 ($10,159.83)
+APR: Day 0.35% Week 2.43% Year 126.39%
+You are staking 0.00 PRV ($0.00), 0.00% of the pool.
+Stake 0.00 PRV
+Unstake 0.00 PRV
+Claim 0.00 PRV ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,228,408.05

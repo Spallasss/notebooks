@@ -1,0 +1,269 @@
+INFO  : https://hawkfarming.finance
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:51:20 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 18 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[HAWK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $766,798.52 TVL: $1,509.01
+USDC Price: $1.00
+HAWK Price: $0.14
+Staked: 0.0000 UNI-V2 ($3.49)
+HAWK Per Week: 474855.73 ($67,242.05)
+APR: Day 275570.02% Week 1928990.16% Year 100307488.43%
+You are staking 0.00 [USDC]-[HAWK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[HAWK] Uni LP
+Unstake 0.00 [USDC]-[HAWK] Uni LP
+Claim 0.00 HAWK ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,604,182.30 TVL: $33,279,112.93
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.01)
+HAWK Per Week: 189942.29 ($26,896.82)
+APR: Day 52181250.21% Week 365268751.47% Year 18993975076.62%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 HAWK ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,563,847,264,021.66 TVL: $34,034,678.74
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($9.65)
+HAWK Per Week: 47485.57 ($6,724.20)
+APR: Day 9949.64% Week 69647.51% Year 3621670.67%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 HAWK ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[DAI]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $27,060,139.11 TVL: $3,960,143.67
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.96)
+HAWK Per Week: 35614.18 ($5,043.15)
+APR: Day 75157.99% Week 526105.91% Year 27357507.11%
+You are staking 0.00 [DAI]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [DAI]-[USDT] Uni LP
+Claim 0.00 HAWK ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,798,179.44 TVL: $148,027,587.10
+USDC Price: $1.00
+WETH Price: $3,321.05
+Staked: 0.0000 UNI-V2 ($0.00)
+HAWK Per Week: 35614.18 ($5,043.15)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 HAWK ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+HAWK
+ Price: $0.14 Market Cap: $1,104.53 
+[%]
+Staked: 2328.8117 HAWK ($329.77)
+HAWK Per Week: 237427.86 ($33,621.02)
+APR: Day 1456.46% Week 10195.24% Year 530152.32%
+You are staking 0.00 HAWK ($0.00), 0.00% of the pool.
+Stake 0.00 HAWK
+Unstake 0.00 HAWK
+Claim 0.00 HAWK ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+PolyDoge
+ Price: $0.0000000062 Market Cap: $6,236,000.00 
+[%]
+Staked: 5971345781.9545 PolyDoge ($37.24)
+HAWK Per Week: 47485.57 ($6,724.20)
+APR: Day 2579.67% Week 18057.71% Year 939000.79%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 4%
+Unstake 0.00 PolyDoge
+Claim 0.00 HAWK ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WMATIC
+ Price: $1.64 Market Cap: $603,151,388.15 
+[%]
+Staked: 13.9579 WMATIC ($22.89)
+HAWK Per Week: 42737.02 ($6,051.78)
+APR: Day 3776.77% Week 26437.38% Year 1374743.68%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 HAWK ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+USDC
+ Price: $1.00 Market Cap: $1,042,638,283.82 
+[%]
+Staked: 12.1989 USDC ($12.18)
+HAWK Per Week: 40362.74 ($5,715.57)
+APR: Day 6701.50% Week 46910.52% Year 2439346.94%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 HAWK ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+DAI
+ Price: $1.00 Market Cap: $376,545,250.79 
+[%]
+Staked: 0.0000 DAI ($0.00)
+HAWK Per Week: 40362.74 ($5,715.57)
+APR: Day 817390931877150195712.00% Week 5.721736523140051e+21% Year 2.9753029920328267e+23%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 HAWK ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+USDT
+ Price: $1.00 Market Cap: $314,972,385.85 
+[%]
+Staked: 2.8740 USDT ($2.87)
+HAWK Per Week: 37988.46 ($5,379.36)
+APR: Day 26765.06% Week 187355.43% Year 9742482.15%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 HAWK ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+LINK
+ Price: $28.57 Market Cap: $64,832,014.27 
+[%]
+Staked: 0.0523 LINK ($1.49)
+HAWK Per Week: 37988.46 ($5,379.36)
+APR: Day 51470.56% Week 360293.95% Year 18735285.42%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 HAWK ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+WBTC
+ Price: $50,019.00 Market Cap: $696,957,605.01 
+[%]
+Staked: 0.0002 WBTC ($10.85)
+HAWK Per Week: 35614.18 ($5,043.15)
+APR: Day 6641.25% Week 46488.73% Year 2417414.04%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 HAWK ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+WETH
+ Price: $3,321.05 Market Cap: $2,024,914,130.68 
+[%]
+Staked: 0.0022 WETH ($7.20)
+HAWK Per Week: 35614.18 ($5,043.15)
+APR: Day 10007.96% Week 70055.73% Year 3642898.20%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 HAWK ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+QUICK
+ Price: $725.40 Market Cap: $694,401,246.94 
+[%]
+Staked: 0.1058 QUICK ($76.75)
+HAWK Per Week: 30865.62 ($4,370.73)
+APR: Day 813.49% Week 5694.42% Year 296109.65%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 HAWK ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+AAVE
+ Price: $408.15 Market Cap: $155,229,476.11 
+[%]
+Staked: 0.0000 AAVE ($0.00)
+HAWK Per Week: 30865.62 ($4,370.73)
+APR: Day 22137273.73% Week 154960916.14% Year 8057967639.39%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 HAWK ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+RGEM
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0013 RGEM ($0.00)
+HAWK Per Week: 35614.18 ($5,043.15)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RGEM ($0.00), NaN% of the pool.
+Stake 0.00 RGEM - Fee 2%
+Unstake 0.00 RGEM
+Claim 0.00 HAWK ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+BLACKBRY
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1.3157 BLACKBRY ($0.00)
+HAWK Per Week: 3561.42 ($504.32)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLACKBRY ($0.00), NaN% of the pool.
+Stake 0.00 BLACKBRY - Fee 2%
+Unstake 0.00 BLACKBRY
+Claim 0.00 HAWK ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $515.36

@@ -1,0 +1,148 @@
+INFO  : https://app.spoon.finance
+**********************************************************************************
+
+Mon Aug 23 2021 13:24:21 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 11 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WFTM]-[SPOON] SPIRIT LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.04 TVL: $4,711.16
+WFTM Price: $0.57
+SPOON Price: $0.000744
+Staked: 91768.9028 SPIRIT-LP ($3,976.22)
+SPOON Per Week: 361290.32 ($268.77)
+APR: Day 0.97% Week 6.76% Year 351.49%
+You are staking 0.00 [WFTM]-[SPOON] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SPOON] SPIRIT LP
+Unstake 0.00 [WFTM]-[SPOON] SPIRIT LP
+Claim 0.00 SPOON ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+ibSPOON
+ Price: $0.00 Market Cap: $0.00 
+Staked: 966294.9251 ibSPOON ($0.00)
+SPOON Per Week: 22580.65 ($16.80)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ibSPOON ($0.00), NaN% of the pool.
+Stake 0.00 ibSPOON
+Unstake 0.00 ibSPOON
+Claim 0.00 SPOON ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+ibFTM
+ Price: $0.57 Market Cap: $1,856.37 
+Staked: 3261.5217 ibFTM ($1,855.80)
+SPOON Per Week: 22580.65 ($16.80)
+APR: Day 0.13% Week 0.91% Year 47.07%
+You are staking 0.00 ibFTM ($0.00), 0.00% of the pool.
+Stake 0.00 ibFTM
+Unstake 0.00 ibFTM
+Claim 0.00 SPOON ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+ibUSDC
+ Price: $1.00 Market Cap: $5,028.89 
+Staked: 4030.4176 ibUSDC ($4,030.42)
+SPOON Per Week: 22580.65 ($16.80)
+APR: Day 0.06% Week 0.42% Year 21.67%
+You are staking 0.00 ibUSDC ($0.00), 0.00% of the pool.
+Stake 0.00 ibUSDC
+Unstake 0.00 ibUSDC
+Claim 0.00 SPOON ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+ibfUSDT
+ Price: $1.00 Market Cap: $2,661.05 
+Staked: 2660.8322 ibfUSDT ($2,660.83)
+SPOON Per Week: 22580.65 ($16.80)
+APR: Day 0.09% Week 0.63% Year 32.83%
+You are staking 0.00 ibfUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 ibfUSDT
+Unstake 0.00 ibfUSDT
+Claim 0.00 SPOON ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+ibDAI
+ Price: $1.00 Market Cap: $3,087.06 
+Staked: 3085.4156 ibDAI ($3,085.42)
+SPOON Per Week: 22580.65 ($16.80)
+APR: Day 0.08% Week 0.54% Year 28.31%
+You are staking 0.00 ibDAI ($0.00), 0.00% of the pool.
+Stake 0.00 ibDAI
+Unstake 0.00 ibDAI
+Claim 0.00 SPOON ($0.00)
+Staking or unstaking also claims rewards.
+6 - Wrapped 
+[WFTM]-[SPIRIT] SPIRIT LP
+ Price: $0.51 TVL: $2,613.54
+Staked: 4401.6547 sv_FTM-SPIRIT_LP ($2,223.20)
+SPOON Per Week: 45161.29 ($33.60)
+APR: Day 0.22% Week 1.51% Year 78.58%
+You are staking 0.00 sv_FTM-SPIRIT_LP ($0.00), 0.00% of the pool.
+Stake 0.00 sv_FTM-SPIRIT_LP
+Unstake 0.00 sv_FTM-SPIRIT_LP
+Claim 0.00 SPOON ($0.00)
+Staking or unstaking also claims rewards.
+7 - Wrapped 
+[WFTM]-[BOO] SPOOKY LP
+ Price: $19.77 TVL: $22,675.55
+Staked: 285.5617 sv_FTM-BOO_LP ($5,646.38)
+SPOON Per Week: 45161.29 ($33.60)
+APR: Day 0.09% Week 0.60% Year 30.94%
+You are staking 0.00 sv_FTM-BOO_LP ($0.00), 0.00% of the pool.
+Stake 0.00 sv_FTM-BOO_LP
+Unstake 0.00 sv_FTM-BOO_LP
+Claim 0.00 SPOON ($0.00)
+Staking or unstaking also claims rewards.
+8 - Wrapped 
+[USDC]-[WFTM] SPOOKY LP
+ Price: $2,270,795.28 TVL: $1,705.20
+Staked: 0.0006 sv_FTM-USDC_spookyLP ($1,383.54)
+SPOON Per Week: 45161.29 ($33.60)
+APR: Day 0.35% Week 2.43% Year 126.27%
+You are staking 0.00 sv_FTM-USDC_spookyLP ($0.00), 0.00% of the pool.
+Stake 0.00 sv_FTM-USDC_spookyLP
+Unstake 0.00 sv_FTM-USDC_spookyLP
+Claim 0.00 SPOON ($0.00)
+Staking or unstaking also claims rewards.
+9 - Wrapped 
+[fUSDT]-[WFTM] SPOOKY LP
+ Price: $2,981,455.08 TVL: $3,358.61
+Staked: 0.0006 sv_FTM-fUSDT_spookyLP ($1,883.32)
+SPOON Per Week: 45161.29 ($33.60)
+APR: Day 0.25% Week 1.78% Year 92.76%
+You are staking 0.00 sv_FTM-fUSDT_spookyLP ($0.00), 0.00% of the pool.
+Stake 0.00 sv_FTM-fUSDT_spookyLP
+Unstake 0.00 sv_FTM-fUSDT_spookyLP
+Claim 0.00 SPOON ($0.00)
+Staking or unstaking also claims rewards.
+10 - Wrapped 
+[WFTM]-[DAI] SPOOKY LP
+ Price: $2.21 TVL: $1,575.85
+Staked: 532.2035 sv_FTM-DAI_spookyLP ($1,175.96)
+SPOON Per Week: 45161.29 ($33.60)
+APR: Day 0.41% Week 2.86% Year 148.56%
+You are staking 0.00 sv_FTM-DAI_spookyLP ($0.00), 0.00% of the pool.
+Stake 0.00 sv_FTM-DAI_spookyLP
+Unstake 0.00 sv_FTM-DAI_spookyLP
+Claim 0.00 SPOON ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $27,921.08

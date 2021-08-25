@@ -1,0 +1,686 @@
+INFO  : https://dogen.finance
+**********************************************************************************
+
+Mon Aug 23 2021 14:21:41 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 37 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[bDOGEN]-[BULLDOGE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $4,896.50
+bDOGEN Price: $0.0000003717
+BULLDOGE Price: $0.0000000010
+Staked: 1815865.9815 Cake-LP ($3,489.68)
+bDOGEN Per Week: 2687652.14 ($1.00)
+APR: Day 0.00% Week 0.03% Year 1.49%
+You are staking 0.00 [bDOGEN]-[BULLDOGE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bDOGEN]-[BULLDOGE] Cake LP
+Unstake 0.00 [bDOGEN]-[BULLDOGE] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WBNB]-[BULLDOGE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $68.04 TVL: $13,073.40
+WBNB Price: $483.89
+BULLDOGE Price: $0.0000000010
+Staked: 21.4878 Cake-LP ($1,462.04)
+bDOGEN Per Week: 268765.21 ($0.10)
+APR: Day 0.00% Week 0.01% Year 0.36%
+You are staking 0.00 [WBNB]-[BULLDOGE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BULLDOGE] Cake LP
+Unstake 0.00 [WBNB]-[BULLDOGE] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[bDOGEN]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $6,508.80
+bDOGEN Price: $0.0000003717
+WBNB Price: $483.89
+Staked: 74055.3373 Cake-LP ($2,097.69)
+bDOGEN Per Week: 2687652.14 ($1.00)
+APR: Day 0.01% Week 0.05% Year 2.48%
+You are staking 0.00 [bDOGEN]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bDOGEN]-[WBNB] Cake LP
+Unstake 0.00 [bDOGEN]-[WBNB] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[bDOGEN]-[POODL] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $567.76
+bDOGEN Price: $0.0000003717
+POODL Price: $0.0000000147
+Staked: 90359.0962 Cake-LP ($497.95)
+bDOGEN Per Week: 268765.21 ($0.10)
+APR: Day 0.00% Week 0.02% Year 1.04%
+You are staking 0.00 [bDOGEN]-[POODL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bDOGEN]-[POODL] Cake LP
+Unstake 0.00 [bDOGEN]-[POODL] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[bDOGEN]-[DOGE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $70.84 TVL: $705.42
+bDOGEN Price: $0.0000003717
+DOGE Price: $0.32
+Staked: 7.5451 Cake-LP ($534.50)
+bDOGEN Per Week: 268765.21 ($0.10)
+APR: Day 0.00% Week 0.02% Year 0.97%
+You are staking 0.00 [bDOGEN]-[DOGE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bDOGEN]-[DOGE] Cake LP
+Unstake 0.00 [bDOGEN]-[DOGE] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[bDOGEN]-[bPUP] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $265.14
+bDOGEN Price: $0.0000003717
+bPUP Price: $0.0000000006
+Staked: 5463291335.9649 Cake-LP ($159.52)
+bDOGEN Per Week: 268765.21 ($0.10)
+APR: Day 0.01% Week 0.06% Year 3.26%
+You are staking 0.00 [bDOGEN]-[bPUP] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bDOGEN]-[bPUP] Cake LP
+Unstake 0.00 [bDOGEN]-[bPUP] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[DOGE]-[BULLDOGE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $163,708.96 TVL: $673.61
+DOGE Price: $0.32
+BULLDOGE Price: $0.0000000010
+Staked: 0.0039 Cake-LP ($637.04)
+bDOGEN Per Week: 268765.21 ($0.10)
+APR: Day 0.00% Week 0.02% Year 0.82%
+You are staking 0.00 [DOGE]-[BULLDOGE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[BULLDOGE] Cake LP
+Unstake 0.00 [DOGE]-[BULLDOGE] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[SAFEMOON]-[BULLDOGE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $92.29 TVL: $338.05
+SAFEMOON Price: $0.0000014837
+BULLDOGE Price: $0.0000000010
+Staked: 3.2762 Cake-LP ($302.37)
+bDOGEN Per Week: 268765.21 ($0.10)
+APR: Day 0.00% Week 0.03% Year 1.72%
+You are staking 0.00 [SAFEMOON]-[BULLDOGE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SAFEMOON]-[BULLDOGE] Cake LP
+Unstake 0.00 [SAFEMOON]-[BULLDOGE] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[Cake-LP]-[Cake-LP] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.80 TVL: $9,521.44
+Cake-LP Price: $68.04
+Cake-LP Price: $0.03
+Staked: 816.5941 Cake-LP ($2,289.99)
+bDOGEN Per Week: 2687652.14 ($1.00)
+APR: Day 0.01% Week 0.04% Year 2.27%
+You are staking 0.00 [Cake-LP]-[Cake-LP] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake-LP]-[Cake-LP] Cake LP
+Unstake 0.00 [Cake-LP]-[Cake-LP] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[Cake-LP]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7.78 TVL: $0.91
+Cake-LP Price: $0.03
+WBNB Price: $483.89
+Staked: 0.0000 Cake-LP ($0.00)
+bDOGEN Per Week: 268765.21 ($0.10)
+APR: Day 26801158.87% Week 187608112.12% Year 9755621830.45%
+You are staking 0.00 [Cake-LP]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake-LP]-[WBNB] Cake LP
+Unstake 0.00 [Cake-LP]-[WBNB] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[Cake-LP]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $364.80 TVL: $6.94
+Cake-LP Price: $68.04
+WBNB Price: $483.89
+Staked: 0.0000 Cake-LP ($0.00)
+bDOGEN Per Week: 268765.21 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake-LP]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake-LP]-[WBNB] Cake LP
+Unstake 0.00 [Cake-LP]-[WBNB] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[Cake-LP]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $75.08 TVL: $2,657.00
+Cake-LP Price: $2.80
+WBNB Price: $483.89
+Staked: 5.5597 Cake-LP ($417.41)
+bDOGEN Per Week: 2687652.14 ($1.00)
+APR: Day 0.03% Week 0.24% Year 12.45%
+You are staking 0.00 [Cake-LP]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake-LP]-[WBNB] Cake LP
+Unstake 0.00 [Cake-LP]-[WBNB] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[bDOGEN]-[Cake-LP] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $917.81
+bDOGEN Price: $0.0000003717
+Cake-LP Price: $2.80
+Staked: 440793.8745 Cake-LP ($909.46)
+bDOGEN Per Week: 2687652.14 ($1.00)
+APR: Day 0.02% Week 0.11% Year 5.71%
+You are staking 0.00 [bDOGEN]-[Cake-LP] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bDOGEN]-[Cake-LP] Cake LP
+Unstake 0.00 [bDOGEN]-[Cake-LP] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[Cake-LP]-[BULLDOGE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.77 TVL: $4,503.01
+Cake-LP Price: $2.80
+BULLDOGE Price: $0.0000000010
+Staked: 868.3336 Cake-LP ($4,141.75)
+bDOGEN Per Week: 2687652.14 ($1.00)
+APR: Day 0.00% Week 0.02% Year 1.25%
+You are staking 0.00 [Cake-LP]-[BULLDOGE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake-LP]-[BULLDOGE] Cake LP
+Unstake 0.00 [Cake-LP]-[BULLDOGE] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[bDOGEN]-[Cake-LP] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $1,789.98
+bDOGEN Price: $0.0000003717
+Cake-LP Price: $0.001922
+Staked: 33436897.8696 Cake-LP ($1,789.77)
+bDOGEN Per Week: 2687652.14 ($1.00)
+APR: Day 0.01% Week 0.06% Year 2.90%
+You are staking 0.00 [bDOGEN]-[Cake-LP] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bDOGEN]-[Cake-LP] Cake LP
+Unstake 0.00 [bDOGEN]-[Cake-LP] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[POODL]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $182.74 TVL: $163,403.49
+POODL Price: $0.0000000147
+WBNB Price: $483.89
+Staked: 41.3917 Cake-LP ($7,564.03)
+bDOGEN Per Week: 63991.72 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.02%
+You are staking 0.00 [POODL]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [POODL]-[WBNB] Cake LP
+Unstake 0.00 [POODL]-[WBNB] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[POODL]-[BULLDOGE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $12.19 TVL: $181.31
+POODL Price: $0.0000000147
+BULLDOGE Price: $0.0000000010
+Staked: 9.4319 Cake-LP ($115.01)
+bDOGEN Per Week: 268765.21 ($0.10)
+APR: Day 0.01% Week 0.09% Year 4.52%
+You are staking 0.00 [POODL]-[BULLDOGE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [POODL]-[BULLDOGE] Cake LP
+Unstake 0.00 [POODL]-[BULLDOGE] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+bDOGEN
+ Price: $0.0000003717 Market Cap: $54,380.34 
+[%]
+Staked: 32581563768.8054 bDOGEN ($12,110.55)
+bDOGEN Per Week: 152.36 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 bDOGEN ($0.00), 0.00% of the pool.
+Stake 0.00 bDOGEN
+Unstake 0.00 bDOGEN
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+DOGE
+ Price: $0.32 Market Cap: $644,072,000.00 
+[%]
+Staked: 1381.0695 DOGE ($444.75)
+bDOGEN Per Week: 152.36 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DOGE ($0.00), 0.00% of the pool.
+Stake 0.00 DOGE
+Unstake 0.00 DOGE
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+BULLDOGE
+ Price: $0.0000000010 Market Cap: $99,382.79 
+[%]
+Staked: 3532789107945.8545 BULLDOGE ($3,510.98)
+bDOGEN Per Week: 268765.21 ($0.10)
+APR: Day 0.00% Week 0.00% Year 0.15%
+You are staking 0.00 BULLDOGE ($0.00), 0.00% of the pool.
+Stake 0.00 BULLDOGE
+Unstake 0.00 BULLDOGE
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+POODL
+ Price: $0.0000000147 Market Cap: $1,465,461.00 
+[%]
+Staked: 57609078285.1674 POODL ($844.24)
+bDOGEN Per Week: 152.36 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 POODL ($0.00), 0.00% of the pool.
+Stake 0.00 POODL
+Unstake 0.00 POODL
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[AUSSIE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $17.44 TVL: $32,026.26
+AUSSIE Price: $0.15
+WBNB Price: $483.89
+Staked: 1.8883 Cake-LP ($32.92)
+bDOGEN Per Week: 63991.72 ($0.02)
+APR: Day 0.01% Week 0.07% Year 3.76%
+You are staking 0.00 [AUSSIE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AUSSIE]-[WBNB] Cake LP
+Unstake 0.00 [AUSSIE]-[WBNB] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[AUSSIE]-[BULLDOGE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.96 TVL: $211.96
+AUSSIE Price: $0.15
+BULLDOGE Price: $0.0000000010
+Staked: 182.1895 Cake-LP ($174.91)
+bDOGEN Per Week: 268765.21 ($0.10)
+APR: Day 0.01% Week 0.06% Year 2.97%
+You are staking 0.00 [AUSSIE]-[BULLDOGE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AUSSIE]-[BULLDOGE] Cake LP
+Unstake 0.00 [AUSSIE]-[BULLDOGE] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[bDOGEN]-[AUSSIE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $279.12
+bDOGEN Price: $0.0000003717
+AUSSIE Price: $0.15
+Staked: 454516.1516 Cake-LP ($276.16)
+bDOGEN Per Week: 268765.21 ($0.10)
+APR: Day 0.01% Week 0.04% Year 1.88%
+You are staking 0.00 [bDOGEN]-[AUSSIE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bDOGEN]-[AUSSIE] Cake LP
+Unstake 0.00 [bDOGEN]-[AUSSIE] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[WBNB]-[FLOOFY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $3,759.82
+WBNB Price: $483.89
+FLOOFY Price: $0.0000000000
+Staked: 118132.5422 Cake-LP ($3,701.71)
+bDOGEN Per Week: 2687652.14 ($1.00)
+APR: Day 0.00% Week 0.03% Year 1.40%
+You are staking 0.00 [WBNB]-[FLOOFY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[FLOOFY] Cake LP
+Unstake 0.00 [WBNB]-[FLOOFY] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[bDOGEN]-[FLOOFY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $5,676.82
+bDOGEN Price: $0.0000003717
+FLOOFY Price: $0.0000000000
+Staked: 5846879531.5331 Cake-LP ($5,010.35)
+bDOGEN Per Week: 5375304.28 ($2.00)
+APR: Day 0.01% Week 0.04% Year 2.07%
+You are staking 0.00 [bDOGEN]-[FLOOFY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bDOGEN]-[FLOOFY] Cake LP
+Unstake 0.00 [bDOGEN]-[FLOOFY] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+[WBNB]-[VB-DOGEKILLER] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,755.43 TVL: $837.13
+WBNB Price: $483.89
+VB-DOGEKILLER Price: $0.003905
+Staked: 0.3036 Cake-LP ($836.54)
+bDOGEN Per Week: 63991.72 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.15%
+You are staking 0.00 [WBNB]-[VB-DOGEKILLER] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[VB-DOGEKILLER] Cake LP
+Unstake 0.00 [WBNB]-[VB-DOGEKILLER] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+dUSD
+ Price: $0.00 Market Cap: $0.00 
+Staked: 402.5121 dUSD ($0.00)
+bDOGEN Per Week: 639917.18 ($0.24)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 dUSD ($0.00), NaN% of the pool.
+Stake 0.00 dUSD
+Unstake 0.00 dUSD
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+[LAMBO]-[FLOOFY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.09 TVL: $11.58
+LAMBO Price: $0.004367
+FLOOFY Price: $0.0000000000
+Staked: 125.6950 Cake-LP ($11.58)
+bDOGEN Per Week: 127983.44 ($0.05)
+APR: Day 0.06% Week 0.41% Year 21.37%
+You are staking 0.00 [LAMBO]-[FLOOFY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LAMBO]-[FLOOFY] Cake LP
+Unstake 0.00 [LAMBO]-[FLOOFY] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+[VB-DOGEKILLER]-[FLOOFY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.09 TVL: $81.58
+VB-DOGEKILLER Price: $0.003905
+FLOOFY Price: $0.0000000000
+Staked: 933.6789 Cake-LP ($81.54)
+bDOGEN Per Week: 127983.44 ($0.05)
+APR: Day 0.01% Week 0.06% Year 3.03%
+You are staking 0.00 [VB-DOGEKILLER]-[FLOOFY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VB-DOGEKILLER]-[FLOOFY] Cake LP
+Unstake 0.00 [VB-DOGEKILLER]-[FLOOFY] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+[WOOFY]-[FLOOFY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.12 TVL: $50.57
+WOOFY Price: $0.007658
+FLOOFY Price: $0.0000000000
+Staked: 410.5768 Cake-LP ($50.41)
+bDOGEN Per Week: 268765.21 ($0.10)
+APR: Day 0.03% Week 0.20% Year 10.31%
+You are staking 0.00 [WOOFY]-[FLOOFY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WOOFY]-[FLOOFY] Cake LP
+Unstake 0.00 [WOOFY]-[FLOOFY] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+[WBNB]-[KaiInu] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $56.97 TVL: $401,054.85
+WBNB Price: $483.89
+KaiInu Price: $0.0000000015
+Staked: 8.3238 Cake-LP ($474.22)
+bDOGEN Per Week: 63991.72 ($0.02)
+APR: Day 0.00% Week 0.01% Year 0.26%
+You are staking 0.00 [WBNB]-[KaiInu] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[KaiInu] Cake LP
+Unstake 0.00 [WBNB]-[KaiInu] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+[KaiInu]-[FLOOFY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $57.45
+KaiInu Price: $0.0000000015
+FLOOFY Price: $0.0000000000
+Staked: 32148.4375 Cake-LP ($57.31)
+bDOGEN Per Week: 127983.44 ($0.05)
+APR: Day 0.01% Week 0.08% Year 4.32%
+You are staking 0.00 [KaiInu]-[FLOOFY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KaiInu]-[FLOOFY] Cake LP
+Unstake 0.00 [KaiInu]-[FLOOFY] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+33 - 
+[WBNB]-[WOOFY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,120.96 TVL: $104.90
+WBNB Price: $483.89
+WOOFY Price: $0.007658
+Staked: 0.0143 Cake-LP ($58.96)
+bDOGEN Per Week: 563127.12 ($0.21)
+APR: Day 0.05% Week 0.35% Year 18.46%
+You are staking 0.00 [WBNB]-[WOOFY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[WOOFY] Cake LP
+Unstake 0.00 [WBNB]-[WOOFY] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+34 - 
+[LAIKA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $198.64 TVL: $20,399.42
+LAIKA Price: $0.0000000039
+WBNB Price: $483.89
+Staked: 0.0569 Cake-LP ($11.30)
+bDOGEN Per Week: 63991.72 ($0.02)
+APR: Day 0.03% Week 0.21% Year 10.95%
+You are staking 0.00 [LAIKA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LAIKA]-[WBNB] Cake LP
+Unstake 0.00 [LAIKA]-[WBNB] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+35 - 
+[bDOGEN]-[LAIKA] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $24.27
+bDOGEN Price: $0.0000003717
+LAIKA Price: $0.0000000039
+Staked: 8209.6094 Cake-LP ($21.54)
+bDOGEN Per Week: 268765.21 ($0.10)
+APR: Day 0.07% Week 0.46% Year 24.12%
+You are staking 0.00 [bDOGEN]-[LAIKA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bDOGEN]-[LAIKA] Cake LP
+Unstake 0.00 [bDOGEN]-[LAIKA] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+36 - 
+[bDOGEN]-[dUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $1,268.52
+bDOGEN Price: $0.0000003717
+dUSD Price: $0.81
+Staked: 1118571.9606 Cake-LP ($1,232.27)
+bDOGEN Per Week: 40954699.31 ($15.22)
+APR: Day 0.18% Week 1.24% Year 64.24%
+You are staking 0.00 [bDOGEN]-[dUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bDOGEN]-[dUSD] Cake LP
+Unstake 0.00 [bDOGEN]-[dUSD] Cake LP
+Claim 0.00 bDOGEN ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $55,350.46

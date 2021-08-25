@@ -1,0 +1,146 @@
+INFO  : https://mordorswap.finance
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:37:16 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 7 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[MORDOR] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $481,863.98 TVL: $15.68
+USDC Price: $1.00
+MORDOR Price: $0.04
+Staked: 0.0000 UNI-V2 ($1.65)
+MORDOR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[MORDOR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[MORDOR] Uni LP
+Unstake 0.00 [USDC]-[MORDOR] Uni LP
+Claim 0.00 MORDOR ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[MORDOR] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.68 TVL: $1,267.73
+WMATIC Price: $1.65
+MORDOR Price: $0.04
+Staked: 97.9249 UNI-V2 ($66.22)
+MORDOR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[MORDOR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[MORDOR] Uni LP
+Unstake 0.00 [WMATIC]-[MORDOR] Uni LP
+Claim 0.00 MORDOR ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[MORDOR]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $471,798.08 TVL: $3.52
+MORDOR Price: $0.04
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+MORDOR Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [MORDOR]-[USDT] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [MORDOR]-[USDT] Uni LP
+Unstake 0.00 [MORDOR]-[USDT] Uni LP
+Claim 0.00 MORDOR ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[MORDOR]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.44 TVL: $0.15
+MORDOR Price: $0.04
+DAI Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+MORDOR Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [MORDOR]-[DAI] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [MORDOR]-[DAI] Uni LP
+Unstake 0.00 [MORDOR]-[DAI] Uni LP
+Claim 0.00 MORDOR ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[MORDOR]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $25.22 TVL: $0.33
+MORDOR Price: $0.04
+WETH Price: $3,322.24
+Staked: 0.0000 UNI-V2 ($0.00)
+MORDOR Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [MORDOR]-[WETH] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [MORDOR]-[WETH] Uni LP
+Unstake 0.00 [MORDOR]-[WETH] Uni LP
+Claim 0.00 MORDOR ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WBTC]-[MORDOR] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,100,187.31 TVL: $0.73
+WBTC Price: $50,158.00
+MORDOR Price: $0.04
+Staked: 0.0000 UNI-V2 ($0.34)
+MORDOR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBTC]-[MORDOR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[MORDOR] Uni LP
+Unstake 0.00 [WBTC]-[MORDOR] Uni LP
+Claim 0.00 MORDOR ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+MORDOR
+ Price: $0.04 Market Cap: $3,956.95 
+[%]
+Staked: 2296.8539 MORDOR ($86.92)
+MORDOR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 MORDOR ($0.00), 0.00% of the pool.
+Stake 0.00 MORDOR
+Unstake 0.00 MORDOR
+Claim 0.00 MORDOR ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $155.13

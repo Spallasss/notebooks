@@ -1,0 +1,50 @@
+INFO  : https://yel.finance
+********************************************************************************
+
+Mon Aug 23 2021 15:16:25 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 2 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+YEL
+ Price: $0.01 Market Cap: $545,590.60 
+[%]
+Staked: 14477367.8586 YEL ($186,401.07)
+YEL Per Week: 157342.66 ($2,025.84)
+APR: Day 0.16% Week 1.09% Year 56.51%
+You are staking 0.00 YEL ($0.00), 0.00% of the pool.
+Stake 0.00 YEL
+Unstake 0.00 YEL
+Claim 0.00 YEL ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WBNB]-[YEL] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.12 TVL: $336,746.42
+WBNB Price: $495.44
+YEL Price: $0.01
+Staked: 53458.6242 APE-LP ($273,882.74)
+YEL Per Week: 1573426.57 ($20,258.41)
+APR: Day 1.06% Week 7.40% Year 384.63%
+You are staking 0.00 [WBNB]-[YEL] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[YEL] APE LP
+Unstake 0.00 [WBNB]-[YEL] APE LP
+Claim 0.00 YEL ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $460,283.81

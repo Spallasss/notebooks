@@ -1,0 +1,13 @@
+INFO        : https://ftm.guru/LF/2002
+PLOT        : 2002
+ELITENESS   : User must hold 0.001337 ELITE
+DEPOSIT FEE : 2%
+*****************************************************************************
+
+Mon Aug 23 2021 13:31:03 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...

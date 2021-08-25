@@ -1,0 +1,87 @@
+INFO  : https://www.strangebrew.finance
+****************************************************************************************
+
+Mon Aug 23 2021 13:24:50 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 4 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+SBRW
+ Price: $0.004147 Market Cap: $58,053.30 
+Staked: 496847.3615 SBRW ($2,060.26)
+BEERMONEY Per Week: 3780000.00 ($14.19)
+APR: Day 0.10% Week 0.69% Year 35.81%
+You are staking 0.00 SBRW ($0.00), 0.00% of the pool.
+Stake 0.00 SBRW
+Unstake 0.00 SBRW
+Claim 0.00 BEERMONEY ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WFTM]-[SBRW] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.17 TVL: $1,543.93
+WFTM Price: $0.57
+SBRW Price: $0.004147
+Staked: 8174.6167 HLP ($1,399.53)
+BEERMONEY Per Week: 3780000.00 ($14.19)
+APR: Day 0.14% Week 1.01% Year 52.71%
+You are staking 0.00 [WFTM]-[SBRW] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SBRW] Uni LP
+Unstake 0.00 [WFTM]-[SBRW] Uni LP
+Claim 0.00 BEERMONEY ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[USDC]-[SBRW] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $130,452.12 TVL: $5,966.30
+USDC Price: $1.00
+SBRW Price: $0.004147
+Staked: 0.0076 HLP ($993.76)
+BEERMONEY Per Week: 3780000.00 ($14.19)
+APR: Day 0.20% Week 1.43% Year 74.23%
+You are staking 0.00 [USDC]-[SBRW] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[SBRW] Uni LP
+Unstake 0.00 [USDC]-[SBRW] Uni LP
+Claim 0.00 BEERMONEY ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WFTM]-[BEERMONEY] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $367.30
+WFTM Price: $0.57
+BEERMONEY Price: $0.0000037530
+Staked: 67609.2863 HLP ($200.77)
+BEERMONEY Per Week: 3780000.00 ($14.19)
+APR: Day 1.01% Week 7.07% Year 367.44%
+You are staking 0.00 [WFTM]-[BEERMONEY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BEERMONEY] Uni LP
+Unstake 0.00 [WFTM]-[BEERMONEY] Uni LP
+Claim 0.00 BEERMONEY ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $4,654.32

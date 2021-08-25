@@ -1,0 +1,661 @@
+INFO  : https://caramelswap.finance
+****************************************************************************************
+
+Mon Aug 23 2021 14:18:39 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 60 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+MATIC
+ Price: $1.64 Market Cap: $3,280,000,000.00 
+[%]
+Staked: 16853.4197 MATIC ($27,639.61)
+MEL Per Week: 10538.42 ($384.97)
+APR: Day 0.20% Week 1.39% Year 72.43%
+You are staking 0.00 MATIC ($0.00), 0.00% of the pool.
+Stake 0.00 MATIC - Fee 5%
+Unstake 0.00 MATIC
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+UNI
+ Price: $29.35 Market Cap: $108,595,000.00 
+[%]
+Staked: 416.5230 UNI ($12,224.95)
+MEL Per Week: 7376.89 ($269.48)
+APR: Day 0.31% Week 2.20% Year 114.62%
+You are staking 0.00 UNI ($0.00), 0.00% of the pool.
+Stake 0.00 UNI - Fee 5%
+Unstake 0.00 UNI
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+LTC
+ Price: $189.11 Market Cap: $112,520,450.00 
+[%]
+Staked: 187.7626 LTC ($35,507.79)
+MEL Per Week: 7376.89 ($269.48)
+APR: Day 0.11% Week 0.76% Year 39.46%
+You are staking 0.00 LTC ($0.00), 0.00% of the pool.
+Stake 0.00 LTC - Fee 5%
+Unstake 0.00 LTC
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+TRX
+ Price: $0.09 Market Cap: $290,751,680.00 
+[%]
+Staked: 316997.8646 TRX ($28,534.88)
+MEL Per Week: 5269.21 ($192.48)
+APR: Day 0.10% Week 0.67% Year 35.08%
+You are staking 0.00 TRX ($0.00), 0.00% of the pool.
+Stake 0.00 TRX - Fee 5%
+Unstake 0.00 TRX
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+ATOM
+ Price: $22.09 Market Cap: $37,553,000.00 
+[%]
+Staked: 1324.9542 ATOM ($29,268.24)
+MEL Per Week: 9484.58 ($346.47)
+APR: Day 0.17% Week 1.18% Year 61.56%
+You are staking 0.00 ATOM ($0.00), 0.00% of the pool.
+Stake 0.00 ATOM - Fee 5%
+Unstake 0.00 ATOM
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+BCH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 23.3207 BCH ($0.00)
+MEL Per Week: 7376.89 ($269.48)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BCH ($0.00), NaN% of the pool.
+Stake 0.00 BCH - Fee 5%
+Unstake 0.00 BCH
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+XRP
+ Price: $1.25 Market Cap: $271,250,000.00 
+[%]
+Staked: 21220.4945 XRP ($26,525.62)
+MEL Per Week: 10538.42 ($384.97)
+APR: Day 0.21% Week 1.45% Year 75.47%
+You are staking 0.00 XRP ($0.00), 0.00% of the pool.
+Stake 0.00 XRP - Fee 5%
+Unstake 0.00 XRP
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+1INCH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 5732.8082 1INCH ($0.00)
+MEL Per Week: 7376.89 ($269.48)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 1INCH ($0.00), NaN% of the pool.
+Stake 0.00 1INCH - Fee 5%
+Unstake 0.00 1INCH
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+REEF
+ Price: $0.03 Market Cap: $198,881,286.28 
+[%]
+Staked: 3503432.4523 REEF ($88,537.90)
+MEL Per Week: 13699.95 ($500.46)
+APR: Day 0.08% Week 0.57% Year 29.39%
+You are staking 0.00 REEF ($0.00), 0.00% of the pool.
+Stake 0.00 REEF - Fee 5%
+Unstake 0.00 REEF
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+DOGE
+ Price: $0.32 Market Cap: $643,208,000.00 
+[%]
+Staked: 155508.0814 DOGE ($50,012.02)
+MEL Per Week: 10538.42 ($384.97)
+APR: Day 0.11% Week 0.77% Year 40.03%
+You are staking 0.00 DOGE ($0.00), 0.00% of the pool.
+Stake 0.00 DOGE - Fee 5%
+Unstake 0.00 DOGE
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+ADA
+ Price: $2.83 Market Cap: $792,400,000.00 
+[%]
+Staked: 79608.1835 ADA ($225,291.16)
+MEL Per Week: 21076.84 ($769.93)
+APR: Day 0.05% Week 0.34% Year 17.77%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 5%
+Unstake 0.00 ADA
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+ZEFI
+ Price: $0.25 Market Cap: $1,354,434.09 
+[%]
+Staked: 24139.5985 ZEFI ($6,107.51)
+MEL Per Week: 5269.21 ($192.48)
+APR: Day 0.45% Week 3.15% Year 163.88%
+You are staking 0.00 ZEFI ($0.00), 0.00% of the pool.
+Stake 0.00 ZEFI - Fee 5%
+Unstake 0.00 ZEFI
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+JUV
+ Price: $0.00 Market Cap: $0.00 
+Staked: 62.0700 JUV ($0.00)
+MEL Per Week: 3161.53 ($115.49)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 JUV ($0.00), NaN% of the pool.
+Stake 0.00 JUV - Fee 5%
+Unstake 0.00 JUV
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+PSG
+ Price: $0.00 Market Cap: $0.00 
+Staked: 59.3800 PSG ($0.00)
+MEL Per Week: 3161.53 ($115.49)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 PSG ($0.00), NaN% of the pool.
+Stake 0.00 PSG - Fee 5%
+Unstake 0.00 PSG
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[WBNB]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $44.95 TVL: $37,785.45
+WBNB Price: $484.02
+BUSD Price: $1.00
+Staked: 772.8825 MEL LP ($34,744.23)
+MEL Per Week: 17915.32 ($654.44)
+APR: Day 0.27% Week 1.88% Year 97.95%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP - Fee 5%
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[BTCB]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9,858.18 TVL: $15,765.68
+BTCB Price: $50,135.00
+WBNB Price: $484.02
+Staked: 1.4960 MEL LP ($14,747.61)
+MEL Per Week: 10538.42 ($384.97)
+APR: Day 0.37% Week 2.61% Year 135.74%
+You are staking 0.00 [BTCB]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Uni LP - Fee 5%
+Unstake 0.00 [BTCB]-[WBNB] Uni LP
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[Cake]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $220.39 TVL: $61,048.60
+Cake Price: $24.97
+WBNB Price: $484.02
+Staked: 274.5534 MEL LP ($60,508.40)
+MEL Per Week: 18969.16 ($692.94)
+APR: Day 0.16% Week 1.15% Year 59.55%
+You are staking 0.00 [Cake]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Uni LP - Fee 5%
+Unstake 0.00 [Cake]-[WBNB] Uni LP
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[DOT]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $233.26 TVL: $20,825.80
+DOT Price: $27.99
+WBNB Price: $484.02
+Staked: 88.5204 MEL LP ($20,648.51)
+MEL Per Week: 10538.42 ($384.97)
+APR: Day 0.27% Week 1.86% Year 96.95%
+You are staking 0.00 [DOT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Uni LP - Fee 5%
+Unstake 0.00 [DOT]-[WBNB] Uni LP
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[ETH]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,546.52 TVL: $26,615.75
+ETH Price: $3,323.07
+WBNB Price: $484.02
+Staked: 10.3032 MEL LP ($26,237.31)
+MEL Per Week: 10538.42 ($384.97)
+APR: Day 0.21% Week 1.47% Year 76.30%
+You are staking 0.00 [ETH]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Uni LP - Fee 5%
+Unstake 0.00 [ETH]-[WBNB] Uni LP
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[USDC]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $42,243.69
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 20966.3923 MEL LP ($41,896.06)
+MEL Per Week: 15807.63 ($577.45)
+APR: Day 0.20% Week 1.38% Year 71.67%
+You are staking 0.00 [USDC]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Uni LP - Fee 5%
+Unstake 0.00 [USDC]-[BUSD] Uni LP
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+[USDT]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.01 TVL: $62,140.15
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 29964.1271 MEL LP ($60,282.63)
+MEL Per Week: 15807.63 ($577.45)
+APR: Day 0.14% Week 0.96% Year 49.81%
+You are staking 0.00 [USDT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Uni LP - Fee 5%
+Unstake 0.00 [USDT]-[BUSD] Uni LP
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+[DAI]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.01 TVL: $42,864.03
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 21121.9328 MEL LP ($42,417.40)
+MEL Per Week: 15807.63 ($577.45)
+APR: Day 0.19% Week 1.36% Year 70.79%
+You are staking 0.00 [DAI]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Uni LP - Fee 5%
+Unstake 0.00 [DAI]-[BUSD] Uni LP
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+[MEL]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9.28 TVL: $348,072.47
+MEL Price: $0.04
+WBNB Price: $484.02
+Staked: 36541.0747 MEL LP ($339,175.28)
+MEL Per Week: 526921.07 ($19,248.31)
+APR: Day 0.81% Week 5.68% Year 295.10%
+You are staking 0.00 [MEL]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MEL]-[WBNB] Uni LP
+Unstake 0.00 [MEL]-[WBNB] Uni LP
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+[ETH]-[MEL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $23.93 TVL: $44,062.27
+ETH Price: $3,323.07
+MEL Price: $0.04
+Staked: 1823.2004 MEL LP ($43,623.20)
+MEL Per Week: 84307.37 ($3,079.73)
+APR: Day 1.01% Week 7.06% Year 367.11%
+You are staking 0.00 [ETH]-[MEL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[MEL] Uni LP
+Unstake 0.00 [ETH]-[MEL] Uni LP
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+[BTCB]-[MEL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $91.39 TVL: $26,441.34
+BTCB Price: $50,135.00
+MEL Price: $0.04
+Staked: 287.1820 MEL LP ($26,245.91)
+MEL Per Week: 52692.11 ($1,924.83)
+APR: Day 1.05% Week 7.33% Year 381.36%
+You are staking 0.00 [BTCB]-[MEL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[MEL] Uni LP
+Unstake 0.00 [BTCB]-[MEL] Uni LP
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+[Cake]-[MEL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.11 TVL: $87,075.79
+Cake Price: $24.97
+MEL Price: $0.04
+Staked: 40894.1728 MEL LP ($86,369.49)
+MEL Per Week: 168614.74 ($6,159.46)
+APR: Day 1.02% Week 7.13% Year 370.84%
+You are staking 0.00 [Cake]-[MEL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[MEL] Uni LP
+Unstake 0.00 [Cake]-[MEL] Uni LP
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+[MEL]-[DOGE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $23,820.53 TVL: $14,547.97
+MEL Price: $0.04
+DOGE Price: $0.32
+Staked: 0.5629 MEL LP ($13,408.95)
+MEL Per Week: 21076.84 ($769.93)
+APR: Day 0.82% Week 5.74% Year 298.58%
+You are staking 0.00 [MEL]-[DOGE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MEL]-[DOGE] Uni LP
+Unstake 0.00 [MEL]-[DOGE] Uni LP
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+33 - 
+[DAI]-[MEL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.43 TVL: $93,951.56
+DAI Price: $1.00
+MEL Price: $0.04
+Staked: 217940.0046 MEL LP ($93,517.21)
+MEL Per Week: 147537.90 ($5,389.53)
+APR: Day 0.82% Week 5.76% Year 299.68%
+You are staking 0.00 [DAI]-[MEL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[MEL] Uni LP
+Unstake 0.00 [DAI]-[MEL] Uni LP
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+36 - 
+MEL
+ Price: $0.04 Market Cap: $952,192.21 
+[%]
+Staked: 6594383.1576 MEL ($240,891.40)
+MEL Per Week: 158076.32 ($5,774.49)
+APR: Day 0.34% Week 2.40% Year 124.65%
+You are staking 0.00 MEL ($0.00), 0.00% of the pool.
+Stake 0.00 MEL
+Unstake 0.00 MEL
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+37 - 
+[MEL]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.45 TVL: $123,181.24
+MEL Price: $0.04
+BUSD Price: $1.00
+Staked: 270773.2492 MEL LP ($120,627.86)
+MEL Per Week: 200230.01 ($7,314.36)
+APR: Day 0.87% Week 6.06% Year 315.31%
+You are staking 0.00 [MEL]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MEL]-[BUSD] Uni LP
+Unstake 0.00 [MEL]-[BUSD] Uni LP
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+39 - 
+USDT
+ Price: $1.00 Market Cap: $3,377,097,883.96 
+[%]
+Staked: 49396.7695 USDT ($49,354.39)
+MEL Per Week: 10538.42 ($384.97)
+APR: Day 0.11% Week 0.78% Year 40.56%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 5%
+Unstake 0.00 USDT
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+40 - 
+Cake
+ Price: $24.97 Market Cap: $10,390,537,829.49 
+[%]
+Staked: 2711.7264 Cake ($67,711.81)
+MEL Per Week: 26346.05 ($962.42)
+APR: Day 0.20% Week 1.42% Year 73.91%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 5%
+Unstake 0.00 Cake
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+41 - 
+[ADA]-[MEL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.69 TVL: $54,938.02
+ADA Price: $2.83
+MEL Price: $0.04
+Staked: 79207.2733 MEL LP ($54,678.42)
+MEL Per Week: 94845.79 ($3,464.70)
+APR: Day 0.91% Week 6.34% Year 329.50%
+You are staking 0.00 [ADA]-[MEL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[MEL] Uni LP
+Unstake 0.00 [ADA]-[MEL] Uni LP
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+42 - 
+[MEL]-[LINK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.21 TVL: $23,527.76
+MEL Price: $0.04
+LINK Price: $28.75
+Staked: 9304.1996 MEL LP ($20,606.49)
+MEL Per Week: 42153.69 ($1,539.87)
+APR: Day 1.07% Week 7.47% Year 388.58%
+You are staking 0.00 [MEL]-[LINK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MEL]-[LINK] Uni LP
+Unstake 0.00 [MEL]-[LINK] Uni LP
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+43 - 
+ETH
+ Price: $3,323.07 Market Cap: $4,336,606,350.00 
+[%]
+Staked: 46.3109 ETH ($153,894.43)
+MEL Per Week: 36884.47 ($1,347.38)
+APR: Day 0.13% Week 0.88% Year 45.53%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 5%
+Unstake 0.00 ETH
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+44 - 
+WBNB
+ Price: $484.02 Market Cap: $3,430,332,053.33 
+[%]
+Staked: 428.7328 WBNB ($207,515.23)
+MEL Per Week: 36884.47 ($1,347.38)
+APR: Day 0.09% Week 0.65% Year 33.76%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 5%
+Unstake 0.00 WBNB
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+53 - 
+[Cake]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10.00 TVL: $9,246.89
+Cake Price: $24.97
+BUSD Price: $1.00
+Staked: 921.1891 MEL LP ($9,208.27)
+MEL Per Week: 7376.89 ($269.48)
+APR: Day 0.42% Week 2.93% Year 152.18%
+You are staking 0.00 [Cake]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Uni LP - Fee 5%
+Unstake 0.00 [Cake]-[BUSD] Uni LP
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+55 - 
+[USDT]-[MEL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.42 TVL: $36,911.96
+USDT Price: $1.00
+MEL Price: $0.04
+Staked: 87454.6974 MEL LP ($36,606.16)
+MEL Per Week: 68499.74 ($2,502.28)
+APR: Day 0.98% Week 6.84% Year 355.46%
+You are staking 0.00 [USDT]-[MEL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[MEL] Uni LP
+Unstake 0.00 [USDT]-[MEL] Uni LP
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+56 - 
+[MEL]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.41 TVL: $16,070.74
+MEL Price: $0.04
+USDC Price: $1.00
+Staked: 39494.4172 MEL LP ($16,038.82)
+MEL Per Week: 31615.26 ($1,154.90)
+APR: Day 1.03% Week 7.20% Year 374.43%
+You are staking 0.00 [MEL]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MEL]-[USDC] Uni LP
+Unstake 0.00 [MEL]-[USDC] Uni LP
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+57 - 
+[MEL]-[AAVE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8.05 TVL: $16,751.19
+MEL Price: $0.04
+AAVE Price: $407.39
+Staked: 2049.8825 MEL LP ($16,492.60)
+MEL Per Week: 31615.26 ($1,154.90)
+APR: Day 1.00% Week 7.00% Year 364.13%
+You are staking 0.00 [MEL]-[AAVE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MEL]-[AAVE] Uni LP
+Unstake 0.00 [MEL]-[AAVE] Uni LP
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+58 - 
+[AXS]-[MEL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.60 TVL: $18,803.62
+AXS Price: $78.77
+MEL Price: $0.04
+Staked: 5076.8766 MEL LP ($18,284.78)
+MEL Per Week: 31615.26 ($1,154.90)
+APR: Day 0.90% Week 6.32% Year 328.44%
+You are staking 0.00 [AXS]-[MEL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AXS]-[MEL] Uni LP
+Unstake 0.00 [AXS]-[MEL] Uni LP
+Claim 0.00 MEL ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $2,445,382.53

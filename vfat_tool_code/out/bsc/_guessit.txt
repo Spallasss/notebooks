@@ -1,0 +1,67 @@
+INFO  : https://guessit.app
+*********************************************************************************
+
+Mon Aug 23 2021 14:39:55 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 17 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+2 - 
+[WBNB]-[GSSIT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.05 TVL: $1,764.62
+WBNB Price: $484.17
+GSSIT Price: $0.0000014812
+Staked: 224.3133 Cake-LP ($12.24)
+GSSIT Per Week: 345600000.00 ($511.91)
+APR: Day 597.59% Week 4183.15% Year 217523.67%
+You are staking 0.00 [WBNB]-[GSSIT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[GSSIT] Cake LP
+Unstake 0.00 [WBNB]-[GSSIT] Cake LP
+Claim 0.00 GSSIT ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[GSSIT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $1,572.40
+GSSIT Price: $0.0000014812
+BUSD Price: $1.00
+Staked: 33210.0298 Cake-LP ($81.95)
+GSSIT Per Week: 172800000.00 ($255.95)
+APR: Day 44.62% Week 312.31% Year 16240.26%
+You are staking 0.00 [GSSIT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GSSIT]-[BUSD] Cake LP
+Unstake 0.00 [GSSIT]-[BUSD] Cake LP
+Claim 0.00 GSSIT ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+GSSIT
+ Price: $0.0000014812 Market Cap: $2,772.78 
+[%]
+Staked: 66551675.4808 GSSIT ($98.58)
+GSSIT Per Week: 86400000.00 ($127.98)
+APR: Day 18.55% Week 129.82% Year 6750.84%
+You are staking 0.00 GSSIT ($0.00), 0.00% of the pool.
+Stake 0.00 GSSIT
+Unstake 0.00 GSSIT
+Claim 0.00 GSSIT ($0.00)
+Staking or unstaking also claims rewards.

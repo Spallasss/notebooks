@@ -1,0 +1,412 @@
+INFO  : https://papa.smurf.money
+*******************************************************************************
+
+Mon Aug 23 2021 09:29:54 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 23 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[PAPAS]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.11 TVL: $104.98
+PAPAS Price: $0.002093
+BUSD Price: $1.00
+Staked: 443.7535 Cake-LP ($49.58)
+PAPAS Per Week: 1194.67 ($2.50)
+APR: Day 0.72% Week 5.04% Year 262.25%
+You are staking 0.00 [PAPAS]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PAPAS]-[BUSD] Cake LP
+Unstake 0.00 [PAPAS]-[BUSD] Cake LP
+Claim 0.00 PAPAS ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[PAPAS]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.63 TVL: $201.60
+PAPAS Price: $0.002093
+WBNB Price: $487.99
+Staked: 76.3143 Cake-LP ($200.47)
+PAPAS Per Week: 1095.11 ($2.29)
+APR: Day 0.16% Week 1.14% Year 59.46%
+You are staking 0.00 [PAPAS]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PAPAS]-[WBNB] Cake LP
+Unstake 0.00 [PAPAS]-[WBNB] Cake LP
+Claim 0.00 PAPAS ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+PAPAS
+ Price: $0.002093 Market Cap: $822.41 
+[%]
+Staked: 112158.9577 PAPAS ($234.77)
+PAPAS Per Week: 746.67 ($1.56)
+APR: Day 0.10% Week 0.67% Year 34.62%
+You are staking 0.00 PAPAS ($0.00), 0.00% of the pool.
+Stake 0.00 PAPAS - Fee 1%
+Unstake 0.00 PAPAS
+Claim 0.00 PAPAS ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+SMURF
+ Price: $0.00 Market Cap: $0.00 
+Staked: 51.4593 SMURF ($0.00)
+PAPAS Per Week: 373.33 ($0.78)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SMURF ($0.00), NaN% of the pool.
+Stake 0.00 SMURF - Fee 1.5%
+Unstake 0.00 SMURF
+Claim 0.00 PAPAS ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+bSMURF
+ Price: $0.00 Market Cap: $0.00 
+Staked: 37542.8473 bSMURF ($0.00)
+PAPAS Per Week: 373.33 ($0.78)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 bSMURF ($0.00), NaN% of the pool.
+Stake 0.00 bSMURF - Fee 1.5%
+Unstake 0.00 bSMURF
+Claim 0.00 PAPAS ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[SMURF]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $1,118.00
+SMURF Price: $0.88
+BUSD Price: $1.00
+Staked: 4.9250 Cake-LP ($10.12)
+PAPAS Per Week: 497.78 ($1.04)
+APR: Day 1.47% Week 10.30% Year 535.40%
+You are staking 0.00 [SMURF]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SMURF]-[BUSD] Cake LP - Fee 1.5%
+Unstake 0.00 [SMURF]-[BUSD] Cake LP
+Claim 0.00 PAPAS ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[SMURF]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $44.45 TVL: $956.24
+SMURF Price: $0.88
+WBNB Price: $487.99
+Staked: 0.1772 Cake-LP ($7.88)
+PAPAS Per Week: 497.78 ($1.04)
+APR: Day 1.89% Week 13.23% Year 687.77%
+You are staking 0.00 [SMURF]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SMURF]-[WBNB] Cake LP - Fee 1.5%
+Unstake 0.00 [SMURF]-[WBNB] Cake LP
+Claim 0.00 PAPAS ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[bSMURF]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.08 TVL: $89.98
+bSMURF Price: $0.001119
+BUSD Price: $1.00
+Staked: 135.1199 Cake-LP ($10.59)
+PAPAS Per Week: 497.78 ($1.04)
+APR: Day 1.41% Week 9.84% Year 511.63%
+You are staking 0.00 [bSMURF]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bSMURF]-[BUSD] Cake LP - Fee 1.5%
+Unstake 0.00 [bSMURF]-[BUSD] Cake LP
+Claim 0.00 PAPAS ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[WBNB]-[bSMURF] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.73 TVL: $53.85
+WBNB Price: $487.99
+bSMURF Price: $0.001119
+Staked: 8.5035 Cake-LP ($14.74)
+PAPAS Per Week: 497.78 ($1.04)
+APR: Day 1.01% Week 7.07% Year 367.58%
+You are staking 0.00 [WBNB]-[bSMURF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[bSMURF] Cake LP - Fee 1.5%
+Unstake 0.00 [WBNB]-[bSMURF] Cake LP
+Claim 0.00 PAPAS ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.94 TVL: $528,998,565.12
+WBNB Price: $487.99
+BUSD Price: $1.00
+Staked: 0.0369 Cake-LP ($1.84)
+PAPAS Per Week: 124.44 ($0.26)
+APR: Day 2.02% Week 14.15% Year 735.80%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 PAPAS ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,242.50 TVL: $174,394,269.27
+BTCB Price: $49,844.00
+WBNB Price: $487.99
+Staked: 0.0069 Cake-LP ($70.95)
+PAPAS Per Week: 99.56 ($0.21)
+APR: Day 0.04% Week 0.29% Year 15.27%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 PAPAS ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,664.19 TVL: $262,955,572.27
+ETH Price: $3,334.27
+WBNB Price: $487.99
+Staked: 0.0006 Cake-LP ($1.53)
+PAPAS Per Week: 99.56 ($0.21)
+APR: Day 1.94% Week 13.58% Year 706.15%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 PAPAS ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,996,331.21
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 39.3320 Cake-LP ($80.97)
+PAPAS Per Week: 74.67 ($0.16)
+APR: Day 0.03% Week 0.19% Year 10.04%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 PAPAS ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.55 TVL: $47,032,606.24
+ADA Price: $2.83
+WBNB Price: $487.99
+Staked: 0.0480 Cake-LP ($3.72)
+PAPAS Per Week: 87.11 ($0.18)
+APR: Day 0.70% Week 4.90% Year 254.72%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 PAPAS ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[WBNB]-[UNI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $244.11 TVL: $34,050,830.13
+WBNB Price: $487.99
+UNI Price: $29.39
+Staked: 0.0103 Cake-LP ($2.52)
+PAPAS Per Week: 87.11 ($0.18)
+APR: Day 1.03% Week 7.23% Year 375.79%
+You are staking 0.00 [WBNB]-[UNI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[UNI] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[UNI] Cake LP
+Claim 0.00 PAPAS ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+BUSD
+ Price: $1.00 Market Cap: $4,196,932,832.58 
+[%]
+Staked: 33.3338 BUSD ($33.30)
+PAPAS Per Week: 99.56 ($0.21)
+APR: Day 0.09% Week 0.63% Year 32.54%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 PAPAS ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+WBNB
+ Price: $487.99 Market Cap: $3,446,782,805.47 
+[%]
+Staked: 0.0048 WBNB ($2.34)
+PAPAS Per Week: 99.56 ($0.21)
+APR: Day 1.27% Week 8.90% Year 462.63%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 PAPAS ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+ETH
+ Price: $3,334.27 Market Cap: $4,351,222,350.00 
+[%]
+Staked: 0.0083 ETH ($27.80)
+PAPAS Per Week: 99.56 ($0.21)
+APR: Day 0.11% Week 0.75% Year 38.98%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 PAPAS ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[SMURF]-[PAPAS] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.10 TVL: $9.82
+SMURF Price: $0.88
+PAPAS Price: $0.002093
+Staked: 39.1533 Cake-LP ($3.77)
+PAPAS Per Week: 995.56 ($2.08)
+APR: Day 7.89% Week 55.24% Year 2872.27%
+You are staking 0.00 [SMURF]-[PAPAS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SMURF]-[PAPAS] Cake LP
+Unstake 0.00 [SMURF]-[PAPAS] Cake LP
+Claim 0.00 PAPAS ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[ETH]-[PAPAS] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.99 TVL: $1.47
+ETH Price: $3,334.27
+PAPAS Price: $0.002093
+Staked: 0.2442 Cake-LP ($1.46)
+PAPAS Per Week: 995.56 ($2.08)
+APR: Day 20.34% Week 142.36% Year 7402.85%
+You are staking 0.00 [ETH]-[PAPAS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[PAPAS] Cake LP
+Unstake 0.00 [ETH]-[PAPAS] Cake LP
+Claim 0.00 PAPAS ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[PAPAS]-[RBT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $2.36
+PAPAS Price: $0.002093
+RBT Price: $0.007325
+Staked: 256.3594 Cake-LP ($2.22)
+PAPAS Per Week: 871.11 ($1.82)
+APR: Day 11.75% Week 82.26% Year 4277.65%
+You are staking 0.00 [PAPAS]-[RBT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PAPAS]-[RBT] Cake LP - Fee 1%
+Unstake 0.00 [PAPAS]-[RBT] Cake LP
+Claim 0.00 PAPAS ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[SMURF]-[TSB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6.20 TVL: $36.86
+SMURF Price: $0.88
+TSB Price: $10.21
+Staked: 4.4542 Cake-LP ($27.60)
+PAPAS Per Week: 497.78 ($1.04)
+APR: Day 0.54% Week 3.78% Year 196.32%
+You are staking 0.00 [SMURF]-[TSB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SMURF]-[TSB] Cake LP - Fee 1.5%
+Unstake 0.00 [SMURF]-[TSB] Cake LP
+Claim 0.00 PAPAS ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,299,463.73
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.4800 Cake-LP ($0.98)
+PAPAS Per Week: 74.67 ($0.16)
+APR: Day 2.27% Week 15.91% Year 827.21%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 PAPAS ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $789.17

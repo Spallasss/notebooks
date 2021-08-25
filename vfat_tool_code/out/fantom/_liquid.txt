@@ -1,0 +1,374 @@
+INFO  : https://www.liquiddriver.finance
+*****************************************************************************************
+
+There is a 1% deposit fee on all LP farms
+
+Mon Aug 23 2021 13:19:12 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 21 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WFTM]-[YFI] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $307.30 TVL: $273,648.12
+WFTM Price: $0.56
+YFI Price: $40,026.00
+Staked: 882.5157 SLP ($271,199.22)
+LQDR Per Week: 4233.60 ($2,794.58)
+APR: Day 0.15% Week 1.03% Year 53.58%
+You are staking 0.00 [WFTM]-[YFI] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[YFI] SLP - Fee 1%
+Unstake 0.00 [WFTM]-[YFI] SLP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WFTM]-[DAI] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.34 TVL: $177,730.26
+WFTM Price: $0.56
+DAI Price: $1.00
+Staked: 70213.5795 SLP ($164,519.52)
+LQDR Per Week: 4233.60 ($2,794.58)
+APR: Day 0.24% Week 1.70% Year 88.33%
+You are staking 0.00 [WFTM]-[DAI] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[DAI] SLP - Fee 1%
+Unstake 0.00 [WFTM]-[DAI] SLP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WFTM]-[LINK] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8.25 TVL: $185,799.66
+WFTM Price: $0.56
+LINK Price: $28.71
+Staked: 21604.3513 SLP ($178,221.42)
+LQDR Per Week: 4233.60 ($2,794.58)
+APR: Day 0.22% Week 1.57% Year 81.54%
+You are staking 0.00 [WFTM]-[LINK] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[LINK] SLP - Fee 1%
+Unstake 0.00 [WFTM]-[LINK] SLP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WFTM]-[ETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $91.43 TVL: $250,935.74
+WFTM Price: $0.56
+ETH Price: $3,318.79
+Staked: 2635.7949 SLP ($240,992.32)
+LQDR Per Week: 4233.60 ($2,794.58)
+APR: Day 0.17% Week 1.16% Year 60.30%
+You are staking 0.00 [WFTM]-[ETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] SLP - Fee 1%
+Unstake 0.00 [WFTM]-[ETH] SLP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[fUSDT]-[WFTM] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,837,445.42 TVL: $131,759.51
+fUSDT Price: $1.00
+WFTM Price: $0.56
+Staked: 0.0401 SLP ($113,778.85)
+LQDR Per Week: 4233.60 ($2,794.58)
+APR: Day 0.35% Week 2.46% Year 127.72%
+You are staking 0.00 [fUSDT]-[WFTM] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[WFTM] SLP - Fee 1%
+Unstake 0.00 [fUSDT]-[WFTM] SLP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WFTM]-[BTC] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $34,348,076.91 TVL: $173,445.69
+WFTM Price: $0.56
+BTC Price: $49,597.68
+Staked: 0.0048 SLP ($165,996.52)
+LQDR Per Week: 4233.60 ($2,794.58)
+APR: Day 0.24% Week 1.68% Year 87.54%
+You are staking 0.00 [WFTM]-[BTC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BTC] SLP - Fee 1%
+Unstake 0.00 [WFTM]-[BTC] SLP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[WFTM]-[SUSHI] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.78 TVL: $366,220.28
+WFTM Price: $0.56
+SUSHI Price: $13.81
+Staked: 61967.0935 SLP ($358,159.61)
+LQDR Per Week: 4233.60 ($2,794.58)
+APR: Day 0.11% Week 0.78% Year 40.57%
+You are staking 0.00 [WFTM]-[SUSHI] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SUSHI] SLP - Fee 1%
+Unstake 0.00 [WFTM]-[SUSHI] SLP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[WFTM]-[CREAM] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10.35 TVL: $54,975.48
+WFTM Price: $0.56
+CREAM Price: $0.000843
+Staked: 5121.2684 SLP ($53,006.82)
+LQDR Per Week: 3386.88 ($2,235.66)
+APR: Day 0.60% Week 4.22% Year 219.32%
+You are staking 0.00 [WFTM]-[CREAM] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[CREAM] SLP - Fee 1%
+Unstake 0.00 [WFTM]-[CREAM] SLP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[FXS]-[FRAX] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.61 TVL: $463,305.49
+FXS Price: $5.27
+FRAX Price: $1.00
+Staked: 14775.9131 SLP ($68,046.77)
+LQDR Per Week: 2540.16 ($1,676.75)
+APR: Day 0.35% Week 2.46% Year 128.13%
+You are staking 0.00 [FXS]-[FRAX] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [FXS]-[FRAX] SLP - Fee 1%
+Unstake 0.00 [FXS]-[FRAX] SLP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[USDC]-[AAVE] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $42,454,038.78 TVL: $53,286.31
+USDC Price: $1.00
+AAVE Price: $408.76
+Staked: 0.0012 SLP ($49,971.67)
+LQDR Per Week: 1693.44 ($1,117.83)
+APR: Day 0.32% Week 2.24% Year 116.32%
+You are staking 0.00 [USDC]-[AAVE] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[AAVE] SLP - Fee 1%
+Unstake 0.00 [USDC]-[AAVE] SLP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[WFTM]-[SNX] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.81 TVL: $147,191.82
+WFTM Price: $0.56
+SNX Price: $14.15
+Staked: 25157.0702 SLP ($146,134.01)
+LQDR Per Week: 1693.44 ($1,117.83)
+APR: Day 0.11% Week 0.76% Year 39.78%
+You are staking 0.00 [WFTM]-[SNX] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SNX] SLP - Fee 1%
+Unstake 0.00 [WFTM]-[SNX] SLP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[WFTM]-[ICE] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.25 TVL: $1,697,656.70
+WFTM Price: $0.56
+ICE Price: $1.82
+Staked: 27338.2948 SLP ($61,530.96)
+LQDR Per Week: 1693.44 ($1,117.83)
+APR: Day 0.26% Week 1.82% Year 94.47%
+You are staking 0.00 [WFTM]-[ICE] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ICE] SLP - Fee 1%
+Unstake 0.00 [WFTM]-[ICE] SLP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WFTM]-[COVER] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $27.46 TVL: $57,649.63
+WFTM Price: $0.56
+COVER Price: $325.72
+Staked: 2052.0528 SLP ($56,340.61)
+LQDR Per Week: 1693.44 ($1,117.83)
+APR: Day 0.28% Week 1.98% Year 103.17%
+You are staking 0.00 [WFTM]-[COVER] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[COVER] SLP - Fee 1%
+Unstake 0.00 [WFTM]-[COVER] SLP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[ZOO]-[WFTM] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $309,932,224.75 TVL: $206,700.46
+ZOO Price: $0.04
+WFTM Price: $0.56
+Staked: 0.0005 SLP ($153,112.20)
+LQDR Per Week: 1693.44 ($1,117.83)
+APR: Day 0.10% Week 0.73% Year 37.96%
+You are staking 0.00 [ZOO]-[WFTM] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZOO]-[WFTM] SLP - Fee 1%
+Unstake 0.00 [ZOO]-[WFTM] SLP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[CRV]-[WFTM] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.41 TVL: $52,590.39
+CRV Price: $2.41
+WFTM Price: $0.56
+Staked: 20797.1810 SLP ($50,044.05)
+LQDR Per Week: 846.72 ($558.92)
+APR: Day 0.16% Week 1.12% Year 58.08%
+You are staking 0.00 [CRV]-[WFTM] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRV]-[WFTM] SLP - Fee 1%
+Unstake 0.00 [CRV]-[WFTM] SLP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[fUSDT]-[FRAX] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,039,930.04 TVL: $95,266.21
+fUSDT Price: $1.00
+FRAX Price: $1.00
+Staked: 0.0441 SLP ($89,906.60)
+LQDR Per Week: 1693.44 ($1,117.83)
+APR: Day 0.18% Week 1.24% Year 64.65%
+You are staking 0.00 [fUSDT]-[FRAX] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[FRAX] SLP - Fee 1%
+Unstake 0.00 [fUSDT]-[FRAX] SLP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[fUSDT]-[LQDR] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,834,155.17 TVL: $137,097.47
+fUSDT Price: $1.00
+LQDR Price: $0.66
+Staked: 0.0713 SLP ($130,740.48)
+LQDR Per Week: 15240.96 ($10,060.48)
+APR: Day 1.10% Week 7.69% Year 400.14%
+You are staking 0.00 [fUSDT]-[LQDR] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[LQDR] SLP
+Unstake 0.00 [fUSDT]-[LQDR] SLP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[LQDR]-[WFTM] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.46 TVL: $318,813.72
+LQDR Price: $0.66
+WFTM Price: $0.56
+Staked: 213983.7278 SLP ($312,739.09)
+LQDR Per Week: 15240.96 ($10,060.48)
+APR: Day 0.46% Week 3.22% Year 167.28%
+You are staking 0.00 [LQDR]-[WFTM] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [LQDR]-[WFTM] SLP
+Unstake 0.00 [LQDR]-[WFTM] SLP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+NTOKEN
+ Price: $0.00 Market Cap: $0.00 
+Staked: 5219.2191 NTOKEN ($0.00)
+LQDR Per Week: 7620.48 ($5,030.24)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 NTOKEN ($0.00), NaN% of the pool.
+Stake 0.00 NTOKEN
+Unstake 0.00 NTOKEN
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $2,664,440.72

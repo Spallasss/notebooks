@@ -1,0 +1,305 @@
+INFO  : https://edenruby.farm
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:56:50 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 23 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WMATIC]-[RGEM] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7.92 TVL: $13,801.83
+WMATIC Price: $1.64
+RGEM Price: $7.75
+Staked: 690.7302 UNI-V2 ($5,467.53)
+RGEM Per Week: 640.00 ($4,957.07)
+APR: Day 12.95% Week 90.66% Year 4714.52%
+You are staking 0.00 [WMATIC]-[RGEM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[RGEM] Uni LP
+Unstake 0.00 [WMATIC]-[RGEM] Uni LP
+Claim 0.00 RGEM ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+RGEM
+ Price: $7.75 Market Cap: $15,066.66 
+[%]
+Staked: 838.7065 RGEM ($6,496.14)
+RGEM Per Week: 426.67 ($3,304.71)
+APR: Day 7.27% Week 50.87% Year 2645.34%
+You are staking 0.00 RGEM ($0.00), 0.00% of the pool.
+Stake 0.00 RGEM
+Unstake 0.00 RGEM
+Claim 0.00 RGEM ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+UTOPIA
+ Price: $0.00 Market Cap: $0.00 
+Staked: 2911.7118 UTOPIA ($0.00)
+RGEM Per Week: 8.53 ($66.09)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 UTOPIA ($0.00), NaN% of the pool.
+Stake 0.00 UTOPIA
+Unstake 0.00 UTOPIA
+Claim 0.00 RGEM ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[UTOPIA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,685,646.99 TVL: $5,281.39
+USDC Price: $1.00
+UTOPIA Price: $0.52
+Staked: 0.0014 UNI-V2 ($2,335.42)
+RGEM Per Week: 8.53 ($66.09)
+APR: Day 0.40% Week 2.83% Year 147.16%
+You are staking 0.00 [USDC]-[UTOPIA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[UTOPIA] Uni LP
+Unstake 0.00 [USDC]-[UTOPIA] Uni LP
+Claim 0.00 RGEM ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WMATIC]-[UTOPIA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.10 TVL: $5,646.89
+WMATIC Price: $1.64
+UTOPIA Price: $0.52
+Staked: 1102.3692 UNI-V2 ($2,310.22)
+RGEM Per Week: 8.53 ($66.09)
+APR: Day 0.41% Week 2.86% Year 148.77%
+You are staking 0.00 [WMATIC]-[UTOPIA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[UTOPIA] Uni LP
+Unstake 0.00 [WMATIC]-[UTOPIA] Uni LP
+Claim 0.00 RGEM ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+ELYSM
+ Price: $0.00 Market Cap: $0.00 
+Staked: 222884.1815 ELYSM ($0.00)
+RGEM Per Week: 8.53 ($66.09)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ELYSM ($0.00), NaN% of the pool.
+Stake 0.00 ELYSM
+Unstake 0.00 ELYSM
+Claim 0.00 RGEM ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[USDC]-[ELYSM] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $190,801.65 TVL: $5,830.74
+USDC Price: $1.00
+ELYSM Price: $0.008273
+Staked: 0.0056 DFYNLP ($1,076.15)
+RGEM Per Week: 8.53 ($66.09)
+APR: Day 0.88% Week 6.14% Year 319.37%
+You are staking 0.00 [USDC]-[ELYSM] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[ELYSM] DFYN LP
+Unstake 0.00 [USDC]-[ELYSM] DFYN LP
+Claim 0.00 RGEM ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WONSTER
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1999.6602 WONSTER ($0.00)
+RGEM Per Week: 8.53 ($66.09)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WONSTER ($0.00), NaN% of the pool.
+Stake 0.00 WONSTER
+Unstake 0.00 WONSTER
+Claim 0.00 RGEM ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[USDC]-[WONSTER] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,784,038.28 TVL: $3,401.02
+USDC Price: $1.00
+WONSTER Price: $1.74
+Staked: 0.0007 SLP ($2,069.69)
+RGEM Per Week: 8.53 ($66.09)
+APR: Day 0.46% Week 3.19% Year 166.06%
+You are staking 0.00 [USDC]-[WONSTER] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WONSTER] SLP
+Unstake 0.00 [USDC]-[WONSTER] SLP
+Claim 0.00 RGEM ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+xUSD
+ Price: $0.00 Market Cap: $0.00 
+Staked: 27977.8971 xUSD ($0.00)
+RGEM Per Week: 85.33 ($660.94)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 xUSD ($0.00), NaN% of the pool.
+Stake 0.00 xUSD - Fee 2%
+Unstake 0.00 xUSD
+Claim 0.00 RGEM ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[USDC]-[xUSD] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,110,116.99 TVL: $407,173.55
+USDC Price: $1.00
+xUSD Price: $1.07
+Staked: 0.0186 DFYNLP ($39,181.02)
+RGEM Per Week: 106.67 ($826.18)
+APR: Day 0.30% Week 2.11% Year 109.65%
+You are staking 0.00 [USDC]-[xUSD] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[xUSD] DFYN LP - Fee 2%
+Unstake 0.00 [USDC]-[xUSD] DFYN LP
+Claim 0.00 RGEM ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+RASP
+ Price: $0.00 Market Cap: $0.00 
+Staked: 98.5399 RASP ($0.00)
+RGEM Per Week: 0.21 ($1.65)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RASP ($0.00), NaN% of the pool.
+Stake 0.00 RASP - Fee 2%
+Unstake 0.00 RASP
+Claim 0.00 RGEM ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+BLUEBRY
+ Price: $0.00 Market Cap: $0.00 
+Staked: 109.9145 BLUEBRY ($0.00)
+RGEM Per Week: 0.21 ($1.65)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLUEBRY ($0.00), NaN% of the pool.
+Stake 0.00 BLUEBRY - Fee 2%
+Unstake 0.00 BLUEBRY
+Claim 0.00 RGEM ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+SUN
+ Price: $0.00 Market Cap: $0.00 
+Staked: 48.3355 SUN ($0.00)
+RGEM Per Week: 0.85 ($6.61)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SUN ($0.00), NaN% of the pool.
+Stake 0.00 SUN - Fee 2%
+Unstake 0.00 SUN
+Claim 0.00 RGEM ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+USDC
+ Price: $1.00 Market Cap: $1,042,583,358.78 
+[%]
+Staked: 12623.5258 USDC ($12,608.16)
+RGEM Per Week: 17.07 ($132.19)
+APR: Day 0.15% Week 1.05% Year 54.52%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 RGEM ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+WETH
+ Price: $3,320.98 Market Cap: $2,024,854,416.47 
+[%]
+Staked: 3.4730 WETH ($11,533.91)
+RGEM Per Week: 8.53 ($66.09)
+APR: Day 0.08% Week 0.57% Year 29.80%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 RGEM ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+DAI
+ Price: $1.00 Market Cap: $376,545,250.79 
+[%]
+Staked: 6232.4401 DAI ($6,225.73)
+RGEM Per Week: 17.07 ($132.19)
+APR: Day 0.30% Week 2.12% Year 110.41%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 RGEM ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+WBTC
+ Price: $50,003.00 Market Cap: $696,734,663.29 
+[%]
+Staked: 0.1152 WBTC ($5,760.35)
+RGEM Per Week: 8.53 ($66.09)
+APR: Day 0.16% Week 1.15% Year 59.66%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 RGEM ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+WMATIC
+ Price: $1.64 Market Cap: $603,154,837.19 
+[%]
+Staked: 3577.7317 WMATIC ($5,867.48)
+RGEM Per Week: 8.53 ($66.09)
+APR: Day 0.16% Week 1.13% Year 58.58%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 RGEM ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+SUNSET
+ Price: $0.00 Market Cap: $0.00 
+Staked: 3.9869 SUNSET ($0.00)
+RGEM Per Week: 0.85 ($6.61)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SUNSET ($0.00), NaN% of the pool.
+Stake 0.00 SUNSET - Fee 2%
+Unstake 0.00 SUNSET
+Claim 0.00 RGEM ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+ArableLands
+ Price: $0.00 Market Cap: $0.00 
+Staked: 11513436.4596 ArableLands ($0.00)
+RGEM Per Week: 59.73 ($462.66)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ArableLands ($0.00), NaN% of the pool.
+Stake 0.00 ArableLands - Fee 2%
+Unstake 0.00 ArableLands
+Claim 0.00 RGEM ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $100,931.80

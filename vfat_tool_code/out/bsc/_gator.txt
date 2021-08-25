@@ -1,0 +1,423 @@
+INFO  : https://gatorswap.xyz
+****************************************************************************************
+
+Mon Aug 23 2021 14:27:20 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 25 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.70 TVL: $527,079,057.00
+WBNB Price: $483.90
+BUSD Price: $1.00
+Staked: 49.5817 Cake-LP ($2,464.36)
+GATOR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 GATOR ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,210.63 TVL: $173,685,576.60
+BTCB Price: $49,954.00
+WBNB Price: $483.90
+Staked: 0.0063 Cake-LP ($64.76)
+GATOR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 GATOR ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,648.08 TVL: $261,394,389.54
+ETH Price: $3,322.06
+WBNB Price: $483.90
+Staked: 0.1592 Cake-LP ($421.65)
+GATOR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 GATOR ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,795,739.77
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.9600 Cake-LP ($1.97)
+GATOR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 GATOR ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $224.86 TVL: $1,029,177,151.37
+Cake Price: $24.99
+WBNB Price: $483.90
+Staked: 3.1801 Cake-LP ($715.09)
+GATOR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 GATOR ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+Gator
+ Price: $0.00 Market Cap: $0.00 
+Staked: 3065539.7787 Gator ($0.00)
+GATOR Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 Gator ($0.00), NaN% of the pool.
+Stake 0.00 Gator
+Unstake 0.00 Gator
+Claim 0.00 GATOR ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+BUSD
+ Price: $1.00 Market Cap: $4,192,979,692.14 
+[%]
+Staked: 1414.9015 BUSD ($1,412.20)
+GATOR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 GATOR ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WBNB
+ Price: $483.90 Market Cap: $3,428,873,700.16 
+[%]
+Staked: 54.4453 WBNB ($26,346.08)
+GATOR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 GATOR ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.0008 BTCB ($40.35)
+GATOR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 GATOR ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+ETH
+ Price: $3,322.06 Market Cap: $4,335,288,300.00 
+[%]
+Staked: 0.0005 ETH ($1.69)
+GATOR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 GATOR ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+Cake
+ Price: $24.99 Market Cap: $10,398,936,488.65 
+[%]
+Staked: 57.4461 Cake ($1,435.58)
+GATOR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 GATOR ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[Gator]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.24 TVL: $29,640.15
+Gator Price: $0.004835
+BUSD Price: $1.00
+Staked: 56462.3568 Cake-LP ($13,338.73)
+GATOR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [Gator]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Gator]-[BUSD] Cake LP
+Unstake 0.00 [Gator]-[BUSD] Cake LP
+Claim 0.00 GATOR ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[Gator]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.45 TVL: $70,804.96
+Gator Price: $0.004835
+WBNB Price: $483.90
+Staked: 768.4364 Cake-LP ($3,422.75)
+GATOR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [Gator]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Gator]-[WBNB] Cake LP
+Unstake 0.00 [Gator]-[WBNB] Cake LP
+Claim 0.00 GATOR ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $240.17 TVL: $82,579,748.40
+DOT Price: $27.96
+WBNB Price: $483.90
+Staked: 0.0032 Cake-LP ($0.77)
+GATOR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 GATOR ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[XRP]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.78 TVL: $38,887,731.51
+XRP Price: $1.25
+WBNB Price: $483.90
+Staked: 0.0000 Cake-LP ($0.00)
+GATOR Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [XRP]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [XRP]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [XRP]-[WBNB] Cake LP
+Claim 0.00 GATOR ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.09 TVL: $46,752,148.48
+ADA Price: $2.82
+WBNB Price: $483.90
+Staked: 0.0661 Cake-LP ($5.10)
+GATOR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 GATOR ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[WBNB]-[UNI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $243.03 TVL: $33,901,072.96
+WBNB Price: $483.90
+UNI Price: $29.38
+Staked: 0.0000 Cake-LP ($0.00)
+GATOR Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WBNB]-[UNI] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[UNI] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[UNI] Cake LP
+Claim 0.00 GATOR ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[USDT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.59 TVL: $251,811,460.59
+USDT Price: $1.00
+WBNB Price: $483.90
+Staked: 0.3734 Cake-LP ($18.89)
+GATOR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 GATOR ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[WBNB]-[LINK] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $240.85 TVL: $47,600,524.95
+WBNB Price: $483.90
+LINK Price: $28.71
+Staked: 0.0000 Cake-LP ($0.00)
+GATOR Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WBNB]-[LINK] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[LINK] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[LINK] Cake LP
+Claim 0.00 GATOR ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+BUNNY
+ Price: $7.78 Market Cap: $86,395,064.34 
+[%]
+Staked: 2.1114 BUNNY ($16.43)
+GATOR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BUNNY ($0.00), 0.00% of the pool.
+Stake 0.00 BUNNY - Fee 4%
+Unstake 0.00 BUNNY
+Claim 0.00 GATOR ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+BAKE
+ Price: $3.14 Market Cap: $2,289,775,455.08 
+[%]
+Staked: 24.2874 BAKE ($76.26)
+GATOR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BAKE ($0.00), 0.00% of the pool.
+Stake 0.00 BAKE - Fee 4%
+Unstake 0.00 BAKE
+Claim 0.00 GATOR ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+XRP
+ Price: $1.25 Market Cap: $271,250,000.00 
+[%]
+Staked: 0.1993 XRP ($0.25)
+GATOR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 XRP ($0.00), 0.00% of the pool.
+Stake 0.00 XRP - Fee 4%
+Unstake 0.00 XRP
+Claim 0.00 GATOR ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[TRX]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13.49 TVL: $17,770,776.15
+TRX Price: $0.09
+WBNB Price: $483.90
+Staked: 0.0000 Cake-LP ($0.00)
+GATOR Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [TRX]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [TRX]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [TRX]-[WBNB] Cake LP
+Claim 0.00 GATOR ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+DOGE
+ Price: $0.32 Market Cap: $645,796,000.00 
+[%]
+Staked: 295.3848 DOGE ($95.38)
+GATOR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DOGE ($0.00), 0.00% of the pool.
+Stake 0.00 DOGE - Fee 4%
+Unstake 0.00 DOGE
+Claim 0.00 GATOR ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.03 TVL: $81,266,472.44
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+GATOR Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 5%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 GATOR ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $49,878.29

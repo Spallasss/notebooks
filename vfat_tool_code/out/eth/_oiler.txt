@@ -1,0 +1,42 @@
+INFO  : https://staking.oiler.network
+********************************************************************************
+
+Mon Aug 23 2021 15:45:47 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+USDC/OIL Uniswap Pool
+
+Uniswap USDC/OIL Pool Depth:
+	2 935 217.48 USDC
+	1 883 624.51 OIL
+
+OIL price: 1.56 USDC
+
+LP Tokens Total Supply: 2.318757 LP
+
+
+
+Staking Contract
+
+LP Tokens Locked in the Staking Contract: 0.283636 LP
+
+TVL (Total Value Locked) in the Staking Contract: 718 086.96 USDC
+
+Reward pool amount: 500 000.00 OIL (= 779 140.50 USDC)
+
+Current 100-day Staking Program Returns: 108.50%
+	Dayly: 1.08%
+	Weekly: 7.60%
+	Monthly: 33.03%
+	Yearly: 396.30%
+
+Staking Program ends in:
+	-12349 blocks
+	-1 years -2 days -21 hours -57 minutes -12 seconds
+
+Finished reading smart contracts.

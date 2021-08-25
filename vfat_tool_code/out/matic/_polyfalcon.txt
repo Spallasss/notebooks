@@ -1,0 +1,242 @@
+INFO  : https://polyfalcon.com/
+********************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:29:19 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 15 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[Falcon]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $51,962.01 TVL: $3.36
+Falcon Price: $0.000545
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($2.22)
+FALCON Per Week: 729.11 ($0.40)
+APR: Day 2.56% Week 17.95% Year 933.22%
+You are staking 0.00 [Falcon]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Falcon]-[USDC] Uni LP
+Unstake 0.00 [Falcon]-[USDC] Uni LP
+Claim 0.00 FALCON ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[Falcon]-[WMATIC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.07 TVL: $6.17
+Falcon Price: $0.000545
+WMATIC Price: $1.64
+Staked: 71.1325 UNI-V2 ($4.71)
+FALCON Per Week: 729.11 ($0.40)
+APR: Day 1.21% Week 8.44% Year 438.72%
+You are staking 0.00 [Falcon]-[WMATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Falcon]-[WMATIC] Uni LP
+Unstake 0.00 [Falcon]-[WMATIC] Uni LP
+Claim 0.00 FALCON ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,605,024.30 TVL: $33,319,919.81
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($131.32)
+FALCON Per Week: 291.65 ($0.16)
+APR: Day 0.02% Week 0.12% Year 6.30%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 FALCON ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,944,135.44 TVL: $148,230,913.24
+USDC Price: $1.00
+WETH Price: $3,325.76
+Staked: 0.0000 UNI-V2 ($0.00)
+FALCON Per Week: 255.19 ($0.14)
+APR: Day 125759196.12% Week 880314372.86% Year 45776347388.70%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 FALCON ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WBTC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50,685,148,699,960.38 TVL: $16,290,067.29
+WBTC Price: $50,096.00
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($9.07)
+FALCON Per Week: 328.10 ($0.18)
+APR: Day 0.28% Week 1.97% Year 102.61%
+You are staking 0.00 [WBTC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WBTC]-[USDC] Uni LP
+Claim 0.00 FALCON ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[USDC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $74,948,069.50 TVL: $21,381,326.61
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 UNI-V2 ($2.15)
+FALCON Per Week: 255.19 ($0.14)
+APR: Day 0.92% Week 6.46% Year 335.89%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 FALCON ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+Falcon
+ Price: $0.000545 Market Cap: $9.05 
+[%]
+Staked: 4696.7026 Falcon ($2.56)
+FALCON Per Week: 729.11 ($0.40)
+APR: Day 2.22% Week 15.52% Year 807.25%
+You are staking 0.00 Falcon ($0.00), 0.00% of the pool.
+Stake 0.00 Falcon
+Unstake 0.00 Falcon
+Claim 0.00 FALCON ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WMATIC
+ Price: $1.64 Market Cap: $602,069,552.89 
+[%]
+Staked: 4.1797 WMATIC ($6.85)
+FALCON Per Week: 328.10 ($0.18)
+APR: Day 0.37% Week 2.61% Year 135.71%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 FALCON ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+DAI
+ Price: $1.00 Market Cap: $376,374,417.49 
+[%]
+Staked: 96.2617 DAI ($96.11)
+FALCON Per Week: 291.65 ($0.16)
+APR: Day 0.02% Week 0.17% Year 8.60%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 FALCON ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+WETH
+ Price: $3,325.76 Market Cap: $2,028,073,563.40 
+[%]
+Staked: 0.0023 WETH ($7.78)
+FALCON Per Week: 364.56 ($0.20)
+APR: Day 0.37% Week 2.56% Year 132.88%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 FALCON ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+QUICK
+ Price: $726.76 Market Cap: $695,703,129.62 
+[%]
+Staked: 0.0026 QUICK ($1.86)
+FALCON Per Week: 291.65 ($0.16)
+APR: Day 1.22% Week 8.53% Year 443.76%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 FALCON ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+WBTC
+ Price: $50,096.00 Market Cap: $698,230,896.01 
+[%]
+Staked: 0.0004 WBTC ($21.95)
+FALCON Per Week: 364.56 ($0.20)
+APR: Day 0.13% Week 0.91% Year 47.08%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 FALCON ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+LINK
+ Price: $28.63 Market Cap: $64,968,168.31 
+[%]
+Staked: 0.0362 LINK ($1.04)
+FALCON Per Week: 218.73 ($0.12)
+APR: Day 1.65% Week 11.52% Year 599.14%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 FALCON ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+PolyDoge
+ Price: $0.0000000063 Market Cap: $6,280,000.00 
+[%]
+Staked: 622396946.2791 PolyDoge ($3.91)
+FALCON Per Week: 364.56 ($0.20)
+APR: Day 0.73% Week 5.09% Year 264.44%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 4%
+Unstake 0.00 PolyDoge
+Claim 0.00 FALCON ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+AAVE
+ Price: $408.37 Market Cap: $155,313,147.52 
+[%]
+Staked: 0.0028 AAVE ($1.14)
+FALCON Per Week: 218.73 ($0.12)
+APR: Day 1.49% Week 10.43% Year 542.41%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 FALCON ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $292.68

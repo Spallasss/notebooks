@@ -1,0 +1,290 @@
+INFO  : https://polyarrow.xyz
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:05:47 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 18 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[ARROW]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $25,578.59 TVL: $4.91
+ARROW Price: $0.000146
+USDT Price: $1.00
+Staked: 0.0001 UNI-V2 ($2.30)
+ARROW Per Week: 3421.78 ($0.50)
+APR: Day 3.10% Week 21.70% Year 1128.58%
+You are staking 0.00 [ARROW]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ARROW]-[USDT] Uni LP
+Unstake 0.00 [ARROW]-[USDT] Uni LP
+Claim 0.00 ARROW ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[ARROW] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $3.31
+WMATIC Price: $1.65
+ARROW Price: $0.000146
+Staked: 101.9149 UNI-V2 ($3.30)
+ARROW Per Week: 3992.08 ($0.58)
+APR: Day 2.52% Week 17.65% Year 917.95%
+You are staking 0.00 [WMATIC]-[ARROW] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[ARROW] Uni LP
+Unstake 0.00 [WMATIC]-[ARROW] Uni LP
+Claim 0.00 ARROW ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBTC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,289,275,191,827.41 TVL: $97,596,019.59
+WBTC Price: $50,020.00
+WETH Price: $3,319.38
+Staked: 0.0000 UNI-V2 ($5.68)
+ARROW Per Week: 684.36 ($0.10)
+APR: Day 0.25% Week 1.76% Year 91.35%
+You are staking 0.00 [WBTC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WBTC]-[WETH] Uni LP
+Claim 0.00 ARROW ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WMATIC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $188.90 TVL: $122,915,730.13
+WMATIC Price: $1.65
+WETH Price: $3,319.38
+Staked: 0.2592 UNI-V2 ($48.95)
+ARROW Per Week: 855.45 ($0.12)
+APR: Day 0.04% Week 0.25% Year 13.25%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 ARROW ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,614,941.73 TVL: $33,407,476.01
+WMATIC Price: $1.65
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.89)
+ARROW Per Week: 570.30 ($0.08)
+APR: Day 1.34% Week 9.36% Year 486.69%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 ARROW ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,643,584.61 TVL: $147,954,458.06
+USDC Price: $1.00
+WETH Price: $3,319.38
+Staked: 0.0000 UNI-V2 ($1.63)
+ARROW Per Week: 456.24 ($0.07)
+APR: Day 0.58% Week 4.09% Year 212.70%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 ARROW ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[USDC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $74,881,757.69 TVL: $21,362,406.53
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.98)
+ARROW Per Week: 285.15 ($0.04)
+APR: Day 0.61% Week 4.24% Year 220.70%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 ARROW ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[DAI]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $27,050,579.69 TVL: $3,958,721.58
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.48)
+ARROW Per Week: 285.15 ($0.04)
+APR: Day 1.24% Week 8.71% Year 452.86%
+You are staking 0.00 [DAI]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [DAI]-[USDT] Uni LP
+Claim 0.00 ARROW ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+ARROW
+ Price: $0.000146 Market Cap: $12.45 
+[%]
+Staked: 37378.2282 ARROW ($5.45)
+ARROW Per Week: 1710.89 ($0.25)
+APR: Day 0.65% Week 4.58% Year 238.02%
+You are staking 0.00 ARROW ($0.00), 0.00% of the pool.
+Stake 0.00 ARROW
+Unstake 0.00 ARROW
+Claim 0.00 ARROW ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+WMATIC
+ Price: $1.65 Market Cap: $605,575,411.16 
+[%]
+Staked: 0.7027 WMATIC ($1.16)
+ARROW Per Week: 285.15 ($0.04)
+APR: Day 0.51% Week 3.59% Year 186.48%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 ARROW ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+QUICK
+ Price: $732.95 Market Cap: $701,628,610.35 
+[%]
+Staked: 0.0010 QUICK ($0.73)
+ARROW Per Week: 285.15 ($0.04)
+APR: Day 0.81% Week 5.67% Year 294.99%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 ARROW ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+AAVE
+ Price: $408.28 Market Cap: $155,421,818.51 
+[%]
+Staked: 0.0050 AAVE ($2.04)
+ARROW Per Week: 285.15 ($0.04)
+APR: Day 0.29% Week 2.04% Year 106.08%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 ARROW ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+FISH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.2992 FISH ($0.00)
+ARROW Per Week: 285.15 ($0.04)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+Stake 0.00 FISH - Fee 4%
+Unstake 0.00 FISH
+Claim 0.00 ARROW ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+WBTC
+ Price: $50,020.00 Market Cap: $697,208,012.02 
+[%]
+Staked: 0.0000 WBTC ($0.50)
+ARROW Per Week: 228.12 ($0.03)
+APR: Day 0.95% Week 6.65% Year 345.80%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 ARROW ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+WETH
+ Price: $3,319.38 Market Cap: $2,027,461,427.48 
+[%]
+Staked: 0.0004 WETH ($1.45)
+ARROW Per Week: 228.12 ($0.03)
+APR: Day 0.33% Week 2.29% Year 119.32%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 ARROW ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+IRON
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.6000 IRON ($0.00)
+ARROW Per Week: 199.60 ($0.03)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 IRON ($0.00), NaN% of the pool.
+Stake 0.00 IRON - Fee 4%
+Unstake 0.00 IRON
+Claim 0.00 ARROW ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+DAI
+ Price: $1.00 Market Cap: $375,664,195.61 
+[%]
+Staked: 1.5313 DAI ($1.53)
+ARROW Per Week: 171.09 ($0.02)
+APR: Day 0.23% Week 1.63% Year 84.85%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 ARROW ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+USDC
+ Price: $1.00 Market Cap: $1,046,003,083.45 
+[%]
+Staked: 1.9950 USDC ($1.99)
+ARROW Per Week: 171.09 ($0.02)
+APR: Day 0.18% Week 1.25% Year 65.20%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 ARROW ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $79.05

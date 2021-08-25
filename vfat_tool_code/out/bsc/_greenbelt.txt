@@ -1,0 +1,207 @@
+INFO  : https://greenbelt.finance
+**************************************************************************************
+
+Mon Aug 23 2021 14:31:51 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 13 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[LH]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $321.68
+LH Price: $0.0000913710
+BUSD Price: $1.00
+Staked: 10661.8920 Cake-LP ($212.14)
+LH Per Week: 79370.08 ($7.25)
+APR: Day 0.49% Week 3.42% Year 177.77%
+You are staking 0.00 [LH]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LH]-[BUSD] Cake LP
+Unstake 0.00 [LH]-[BUSD] Cake LP
+Claim 0.00 LH ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WBNB]-[LH] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.43 TVL: $246.86
+WBNB Price: $483.97
+LH Price: $0.0000913710
+Staked: 324.2687 Cake-LP ($141.01)
+LH Per Week: 39685.04 ($3.63)
+APR: Day 0.37% Week 2.57% Year 133.71%
+You are staking 0.00 [WBNB]-[LH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LH] Cake LP
+Unstake 0.00 [WBNB]-[LH] Cake LP
+Claim 0.00 LH ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.71 TVL: $527,164,966.72
+WBNB Price: $483.97
+BUSD Price: $1.00
+Staked: 0.5195 Cake-LP ($25.82)
+LH Per Week: 7937.01 ($0.73)
+APR: Day 0.40% Week 2.81% Year 146.04%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 LH ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,128,966.01
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 309.5618 Cake-LP ($633.22)
+LH Per Week: 4762.20 ($0.44)
+APR: Day 0.01% Week 0.07% Year 3.57%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 LH ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WBNB]-[BELT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $192.95 TVL: $79,060,663.69
+WBNB Price: $483.97
+BELT Price: $18.72
+Staked: 17.8117 Cake-LP ($3,436.69)
+LH Per Week: 7937.01 ($0.73)
+APR: Day 0.00% Week 0.02% Year 1.10%
+You are staking 0.00 [WBNB]-[BELT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BELT] Cake LP - Fee 2%
+Unstake 0.00 [WBNB]-[BELT] Cake LP
+Claim 0.00 LH ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[xSAT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.45 TVL: $8,209.89
+xSAT Price: $0.05
+BUSD Price: $1.00
+Staked: 746.6649 Cake-LP ($333.71)
+LH Per Week: 7937.01 ($0.73)
+APR: Day 0.03% Week 0.22% Year 11.30%
+You are staking 0.00 [xSAT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [xSAT]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [xSAT]-[BUSD] Cake LP
+Claim 0.00 LH ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+LH
+ Price: $0.0000913710 Market Cap: $1,081.75 
+[%]
+Staked: 3122858.2152 LH ($285.34)
+LH Per Week: 15874.02 ($1.45)
+APR: Day 0.07% Week 0.51% Year 26.43%
+You are staking 0.00 LH ($0.00), 0.00% of the pool.
+Stake 0.00 LH
+Unstake 0.00 LH
+Claim 0.00 LH ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+BUSD
+ Price: $1.00 Market Cap: $4,193,689,661.04 
+[%]
+Staked: 692.6683 BUSD ($691.46)
+LH Per Week: 3174.80 ($0.29)
+APR: Day 0.01% Week 0.04% Year 2.18%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 2%
+Unstake 0.00 BUSD
+Claim 0.00 LH ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+WBNB
+ Price: $483.97 Market Cap: $3,427,359,006.98 
+[%]
+Staked: 0.0040 WBNB ($1.95)
+LH Per Week: 3174.80 ($0.29)
+APR: Day 2.12% Week 14.86% Year 772.75%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 2%
+Unstake 0.00 WBNB
+Claim 0.00 LH ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $224.88 TVL: $1,029,249,166.62
+Cake Price: $24.99
+WBNB Price: $483.97
+Staked: 1.3594 Cake-LP ($305.69)
+LH Per Week: 15874.02 ($1.45)
+APR: Day 0.07% Week 0.47% Year 24.67%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 LH ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WBNB]-[BUNNY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $156.34 TVL: $11,283,178.55
+WBNB Price: $483.97
+BUNNY Price: $7.68
+Staked: 0.0357 Cake-LP ($5.58)
+LH Per Week: 15874.02 ($1.45)
+APR: Day 3.71% Week 25.99% Year 1351.67%
+You are staking 0.00 [WBNB]-[BUNNY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUNNY] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUNNY] Cake LP
+Claim 0.00 LH ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $6,072.62

@@ -1,0 +1,481 @@
+INFO  : https://werewolf.farm
+*****************************************************************************
+
+Mon Aug 23 2021 14:40:23 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 28 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WEREWOLF]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.17 TVL: $372.72
+WEREWOLF Price: $0.005299
+BUSD Price: $1.00
+Staked: 813.9145 Cake-LP ($140.32)
+WEREWOLF Per Week: 1957.28 ($10.37)
+APR: Day 1.06% Week 7.39% Year 384.31%
+You are staking 0.00 [WEREWOLF]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WEREWOLF]-[BUSD] Cake LP
+Unstake 0.00 [WEREWOLF]-[BUSD] Cake LP
+Claim 0.00 WEREWOLF ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WEREWOLF]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.70 TVL: $1,301.36
+WEREWOLF Price: $0.005299
+WBNB Price: $484.17
+Staked: 29.3928 Cake-LP ($108.86)
+WEREWOLF Per Week: 1223.30 ($6.48)
+APR: Day 0.85% Week 5.95% Year 309.62%
+You are staking 0.00 [WEREWOLF]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WEREWOLF]-[WBNB] Cake LP
+Unstake 0.00 [WEREWOLF]-[WBNB] Cake LP
+Claim 0.00 WEREWOLF ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.74 TVL: $527,394,982.88
+WBNB Price: $484.17
+BUSD Price: $1.00
+Staked: 22.9851 Cake-LP ($1,143.18)
+WEREWOLF Per Week: 391.46 ($2.07)
+APR: Day 0.03% Week 0.18% Year 9.43%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 WEREWOLF ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,213.53 TVL: $173,735,262.75
+BTCB Price: $49,954.00
+WBNB Price: $484.17
+Staked: 0.1235 Cake-LP ($1,261.22)
+WEREWOLF Per Week: 244.66 ($1.30)
+APR: Day 0.01% Week 0.10% Year 5.34%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 WEREWOLF ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,652.38 TVL: $261,819,094.09
+ETH Price: $3,330.95
+WBNB Price: $484.17
+Staked: 0.0000 Cake-LP ($0.00)
+WEREWOLF Per Week: 244.66 ($1.30)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 WEREWOLF ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $240.41 TVL: $82,661,804.61
+DOT Price: $28.00
+WBNB Price: $484.17
+Staked: 5.0540 Cake-LP ($1,215.04)
+WEREWOLF Per Week: 195.73 ($1.04)
+APR: Day 0.01% Week 0.09% Year 4.44%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 WEREWOLF ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,908,120.18
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 5.6389 Cake-LP ($11.60)
+WEREWOLF Per Week: 195.73 ($1.04)
+APR: Day 1.28% Week 8.94% Year 464.73%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 WEREWOLF ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,324,919.20
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 4.9290 Cake-LP ($10.03)
+WEREWOLF Per Week: 195.73 ($1.04)
+APR: Day 1.48% Week 10.34% Year 537.54%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 WEREWOLF ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,300,501.91
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 100.0000 Cake-LP ($204.67)
+WEREWOLF Per Week: 195.73 ($1.04)
+APR: Day 0.07% Week 0.51% Year 26.35%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 WEREWOLF ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $225.02 TVL: $1,029,874,649.68
+Cake Price: $25.01
+WBNB Price: $484.17
+Staked: 0.3705 Cake-LP ($83.38)
+WEREWOLF Per Week: 146.80 ($0.78)
+APR: Day 0.13% Week 0.93% Year 48.51%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 WEREWOLF ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[Cake]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13.40 TVL: $66,401,037.90
+Cake Price: $25.01
+BUSD Price: $1.00
+Staked: 1.9346 Cake-LP ($25.93)
+WEREWOLF Per Week: 146.80 ($0.78)
+APR: Day 0.43% Week 3.00% Year 155.97%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 WEREWOLF ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+WEREWOLF
+ Price: $0.005299 Market Cap: $2,930.38 
+[%]
+Staked: 70481.8986 WEREWOLF ($373.45)
+WEREWOLF Per Week: 587.18 ($3.11)
+APR: Day 0.12% Week 0.83% Year 43.32%
+You are staking 0.00 WEREWOLF ($0.00), 0.00% of the pool.
+Stake 0.00 WEREWOLF
+Unstake 0.00 WEREWOLF
+Claim 0.00 WEREWOLF ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+WBNB
+ Price: $484.17 Market Cap: $3,427,503,326.73 
+[%]
+Staked: 49.4598 WBNB ($23,946.93)
+WEREWOLF Per Week: 195.73 ($1.04)
+APR: Day 0.00% Week 0.00% Year 0.23%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 WEREWOLF ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.0003 BTCB ($16.63)
+WEREWOLF Per Week: 195.73 ($1.04)
+APR: Day 0.89% Week 6.24% Year 324.35%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 WEREWOLF ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+ETH
+ Price: $3,330.95 Market Cap: $4,346,889,750.00 
+[%]
+Staked: 0.1240 ETH ($413.15)
+WEREWOLF Per Week: 195.73 ($1.04)
+APR: Day 0.04% Week 0.25% Year 13.05%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 WEREWOLF ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+DOT
+ Price: $28.00 Market Cap: $391,999,999.86 
+[%]
+Staked: 0.4661 DOT ($13.05)
+WEREWOLF Per Week: 146.80 ($0.78)
+APR: Day 0.85% Week 5.96% Year 309.94%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 WEREWOLF ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+BUSD
+ Price: $1.00 Market Cap: $4,196,088,431.70 
+[%]
+Staked: 166.2548 BUSD ($166.06)
+WEREWOLF Per Week: 146.80 ($0.78)
+APR: Day 0.07% Week 0.47% Year 24.36%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 WEREWOLF ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 52.5338 USDT ($52.52)
+WEREWOLF Per Week: 97.86 ($0.52)
+APR: Day 0.14% Week 0.99% Year 51.34%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 WEREWOLF ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 49.8908 DAI ($49.89)
+WEREWOLF Per Week: 97.86 ($0.52)
+APR: Day 0.15% Week 1.04% Year 54.05%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 WEREWOLF ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,148,061.00 
+[%]
+Staked: 134.7236 USDC ($134.58)
+WEREWOLF Per Week: 97.86 ($0.52)
+APR: Day 0.06% Week 0.39% Year 20.04%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 WEREWOLF ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+Cake
+ Price: $25.01 Market Cap: $10,407,370,189.70 
+[%]
+Staked: 6.9187 Cake ($173.04)
+WEREWOLF Per Week: 48.93 ($0.26)
+APR: Day 0.02% Week 0.15% Year 7.79%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 WEREWOLF ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[DAI]-[USDT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.42 TVL: $213,848.75
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 547.6730 Cake-LP ($1,325.89)
+WEREWOLF Per Week: 489.32 ($2.59)
+APR: Day 0.03% Week 0.20% Year 10.17%
+You are staking 0.00 [DAI]-[USDT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDT] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[USDT] Cake LP
+Claim 0.00 WEREWOLF ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[DAI]-[USDC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $7,786.41
+DAI Price: $1.00
+USDC Price: $1.00
+Staked: 23.2804 Cake-LP ($47.94)
+WEREWOLF Per Week: 489.32 ($2.59)
+APR: Day 0.77% Week 5.41% Year 281.24%
+You are staking 0.00 [DAI]-[USDC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDC] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[USDC] Cake LP
+Claim 0.00 WEREWOLF ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[USDT]-[USDC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $122,630,117.56
+USDT Price: $1.00
+USDC Price: $1.00
+Staked: 100.2077 Cake-LP ($206.84)
+WEREWOLF Per Week: 489.32 ($2.59)
+APR: Day 0.18% Week 1.25% Year 65.18%
+You are staking 0.00 [USDT]-[USDC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[USDC] Cake LP
+Claim 0.00 WEREWOLF ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[SAFEMOON]-[WEREWOLF] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7.62 TVL: $116.38
+SAFEMOON Price: $0.0000014360
+WEREWOLF Price: $0.005299
+Staked: 10.6283 Cake-LP ($81.01)
+WEREWOLF Per Week: 2935.92 ($15.56)
+APR: Day 2.74% Week 19.20% Year 998.49%
+You are staking 0.00 [SAFEMOON]-[WEREWOLF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SAFEMOON]-[WEREWOLF] Cake LP
+Unstake 0.00 [SAFEMOON]-[WEREWOLF] Cake LP
+Claim 0.00 WEREWOLF ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[Cake]-[WEREWOLF] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.83 TVL: $333.54
+Cake Price: $25.01
+WEREWOLF Price: $0.005299
+Staked: 174.6275 Cake-LP ($144.50)
+WEREWOLF Per Week: 2935.92 ($15.56)
+APR: Day 1.54% Week 10.77% Year 559.80%
+You are staking 0.00 [Cake]-[WEREWOLF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WEREWOLF] Cake LP
+Unstake 0.00 [Cake]-[WEREWOLF] Cake LP
+Claim 0.00 WEREWOLF ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+[USDT]-[WEREWOLF] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.17 TVL: $161.14
+USDT Price: $1.00
+WEREWOLF Price: $0.005299
+Staked: 931.6090 Cake-LP ($153.89)
+WEREWOLF Per Week: 2935.92 ($15.56)
+APR: Day 1.44% Week 10.11% Year 525.64%
+You are staking 0.00 [USDT]-[WEREWOLF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WEREWOLF] Cake LP
+Unstake 0.00 [USDT]-[WEREWOLF] Cake LP
+Claim 0.00 WEREWOLF ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+[DAI]-[WEREWOLF] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.16 TVL: $399.49
+DAI Price: $1.00
+WEREWOLF Price: $0.005299
+Staked: 2448.0805 Cake-LP ($394.38)
+WEREWOLF Per Week: 2935.92 ($15.56)
+APR: Day 0.56% Week 3.94% Year 205.11%
+You are staking 0.00 [DAI]-[WEREWOLF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[WEREWOLF] Cake LP
+Unstake 0.00 [DAI]-[WEREWOLF] Cake LP
+Claim 0.00 WEREWOLF ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $31,898.00

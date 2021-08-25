@@ -1,0 +1,330 @@
+INFO  : https://kittyfarms.app/
+**********************************************************************************
+
+Mon Aug 23 2021 09:27:14 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 19 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+KITTY
+ Price: $0.00 Market Cap: $0.00 
+Staked: 186698.4620 KITTY ($0.00)
+KITTY Per Week: 3705.88 ($0.46)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 KITTY ($0.00), NaN% of the pool.
+Stake 0.00 KITTY
+Unstake 0.00 KITTY
+Claim 0.00 KITTY ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[KITTY]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $11.17
+KITTY Price: $0.000125
+BUSD Price: $1.00
+Staked: 434.2944 Cake-LP ($10.05)
+KITTY Per Week: 29647.06 ($3.71)
+APR: Day 5.27% Week 36.91% Year 1919.51%
+You are staking 0.00 [KITTY]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KITTY]-[BUSD] Cake LP
+Unstake 0.00 [KITTY]-[BUSD] Cake LP
+Claim 0.00 KITTY ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[KITTY]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.51 TVL: $11.74
+KITTY Price: $0.000125
+WBNB Price: $487.74
+Staked: 22.6105 Cake-LP ($11.43)
+KITTY Per Week: 18529.41 ($2.32)
+APR: Day 2.90% Week 20.28% Year 1054.38%
+You are staking 0.00 [KITTY]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KITTY]-[WBNB] Cake LP
+Unstake 0.00 [KITTY]-[WBNB] Cake LP
+Claim 0.00 KITTY ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.92 TVL: $528,859,669.00
+WBNB Price: $487.74
+BUSD Price: $1.00
+Staked: 3.0026 Cake-LP ($149.90)
+KITTY Per Week: 5558.82 ($0.70)
+APR: Day 0.07% Week 0.46% Year 24.12%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 3.99%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 KITTY ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,239.88 TVL: $174,349,710.81
+BTCB Price: $49,844.00
+WBNB Price: $487.74
+Staked: 0.0888 Cake-LP ($909.08)
+KITTY Per Week: 5558.82 ($0.70)
+APR: Day 0.01% Week 0.08% Year 3.98%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 3.99%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 KITTY ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,663.27 TVL: $262,864,003.43
+ETH Price: $3,333.65
+WBNB Price: $487.74
+Staked: 0.0000 Cake-LP ($0.06)
+KITTY Per Week: 5558.82 ($0.70)
+APR: Day 154.45% Week 1081.15% Year 56219.95%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 3.99%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 KITTY ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[WBNB]-[LINK] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $241.89 TVL: $47,804,300.77
+WBNB Price: $487.74
+LINK Price: $28.73
+Staked: 0.0083 Cake-LP ($2.02)
+KITTY Per Week: 3705.88 ($0.46)
+APR: Day 3.29% Week 23.00% Year 1195.80%
+You are staking 0.00 [WBNB]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LINK] Cake LP - Fee 3.99%
+Unstake 0.00 [WBNB]-[LINK] Cake LP
+Claim 0.00 KITTY ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.53 TVL: $47,020,322.16
+ADA Price: $2.83
+WBNB Price: $487.74
+Staked: 2.2112 Cake-LP ($171.44)
+KITTY Per Week: 3705.88 ($0.46)
+APR: Day 0.04% Week 0.27% Year 14.06%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 3.99%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 KITTY ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $242.07 TVL: $83,232,861.22
+DOT Price: $28.18
+WBNB Price: $487.74
+Staked: 0.0000 Cake-LP ($0.00)
+KITTY Per Week: 3705.88 ($0.46)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 3.99%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 KITTY ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,356,262.69
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0009 Cake-LP ($0.00)
+KITTY Per Week: 2964.71 ($0.37)
+APR: Day 2760.51% Week 19323.54% Year 1004824.27%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 3.99%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 KITTY ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,993,899.37
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 56.0607 Cake-LP ($115.41)
+KITTY Per Week: 2964.71 ($0.37)
+APR: Day 0.05% Week 0.32% Year 16.71%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 3.99%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 KITTY ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,301,479.65
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 29.9474 Cake-LP ($61.30)
+KITTY Per Week: 2964.71 ($0.37)
+APR: Day 0.09% Week 0.61% Year 31.46%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 3.99%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 KITTY ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $226.48 TVL: $1,036,467,599.64
+Cake Price: $25.15
+WBNB Price: $487.74
+Staked: 0.0000 Cake-LP ($0.00)
+KITTY Per Week: 1852.94 ($0.23)
+APR: Day 738.65% Week 5170.56% Year 268868.91%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 3.99%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 KITTY ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+BUSD
+ Price: $1.00 Market Cap: $4,196,886,621.58 
+[%]
+Staked: 138.2915 BUSD ($138.16)
+KITTY Per Week: 1482.35 ($0.19)
+APR: Day 0.02% Week 0.13% Year 6.98%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 3.99%
+Unstake 0.00 BUSD
+Claim 0.00 KITTY ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+WBNB
+ Price: $487.74 Market Cap: $3,445,688,894.32 
+[%]
+Staked: 0.3238 WBNB ($157.92)
+KITTY Per Week: 2223.53 ($0.28)
+APR: Day 0.03% Week 0.18% Year 9.16%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 3.99%
+Unstake 0.00 WBNB
+Claim 0.00 KITTY ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+BTCB
+ Price: $49,844.00 Market Cap: $4,261,711,844.00 
+[%]
+Staked: 0.0013 BTCB ($66.55)
+KITTY Per Week: 2223.53 ($0.28)
+APR: Day 0.06% Week 0.42% Year 21.73%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 3.99%
+Unstake 0.00 BTCB
+Claim 0.00 KITTY ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 82.1586 USDT ($82.14)
+KITTY Per Week: 1482.35 ($0.19)
+APR: Day 0.03% Week 0.23% Year 11.74%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 3.99%
+Unstake 0.00 USDT
+Claim 0.00 KITTY ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 0.2736 DAI ($0.27)
+KITTY Per Week: 1482.35 ($0.19)
+APR: Day 9.68% Week 67.79% Year 3525.07%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 3.99%
+Unstake 0.00 DAI
+Claim 0.00 KITTY ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+USDC
+ Price: $1.00 Market Cap: $1,778,057,130.00 
+[%]
+Staked: 1.0602 USDC ($1.06)
+KITTY Per Week: 1482.35 ($0.19)
+APR: Day 2.50% Week 17.50% Year 910.02%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 3.99%
+Unstake 0.00 USDC
+Claim 0.00 KITTY ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,876.79

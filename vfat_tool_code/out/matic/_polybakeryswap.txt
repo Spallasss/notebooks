@@ -1,0 +1,127 @@
+INFO  : https://www.bakery-swap.finance
+**************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:30:52 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 16 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+BAKE
+ Price: $0.04 Market Cap: $418.23 
+[%]
+Staked: 1218.4470 BAKE ($51.20)
+BAKE Per Week: 554.37 ($23.29)
+APR: Day 6.50% Week 45.50% Year 2365.92%
+You are staking 0.00 BAKE ($0.00), 0.00% of the pool.
+Stake 0.00 BAKE
+Unstake 0.00 BAKE
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[USDC]-[BAKE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $433,172.82 TVL: $96.90
+USDC Price: $1.00
+BAKE Price: $0.04
+Staked: 0.0001 UNI-V2 ($47.25)
+BAKE Per Week: 519.76 ($21.84)
+APR: Day 6.60% Week 46.23% Year 2403.77%
+You are staking 0.00 [USDC]-[BAKE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BAKE] Uni LP
+Unstake 0.00 [USDC]-[BAKE] Uni LP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WMATIC]-[BAKE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.57 TVL: $386.22
+WMATIC Price: $1.64
+BAKE Price: $0.04
+Staked: 133.7397 UNI-V2 ($76.09)
+BAKE Per Week: 519.76 ($21.84)
+APR: Day 4.10% Week 28.70% Year 1492.50%
+You are staking 0.00 [WMATIC]-[BAKE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[BAKE] Uni LP
+Unstake 0.00 [WMATIC]-[BAKE] Uni LP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[CREAM]-[BAKE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.04 TVL: $12.42
+CREAM Price: $0.008856
+BAKE Price: $0.04
+Staked: 316.5787 UNI-V2 ($12.40)
+BAKE Per Week: 207.90 ($8.74)
+APR: Day 10.06% Week 70.44% Year 3662.94%
+You are staking 0.00 [CREAM]-[BAKE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CREAM]-[BAKE] Uni LP
+Unstake 0.00 [CREAM]-[BAKE] Uni LP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[BISCUIT]-[BAKE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.06 TVL: $12.86
+BISCUIT Price: $0.01
+BAKE Price: $0.04
+Staked: 228.4750 UNI-V2 ($12.85)
+BAKE Per Week: 207.90 ($8.74)
+APR: Day 9.71% Week 67.99% Year 3535.50%
+You are staking 0.00 [BISCUIT]-[BAKE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BISCUIT]-[BAKE] Uni LP
+Unstake 0.00 [BISCUIT]-[BAKE] Uni LP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[CAKE]-[BAKE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.08 TVL: $17.32
+CAKE Price: $0.02
+BAKE Price: $0.04
+Staked: 205.3413 UNI-V2 ($17.32)
+BAKE Per Week: 207.90 ($8.74)
+APR: Day 7.21% Week 50.44% Year 2622.80%
+You are staking 0.00 [CAKE]-[BAKE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CAKE]-[BAKE] Uni LP
+Unstake 0.00 [CAKE]-[BAKE] Uni LP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $217.11

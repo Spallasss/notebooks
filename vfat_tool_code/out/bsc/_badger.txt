@@ -1,0 +1,33 @@
+INFO  : https://app.badger.finance
+***************************************************************************
+
+The below APRs do not include underlying rewards such as from curve, sushi or fees. They are only BADGER/DIGG farming APRs.
+
+Mon Aug 23 2021 09:35:56 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Wrapped 
+[BTCB]-[WBNB] Cake LP
+ Price: $11,047.93 TVL: $157.18
+You are staking 0.0000 Wrapped 
+[BTCB]-[WBNB] Cake LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[bBADGER]-[BTCB] Cake LP
+ Price: $2,946.10 TVL: $206,170.88
+You are staking 0.0000 Wrapped 
+[bBADGER]-[BTCB] Cake LP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[bDIGG]-[BTCB] Cake LP
+ Price: $58,553.91 TVL: $588,777.50
+You are staking 0.0000 Wrapped 
+[bDIGG]-[BTCB] Cake LP
+ ($0.00), 0.00% of the pool.
+
+Total Value Locked: $795,105.56

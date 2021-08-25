@@ -1,0 +1,84 @@
+***************************** POLYGON NETWORK *********************************
+
+*************************** 👨‍🌾 PICKLE FARM 👨‍🌾 ********************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+
+A RugDoc review for PickleFarm will be posted, prior to or shortly after farming starts, in the Telegram channel below.
+
+MasterChef Contract: 
+0x0448200FfE67ceb51176a7a5f28693e6CE52EaE2
+
+PICKLE Token Contract: 
+0x92AdcA48c2Eb91405998012f5527d65229CbcF5c
+
+
+Tokenomics: 
+    
+62 100 max token supply / Emission Rate: 0.015 PICKLE / Block
+
+    
+
+Feenomics: 
+    
+33.3% Goes back to Liquidity Pool.
+
+    
+16.7% Will be used to BUYBACK AND BURN.
+
+    
+33.3% Will be used for Marketing for the Farm as well as our Native Token.
+
+    
+16.7% Will be used to pay for the team and for further projects.
+
+
+
+Farming start (estimated): 
+https://polygonscan.com/block/countdown/18755000
+
+
+PICKLE/USDC Chart: 
+PooCoin
+
+
+Telegram channel: 
+PickleFarm
+
+
+A Layer 2 will be Announced in the Future. Stay Tuned!.
+
+
+NOTE: MasterChef and Token ownership will be renounced at or before the farming start block. Proof will be posted in the Telegram channel linked above.
+
+
+Mon Aug 23 2021 13:12:25 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Rewards start at block 
+18755000
+
+
+Found 1 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000  ($0.00)
+PICKLE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00  ($0.00), NaN% of the pool.
+Stake 0.00 
+Unstake 0.00 
+Claim 0.00 PICKLE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $0.00

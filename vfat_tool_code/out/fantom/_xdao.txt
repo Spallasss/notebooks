@@ -1,0 +1,259 @@
+*************** 👨‍🌾 UNOFFICIAL XDAO DEFI FARMING CALCULATOR 👨‍🌾 ***************
+DEFI : https://thexdao.com
+***************************************************************************************
+
+Mon Aug 23 2021 13:32:19 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 16 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+HTZ
+ Price: $0.04 Market Cap: $945,400.92 
+Staked: 367105.1115 HTZ ($16,126.32)
+HTZ Per Week: 20452.17 ($898.43)
+APR: Day 0.80% Week 5.57% Year 289.70%
+You are staking 0.00 HTZ ($0.00), 0.00% of the pool.
+Stake 0.00 HTZ
+Unstake 0.00 HTZ
+Claim 0.00 HTZ ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WFTM]-[HTZ] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.99 TVL: $74,530.66
+WFTM Price: $0.57
+HTZ Price: $0.04
+Staked: 141.1473 Xdao-LP ($11,007.48)
+HTZ Per Week: 40904.35 ($1,796.86)
+APR: Day 2.33% Week 16.32% Year 848.85%
+You are staking 0.00 [WFTM]-[HTZ] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[HTZ] Uni LP
+Unstake 0.00 [WFTM]-[HTZ] Uni LP
+Claim 0.00 HTZ ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[HTZ] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $42,625,148.10 TVL: $4,634.16
+USDC Price: $1.00
+HTZ Price: $0.04
+Staked: 0.0001 Xdao-LP ($4,466.65)
+HTZ Per Week: 30678.26 ($1,347.65)
+APR: Day 4.31% Week 30.17% Year 1568.91%
+You are staking 0.00 [USDC]-[HTZ] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[HTZ] Uni LP
+Unstake 0.00 [USDC]-[HTZ] Uni LP
+Claim 0.00 HTZ ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[HTZ]-[ETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,073.08 TVL: $5,022.92
+HTZ Price: $0.04
+ETH Price: $3,320.63
+Staked: 1.5669 Xdao-LP ($4,815.15)
+HTZ Per Week: 30678.26 ($1,347.65)
+APR: Day 4.00% Week 27.99% Year 1455.36%
+You are staking 0.00 [HTZ]-[ETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HTZ]-[ETH] Uni LP
+Unstake 0.00 [HTZ]-[ETH] Uni LP
+Claim 0.00 HTZ ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[HTZ]-[LINK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $784.39 TVL: $2,830.99
+HTZ Price: $0.04
+LINK Price: $28.72
+Staked: 3.4418 Xdao-LP ($2,699.71)
+HTZ Per Week: 15339.13 ($673.82)
+APR: Day 3.57% Week 24.96% Year 1297.87%
+You are staking 0.00 [HTZ]-[LINK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HTZ]-[LINK] Uni LP
+Unstake 0.00 [HTZ]-[LINK] Uni LP
+Claim 0.00 HTZ ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[CRV]-[HTZ] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $14.23 TVL: $1,801.99
+CRV Price: $2.40
+HTZ Price: $0.04
+Staked: 126.4997 Xdao-LP ($1,800.23)
+HTZ Per Week: 15339.13 ($673.82)
+APR: Day 5.35% Week 37.43% Year 1946.35%
+You are staking 0.00 [CRV]-[HTZ] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRV]-[HTZ] Uni LP
+Unstake 0.00 [CRV]-[HTZ] Uni LP
+Claim 0.00 HTZ ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[WFTM]-[ETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $18,846,641.78 TVL: $3,317.88
+WFTM Price: $0.57
+ETH Price: $3,320.63
+Staked: 0.0002 Xdao-LP ($3,284.84)
+HTZ Per Week: 3067.83 ($134.76)
+APR: Day 0.59% Week 4.10% Year 213.34%
+You are staking 0.00 [WFTM]-[ETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] Uni LP - Fee 0.5%
+Unstake 0.00 [WFTM]-[ETH] Uni LP
+Claim 0.00 HTZ ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[BTC]-[ETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $52,102,956,330.24 TVL: $2,369.90
+BTC Price: $50,107.90
+ETH Price: $3,320.63
+Staked: 0.0000 Xdao-LP ($2,347.86)
+HTZ Per Week: 3067.83 ($134.76)
+APR: Day 0.82% Week 5.74% Year 298.47%
+You are staking 0.00 [BTC]-[ETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTC]-[ETH] Uni LP - Fee 0.5%
+Unstake 0.00 [BTC]-[ETH] Uni LP
+Claim 0.00 HTZ ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[WFTM]-[FUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.09 TVL: $2,822.02
+WFTM Price: $0.57
+FUSD Price: $0.51
+Staked: 2569.7053 Xdao-LP ($2,799.67)
+HTZ Per Week: 3067.83 ($134.76)
+APR: Day 0.69% Week 4.81% Year 250.31%
+You are staking 0.00 [WFTM]-[FUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[FUSD] Uni LP - Fee 0.5%
+Unstake 0.00 [WFTM]-[FUSD] Uni LP
+Claim 0.00 HTZ ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WFTM]-[BTC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6,921,558,722.33 TVL: $3,753.19
+WFTM Price: $0.57
+BTC Price: $50,107.90
+Staked: 0.0000 Xdao-LP ($3,729.57)
+HTZ Per Week: 3067.83 ($134.76)
+APR: Day 0.52% Week 3.61% Year 187.90%
+You are staking 0.00 [WFTM]-[BTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BTC] Uni LP - Fee 0.5%
+Unstake 0.00 [WFTM]-[BTC] Uni LP
+Claim 0.00 HTZ ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[HTZ]-[ICE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $44.10 TVL: $854.75
+HTZ Price: $0.04
+ICE Price: $1.82
+Staked: 19.2964 Xdao-LP ($851.07)
+HTZ Per Week: 15339.13 ($673.82)
+APR: Day 11.31% Week 79.17% Year 4117.05%
+You are staking 0.00 [HTZ]-[ICE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HTZ]-[ICE] Uni LP
+Unstake 0.00 [HTZ]-[ICE] Uni LP
+Claim 0.00 HTZ ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[HTZ]-[iFUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.76 TVL: $1,379.83
+HTZ Price: $0.04
+iFUSD Price: $0.50
+Staked: 239.0144 Xdao-LP ($1,377.89)
+HTZ Per Week: 15339.13 ($673.82)
+APR: Day 6.99% Week 48.90% Year 2542.93%
+You are staking 0.00 [HTZ]-[iFUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HTZ]-[iFUSD] Uni LP
+Unstake 0.00 [HTZ]-[iFUSD] Uni LP
+Claim 0.00 HTZ ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[BAND]-[HTZ] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.31 TVL: $1,869.92
+BAND Price: $9.71
+HTZ Price: $0.04
+Staked: 1421.1561 Xdao-LP ($1,863.09)
+HTZ Per Week: 15339.13 ($673.82)
+APR: Day 5.17% Week 36.17% Year 1880.68%
+You are staking 0.00 [BAND]-[HTZ] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BAND]-[HTZ] Uni LP
+Unstake 0.00 [BAND]-[HTZ] Uni LP
+Claim 0.00 HTZ ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $57,169.52

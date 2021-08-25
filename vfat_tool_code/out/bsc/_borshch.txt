@@ -1,0 +1,240 @@
+INFO  : https://www.borshch.finance
+****************************************************************************************
+
+Mon Aug 23 2021 14:08:01 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 13 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[BORSHCH]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $123.39
+BORSHCH Price: $0.000168
+BUSD Price: $1.00
+Staked: 4344.7158 Cake-LP ($121.26)
+BORSHCH Per Week: 54782.61 ($9.22)
+APR: Day 1.09% Week 7.60% Year 395.36%
+You are staking 0.00 [BORSHCH]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BORSHCH]-[BUSD] Cake LP
+Unstake 0.00 [BORSHCH]-[BUSD] Cake LP
+Claim 0.00 BORSHCH ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[BORSHCH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.62 TVL: $104.52
+BORSHCH Price: $0.000168
+WBNB Price: $485.11
+Staked: 156.5418 Cake-LP ($97.05)
+BORSHCH Per Week: 54782.61 ($9.22)
+APR: Day 1.36% Week 9.50% Year 493.99%
+You are staking 0.00 [BORSHCH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BORSHCH]-[WBNB] Cake LP
+Unstake 0.00 [BORSHCH]-[WBNB] Cake LP
+Claim 0.00 BORSHCH ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.60 TVL: $3,333,340.10
+WBNB Price: $485.11
+BUSD Price: $1.00
+Staked: 0.4111 Cake-LP ($26.56)
+BORSHCH Per Week: 2191.30 ($0.37)
+APR: Day 0.20% Week 1.39% Year 72.21%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 BORSHCH ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[Cake]-[BORSHCH] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.13 TVL: $96.66
+Cake Price: $25.00
+BORSHCH Price: $0.000168
+Staked: 375.5354 Cake-LP ($50.15)
+BORSHCH Per Week: 54782.61 ($9.22)
+APR: Day 2.63% Week 18.38% Year 956.00%
+You are staking 0.00 [Cake]-[BORSHCH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BORSHCH] Cake LP
+Unstake 0.00 [Cake]-[BORSHCH] Cake LP
+Claim 0.00 BORSHCH ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,906.06 TVL: $1,953,599.49
+BTCB Price: $50,135.00
+WBNB Price: $485.11
+Staked: 0.0287 Cake-LP ($313.01)
+BORSHCH Per Week: 2191.30 ($0.37)
+APR: Day 0.02% Week 0.12% Year 6.13%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 BORSHCH ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[BTCST]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $812.76 TVL: $35,057.17
+BTCST Price: $25.62
+WBNB Price: $485.11
+Staked: 1.6095 Cake-LP ($1,308.16)
+BORSHCH Per Week: 2191.30 ($0.37)
+APR: Day 0.00% Week 0.03% Year 1.47%
+You are staking 0.00 [BTCST]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCST]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCST]-[WBNB] Cake LP
+Claim 0.00 BORSHCH ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $260.99 TVL: $8,051,479.03
+Cake Price: $25.00
+WBNB Price: $485.11
+Staked: 3.1907 Cake-LP ($832.75)
+BORSHCH Per Week: 2191.30 ($0.37)
+APR: Day 0.01% Week 0.04% Year 2.30%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 BORSHCH ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,864.46 TVL: $3,525,624.23
+ETH Price: $3,330.19
+WBNB Price: $485.11
+Staked: 0.2990 Cake-LP ($856.33)
+BORSHCH Per Week: 2191.30 ($0.37)
+APR: Day 0.01% Week 0.04% Year 2.24%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 BORSHCH ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $2,586,397.48
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 5.8495 Cake-LP ($11.97)
+BORSHCH Per Week: 2191.30 ($0.37)
+APR: Day 0.44% Week 3.08% Year 160.19%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 BORSHCH ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.13 TVL: $4,006,238.72
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0960 Cake-LP ($0.20)
+BORSHCH Per Week: 2191.30 ($0.37)
+APR: Day 25.71% Week 179.94% Year 9356.93%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 BORSHCH ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[BORSHCH]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $123.39
+BORSHCH Price: $0.000168
+BUSD Price: $1.00
+Staked: 4344.7158 Cake-LP ($121.26)
+BORSHCH Per Week: 10956.52 ($1.84)
+APR: Day 0.22% Week 1.52% Year 79.07%
+You are staking 0.00 [BORSHCH]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BORSHCH]-[BUSD] Cake LP
+Unstake 0.00 [BORSHCH]-[BUSD] Cake LP
+Claim 0.00 BORSHCH ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+BORSHCH
+ Price: $0.000168 Market Cap: $800.22 
+[%]
+Staked: 1902972.3685 BORSHCH ($320.27)
+BORSHCH Per Week: 10956.52 ($1.84)
+APR: Day 0.08% Week 0.58% Year 29.94%
+You are staking 0.00 BORSHCH ($0.00), 0.00% of the pool.
+Stake 0.00 BORSHCH
+Unstake 0.00 BORSHCH
+Claim 0.00 BORSHCH ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $4,058.99

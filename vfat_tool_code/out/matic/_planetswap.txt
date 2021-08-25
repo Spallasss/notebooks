@@ -1,0 +1,161 @@
+INFO  : https://venus.planetswap.app
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:34:39 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 10 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[VENUS] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $25,924.88 TVL: $9.04
+USDC Price: $1.00
+VENUS Price: $0.000120
+Staked: 0.0003 UNI-V2 ($8.84)
+VENUS Per Week: 21334.24 ($2.56)
+APR: Day 4.14% Week 28.97% Year 1506.67%
+You are staking 0.00 [USDC]-[VENUS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[VENUS] Uni LP
+Unstake 0.00 [USDC]-[VENUS] Uni LP
+Claim 0.00 VENUS ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[VENUS] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $24.24
+WMATIC Price: $1.64
+VENUS Price: $0.000120
+Staked: 609.6853 UNI-V2 ($18.50)
+VENUS Per Week: 21334.24 ($2.56)
+APR: Day 1.98% Week 13.84% Year 719.55%
+You are staking 0.00 [WMATIC]-[VENUS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[VENUS] Uni LP
+Unstake 0.00 [WMATIC]-[VENUS] Uni LP
+Claim 0.00 VENUS ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,604,783.32 TVL: $33,318,178.29
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($41.73)
+VENUS Per Week: 15556.21 ($1.87)
+APR: Day 0.64% Week 4.47% Year 232.64%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 3.5%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 VENUS ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+VENUS
+ Price: $0.000120 Market Cap: $57.42 
+[%]
+Staked: 128578.2762 VENUS ($15.43)
+VENUS Per Week: 15556.21 ($1.87)
+APR: Day 1.73% Week 12.10% Year 629.13%
+You are staking 0.00 VENUS ($0.00), 0.00% of the pool.
+Stake 0.00 VENUS
+Unstake 0.00 VENUS
+Claim 0.00 VENUS ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WMATIC
+ Price: $1.64 Market Cap: $602,042,801.22 
+[%]
+Staked: 2.8732 WMATIC ($4.71)
+VENUS Per Week: 11111.58 ($1.33)
+APR: Day 4.04% Week 28.30% Year 1471.65%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 3.5%
+Unstake 0.00 WMATIC
+Claim 0.00 VENUS ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WETH
+ Price: $3,325.22 Market Cap: $2,027,570,707.72 
+[%]
+Staked: 0.0006 WETH ($2.02)
+VENUS Per Week: 11111.58 ($1.33)
+APR: Day 9.45% Week 66.14% Year 3439.51%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 3.5%
+Unstake 0.00 WETH
+Claim 0.00 VENUS ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WBTC
+ Price: $50,090.00 Market Cap: $698,147,268.87 
+[%]
+Staked: 0.0000 WBTC ($2.03)
+VENUS Per Week: 11111.58 ($1.33)
+APR: Day 9.37% Week 65.61% Year 3411.57%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 3.5%
+Unstake 0.00 WBTC
+Claim 0.00 VENUS ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+DAI
+ Price: $1.00 Market Cap: $376,699,668.04 
+[%]
+Staked: 1.9650 DAI ($1.96)
+VENUS Per Week: 11111.58 ($1.33)
+APR: Day 9.70% Week 67.92% Year 3531.59%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 3.5%
+Unstake 0.00 DAI
+Claim 0.00 VENUS ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+USDT
+ Price: $1.00 Market Cap: $315,032,588.68 
+[%]
+Staked: 1.8685 USDT ($1.87)
+VENUS Per Week: 11111.58 ($1.33)
+APR: Day 10.20% Week 71.43% Year 3714.16%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 3.5%
+Unstake 0.00 USDT
+Claim 0.00 VENUS ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+USDC
+ Price: $1.00 Market Cap: $1,043,210,596.83 
+[%]
+Staked: 13.0754 USDC ($13.06)
+VENUS Per Week: 11111.58 ($1.33)
+APR: Day 1.46% Week 10.21% Year 530.84%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 3.5%
+Unstake 0.00 USDC
+Claim 0.00 VENUS ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $110.16

@@ -1,0 +1,352 @@
+INFO  : https://www.lydia.finance
+******************************************************************************
+
+Mon Aug 23 2021 13:14:25 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 24 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+LYD
+ Price: $0.03 Market Cap: $4,116,901.51 
+Staked: 65265157.0984 LYD ($2,075,041.32)
+LYD Per Week: 1209479.44 ($38,454.21)
+APR: Day 0.26% Week 1.85% Year 96.37%
+You are staking 0.00 LYD ($0.00), 0.00% of the pool.
+Stake 0.00 LYD
+Unstake 0.00 LYD
+Claim 0.00 LYD ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WAVAX]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $16,675,095.48 TVL: $17,248.59
+WAVAX Price: $49.33
+USDT Price: $1.24
+Staked: 0.0010 Lydia-LP ($17,098.57)
+LYD Per Week: 24112.43 ($766.63)
+APR: Day 0.64% Week 4.48% Year 233.15%
+You are staking 0.00 [WAVAX]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[USDT] Uni LP
+Unstake 0.00 [WAVAX]-[USDT] Uni LP
+Claim 0.00 LYD ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WAVAX]-[ETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,033.29 TVL: $68,997.65
+WAVAX Price: $49.33
+ETH Price: $5,310.05
+Staked: 66.2253 Lydia-LP ($68,429.98)
+LYD Per Week: 48224.86 ($1,533.26)
+APR: Day 0.32% Week 2.24% Year 116.51%
+You are staking 0.00 [WAVAX]-[ETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[ETH] Uni LP
+Unstake 0.00 [WAVAX]-[ETH] Uni LP
+Claim 0.00 LYD ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[LYD]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $429,175.23 TVL: $299,207.31
+LYD Price: $0.03
+USDT Price: $1.24
+Staked: 0.6542 Lydia-LP ($280,774.05)
+LYD Per Week: 482248.58 ($15,332.62)
+APR: Day 0.78% Week 5.46% Year 283.96%
+You are staking 0.00 [LYD]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LYD]-[USDT] Uni LP
+Unstake 0.00 [LYD]-[USDT] Uni LP
+Claim 0.00 LYD ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[LYD]-[WAVAX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.93 TVL: $629,856.01
+LYD Price: $0.03
+WAVAX Price: $49.33
+Staked: 214000.3804 Lydia-LP ($626,640.22)
+LYD Per Week: 964497.16 ($30,665.24)
+APR: Day 0.70% Week 4.89% Year 254.47%
+You are staking 0.00 [LYD]-[WAVAX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LYD]-[WAVAX] Uni LP
+Unstake 0.00 [LYD]-[WAVAX] Uni LP
+Claim 0.00 LYD ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[LYD]-[PNG] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.70 TVL: $262,636.67
+LYD Price: $0.03
+PNG Price: $3.49
+Staked: 371083.4486 Lydia-LP ($261,462.25)
+LYD Per Week: 361686.43 ($11,499.46)
+APR: Day 0.63% Week 4.40% Year 228.70%
+You are staking 0.00 [LYD]-[PNG] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LYD]-[PNG] Uni LP
+Unstake 0.00 [LYD]-[PNG] Uni LP
+Claim 0.00 LYD ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[LYD]-[ETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $26.78 TVL: $172,398.45
+LYD Price: $0.03
+ETH Price: $5,310.05
+Staked: 6431.6553 Lydia-LP ($172,219.28)
+LYD Per Week: 241124.29 ($7,666.31)
+APR: Day 0.64% Week 4.45% Year 231.48%
+You are staking 0.00 [LYD]-[ETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LYD]-[ETH] Uni LP
+Unstake 0.00 [LYD]-[ETH] Uni LP
+Claim 0.00 LYD ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[LYD]-[SNOB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.45 TVL: $100,422.32
+LYD Price: $0.03
+SNOB Price: $1.55
+Staked: 220552.9192 Lydia-LP ($99,546.82)
+LYD Per Week: 96449.72 ($3,066.52)
+APR: Day 0.44% Week 3.08% Year 160.19%
+You are staking 0.00 [LYD]-[SNOB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LYD]-[SNOB] Uni LP
+Unstake 0.00 [LYD]-[SNOB] Uni LP
+Claim 0.00 LYD ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[YAK]-[WAVAX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,392.72 TVL: $1,629,427.64
+YAK Price: $9,630.94
+WAVAX Price: $49.33
+Staked: 1168.0947 Lydia-LP ($1,626,829.16)
+LYD Per Week: 241124.29 ($7,666.31)
+APR: Day 0.07% Week 0.47% Year 24.50%
+You are staking 0.00 [YAK]-[WAVAX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [YAK]-[WAVAX] Uni LP
+Unstake 0.00 [YAK]-[WAVAX] Uni LP
+Claim 0.00 LYD ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[QI]-[WAVAX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7.13 TVL: $62,332.25
+QI Price: $0.25
+WAVAX Price: $49.33
+Staked: 8731.3015 Lydia-LP ($62,255.17)
+LYD Per Week: 96449.72 ($3,066.52)
+APR: Day 0.70% Week 4.93% Year 256.14%
+You are staking 0.00 [QI]-[WAVAX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [QI]-[WAVAX] Uni LP
+Unstake 0.00 [QI]-[WAVAX] Uni LP
+Claim 0.00 LYD ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[LYD]-[USDT.e] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $359,627.25 TVL: $146,285.68
+LYD Price: $0.03
+USDT.e Price: $1.00
+Staked: 0.4060 Lydia-LP ($146,021.10)
+LYD Per Week: 482248.58 ($15,332.62)
+APR: Day 1.50% Week 10.50% Year 546.01%
+You are staking 0.00 [LYD]-[USDT.e] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LYD]-[USDT.e] Uni LP
+Unstake 0.00 [LYD]-[USDT.e] Uni LP
+Claim 0.00 LYD ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[WAVAX]-[USDT.e] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $14,135,634.05 TVL: $106,714.26
+WAVAX Price: $49.33
+USDT.e Price: $1.00
+Staked: 0.0074 Lydia-LP ($104,266.32)
+LYD Per Week: 48224.86 ($1,533.26)
+APR: Day 0.21% Week 1.47% Year 76.47%
+You are staking 0.00 [WAVAX]-[USDT.e] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[USDT.e] Uni LP
+Unstake 0.00 [WAVAX]-[USDT.e] Uni LP
+Claim 0.00 LYD ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[WETH.e]-[WAVAX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $807.16 TVL: $70,109.45
+WETH.e Price: $3,288.68
+WAVAX Price: $49.33
+Staked: 86.7489 Lydia-LP ($70,020.02)
+LYD Per Week: 96449.72 ($3,066.52)
+APR: Day 0.63% Week 4.38% Year 227.73%
+You are staking 0.00 [WETH.e]-[WAVAX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH.e]-[WAVAX] Uni LP
+Unstake 0.00 [WETH.e]-[WAVAX] Uni LP
+Claim 0.00 LYD ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[WETH.e]-[LYD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $20.51 TVL: $91,830.72
+WETH.e Price: $3,288.68
+LYD Price: $0.03
+Staked: 4473.7023 Lydia-LP ($91,759.33)
+LYD Per Week: 241124.29 ($7,666.31)
+APR: Day 1.19% Week 8.35% Year 434.45%
+You are staking 0.00 [WETH.e]-[LYD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH.e]-[LYD] Uni LP
+Unstake 0.00 [WETH.e]-[LYD] Uni LP
+Claim 0.00 LYD ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[SUSHI.e]-[WAVAX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $52.36 TVL: $9,012.79
+SUSHI.e Price: $13.84
+WAVAX Price: $49.33
+Staked: 170.7838 Lydia-LP ($8,942.10)
+LYD Per Week: 24112.43 ($766.63)
+APR: Day 1.22% Week 8.57% Year 445.81%
+You are staking 0.00 [SUSHI.e]-[WAVAX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SUSHI.e]-[WAVAX] Uni LP
+Unstake 0.00 [SUSHI.e]-[WAVAX] Uni LP
+Claim 0.00 LYD ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[WBTC.e]-[WAVAX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $313,803,831.30 TVL: $32,955.73
+WBTC.e Price: $49,811.65
+WAVAX Price: $49.33
+Staked: 0.0001 Lydia-LP ($32,876.73)
+LYD Per Week: 48224.86 ($1,533.26)
+APR: Day 0.67% Week 4.66% Year 242.51%
+You are staking 0.00 [WBTC.e]-[WAVAX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC.e]-[WAVAX] Uni LP
+Unstake 0.00 [WBTC.e]-[WAVAX] Uni LP
+Claim 0.00 LYD ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[USDT.e]-[DAI.e] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,020,529.92 TVL: $60,070.76
+USDT.e Price: $1.00
+DAI.e Price: $1.02
+Staked: 0.0287 Lydia-LP ($57,889.63)
+LYD Per Week: 12056.21 ($383.32)
+APR: Day 0.09% Week 0.66% Year 34.43%
+You are staking 0.00 [USDT.e]-[DAI.e] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT.e]-[DAI.e] Uni LP
+Unstake 0.00 [USDT.e]-[DAI.e] Uni LP
+Claim 0.00 LYD ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[LINK.e]-[WAVAX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $75.42 TVL: $75,071.76
+LINK.e Price: $28.73
+WAVAX Price: $49.33
+Staked: 994.2255 Lydia-LP ($74,982.33)
+LYD Per Week: 120562.14 ($3,833.15)
+APR: Day 0.73% Week 5.11% Year 265.83%
+You are staking 0.00 [LINK.e]-[WAVAX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LINK.e]-[WAVAX] Uni LP
+Unstake 0.00 [LINK.e]-[WAVAX] Uni LP
+Claim 0.00 LYD ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $5,877,054.38

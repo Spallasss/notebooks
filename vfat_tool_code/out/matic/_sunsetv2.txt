@@ -1,0 +1,274 @@
+INFO  :  https://sunsetv2.finance/
+*******************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 13:01:41 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 18 pools.
+
+0 - 
+[USDC]-[SUN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,808,528.40 TVL: $1,522.94
+USDC Price: $1.00
+SUN Price: $0.63
+Staked: 0.0006 UNI-V2 ($1,005.22)
+SUNSET Per Week: 88.04347826 ($615.65)
+APR: Day 8.75% Week 61.25% Year 3184.76%
+You are staking 0.00000000 [USDC]-[SUN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00000000 [USDC]-[SUN] Uni LP
+Unstake 0.00000000 [USDC]-[SUN] Uni LP
+Claim 0.00000000 SUNSET ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[USDC]-[LEO] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $151,127,187.85 TVL: $92,417.04
+USDC Price: $1.00
+LEO Price: $5,103.85
+Staked: 0.0000 UNI-V2 ($22.67)
+SUNSET Per Week: 3.52173913 ($24.63)
+APR: Day 15.52% Week 108.63% Year 5648.93%
+You are staking 0.00000000 [USDC]-[LEO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00000000 [USDC]-[LEO] Uni LP - Fee 1%
+Unstake 0.00000000 [USDC]-[LEO] Uni LP
+Claim 0.00000000 SUNSET ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBTC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,288,654,244,440.99 TVL: $97,557,327.58
+WBTC Price: $49,992.00
+WETH Price: $3,318.04
+Staked: 0.0000 UNI-V2 ($5,714.41)
+SUNSET Per Week: 8.80434783 ($61.57)
+APR: Day 0.15% Week 1.08% Year 56.02%
+You are staking 0.00000000 [WBTC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00000000 [WBTC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00000000 [WBTC]-[WETH] Uni LP
+Claim 0.00000000 SUNSET ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $74,947,110.09 TVL: $21,381,063.31
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 UNI-V2 ($1,076.23)
+SUNSET Per Week: 5.28260870 ($36.94)
+APR: Day 0.49% Week 3.43% Year 178.48%
+You are staking 0.00000000 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00000000 [USDC]-[DAI] Uni LP - Fee 4%
+Unstake 0.00000000 [USDC]-[DAI] Uni LP
+Claim 0.00000000 SUNSET ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WMATIC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $188.29 TVL: $122,504,951.44
+WMATIC Price: $1.64
+WETH Price: $3,318.04
+Staked: 16.5998 UNI-V2 ($3,125.65)
+SUNSET Per Week: 5.28260870 ($36.94)
+APR: Day 0.17% Week 1.18% Year 61.45%
+You are staking 0.00000000 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00000000 [WMATIC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00000000 [WMATIC]-[WETH] Uni LP
+Claim 0.00000000 SUNSET ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+SUN
+ Price: $0.63 Market Cap: $2,583.41 
+[%]
+Staked: 868.0367 SUN ($546.80)
+SUNSET Per Week: 52.82608696 ($369.39)
+APR: Day 9.65% Week 67.56% Year 3512.89%
+You are staking 0.00000000 SUN ($0.00), 0.00% of the pool.
+Stake 0.00000000 SUN
+Unstake 0.00000000 SUN
+Claim 0.00000000 SUNSET ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WMATIC
+ Price: $1.64 Market Cap: $603,164,261.77 
+[%]
+Staked: 281.6583 WMATIC ($461.92)
+SUNSET Per Week: 1.76086957 ($12.31)
+APR: Day 0.38% Week 2.67% Year 138.61%
+You are staking 0.00000000 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00000000 WMATIC - Fee 4%
+Unstake 0.00000000 WMATIC
+Claim 0.00000000 SUNSET ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+USDC
+ Price: $1.00 Market Cap: $1,042,339,558.09 
+[%]
+Staked: 588.5864 USDC ($587.79)
+SUNSET Per Week: 1.76086957 ($12.31)
+APR: Day 0.30% Week 2.09% Year 108.93%
+You are staking 0.00000000 USDC ($0.00), 0.00% of the pool.
+Stake 0.00000000 USDC - Fee 4%
+Unstake 0.00000000 USDC
+Claim 0.00000000 SUNSET ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+WETH
+ Price: $3,318.04 Market Cap: $2,022,910,098.43 
+[%]
+Staked: 0.9384 WETH ($3,113.48)
+SUNSET Per Week: 3.52173913 ($24.63)
+APR: Day 0.11% Week 0.79% Year 41.13%
+You are staking 0.00000000 WETH ($0.00), 0.00% of the pool.
+Stake 0.00000000 WETH - Fee 4%
+Unstake 0.00000000 WETH
+Claim 0.00000000 SUNSET ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+WBTC
+ Price: $49,992.00 Market Cap: $696,581,390.86 
+[%]
+Staked: 0.0409 WBTC ($2,045.20)
+SUNSET Per Week: 3.52173913 ($24.63)
+APR: Day 0.17% Week 1.20% Year 62.61%
+You are staking 0.00000000 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00000000 WBTC - Fee 4%
+Unstake 0.00000000 WBTC
+Claim 0.00000000 SUNSET ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+LINK
+ Price: $28.58 Market Cap: $64,856,052.00 
+[%]
+Staked: 14.4000 LINK ($411.55)
+SUNSET Per Week: 3.52173913 ($24.63)
+APR: Day 0.85% Week 5.98% Year 311.15%
+You are staking 0.00000000 LINK ($0.00), 0.00% of the pool.
+Stake 0.00000000 LINK - Fee 4%
+Unstake 0.00000000 LINK
+Claim 0.00000000 SUNSET ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+UTOPIA
+ Price: $0.52 Market Cap: $13,871.55 
+[%]
+Staked: 258.4867 UTOPIA ($135.03)
+SUNSET Per Week: 1.76086957 ($12.31)
+APR: Day 1.30% Week 9.12% Year 474.17%
+You are staking 0.00000000 UTOPIA ($0.00), 0.00% of the pool.
+Stake 0.00000000 UTOPIA
+Unstake 0.00000000 UTOPIA
+Claim 0.00000000 SUNSET ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+ELYSM
+ Price: $0.008272 Market Cap: $15,091.74 
+[%]
+Staked: 42587.0007 ELYSM ($352.29)
+SUNSET Per Week: 1.76086957 ($12.31)
+APR: Day 0.50% Week 3.50% Year 181.75%
+You are staking 0.00000000 ELYSM ($0.00), 0.00% of the pool.
+Stake 0.00000000 ELYSM
+Unstake 0.00000000 ELYSM
+Claim 0.00000000 SUNSET ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+xUSD
+ Price: $1.07 Market Cap: $2,265,041.86 
+[%]
+Staked: 1333.3447 xUSD ($1,426.99)
+SUNSET Per Week: 7.04347826 ($49.25)
+APR: Day 0.49% Week 3.45% Year 179.48%
+You are staking 0.00000000 xUSD ($0.00), 0.00% of the pool.
+Stake 0.00000000 xUSD - Fee 2%
+Unstake 0.00000000 xUSD
+Claim 0.00000000 SUNSET ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+LEO
+ Price: $5,103.85 Market Cap: $510,384.95 
+[%]
+Staked: 0.9643 LEO ($4,921.44)
+SUNSET Per Week: 1.76086957 ($12.31)
+APR: Day 0.04% Week 0.25% Year 13.01%
+You are staking 0.00000000 LEO ($0.00), 0.00% of the pool.
+Stake 0.00000000 LEO - Fee 1%
+Unstake 0.00000000 LEO
+Claim 0.00000000 SUNSET ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+SUNSET
+ Price: $6.99 Market Cap: $3,663.27 
+[%]
+Staked: 157.4961 SUNSET ($1,101.31)
+SUNSET Per Week: 88.04347826 ($615.65)
+APR: Day 7.99% Week 55.90% Year 2906.90%
+You are staking 0.00000000 SUNSET ($0.00), 0.00% of the pool.
+Stake 0.00000000 SUNSET
+Unstake 0.00000000 SUNSET
+Claim 0.00000000 SUNSET ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+RGEM
+ Price: $7.75 Market Cap: $15,066.66 
+[%]
+Staked: 4.2640 RGEM ($33.03)
+SUNSET Per Week: 1.76086957 ($12.31)
+APR: Day 5.33% Week 37.28% Year 1938.70%
+You are staking 0.00000000 RGEM ($0.00), 0.00% of the pool.
+Stake 0.00000000 RGEM
+Unstake 0.00000000 RGEM
+Claim 0.00000000 SUNSET ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[WMATIC]-[SUNSET] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7.56 TVL: $3,972.75
+WMATIC Price: $1.64
+SUNSET Price: $6.99
+Staked: 140.5973 UNI-V2 ($1,063.34)
+SUNSET Per Week: 114.45652174 ($800.35)
+APR: Day 10.75% Week 75.27% Year 3913.92%
+You are staking 0.00000000 [WMATIC]-[SUNSET] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00000000 [WMATIC]-[SUNSET] Uni LP
+Unstake 0.00000000 [WMATIC]-[SUNSET] Uni LP
+Claim 0.00000000 SUNSET ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $27,144.35

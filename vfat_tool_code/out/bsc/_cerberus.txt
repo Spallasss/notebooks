@@ -1,0 +1,1573 @@
+INFO  : https://gocerberus.finance
+***************************************************************************************
+
+Mon Aug 23 2021 14:34:03 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 95 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+CERBERUS
+ Price: $0.0000000000 Market Cap: $2,609,650,086.51 
+[%]
+Staked: 0.0000 CERBERUS ($0.00)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CERBERUS ($0.00), NaN% of the pool.
+Stake 0.00 CERBERUS
+Unstake 0.00 CERBERUS
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[CERBERUS]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $581.09
+CERBERUS Price: $0.0000000000
+WBNB Price: $484.25
+Staked: 295775.3024 Cake-LP ($49.18)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [CERBERUS]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CERBERUS]-[WBNB] Cake LP
+Unstake 0.00 [CERBERUS]-[WBNB] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[CERBERUS]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $39.88
+CERBERUS Price: $0.0000000000
+BUSD Price: $1.00
+Staked: 658896.1972 Cake-LP ($1.14)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [CERBERUS]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CERBERUS]-[BUSD] Cake LP
+Unstake 0.00 [CERBERUS]-[BUSD] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WBNB
+ Price: $484.25 Market Cap: $3,429,126,989.70 
+[%]
+Staked: 225.5619 WBNB ($109,228.36)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 2%
+Unstake 0.00 WBNB
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+ETH
+ Price: $3,325.57 Market Cap: $4,339,868,850.00 
+[%]
+Staked: 2.3076 ETH ($7,674.14)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 2%
+Unstake 0.00 ETH
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+BUSD
+ Price: $1.00 Market Cap: $4,196,290,079.67 
+[%]
+Staked: 2711.1406 BUSD ($2,708.10)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 1.0095 BTCB ($50,427.13)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 2%
+Unstake 0.00 BTCB
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+Cake
+ Price: $25.00 Market Cap: $10,403,157,182.67 
+[%]
+Staked: 70.6717 Cake ($1,766.79)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 2%
+Unstake 0.00 Cake
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+DOT
+ Price: $27.99 Market Cap: $391,859,999.86 
+[%]
+Staked: 4.4402 DOT ($124.28)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 2%
+Unstake 0.00 DOT
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+ADA
+ Price: $2.82 Market Cap: $789,600,000.00 
+[%]
+Staked: 74.6583 ADA ($210.54)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 2%
+Unstake 0.00 ADA
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+XRP
+ Price: $1.25 Market Cap: $271,250,000.00 
+[%]
+Staked: 281.6711 XRP ($352.09)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 XRP ($0.00), 0.00% of the pool.
+Stake 0.00 XRP - Fee 2%
+Unstake 0.00 XRP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+LINK
+ Price: $28.73 Market Cap: $247,078,000.00 
+[%]
+Staked: 0.2496 LINK ($7.17)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 2%
+Unstake 0.00 LINK
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+LTC
+ Price: $187.89 Market Cap: $111,794,550.00 
+[%]
+Staked: 0.2059 LTC ($38.68)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 LTC ($0.00), 0.00% of the pool.
+Stake 0.00 LTC - Fee 2%
+Unstake 0.00 LTC
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+DOGE
+ Price: $0.32 Market Cap: $649,310,000.00 
+[%]
+Staked: 4928.0943 DOGE ($1,599.93)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DOGE ($0.00), 0.00% of the pool.
+Stake 0.00 DOGE - Fee 2%
+Unstake 0.00 DOGE
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+UNI
+ Price: $29.41 Market Cap: $108,817,000.00 
+[%]
+Staked: 9.5483 UNI ($280.82)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 UNI ($0.00), 0.00% of the pool.
+Stake 0.00 UNI - Fee 2%
+Unstake 0.00 UNI
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.74 TVL: $527,438,866.37
+WBNB Price: $484.25
+BUSD Price: $1.00
+Staked: 1.3797 Cake-LP ($68.63)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,214.33 TVL: $173,748,782.89
+BTCB Price: $49,954.00
+WBNB Price: $484.25
+Staked: 0.0000 Cake-LP ($0.00)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,650.45 TVL: $261,621,311.50
+ETH Price: $3,325.57
+WBNB Price: $484.25
+Staked: 0.0000 Cake-LP ($0.00)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $240.39 TVL: $82,654,032.17
+DOT Price: $27.99
+WBNB Price: $484.25
+Staked: 6.5257 Cake-LP ($1,568.70)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[USDT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.61 TVL: $251,885,712.40
+USDT Price: $1.00
+WBNB Price: $484.25
+Staked: 5.7349 Cake-LP ($290.26)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $224.99 TVL: $1,029,753,129.61
+Cake Price: $25.00
+WBNB Price: $484.25
+Staked: 3.2470 Cake-LP ($730.56)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[WBNB]-[UNI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $243.25 TVL: $33,930,824.20
+WBNB Price: $484.25
+UNI Price: $29.41
+Staked: 0.0344 Cake-LP ($8.36)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[UNI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[UNI] Cake LP - Fee 2%
+Unstake 0.00 [WBNB]-[UNI] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[XRP]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.80 TVL: $38,900,176.28
+XRP Price: $1.25
+WBNB Price: $484.25
+Staked: 29.7487 Cake-LP ($1,511.14)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [XRP]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XRP]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [XRP]-[WBNB] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.12 TVL: $46,769,215.80
+ADA Price: $2.82
+WBNB Price: $484.25
+Staked: 0.9832 Cake-LP ($75.82)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[WBNB]-[LINK] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $241.02 TVL: $47,632,064.62
+WBNB Price: $484.25
+LINK Price: $28.73
+Staked: 15.2911 Cake-LP ($3,685.49)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LINK] Cake LP - Fee 2%
+Unstake 0.00 [WBNB]-[LINK] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[LTC]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $619.67 TVL: $11,567,655.62
+LTC Price: $187.89
+WBNB Price: $484.25
+Staked: 0.1313 Cake-LP ($81.34)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [LTC]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LTC]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [LTC]-[WBNB] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+[BTCB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $472.44 TVL: $139,025,031.32
+BTCB Price: $49,954.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [BTCB]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [BTCB]-[BUSD] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,914,241.03
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0192 Cake-LP ($0.04)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+GARUDA
+ Price: $0.00 Market Cap: $0.00 
+Staked: 914312070926.7742 GARUDA ($0.00)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 GARUDA ($0.00), NaN% of the pool.
+Stake 0.00 GARUDA
+Unstake 0.00 GARUDA
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,204,989.00 
+[%]
+Staked: 533.9080 USDC ($533.37)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+DAI
+ Price: $1.00 Market Cap: $261,927,426.00 
+[%]
+Staked: 811.1584 DAI ($810.93)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+UST
+ Price: $1.00 Market Cap: $37,056,424.85 
+[%]
+Staked: 174.8848 UST ($174.88)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 UST ($0.00), 0.00% of the pool.
+Stake 0.00 UST - Fee 4%
+Unstake 0.00 UST
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+[WBNB]-[τDOGE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,241,526.89 TVL: $194,675.73
+WBNB Price: $484.25
+τDOGE Price: $0.04
+Staked: 0.0000 Cake-LP ($3.73)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[τDOGE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[τDOGE] Cake LP - Fee 2%
+Unstake 0.00 [WBNB]-[τDOGE] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+33 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,315,593.48
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+34 - 
+[UST]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $50,252,024.67
+UST Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [UST]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [UST]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [UST]-[BUSD] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+35 - 
+[USDC]-[CERBERUS] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.57
+USDC Price: $1.00
+CERBERUS Price: $0.0000000000
+Staked: 442760.4981 Cake-LP ($0.34)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[CERBERUS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[CERBERUS] Cake LP
+Unstake 0.00 [USDC]-[CERBERUS] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+36 - 
+[USDT]-[CERBERUS] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $2.69
+USDT Price: $1.00
+CERBERUS Price: $0.0000000000
+Staked: 145105.6880 Cake-LP ($0.24)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT]-[CERBERUS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[CERBERUS] Cake LP
+Unstake 0.00 [USDT]-[CERBERUS] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+37 - 
+USDT
+ Price: $1.00 Market Cap: $3,377,554,183.68 
+[%]
+Staked: 3463.3981 USDT ($3,460.89)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+38 - 
+VAI
+ Price: $0.78 Market Cap: $150,466,691.41 
+[%]
+Staked: 10.0000 VAI ($7.85)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 VAI ($0.00), 0.00% of the pool.
+Stake 0.00 VAI - Fee 4%
+Unstake 0.00 VAI
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+39 - 
+[DOGE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,775,612.78 TVL: $26,106,278.50
+DOGE Price: $0.32
+WBNB Price: $484.25
+Staked: 0.0002 Cake-LP ($560.97)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DOGE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [DOGE]-[WBNB] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+40 - 
+[VAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.82 TVL: $25,442,664.86
+VAI Price: $0.78
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [VAI]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [VAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [VAI]-[BUSD] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+41 - 
+XVS
+ Price: $37.34 Market Cap: $1,120,200,000.00 
+[%]
+Staked: 19.0989 XVS ($713.15)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 XVS ($0.00), 0.00% of the pool.
+Stake 0.00 XVS - Fee 2%
+Unstake 0.00 XVS
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+42 - 
+[WBNB]-[XVS] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $303.48 TVL: $34,323,184.42
+WBNB Price: $484.25
+XVS Price: $37.34
+Staked: 0.0000 Cake-LP ($0.00)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WBNB]-[XVS] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[XVS] Cake LP - Fee 2%
+Unstake 0.00 [WBNB]-[XVS] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+43 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,223,717.28
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 852.5663 Cake-LP ($1,744.49)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+44 - 
+[DAI]-[CERBERUS] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.30
+DAI Price: $1.00
+CERBERUS Price: $0.0000000000
+Staked: 337311.7446 Cake-LP ($0.26)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DAI]-[CERBERUS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[CERBERUS] Cake LP
+Unstake 0.00 [DAI]-[CERBERUS] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+45 - 
+BUNNY
+ Price: $7.68 Market Cap: $85,284,682.19 
+[%]
+Staked: 46.4168 BUNNY ($356.48)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BUNNY ($0.00), 0.00% of the pool.
+Stake 0.00 BUNNY - Fee 2%
+Unstake 0.00 BUNNY
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+46 - 
+TRX
+ Price: $0.09 Market Cap: $291,203,880.00 
+[%]
+Staked: 35533.8061 TRX ($3,203.59)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 TRX ($0.00), 0.00% of the pool.
+Stake 0.00 TRX - Fee 2%
+Unstake 0.00 TRX
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+47 - 
+[WBNB]-[BUNNY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $156.38 TVL: $11,289,449.00
+WBNB Price: $484.25
+BUNNY Price: $7.68
+Staked: 5.2966 Cake-LP ($828.29)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[BUNNY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUNNY] Cake LP - Fee 2%
+Unstake 0.00 [WBNB]-[BUNNY] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+48 - 
+[TRX]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13.50 TVL: $17,777,219.33
+TRX Price: $0.09
+WBNB Price: $484.25
+Staked: 6.5507 Cake-LP ($88.42)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [TRX]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TRX]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [TRX]-[WBNB] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+49 - 
+[TUSD]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $120,799,233.67
+TUSD Price: $1.00
+BUSD Price: $1.00
+Staked: 2075.4862 Cake-LP ($4,154.99)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [TUSD]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TUSD]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [TUSD]-[BUSD] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+50 - 
+[ETH]-[CERBERUS] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $2.89
+ETH Price: $3,325.57
+CERBERUS Price: $0.0000000000
+Staked: 6372.7823 Cake-LP ($0.38)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ETH]-[CERBERUS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[CERBERUS] Cake LP
+Unstake 0.00 [ETH]-[CERBERUS] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+51 - 
+[ETH]-[SUSHI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $439.90 TVL: $18,313,065.47
+ETH Price: $3,325.57
+SUSHI Price: $13.91
+Staked: 0.0000 Cake-LP ($0.00)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [ETH]-[SUSHI] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[SUSHI] Cake LP - Fee 2%
+Unstake 0.00 [ETH]-[SUSHI] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+52 - 
+SUSHI
+ Price: $13.91 Market Cap: $41,722,738.02 
+[%]
+Staked: 21.0005 SUSHI ($292.07)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 2%
+Unstake 0.00 SUSHI
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+53 - 
+TUSD
+ Price: $1.00 Market Cap: $809,973,201.35 
+[%]
+Staked: 464.6497 TUSD ($462.92)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 TUSD ($0.00), 0.00% of the pool.
+Stake 0.00 TUSD - Fee 4%
+Unstake 0.00 TUSD
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+54 - 
+[TUSD]-[CERBERUS] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.26
+TUSD Price: $1.00
+CERBERUS Price: $0.0000000000
+Staked: 250673.5663 Cake-LP ($0.18)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [TUSD]-[CERBERUS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TUSD]-[CERBERUS] Cake LP
+Unstake 0.00 [TUSD]-[CERBERUS] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+55 - 
+SXP
+ Price: $3.70 Market Cap: $1,071,945,226.20 
+[%]
+Staked: 203.8187 SXP ($754.13)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 SXP ($0.00), 0.00% of the pool.
+Stake 0.00 SXP - Fee 2%
+Unstake 0.00 SXP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+56 - 
+[SXP]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $88.96 TVL: $14,221,991.29
+SXP Price: $3.70
+WBNB Price: $484.25
+Staked: 0.2776 Cake-LP ($24.69)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SXP]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SXP]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [SXP]-[WBNB] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+57 - 
+[USDT]-[USDC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $122,600,701.87
+USDT Price: $1.00
+USDC Price: $1.00
+Staked: 588.8213 Cake-LP ($1,215.11)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT]-[USDC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[USDC] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+58 - 
+[UST]-[CERBERUS] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.22
+UST Price: $1.00
+CERBERUS Price: $0.0000000000
+Staked: 221212.6415 Cake-LP ($0.15)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [UST]-[CERBERUS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[CERBERUS] Cake LP
+Unstake 0.00 [UST]-[CERBERUS] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+59 - 
+[WBNB]-[SFP] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $54.26 TVL: $23,061,138.29
+WBNB Price: $484.25
+SFP Price: $1.47
+Staked: 22.8921 Cake-LP ($1,242.23)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[SFP] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[SFP] Cake LP - Fee 2%
+Unstake 0.00 [WBNB]-[SFP] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+60 - 
+SFP
+ Price: $1.47 Market Cap: $736,699,998.23 
+[%]
+Staked: 1744.0775 SFP ($2,569.72)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 SFP ($0.00), 0.00% of the pool.
+Stake 0.00 SFP - Fee 2%
+Unstake 0.00 SFP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+61 - 
+[DAI]-[USDC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $7,785.46
+DAI Price: $1.00
+USDC Price: $1.00
+Staked: 117.7690 Cake-LP ($242.47)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DAI]-[USDC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDC] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[USDC] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+62 - 
+[DOT]-[CERBERUS] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.62
+DOT Price: $27.99
+CERBERUS Price: $0.0000000000
+Staked: 51062.6922 Cake-LP ($0.40)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DOT]-[CERBERUS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[CERBERUS] Cake LP
+Unstake 0.00 [DOT]-[CERBERUS] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+63 - 
+BETH
+ Price: $3,206.13 Market Cap: $320,613,000,000.00 
+[%]
+Staked: 0.0046 BETH ($14.91)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BETH ($0.00), 0.00% of the pool.
+Stake 0.00 BETH - Fee 2%
+Unstake 0.00 BETH
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+64 - 
+ALPACA
+ Price: $1.40 Market Cap: $208,042,104.10 
+[%]
+Staked: 798.2986 ALPACA ($1,117.62)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ALPACA ($0.00), 0.00% of the pool.
+Stake 0.00 ALPACA - Fee 2%
+Unstake 0.00 ALPACA
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+65 - 
+[ALPACA]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.57 TVL: $55,656,801.80
+ALPACA Price: $1.40
+BUSD Price: $1.00
+Staked: 29.6092 Cake-LP ($76.18)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ALPACA]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALPACA]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [ALPACA]-[BUSD] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+66 - 
+[Cake]-[CERBERUS] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $17.02
+Cake Price: $25.00
+CERBERUS Price: $0.0000000000
+Staked: 34383.5266 Cake-LP ($0.15)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [Cake]-[CERBERUS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[CERBERUS] Cake LP
+Unstake 0.00 [Cake]-[CERBERUS] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+67 - 
+[UST]-[USDC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.02 TVL: $15,037.64
+UST Price: $1.00
+USDC Price: $1.00
+Staked: 2207.0261 Cake-LP ($4,447.23)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [UST]-[USDC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[USDC] Cake LP - Fee 2%
+Unstake 0.00 [UST]-[USDC] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+68 - 
+[TUSD]-[USDC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $8,868.18
+TUSD Price: $1.00
+USDC Price: $1.00
+Staked: 6.3478 Cake-LP ($12.69)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [TUSD]-[USDC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TUSD]-[USDC] Cake LP - Fee 4%
+Unstake 0.00 [TUSD]-[USDC] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+69 - 
+[TUSD]-[USDT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $137.59
+TUSD Price: $1.00
+USDT Price: $1.00
+Staked: 0.6475 Cake-LP ($1.30)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [TUSD]-[USDT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TUSD]-[USDT] Cake LP - Fee 4%
+Unstake 0.00 [TUSD]-[USDT] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+70 - 
+[BTCB]-[CERBERUS] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $11.22
+BTCB Price: $49,954.00
+CERBERUS Price: $0.0000000000
+Staked: 1924.9155 Cake-LP ($0.32)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [BTCB]-[CERBERUS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[CERBERUS] Cake LP
+Unstake 0.00 [BTCB]-[CERBERUS] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+71 - 
+[TUSD]-[UST] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $151,079.65
+TUSD Price: $1.00
+UST Price: $1.00
+Staked: 241.1535 Cake-LP ($481.97)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [TUSD]-[UST] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TUSD]-[UST] Cake LP - Fee 4%
+Unstake 0.00 [TUSD]-[UST] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+72 - 
+[BETH]-[CERBERUS] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.36
+BETH Price: $3,206.13
+CERBERUS Price: $0.0000000000
+Staked: 2882.9498 Cake-LP ($0.25)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [BETH]-[CERBERUS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BETH]-[CERBERUS] Cake LP
+Unstake 0.00 [BETH]-[CERBERUS] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+73 - 
+[ADA]-[CERBERUS] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.84
+ADA Price: $2.82
+CERBERUS Price: $0.0000000000
+Staked: 228774.6702 Cake-LP ($0.67)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ADA]-[CERBERUS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[CERBERUS] Cake LP
+Unstake 0.00 [ADA]-[CERBERUS] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+74 - 
+AUTO
+ Price: $1,416.43 Market Cap: $90,825,530.21 
+[%]
+Staked: 0.1151 AUTO ($163.09)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 AUTO ($0.00), 0.00% of the pool.
+Stake 0.00 AUTO - Fee 4%
+Unstake 0.00 AUTO
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+76 - 
+[UST]-[USDT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.53 TVL: $12,686.87
+UST Price: $1.00
+USDT Price: $1.00
+Staked: 7.7885 Cake-LP ($19.72)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [UST]-[USDT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[USDT] Cake LP - Fee 4%
+Unstake 0.00 [UST]-[USDT] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+77 - 
+[LTC]-[CERBERUS] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.28
+LTC Price: $187.89
+CERBERUS Price: $0.0000000000
+Staked: 13329.2582 Cake-LP ($0.24)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [LTC]-[CERBERUS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LTC]-[CERBERUS] Cake LP
+Unstake 0.00 [LTC]-[CERBERUS] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+78 - 
+[DAI]-[USDT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.42 TVL: $213,762.43
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 0.0414 Cake-LP ($0.10)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DAI]-[USDT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDT] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[USDT] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+79 - 
+[SHIB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.23 TVL: $12,675.44
+SHIB Price: $0.0000083248
+WBNB Price: $484.25
+Staked: 4546.3592 Cake-LP ($1,044.08)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SHIB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SHIB]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [SHIB]-[WBNB] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+80 - 
+SHIB
+ Price: $0.0000083248 Market Cap: $35,130,632.24 
+[%]
+Staked: 35384778.0782 SHIB ($294.57)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 SHIB ($0.00), 0.00% of the pool.
+Stake 0.00 SHIB - Fee 4%
+Unstake 0.00 SHIB
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+81 - 
+[AUTO]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,686.64 TVL: $185,732.85
+AUTO Price: $1,416.43
+WBNB Price: $484.25
+Staked: 0.0688 Cake-LP ($184.80)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [AUTO]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AUTO]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [AUTO]-[WBNB] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+82 - 
+[CERBERUS]-[LAZY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $23.51
+CERBERUS Price: $0.0000000000
+LAZY Price: $0.000469
+Staked: 5771.2134 Cake-LP ($0.00)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [CERBERUS]-[LAZY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CERBERUS]-[LAZY] Cake LP
+Unstake 0.00 [CERBERUS]-[LAZY] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+83 - 
+[XRP]-[CERBERUS] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.36
+XRP Price: $1.25
+CERBERUS Price: $0.0000000000
+Staked: 125357.3539 Cake-LP ($0.19)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [XRP]-[CERBERUS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XRP]-[CERBERUS] Cake LP
+Unstake 0.00 [XRP]-[CERBERUS] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+84 - 
+[TUSD]-[DAI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $66.28
+TUSD Price: $1.00
+DAI Price: $1.00
+Staked: 1.0000 Cake-LP ($2.00)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [TUSD]-[DAI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TUSD]-[DAI] Cake LP - Fee 2%
+Unstake 0.00 [TUSD]-[DAI] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+85 - 
+BAKE
+ Price: $3.14 Market Cap: $2,289,777,766.35 
+[%]
+Staked: 33.2374 BAKE ($104.37)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BAKE ($0.00), 0.00% of the pool.
+Stake 0.00 BAKE - Fee 4%
+Unstake 0.00 BAKE
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+86 - 
+[VAI]-[CERBERUS] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.27
+VAI Price: $0.78
+CERBERUS Price: $0.0000000000
+Staked: 173204.2980 Cake-LP ($0.14)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [VAI]-[CERBERUS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VAI]-[CERBERUS] Cake LP
+Unstake 0.00 [VAI]-[CERBERUS] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+87 - 
+[DAI]-[UST] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.01 TVL: $4,775.84
+DAI Price: $1.00
+UST Price: $1.00
+Staked: 26.1974 Cake-LP ($52.55)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DAI]-[UST] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[UST] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[UST] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+88 - 
+MATIC
+ Price: $1.64 Market Cap: $3,280,000,000.00 
+[%]
+Staked: 57.4287 MATIC ($94.18)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 MATIC ($0.00), 0.00% of the pool.
+Stake 0.00 MATIC - Fee 4%
+Unstake 0.00 MATIC
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+89 - 
+[CERBERUS]-[DOGE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.04 TVL: $0.17
+CERBERUS Price: $0.0000000000
+DOGE Price: $0.32
+Staked: 2.5367 Cake-LP ($0.11)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [CERBERUS]-[DOGE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CERBERUS]-[DOGE] Cake LP
+Unstake 0.00 [CERBERUS]-[DOGE] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+90 - 
+BIFI
+ Price: $1,261.35 Market Cap: $100,908,000.00 
+[%]
+Staked: 0.0863 BIFI ($108.87)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BIFI ($0.00), 0.00% of the pool.
+Stake 0.00 BIFI - Fee 4%
+Unstake 0.00 BIFI
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+91 - 
+[WBNB]-[BAKE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $278.93 TVL: $145,200.92
+WBNB Price: $484.25
+BAKE Price: $3.14
+Staked: 0.0000 Cake-LP ($0.00)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WBNB]-[BAKE] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BAKE] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BAKE] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+92 - 
+[CERBERUS]-[LINK] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.16
+CERBERUS Price: $0.0000000000
+LINK Price: $28.73
+Staked: 23376.0152 Cake-LP ($0.14)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [CERBERUS]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CERBERUS]-[LINK] Cake LP
+Unstake 0.00 [CERBERUS]-[LINK] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+93 - 
+[CERBERUS]-[UNI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $4.47
+CERBERUS Price: $0.0000000000
+UNI Price: $29.41
+Staked: 1892.1718 Cake-LP ($0.01)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [CERBERUS]-[UNI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CERBERUS]-[UNI] Cake LP
+Unstake 0.00 [CERBERUS]-[UNI] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+94 - 
+[VAI]-[USDT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.79 TVL: $122.13
+VAI Price: $0.78
+USDT Price: $1.00
+Staked: 63.1108 Cake-LP ($112.73)
+CERBERUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [VAI]-[USDT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VAI]-[USDT] Cake LP - Fee 4%
+Unstake 0.00 [VAI]-[USDT] Cake LP
+Claim 0.00 CERBERUS ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $214,271.12

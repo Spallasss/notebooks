@@ -1,0 +1,44 @@
+INFO  : https://lever.network
+**************************************************************************
+
+Mon Aug 23 2021 15:47:04 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[LEV]-[WETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $55.43 TVL: $319,345.00
+LEV Price: $0.22
+WETH Price: $3,328.40
+Staked: 132.1067 SLP ($7,322.41)
+LEV Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [LEV]-[WETH] SLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [LEV]-[WETH] SLP
+Unstake 0.000000 [LEV]-[WETH] SLP
+Claim 0.000000 LEV ($0.00)
+Revoke (set approval to 0)
+Exit
+LEV
+ Price: $0.22 Market Cap: $22,416,300.00 
+[%]
+Staked: 215214.8545 LEV ($48,243.21)
+LEV Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 LEV $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 LEV
+Unstake 0.000000 LEV
+Claim 0.000000 LEV ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $55,565.62

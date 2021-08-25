@@ -1,0 +1,429 @@
+INFO  : https://jasmine.1001nights.gold
+***************************************************************************************
+
+Mon Aug 23 2021 15:13:11 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 27 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.98 TVL: $526,663,786.36
+WBNB Price: $489.12
+BUSD Price: $1.00
+Staked: 0.0115 Cake-LP ($0.58)
+JASMINE Per Week: 710.96 ($2.01)
+APR: Day 49.90% Week 349.33% Year 18165.32%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 JASMINE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[USDT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.88 TVL: $252,208,837.53
+USDT Price: $1.00
+WBNB Price: $489.12
+Staked: 0.0000 Cake-LP ($0.00)
+JASMINE Per Week: 639.87 ($1.81)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 JASMINE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,254.41 TVL: $174,598,408.74
+BTCB Price: $49,844.00
+WBNB Price: $489.12
+Staked: 0.0000 Cake-LP ($0.00)
+JASMINE Per Week: 639.87 ($1.81)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 JASMINE ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,667.26 TVL: $263,258,630.69
+ETH Price: $3,334.12
+WBNB Price: $489.12
+Staked: 0.0004 Cake-LP ($1.17)
+JASMINE Per Week: 639.87 ($1.81)
+APR: Day 22.04% Week 154.26% Year 8021.52%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 JASMINE ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $227.70 TVL: $1,041,665,630.25
+Cake Price: $25.35
+WBNB Price: $489.12
+Staked: 0.0042 Cake-LP ($0.96)
+JASMINE Per Week: 568.77 ($1.61)
+APR: Day 23.90% Week 167.32% Year 8700.39%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 JASMINE ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[Cake]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13.49 TVL: $66,721,302.40
+Cake Price: $25.35
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+JASMINE Per Week: 568.77 ($1.61)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 JASMINE ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $242.51 TVL: $83,394,952.77
+DOT Price: $28.20
+WBNB Price: $489.12
+Staked: 0.0000 Cake-LP ($0.00)
+JASMINE Per Week: 568.77 ($1.61)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 JASMINE ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.64 TVL: $47,076,034.26
+ADA Price: $2.83
+WBNB Price: $489.12
+Staked: 0.0000 Cake-LP ($0.00)
+JASMINE Per Week: 568.77 ($1.61)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 JASMINE ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,213,992.96
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+JASMINE Per Week: 568.77 ($1.61)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 JASMINE ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,325,753.76
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+JASMINE Per Week: 568.77 ($1.61)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 JASMINE ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,964,931.87
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+JASMINE Per Week: 568.77 ($1.61)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 JASMINE ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+BUSD
+ Price: $1.00 Market Cap: $4,194,840,734.88 
+[%]
+Staked: 0.0000 BUSD ($0.00)
+JASMINE Per Week: 497.67 ($1.41)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BUSD ($0.00), NaN% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 JASMINE ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 0.0000 USDT ($0.00)
+JASMINE Per Week: 497.67 ($1.41)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDT ($0.00), NaN% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 JASMINE ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+WBNB
+ Price: $489.12 Market Cap: $3,448,028,763.19 
+[%]
+Staked: 0.0029 WBNB ($1.41)
+JASMINE Per Week: 497.67 ($1.41)
+APR: Day 14.28% Week 99.96% Year 5197.83%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 JASMINE ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+BTCB
+ Price: $49,844.00 Market Cap: $4,261,711,844.00 
+[%]
+Staked: 0.0000 BTCB ($0.00)
+JASMINE Per Week: 284.39 ($0.80)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BTCB ($0.00), NaN% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 JASMINE ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+ETH
+ Price: $3,334.12 Market Cap: $4,351,026,600.00 
+[%]
+Staked: 0.0007 ETH ($2.24)
+JASMINE Per Week: 284.39 ($0.80)
+APR: Day 5.13% Week 35.91% Year 1867.42%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 JASMINE ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+Cake
+ Price: $25.35 Market Cap: $10,549,138,492.05 
+[%]
+Staked: 0.1249 Cake ($3.17)
+JASMINE Per Week: 284.39 ($0.80)
+APR: Day 3.63% Week 25.42% Year 1321.63%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 JASMINE ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 0.0000 DAI ($0.00)
+JASMINE Per Week: 284.39 ($0.80)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DAI ($0.00), NaN% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 JASMINE ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+USDC
+ Price: $1.00 Market Cap: $1,778,019,771.00 
+[%]
+Staked: 0.0000 USDC ($0.00)
+JASMINE Per Week: 284.39 ($0.80)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDC ($0.00), NaN% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 JASMINE ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+DOT
+ Price: $28.20 Market Cap: $394,799,999.86 
+[%]
+Staked: 0.0000 DOT ($0.00)
+JASMINE Per Week: 284.39 ($0.80)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DOT ($0.00), NaN% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 JASMINE ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+ADA
+ Price: $2.83 Market Cap: $792,400,000.00 
+[%]
+Staked: 0.0000 ADA ($0.00)
+JASMINE Per Week: 284.39 ($0.80)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ADA ($0.00), NaN% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 JASMINE ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[JASMINE]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.11 TVL: $80.99
+JASMINE Price: $0.002829
+BUSD Price: $1.00
+Staked: 371.4090 Cake-LP ($40.47)
+JASMINE Per Week: 6398.66 ($18.10)
+APR: Day 6.39% Week 44.73% Year 2326.00%
+You are staking 0.00 [JASMINE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JASMINE]-[BUSD] Cake LP
+Unstake 0.00 [JASMINE]-[BUSD] Cake LP
+Claim 0.00 JASMINE ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[JASMINE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.53 TVL: $35.71
+JASMINE Price: $0.002829
+WBNB Price: $489.12
+Staked: 14.1006 Cake-LP ($35.64)
+JASMINE Per Week: 4976.74 ($14.08)
+APR: Day 5.64% Week 39.51% Year 2054.71%
+You are staking 0.00 [JASMINE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JASMINE]-[WBNB] Cake LP
+Unstake 0.00 [JASMINE]-[WBNB] Cake LP
+Claim 0.00 JASMINE ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+JASMINE
+ Price: $0.002829 Market Cap: $367.62 
+[%]
+Staked: 38791.0568 JASMINE ($109.75)
+JASMINE Per Week: 3128.24 ($8.85)
+APR: Day 1.15% Week 8.06% Year 419.34%
+You are staking 0.00 JASMINE ($0.00), 0.00% of the pool.
+Stake 0.00 JASMINE
+Unstake 0.00 JASMINE
+Claim 0.00 JASMINE ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[ALADDIN]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.14 TVL: $177.49
+ALADDIN Price: $0.004354
+BUSD Price: $1.00
+Staked: 675.1837 Cake-LP ($94.47)
+JASMINE Per Week: 2132.89 ($6.03)
+APR: Day 0.91% Week 6.39% Year 332.17%
+You are staking 0.00 [ALADDIN]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALADDIN]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [ALADDIN]-[BUSD] Cake LP
+Claim 0.00 JASMINE ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+ALADDIN
+ Price: $0.004354 Market Cap: $997.92 
+[%]
+Staked: 13114.4786 ALADDIN ($57.10)
+JASMINE Per Week: 1421.93 ($4.02)
+APR: Day 1.01% Week 7.05% Year 366.34%
+You are staking 0.00 ALADDIN ($0.00), 0.00% of the pool.
+Stake 0.00 ALADDIN - Fee 0.5%
+Unstake 0.00 ALADDIN
+Claim 0.00 JASMINE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $346.96

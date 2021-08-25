@@ -1,0 +1,468 @@
+INFO  : https://stadiumarcadium.farm
+********************************************************************************
+
+Mon Aug 23 2021 12:59:59 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 27 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+MYFRIENDS
+ Price: $29.85 Market Cap: $2,984,666.84 
+[%]
+Staked: 69716.7336 MYFRIENDS ($2,080,812.23)
+ARCADIUM Per Week: 117449.07 ($281,738.50)
+APR: Day 1.93% Week 13.54% Year 704.07%
+You are staking 0.00 MYFRIENDS ($0.00), 0.00% of the pool.
+USDC Per Week: 620654.75 ($619,898.79)
+APR: Day 4.26% Week 29.79% Year 1549.14%
+You are staking 0.00 MYFRIENDS ($0.00), 0.00% of the pool.
+Stake 0.00 MYFRIENDS
+Unstake 0.00 MYFRIENDS
+Staking or unstaking also claims rewards.
+1 - 
+[USDC]-[ARCADIUM] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,251,315.09 TVL: $425,004.74
+USDC Price: $1.00
+ARCADIUM Price: $2.40
+Staked: 0.0717 UNI-V2 ($233,112.50)
+ARCADIUM Per Week: 16362.87 ($39,251.49)
+APR: Day 2.41% Week 16.84% Year 875.58%
+You are staking 0.00 [USDC]-[ARCADIUM] Uni LP ($0.00), 0.00% of the pool.
+MYFRIENDS Per Week: 849.12 ($25,343.34)
+APR: Day 1.55% Week 10.87% Year 565.33%
+You are staking 0.00 [USDC]-[ARCADIUM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[ARCADIUM] Uni LP
+Unstake 0.00 [USDC]-[ARCADIUM] Uni LP
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[ARCADIUM] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.26 TVL: $291,867.60
+WMATIC Price: $1.64
+ARCADIUM Price: $2.40
+Staked: 18184.3697 UNI-V2 ($77,551.54)
+ARCADIUM Per Week: 5575.50 ($13,374.58)
+APR: Day 2.46% Week 17.25% Year 896.80%
+You are staking 0.00 [WMATIC]-[ARCADIUM] Uni LP ($0.00), 0.00% of the pool.
+MYFRIENDS Per Week: 289.33 ($8,635.51)
+APR: Day 1.59% Week 11.14% Year 579.03%
+You are staking 0.00 [WMATIC]-[ARCADIUM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[ARCADIUM] Uni LP
+Unstake 0.00 [WMATIC]-[ARCADIUM] Uni LP
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[MYFRIENDS] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11,354,767.56 TVL: $414,761.72
+USDC Price: $1.00
+MYFRIENDS Price: $29.85
+Staked: 0.0200 UNI-V2 ($227,007.18)
+ARCADIUM Per Week: 13332.71 ($31,982.70)
+APR: Day 2.01% Week 14.09% Year 732.62%
+You are staking 0.00 [USDC]-[MYFRIENDS] Uni LP ($0.00), 0.00% of the pool.
+MYFRIENDS Per Week: 691.87 ($20,650.13)
+APR: Day 1.30% Week 9.10% Year 473.03%
+You are staking 0.00 [USDC]-[MYFRIENDS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[MYFRIENDS] Uni LP
+Unstake 0.00 [USDC]-[MYFRIENDS] Uni LP
+Staking or unstaking also claims rewards.
+4 - 
+[WMATIC]-[MYFRIENDS] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $14.52 TVL: $124,182.93
+WMATIC Price: $1.64
+MYFRIENDS Price: $29.85
+Staked: 8526.1308 UNI-V2 ($123,770.71)
+ARCADIUM Per Week: 5454.29 ($13,083.83)
+APR: Day 1.51% Week 10.57% Year 549.69%
+You are staking 0.00 [WMATIC]-[MYFRIENDS] Uni LP ($0.00), 0.00% of the pool.
+MYFRIENDS Per Week: 283.04 ($8,447.78)
+APR: Day 0.98% Week 6.83% Year 354.92%
+You are staking 0.00 [WMATIC]-[MYFRIENDS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[MYFRIENDS] Uni LP
+Unstake 0.00 [WMATIC]-[MYFRIENDS] Uni LP
+Staking or unstaking also claims rewards.
+5 - 
+[ARCADIUM]-[MYFRIENDS] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $21.02 TVL: $265,743.83
+ARCADIUM Price: $2.40
+MYFRIENDS Price: $29.85
+Staked: 12510.9224 UNI-V2 ($262,966.01)
+ARCADIUM Per Week: 13332.71 ($31,982.70)
+APR: Day 1.74% Week 12.16% Year 632.44%
+You are staking 0.00 [ARCADIUM]-[MYFRIENDS] Uni LP ($0.00), 0.00% of the pool.
+MYFRIENDS Per Week: 691.87 ($20,650.13)
+APR: Day 1.12% Week 7.85% Year 408.34%
+You are staking 0.00 [ARCADIUM]-[MYFRIENDS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ARCADIUM]-[MYFRIENDS] Uni LP
+Unstake 0.00 [ARCADIUM]-[MYFRIENDS] Uni LP
+Staking or unstaking also claims rewards.
+6 - 
+[USDC]-[BONE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7,680,438.86 TVL: $194,351.28
+USDC Price: $1.00
+BONE Price: $10.57
+Staked: 0.0023 UNI-V2 ($17,756.17)
+ARCADIUM Per Week: 363.62 ($872.26)
+APR: Day 0.70% Week 4.91% Year 255.45%
+You are staking 0.00 [USDC]-[BONE] Uni LP ($0.00), 0.00% of the pool.
+MYFRIENDS Per Week: 18.87 ($563.19)
+APR: Day 0.45% Week 3.17% Year 164.93%
+You are staking 0.00 [USDC]-[BONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BONE] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[BONE] Uni LP
+Staking or unstaking also claims rewards.
+7 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,604,188.93 TVL: $33,315,367.70
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.1052 UNI-V2 ($484,417.10)
+ARCADIUM Per Week: 2424.13 ($5,815.04)
+APR: Day 0.17% Week 1.20% Year 62.42%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+MYFRIENDS Per Week: 125.80 ($3,754.57)
+APR: Day 0.11% Week 0.78% Year 40.30%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Staking or unstaking also claims rewards.
+8 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,790,508.45 TVL: $148,020,699.82
+USDC Price: $1.00
+WETH Price: $3,320.72
+Staked: 0.0046 UNI-V2 ($746,819.10)
+ARCADIUM Per Week: 3636.19 ($8,722.55)
+APR: Day 0.17% Week 1.17% Year 60.73%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+MYFRIENDS Per Week: 188.69 ($5,631.85)
+APR: Day 0.11% Week 0.75% Year 39.21%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Staking or unstaking also claims rewards.
+9 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,563,853,233,645.21 TVL: $34,034,765.20
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($778,228.91)
+ARCADIUM Per Week: 4242.23 ($10,176.31)
+APR: Day 0.19% Week 1.31% Year 68.00%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+MYFRIENDS Per Week: 220.14 ($6,570.50)
+APR: Day 0.12% Week 0.84% Year 43.90%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Staking or unstaking also claims rewards.
+10 - 
+[USDC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $74,952,401.58 TVL: $21,382,572.87
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0079 UNI-V2 ($593,929.43)
+ARCADIUM Per Week: 3333.18 ($7,995.67)
+APR: Day 0.19% Week 1.35% Year 70.00%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+MYFRIENDS Per Week: 172.97 ($5,162.53)
+APR: Day 0.12% Week 0.87% Year 45.20%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Staking or unstaking also claims rewards.
+11 - 
+[DAI]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $27,060,139.32 TVL: $3,960,148.58
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 0.0224 UNI-V2 ($605,650.65)
+ARCADIUM Per Week: 3030.16 ($7,268.80)
+APR: Day 0.17% Week 1.20% Year 62.41%
+You are staking 0.00 [DAI]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+MYFRIENDS Per Week: 157.24 ($4,693.21)
+APR: Day 0.11% Week 0.77% Year 40.30%
+You are staking 0.00 [DAI]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [DAI]-[USDT] Uni LP
+Staking or unstaking also claims rewards.
+12 - 
+ARCADIUM
+ Price: $2.40 Market Cap: $1,513,320.68 
+[%]
+Staked: 273814.0568 ARCADIUM ($656,829.05)
+ARCADIUM Per Week: 32604.54 ($78,212.24)
+APR: Day 1.70% Week 11.91% Year 619.19%
+You are staking 0.00 ARCADIUM ($0.00), 0.00% of the pool.
+MYFRIENDS Per Week: 1691.95 ($50,498.96)
+APR: Day 1.10% Week 7.69% Year 399.79%
+You are staking 0.00 ARCADIUM ($0.00), 0.00% of the pool.
+Stake 0.00 ARCADIUM
+Unstake 0.00 ARCADIUM
+Staking or unstaking also claims rewards.
+13 - 
+WMATIC
+ Price: $1.64 Market Cap: $603,164,867.59 
+[%]
+Staked: 1078532.2113 WMATIC ($1,768,792.83)
+ARCADIUM Per Week: 8484.45 ($20,352.63)
+APR: Day 0.16% Week 1.15% Year 59.83%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+MYFRIENDS Per Week: 440.28 ($13,140.99)
+APR: Day 0.11% Week 0.74% Year 38.63%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Staking or unstaking also claims rewards.
+14 - 
+QUICK
+ Price: $724.06 Market Cap: $693,118,509.60 
+[%]
+Staked: 773.4351 QUICK ($560,013.45)
+ARCADIUM Per Week: 2908.96 ($6,978.04)
+APR: Day 0.18% Week 1.25% Year 64.79%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+MYFRIENDS Per Week: 150.95 ($4,505.48)
+APR: Day 0.11% Week 0.80% Year 41.84%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Staking or unstaking also claims rewards.
+15 - 
+WETH
+ Price: $3,320.72 Market Cap: $2,024,544,413.04 
+[%]
+Staked: 996.1589 WETH ($3,307,964.70)
+ARCADIUM Per Week: 17574.94 ($42,159.01)
+APR: Day 0.18% Week 1.27% Year 66.27%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+MYFRIENDS Per Week: 912.02 ($27,220.63)
+APR: Day 0.12% Week 0.82% Year 42.79%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Staking or unstaking also claims rewards.
+16 - 
+WBTC
+ Price: $50,005.00 Market Cap: $696,762,531.00 
+[%]
+Staked: 59.4460 WBTC ($2,972,595.43)
+ARCADIUM Per Week: 15150.81 ($36,343.98)
+APR: Day 0.17% Week 1.22% Year 63.58%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+MYFRIENDS Per Week: 786.22 ($23,466.06)
+APR: Day 0.11% Week 0.79% Year 41.05%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Staking or unstaking also claims rewards.
+17 - 
+PUP
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1050.1314 PUP ($0.00)
+ARCADIUM Per Week: 363.62 ($872.26)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 PUP ($0.00), NaN% of the pool.
+MYFRIENDS Per Week: 18.87 ($563.19)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 PUP ($0.00), NaN% of the pool.
+Stake 0.00 PUP - Fee 4%
+Unstake 0.00 PUP
+Staking or unstaking also claims rewards.
+18 - 
+BALL
+ Price: $0.00 Market Cap: $0.00 
+Staked: 222.8114 BALL ($0.00)
+ARCADIUM Per Week: 242.41 ($581.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BALL ($0.00), NaN% of the pool.
+MYFRIENDS Per Week: 12.58 ($375.46)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BALL ($0.00), NaN% of the pool.
+Stake 0.00 BALL - Fee 4%
+Unstake 0.00 BALL
+Staking or unstaking also claims rewards.
+19 - 
+BIFI
+ Price: $0.00 Market Cap: $0.00 
+Staked: 75.6756 BIFI ($0.00)
+ARCADIUM Per Week: 484.83 ($1,163.01)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BIFI ($0.00), NaN% of the pool.
+MYFRIENDS Per Week: 25.16 ($750.91)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BIFI ($0.00), NaN% of the pool.
+Stake 0.00 BIFI - Fee 4%
+Unstake 0.00 BIFI
+Staking or unstaking also claims rewards.
+20 - 
+DAI
+ Price: $1.00 Market Cap: $376,545,250.79 
+[%]
+Staked: 1645399.3720 DAI ($1,643,627.28)
+ARCADIUM Per Week: 7878.42 ($18,898.87)
+APR: Day 0.16% Week 1.15% Year 59.79%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+MYFRIENDS Per Week: 408.83 ($12,202.35)
+APR: Day 0.11% Week 0.74% Year 38.60%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Staking or unstaking also claims rewards.
+21 - 
+USDT
+ Price: $1.00 Market Cap: $314,970,871.22 
+[%]
+Staked: 1468130.2823 USDT ($1,466,720.88)
+ARCADIUM Per Week: 7272.39 ($17,445.11)
+APR: Day 0.17% Week 1.19% Year 61.85%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+MYFRIENDS Per Week: 377.39 ($11,263.71)
+APR: Day 0.11% Week 0.77% Year 39.93%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Staking or unstaking also claims rewards.
+22 - 
+USDC
+ Price: $1.00 Market Cap: $1,042,487,322.21 
+[%]
+Staked: 1768206.3020 USDC ($1,766,052.63)
+ARCADIUM Per Week: 10302.55 ($24,713.90)
+APR: Day 0.20% Week 1.40% Year 72.77%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+MYFRIENDS Per Week: 534.63 ($15,956.92)
+APR: Day 0.13% Week 0.90% Year 46.98%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Staking or unstaking also claims rewards.
+23 - 
+miMATIC
+ Price: $0.00 Market Cap: $0.00 
+Staked: 310128.1571 miMATIC ($0.00)
+ARCADIUM Per Week: 1515.08 ($3,634.40)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 miMATIC ($0.00), NaN% of the pool.
+MYFRIENDS Per Week: 78.62 ($2,346.61)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 miMATIC ($0.00), NaN% of the pool.
+Stake 0.00 miMATIC - Fee 4%
+Unstake 0.00 miMATIC
+Staking or unstaking also claims rewards.
+24 - 
+LINK
+ Price: $28.58 Market Cap: $64,856,052.00 
+[%]
+Staked: 44633.8135 LINK ($1,275,634.39)
+ARCADIUM Per Week: 6302.74 ($15,119.09)
+APR: Day 0.17% Week 1.19% Year 61.63%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+MYFRIENDS Per Week: 327.07 ($9,761.88)
+APR: Day 0.11% Week 0.77% Year 39.79%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Staking or unstaking also claims rewards.
+25 - 
+FISH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 17644.6130 FISH ($0.00)
+ARCADIUM Per Week: 666.64 ($1,599.13)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+MYFRIENDS Per Week: 34.59 ($1,032.51)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+Stake 0.00 FISH - Fee 4%
+Unstake 0.00 FISH
+Staking or unstaking also claims rewards.
+26 - 
+PolyDoge
+ Price: $0.0000000062 Market Cap: $6,210,000.00 
+[%]
+Staked: 95523617529249.1406 PolyDoge ($593,201.66)
+ARCADIUM Per Week: 3636.19 ($8,722.55)
+APR: Day 0.21% Week 1.47% Year 76.46%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+MYFRIENDS Per Week: 188.69 ($5,631.85)
+APR: Day 0.14% Week 0.95% Year 49.37%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 4%
+Unstake 0.00 PolyDoge
+Staking or unstaking also claims rewards.
+Total Staked: $22,243,453.80

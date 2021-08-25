@@ -1,0 +1,119 @@
+INFO  : https://ricefarm.fi
+**************************************************************************************
+
+Mon Aug 23 2021 09:16:01 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 7 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+RICE
+ Price: $0.34 Market Cap: $10,690,431.61 
+[%]
+Staked: 15113809.1599 RICE ($5,210,973.78)
+RICE Per Week: 291600.00 ($100,538.52)
+APR: Day 0.28% Week 1.93% Year 100.33%
+You are staking 0.00 RICE ($0.00), 0.00% of the pool.
+Stake 0.00 RICE
+Unstake 0.00 RICE
+Claim 0.00 RICE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+TeslaSafe
+ Price: $0.0000000200 Market Cap: $20,005,250.38 
+[%]
+Staked: 248080134241064.2188 TeslaSafe ($4,962,905.20)
+RICE Per Week: 131220.00 ($45,242.33)
+APR: Day 0.13% Week 0.91% Year 47.40%
+You are staking 0.00 TeslaSafe ($0.00), 0.00% of the pool.
+Stake 0.00 TeslaSafe
+Unstake 0.00 TeslaSafe
+Claim 0.00 RICE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[RICE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $44.03 TVL: $686,275.84
+WBNB Price: $484.10
+RICE Price: $0.34
+Staked: 15097.9665 Cake-LP ($664,759.33)
+RICE Per Week: 87480.00 ($30,161.56)
+APR: Day 0.65% Week 4.54% Year 235.94%
+You are staking 0.00 [WBNB]-[RICE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[RICE] Cake LP
+Unstake 0.00 [WBNB]-[RICE] Cake LP
+Claim 0.00 RICE ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[TeslaSafe]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $236.46 TVL: $2,013,706.33
+TeslaSafe Price: $0.0000000200
+WBNB Price: $484.10
+Staked: 5170.0524 Cake-LP ($1,222,500.26)
+RICE Per Week: 87480.00 ($30,161.56)
+APR: Day 0.35% Week 2.47% Year 128.29%
+You are staking 0.00 [TeslaSafe]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TeslaSafe]-[WBNB] Cake LP
+Unstake 0.00 [TeslaSafe]-[WBNB] Cake LP
+Claim 0.00 RICE ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[RICE]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.30 TVL: $913,253.86
+RICE Price: $0.34
+BUSD Price: $1.00
+Staked: 698711.0632 Cake-LP ($907,961.06)
+RICE Per Week: 131220.00 ($45,242.33)
+APR: Day 0.71% Week 4.98% Year 259.11%
+You are staking 0.00 [RICE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RICE]-[BUSD] Cake LP
+Unstake 0.00 [RICE]-[BUSD] Cake LP
+Claim 0.00 RICE ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[EPIC]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $94.11 TVL: $869,306.06
+EPIC Price: $0.0000000044
+WBNB Price: $484.10
+Staked: 4704.8010 Cake-LP ($442,768.81)
+RICE Per Week: 87480.00 ($30,161.56)
+APR: Day 0.97% Week 6.81% Year 354.23%
+You are staking 0.00 [EPIC]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [EPIC]-[WBNB] Cake LP
+Unstake 0.00 [EPIC]-[WBNB] Cake LP
+Claim 0.00 RICE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $13,411,868.45

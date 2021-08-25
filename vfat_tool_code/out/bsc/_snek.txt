@@ -1,0 +1,318 @@
+INFO  : https://snek.farm
+*********************************************************************************
+
+Mon Aug 23 2021 14:04:20 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 24 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+BUSD
+ Price: $1.00 Market Cap: $4,199,419,824.22 
+[%]
+Staked: 1674.6825 BUSD ($1,674.05)
+SNEK Per Week: 1974.63 ($61.35)
+APR: Day 0.52% Week 3.67% Year 190.58%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD
+Unstake 0.00 BUSD
+Claim 0.00 SNEK ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[SNEK]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.37 TVL: $2,176.41
+SNEK Price: $0.03
+BUSD Price: $1.00
+Staked: 4519.0696 Cake-LP ($1,655.16)
+SNEK Per Week: 3610.75 ($112.19)
+APR: Day 0.97% Week 6.78% Year 352.47%
+You are staking 0.00 [SNEK]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SNEK]-[BUSD] Cake LP
+Unstake 0.00 [SNEK]-[BUSD] Cake LP
+Claim 0.00 SNEK ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.56 TVL: $3,331,342.61
+WBNB Price: $484.47
+BUSD Price: $1.00
+Staked: 2.0883 Cake-LP ($134.81)
+SNEK Per Week: 564.18 ($17.53)
+APR: Day 1.86% Week 13.00% Year 676.16%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SNEK ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+MOUSE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 99859.3746 MOUSE ($0.00)
+SNEK Per Week: 1128.36 ($35.06)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MOUSE ($0.00), NaN% of the pool.
+Stake 0.00 MOUSE
+Unstake 0.00 MOUSE
+Claim 0.00 SNEK ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+TOAD
+ Price: $0.00 Market Cap: $0.00 
+Staked: 37829.4529 TOAD ($0.00)
+SNEK Per Week: 1128.36 ($35.06)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 TOAD ($0.00), NaN% of the pool.
+Stake 0.00 TOAD
+Unstake 0.00 TOAD
+Claim 0.00 SNEK ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.14 TVL: $4,006,480.18
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 17.9816 Cake-LP ($38.39)
+SNEK Per Week: 507.76 ($15.78)
+APR: Day 5.87% Week 41.09% Year 2136.91%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 SNEK ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,898.87 TVL: $1,952,310.59
+BTCB Price: $50,135.00
+WBNB Price: $484.47
+Staked: 0.0138 Cake-LP ($150.52)
+SNEK Per Week: 677.01 ($21.04)
+APR: Day 2.00% Week 13.98% Year 726.74%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 SNEK ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,862.81 TVL: $3,523,593.75
+ETH Price: $3,330.75
+WBNB Price: $484.47
+Staked: 0.0505 Cake-LP ($144.53)
+SNEK Per Week: 564.18 ($17.53)
+APR: Day 1.73% Week 12.13% Year 630.71%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 SNEK ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $2,586,554.19
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 1.3942 Cake-LP ($2.85)
+SNEK Per Week: 451.34 ($14.02)
+APR: Day 70.21% Week 491.46% Year 25555.80%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 2.75%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 SNEK ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[SNEK]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8.04 TVL: $3,357.72
+SNEK Price: $0.03
+WBNB Price: $484.47
+Staked: 240.9345 Cake-LP ($1,936.60)
+SNEK Per Week: 2256.72 ($70.12)
+APR: Day 0.52% Week 3.62% Year 188.28%
+You are staking 0.00 [SNEK]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SNEK]-[WBNB] Cake LP
+Unstake 0.00 [SNEK]-[WBNB] Cake LP
+Claim 0.00 SNEK ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+SNEK
+ Price: $0.03 Market Cap: $10,099.59 
+[%]
+Staked: 128915.7180 SNEK ($4,005.61)
+SNEK Per Week: 451.34 ($14.02)
+APR: Day 0.05% Week 0.35% Year 18.21%
+You are staking 0.00 SNEK ($0.00), 0.00% of the pool.
+Stake 0.00 SNEK
+Unstake 0.00 SNEK
+Claim 0.00 SNEK ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+WBNB
+ Price: $484.47 Market Cap: $3,432,759,248.34 
+[%]
+Staked: 0.9525 WBNB ($461.46)
+SNEK Per Week: 225.67 ($7.01)
+APR: Day 0.22% Week 1.52% Year 79.02%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 3%
+Unstake 0.00 WBNB
+Claim 0.00 SNEK ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+USDT
+ Price: $1.00 Market Cap: $3,377,097,883.96 
+[%]
+Staked: 60.9589 USDT ($60.91)
+SNEK Per Week: 141.04 ($4.38)
+APR: Day 1.03% Week 7.20% Year 374.16%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 3%
+Unstake 0.00 USDT
+Claim 0.00 SNEK ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+BTCB
+ Price: $50,135.00 Market Cap: $4,286,592,635.00 
+[%]
+Staked: 0.0025 BTCB ($127.27)
+SNEK Per Week: 253.88 ($7.89)
+APR: Day 0.89% Week 6.20% Year 322.31%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 3%
+Unstake 0.00 BTCB
+Claim 0.00 SNEK ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+ETH
+ Price: $3,330.75 Market Cap: $4,346,628,750.00 
+[%]
+Staked: 0.0963 ETH ($320.69)
+SNEK Per Week: 253.88 ($7.89)
+APR: Day 0.35% Week 2.46% Year 127.91%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 3%
+Unstake 0.00 ETH
+Claim 0.00 SNEK ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+DAI
+ Price: $1.00 Market Cap: $261,817,648.00 
+[%]
+Staked: 162.7767 DAI ($162.66)
+SNEK Per Week: 253.88 ($7.89)
+APR: Day 0.69% Week 4.85% Year 252.18%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 3%
+Unstake 0.00 DAI
+Claim 0.00 SNEK ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,897,020.00 
+[%]
+Staked: 1780.5646 USDC ($1,779.46)
+SNEK Per Week: 112.84 ($3.51)
+APR: Day 0.03% Week 0.20% Year 10.25%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 3%
+Unstake 0.00 USDC
+Claim 0.00 SNEK ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+DOT
+ Price: $28.04 Market Cap: $392,559,999.86 
+[%]
+Staked: 7.4328 DOT ($208.41)
+SNEK Per Week: 225.67 ($7.01)
+APR: Day 0.48% Week 3.36% Year 174.95%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 3%
+Unstake 0.00 DOT
+Claim 0.00 SNEK ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+Cake
+ Price: $25.00 Market Cap: $10,402,900,766.63 
+[%]
+Staked: 85.7250 Cake ($2,143.13)
+SNEK Per Week: 112.84 ($3.51)
+APR: Day 0.02% Week 0.16% Year 8.51%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 3%
+Unstake 0.00 Cake
+Claim 0.00 SNEK ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+BSCX
+ Price: $2.48 Market Cap: $24,758,822.08 
+[%]
+Staked: 44.8650 BSCX ($111.27)
+SNEK Per Week: 112.84 ($3.51)
+APR: Day 0.45% Week 3.15% Year 163.85%
+You are staking 0.00 BSCX ($0.00), 0.00% of the pool.
+Stake 0.00 BSCX - Fee 3%
+Unstake 0.00 BSCX
+Claim 0.00 SNEK ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+AUTO
+ Price: $1,418.40 Market Cap: $90,947,103.37 
+[%]
+Staked: 0.1265 AUTO ($179.42)
+SNEK Per Week: 112.84 ($3.51)
+APR: Day 0.28% Week 1.95% Year 101.61%
+You are staking 0.00 AUTO ($0.00), 0.00% of the pool.
+Stake 0.00 AUTO - Fee 3%
+Unstake 0.00 AUTO
+Claim 0.00 SNEK ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $15,297.20

@@ -1,0 +1,146 @@
+INFO  : https://polydragon.io
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 15:56:41 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 17 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[FIRE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,431,957.32 TVL: $124,680.31
+USDC Price: $1.00
+FIRE Price: $0.0000000011
+Staked: 0.0362 UNI-V2 ($124,203.80)
+FIRE Per Week: 3026751592356.69 ($3,316.43)
+APR: Day 0.38% Week 2.67% Year 138.85%
+You are staking 0.00 [USDC]-[FIRE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[FIRE] Uni LP
+Unstake 0.00 [USDC]-[FIRE] Uni LP
+Claim 0.00 FIRE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+FIRE
+ Price: $0.0000000011 Market Cap: $1,095,707.57 
+[%]
+Staked: 264201414579420.6563 FIRE ($289,487.49)
+FIRE Per Week: 5717197452229.30 ($6,264.38)
+APR: Day 0.31% Week 2.16% Year 112.53%
+You are staking 0.00 FIRE ($0.00), 0.00% of the pool.
+Stake 0.00 FIRE - Fee 10%
+Unstake 0.00 FIRE
+Claim 0.00 FIRE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[FIRE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.84 TVL: $301,201.71
+WMATIC Price: $1.64
+FIRE Price: $0.0000000011
+Staked: 52869.6608 UNI-V2 ($150,354.23)
+FIRE Per Week: 3026751592356.69 ($3,316.43)
+APR: Day 0.32% Week 2.21% Year 114.70%
+You are staking 0.00 [WMATIC]-[FIRE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[FIRE] Uni LP
+Unstake 0.00 [WMATIC]-[FIRE] Uni LP
+Claim 0.00 FIRE ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WETH]-[FIRE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $152.52 TVL: $12,797.72
+WETH Price: $3,335.11
+FIRE Price: $0.0000000011
+Staked: 81.4212 UNI-V2 ($12,418.28)
+FIRE Per Week: 269044585987.26 ($294.79)
+APR: Day 0.34% Week 2.37% Year 123.44%
+You are staking 0.00 [WETH]-[FIRE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[FIRE] Uni LP
+Unstake 0.00 [WETH]-[FIRE] Uni LP
+Claim 0.00 FIRE ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[pPRISM]-[FIRE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11.42 TVL: $9,564.07
+pPRISM Price: $17.80
+FIRE Price: $0.0000000011
+Staked: 252.8680 UNI-V2 ($2,886.87)
+FIRE Per Week: 33630573248.41 ($36.85)
+APR: Day 0.18% Week 1.28% Year 66.38%
+You are staking 0.00 [pPRISM]-[FIRE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [pPRISM]-[FIRE] Uni LP
+Unstake 0.00 [pPRISM]-[FIRE] Uni LP
+Claim 0.00 FIRE ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[HEX]-[FIRE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $113,427.29 TVL: $6,411.21
+HEX Price: $0.17
+FIRE Price: $0.0000000011
+Staked: 0.0560 UNI-V2 ($6,346.55)
+FIRE Per Week: 67261146496.82 ($73.70)
+APR: Day 0.17% Week 1.16% Year 60.38%
+You are staking 0.00 [HEX]-[FIRE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HEX]-[FIRE] Uni LP
+Unstake 0.00 [HEX]-[FIRE] Uni LP
+Claim 0.00 FIRE ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[GLASS]-[FIRE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.47 TVL: $118,934.65
+GLASS Price: $0.0000000046
+FIRE Price: $0.0000000011
+Staked: 26466.3328 UNI-V2 ($118,435.17)
+FIRE Per Week: 3699363057324.84 ($4,053.42)
+APR: Day 0.49% Week 3.42% Year 177.97%
+You are staking 0.00 [GLASS]-[FIRE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GLASS]-[FIRE] Uni LP
+Unstake 0.00 [GLASS]-[FIRE] Uni LP
+Claim 0.00 FIRE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $704,132.39

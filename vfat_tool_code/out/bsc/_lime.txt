@@ -1,0 +1,688 @@
+INFO  : https://limeswap.io
+***************************************************************************************
+
+Mon Aug 23 2021 14:14:28 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 40 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[LIME]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.10 TVL: $3,336.37
+LIME Price: $0.002114
+BUSD Price: $1.00
+Staked: 29876.3972 Cake-LP ($3,112.13)
+LIME Per Week: 33561.16 ($70.95)
+APR: Day 0.33% Week 2.28% Year 118.54%
+You are staking 0.00 [LIME]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LIME]-[BUSD] Cake LP
+Unstake 0.00 [LIME]-[BUSD] Cake LP
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WBNB]-[LIME] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.27 TVL: $2,200.09
+WBNB Price: $484.29
+LIME Price: $0.002114
+Staked: 811.3879 Cake-LP ($1,838.58)
+LIME Per Week: 25170.87 ($53.21)
+APR: Day 0.41% Week 2.89% Year 150.49%
+You are staking 0.00 [WBNB]-[LIME] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LIME] Cake LP
+Unstake 0.00 [WBNB]-[LIME] Cake LP
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.51 TVL: $3,328,840.23
+WBNB Price: $484.29
+BUSD Price: $1.00
+Staked: 14.0859 Cake-LP ($908.67)
+LIME Per Week: 4195.14 ($8.87)
+APR: Day 0.14% Week 0.98% Year 50.75%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[Cake]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $15.66 TVL: $179,953.63
+Cake Price: $24.98
+BUSD Price: $1.00
+Staked: 138.9995 Cake-LP ($2,177.12)
+LIME Per Week: 3146.36 ($6.65)
+APR: Day 0.04% Week 0.31% Year 15.89%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $260.67 TVL: $8,041,212.81
+Cake Price: $24.98
+WBNB Price: $484.29
+Staked: 3.7398 Cake-LP ($974.85)
+LIME Per Week: 3146.36 ($6.65)
+APR: Day 0.10% Week 0.68% Year 35.48%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[BUNNY]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.97 TVL: $399.95
+BUNNY Price: $7.78
+BUSD Price: $1.00
+Staked: 3.3888 Cake-LP ($20.22)
+LIME Per Week: 3146.36 ($6.65)
+APR: Day 4.70% Week 32.89% Year 1710.29%
+You are staking 0.00 [BUNNY]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUNNY]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [BUNNY]-[BUSD] Cake LP
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[WBNB]-[BUNNY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $136.26 TVL: $835,064.06
+WBNB Price: $484.29
+BUNNY Price: $7.78
+Staked: 0.4507 Cake-LP ($61.41)
+LIME Per Week: 3146.36 ($6.65)
+APR: Day 1.55% Week 10.83% Year 563.19%
+You are staking 0.00 [WBNB]-[BUNNY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUNNY] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUNNY] Cake LP
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $252.14 TVL: $673,003.17
+DOT Price: $27.99
+WBNB Price: $484.29
+Staked: 0.2253 Cake-LP ($56.80)
+LIME Per Week: 3146.36 ($6.65)
+APR: Day 1.67% Week 11.71% Year 608.88%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.13 TVL: $4,004,210.09
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 1994.8849 Cake-LP ($4,256.79)
+LIME Per Week: 5243.93 ($11.09)
+APR: Day 0.04% Week 0.26% Year 13.54%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.25 TVL: $1,018,667.53
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 233.0878 Cake-LP ($525.24)
+LIME Per Week: 5243.93 ($11.09)
+APR: Day 0.30% Week 2.11% Year 109.75%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $2,585,086.80
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 116.0100 Cake-LP ($237.30)
+LIME Per Week: 5243.93 ($11.09)
+APR: Day 0.67% Week 4.67% Year 242.91%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,896.85 TVL: $1,951,948.49
+BTCB Price: $50,135.00
+WBNB Price: $484.29
+Staked: 0.0150 Cake-LP ($163.68)
+LIME Per Week: 3146.36 ($6.65)
+APR: Day 0.58% Week 4.06% Year 211.30%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $80.82 TVL: $2,624,496.24
+ADA Price: $2.83
+WBNB Price: $484.29
+Staked: 54.7248 Cake-LP ($4,423.10)
+LIME Per Week: 3146.36 ($6.65)
+APR: Day 0.02% Week 0.15% Year 7.82%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WBNB]-[UNI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $255.99 TVL: $54,380.09
+WBNB Price: $484.29
+UNI Price: $29.37
+Staked: 2.5700 Cake-LP ($657.90)
+LIME Per Week: 3146.36 ($6.65)
+APR: Day 0.14% Week 1.01% Year 52.57%
+You are staking 0.00 [WBNB]-[UNI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[UNI] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[UNI] Cake LP
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[DODO]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $71.02 TVL: $48,652.18
+DODO Price: $2.35
+WBNB Price: $484.29
+Staked: 5.3699 Cake-LP ($381.37)
+LIME Per Week: 3146.36 ($6.65)
+APR: Day 0.25% Week 1.74% Year 90.69%
+You are staking 0.00 [DODO]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DODO]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DODO]-[WBNB] Cake LP
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+LIME
+ Price: $0.002114 Market Cap: $7,008.39 
+[%]
+Staked: 1225912.0714 LIME ($2,591.46)
+LIME Per Week: 10487.86 ($22.17)
+APR: Day 0.12% Week 0.86% Year 44.49%
+You are staking 0.00 LIME ($0.00), 0.00% of the pool.
+Stake 0.00 LIME
+Unstake 0.00 LIME
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+BUSD
+ Price: $1.00 Market Cap: $4,194,660,091.90 
+[%]
+Staked: 2361.6443 BUSD ($2,358.08)
+LIME Per Week: 2097.57 ($4.43)
+APR: Day 0.03% Week 0.19% Year 9.78%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+WBNB
+ Price: $484.29 Market Cap: $3,431,951,106.33 
+[%]
+Staked: 1.0643 WBNB ($515.42)
+LIME Per Week: 2097.57 ($4.43)
+APR: Day 0.12% Week 0.86% Year 44.73%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+Cake
+ Price: $24.98 Market Cap: $10,394,661,168.56 
+[%]
+Staked: 27.0140 Cake ($674.81)
+LIME Per Week: 2097.57 ($4.43)
+APR: Day 0.09% Week 0.66% Year 34.17%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+BUNNY
+ Price: $7.78 Market Cap: $86,394,238.45 
+[%]
+Staked: 7.4145 BUNNY ($57.69)
+LIME Per Week: 2097.57 ($4.43)
+APR: Day 1.10% Week 7.69% Year 399.71%
+You are staking 0.00 BUNNY ($0.00), 0.00% of the pool.
+Stake 0.00 BUNNY - Fee 4%
+Unstake 0.00 BUNNY
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+BTCB
+ Price: $50,135.00 Market Cap: $4,286,592,635.00 
+[%]
+Staked: 0.0043 BTCB ($216.00)
+LIME Per Week: 2097.57 ($4.43)
+APR: Day 0.29% Week 2.05% Year 106.75%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+ETH
+ Price: $3,323.51 Market Cap: $4,337,180,550.00 
+[%]
+Staked: 0.0971 ETH ($322.73)
+LIME Per Week: 2097.57 ($4.43)
+APR: Day 0.20% Week 1.37% Year 71.44%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+DOT
+ Price: $27.99 Market Cap: $391,859,999.86 
+[%]
+Staked: 9.0175 DOT ($252.40)
+LIME Per Week: 2097.57 ($4.43)
+APR: Day 0.25% Week 1.76% Year 91.35%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+USDT
+ Price: $1.00 Market Cap: $3,377,097,883.96 
+[%]
+Staked: 1008.8320 USDT ($1,007.97)
+LIME Per Week: 2097.57 ($4.43)
+APR: Day 0.06% Week 0.44% Year 22.87%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+USDC
+ Price: $1.00 Market Cap: $1,775,719,524.00 
+[%]
+Staked: 128.4217 USDC ($128.18)
+LIME Per Week: 2097.57 ($4.43)
+APR: Day 0.49% Week 3.46% Year 179.87%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+DAI
+ Price: $1.00 Market Cap: $261,817,648.00 
+[%]
+Staked: 79.3454 DAI ($79.29)
+LIME Per Week: 2097.57 ($4.43)
+APR: Day 0.80% Week 5.59% Year 290.79%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+UNI
+ Price: $29.37 Market Cap: $108,669,000.00 
+[%]
+Staked: 3.6716 UNI ($107.83)
+LIME Per Week: 2097.57 ($4.43)
+APR: Day 0.59% Week 4.11% Year 213.82%
+You are staking 0.00 UNI ($0.00), 0.00% of the pool.
+Stake 0.00 UNI - Fee 4%
+Unstake 0.00 UNI
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+ADA
+ Price: $2.83 Market Cap: $792,400,000.00 
+[%]
+Staked: 983.8269 ADA ($2,784.23)
+LIME Per Week: 2097.57 ($4.43)
+APR: Day 0.02% Week 0.16% Year 8.28%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+[Cake]-[LIME] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.47 TVL: $108.52
+Cake Price: $24.98
+LIME Price: $0.002114
+Staked: 134.6193 Cake-LP ($62.69)
+LIME Per Week: 3146.36 ($6.65)
+APR: Day 1.52% Week 10.61% Year 551.71%
+You are staking 0.00 [Cake]-[LIME] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[LIME] Cake LP - Fee 1%
+Unstake 0.00 [Cake]-[LIME] Cake LP
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+[DODO]-[LIME] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.14 TVL: $22.61
+DODO Price: $2.35
+LIME Price: $0.002114
+Staked: 100.9714 Cake-LP ($14.47)
+LIME Per Week: 3146.36 ($6.65)
+APR: Day 6.57% Week 45.98% Year 2390.82%
+You are staking 0.00 [DODO]-[LIME] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DODO]-[LIME] Cake LP - Fee 1%
+Unstake 0.00 [DODO]-[LIME] Cake LP
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+[LIME]-[BUNNY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.26 TVL: $7.62
+LIME Price: $0.002114
+BUNNY Price: $7.78
+Staked: 19.2450 Cake-LP ($5.08)
+LIME Per Week: 3146.36 ($6.65)
+APR: Day 18.70% Week 130.87% Year 6805.20%
+You are staking 0.00 [LIME]-[BUNNY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LIME]-[BUNNY] Cake LP - Fee 1%
+Unstake 0.00 [LIME]-[BUNNY] Cake LP
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+[DOT]-[LIME] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.49 TVL: $102.72
+DOT Price: $27.99
+LIME Price: $0.002114
+Staked: 170.1149 Cake-LP ($83.94)
+LIME Per Week: 3146.36 ($6.65)
+APR: Day 1.13% Week 7.92% Year 412.01%
+You are staking 0.00 [DOT]-[LIME] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[LIME] Cake LP - Fee 1%
+Unstake 0.00 [DOT]-[LIME] Cake LP
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+[USDT]-[LIME] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.09 TVL: $323.00
+USDT Price: $1.00
+LIME Price: $0.002114
+Staked: 3426.6867 Cake-LP ($318.99)
+LIME Per Week: 3146.36 ($6.65)
+APR: Day 0.30% Week 2.09% Year 108.42%
+You are staking 0.00 [USDT]-[LIME] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[LIME] Cake LP - Fee 1%
+Unstake 0.00 [USDT]-[LIME] Cake LP
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+33 - 
+[USDC]-[LIME] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.09 TVL: $348.72
+USDC Price: $1.00
+LIME Price: $0.002114
+Staked: 2063.5709 Cake-LP ($191.47)
+LIME Per Week: 3146.36 ($6.65)
+APR: Day 0.50% Week 3.47% Year 180.63%
+You are staking 0.00 [USDC]-[LIME] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[LIME] Cake LP - Fee 1%
+Unstake 0.00 [USDC]-[LIME] Cake LP
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+34 - 
+[DAI]-[LIME] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.09 TVL: $393.54
+DAI Price: $1.00
+LIME Price: $0.002114
+Staked: 4210.7976 Cake-LP ($391.77)
+LIME Per Week: 3146.36 ($6.65)
+APR: Day 0.24% Week 1.70% Year 88.28%
+You are staking 0.00 [DAI]-[LIME] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[LIME] Cake LP - Fee 1%
+Unstake 0.00 [DAI]-[LIME] Cake LP
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+35 - 
+[BTCB]-[LIME] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $20.82 TVL: $132.88
+BTCB Price: $50,135.00
+LIME Price: $0.002114
+Staked: 5.9913 Cake-LP ($124.71)
+LIME Per Week: 3146.36 ($6.65)
+APR: Day 0.76% Week 5.33% Year 277.32%
+You are staking 0.00 [BTCB]-[LIME] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[LIME] Cake LP - Fee 1%
+Unstake 0.00 [BTCB]-[LIME] Cake LP
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+36 - 
+[ADA]-[LIME] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.16 TVL: $102.36
+ADA Price: $2.83
+LIME Price: $0.002114
+Staked: 519.4994 Cake-LP ($81.39)
+LIME Per Week: 3146.36 ($6.65)
+APR: Day 1.17% Week 8.17% Year 424.95%
+You are staking 0.00 [ADA]-[LIME] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[LIME] Cake LP - Fee 1%
+Unstake 0.00 [ADA]-[LIME] Cake LP
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+37 - 
+[LIME]-[UNI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.50 TVL: $174.11
+LIME Price: $0.002114
+UNI Price: $29.37
+Staked: 336.4010 Cake-LP ($169.25)
+LIME Per Week: 3146.36 ($6.65)
+APR: Day 0.56% Week 3.93% Year 204.35%
+You are staking 0.00 [LIME]-[UNI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LIME]-[UNI] Cake LP - Fee 1%
+Unstake 0.00 [LIME]-[UNI] Cake LP
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+38 - 
+[DODO]-[LIME] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.14 TVL: $31.59
+DODO Price: $2.35
+LIME Price: $0.002114
+Staked: 190.0364 Cake-LP ($27.03)
+LIME Per Week: 3146.36 ($6.65)
+APR: Day 3.52% Week 24.61% Year 1279.75%
+You are staking 0.00 [DODO]-[LIME] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DODO]-[LIME] Cake LP - Fee 1%
+Unstake 0.00 [DODO]-[LIME] Cake LP
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+39 - 
+[JAGUAR]-[LIME] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $28.97
+JAGUAR Price: $0.06
+LIME Price: $0.002114
+Staked: 851.3041 Cake-LP ($21.08)
+LIME Per Week: 4195.14 ($8.87)
+APR: Day 6.01% Week 42.08% Year 2187.98%
+You are staking 0.00 [JAGUAR]-[LIME] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JAGUAR]-[LIME] Cake LP - Fee 2%
+Unstake 0.00 [JAGUAR]-[LIME] Cake LP
+Claim 0.00 LIME ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $32,383.10

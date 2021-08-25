@@ -1,0 +1,135 @@
+INFO  : https://swap.net
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:23:35 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 10 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WMATIC]-[HEAT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.44 TVL: $61.37
+WMATIC Price: $1.64
+HEAT Price: $0.03
+Staked: 73.3685 UNI-V2 ($32.31)
+HEAT Per Week: 603.87 ($15.89)
+APR: Day 7.03% Week 49.19% Year 2557.74%
+You are staking 0.00 [WMATIC]-[HEAT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[HEAT] Uni LP
+Unstake 0.00 [WMATIC]-[HEAT] Uni LP
+Claim 0.00 HEAT ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+HEAT
+ Price: $0.03 Market Cap: $81.52 
+[%]
+Staked: 980.2350 HEAT ($25.80)
+HEAT Per Week: 422.71 ($11.13)
+APR: Day 6.16% Week 43.12% Year 2242.41%
+You are staking 0.00 HEAT ($0.00), 0.00% of the pool.
+Stake 0.00 HEAT
+Unstake 0.00 HEAT
+Claim 0.00 HEAT ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+WMATIC
+ Price: $1.64 Market Cap: $602,009,040.57 
+[%]
+Staked: 20.8378 WMATIC ($34.17)
+HEAT Per Week: 120.77 ($3.18)
+APR: Day 1.33% Week 9.30% Year 483.67%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 HEAT ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WETH
+ Price: $3,321.37 Market Cap: $2,025,466,355.55 
+[%]
+Staked: 0.2400 WETH ($797.13)
+HEAT Per Week: 120.77 ($3.18)
+APR: Day 0.06% Week 0.40% Year 20.74%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 HEAT ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WBTC
+ Price: $50,043.00 Market Cap: $697,542,232.58 
+[%]
+Staked: 0.0000 WBTC ($0.10)
+HEAT Per Week: 120.77 ($3.18)
+APR: Day 462.96% Week 3240.74% Year 168518.72%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 HEAT ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+USDC
+ Price: $1.00 Market Cap: $1,046,867,665.74 
+[%]
+Staked: 0.0960 USDC ($0.10)
+HEAT Per Week: 120.77 ($3.18)
+APR: Day 473.73% Week 3316.09% Year 172436.82%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 HEAT ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+USDT
+ Price: $1.00 Market Cap: $314,854,133.87 
+[%]
+Staked: 3.4695 USDT ($3.47)
+HEAT Per Week: 120.77 ($3.18)
+APR: Day 13.10% Week 91.72% Year 4769.51%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 HEAT ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+AAVE
+ Price: $407.89 Market Cap: $155,130,591.72 
+[%]
+Staked: 0.0049 AAVE ($1.98)
+HEAT Per Week: 120.77 ($3.18)
+APR: Day 22.92% Week 160.41% Year 8341.48%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 HEAT ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+SUSHI
+ Price: $13.81 Market Cap: $13,999,001.70 
+[%]
+Staked: 8.7989 SUSHI ($121.51)
+HEAT Per Week: 120.77 ($3.18)
+APR: Day 0.37% Week 2.62% Year 136.03%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 4%
+Unstake 0.00 SUSHI
+Claim 0.00 HEAT ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,016.57

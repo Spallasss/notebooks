@@ -1,0 +1,555 @@
+INFO  : https://blue.planetfinance.io
+******************************************************************************
+
+Mon Aug 23 2021 14:23:52 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 57 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+1 - 
+AQUA
+ Price: $0.00 Market Cap: $0.00 
+Staked: 34758.2095 AQUA ($0.00)
+AQUA Per Week: 1134.07 ($170,337.61)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 AQUA ($0.00), NaN% of the pool.
+Stake 0.00 AQUA
+Unstake 0.00 AQUA
+Claim 0.00 AQUA ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+Cake
+ Price: $24.98 Market Cap: $10,394,742,683.95 
+[%]
+Staked: 12.9244 Cake ($322.85)
+AQUA Per Week: 30.34 ($4,557.68)
+APR: Day 201.67% Week 1411.70% Year 73408.40%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Claim 0.00 AQUA ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[AQUA]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $541.87 TVL: $3,442,956.68
+AQUA Price: $150.20
+WBNB Price: $483.87
+Staked: 6339.0485 Net-LP ($3,434,942.14)
+AQUA Per Week: 827.57 ($124,300.42)
+APR: Day 0.52% Week 3.62% Year 188.17%
+You are staking 0.00 [AQUA]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AQUA]-[WBNB] Uni LP
+Unstake 0.00 [AQUA]-[WBNB] Uni LP
+Claim 0.00 AQUA ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[Cake]-[AQUA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $122.84 TVL: $1,411,958.73
+Cake Price: $24.98
+AQUA Price: $150.20
+Staked: 11450.0984 Net-LP ($1,406,519.02)
+AQUA Per Week: 245.21 ($36,829.75)
+APR: Day 0.37% Week 2.62% Year 136.16%
+You are staking 0.00 [Cake]-[AQUA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[AQUA] Uni LP
+Unstake 0.00 [Cake]-[AQUA] Uni LP
+Claim 0.00 AQUA ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $224.81 TVL: $1,028,947,061.52
+Cake Price: $24.98
+WBNB Price: $483.87
+Staked: 0.0000 Cake-LP ($0.00)
+AQUA Per Week: 15.33 ($2,301.86)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 AQUA ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.70 TVL: $527,045,580.95
+WBNB Price: $483.87
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+AQUA Per Week: 3.07 ($460.37)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 AQUA ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,647.80 TVL: $261,367,635.84
+ETH Price: $3,321.56
+WBNB Price: $483.87
+Staked: 0.0000 Cake-LP ($0.00)
+AQUA Per Week: 15.33 ($2,301.86)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 AQUA ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[BTCB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $473.10 TVL: $139,361,037.51
+BTCB Price: $50,135.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+AQUA Per Week: 3.07 ($460.37)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BTCB]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[BUSD] Cake LP
+Unstake 0.00 [BTCB]-[BUSD] Cake LP
+Claim 0.00 AQUA ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[WBNB]-[LINK] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $240.84 TVL: $47,598,985.63
+WBNB Price: $483.87
+LINK Price: $28.71
+Staked: 0.0000 Cake-LP ($0.00)
+AQUA Per Week: 15.33 ($2,301.86)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[LINK] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[LINK] Cake LP
+Unstake 0.00 [WBNB]-[LINK] Cake LP
+Claim 0.00 AQUA ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $240.16 TVL: $82,578,083.02
+DOT Price: $27.96
+WBNB Price: $483.87
+Staked: 0.0000 Cake-LP ($0.00)
+AQUA Per Week: 15.33 ($2,301.86)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 AQUA ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+[TUSD]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $120,631,604.59
+TUSD Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+AQUA Per Week: 30.65 ($4,603.72)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [TUSD]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [TUSD]-[BUSD] Cake LP
+Unstake 0.00 [TUSD]-[BUSD] Cake LP
+Claim 0.00 AQUA ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.03 TVL: $81,264,886.02
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+AQUA Per Week: 30.65 ($4,603.72)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 AQUA ($0.00)
+Staking or unstaking also claims rewards.
+35 - 
+[XRP]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.78 TVL: $38,887,799.13
+XRP Price: $1.25
+WBNB Price: $483.87
+Staked: 0.0000 Cake-LP ($0.00)
+AQUA Per Week: 30.65 ($4,603.72)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [XRP]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [XRP]-[WBNB] Cake LP
+Unstake 0.00 [XRP]-[WBNB] Cake LP
+Claim 0.00 AQUA ($0.00)
+Staking or unstaking also claims rewards.
+36 - 
+[AQUA]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $24.63 TVL: $964,945.88
+AQUA Price: $150.20
+BUSD Price: $1.00
+Staked: 39143.1928 Net-LP ($964,167.65)
+AQUA Per Week: 245.21 ($36,829.75)
+APR: Day 0.55% Week 3.82% Year 198.63%
+You are staking 0.00 [AQUA]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AQUA]-[BUSD] Uni LP
+Unstake 0.00 [AQUA]-[BUSD] Uni LP
+Claim 0.00 AQUA ($0.00)
+Staking or unstaking also claims rewards.
+37 - 
+[DOGE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,764,814.52 TVL: $26,004,410.19
+DOGE Price: $0.32
+WBNB Price: $483.87
+Staked: 0.0000 Cake-LP ($0.00)
+AQUA Per Week: 30.65 ($4,603.72)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DOGE]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DOGE]-[WBNB] Cake LP
+Unstake 0.00 [DOGE]-[WBNB] Cake LP
+Claim 0.00 AQUA ($0.00)
+Staking or unstaking also claims rewards.
+38 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.09 TVL: $46,752,167.77
+ADA Price: $2.82
+WBNB Price: $483.87
+Staked: 0.0000 Cake-LP ($0.00)
+AQUA Per Week: 30.65 ($4,603.72)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 AQUA ($0.00)
+Staking or unstaking also claims rewards.
+41 - 
+[UST]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $50,232,126.68
+UST Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+AQUA Per Week: 61.30 ($9,207.44)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [UST]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [UST]-[BUSD] Cake LP
+Unstake 0.00 [UST]-[BUSD] Cake LP
+Claim 0.00 AQUA ($0.00)
+Staking or unstaking also claims rewards.
+42 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $314,963,962.42
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+AQUA Per Week: 30.65 ($4,603.72)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 AQUA ($0.00)
+Staking or unstaking also claims rewards.
+43 - beltBTC Price: $0.00 TVL: $0.00
+Staked: 0.0000 beltBTC ($0.00)
+AQUA Per Week: 61.30 ($9,207.44)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 beltBTC ($0.00), NaN% of the pool.
+Stake 0.00 beltBTC
+Unstake 0.00 beltBTC
+Claim 0.00 AQUA ($0.00)
+Staking or unstaking also claims rewards.
+44 - beltETH Price: $0.00 TVL: $0.00
+Staked: 0.0000 beltETH ($0.00)
+AQUA Per Week: 61.30 ($9,207.44)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 beltETH ($0.00), NaN% of the pool.
+Stake 0.00 beltETH
+Unstake 0.00 beltETH
+Claim 0.00 AQUA ($0.00)
+Staking or unstaking also claims rewards.
+46 - beltBNB Price: $0.00 TVL: $0.00
+Staked: 0.0000 beltBNB ($0.00)
+AQUA Per Week: 30.65 ($4,603.72)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 beltBNB ($0.00), NaN% of the pool.
+Stake 0.00 beltBNB
+Unstake 0.00 beltBNB
+Claim 0.00 AQUA ($0.00)
+Staking or unstaking also claims rewards.
+47 - 
+4Belt
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 4Belt ($0.00)
+AQUA Per Week: 30.65 ($4,603.72)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 4Belt ($0.00), NaN% of the pool.
+Stake 0.00 4Belt
+Unstake 0.00 4Belt
+Claim 0.00 AQUA ($0.00)
+Staking or unstaking also claims rewards.
+48 - 
+[LTC]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $621.42 TVL: $11,600,312.24
+LTC Price: $189.10
+WBNB Price: $483.87
+Staked: 0.0000 Cake-LP ($0.00)
+AQUA Per Week: 30.65 ($4,603.72)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [LTC]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [LTC]-[WBNB] Cake LP
+Unstake 0.00 [LTC]-[WBNB] Cake LP
+Claim 0.00 AQUA ($0.00)
+Staking or unstaking also claims rewards.
+49 - 
+[ALPACA]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.56 TVL: $55,434,629.59
+ALPACA Price: $1.39
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+AQUA Per Week: 30.65 ($4,603.72)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ALPACA]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ALPACA]-[BUSD] Cake LP
+Unstake 0.00 [ALPACA]-[BUSD] Cake LP
+Claim 0.00 AQUA ($0.00)
+Staking or unstaking also claims rewards.
+50 - 
+[WBNB]-[UNI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $243.02 TVL: $33,899,986.63
+WBNB Price: $483.87
+UNI Price: $29.38
+Staked: 0.0000 Cake-LP ($0.00)
+AQUA Per Week: 30.65 ($4,603.72)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[UNI] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[UNI] Cake LP
+Unstake 0.00 [WBNB]-[UNI] Cake LP
+Claim 0.00 AQUA ($0.00)
+Staking or unstaking also claims rewards.
+51 - 
+[WBNB]-[BUNNY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $157.33 TVL: $11,354,838.34
+WBNB Price: $483.87
+BUNNY Price: $7.78
+Staked: 0.0000 Cake-LP ($0.00)
+AQUA Per Week: 30.65 ($4,603.72)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[BUNNY] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BUNNY] Cake LP
+Unstake 0.00 [WBNB]-[BUNNY] Cake LP
+Claim 0.00 AQUA ($0.00)
+Staking or unstaking also claims rewards.
+52 - 
+[WBNB]-[XVS] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $303.16 TVL: $34,286,541.33
+WBNB Price: $483.87
+XVS Price: $37.29
+Staked: 0.0000 Cake-LP ($0.00)
+AQUA Per Week: 30.65 ($4,603.72)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[XVS] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[XVS] Cake LP
+Unstake 0.00 [WBNB]-[XVS] Cake LP
+Claim 0.00 AQUA ($0.00)
+Staking or unstaking also claims rewards.
+53 - 
+[UST]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $1,518,910.37
+UST Price: $1.00
+USDC Price: $1.00
+Staked: 759795.7513 Net-LP ($1,518,900.11)
+AQUA Per Week: 91.95 ($13,811.16)
+APR: Day 0.13% Week 0.91% Year 47.28%
+You are staking 0.00 [UST]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[USDC] Uni LP
+Unstake 0.00 [UST]-[USDC] Uni LP
+Claim 0.00 AQUA ($0.00)
+Staking or unstaking also claims rewards.
+54 - 
+[BTCB]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9,857.43 TVL: $1,021,718.55
+BTCB Price: $50,135.00
+WBNB Price: $483.87
+Staked: 103.6459 Net-LP ($1,021,682.27)
+AQUA Per Week: 91.95 ($13,811.16)
+APR: Day 0.19% Week 1.35% Year 70.29%
+You are staking 0.00 [BTCB]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Uni LP
+Unstake 0.00 [BTCB]-[WBNB] Uni LP
+Claim 0.00 AQUA ($0.00)
+Staking or unstaking also claims rewards.
+55 - 
+[ETH]-[BTCB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $25,829.07 TVL: $943,193.42
+ETH Price: $3,321.56
+BTCB Price: $50,135.00
+Staked: 36.5122 Net-LP ($943,076.86)
+AQUA Per Week: 91.95 ($13,811.16)
+APR: Day 0.21% Week 1.46% Year 76.15%
+You are staking 0.00 [ETH]-[BTCB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BTCB] Uni LP
+Unstake 0.00 [ETH]-[BTCB] Uni LP
+Claim 0.00 AQUA ($0.00)
+Staking or unstaking also claims rewards.
+56 - 
+[USDC]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $1,823,728.51
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 913198.4573 Net-LP ($1,823,724.17)
+AQUA Per Week: 91.95 ($13,811.16)
+APR: Day 0.11% Week 0.76% Year 39.38%
+You are staking 0.00 [USDC]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Uni LP
+Unstake 0.00 [USDC]-[BUSD] Uni LP
+Claim 0.00 AQUA ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $11,113,335.07

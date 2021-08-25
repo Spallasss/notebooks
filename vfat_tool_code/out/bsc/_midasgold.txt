@@ -1,0 +1,589 @@
+INFO  : https://midasgold.network
+******************************************************************************
+
+Mon Aug 23 2021 13:49:34 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 21 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+[WBNB 30%]-[MDG 70%] Value-LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $503.09
+WBNB Price: $483.93
+MDG Price: $5.36
+Staked: 205245966864670.2188 WBNBMDG ($482.07)
+MDG Per Week: 0.00 ($0.00)
+BCASH Per Week: 0.00 ($0.00)
+MDO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB 30%]-[MDG 70%] Value-LP ($0.00), 0.00% of the pool.
+Claim 0.0000 MDG ($0.00) 0.0000 BCASH ($0.00) 0.0000 MDO ($0.00)  - Total $0.00
+Stake 0.00 [WBNB 30%]-[MDG 70%] Value-LP
+Unstake 0.00 [WBNB 30%]-[MDG 70%] Value-LP
+Staking or unstaking also claims rewards.
+
+
+[WBNB 50%]-[BUSD 50%] Value-LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $46.10 TVL: $122,359.74
+WBNB Price: $483.93
+BUSD Price: $1.00
+Staked: 500.1392 WBNBBUSD ($23,056.60)
+MDG Per Week: 0.00 ($0.00)
+BCASH Per Week: 0.00 ($0.00)
+MDO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB 50%]-[BUSD 50%] Value-LP ($0.00), 0.00% of the pool.
+Claim 0.0000 MDG ($0.00) 0.0000 BCASH ($0.00) 0.0000 MDO ($0.00)  - Total $0.00
+Stake 0.00 [WBNB 50%]-[BUSD 50%] Value-LP
+Unstake 0.00 [WBNB 50%]-[BUSD 50%] Value-LP
+Staking or unstaking also claims rewards.
+
+
+vDOLLAR
+ Price: $1.01 Market Cap: $45,537.29 
+[%]
+Staked: 24255.2470 vDOLLAR ($24,603.09)
+MDG Per Week: 0.00 ($0.00)
+BCASH Per Week: 0.00 ($0.00)
+MDO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 vDOLLAR ($0.00), 0.00% of the pool.
+Claim 0.0000 MDG ($0.00) 0.0000 BCASH ($0.00) 0.0000 MDO ($0.00)  - Total $0.00
+Stake 0.00 vDOLLAR
+Unstake 0.00 vDOLLAR
+Staking or unstaking also claims rewards.
+
+
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $260.73 TVL: $8,043,293.52
+Cake Price: $25.01
+WBNB Price: $483.93
+Staked: 96.5680 Cake-LP ($25,177.91)
+MDG Per Week: 0.00 ($0.00)
+BCASH Per Week: 0.00 ($0.00)
+MDO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Claim 0.0000 MDG ($0.00) 0.0000 BCASH ($0.00) 0.0000 MDO ($0.00)  - Total $0.00
+Stake 0.00 [Cake]-[WBNB] Cake LP
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Staking or unstaking also claims rewards.
+
+
+[MDO 50%]-[MDG 50%] Value-LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $37,524.03
+MDO Price: $0.12
+MDG Price: $5.36
+Staked: 3702.4536 MDOMDG ($7,548.47)
+MDG Per Week: 0.00 ($0.00)
+BCASH Per Week: 0.00 ($0.00)
+MDO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [MDO 50%]-[MDG 50%] Value-LP ($0.00), 0.00% of the pool.
+Claim 0.0000 MDG ($0.00) 0.0000 BCASH ($0.00) 0.0000 MDO ($0.00)  - Total $0.00
+Stake 0.00 [MDO 50%]-[MDG 50%] Value-LP
+Unstake 0.00 [MDO 50%]-[MDG 50%] Value-LP
+Staking or unstaking also claims rewards.
+
+
+[MDG 70%]-[BUSD 30%] Value-LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $247.51
+MDG Price: $5.36
+BUSD Price: $1.00
+Staked: 29362875552611397632.0000 MDGBUSD ($47.04)
+MDG Per Week: 0.00 ($0.00)
+BCASH Per Week: 0.00 ($0.00)
+MDO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [MDG 70%]-[BUSD 30%] Value-LP ($0.00), 0.00% of the pool.
+Claim 0.0000 MDG ($0.00) 0.0000 BCASH ($0.00) 0.0000 MDO ($0.00)  - Total $0.00
+Stake 0.00 [MDG 70%]-[BUSD 30%] Value-LP
+Unstake 0.00 [MDG 70%]-[BUSD 30%] Value-LP
+Staking or unstaking also claims rewards.
+
+
+[MDO]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.86 TVL: $120,282.97
+MDO Price: $0.12
+BUSD Price: $1.00
+Staked: 6382.9018 Cake-LP ($5,485.36)
+MDG Per Week: 0.00 ($0.00)
+BCASH Per Week: 0.00 ($0.00)
+MDO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [MDO]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Claim 0.0000 MDG ($0.00) 0.0000 BCASH ($0.00) 0.0000 MDO ($0.00)  - Total $0.00
+Stake 0.00 [MDO]-[BUSD] Cake LP
+Unstake 0.00 [MDO]-[BUSD] Cake LP
+Staking or unstaking also claims rewards.
+
+
+[ETH]-[BETH] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6,604.02 TVL: $1,606,376.57
+ETH Price: $3,323.90
+BETH Price: $3,202.31
+Staked: 0.5059 Cake-LP ($3,341.21)
+MDG Per Week: 0.00 ($0.00)
+BCASH Per Week: 0.00 ($0.00)
+MDO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ETH]-[BETH] Cake LP ($0.00), 0.00% of the pool.
+Claim 0.0000 MDG ($0.00) 0.0000 BCASH ($0.00) 0.0000 MDO ($0.00)  - Total $0.00
+Stake 0.00 [ETH]-[BETH] Cake LP
+Unstake 0.00 [ETH]-[BETH] Cake LP
+Staking or unstaking also claims rewards.
+
+
+MDG
+ Price: $5.36 Market Cap: $2,258,641.30 
+[%]
+Staked: 47660.3663 MDG ($255,244.38)
+MDG Per Week: 0.00 ($0.00)
+BCASH Per Week: 0.00 ($0.00)
+MDO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 MDG ($0.00), 0.00% of the pool.
+Claim 0.0000 MDG ($0.00) 0.0000 BCASH ($0.00) 0.0000 MDO ($0.00)  - Total $0.00
+Stake 0.00 MDG
+Unstake 0.00 MDG
+Staking or unstaking also claims rewards.
+
+
+MDO
+ Price: $0.12 Market Cap: $213,697.70 
+[%]
+Staked: 8366.9130 MDO ($971.00)
+MDG Per Week: 0.00 ($0.00)
+BCASH Per Week: 0.00 ($0.00)
+MDO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 MDO ($0.00), 0.00% of the pool.
+Claim 0.0000 MDG ($0.00) 0.0000 BCASH ($0.00) 0.0000 MDO ($0.00)  - Total $0.00
+Stake 0.00 MDO
+Unstake 0.00 MDO
+Staking or unstaking also claims rewards.
+
+
+WBNB
+ Price: $483.93 Market Cap: $3,429,197,243.90 
+[%]
+Staked: 0.2564 WBNB ($124.08)
+MDG Per Week: 0.00 ($0.00)
+BCASH Per Week: 0.00 ($0.00)
+MDO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Claim 0.0000 MDG ($0.00) 0.0000 BCASH ($0.00) 0.0000 MDO ($0.00)  - Total $0.00
+Stake 0.00 WBNB
+Unstake 0.00 WBNB
+Staking or unstaking also claims rewards.
+
+
+DOT
+ Price: $27.97 Market Cap: $391,579,999.86 
+[%]
+Staked: 45.3049 DOT ($1,267.18)
+MDG Per Week: 0.00 ($0.00)
+BCASH Per Week: 0.00 ($0.00)
+MDO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Claim 0.0000 MDG ($0.00) 0.0000 BCASH ($0.00) 0.0000 MDO ($0.00)  - Total $0.00
+Stake 0.00 DOT
+Unstake 0.00 DOT
+Staking or unstaking also claims rewards.
+
+
+Cake
+ Price: $25.01 Market Cap: $10,406,938,488.10 
+[%]
+Staked: 33.0560 Cake ($826.73)
+MDG Per Week: 0.00 ($0.00)
+BCASH Per Week: 0.00 ($0.00)
+MDO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Claim 0.0000 MDG ($0.00) 0.0000 BCASH ($0.00) 0.0000 MDO ($0.00)  - Total $0.00
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Staking or unstaking also claims rewards.
+
+
+vBSWAP
+ Price: $34.36 Market Cap: $215,767.30 
+[%]
+Staked: 0.7220 vBSWAP ($24.81)
+MDG Per Week: 0.00 ($0.00)
+BCASH Per Week: 0.00 ($0.00)
+MDO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 vBSWAP ($0.00), 0.00% of the pool.
+Claim 0.0000 MDG ($0.00) 0.0000 BCASH ($0.00) 0.0000 MDO ($0.00)  - Total $0.00
+Stake 0.00 vBSWAP
+Unstake 0.00 vBSWAP
+Staking or unstaking also claims rewards.
+
+
+BTCB
+ Price: $50,221.00 Market Cap: $4,293,945,721.00 
+[%]
+Staked: 0.0104 BTCB ($523.27)
+MDG Per Week: 0.00 ($0.00)
+BCASH Per Week: 0.00 ($0.00)
+MDO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Claim 0.0000 MDG ($0.00) 0.0000 BCASH ($0.00) 0.0000 MDO ($0.00)  - Total $0.00
+Stake 0.00 BTCB
+Unstake 0.00 BTCB
+Staking or unstaking also claims rewards.
+
+
+ETH
+ Price: $3,323.90 Market Cap: $4,337,689,500.00 
+[%]
+Staked: 0.5258 ETH ($1,747.77)
+MDG Per Week: 0.00 ($0.00)
+BCASH Per Week: 0.00 ($0.00)
+MDO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Claim 0.0000 MDG ($0.00) 0.0000 BCASH ($0.00) 0.0000 MDO ($0.00)  - Total $0.00
+Stake 0.00 ETH
+Unstake 0.00 ETH
+Staking or unstaking also claims rewards.
+
+
+BFI
+ Price: $44.36 Market Cap: $2,780,044.85 
+[%]
+Staked: 17.7741 BFI ($788.46)
+MDG Per Week: 0.00 ($0.00)
+BCASH Per Week: 0.00 ($0.00)
+MDO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BFI ($0.00), 0.00% of the pool.
+Claim 0.0000 MDG ($0.00) 0.0000 BCASH ($0.00) 0.0000 MDO ($0.00)  - Total $0.00
+Stake 0.00 BFI
+Unstake 0.00 BFI
+Staking or unstaking also claims rewards.
+
+
+BSCX
+ Price: $2.47 Market Cap: $24,658,988.12 
+[%]
+Staked: 1333.9571 BSCX ($3,294.87)
+MDG Per Week: 0.00 ($0.00)
+BCASH Per Week: 0.00 ($0.00)
+MDO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BSCX ($0.00), 0.00% of the pool.
+Claim 0.0000 MDG ($0.00) 0.0000 BCASH ($0.00) 0.0000 MDO ($0.00)  - Total $0.00
+Stake 0.00 BSCX
+Unstake 0.00 BSCX
+Staking or unstaking also claims rewards.
+
+
+BDO
+ Price: $0.05 Market Cap: $1,788,460.20 
+[%]
+Staked: 72176.8831 BDO ($3,861.03)
+MDG Per Week: 0.00 ($0.00)
+BCASH Per Week: 0.00 ($0.00)
+MDO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BDO ($0.00), 0.00% of the pool.
+Claim 0.0000 MDG ($0.00) 0.0000 BCASH ($0.00) 0.0000 MDO ($0.00)  - Total $0.00
+Stake 0.00 BDO
+Unstake 0.00 BDO
+Staking or unstaking also claims rewards.
+
+
+BUSD
+ Price: $1.00 Market Cap: $4,199,176,166.26 
+[%]
+Staked: 3235.0053 BUSD ($3,233.60)
+MDG Per Week: 0.00 ($0.00)
+BCASH Per Week: 0.00 ($0.00)
+MDO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Claim 0.0000 MDG ($0.00) 0.0000 BCASH ($0.00) 0.0000 MDO ($0.00)  - Total $0.00
+Stake 0.00 BUSD
+Unstake 0.00 BUSD
+Staking or unstaking also claims rewards.
+
+
+[bCash 70%]-[BUSD 30%] Value-LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.04
+bCash Price: $0.20
+BUSD Price: $1.00
+Staked: 64355.6952 bCashBUSD ($0.04)
+MDG Per Week: 0.00 ($0.00)
+BCASH Per Week: 0.00 ($0.00)
+MDO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [bCash 70%]-[BUSD 30%] Value-LP ($0.00), 0.00% of the pool.
+Claim 0.0000 MDG ($0.00) 0.0000 BCASH ($0.00) 0.0000 MDO ($0.00)  - Total $0.00
+Stake 0.00 [bCash 70%]-[BUSD 30%] Value-LP
+Unstake 0.00 [bCash 70%]-[BUSD 30%] Value-LP
+Staking or unstaking also claims rewards.
+
+
+Staking Contract
+Found 13 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+Total Staked: $0.00
+Staking Contract
+Found 13 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+MDG2
+ Price: $0.04 Market Cap: $2,450.60 
+[%]
+Staked: 2320.8388 MDG2 ($85.73)
+MDG3 Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 MDG2 ($0.00), 0.00% of the pool.
+Stake 0.00 MDG2
+Unstake 0.00 MDG2
+Claim 0.00 MDG3 ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[MDG2 70%]-[WBNB 30%] Value-LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $33.93
+MDG2 Price: $0.04
+WBNB Price: $483.93
+Staked: 19.1200 MDG2WBNB ($0.00)
+MDG3 Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [MDG2 70%]-[WBNB 30%] Value-LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MDG2 70%]-[WBNB 30%] Value-LP
+Unstake 0.00 [MDG2 70%]-[WBNB 30%] Value-LP
+Claim 0.00 MDG3 ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[MDG2 50%]-[MDO 50%] Value-LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.16 TVL: $233.80
+MDG2 Price: $0.04
+MDO Price: $0.12
+Staked: 40.9446 MDG2MDO ($6.67)
+MDG3 Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [MDG2 50%]-[MDO 50%] Value-LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MDG2 50%]-[MDO 50%] Value-LP
+Unstake 0.00 [MDG2 50%]-[MDO 50%] Value-LP
+Claim 0.00 MDG3 ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[MDG2 70%]-[BUSD 30%] Value-LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $35.25
+MDG2 Price: $0.04
+BUSD Price: $1.00
+Staked: 1255.3024 MDG2BUSD ($1.08)
+MDG3 Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [MDG2 70%]-[BUSD 30%] Value-LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MDG2 70%]-[BUSD 30%] Value-LP
+Unstake 0.00 [MDG2 70%]-[BUSD 30%] Value-LP
+Claim 0.00 MDG3 ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[MDG3 70%]-[WBNB 30%] Value-LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.12 TVL: $104.45
+MDG3 Price: $0.11
+WBNB Price: $483.93
+Staked: 10.9436 MDG3WBNB ($12.31)
+MDG3 Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [MDG3 70%]-[WBNB 30%] Value-LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MDG3 70%]-[WBNB 30%] Value-LP
+Unstake 0.00 [MDG3 70%]-[WBNB 30%] Value-LP
+Claim 0.00 MDG3 ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+MDO
+ Price: $0.12 Market Cap: $213,697.70 
+[%]
+Staked: 2789.5612 MDO ($323.73)
+MDG3 Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 MDO ($0.00), 0.00% of the pool.
+Stake 0.00 MDO
+Unstake 0.00 MDO
+Claim 0.00 MDG3 ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WBNB
+ Price: $483.93 Market Cap: $3,429,197,243.90 
+[%]
+Staked: 0.0000 WBNB ($0.00)
+MDG3 Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WBNB ($0.00), NaN% of the pool.
+Stake 0.00 WBNB
+Unstake 0.00 WBNB
+Claim 0.00 MDG3 ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+BTCB
+ Price: $50,221.00 Market Cap: $4,293,945,721.00 
+[%]
+Staked: 0.0000 BTCB ($0.00)
+MDG3 Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BTCB ($0.00), NaN% of the pool.
+Stake 0.00 BTCB
+Unstake 0.00 BTCB
+Claim 0.00 MDG3 ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+DOT
+ Price: $27.97 Market Cap: $391,579,999.86 
+[%]
+Staked: 0.0000 DOT ($0.00)
+MDG3 Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DOT ($0.00), NaN% of the pool.
+Stake 0.00 DOT
+Unstake 0.00 DOT
+Claim 0.00 MDG3 ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+Cake
+ Price: $25.01 Market Cap: $10,406,938,488.10 
+[%]
+Staked: 0.0000 Cake ($0.00)
+MDG3 Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 Cake ($0.00), NaN% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Claim 0.00 MDG3 ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+BUSD
+ Price: $1.00 Market Cap: $4,199,176,166.26 
+[%]
+Staked: 38.4000 BUSD ($38.38)
+MDG3 Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD
+Unstake 0.00 BUSD
+Claim 0.00 MDG3 ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+MDG
+ Price: $5.36 Market Cap: $2,258,641.30 
+[%]
+Staked: 179.6731 MDG ($962.24)
+MDG3 Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 MDG ($0.00), 0.00% of the pool.
+Stake 0.00 MDG
+Unstake 0.00 MDG
+Claim 0.00 MDG3 ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+vPegETH
+ Price: $3,331.52 Market Cap: $8,270.25 
+[%]
+Staked: 0.0156 vPegETH ($51.95)
+MDG3 Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 vPegETH ($0.00), 0.00% of the pool.
+Stake 0.00 vPegETH
+Unstake 0.00 vPegETH
+Claim 0.00 MDG3 ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,482.09

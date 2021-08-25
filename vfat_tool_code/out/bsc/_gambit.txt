@@ -1,0 +1,59 @@
+INFO  : https://gambit.financial/earn
+*************************************************************************************
+
+Mon Aug 23 2021 14:27:57 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+[USDG]-[GMT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6.27 TVL: $111,497.12
+USDG Price: $1.00
+GMT Price: $9.65
+Staked: 7513.3055 Cake-LP ($47,100.27)
+WBNB Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 GMT/USDG ($0.00), 0.00% of the pool.
+xGMT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 GMT/USDG ($0.00), 0.00% of the pool.
+[USDG]-[xGMT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $16.66 TVL: $39,401.97
+USDG Price: $1.00
+xGMT Price: $67.49
+Staked: 1629.7798 Cake-LP ($27,152.84)
+WBNB Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 xGMT/USDG ($0.00), 0.00% of the pool.
+xGMT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 xGMT/USDG ($0.00), 0.00% of the pool.
+USDG
+ Price: $1.00 Market Cap: $2,721,306.70 
+[%]
+Staked: 2419363.6022 USDG ($2,415,445.93)
+WBNB Per Week: 35.00 ($16,936.50)
+APR: Day 0.10% Week 0.70% Year 36.46%
+You are staking 0.00 USDG ($0.00), 0.00% of the pool.
+xGMT
+ Price: $67.49 Market Cap: $6,748,733.62 
+[%]
+Staked: 23514.4595 xGMT ($1,586,928.23)
+WBNB Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 xGMT ($0.00), 0.00% of the pool.

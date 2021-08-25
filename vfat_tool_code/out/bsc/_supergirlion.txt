@@ -1,0 +1,428 @@
+INFO  : https://newgirl.supermanion.com
+*********************************************************************************
+
+Mon Aug 23 2021 15:09:22 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 26 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[SGIRLn]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $31.73
+SGIRLn Price: $0.000258
+BUSD Price: $1.00
+Staked: 163.3554 Cake-LP ($5.71)
+SGIRL Per Week: 3565.61 ($0.92)
+APR: Day 2.30% Week 16.13% Year 838.61%
+You are staking 0.00 [SGIRLn]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SGIRLn]-[BUSD] Cake LP
+Unstake 0.00 [SGIRLn]-[BUSD] Cake LP
+Claim 0.00 SGIRL ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[SGIRLn]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.85 TVL: $3.80
+SGIRLn Price: $0.000258
+WBNB Price: $488.96
+Staked: 4.4339 Cake-LP ($3.76)
+SGIRL Per Week: 2852.49 ($0.74)
+APR: Day 2.80% Week 19.59% Year 1018.64%
+You are staking 0.00 [SGIRLn]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SGIRLn]-[WBNB] Cake LP
+Unstake 0.00 [SGIRLn]-[WBNB] Cake LP
+Claim 0.00 SGIRL ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+SGIRLn
+ Price: $0.000258 Market Cap: $79.51 
+[%]
+Staked: 79618.4551 SGIRLn ($20.55)
+SGIRL Per Week: 1568.87 ($0.40)
+APR: Day 0.28% Week 1.97% Year 102.47%
+You are staking 0.00 SGIRLn ($0.00), 0.00% of the pool.
+Stake 0.00 SGIRLn
+Unstake 0.00 SGIRLn
+Claim 0.00 SGIRL ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.97 TVL: $526,543,157.72
+WBNB Price: $488.96
+BUSD Price: $1.00
+Staked: 0.0250 Cake-LP ($1.25)
+SGIRL Per Week: 392.22 ($0.10)
+APR: Day 1.16% Week 8.12% Year 422.06%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SGIRL ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,252.73 TVL: $174,568,706.49
+BTCB Price: $49,844.00
+WBNB Price: $488.96
+Staked: 0.0001 Cake-LP ($0.79)
+SGIRL Per Week: 356.56 ($0.09)
+APR: Day 1.67% Week 11.69% Year 607.81%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 SGIRL ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,666.18 TVL: $263,152,238.12
+ETH Price: $3,332.55
+WBNB Price: $488.96
+Staked: 0.1753 Cake-LP ($467.48)
+SGIRL Per Week: 356.56 ($0.09)
+APR: Day 0.00% Week 0.02% Year 1.02%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 SGIRL ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $227.57 TVL: $1,041,107,310.90
+Cake Price: $25.33
+WBNB Price: $488.96
+Staked: 4.0221 Cake-LP ($915.32)
+SGIRL Per Week: 285.25 ($0.07)
+APR: Day 0.00% Week 0.01% Year 0.42%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 SGIRL ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[Cake]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13.49 TVL: $66,683,109.58
+Cake Price: $25.33
+BUSD Price: $1.00
+Staked: 0.1549 Cake-LP ($2.09)
+SGIRL Per Week: 213.94 ($0.06)
+APR: Day 0.38% Week 2.64% Year 137.48%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 SGIRL ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $242.51 TVL: $83,382,754.52
+DOT Price: $28.21
+WBNB Price: $488.96
+Staked: 0.0000 Cake-LP ($0.00)
+SGIRL Per Week: 213.94 ($0.06)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 SGIRL ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.63 TVL: $47,070,545.51
+ADA Price: $2.83
+WBNB Price: $488.96
+Staked: 0.0192 Cake-LP ($1.49)
+SGIRL Per Week: 213.94 ($0.06)
+APR: Day 0.53% Week 3.70% Year 192.66%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 SGIRL ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,190,184.04
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 2.4000 Cake-LP ($4.91)
+SGIRL Per Week: 285.25 ($0.07)
+APR: Day 0.21% Week 1.50% Year 77.96%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 SGIRL ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.03 TVL: $81,331,395.81
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 10.0000 Cake-LP ($20.35)
+SGIRL Per Week: 285.25 ($0.07)
+APR: Day 0.05% Week 0.36% Year 18.82%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 SGIRL ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,949,018.61
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.4800 Cake-LP ($0.99)
+SGIRL Per Week: 285.25 ($0.07)
+APR: Day 1.06% Week 7.45% Year 387.61%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 SGIRL ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+BUSD
+ Price: $1.00 Market Cap: $4,194,374,423.94 
+[%]
+Staked: 2.1085 BUSD ($2.11)
+SGIRL Per Week: 249.59 ($0.06)
+APR: Day 0.44% Week 3.06% Year 159.14%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 SGIRL ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 0.9600 USDT ($0.96)
+SGIRL Per Week: 249.59 ($0.06)
+APR: Day 0.96% Week 6.71% Year 349.04%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 SGIRL ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+WBNB
+ Price: $488.96 Market Cap: $3,447,837,775.42 
+[%]
+Staked: 0.0960 WBNB ($46.94)
+SGIRL Per Week: 249.59 ($0.06)
+APR: Day 0.02% Week 0.14% Year 7.14%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 SGIRL ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+BTCB
+ Price: $49,844.00 Market Cap: $4,261,711,844.00 
+[%]
+Staked: 0.0000 BTCB ($0.00)
+SGIRL Per Week: 142.62 ($0.04)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BTCB ($0.00), NaN% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 SGIRL ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+ETH
+ Price: $3,332.55 Market Cap: $4,348,977,750.00 
+[%]
+Staked: 0.0000 ETH ($0.00)
+SGIRL Per Week: 142.62 ($0.04)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ETH ($0.00), NaN% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 SGIRL ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+Cake
+ Price: $25.33 Market Cap: $10,540,782,620.53 
+[%]
+Staked: 0.0000 Cake ($0.00)
+SGIRL Per Week: 142.62 ($0.04)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 Cake ($0.00), NaN% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 SGIRL ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 4.3143 DAI ($4.31)
+SGIRL Per Week: 142.62 ($0.04)
+APR: Day 0.12% Week 0.85% Year 44.37%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 SGIRL ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,859,661.00 
+[%]
+Staked: 1.9200 USDC ($1.92)
+SGIRL Per Week: 142.62 ($0.04)
+APR: Day 0.27% Week 1.92% Year 99.77%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 SGIRL ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+DOT
+ Price: $28.21 Market Cap: $394,939,999.86 
+[%]
+Staked: 4.1927 DOT ($118.28)
+SGIRL Per Week: 142.62 ($0.04)
+APR: Day 0.00% Week 0.03% Year 1.62%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 SGIRL ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[SMAN]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.10 TVL: $198.21
+SMAN Price: $0.001510
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+SGIRL Per Week: 1069.68 ($0.28)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [SMAN]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [SMAN]-[BUSD] Cake LP - Fee 0.5%
+Unstake 0.00 [SMAN]-[BUSD] Cake LP
+Claim 0.00 SGIRL ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+SMAN
+ Price: $0.001510 Market Cap: $481.30 
+[%]
+Staked: 4290.1552 SMAN ($6.48)
+SGIRL Per Week: 855.75 ($0.22)
+APR: Day 0.49% Week 3.41% Year 177.31%
+You are staking 0.00 SMAN ($0.00), 0.00% of the pool.
+Stake 0.00 SMAN - Fee 1%
+Unstake 0.00 SMAN
+Claim 0.00 SGIRL ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[SMAN]-[SGIRLn] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.80
+SMAN Price: $0.001510
+SGIRLn Price: $0.000258
+Staked: 236.0860 Cake-LP ($0.31)
+SGIRL Per Week: 1426.25 ($0.37)
+APR: Day 17.08% Week 119.57% Year 6217.43%
+You are staking 0.00 [SMAN]-[SGIRLn] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SMAN]-[SGIRLn] Cake LP
+Unstake 0.00 [SMAN]-[SGIRLn] Cake LP
+Claim 0.00 SGIRL ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+JUNGLE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 832.8233 JUNGLE ($0.00)
+SGIRL Per Week: 249.59 ($0.06)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 JUNGLE ($0.00), NaN% of the pool.
+Stake 0.00 JUNGLE - Fee 2%
+Unstake 0.00 JUNGLE
+Claim 0.00 SGIRL ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,625.98

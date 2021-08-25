@@ -1,0 +1,76 @@
+INFO  : 
+https://50cent.network
+
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:47:49 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+ 
+-------------------------------------------------
+TOKEN INFORMATION
+-------------------------------------------------
+50C price $0.18
+50C Circulating 395,186
+50C totalSupply 395,186
+Fully diluted marketcap: $71,173
+ 
+50K price $0.16
+50K Circulating 14,669.68
+50K totalSupply 200,001.00
+Fully diluted marketcap: $31,720
+ 
+ 
+-------------------------------------------------
+POOLS INFORMATION
+-------------------------------------------------
+ 
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+WMATIC Pool:
+--Reward: 50C
+--APR: 66.17%
+--TVL: $99,624
+--Your deposit: $0.00
+ 
+WETH Pool:
+--Reward: 50C
+--APR: 33,609.41%
+--TVL: $196
+--Your deposit: $0.00
+ 
+USDC Pool:
+--Reward: 50C
+--APR: 131.70%
+--TVL: $50,049
+--Your deposit: $0.00
+ 
+50C-USDC Pool:
+--Reward: 50C
+--APR: 174,641.95%
+--TVL: $377
+--Your deposit: $0.00
+ 
+50C-WMatic Pool:
+--Reward: 50K
+--APR: 351.44%
+--TVL: $5,415
+--Your deposit: $0.00
+ 
+50K-USDC Pool:
+--Reward: 50K
+--APR: 1,614.74%
+--TVL: $491
+--Your deposit: $0.00
+ 
+50C Pool:
+--Reward: 50K
+--APR: 39.63%
+--TVL: $12,007
+--Your deposit: $0.00
+ 

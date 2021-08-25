@@ -1,0 +1,251 @@
+INFO  : https://rediant.finance
+*************************************************************************************
+
+Mon Aug 23 2021 13:22:58 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 16 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[RDT] SPOOKY LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $308,890.32 TVL: $557.03
+USDC Price: $1.00
+RDT Price: $0.01
+Staked: 0.0013 spLP ($410.46)
+RDT Per Week: 51741.44 ($569.08)
+APR: Day 19.81% Week 138.65% Year 7209.59%
+You are staking 0.00 [USDC]-[RDT] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[RDT] SPOOKY LP
+Unstake 0.00 [USDC]-[RDT] SPOOKY LP
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WFTM]-[RDT] SPOOKY LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.18 TVL: $1,463.21
+WFTM Price: $0.57
+RDT Price: $0.01
+Staked: 911.0633 spLP ($165.44)
+RDT Per Week: 40243.35 ($442.62)
+APR: Day 38.22% Week 267.55% Year 13912.42%
+You are staking 0.00 [WFTM]-[RDT] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[RDT] SPOOKY LP
+Unstake 0.00 [WFTM]-[RDT] SPOOKY LP
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+RDT
+ Price: $0.01 Market Cap: $12,892.91 
+Staked: 891473.4199 RDT ($9,804.95)
+RDT Per Week: 6898.86 ($75.88)
+APR: Day 0.11% Week 0.77% Year 40.24%
+You are staking 0.00 RDT ($0.00), 0.00% of the pool.
+Stake 0.00 RDT
+Unstake 0.00 RDT
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+USDC
+ Price: $1.00 Market Cap: $64,289,828.38 
+Staked: 883.7185 USDC ($882.78)
+RDT Per Week: 3449.43 ($37.94)
+APR: Day 0.61% Week 4.30% Year 223.48%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WFTM
+ Price: $0.57 Market Cap: $122,005,426.11 
+Staked: 9237.8770 WFTM ($5,256.34)
+RDT Per Week: 5749.05 ($63.23)
+APR: Day 0.17% Week 1.20% Year 62.55%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM - Fee 4%
+Unstake 0.00 WFTM
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+ETH
+ Price: $3,319.02 Market Cap: $15,103,504.88 
+Staked: 0.0015 ETH ($4.95)
+RDT Per Week: 4024.33 ($44.26)
+APR: Day 127.66% Week 893.59% Year 46466.72%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+BTC
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0001 BTC ($0.00)
+RDT Per Week: 4024.33 ($44.26)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BTC ($0.00), NaN% of the pool.
+Stake 0.00 BTC - Fee 4%
+Unstake 0.00 BTC
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+DAI
+ Price: $1.00 Market Cap: $39,294,873.11 
+Staked: 164.9068 DAI ($164.73)
+RDT Per Week: 2299.62 ($25.29)
+APR: Day 2.19% Week 15.35% Year 798.41%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+fUSDT
+ Price: $1.00 Market Cap: $72,690,478.34 
+Staked: 2.9689 fUSDT ($2.97)
+RDT Per Week: 2299.62 ($25.29)
+APR: Day 121.82% Week 852.75% Year 44342.85%
+You are staking 0.00 fUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 fUSDT - Fee 4%
+Unstake 0.00 fUSDT
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+BNB
+ Price: $483.14 Market Cap: $3,522,645.53 
+Staked: 0.0079 BNB ($3.83)
+RDT Per Week: 2299.62 ($25.29)
+APR: Day 94.22% Week 659.54% Year 34296.07%
+You are staking 0.00 BNB ($0.00), 0.00% of the pool.
+Stake 0.00 BNB - Fee 4%
+Unstake 0.00 BNB
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+BOO
+ Price: $10.07 Market Cap: $59,318,097.25 
+Staked: 40.2022 BOO ($404.84)
+RDT Per Week: 2874.52 ($31.62)
+APR: Day 1.12% Week 7.81% Year 406.09%
+You are staking 0.00 BOO ($0.00), 0.00% of the pool.
+Stake 0.00 BOO - Fee 4%
+Unstake 0.00 BOO
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[USDC]-[WFTM] SPOOKY LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,842,483.58 TVL: $10,021,560.80
+USDC Price: $1.00
+WFTM Price: $0.57
+Staked: 0.0001 spLP ($106.74)
+RDT Per Week: 4024.33 ($44.26)
+APR: Day 5.92% Week 41.47% Year 2156.30%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP - Fee 4%
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WFTM]-[BOO] SPOOKY LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.92 TVL: $33,126,658.01
+WFTM Price: $0.57
+BOO Price: $10.07
+Staked: 3414.6768 spLP ($16,812.47)
+RDT Per Week: 4024.33 ($44.26)
+APR: Day 0.04% Week 0.26% Year 13.69%
+You are staking 0.00 [WFTM]-[BOO] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BOO] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[BOO] SPOOKY LP
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WFTM]-[ETH] SPOOKY LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $90.92 TVL: $6,624,525.96
+WFTM Price: $0.57
+ETH Price: $3,319.02
+Staked: 0.0894 spLP ($8.13)
+RDT Per Week: 5749.05 ($63.23)
+APR: Day 111.12% Week 777.82% Year 40446.55%
+You are staking 0.00 [WFTM]-[ETH] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[ETH] SPOOKY LP
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[WFTM]-[BTC] SPOOKY LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6,606,637,046.55 TVL: $7,615,132.63
+WFTM Price: $0.57
+BTC Price: $50,222.79
+Staked: 0.0000 spLP ($183.80)
+RDT Per Week: 5749.05 ($63.23)
+APR: Day 4.91% Week 34.40% Year 1788.93%
+You are staking 0.00 [WFTM]-[BTC] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BTC] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[BTC] SPOOKY LP
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[WFTM]-[DAI] SPOOKY LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.65 TVL: $4,079,870.30
+WFTM Price: $0.57
+DAI Price: $1.00
+Staked: 11.2623 spLP ($18.57)
+RDT Per Week: 5749.05 ($63.23)
+APR: Day 48.64% Week 340.50% Year 17705.96%
+You are staking 0.00 [WFTM]-[DAI] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[DAI] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[DAI] SPOOKY LP
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $34,231.00

@@ -1,0 +1,30 @@
+INFO  : https://polygon-triton.galaxyfinance.one/
+************************************************************************************
+
+Mon Aug 23 2021 12:33:46 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 7 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+TRITON
+ Price: $0.00 Market Cap: $0.00 
+Staked: 99690.8189 TRITON ($0.00)
+TRITON Per Week: 10996.36 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 TRITON ($0.00), NaN% of the pool.
+Stake 0.00 TRITON
+Unstake 0.00 TRITON
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $0.00

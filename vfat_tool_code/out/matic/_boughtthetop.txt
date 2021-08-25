@@ -1,0 +1,112 @@
+INFO  : https://farm.BoughtThe.top
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 15:57:29 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+[BTT]-[WMATIC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.05 TVL: $1,241.25
+BTT Price: $0.000433
+WMATIC Price: $1.64
+Staked: 19994.2024 UNI-V2 ($1,086.41)
+BTT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [BTT]-[WMATIC] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [BTT]-[WMATIC] Uni LP
+Unstake 0.000000 [BTT]-[WMATIC] Uni LP
+Claim 0.000000 BTT ($0.00)
+Revoke (set approval to 0)
+Exit
+DAI
+ Price: $1.00 Market Cap: $383,361,394.43 
+[%]
+Staked: 4.4910 DAI ($4.49)
+BTT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 DAI $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 DAI
+Unstake 0.000000 DAI
+Claim 0.000000 BTT ($0.00)
+Revoke (set approval to 0)
+Exit
+USDC
+ Price: $1.00 Market Cap: $1,056,163,889.20 
+[%]
+Staked: 76.0020 USDC ($75.75)
+BTT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 USDC $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 USDC
+Unstake 0.000000 USDC
+Claim 0.000000 BTT ($0.00)
+Revoke (set approval to 0)
+Exit
+USDT
+ Price: $1.00 Market Cap: $322,958,787.81 
+[%]
+Staked: 80.0000 USDT ($79.90)
+BTT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 USDT $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 USDT
+Unstake 0.000000 USDT
+Claim 0.000000 BTT ($0.00)
+Revoke (set approval to 0)
+Exit
+WBTC
+ Price: $50,112.00 Market Cap: $698,003,974.93 
+[%]
+Staked: 0.0647 WBTC ($3,242.22)
+BTT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 WBTC $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 WBTC
+Unstake 0.000000 WBTC
+Claim 0.000000 BTT ($0.00)
+Revoke (set approval to 0)
+Exit
+WETH
+ Price: $3,335.10 Market Cap: $2,047,992,394.38 
+[%]
+Staked: 1.7984 WETH ($5,997.76)
+BTT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 WETH $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 WETH
+Unstake 0.000000 WETH
+Claim 0.000000 BTT ($0.00)
+Revoke (set approval to 0)
+Exit
+WMATIC
+ Price: $1.64 Market Cap: $603,307,329.27 
+[%]
+Staked: 350.6235 WMATIC ($575.02)
+BTT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 WMATIC $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 WMATIC
+Unstake 0.000000 WMATIC
+Claim 0.000000 BTT ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $11,061.55

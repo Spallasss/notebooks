@@ -1,0 +1,274 @@
+INFO  : https://poly.shallotdefi.com
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:48:07 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 17 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,603,753.65 TVL: $33,312,327.35
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+SHALLOT Per Week: 98520.29 ($0.10)
+APR: Day 4002.50% Week 28017.47% Year 1456908.70%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $188.37 TVL: $122,552,415.17
+WMATIC Price: $1.64
+WETH Price: $3,320.62
+Staked: 0.0000 UNI-V2 ($0.00)
+SHALLOT Per Week: 98520.29 ($0.10)
+APR: Day 7520968857474560.00% Week 52646782002321920.00% Year 2737632664120739840.00%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBTC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,289,438,656,471.71 TVL: $97,616,707.95
+WBTC Price: $50,014.00
+WETH Price: $3,320.62
+Staked: 0.0000 UNI-V2 ($0.02)
+SHALLOT Per Week: 98520.29 ($0.10)
+APR: Day 75.76% Week 530.30% Year 27575.56%
+You are staking 0.00 [WBTC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WBTC]-[WETH] Uni LP
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[LINK]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $634.58 TVL: $33,523,079.91
+LINK Price: $28.57
+WETH Price: $3,320.62
+Staked: 0.0000 UNI-V2 ($0.00)
+SHALLOT Per Week: 98520.29 ($0.10)
+APR: Day 287.76% Week 2014.33% Year 104745.39%
+You are staking 0.00 [LINK]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LINK]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [LINK]-[WETH] Uni LP
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WETH]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,707,670,938.40 TVL: $47,488,141.57
+WETH Price: $3,320.62
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($1.15)
+SHALLOT Per Week: 98520.29 ($0.10)
+APR: Day 1.23% Week 8.62% Year 448.42%
+You are staking 0.00 [WETH]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [WETH]-[USDT] Uni LP
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,563,597,902,508.22 TVL: $34,031,368.51
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+SHALLOT Per Week: 59570.41 ($0.06)
+APR: Day 2590.28% Week 18131.96% Year 942861.96%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,772,251.27 TVL: $148,003,657.16
+USDC Price: $1.00
+WETH Price: $3,320.62
+Staked: 0.0000 UNI-V2 ($0.00)
+SHALLOT Per Week: 98520.29 ($0.10)
+APR: Day 7224.83% Week 50573.80% Year 2629837.82%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+SHALLOT
+ Price: $0.00 Market Cap: $0.00 
+Staked: 304973.2253 SHALLOT ($0.00)
+SHALLOT Per Week: 107684.96 ($0.11)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SHALLOT ($0.00), NaN% of the pool.
+Stake 0.00 SHALLOT
+Unstake 0.00 SHALLOT
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+WETH
+ Price: $3,320.62 Market Cap: $2,024,693,195.56 
+[%]
+Staked: 0.0065 WETH ($21.71)
+SHALLOT Per Week: 85918.85 ($0.09)
+APR: Day 0.06% Week 0.40% Year 20.71%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+USDT
+ Price: $1.00 Market Cap: $314,972,885.37 
+[%]
+Staked: 9.6008 USDT ($9.59)
+SHALLOT Per Week: 46968.97 ($0.05)
+APR: Day 0.07% Week 0.49% Year 25.63%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+USDC
+ Price: $1.00 Market Cap: $1,042,436,808.43 
+[%]
+Staked: 3.2641 USDC ($3.26)
+SHALLOT Per Week: 46968.97 ($0.05)
+APR: Day 0.21% Week 1.45% Year 75.43%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+WBTC
+ Price: $50,014.00 Market Cap: $696,887,935.72 
+[%]
+Staked: 0.0000 WBTC ($0.01)
+SHALLOT Per Week: 85918.85 ($0.09)
+APR: Day 164.69% Week 1152.81% Year 59946.36%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+WMATIC
+ Price: $1.64 Market Cap: $603,073,067.12 
+[%]
+Staked: 14.2285 WMATIC ($23.33)
+SHALLOT Per Week: 85918.85 ($0.09)
+APR: Day 0.05% Week 0.37% Year 19.27%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+LINK
+ Price: $28.57 Market Cap: $64,832,014.27 
+[%]
+Staked: 0.0044 LINK ($0.12)
+SHALLOT Per Week: 85918.85 ($0.09)
+APR: Day 9.93% Week 69.51% Year 3614.57%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[WMATIC]-[SHALLOT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.46
+WMATIC Price: $1.64
+SHALLOT Price: $0.0000010066
+Staked: 0.0000 UNI-V2 ($0.00)
+SHALLOT Per Week: 127159.90 ($0.13)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WMATIC]-[SHALLOT] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WMATIC]-[SHALLOT] Uni LP
+Unstake 0.00 [WMATIC]-[SHALLOT] Uni LP
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[USDC]-[SHALLOT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,158.97 TVL: $0.55
+USDC Price: $1.00
+SHALLOT Price: $0.0000010066
+Staked: 0.0000 UNI-V2 ($0.02)
+SHALLOT Per Week: 116849.64 ($0.12)
+APR: Day 70.52% Week 493.64% Year 25669.35%
+You are staking 0.00 [USDC]-[SHALLOT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[SHALLOT] Uni LP
+Unstake 0.00 [USDC]-[SHALLOT] Uni LP
+Claim 0.00 SHALLOT ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $59.23

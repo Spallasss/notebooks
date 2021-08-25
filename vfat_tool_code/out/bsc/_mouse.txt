@@ -1,0 +1,746 @@
+INFO  : https://mouse.farm
+****************************************************************************************
+
+Mon Aug 23 2021 14:09:32 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 47 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+MOUSE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1692626.2066 MOUSE ($0.00)
+MOUSE Per Week: 15567.57 ($7.35)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MOUSE ($0.00), NaN% of the pool.
+Stake 0.00 MOUSE
+Unstake 0.00 MOUSE
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[MOUSE]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.05 TVL: $1,193.58
+MOUSE Price: $0.000472
+BUSD Price: $1.00
+Staked: 25058.4450 Cake-LP ($1,167.55)
+MOUSE Per Week: 62270.27 ($29.40)
+APR: Day 0.36% Week 2.52% Year 130.93%
+You are staking 0.00 [MOUSE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MOUSE]-[BUSD] Cake LP
+Unstake 0.00 [MOUSE]-[BUSD] Cake LP
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.60 TVL: $3,333,342.37
+WBNB Price: $485.11
+BUSD Price: $1.00
+Staked: 5.8597 Cake-LP ($378.52)
+MOUSE Per Week: 7783.78 ($3.67)
+APR: Day 0.14% Week 0.97% Year 50.48%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[TOAD]-[MOUSE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $87.66
+TOAD Price: $0.001928
+MOUSE Price: $0.000472
+Staked: 39045.0449 Cake-LP ($77.05)
+MOUSE Per Week: 15567.57 ($7.35)
+APR: Day 1.36% Week 9.54% Year 496.04%
+You are staking 0.00 [TOAD]-[MOUSE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TOAD]-[MOUSE] Cake LP
+Unstake 0.00 [TOAD]-[MOUSE] Cake LP
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.13 TVL: $4,006,238.72
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 3083.9721 Cake-LP ($6,584.07)
+MOUSE Per Week: 6227.03 ($2.94)
+APR: Day 0.01% Week 0.04% Year 2.32%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,906.06 TVL: $1,953,599.49
+BTCB Price: $50,135.00
+WBNB Price: $485.11
+Staked: 0.3630 Cake-LP ($3,959.13)
+MOUSE Per Week: 9340.54 ($4.41)
+APR: Day 0.02% Week 0.11% Year 5.79%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,864.46 TVL: $3,525,624.23
+ETH Price: $3,330.19
+WBNB Price: $485.11
+Staked: 0.0153 Cake-LP ($43.68)
+MOUSE Per Week: 7783.78 ($3.67)
+APR: Day 1.20% Week 8.41% Year 437.44%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $2,586,397.48
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 1276.7175 Cake-LP ($2,612.84)
+MOUSE Per Week: 6227.03 ($2.94)
+APR: Day 0.02% Week 0.11% Year 5.85%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[BUSD]-[TPT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,624,281.85 TVL: $30,478.26
+BUSD Price: $1.00
+TPT Price: $0.04
+Staked: 0.0001 Cake-LP ($509.70)
+MOUSE Per Week: 3113.51 ($1.47)
+APR: Day 0.04% Week 0.29% Year 15.00%
+You are staking 0.00 [BUSD]-[TPT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[TPT] Cake LP - Fee 4%
+Unstake 0.00 [BUSD]-[TPT] Cake LP
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[WATCH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $33.31 TVL: $83,493.89
+WATCH Price: $0.52
+WBNB Price: $485.11
+Staked: 0.1730 Cake-LP ($5.76)
+MOUSE Per Week: 3113.51 ($1.47)
+APR: Day 3.64% Week 25.50% Year 1326.03%
+You are staking 0.00 [WATCH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WATCH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [WATCH]-[WBNB] Cake LP
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[xMARK]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $61,738.41 TVL: $4,602.01
+xMARK Price: $0.90
+BUSD Price: $1.00
+Staked: 0.0007 Cake-LP ($40.23)
+MOUSE Per Week: 1556.76 ($0.73)
+APR: Day 0.26% Week 1.83% Year 95.00%
+You are staking 0.00 [xMARK]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [xMARK]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [xMARK]-[BUSD] Cake LP
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[bMXX]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $65.28 TVL: $5,801.04
+bMXX Price: $2.05
+WBNB Price: $485.11
+Staked: 1.2586 Cake-LP ($82.17)
+MOUSE Per Week: 1556.76 ($0.73)
+APR: Day 0.13% Week 0.89% Year 46.51%
+You are staking 0.00 [bMXX]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bMXX]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [bMXX]-[WBNB] Cake LP
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[IOTX]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.60 TVL: $35,809.50
+IOTX Price: $0.08
+BUSD Price: $1.00
+Staked: 339.5638 Cake-LP ($203.36)
+MOUSE Per Week: 1556.76 ($0.73)
+APR: Day 0.05% Week 0.36% Year 18.79%
+You are staking 0.00 [IOTX]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [IOTX]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [IOTX]-[BUSD] Cake LP
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[BOR]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $639.61 TVL: $9,511.38
+BOR Price: $195.14
+WBNB Price: $485.11
+Staked: 0.4374 Cake-LP ($279.77)
+MOUSE Per Week: 1556.76 ($0.73)
+APR: Day 0.04% Week 0.26% Year 13.66%
+You are staking 0.00 [BOR]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BOR]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BOR]-[WBNB] Cake LP
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[ETH]-[SUSHI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $440.10 TVL: $189,993.27
+ETH Price: $3,330.19
+SUSHI Price: $13.91
+Staked: 2.7996 Cake-LP ($1,232.11)
+MOUSE Per Week: 1556.76 ($0.73)
+APR: Day 0.01% Week 0.06% Year 3.10%
+You are staking 0.00 [ETH]-[SUSHI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[SUSHI] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[SUSHI] Cake LP
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[ETH]-[BETH] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6,612.71 TVL: $1,608,488.86
+ETH Price: $3,330.19
+BETH Price: $3,204.66
+Staked: 0.1523 Cake-LP ($1,007.37)
+MOUSE Per Week: 1556.76 ($0.73)
+APR: Day 0.01% Week 0.07% Year 3.79%
+You are staking 0.00 [ETH]-[BETH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BETH] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[BETH] Cake LP
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[UST]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.10 TVL: $27,791.51
+UST Price: $1.00
+BUSD Price: $1.00
+Staked: 1.8379 Cake-LP ($3.87)
+MOUSE Per Week: 778.38 ($0.37)
+APR: Day 1.36% Week 9.50% Year 494.20%
+You are staking 0.00 [UST]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [UST]-[BUSD] Cake LP
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+BUSD
+ Price: $1.00 Market Cap: $4,198,911,503.29 
+[%]
+Staked: 158.7180 BUSD ($158.64)
+MOUSE Per Week: 3113.51 ($1.47)
+APR: Day 0.13% Week 0.93% Year 48.18%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+WBNB
+ Price: $485.11 Market Cap: $3,437,750,845.42 
+[%]
+Staked: 0.0926 WBNB ($44.90)
+MOUSE Per Week: 4670.27 ($2.20)
+APR: Day 0.70% Week 4.91% Year 255.33%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+USDT
+ Price: $1.00 Market Cap: $3,377,097,883.96 
+[%]
+Staked: 4.8000 USDT ($4.80)
+MOUSE Per Week: 1556.76 ($0.73)
+APR: Day 2.19% Week 15.32% Year 796.89%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+BTCB
+ Price: $50,135.00 Market Cap: $4,286,592,635.00 
+[%]
+Staked: 0.0175 BTCB ($878.90)
+MOUSE Per Week: 3113.51 ($1.47)
+APR: Day 0.02% Week 0.17% Year 8.70%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+ETH
+ Price: $3,330.19 Market Cap: $4,345,897,950.00 
+[%]
+Staked: 0.0440 ETH ($146.54)
+MOUSE Per Week: 3113.51 ($1.47)
+APR: Day 0.14% Week 1.00% Year 52.16%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+DAI
+ Price: $1.00 Market Cap: $261,817,648.00 
+[%]
+Staked: 497.0894 DAI ($496.74)
+MOUSE Per Week: 1556.76 ($0.73)
+APR: Day 0.02% Week 0.15% Year 7.69%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,206,768.00 
+[%]
+Staked: 602.4151 USDC ($601.81)
+MOUSE Per Week: 1556.76 ($0.73)
+APR: Day 0.02% Week 0.12% Year 6.35%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+DOT
+ Price: $28.03 Market Cap: $392,419,999.86 
+[%]
+Staked: 6.2716 DOT ($175.79)
+MOUSE Per Week: 3113.51 ($1.47)
+APR: Day 0.12% Week 0.84% Year 43.48%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+Cake
+ Price: $25.00 Market Cap: $10,402,943,619.27 
+[%]
+Staked: 0.2412 Cake ($6.03)
+MOUSE Per Week: 1556.76 ($0.73)
+APR: Day 1.74% Week 12.19% Year 633.69%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+BSCX
+ Price: $2.48 Market Cap: $24,758,822.08 
+[%]
+Staked: 60.5553 BSCX ($150.18)
+MOUSE Per Week: 1556.76 ($0.73)
+APR: Day 0.07% Week 0.49% Year 25.45%
+You are staking 0.00 BSCX ($0.00), 0.00% of the pool.
+Stake 0.00 BSCX - Fee 4%
+Unstake 0.00 BSCX
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+AUTO
+ Price: $1,418.21 Market Cap: $90,935,955.97 
+[%]
+Staked: 0.1186 AUTO ($168.25)
+MOUSE Per Week: 1556.76 ($0.73)
+APR: Day 0.06% Week 0.44% Year 22.72%
+You are staking 0.00 AUTO ($0.00), 0.00% of the pool.
+Stake 0.00 AUTO - Fee 4%
+Unstake 0.00 AUTO
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+TPT
+ Price: $0.04 Market Cap: $241,355,132.66 
+[%]
+Staked: 7282.8144 TPT ($297.92)
+MOUSE Per Week: 1556.76 ($0.73)
+APR: Day 0.04% Week 0.25% Year 12.83%
+You are staking 0.00 TPT ($0.00), 0.00% of the pool.
+Stake 0.00 TPT - Fee 4%
+Unstake 0.00 TPT
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+WATCH
+ Price: $0.52 Market Cap: $10,448,698.21 
+[%]
+Staked: 90.7568 WATCH ($47.41)
+MOUSE Per Week: 1556.76 ($0.73)
+APR: Day 0.22% Week 1.55% Year 80.60%
+You are staking 0.00 WATCH ($0.00), 0.00% of the pool.
+Stake 0.00 WATCH - Fee 4%
+Unstake 0.00 WATCH
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+xMARK
+ Price: $0.90 Market Cap: $570,638.79 
+[%]
+Staked: 12.2693 xMARK ($11.02)
+MOUSE Per Week: 1556.76 ($0.73)
+APR: Day 0.95% Week 6.67% Year 346.67%
+You are staking 0.00 xMARK ($0.00), 0.00% of the pool.
+Stake 0.00 xMARK - Fee 4%
+Unstake 0.00 xMARK
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+bMXX
+ Price: $2.05 Market Cap: $5,348,836.45 
+[%]
+Staked: 16.4708 bMXX ($33.69)
+MOUSE Per Week: 1556.76 ($0.73)
+APR: Day 0.31% Week 2.18% Year 113.45%
+You are staking 0.00 bMXX ($0.00), 0.00% of the pool.
+Stake 0.00 bMXX - Fee 4%
+Unstake 0.00 bMXX
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+IOTX
+ Price: $0.08 Market Cap: $32,542,292.80 
+[%]
+Staked: 1219.1814 IOTX ($97.48)
+MOUSE Per Week: 1556.76 ($0.73)
+APR: Day 0.11% Week 0.75% Year 39.21%
+You are staking 0.00 IOTX ($0.00), 0.00% of the pool.
+Stake 0.00 IOTX - Fee 4%
+Unstake 0.00 IOTX
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+33 - 
+TOAD
+ Price: $0.001928 Market Cap: $6,417.20 
+[%]
+Staked: 51919.0559 TOAD ($100.12)
+MOUSE Per Week: 1556.76 ($0.73)
+APR: Day 0.10% Week 0.73% Year 38.17%
+You are staking 0.00 TOAD ($0.00), 0.00% of the pool.
+Stake 0.00 TOAD
+Unstake 0.00 TOAD
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+34 - 
+[ETH]-[COMP] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,555.81 TVL: $1,036,627.85
+ETH Price: $3,330.19
+COMP Price: $470.31
+Staked: 0.1655 Cake-LP ($422.87)
+MOUSE Per Week: 778.38 ($0.37)
+APR: Day 0.01% Week 0.09% Year 4.52%
+You are staking 0.00 [ETH]-[COMP] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[COMP] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[COMP] Cake LP
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+35 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.26 TVL: $1,019,610.15
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 10.3200 Cake-LP ($23.28)
+MOUSE Per Week: 778.38 ($0.37)
+APR: Day 0.23% Week 1.58% Year 82.09%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+36 - 
+[WBNB]-[REEF] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7.87 TVL: $120,023.14
+WBNB Price: $485.11
+REEF Price: $0.03
+Staked: 200.3126 Cake-LP ($1,575.86)
+MOUSE Per Week: 1556.76 ($0.73)
+APR: Day 0.01% Week 0.05% Year 2.43%
+You are staking 0.00 [WBNB]-[REEF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[REEF] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[REEF] Cake LP
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+37 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $81.04 TVL: $2,631,351.34
+ADA Price: $2.84
+WBNB Price: $485.11
+Staked: 3.6438 Cake-LP ($295.28)
+MOUSE Per Week: 1556.76 ($0.73)
+APR: Day 0.04% Week 0.25% Year 12.94%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+38 - 
+[WBNB]-[LINK] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $251.81 TVL: $107,489.41
+WBNB Price: $485.11
+LINK Price: $28.79
+Staked: 0.0327 Cake-LP ($8.23)
+MOUSE Per Week: 1556.76 ($0.73)
+APR: Day 1.28% Week 8.93% Year 464.48%
+You are staking 0.00 [WBNB]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LINK] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[LINK] Cake LP
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+39 - 
+[VAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.89 TVL: $110,685.34
+VAI Price: $0.79
+BUSD Price: $1.00
+Staked: 2.3419 Cake-LP ($4.42)
+MOUSE Per Week: 1556.76 ($0.73)
+APR: Day 2.38% Week 16.64% Year 865.36%
+You are staking 0.00 [VAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [VAI]-[BUSD] Cake LP
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+40 - 
+[WBNB]-[UNI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $256.25 TVL: $54,435.37
+WBNB Price: $485.11
+UNI Price: $29.38
+Staked: 0.0394 Cake-LP ($10.09)
+MOUSE Per Week: 1556.76 ($0.73)
+APR: Day 1.04% Week 7.29% Year 378.92%
+You are staking 0.00 [WBNB]-[UNI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[UNI] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[UNI] Cake LP
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+41 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $252.54 TVL: $674,053.85
+DOT Price: $28.03
+WBNB Price: $485.11
+Staked: 0.0093 Cake-LP ($2.36)
+MOUSE Per Week: 1556.76 ($0.73)
+APR: Day 4.45% Week 31.14% Year 1619.51%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+42 - 
+BOR
+ Price: $195.14 Market Cap: $4,086,035.62 
+[%]
+Staked: 0.8151 BOR ($159.05)
+MOUSE Per Week: 1556.76 ($0.73)
+APR: Day 0.07% Week 0.46% Year 24.03%
+You are staking 0.00 BOR ($0.00), 0.00% of the pool.
+Stake 0.00 BOR - Fee 4%
+Unstake 0.00 BOR
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+43 - 
+bOPEN
+ Price: $0.00 Market Cap: $0.00 
+Staked: 188.3299 bOPEN ($0.00)
+MOUSE Per Week: 1556.76 ($0.73)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 bOPEN ($0.00), NaN% of the pool.
+Stake 0.00 bOPEN - Fee 4%
+Unstake 0.00 bOPEN
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+44 - 
+DODO
+ Price: $0.00 Market Cap: $0.00 
+Staked: 124.1753 DODO ($0.00)
+MOUSE Per Week: 1556.76 ($0.73)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DODO ($0.00), NaN% of the pool.
+Stake 0.00 DODO - Fee 4%
+Unstake 0.00 DODO
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+45 - 
+SWINGBY
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1020.3777 SWINGBY ($0.00)
+MOUSE Per Week: 1556.76 ($0.73)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SWINGBY ($0.00), NaN% of the pool.
+Stake 0.00 SWINGBY - Fee 4%
+Unstake 0.00 SWINGBY
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+46 - 
+BRY
+ Price: $0.00 Market Cap: $0.00 
+Staked: 26.7231 BRY ($0.00)
+MOUSE Per Week: 1556.76 ($0.73)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BRY ($0.00), NaN% of the pool.
+Stake 0.00 BRY - Fee 4%
+Unstake 0.00 BRY
+Claim 0.00 MOUSE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $24,108.82

@@ -1,0 +1,423 @@
+INFO  : https://app.badger.finance
+***************************************************************************
+
+Please note 50% of your rewards in the Badger geysers are automatically reinvested into your LP stake.
+
+The below APRs do not include underlying rewards such as from curve, sushi or fees. They are only BADGER/DIGG farming APRs.
+
+Mon Aug 23 2021 15:35:19 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+Badger/wBTC Sushi-LP - 
+Underlying
+ - 
+Sett
+ - 
+Geyser
+You have 0 SLP
+You have 0 bSLP
+[WBTC]-[BADGER] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $242,559,445.77 TVL: $21,316,524.05
+WBTC Price: $50,291.00
+BADGER Price: $25.73
+Staked: 0.0006 SLP ($148,760.08)
+Staked in Geyser: $5,694,643.07
+BADGER Per Week: 4071.63 ($104,763.17)
+APR: Day 0.26% Week 1.84% Year 95.66%
+DIGG Per Week: 0.21 ($11,071.17)
+APR: Day 0.03% Week 0.19% Year 10.11%
+Stake 0.000000000000 SLP
+Unstake 0.000000000000 SLP
+Stake 0.000000000000 bSLP
+Unstake 0.000000000000 bSLP
+Revoke (set approval to 0)
+
+
+Badger/wBTC Uni-LP - 
+Underlying
+ - 
+Sett
+ - 
+Geyser
+You have 0 UNI-V2
+You have 0 bUNI-V2
+[WBTC]-[BADGER] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $262,329,267.03 TVL: $9,890,966.33
+WBTC Price: $50,291.00
+BADGER Price: $25.73
+Staked: 0.0009 UNI-V2 ($248,877.91)
+Staked in Geyser: $7,223,991.10
+BADGER Per Week: 4071.63 ($104,763.17)
+APR: Day 0.21% Week 1.45% Year 75.41%
+DIGG Per Week: 0.21 ($11,071.17)
+APR: Day 0.02% Week 0.15% Year 7.97%
+Stake 0.000000000000 UNI-V2
+Unstake 0.000000000000 UNI-V2
+Stake 0.000000000000 bUNI-V2
+Unstake 0.000000000000 bUNI-V2
+Revoke (set approval to 0)
+
+
+DIGG/wBTC Uni-LP - 
+Underlying
+ - 
+Sett
+ - 
+Geyser
+You have 0 UNI-V2
+You have 0 bUNI-V2
+[WBTC]-[DIGG] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $131,752,575,915,626.86 TVL: $1,008,677.38
+WBTC Price: $50,291.00
+DIGG Price: $52,492.00
+Staked: 0.0000 UNI-V2 ($0.00)
+Staked in Geyser: $841,995.64
+DIGG Per Week: 1.40 ($73,644.23)
+APR: Day 1.25% Week 8.75% Year 454.81%
+Stake 0.000000000000 UNI-V2
+Unstake 0.000000000000 UNI-V2
+Stake 0.000000000000 bUNI-V2
+Unstake 0.000000000000 bUNI-V2
+Revoke (set approval to 0)
+
+
+DIGG/wBTC Sushi-LP - 
+Underlying
+ - 
+Sett
+ - 
+Geyser
+You have 0 SLP
+You have 0 bSLP
+[WBTC]-[DIGG] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $115,336,950,636,241.08 TVL: $17,766,334.75
+WBTC Price: $50,291.00
+DIGG Price: $52,492.00
+Staked: 0.0000 SLP ($880.14)
+Staked in Geyser: $2,875,565.69
+DIGG Per Week: 1.40 ($73,644.23)
+APR: Day 0.37% Week 2.56% Year 133.17%
+Stake 0.000000000000 SLP
+Unstake 0.000000000000 SLP
+Stake 0.000000000000 bSLP
+Unstake 0.000000000000 bSLP
+Revoke (set approval to 0)
+
+
+Badger - 
+Underlying
+ - 
+Sett
+ - 
+Geyser
+You have 0 BADGER
+You have 0 bBADGER
+BADGER
+ Price: $25.73 Market Cap: $540,330,000.00 
+[%]
+Staked: 501131.8161 BADGER ($12,894,121.63)
+Staked in Geyser: $19,241,407.44
+BADGER Per Week: 2035.82 ($52,381.65)
+APR: Day 0.04% Week 0.27% Year 14.16%
+DIGG Per Week: 0.11 ($5,539.39)
+APR: Day 0.00% Week 0.03% Year 1.50%
+Stake 0.000000000000 BADGER
+Unstake 0.000000000000 BADGER
+Stake 0.000000000000 bBADGER
+Unstake 0.000000000000 bBADGER
+Revoke (set approval to 0)
+
+
+DIGG - 
+Underlying
+ - 
+Sett
+You have 0 DIGG
+You have 0 bDIGG
+DIGG
+ Price: $52,492.00 Market Cap: $30,436,215.97 
+[%]
+Staked: 118.9412 DIGG ($6,243,463.21)
+Stake 0.000000000000 DIGG
+Unstake 0.000000000000 DIGG
+
+
+ETH/wBTC Sushi-LP - 
+Underlying
+ - 
+Sett
+ - 
+Geyser
+You have 0 SLP
+You have 0 bSLP
+[WBTC]-[WETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $62,976,350,155.64 TVL: $674,011,345.16
+WBTC Price: $50,291.00
+WETH Price: $3,330.89
+Staked: 0.0000 SLP ($0.00)
+Staked in Geyser: $22,650,759.70
+BADGER Per Week: 6368.46 ($163,860.48)
+APR: Day 0.10% Week 0.72% Year 37.62%
+DIGG Per Week: 0.16 ($8,659.10)
+APR: Day 0.01% Week 0.04% Year 1.99%
+Stake 0.000000000000 SLP
+Unstake 0.000000000000 SLP
+Stake 0.000000000000 bSLP
+Unstake 0.000000000000 bSLP
+Revoke (set approval to 0)
+
+
+curve.fi / renBTC - 
+Underlying
+ - 
+Sett
+ - 
+Geyser
+You have 0 crvRenWBTC
+You have 0 bcrvRenWBTC
+crvRenWBTC
+ Price: $50,994.00 Market Cap: $421,653,618.88 
+[%]
+Staked: 0.9801 crvRenWBTC ($49,980.77)
+Staked in Geyser: $10,519,304.80
+BADGER Per Week: 6368.46 ($163,860.48)
+APR: Day 0.22% Week 1.56% Year 81.00%
+DIGG Per Week: 0.16 ($8,659.10)
+APR: Day 0.01% Week 0.08% Year 4.28%
+Stake 0.000000000000 crvRenWBTC
+Unstake 0.000000000000 crvRenWBTC
+Stake 0.000000000000 bcrvRenWBTC
+Unstake 0.000000000000 bcrvRenWBTC
+Revoke (set approval to 0)
+
+
+curve.fi / sBTC - 
+Underlying
+ - 
+Sett
+ - 
+Geyser
+You have 0 crvRenWSBTC
+You have 0 bcrvRenWSBTC
+crvRenWSBTC Price: $50,745.11 TVL: $567,970,992.50
+Staked: $77,188.62
+Staked in Geyser: $9,142,167.53
+BADGER Per Week: 6368.46 ($163,860.48)
+APR: Day 0.26% Week 1.79% Year 93.20%
+DIGG Per Week: 0.16 ($8,659.10)
+APR: Day 0.01% Week 0.09% Year 4.93%
+Stake 0.000000000000 crvRenWSBTC
+Unstake 0.000000000000 crvRenWSBTC
+Stake 0.000000000000 bcrvRenWSBTC
+Unstake 0.000000000000 bcrvRenWSBTC
+Revoke (set approval to 0)
+
+
+curve.fi / tBTC - 
+Underlying
+ - 
+Sett
+ - 
+Geyser
+You have 0 tbtc/sbtcCrv
+You have 0 btbtc/sbtcCrv
+tbtc/sbtcCrv
+ Price: $51,323.47 Market Cap: $164,925,240.47 
+Staked: 0.5907 tbtc/sbtcCrv ($30,317.95)
+Staked in Geyser: $4,419,554.02
+BADGER Per Week: 6368.46 ($163,860.48)
+APR: Day 0.53% Week 3.71% Year 192.80%
+DIGG Per Week: 0.16 ($8,659.10)
+APR: Day 0.03% Week 0.20% Year 10.19%
+Stake 0.000000000000 tbtc/sbtcCrv
+Unstake 0.000000000000 tbtc/sbtcCrv
+Stake 0.000000000000 btbtc/sbtcCrv
+Unstake 0.000000000000 btbtc/sbtcCrv
+Revoke (set approval to 0)
+
+
+harvest.finance / renBTC - 
+Underlying
+ - 
+Sett
+ - 
+Geyser
+You have 0 crvRenWBTC
+You have 0 bSupercrvRenWBTC
+crvRenWBTC
+ Price: $50,994.00 Market Cap: $421,653,618.88 
+[%]
+Staked: 0.0000 crvRenWBTC ($0.00)
+Staked in Geyser: $337,833.28
+BADGER Per Week: 6368.46 ($163,860.48)
+APR: Day 6.93% Week 48.50% Year 2522.17%
+DIGG Per Week: 0.16 ($8,659.10)
+APR: Day 0.37% Week 2.56% Year 133.28%
+Stake 0.000000000000 crvRenWBTC
+Unstake 0.000000000000 crvRenWBTC
+Stake 0.000000000000 bSupercrvRenWBTC
+Unstake 0.000000000000 bSupercrvRenWBTC
+Revoke (set approval to 0)
+
+
+native.sushiibBTCwBTC - 
+Underlying
+ - 
+Sett
+You have 0 SLP
+You have 0 bSLP
+[WBTC]-[ibBTC] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,170,049,657.49 TVL: $38,686,116.92
+WBTC Price: $50,291.00
+ibBTC Price: $50,979.00
+Staked: 0.0000 SLP ($91,234.57)
+Stake 0.000000000000 SLP
+Unstake 0.000000000000 SLP
+
+
+experimental.digg - 
+Underlying
+ - 
+Sett
+You have 0 DIGG
+You have 0 bDIGG
+DIGG
+ Price: $52,492.00 Market Cap: $30,436,215.97 
+[%]
+Staked: 8.9384 DIGG ($469,193.89)
+Stake 0.000000000000 DIGG
+Unstake 0.000000000000 DIGG
+
+
+native.hbtcCrv - 
+Underlying
+ - 
+Sett
+You have 0 hCRV
+You have 0 bhCRV
+hCRV
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.4963 hCRV ($0.00)
+Stake 0.000000000000 hCRV
+Unstake 0.000000000000 hCRV
+
+
+native.pbtcCrv - 
+Underlying
+ - 
+Sett
+You have 0 pBTC/sbtcCRV
+You have 0 bpBTC/sbtcCRV
+pBTC/sbtcCRV
+ Price: $49,987.31 Market Cap: $180,210,922.48 
+Staked: 0.5241 pBTC/sbtcCRV ($26,196.40)
+Stake 0.000000000000 pBTC/sbtcCRV
+Unstake 0.000000000000 pBTC/sbtcCRV
+
+
+native.obtcCrv - 
+Underlying
+ - 
+Sett
+You have 0 oBTC/sbtcCRV
+You have 0 boBTC/sbtcCRV
+oBTC/sbtcCRV
+ Price: $48,233.39 Market Cap: $136,350,152.54 
+Staked: 407.5143 oBTC/sbtcCRV ($19,655,797.67)
+Stake 0.000000000000 oBTC/sbtcCRV
+Unstake 0.000000000000 oBTC/sbtcCRV
+
+
+native.bbtcCrv - 
+Underlying
+ - 
+Sett
+You have 0 bBTC/sbtcCRV
+You have 0 bbBTC/sbtcCRV
+bBTC/sbtcCRV
+ Price: $50,542.68 Market Cap: $276,944,693.32 
+Staked: 382.3760 bBTC/sbtcCRV ($19,326,305.58)
+Stake 0.000000000000 bBTC/sbtcCRV
+Unstake 0.000000000000 bBTC/sbtcCRV
+
+
+native.tricryptoCrv - 
+Underlying
+ - 
+Sett
+You have 0 crvTricrypto
+You have 0 bcrvTricrypto
+crvTricrypto
+ Price: $1.01 Market Cap: $40,846.24 
+Staked: 2.8258 crvTricrypto ($2.85)
+Stake 0.000000000000 crvTricrypto
+Unstake 0.000000000000 crvTricrypto
+
+
+native.cvxCrv - 
+Underlying
+ - 
+Sett
+You have 0 cvxCRV
+You have 0 bcvxCRV
+cvxCRV
+ Price: $2.36 Market Cap: $203,265,055.94 
+[%]
+Staked: 1567.5347 cvxCRV ($3,699.38)
+Stake 0.000000000000 cvxCRV
+Unstake 0.000000000000 cvxCRV
+
+
+native.cvx - 
+Underlying
+ - 
+Sett
+You have 0 CVX
+You have 0 bCVX
+CVX
+ Price: $8.61 Market Cap: $542,061,088.70 
+[%]
+Staked: 917720.6233 CVX ($7,901,574.57)
+Stake 0.000000000000 CVX
+Unstake 0.000000000000 CVX
+

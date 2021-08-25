@@ -1,0 +1,329 @@
+INFO  : https://www.tigerswapdefi.com
+**********************************************************************************
+
+Mon Aug 23 2021 14:31:23 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 22 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[TIGER]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.06 TVL: $76.02
+TIGER Price: $0.000629
+BUSD Price: $1.00
+Staked: 451.8918 Cake-LP ($25.51)
+TIGER Per Week: 22567.16 ($14.19)
+APR: Day 7.95% Week 55.63% Year 2892.52%
+You are staking 0.00 [TIGER]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TIGER]-[BUSD] Cake LP
+Unstake 0.00 [TIGER]-[BUSD] Cake LP
+Claim 0.00 TIGER ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WBNB]-[TIGER] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.25 TVL: $276.95
+WBNB Price: $483.95
+TIGER Price: $0.000629
+Staked: 33.0024 Cake-LP ($41.16)
+TIGER Per Week: 20059.70 ($12.61)
+APR: Day 4.38% Week 30.64% Year 1593.29%
+You are staking 0.00 [WBNB]-[TIGER] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[TIGER] Cake LP
+Unstake 0.00 [WBNB]-[TIGER] Cake LP
+Claim 0.00 TIGER ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.71 TVL: $527,142,447.20
+WBNB Price: $483.95
+BUSD Price: $1.00
+Staked: 0.8248 Cake-LP ($41.00)
+TIGER Per Week: 3510.45 ($2.21)
+APR: Day 0.77% Week 5.38% Year 279.91%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 TIGER ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,211.17 TVL: $173,694,974.11
+BTCB Price: $49,954.00
+WBNB Price: $483.95
+Staked: 0.0002 Cake-LP ($2.33)
+TIGER Per Week: 3510.45 ($2.21)
+APR: Day 13.55% Week 94.88% Year 4933.86%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 TIGER ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,648.30 TVL: $261,409,439.87
+ETH Price: $3,322.25
+WBNB Price: $483.95
+Staked: 0.0005 Cake-LP ($1.43)
+TIGER Per Week: 3510.45 ($2.21)
+APR: Day 21.97% Week 153.82% Year 7998.70%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 TIGER ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,048,864.87
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 107.6381 Cake-LP ($220.16)
+TIGER Per Week: 3510.45 ($2.21)
+APR: Day 0.14% Week 1.00% Year 52.13%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 TIGER ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $224.83 TVL: $1,029,024,060.07
+Cake Price: $24.98
+WBNB Price: $483.95
+Staked: 0.0000 Cake-LP ($0.00)
+TIGER Per Week: 3510.45 ($2.21)
+APR: Day 45016.15% Week 315113.06% Year 16385879.24%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 TIGER ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $240.23 TVL: $82,599,004.42
+DOT Price: $27.97
+WBNB Price: $483.95
+Staked: 0.0010 Cake-LP ($0.23)
+TIGER Per Week: 3510.45 ($2.21)
+APR: Day 137.31% Week 961.16% Year 49980.19%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 TIGER ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.03 TVL: $81,288,630.46
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 147.6514 Cake-LP ($300.39)
+TIGER Per Week: 3510.45 ($2.21)
+APR: Day 0.10% Week 0.73% Year 38.20%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 TIGER ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,808,847.32
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 58.4103 Cake-LP ($120.12)
+TIGER Per Week: 3510.45 ($2.21)
+APR: Day 0.26% Week 1.84% Year 95.53%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 TIGER ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+TIGER
+ Price: $0.000629 Market Cap: $317.12 
+[%]
+Staked: 161587.6297 TIGER ($101.59)
+TIGER Per Week: 12035.82 ($7.57)
+APR: Day 1.06% Week 7.45% Year 387.32%
+You are staking 0.00 TIGER ($0.00), 0.00% of the pool.
+Stake 0.00 TIGER
+Unstake 0.00 TIGER
+Claim 0.00 TIGER ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+BUSD
+ Price: $1.00 Market Cap: $4,193,504,817.07 
+[%]
+Staked: 0.0192 BUSD ($0.02)
+TIGER Per Week: 2005.97 ($1.26)
+APR: Day 939.99% Week 6579.92% Year 342156.05%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 TIGER ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+WBNB
+ Price: $483.95 Market Cap: $3,427,216,011.71 
+[%]
+Staked: 0.0000 WBNB ($0.00)
+TIGER Per Week: 2005.97 ($1.26)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 WBNB ($0.00), NaN% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 TIGER ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.0000 BTCB ($1.46)
+TIGER Per Week: 2005.97 ($1.26)
+APR: Day 12.37% Week 86.57% Year 4501.56%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 TIGER ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+ETH
+ Price: $3,322.25 Market Cap: $4,335,536,250.00 
+[%]
+Staked: 0.3840 ETH ($1,275.74)
+TIGER Per Week: 2005.97 ($1.26)
+APR: Day 0.01% Week 0.10% Year 5.14%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 TIGER ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+USDT
+ Price: $1.00 Market Cap: $3,377,097,883.96 
+[%]
+Staked: 49.9997 USDT ($49.96)
+TIGER Per Week: 2005.97 ($1.26)
+APR: Day 0.36% Week 2.52% Year 131.27%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 TIGER ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+Cake
+ Price: $24.98 Market Cap: $10,394,808,825.30 
+[%]
+Staked: 1.0080 Cake ($25.18)
+TIGER Per Week: 2005.97 ($1.26)
+APR: Day 0.72% Week 5.01% Year 260.43%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 TIGER ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+DOT
+ Price: $27.97 Market Cap: $391,579,999.86 
+[%]
+Staked: 0.0010 DOT ($0.03)
+TIGER Per Week: 2005.97 ($1.26)
+APR: Day 654.44% Week 4581.05% Year 238214.67%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 TIGER ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+DAI
+ Price: $1.00 Market Cap: $261,927,426.00 
+[%]
+Staked: 1.3441 DAI ($1.34)
+TIGER Per Week: 2005.97 ($1.26)
+APR: Day 13.41% Week 93.85% Year 4880.23%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 TIGER ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+USDC
+ Price: $1.00 Market Cap: $1,775,954,352.00 
+[%]
+Staked: 1.3441 USDC ($1.34)
+TIGER Per Week: 2005.97 ($1.26)
+APR: Day 13.43% Week 93.99% Year 4887.24%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 TIGER ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $2,208.98

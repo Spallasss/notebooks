@@ -1,0 +1,280 @@
+INFO  : https://farm.space
+**************************************************************************
+
+Mon Aug 23 2021 13:55:15 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 19 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[SPACE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.80 TVL: $214,608.15
+SPACE Price: $0.01
+WBNB Price: $484.05
+Staked: 43757.0538 Cake-LP ($210,057.53)
+SPACE Per Week: 373333.33 ($3,852.74)
+APR: Day 0.26% Week 1.83% Year 95.37%
+You are staking 0.00 [SPACE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SPACE]-[WBNB] Cake LP
+Unstake 0.00 [SPACE]-[WBNB] Cake LP
+Claim 0.00 SPACE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[SPACE]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.22 TVL: $112,641.89
+SPACE Price: $0.01
+BUSD Price: $1.00
+Staked: 516307.3351 Cake-LP ($111,054.53)
+SPACE Per Week: 233333.33 ($2,407.96)
+APR: Day 0.31% Week 2.17% Year 112.75%
+You are staking 0.00 [SPACE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SPACE]-[BUSD] Cake LP
+Unstake 0.00 [SPACE]-[BUSD] Cake LP
+Claim 0.00 SPACE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.53 TVL: $3,330,065.45
+WBNB Price: $484.05
+BUSD Price: $1.00
+Staked: 725.8305 Cake-LP ($46,840.03)
+SPACE Per Week: 46666.67 ($481.59)
+APR: Day 0.15% Week 1.03% Year 53.46%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SPACE ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WBNB
+ Price: $484.05 Market Cap: $3,429,855,539.29 
+[%]
+Staked: 58.3079 WBNB ($28,223.95)
+SPACE Per Week: 18666.67 ($192.64)
+APR: Day 0.10% Week 0.68% Year 35.49%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 SPACE ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+BUSD
+ Price: $1.00 Market Cap: $4,199,965,954.14 
+[%]
+Staked: 33839.8763 BUSD ($33,831.55)
+SPACE Per Week: 18666.67 ($192.64)
+APR: Day 0.08% Week 0.57% Year 29.61%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 SPACE ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+ETH
+ Price: $3,325.75 Market Cap: $4,340,103,750.00 
+[%]
+Staked: 21.4873 ETH ($71,461.50)
+SPACE Per Week: 18666.67 ($192.64)
+APR: Day 0.04% Week 0.27% Year 14.02%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 SPACE ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+BTCB
+ Price: $50,221.00 Market Cap: $4,293,945,721.00 
+[%]
+Staked: 0.3934 BTCB ($19,756.92)
+SPACE Per Week: 18666.67 ($192.64)
+APR: Day 0.14% Week 0.98% Year 50.70%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 SPACE ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+Cake
+ Price: $25.02 Market Cap: $10,411,145,347.55 
+[%]
+Staked: 314.1337 Cake ($7,859.63)
+SPACE Per Week: 18666.67 ($192.64)
+APR: Day 0.35% Week 2.45% Year 127.45%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 SPACE ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+XVS
+ Price: $37.46 Market Cap: $1,123,800,000.00 
+[%]
+Staked: 297.6180 XVS ($11,148.77)
+SPACE Per Week: 18666.67 ($192.64)
+APR: Day 0.25% Week 1.73% Year 89.85%
+You are staking 0.00 XVS ($0.00), 0.00% of the pool.
+Stake 0.00 XVS - Fee 4%
+Unstake 0.00 XVS
+Claim 0.00 SPACE ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+DGN
+ Price: $0.00 Market Cap: $0.00 
+Staked: 26845.5212 DGN ($0.00)
+SPACE Per Week: 9333.33 ($96.32)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DGN ($0.00), NaN% of the pool.
+Stake 0.00 DGN - Fee 4%
+Unstake 0.00 DGN
+Claim 0.00 SPACE ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+CRX
+ Price: $16.38 Market Cap: $1,638,000.00 
+[%]
+Staked: 348.9870 CRX ($5,716.41)
+SPACE Per Week: 9333.33 ($96.32)
+APR: Day 0.24% Week 1.68% Year 87.62%
+You are staking 0.00 CRX ($0.00), 0.00% of the pool.
+Stake 0.00 CRX - Fee 4%
+Unstake 0.00 CRX
+Claim 0.00 SPACE ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+SPACE
+ Price: $0.01 Market Cap: $494,135.22 
+[%]
+Staked: 7306136.1065 SPACE ($75,398.08)
+SPACE Per Week: 93333.33 ($963.18)
+APR: Day 0.18% Week 1.28% Year 66.43%
+You are staking 0.00 SPACE ($0.00), 0.00% of the pool.
+Stake 0.00 SPACE - Fee 2%
+Unstake 0.00 SPACE
+Claim 0.00 SPACE ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,117,818.00 
+[%]
+Staked: 23558.5655 USDC ($23,533.64)
+SPACE Per Week: 18666.67 ($192.64)
+APR: Day 0.12% Week 0.82% Year 42.57%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 SPACE ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+USDT
+ Price: $1.00 Market Cap: $3,377,097,883.96 
+[%]
+Staked: 21507.9380 USDT ($21,489.48)
+SPACE Per Week: 18666.67 ($192.64)
+APR: Day 0.13% Week 0.90% Year 46.61%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 SPACE ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,903.50 TVL: $1,953,140.06
+BTCB Price: $50,221.00
+WBNB Price: $484.05
+Staked: 1.8974 Cake-LP ($20,688.15)
+SPACE Per Week: 28000.00 ($288.96)
+APR: Day 0.20% Week 1.40% Year 72.63%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 SPACE ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,859.42 TVL: $3,519,419.32
+ETH Price: $3,325.75
+WBNB Price: $484.05
+Staked: 6.7179 Cake-LP ($19,209.35)
+SPACE Per Week: 28000.00 ($288.96)
+APR: Day 0.21% Week 1.50% Year 78.22%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 SPACE ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+DAI
+ Price: $1.00 Market Cap: $261,817,648.00 
+[%]
+Staked: 25632.9529 DAI ($25,615.11)
+SPACE Per Week: 18666.67 ($192.64)
+APR: Day 0.11% Week 0.75% Year 39.11%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 SPACE ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+DOT
+ Price: $27.99 Market Cap: $391,859,999.86 
+[%]
+Staked: 1425.9069 DOT ($39,911.13)
+SPACE Per Week: 18666.67 ($192.64)
+APR: Day 0.07% Week 0.48% Year 25.10%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 SPACE ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+SPACEB
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 SPACEB ($0.00)
+SPACE Per Week: 1008000.00 ($10,402.39)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SPACEB ($0.00), NaN% of the pool.
+Stake 0.00 SPACEB
+Unstake 0.00 SPACEB
+Claim 0.00 SPACE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $771,795.76

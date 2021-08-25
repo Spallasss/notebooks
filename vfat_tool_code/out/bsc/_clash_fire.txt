@@ -1,0 +1,285 @@
+INFO  : https://clash.werewolf.farm
+*****************************************************************************************
+
+Mon Aug 23 2021 15:17:24 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 17 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[FIRE]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.53 TVL: $3,428.74
+FIRE Price: $0.04
+BUSD Price: $1.00
+Staked: 6472.9738 Cake-LP ($3,406.81)
+FIRE Per Week: 19788.96 ($768.91)
+APR: Day 3.22% Week 22.57% Year 1173.63%
+You are staking 0.00 [FIRE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FIRE]-[BUSD] Cake LP
+Unstake 0.00 [FIRE]-[BUSD] Cake LP
+Claim 0.00 FIRE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[FIRE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10.29 TVL: $3,690.04
+FIRE Price: $0.04
+WBNB Price: $495.85
+Staked: 287.5206 Cake-LP ($2,959.46)
+FIRE Per Week: 19788.96 ($768.91)
+APR: Day 3.71% Week 25.98% Year 1351.04%
+You are staking 0.00 [FIRE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FIRE]-[WBNB] Cake LP
+Unstake 0.00 [FIRE]-[WBNB] Cake LP
+Claim 0.00 FIRE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[BLOODMOON]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.41 TVL: $1,333.30
+BLOODMOON Price: $0.000709
+WBNB Price: $495.85
+Staked: 366.4780 Cake-LP ($518.56)
+FIRE Per Week: 2473.62 ($96.11)
+APR: Day 2.65% Week 18.53% Year 963.80%
+You are staking 0.00 [BLOODMOON]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BLOODMOON]-[WBNB] Cake LP
+Unstake 0.00 [BLOODMOON]-[WBNB] Cake LP
+Claim 0.00 FIRE ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WEREWOLF]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.86 TVL: $1,355.04
+WEREWOLF Price: $0.005611
+WBNB Price: $495.85
+Staked: 172.5846 Cake-LP ($665.54)
+FIRE Per Week: 2473.62 ($96.11)
+APR: Day 2.06% Week 14.44% Year 750.96%
+You are staking 0.00 [WEREWOLF]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WEREWOLF]-[WBNB] Cake LP
+Unstake 0.00 [WEREWOLF]-[WBNB] Cake LP
+Claim 0.00 FIRE ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,328.52 TVL: $175,857,461.04
+BTCB Price: $49,881.00
+WBNB Price: $495.85
+Staked: 1.4900 Cake-LP ($15,389.31)
+FIRE Per Week: 3957.79 ($153.78)
+APR: Day 0.14% Week 1.00% Year 51.96%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 FIRE ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.34 TVL: $531,115,681.50
+WBNB Price: $495.85
+BUSD Price: $1.00
+Staked: 302.8530 Cake-LP ($15,246.58)
+FIRE Per Week: 3957.79 ($153.78)
+APR: Day 0.14% Week 1.01% Year 52.45%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 FIRE ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,686.95 TVL: $265,200,220.12
+ETH Price: $3,337.78
+WBNB Price: $495.85
+Staked: 7.5379 Cake-LP ($20,253.90)
+FIRE Per Week: 3957.79 ($153.78)
+APR: Day 0.11% Week 0.76% Year 39.48%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 FIRE ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $314,816,350.57
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 7324.0197 Cake-LP ($14,992.75)
+FIRE Per Week: 2968.34 ($115.34)
+APR: Day 0.11% Week 0.77% Year 40.00%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 FIRE ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[CHECOIN]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.23 TVL: $888,509.02
+CHECOIN Price: $0.0000232578
+WBNB Price: $495.85
+Staked: 483.9214 Cake-LP ($110.95)
+FIRE Per Week: 989.45 ($38.45)
+APR: Day 4.95% Week 34.65% Year 1801.91%
+You are staking 0.00 [CHECOIN]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CHECOIN]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [CHECOIN]-[WBNB] Cake LP
+Claim 0.00 FIRE ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+FIRE
+ Price: $0.04 Market Cap: $6,988.29 
+[%]
+Staked: 42210.0874 FIRE ($1,640.09)
+FIRE Per Week: 4947.24 ($192.23)
+APR: Day 1.67% Week 11.72% Year 609.47%
+You are staking 0.00 FIRE ($0.00), 0.00% of the pool.
+Stake 0.00 FIRE
+Unstake 0.00 FIRE
+Claim 0.00 FIRE ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+ICE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 3.4403 ICE ($0.00)
+FIRE Per Week: 1978.90 ($76.89)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ICE ($0.00), NaN% of the pool.
+Stake 0.00 ICE
+Unstake 0.00 ICE
+Claim 0.00 FIRE ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+BTCB
+ Price: $49,881.00 Market Cap: $4,264,875,381.00 
+[%]
+Staked: 0.3010 BTCB ($15,013.19)
+FIRE Per Week: 2473.62 ($96.11)
+APR: Day 0.09% Week 0.64% Year 33.29%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 FIRE ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+WBNB
+ Price: $495.85 Market Cap: $3,496,281,746.14 
+[%]
+Staked: 18.2295 WBNB ($9,039.10)
+FIRE Per Week: 2473.62 ($96.11)
+APR: Day 0.15% Week 1.06% Year 55.29%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 FIRE ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+ETH
+ Price: $3,337.78 Market Cap: $4,355,802,900.00 
+[%]
+Staked: 3.4608 ETH ($11,551.40)
+FIRE Per Week: 2473.62 ($96.11)
+APR: Day 0.12% Week 0.83% Year 43.27%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 FIRE ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+Cake
+ Price: $25.41 Market Cap: $10,574,144,434.44 
+[%]
+Staked: 38.0524 Cake ($966.91)
+FIRE Per Week: 1978.90 ($76.89)
+APR: Day 1.14% Week 7.95% Year 413.52%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 FIRE ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+BUSD
+ Price: $1.00 Market Cap: $4,197,752,027.46 
+[%]
+Staked: 4443.4374 BUSD ($4,440.00)
+FIRE Per Week: 1978.90 ($76.89)
+APR: Day 0.25% Week 1.73% Year 90.05%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 FIRE ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 5538.3975 USDT ($5,537.33)
+FIRE Per Week: 1978.90 ($76.89)
+APR: Day 0.20% Week 1.39% Year 72.21%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 FIRE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $121,731.88

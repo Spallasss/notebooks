@@ -1,0 +1,71 @@
+INFO  : https://klondike.finance
+*************************************************************************************
+
+Mon Aug 23 2021 15:40:39 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[WBTC]-[KBTC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9,686,566,054.65 TVL: $949,405.77
+WBTC Price: $50,217.00
+KBTC Price: $40,304.00
+Staked: 0.0001 UNI-V2 ($751,890.75)
+KlonX Per Week: 2195.49 ($11,021.36)
+APR: Day 0.21% Week 1.47% Year 76.22%
+You are staking 0.000000 [WBTC]-[KBTC] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [WBTC]-[KBTC] Uni LP
+Unstake 0.000000 [WBTC]-[KBTC] Uni LP
+Claim 0.000000 KlonX ($0.00)
+Revoke (set approval to 0)
+Exit
+[WBTC]-[KlonX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $102,415,467.33 TVL: $1,006,317.26
+WBTC Price: $50,217.00
+KlonX Price: $5.02
+Staked: 0.0098 UNI-V2 ($1,003,510.44)
+KlonX Per Week: 1405.01 ($7,053.16)
+APR: Day 0.10% Week 0.70% Year 36.55%
+You are staking 0.000000 [WBTC]-[KlonX] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [WBTC]-[KlonX] Uni LP
+Unstake 0.000000 [WBTC]-[KlonX] Uni LP
+Claim 0.000000 KlonX ($0.00)
+Revoke (set approval to 0)
+Exit
+[KXUSD]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.01 TVL: $326,939.81
+KXUSD Price: $0.91
+DAI Price: $1.00
+Staked: 161780.6345 UNI-V2 ($324,532.72)
+KlonX Per Week: 702.28 ($3,525.43)
+APR: Day 0.16% Week 1.09% Year 56.49%
+You are staking 0.000000 [KXUSD]-[DAI] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [KXUSD]-[DAI] Uni LP
+Unstake 0.000000 [KXUSD]-[DAI] Uni LP
+Claim 0.000000 KlonX ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $2,079,933.91

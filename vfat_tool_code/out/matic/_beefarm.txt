@@ -1,0 +1,241 @@
+INFO  : https://beefarmpolygon.com
+*************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:53:04 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 16 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[BEE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $301,665.84 TVL: $56.28
+USDC Price: $1.00
+BEE Price: $0.02
+Staked: 0.0000 UNI-V2 ($13.82)
+BEE Per Week: 137.90 ($2.89)
+APR: Day 2.99% Week 20.92% Year 1088.06%
+You are staking 0.00 [USDC]-[BEE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BEE] Uni LP
+Unstake 0.00 [USDC]-[BEE] Uni LP
+Claim 0.00 BEE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,604,164.79 TVL: $33,278,986.33
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($58.75)
+BEE Per Week: 100.77 ($2.11)
+APR: Day 0.51% Week 3.60% Year 187.08%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 BEE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+WMATIC
+ Price: $1.64 Market Cap: $603,167,968.00 
+[%]
+Staked: 228.2413 WMATIC ($374.32)
+BEE Per Week: 106.08 ($2.23)
+APR: Day 0.08% Week 0.59% Year 30.91%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 BEE ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WBTC
+ Price: $50,019.00 Market Cap: $696,957,605.01 
+[%]
+Staked: 0.0002 WBTC ($10.06)
+BEE Per Week: 79.56 ($1.67)
+APR: Day 2.37% Week 16.58% Year 862.29%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 BEE ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WETH
+ Price: $3,321.08 Market Cap: $2,024,915,944.35 
+[%]
+Staked: 0.0248 WETH ($82.21)
+BEE Per Week: 84.86 ($1.78)
+APR: Day 0.31% Week 2.17% Year 112.59%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 BEE ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+QUICK
+ Price: $725.29 Market Cap: $694,295,947.61 
+[%]
+Staked: 0.8783 QUICK ($637.04)
+BEE Per Week: 68.95 ($1.45)
+APR: Day 0.03% Week 0.23% Year 11.81%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 BEE ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+YLD
+ Price: $0.47 Market Cap: $277,860.22 
+[%]
+Staked: 0.0000 YLD ($0.00)
+BEE Per Week: 68.95 ($1.45)
+APR: Day 44402714579034030080.00% Week 310819002053238194176.00% Year 1.6162588106768387e+22%
+You are staking 0.00 YLD ($0.00), 0.00% of the pool.
+Stake 0.00 YLD - Fee 4%
+Unstake 0.00 YLD
+Claim 0.00 BEE ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+USDT
+ Price: $1.00 Market Cap: $314,970,871.22 
+[%]
+Staked: 96.0000 USDT ($95.91)
+BEE Per Week: 84.86 ($1.78)
+APR: Day 0.27% Week 1.86% Year 96.51%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 BEE ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+USDC
+ Price: $1.00 Market Cap: $1,042,570,832.54 
+[%]
+Staked: 69.2316 USDC ($69.15)
+BEE Per Week: 87.51 ($1.84)
+APR: Day 0.38% Week 2.65% Year 138.04%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 BEE ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,563,838,418,898.39 TVL: $34,034,561.32
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($569.92)
+BEE Per Week: 98.12 ($2.06)
+APR: Day 0.05% Week 0.36% Year 18.78%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 BEE ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[WBTC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50,635,875,989,714.14 TVL: $16,274,679.55
+WBTC Price: $50,019.00
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($50.04)
+BEE Per Week: 82.21 ($1.72)
+APR: Day 0.49% Week 3.45% Year 179.19%
+You are staking 0.00 [WBTC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WBTC]-[USDC] Uni LP
+Claim 0.00 BEE ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[WMATIC]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $93.77 TVL: $31,613,136.65
+WMATIC Price: $1.64
+QUICK Price: $725.29
+Staked: 0.0539 UNI-V2 ($5.06)
+BEE Per Week: 76.91 ($1.61)
+APR: Day 4.56% Week 31.90% Year 1658.77%
+You are staking 0.00 [WMATIC]-[QUICK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[QUICK] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[QUICK] Uni LP
+Claim 0.00 BEE ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+HONEY
+ Price: $0.00 Market Cap: $0.00 
+Staked: 163.4162 HONEY ($0.00)
+BEE Per Week: 76.91 ($1.61)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 HONEY ($0.00), NaN% of the pool.
+Stake 0.00 HONEY - Fee 4%
+Unstake 0.00 HONEY
+Claim 0.00 BEE ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+BEE
+ Price: $0.02 Market Cap: $50.11 
+[%]
+Staked: 650.6878 BEE ($13.65)
+BEE Per Week: 119.34 ($2.50)
+APR: Day 2.62% Week 18.34% Year 953.69%
+You are staking 0.00 BEE ($0.00), 0.00% of the pool.
+Stake 0.00 BEE
+Unstake 0.00 BEE
+Claim 0.00 BEE ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[HONEY]-[BEE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.05 TVL: $3.65
+HONEY Price: $0.03
+BEE Price: $0.02
+Staked: 59.8485 UNI-V2 ($3.13)
+BEE Per Week: 90.17 ($1.89)
+APR: Day 8.64% Week 60.47% Year 3144.33%
+You are staking 0.00 [HONEY]-[BEE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HONEY]-[BEE] Uni LP - Fee 4%
+Unstake 0.00 [HONEY]-[BEE] Uni LP
+Claim 0.00 BEE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,983.06

@@ -1,0 +1,58 @@
+INFO  : https://www.ragnarok.digital
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 13:03:11 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 13 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[RAGNAROK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $20,125.66 TVL: $5.65
+USDC Price: $1.00
+RAGNAROK Price: $0.0000979907
+Staked: 0.0002 UNI-V2 ($3.73)
+RAGNAROK Per Week: 43200000.00 ($4,233.20)
+APR: Day 16221.57% Week 113551.01% Year 5904652.66%
+You are staking 0.00 [USDC]-[RAGNAROK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[RAGNAROK] Uni LP
+Unstake 0.00 [USDC]-[RAGNAROK] Uni LP
+Claim 0.00 RAGNAROK ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[RAGNAROK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $2.91
+WMATIC Price: $1.64
+RAGNAROK Price: $0.0000979907
+Staked: 33.7133 UNI-V2 ($0.87)
+RAGNAROK Per Week: 43200000.00 ($4,233.20)
+APR: Day 69523.61% Week 486665.29% Year 25306595.05%
+You are staking 0.00 [WMATIC]-[RAGNAROK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[RAGNAROK] Uni LP
+Unstake 0.00 [WMATIC]-[RAGNAROK] Uni LP
+Claim 0.00 RAGNAROK ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $4.60

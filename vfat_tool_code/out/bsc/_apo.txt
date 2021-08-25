@@ -1,0 +1,269 @@
+INFO  : https://apoyield.com
+*****************************************************************************
+
+Mon Aug 23 2021 14:14:46 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 29 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+DSL
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1506273.8485 DSL ($0.00)
+DSL Per Week: 50400.00 ($153.14)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DSL ($0.00), NaN% of the pool.
+Stake 0.00 DSL
+Unstake 0.00 DSL
+Claim 0.00 DSL ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[SOUL]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $37,154.00 TVL: $42,658.73
+SOUL Price: $0.0000318913
+WBNB Price: $484.29
+Staked: 0.0874 Cake-LP ($3,249.07)
+DSL Per Week: 7840.00 ($23.82)
+APR: Day 0.10% Week 0.73% Year 38.13%
+You are staking 0.00 [SOUL]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SOUL]-[WBNB] Cake LP
+Unstake 0.00 [SOUL]-[WBNB] Cake LP
+Claim 0.00 DSL ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[SOUL]-[BTCB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $423,947.32 TVL: $1,247.40
+SOUL Price: $0.0000318913
+BTCB Price: $50,135.00
+Staked: 0.0019 Cake-LP ($791.01)
+DSL Per Week: 7840.00 ($23.82)
+APR: Day 0.43% Week 3.01% Year 156.60%
+You are staking 0.00 [SOUL]-[BTCB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SOUL]-[BTCB] Cake LP
+Unstake 0.00 [SOUL]-[BTCB] Cake LP
+Claim 0.00 DSL ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[SOUL]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,968.69 TVL: $1,990.39
+SOUL Price: $0.0000318913
+BUSD Price: $1.00
+Staked: 1.0050 Cake-LP ($1,978.51)
+DSL Per Week: 7840.00 ($23.82)
+APR: Day 0.17% Week 1.20% Year 62.61%
+You are staking 0.00 [SOUL]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SOUL]-[BUSD] Cake LP
+Unstake 0.00 [SOUL]-[BUSD] Cake LP
+Claim 0.00 DSL ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[SOUL]-[DSL] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $98.95 TVL: $5,654.15
+SOUL Price: $0.0000318913
+DSL Price: $0.003038
+Staked: 53.9587 Cake-LP ($5,338.98)
+DSL Per Week: 35840.00 ($108.90)
+APR: Day 0.29% Week 2.04% Year 106.06%
+You are staking 0.00 [SOUL]-[DSL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SOUL]-[DSL] Cake LP
+Unstake 0.00 [SOUL]-[DSL] Cake LP
+Claim 0.00 DSL ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[SOUL]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $33,482.89 TVL: $4,271.91
+SOUL Price: $0.0000318913
+WBNB Price: $484.29
+Staked: 0.1099 APE-LP ($3,680.78)
+DSL Per Week: 8960.00 ($27.22)
+APR: Day 0.11% Week 0.74% Year 38.46%
+You are staking 0.00 [SOUL]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SOUL]-[WBNB] APE LP
+Unstake 0.00 [SOUL]-[WBNB] APE LP
+Claim 0.00 DSL ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[SOUL]-[BUSD] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,479.34 TVL: $2,166.91
+SOUL Price: $0.0000318913
+BUSD Price: $1.00
+Staked: 1.3698 APE-LP ($2,026.34)
+DSL Per Week: 8960.00 ($27.22)
+APR: Day 0.19% Week 1.34% Year 69.86%
+You are staking 0.00 [SOUL]-[BUSD] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SOUL]-[BUSD] APE LP
+Unstake 0.00 [SOUL]-[BUSD] APE LP
+Claim 0.00 DSL ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[BANANA]-[SOUL] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,339.71 TVL: $22,118.12
+BANANA Price: $4.78
+SOUL Price: $0.0000318913
+Staked: 0.4821 APE-LP ($1,610.16)
+DSL Per Week: 3360.00 ($10.21)
+APR: Day 0.09% Week 0.63% Year 32.97%
+You are staking 0.00 [BANANA]-[SOUL] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BANANA]-[SOUL] APE LP
+Unstake 0.00 [BANANA]-[SOUL] APE LP
+Claim 0.00 DSL ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[NAUT]-[SOUL] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $166,250,150.35 TVL: $651.84
+NAUT Price: $1.15
+SOUL Price: $0.0000318913
+Staked: 0.0000 APE-LP ($639.25)
+DSL Per Week: 2240.00 ($6.81)
+APR: Day 0.15% Week 1.06% Year 55.37%
+You are staking 0.00 [NAUT]-[SOUL] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NAUT]-[SOUL] APE LP
+Unstake 0.00 [NAUT]-[SOUL] APE LP
+Claim 0.00 DSL ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[DEGENR]-[SOUL] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $186.00 TVL: $1,568.08
+DEGENR Price: $0.02
+SOUL Price: $0.0000318913
+Staked: 1.1770 Cake-LP ($218.91)
+DSL Per Week: 2240.00 ($6.81)
+APR: Day 0.44% Week 3.11% Year 161.67%
+You are staking 0.00 [DEGENR]-[SOUL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DEGENR]-[SOUL] Cake LP
+Unstake 0.00 [DEGENR]-[SOUL] Cake LP
+Claim 0.00 DSL ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[LABO]-[DSL] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $555.98
+LABO Price: $0.02
+DSL Price: $0.003038
+Staked: 4423.2947 Cake-LP ($63.11)
+DSL Per Week: 2240.00 ($6.81)
+APR: Day 1.54% Week 10.78% Year 560.77%
+You are staking 0.00 [LABO]-[DSL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LABO]-[DSL] Cake LP
+Unstake 0.00 [LABO]-[DSL] Cake LP
+Claim 0.00 DSL ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[SOUL]-[MOONSTAR] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,308.88 TVL: $474.60
+SOUL Price: $0.0000318913
+MOONSTAR Price: $0.0000000035
+Staked: 0.1771 Cake-LP ($408.82)
+DSL Per Week: 2240.00 ($6.81)
+APR: Day 0.24% Week 1.66% Year 86.57%
+You are staking 0.00 [SOUL]-[MOONSTAR] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SOUL]-[MOONSTAR] Cake LP
+Unstake 0.00 [SOUL]-[MOONSTAR] Cake LP
+Claim 0.00 DSL ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+[DSL]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.45 TVL: $3,553.13
+DSL Price: $0.003038
+WBNB Price: $484.29
+Staked: 1292.0883 APE-LP ($3,160.13)
+DSL Per Week: 59360.00 ($180.36)
+APR: Day 0.82% Week 5.71% Year 296.79%
+You are staking 0.00 [DSL]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DSL]-[WBNB] APE LP
+Unstake 0.00 [DSL]-[WBNB] APE LP
+Claim 0.00 DSL ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+SAFEP
+ Price: $0.00 Market Cap: $0.00 
+Staked: 11329974.5267 SAFEP ($0.00)
+DSL Per Week: 2240.00 ($6.81)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SAFEP ($0.00), NaN% of the pool.
+Stake 0.00 SAFEP
+Unstake 0.00 SAFEP
+Claim 0.00 DSL ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $23,165.08

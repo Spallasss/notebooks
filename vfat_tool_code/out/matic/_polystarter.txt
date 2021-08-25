@@ -1,0 +1,147 @@
+INFO  : https://www.polystarter.fi
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 15:57:51 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 10 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[STARTER]-[WMATIC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.04 TVL: $1,022.91
+STARTER Price: $0.000261
+WMATIC Price: $1.64
+Staked: 9306.0011 UNI-V2 ($400.26)
+STARTER Per Week: 143181.82 ($37.40)
+APR: Day 1.33% Week 9.34% Year 485.89%
+You are staking 0.00 [STARTER]-[WMATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [STARTER]-[WMATIC] Uni LP
+Unstake 0.00 [STARTER]-[WMATIC] Uni LP
+Claim 0.00 STARTER ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+WMATIC
+ Price: $1.64 Market Cap: $603,307,649.33 
+[%]
+Staked: 13469.6168 WMATIC ($22,090.17)
+STARTER Per Week: 34363.64 ($8.98)
+APR: Day 0.01% Week 0.04% Year 2.11%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC
+Unstake 0.00 WMATIC
+Claim 0.00 STARTER ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+QUICK
+ Price: $715.69 Market Cap: $685,139,630.05 
+[%]
+Staked: 3.9033 QUICK ($2,793.53)
+STARTER Per Week: 34363.64 ($8.98)
+APR: Day 0.05% Week 0.32% Year 16.71%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK
+Unstake 0.00 QUICK
+Claim 0.00 STARTER ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+MUST
+ Price: $106.68 Market Cap: $5,156,284.36 
+[%]
+Staked: 29.6817 MUST ($3,166.45)
+STARTER Per Week: 34363.64 ($8.98)
+APR: Day 0.04% Week 0.28% Year 14.74%
+You are staking 0.00 MUST ($0.00), 0.00% of the pool.
+Stake 0.00 MUST
+Unstake 0.00 MUST
+Claim 0.00 STARTER ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+Krill
+ Price: $0.09 Market Cap: $642,338.72 
+[%]
+Staked: 394.8376 Krill ($34.44)
+STARTER Per Week: 11454.55 ($2.99)
+APR: Day 1.24% Week 8.69% Year 451.74%
+You are staking 0.00 Krill ($0.00), 0.00% of the pool.
+Stake 0.00 Krill
+Unstake 0.00 Krill
+Claim 0.00 STARTER ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WBTC
+ Price: $50,112.00 Market Cap: $698,003,974.93 
+[%]
+Staked: 0.0012 WBTC ($58.54)
+STARTER Per Week: 11454.55 ($2.99)
+APR: Day 0.73% Week 5.11% Year 265.80%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC
+Unstake 0.00 WBTC
+Claim 0.00 STARTER ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WETH
+ Price: $3,335.10 Market Cap: $2,047,997,240.41 
+[%]
+Staked: 0.0650 WETH ($216.78)
+STARTER Per Week: 11454.55 ($2.99)
+APR: Day 0.20% Week 1.38% Year 71.77%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH
+Unstake 0.00 WETH
+Claim 0.00 STARTER ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+DAI
+ Price: $1.00 Market Cap: $383,361,394.43 
+[%]
+Staked: 438.4750 DAI ($438.39)
+STARTER Per Week: 11454.55 ($2.99)
+APR: Day 0.10% Week 0.68% Year 35.49%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI
+Unstake 0.00 DAI
+Claim 0.00 STARTER ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+USDC
+ Price: $1.00 Market Cap: $1,056,163,889.20 
+[%]
+Staked: 277.6613 USDC ($276.73)
+STARTER Per Week: 11454.55 ($2.99)
+APR: Day 0.15% Week 1.08% Year 56.22%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC
+Unstake 0.00 USDC
+Claim 0.00 STARTER ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+USDT
+ Price: $1.00 Market Cap: $322,958,787.81 
+[%]
+Staked: 507.4698 USDT ($506.81)
+STARTER Per Week: 11454.55 ($2.99)
+APR: Day 0.08% Week 0.59% Year 30.70%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT
+Unstake 0.00 USDT
+Claim 0.00 STARTER ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $29,982.09

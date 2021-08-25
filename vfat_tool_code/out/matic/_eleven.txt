@@ -1,0 +1,53 @@
+INFO  : https://eleven.finance
+************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:27:49 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+11WMATIC Price: $1.87 TVL: $77,147.38
+You are staking 0.0000 11WMATIC ($0.00), 0.00% of the pool.
+11WBTC Price: $543,381,255,519,330.25 TVL: $1,018,975,536,398,247.38
+You are staking 0.0000 11WBTC ($0.00), 0.00% of the pool.
+11WETH Price: $3,865.29 TVL: $66,607.03
+You are staking 0.0000 11WETH ($0.00), 0.00% of the pool.
+11IRON Price: $0.00 TVL: $0.00
+You are staking 0.0000 11IRON ($0.00), NaN% of the pool.
+Wrapped 
+[WMATIC]-[FISH] Uni LP
+ Price: $11.27 TVL: $4,170.27
+You are staking 0.0000 Wrapped 
+[WMATIC]-[FISH] Uni LP
+ ($0.00), 0.00% of the pool.
+11FISH Price: $0.00 TVL: $0.00
+You are staking 0.0000 11FISH ($0.00), NaN% of the pool.
+Wrapped 
+[USDC]-[IRON] SLP
+ Price: $10,745,289,260.13 TVL: $199,531.78
+You are staking 0.0000 Wrapped 
+[USDC]-[IRON] SLP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[WMATIC]-[TITAN] SLP
+ Price: $79.22 TVL: $399,079.31
+You are staking 0.0000 Wrapped 
+[WMATIC]-[TITAN] SLP
+ ($0.00), 0.00% of the pool.
+Wrapped 
+[TITAN]-[IRON] SLP
+ Price: $61.60 TVL: $20,581.00
+You are staking 0.0000 Wrapped 
+[TITAN]-[IRON] SLP
+ ($0.00), 0.00% of the pool.
+11IRON Price: $0.26 TVL: $19,740.95
+You are staking 0.0000 11IRON ($0.00), 0.00% of the pool.
+11TITAN Price: $0.11 TVL: $19,265.92
+You are staking 0.0000 11TITAN ($0.00), 0.00% of the pool.
+
+Total Value Locked: $1,018,975,537,204,370.88

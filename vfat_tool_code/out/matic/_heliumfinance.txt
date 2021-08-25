@@ -1,0 +1,277 @@
+INFO  : https://heliumfinance.club/
+********************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 13:02:06 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 19 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[HELIUM] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,707,603.35 TVL: $1,934.90
+USDC Price: $1.00
+HELIUM Price: $3.18
+Staked: 0.0003 UNI-V2 ($1,175.14)
+HELIUM Per Week: 230.40 ($732.15)
+APR: Day 8.90% Week 62.30% Year 3239.74%
+You are staking 0.00 [USDC]-[HELIUM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[HELIUM] Uni LP
+Unstake 0.00 [USDC]-[HELIUM] Uni LP
+Claim 0.00 HELIUM ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,603,863.82 TVL: $33,313,015.20
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0005 UNI-V2 ($2,177.83)
+HELIUM Per Week: 92.16 ($292.86)
+APR: Day 1.92% Week 13.45% Year 699.26%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 HELIUM ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,713,289.60 TVL: $147,950,486.96
+USDC Price: $1.00
+WETH Price: $3,318.04
+Staked: 0.0000 UNI-V2 ($1,965.22)
+HELIUM Per Week: 86.40 ($274.55)
+APR: Day 2.00% Week 13.97% Year 726.48%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 HELIUM ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,563,672,399,555.46 TVL: $34,032,364.66
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($4,260.35)
+HELIUM Per Week: 80.64 ($256.25)
+APR: Day 0.86% Week 6.01% Year 312.77%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 HELIUM ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[DAI]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $27,060,139.33 TVL: $3,960,148.58
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 0.0002 UNI-V2 ($4,527.00)
+HELIUM Per Week: 69.12 ($219.64)
+APR: Day 0.69% Week 4.85% Year 252.30%
+You are staking 0.00 [DAI]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [DAI]-[USDT] Uni LP
+Claim 0.00 HELIUM ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WMATIC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $188.29 TVL: $122,504,950.74
+WMATIC Price: $1.64
+WETH Price: $3,318.04
+Staked: 7.8883 UNI-V2 ($1,485.33)
+HELIUM Per Week: 57.60 ($183.04)
+APR: Day 1.76% Week 12.32% Year 640.79%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 HELIUM ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+HELIUM
+ Price: $3.18 Market Cap: $3,223.71 
+[%]
+Staked: 432.5513 HELIUM ($1,374.53)
+HELIUM Per Week: 230.40 ($732.15)
+APR: Day 7.61% Week 53.27% Year 2769.80%
+You are staking 0.00 HELIUM ($0.00), 0.00% of the pool.
+Stake 0.00 HELIUM
+Unstake 0.00 HELIUM
+Claim 0.00 HELIUM ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WMATIC
+ Price: $1.64 Market Cap: $603,156,280.15 
+[%]
+Staked: 13144.4606 WMATIC ($21,556.92)
+HELIUM Per Week: 92.16 ($292.86)
+APR: Day 0.19% Week 1.36% Year 70.64%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 HELIUM ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+PolyDoge
+ Price: $0.0000000062 Market Cap: $6,210,000.00 
+[%]
+Staked: 227134284821.2249 PolyDoge ($1,410.50)
+HELIUM Per Week: 80.64 ($256.25)
+APR: Day 2.60% Week 18.17% Year 944.70%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 3%
+Unstake 0.00 PolyDoge
+Claim 0.00 HELIUM ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+AAVE
+ Price: $408.34 Market Cap: $155,301,737.78 
+[%]
+Staked: 13.6470 AAVE ($5,572.62)
+HELIUM Per Week: 69.12 ($219.64)
+APR: Day 0.56% Week 3.94% Year 204.96%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 HELIUM ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+USDC
+ Price: $1.00 Market Cap: $1,042,339,558.09 
+[%]
+Staked: 8022.7259 USDC ($8,011.82)
+HELIUM Per Week: 57.60 ($183.04)
+APR: Day 0.33% Week 2.28% Year 118.80%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 HELIUM ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+USDT
+ Price: $1.00 Market Cap: $314,970,871.22 
+[%]
+Staked: 3009.1014 USDT ($3,006.21)
+HELIUM Per Week: 57.60 ($183.04)
+APR: Day 0.87% Week 6.09% Year 316.61%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 HELIUM ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+DAI
+ Price: $1.00 Market Cap: $376,545,250.79 
+[%]
+Staked: 9200.6165 DAI ($9,190.71)
+HELIUM Per Week: 51.84 ($164.73)
+APR: Day 0.26% Week 1.79% Year 93.20%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 HELIUM ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+WETH
+ Price: $3,318.04 Market Cap: $2,022,910,098.43 
+[%]
+Staked: 1.5289 WETH ($5,073.11)
+HELIUM Per Week: 46.08 ($146.43)
+APR: Day 0.41% Week 2.89% Year 150.09%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 HELIUM ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+LINK
+ Price: $28.58 Market Cap: $64,856,052.00 
+[%]
+Staked: 35.0657 LINK ($1,002.18)
+HELIUM Per Week: 40.32 ($128.13)
+APR: Day 1.83% Week 12.78% Year 664.81%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 HELIUM ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+WBTC
+ Price: $49,992.00 Market Cap: $696,581,390.86 
+[%]
+Staked: 0.0260 WBTC ($1,300.43)
+HELIUM Per Week: 40.32 ($128.13)
+APR: Day 1.41% Week 9.85% Year 512.33%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 HELIUM ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+QUICK
+ Price: $723.29 Market Cap: $692,381,414.25 
+[%]
+Staked: 3.7733 QUICK ($2,729.16)
+HELIUM Per Week: 34.56 ($109.82)
+APR: Day 0.57% Week 4.02% Year 209.25%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 HELIUM ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+MAX
+ Price: $0.00 Market Cap: $0.00 
+Staked: 48293.8358 MAX ($0.00)
+HELIUM Per Week: 23.04 ($73.21)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MAX ($0.00), NaN% of the pool.
+Stake 0.00 MAX - Fee 1%
+Unstake 0.00 MAX
+Claim 0.00 HELIUM ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $75,819.07

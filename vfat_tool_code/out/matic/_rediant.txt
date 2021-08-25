@@ -1,0 +1,208 @@
+INFO  : https://rediant.finance
+****************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:55:48 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 14 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[RDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $330,601.14 TVL: $665.49
+USDC Price: $1.00
+RDT Price: $0.01
+Staked: 0.0004 UNI-V2 ($116.82)
+RDT Per Week: 61518.99 ($714.42)
+APR: Day 87.36% Week 611.54% Year 31800.30%
+You are staking 0.00 [USDC]-[RDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[RDT] Uni LP
+Unstake 0.00 [USDC]-[RDT] Uni LP
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[RDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.33 TVL: $2,410.65
+WMATIC Price: $1.65
+RDT Price: $0.01
+Staked: 734.9290 UNI-V2 ($243.29)
+RDT Per Week: 47848.10 ($555.66)
+APR: Day 32.63% Week 228.40% Year 11876.67%
+You are staking 0.00 [WMATIC]-[RDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[RDT] Uni LP
+Unstake 0.00 [WMATIC]-[RDT] Uni LP
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+RDT
+ Price: $0.01 Market Cap: $13,898.64 
+[%]
+Staked: 878961.6716 RDT ($10,207.38)
+RDT Per Week: 8202.53 ($95.26)
+APR: Day 0.13% Week 0.93% Year 48.53%
+You are staking 0.00 RDT ($0.00), 0.00% of the pool.
+Stake 0.00 RDT
+Unstake 0.00 RDT
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+USDC
+ Price: $1.00 Market Cap: $1,046,583,168.93 
+[%]
+Staked: 1433.5822 USDC ($1,430.68)
+RDT Per Week: 4101.27 ($47.63)
+APR: Day 0.48% Week 3.33% Year 173.11%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WMATIC
+ Price: $1.65 Market Cap: $605,589,677.08 
+[%]
+Staked: 4699.4132 WMATIC ($7,754.03)
+RDT Per Week: 6835.44 ($79.38)
+APR: Day 0.15% Week 1.02% Year 53.23%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WETH
+ Price: $3,326.09 Market Cap: $2,031,751,140.70 
+[%]
+Staked: 0.1935 WETH ($643.61)
+RDT Per Week: 4784.81 ($55.57)
+APR: Day 1.23% Week 8.63% Year 448.94%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WBTC
+ Price: $50,115.00 Market Cap: $699,023,779.47 
+[%]
+Staked: 0.0157 WBTC ($787.53)
+RDT Per Week: 4784.81 ($55.57)
+APR: Day 1.01% Week 7.06% Year 366.90%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+DAI
+ Price: $1.00 Market Cap: $375,659,203.55 
+[%]
+Staked: 492.5761 DAI ($491.79)
+RDT Per Week: 2734.18 ($31.75)
+APR: Day 0.92% Week 6.46% Year 335.73%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+QUICK
+ Price: $736.78 Market Cap: $705,294,941.72 
+[%]
+Staked: 0.1662 QUICK ($122.45)
+RDT Per Week: 3417.72 ($39.69)
+APR: Day 4.63% Week 32.41% Year 1685.54%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+USDT
+ Price: $1.00 Market Cap: $314,825,905.66 
+[%]
+Staked: 3004.9617 USDT ($3,001.51)
+RDT Per Week: 2734.18 ($31.75)
+APR: Day 0.15% Week 1.06% Year 55.01%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+LINK
+ Price: $28.63 Market Cap: $64,968,168.31 
+[%]
+Staked: 1.5953 LINK ($45.67)
+RDT Per Week: 2734.18 ($31.75)
+APR: Day 9.93% Week 69.52% Year 3615.09%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,616,232.89 TVL: $33,414,978.20
+WMATIC Price: $1.65
+USDC Price: $1.00
+Staked: 0.0081 UNI-V2 ($37,217.92)
+RDT Per Week: 4784.81 ($55.57)
+APR: Day 0.02% Week 0.15% Year 7.76%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+miMATIC
+ Price: $0.00 Market Cap: $0.00 
+Staked: 30.0789 miMATIC ($0.00)
+RDT Per Week: 2734.18 ($31.75)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 miMATIC ($0.00), NaN% of the pool.
+Stake 0.00 miMATIC - Fee 4%
+Unstake 0.00 miMATIC
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+PolyDoge
+ Price: $0.0000000063 Market Cap: $6,330,000.00 
+[%]
+Staked: 66531649482.3619 PolyDoge ($421.15)
+RDT Per Week: 4784.81 ($55.57)
+APR: Day 1.88% Week 13.19% Year 686.09%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 4%
+Unstake 0.00 PolyDoge
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $62,483.83

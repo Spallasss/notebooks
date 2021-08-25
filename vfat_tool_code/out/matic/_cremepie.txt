@@ -1,0 +1,260 @@
+INFO  : https://cremepieswap.finance
+********************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:28:32 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 17 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+CPIE
+ Price: $0.000370 Market Cap: $3,095,522.78 
+[%]
+Staked: 4026407664.0206 CPIE ($1,490,714.91)
+CPIE Per Week: 144000000.00 ($53,313.76)
+APR: Day 0.51% Week 3.58% Year 185.97%
+You are staking 0.00 CPIE ($0.00), 0.00% of the pool.
+Stake 0.00 CPIE
+Unstake 0.00 CPIE
+Claim 0.00 CPIE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[USDT]-[CPIE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $38,679.58 TVL: $655,987.00
+USDT Price: $1.00
+CPIE Price: $0.000370
+Staked: 10.7987 CremePie-LP ($417,687.66)
+CPIE Per Week: 137142857.14 ($50,775.01)
+APR: Day 1.74% Week 12.16% Year 632.12%
+You are staking 0.00 [USDT]-[CPIE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[CPIE] Uni LP
+Unstake 0.00 [USDT]-[CPIE] Uni LP
+Claim 0.00 CPIE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[USDC]-[CPIE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $40,125.15 TVL: $179,108.88
+USDC Price: $1.00
+CPIE Price: $0.000370
+Staked: 4.4555 CremePie-LP ($178,776.56)
+CPIE Per Week: 68571428.57 ($25,387.51)
+APR: Day 2.03% Week 14.20% Year 738.44%
+You are staking 0.00 [USDC]-[CPIE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[CPIE] Uni LP
+Unstake 0.00 [USDC]-[CPIE] Uni LP
+Claim 0.00 CPIE ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WMATIC]-[CPIE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.05 TVL: $1,061,118.46
+WMATIC Price: $1.64
+CPIE Price: $0.000370
+Staked: 10474627.0846 CremePie-LP ($519,477.84)
+CPIE Per Week: 137142857.14 ($50,775.01)
+APR: Day 1.40% Week 9.77% Year 508.26%
+You are staking 0.00 [WMATIC]-[CPIE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[CPIE] Uni LP
+Unstake 0.00 [WMATIC]-[CPIE] Uni LP
+Claim 0.00 CPIE ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[WMATIC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,665,815.74 TVL: $95,309.71
+WMATIC Price: $1.64
+USDT Price: $1.00
+Staked: 0.0355 CremePie-LP ($94,608.84)
+CPIE Per Week: 6857142.86 ($2,538.75)
+APR: Day 0.38% Week 2.68% Year 139.54%
+You are staking 0.00 [WMATIC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDT] Uni LP
+Unstake 0.00 [WMATIC]-[USDT] Uni LP
+Claim 0.00 CPIE ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $115,421,034.68 TVL: $135,877.07
+USDC Price: $1.00
+WETH Price: $3,325.72
+Staked: 0.0012 CremePie-LP ($135,829.80)
+CPIE Per Week: 10285714.29 ($3,808.13)
+APR: Day 0.40% Week 2.80% Year 145.79%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 CPIE ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[WMATIC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $148.04 TVL: $134,700.99
+WMATIC Price: $1.64
+WETH Price: $3,325.72
+Staked: 909.4415 CremePie-LP ($134,638.11)
+CPIE Per Week: 10285714.29 ($3,808.13)
+APR: Day 0.40% Week 2.83% Year 147.08%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 CPIE ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,644,814.84 TVL: $142,407.19
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0498 CremePie-LP ($131,657.32)
+CPIE Per Week: 10285714.29 ($3,808.13)
+APR: Day 0.41% Week 2.89% Year 150.41%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 CPIE ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[WETH]-[CPIE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.22 TVL: $32,379.01
+WETH Price: $3,325.72
+CPIE Price: $0.000370
+Staked: 14497.3233 CremePie-LP ($32,189.18)
+CPIE Per Week: 10285714.29 ($3,808.13)
+APR: Day 1.69% Week 11.83% Year 615.18%
+You are staking 0.00 [WETH]-[CPIE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[CPIE] Uni LP
+Unstake 0.00 [WETH]-[CPIE] Uni LP
+Claim 0.00 CPIE ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WMATIC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.56 TVL: $116,984.73
+WMATIC Price: $1.64
+DAI Price: $1.00
+Staked: 45692.9637 CremePie-LP ($116,981.60)
+CPIE Per Week: 10285714.29 ($3,808.13)
+APR: Day 0.47% Week 3.26% Year 169.28%
+You are staking 0.00 [WMATIC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[DAI] Uni LP
+Unstake 0.00 [WMATIC]-[DAI] Uni LP
+Claim 0.00 CPIE ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,000,327,231,442.20 TVL: $261,444.10
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 CremePie-LP ($261,438.47)
+CPIE Per Week: 10285714.29 ($3,808.13)
+APR: Day 0.21% Week 1.46% Year 75.74%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 CPIE ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[WETH]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $115,316,253.33 TVL: $129,479.81
+WETH Price: $3,325.72
+USDT Price: $1.00
+Staked: 0.0011 CremePie-LP ($129,453.32)
+CPIE Per Week: 10285714.29 ($3,808.13)
+APR: Day 0.42% Week 2.94% Year 152.97%
+You are staking 0.00 [WETH]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[USDT] Uni LP
+Unstake 0.00 [WETH]-[USDT] Uni LP
+Claim 0.00 CPIE ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[WBTC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,584,474,173.79 TVL: $132,338.06
+WBTC Price: $50,096.00
+WETH Price: $3,325.72
+Staked: 0.0001 CremePie-LP ($132,337.19)
+CPIE Per Week: 10285714.29 ($3,808.13)
+APR: Day 0.41% Week 2.88% Year 149.63%
+You are staking 0.00 [WBTC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] Uni LP
+Unstake 0.00 [WBTC]-[WETH] Uni LP
+Claim 0.00 CPIE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $3,775,790.81

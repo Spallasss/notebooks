@@ -1,0 +1,202 @@
+INFO  : https://www.uniron.finance
+***********************************************************************************
+
+Mon Aug 23 2021 13:25:02 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 13 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+UNIRON
+ Price: $0.00 Market Cap: $0.00 
+Staked: 311048.2063 UNIRON ($0.00)
+UNIRON Per Week: 57600.00 ($0.83)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 UNIRON ($0.00), NaN% of the pool.
+Stake 0.00 UNIRON
+Unstake 0.00 UNIRON
+Claim 0.00 UNIRON ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[USDC]-[WFTM] SPOOKY LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,842,458.80 TVL: $10,021,426.03
+USDC Price: $1.00
+WFTM Price: $0.57
+Staked: 0.0002 spLP ($343.55)
+UNIRON Per Week: 8640.00 ($0.12)
+APR: Day 0.01% Week 0.04% Year 1.88%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP - Fee 4%
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP
+Claim 0.00 UNIRON ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[UNIRON]-[WFTM] SPOOKY LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $3.87
+UNIRON Price: $0.0000143826
+WFTM Price: $0.57
+Staked: 622.1957 spLP ($3.78)
+UNIRON Per Week: 43200.00 ($0.62)
+APR: Day 2.35% Week 16.42% Year 853.95%
+You are staking 0.00 [UNIRON]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UNIRON]-[WFTM] SPOOKY LP
+Unstake 0.00 [UNIRON]-[WFTM] SPOOKY LP
+Claim 0.00 UNIRON ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[UNIRON] SPOOKY LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7,846.02 TVL: $4.67
+USDC Price: $1.00
+UNIRON Price: $0.0000143826
+Staked: 0.0006 spLP ($4.65)
+UNIRON Per Week: 43200.00 ($0.62)
+APR: Day 1.91% Week 13.37% Year 695.27%
+You are staking 0.00 [USDC]-[UNIRON] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[UNIRON] SPOOKY LP
+Unstake 0.00 [USDC]-[UNIRON] SPOOKY LP
+Claim 0.00 UNIRON ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[UNIRON]-[ETH] SPOOKY LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.46 TVL: $5.28
+UNIRON Price: $0.0000143826
+ETH Price: $3,319.07
+Staked: 11.5318 spLP ($5.26)
+UNIRON Per Week: 43200.00 ($0.62)
+APR: Day 1.69% Week 11.82% Year 614.63%
+You are staking 0.00 [UNIRON]-[ETH] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UNIRON]-[ETH] SPOOKY LP
+Unstake 0.00 [UNIRON]-[ETH] SPOOKY LP
+Claim 0.00 UNIRON ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[USDC]-[fUSDT] SPOOKY LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,016,399,590,300.94 TVL: $560.26
+USDC Price: $1.00
+fUSDT Price: $1.00
+Staked: 0.0000 spLP ($194.03)
+UNIRON Per Week: 8640.00 ($0.12)
+APR: Day 0.01% Week 0.06% Year 3.33%
+You are staking 0.00 [USDC]-[fUSDT] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[fUSDT] SPOOKY LP - Fee 4%
+Unstake 0.00 [USDC]-[fUSDT] SPOOKY LP
+Claim 0.00 UNIRON ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WFTM
+ Price: $0.57 Market Cap: $121,931,846.99 
+Staked: 0.1023 WFTM ($0.06)
+UNIRON Per Week: 28800.00 ($0.41)
+APR: Day 101.63% Week 711.41% Year 36993.30%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM - Fee 4%
+Unstake 0.00 WFTM
+Claim 0.00 UNIRON ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+BTC
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 BTC ($0.00)
+UNIRON Per Week: 11520.00 ($0.17)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BTC ($0.00), NaN% of the pool.
+Stake 0.00 BTC - Fee 4%
+Unstake 0.00 BTC
+Claim 0.00 UNIRON ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+ETH
+ Price: $3,319.07 Market Cap: $15,103,732.41 
+Staked: 0.0000 ETH ($0.00)
+UNIRON Per Week: 11520.00 ($0.17)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ETH ($0.00), NaN% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 UNIRON ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+fUSDT
+ Price: $1.00 Market Cap: $72,690,478.34 
+Staked: 0.0872 fUSDT ($0.09)
+UNIRON Per Week: 11520.00 ($0.17)
+APR: Day 27.18% Week 190.24% Year 9892.24%
+You are staking 0.00 fUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 fUSDT - Fee 4%
+Unstake 0.00 fUSDT
+Claim 0.00 UNIRON ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+LINK
+ Price: $28.71 Market Cap: $3,036,636.91 
+Staked: 0.0040 LINK ($0.11)
+UNIRON Per Week: 11520.00 ($0.17)
+APR: Day 20.66% Week 144.65% Year 7521.77%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 UNIRON ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+BNB
+ Price: $483.11 Market Cap: $3,522,789.13 
+Staked: 0.0006 BNB ($0.28)
+UNIRON Per Week: 11520.00 ($0.17)
+APR: Day 8.55% Week 59.84% Year 3111.73%
+You are staking 0.00 BNB ($0.00), 0.00% of the pool.
+Stake 0.00 BNB - Fee 4%
+Unstake 0.00 BNB
+Claim 0.00 UNIRON ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+AAVE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0006 AAVE ($0.00)
+UNIRON Per Week: 11520.00 ($0.17)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 AAVE ($0.00), NaN% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 UNIRON ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $551.81

@@ -1,0 +1,169 @@
+INFO  : https://sojudefi.com
+****************************************************************************************
+
+Mon Aug 23 2021 14:10:12 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 9 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[SOJU]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.09 TVL: $2,047.37
+SOJU Price: $0.001954
+BUSD Price: $1.00
+Staked: 21694.1683 Cake-LP ($2,020.29)
+SOJU Per Week: 95809.90 ($187.16)
+APR: Day 1.32% Week 9.26% Year 481.74%
+You are staking 0.00 [SOJU]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SOJU]-[BUSD] Cake LP
+Unstake 0.00 [SOJU]-[BUSD] Cake LP
+Claim 0.00 SOJU ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[SOJU]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.03 TVL: $1,067.10
+SOJU Price: $0.001954
+WBNB Price: $485.10
+Staked: 517.2239 Cake-LP ($1,051.91)
+SOJU Per Week: 47904.95 ($93.58)
+APR: Day 1.27% Week 8.90% Year 462.62%
+You are staking 0.00 [SOJU]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SOJU]-[WBNB] Cake LP
+Unstake 0.00 [SOJU]-[WBNB] Cake LP
+Claim 0.00 SOJU ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.59 TVL: $3,333,109.63
+WBNB Price: $485.10
+BUSD Price: $1.00
+Staked: 3.3830 Cake-LP ($218.52)
+SOJU Per Week: 5988.12 ($11.70)
+APR: Day 0.76% Week 5.35% Year 278.37%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SOJU ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+BUSD
+ Price: $1.00 Market Cap: $4,198,411,584.37 
+[%]
+Staked: 763.3713 BUSD ($762.90)
+SOJU Per Week: 1996.04 ($3.90)
+APR: Day 0.07% Week 0.51% Year 26.58%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 SOJU ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WBNB
+ Price: $485.10 Market Cap: $3,437,720,511.64 
+[%]
+Staked: 0.5153 WBNB ($249.95)
+SOJU Per Week: 1996.04 ($3.90)
+APR: Day 0.22% Week 1.56% Year 81.12%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 SOJU ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[BTCB]-[SOJU] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $20.07 TVL: $380.15
+BTCB Price: $50,135.00
+SOJU Price: $0.001954
+Staked: 11.3858 Cake-LP ($228.49)
+SOJU Per Week: 19960.40 ($38.99)
+APR: Day 2.44% Week 17.07% Year 887.39%
+You are staking 0.00 [BTCB]-[SOJU] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[SOJU] Cake LP
+Unstake 0.00 [BTCB]-[SOJU] Cake LP
+Claim 0.00 SOJU ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+SOJU
+ Price: $0.001954 Market Cap: $9,775.89 
+[%]
+Staked: 2903205.9892 SOJU ($5,671.41)
+SOJU Per Week: 9980.20 ($19.50)
+APR: Day 0.05% Week 0.34% Year 17.88%
+You are staking 0.00 SOJU ($0.00), 0.00% of the pool.
+Stake 0.00 SOJU
+Unstake 0.00 SOJU
+Claim 0.00 SOJU ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[SOJU]-[SAKE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $37.99 TVL: $252.75
+SOJU Price: $0.001954
+SAKE Price: $0.0000132983
+Staked: 4.2160 Cake-LP ($160.17)
+SOJU Per Week: 15968.32 ($31.19)
+APR: Day 2.78% Week 19.48% Year 1012.74%
+You are staking 0.00 [SOJU]-[SAKE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SOJU]-[SAKE] Cake LP
+Unstake 0.00 [SOJU]-[SAKE] Cake LP
+Claim 0.00 SOJU ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[SAKE]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $860.02 TVL: $69.06
+SAKE Price: $0.0000132983
+BUSD Price: $1.00
+Staked: 0.0749 Cake-LP ($64.44)
+SOJU Per Week: 1996.04 ($3.90)
+APR: Day 0.86% Week 6.05% Year 314.64%
+You are staking 0.00 [SAKE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SAKE]-[BUSD] Cake LP - Fee 0.5%
+Unstake 0.00 [SAKE]-[BUSD] Cake LP
+Claim 0.00 SOJU ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $10,428.09

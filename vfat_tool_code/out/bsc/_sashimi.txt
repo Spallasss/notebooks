@@ -1,0 +1,163 @@
+INFO  : https://bsc.sashimi.cool/
+****************************************************************************
+
+Mon Aug 23 2021 13:46:53 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 8 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WBNB]-[SASHIMI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8.56 TVL: $14,384.82
+WBNB Price: $483.90
+SASHIMI Price: $0.03
+Staked: 1667.4215 SALP ($14,276.71)
+SASHIMI Per Week: 5670.00 ($178.39)
+APR: Day 0.18% Week 1.25% Year 64.97%
+You are staking 0.00 [WBNB]-[SASHIMI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[SASHIMI] Uni LP
+Unstake 0.00 [WBNB]-[SASHIMI] Uni LP
+Claim 0.00 SASHIMI ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[USDT]-[SASHIMI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.37 TVL: $10,409.41
+USDT Price: $1.00
+SASHIMI Price: $0.03
+Staked: 27739.3356 SALP ($10,288.31)
+SASHIMI Per Week: 5670.00 ($178.39)
+APR: Day 0.25% Week 1.73% Year 90.16%
+You are staking 0.00 [USDT]-[SASHIMI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[SASHIMI] Uni LP
+Unstake 0.00 [USDT]-[SASHIMI] Uni LP
+Claim 0.00 SASHIMI ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[USDT]-[ELF] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.19 TVL: $2,996.20
+USDT Price: $1.00
+ELF Price: $0.34
+Staked: 2476.4273 SALP ($2,950.31)
+SASHIMI Per Week: 3024.00 ($95.14)
+APR: Day 0.46% Week 3.22% Year 167.69%
+You are staking 0.00 [USDT]-[ELF] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[ELF] Uni LP
+Unstake 0.00 [USDT]-[ELF] Uni LP
+Claim 0.00 SASHIMI ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $45.24 TVL: $6,827.58
+USDT Price: $1.00
+WBNB Price: $483.90
+Staked: 141.6692 SALP ($6,409.65)
+SASHIMI Per Week: 3024.00 ($95.14)
+APR: Day 0.21% Week 1.48% Year 77.19%
+You are staking 0.00 [USDT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Uni LP
+Unstake 0.00 [USDT]-[WBNB] Uni LP
+Claim 0.00 SASHIMI ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDT]-[BTCB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $450.57 TVL: $13,824.65
+USDT Price: $1.00
+BTCB Price: $50,221.00
+Staked: 28.3756 SALP ($12,785.17)
+SASHIMI Per Week: 3024.00 ($95.14)
+APR: Day 0.11% Week 0.74% Year 38.70%
+You are staking 0.00 [USDT]-[BTCB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BTCB] Uni LP
+Unstake 0.00 [USDT]-[BTCB] Uni LP
+Claim 0.00 SASHIMI ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[ETH]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $116.57 TVL: $9,921.66
+ETH Price: $3,323.40
+USDT Price: $1.00
+Staked: 84.3814 SALP ($9,836.27)
+SASHIMI Per Week: 3024.00 ($95.14)
+APR: Day 0.14% Week 0.97% Year 50.30%
+You are staking 0.00 [ETH]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[USDT] Uni LP
+Unstake 0.00 [ETH]-[USDT] Uni LP
+Claim 0.00 SASHIMI ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[USDT]-[DOT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10.68 TVL: $7,181.39
+USDT Price: $1.00
+DOT Price: $27.97
+Staked: 669.0255 SALP ($7,144.57)
+SASHIMI Per Week: 3024.00 ($95.14)
+APR: Day 0.19% Week 1.33% Year 69.25%
+You are staking 0.00 [USDT]-[DOT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[DOT] Uni LP
+Unstake 0.00 [USDT]-[DOT] Uni LP
+Claim 0.00 SASHIMI ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+lSASHIMI
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 lSASHIMI ($0.00)
+SASHIMI Per Week: 11340.00 ($356.78)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 lSASHIMI ($0.00), NaN% of the pool.
+Stake 0.00 lSASHIMI
+Unstake 0.00 lSASHIMI
+Claim 0.00 SASHIMI ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $63,690.98

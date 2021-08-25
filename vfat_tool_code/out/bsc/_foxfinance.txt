@@ -1,0 +1,479 @@
+INFO  : https://foxfinance.org
+**************************************************************************************
+
+Mon Aug 23 2021 09:19:44 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 29 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[FOX]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $26.53
+FOX Price: $0.0000045228
+BUSD Price: $1.00
+Staked: 4177.8768 Cake-LP ($26.47)
+FOX Per Week: 2716981.13 ($12.29)
+APR: Day 6.63% Week 46.43% Year 2414.46%
+You are staking 0.00 [FOX]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FOX]-[BUSD] Cake LP
+Unstake 0.00 [FOX]-[BUSD] Cake LP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[FOX]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.11 TVL: $71.22
+FOX Price: $0.0000045228
+WBNB Price: $486.47
+Staked: 249.5126 Cake-LP ($26.33)
+FOX Per Week: 5433962.26 ($24.58)
+APR: Day 13.34% Week 93.35% Year 4854.31%
+You are staking 0.00 [FOX]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FOX]-[WBNB] Cake LP
+Unstake 0.00 [FOX]-[WBNB] Cake LP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.85 TVL: $528,067,226.18
+WBNB Price: $486.47
+BUSD Price: $1.00
+Staked: 1.2716 Cake-LP ($63.39)
+FOX Per Week: 543396.23 ($2.46)
+APR: Day 0.55% Week 3.88% Year 201.62%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 3.5%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+FOX
+ Price: $0.0000045228 Market Cap: $445.73 
+[%]
+Staked: 33363756.0597 FOX ($150.90)
+FOX Per Week: 2716981.13 ($12.29)
+APR: Day 1.16% Week 8.14% Year 423.46%
+You are staking 0.00 FOX ($0.00), 0.00% of the pool.
+Stake 0.00 FOX
+Unstake 0.00 FOX
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,659.22 TVL: $262,495,747.43
+ETH Price: $3,332.25
+WBNB Price: $486.47
+Staked: 0.0013 Cake-LP ($3.48)
+FOX Per Week: 543396.23 ($2.46)
+APR: Day 10.09% Week 70.64% Year 3673.23%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 3.5%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $225.96 TVL: $1,034,172,899.95
+Cake Price: $25.10
+WBNB Price: $486.47
+Staked: 0.0080 Cake-LP ($1.81)
+FOX Per Week: 543396.23 ($2.46)
+APR: Day 19.40% Week 135.80% Year 7061.47%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 3.5%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,226.54 TVL: $173,956,846.45
+BTCB Price: $49,844.00
+WBNB Price: $486.47
+Staked: 0.0009 Cake-LP ($9.18)
+FOX Per Week: 543396.23 ($2.46)
+APR: Day 3.83% Week 26.78% Year 1392.60%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 3.5%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $241.46 TVL: $83,020,952.57
+DOT Price: $28.11
+WBNB Price: $486.47
+Staked: 0.0461 Cake-LP ($11.14)
+FOX Per Week: 326037.74 ($1.47)
+APR: Day 1.89% Week 13.24% Year 688.28%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 3.5%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[XRP]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $51.72 TVL: $39,605,756.65
+XRP Price: $1.29
+WBNB Price: $486.47
+Staked: 0.2122 Cake-LP ($10.98)
+FOX Per Week: 326037.74 ($1.47)
+APR: Day 1.92% Week 13.44% Year 698.66%
+You are staking 0.00 [XRP]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XRP]-[WBNB] Cake LP - Fee 3.5%
+Unstake 0.00 [XRP]-[WBNB] Cake LP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[WBNB]-[UNI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $243.64 TVL: $33,985,730.75
+WBNB Price: $486.47
+UNI Price: $29.37
+Staked: 0.0399 Cake-LP ($9.72)
+FOX Per Week: 326037.74 ($1.47)
+APR: Day 2.17% Week 15.16% Year 788.51%
+You are staking 0.00 [WBNB]-[UNI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[UNI] Cake LP - Fee 3.5%
+Unstake 0.00 [WBNB]-[UNI] Cake LP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,308,834.92
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.4919 Cake-LP ($1.01)
+FOX Per Week: 108679.25 ($0.49)
+APR: Day 6.97% Week 48.82% Year 2538.83%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 3.5%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,317,210.64
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 1.4501 Cake-LP ($2.95)
+FOX Per Week: 108679.25 ($0.49)
+APR: Day 2.38% Week 16.66% Year 866.11%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 3.5%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,939,732.58
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.4971 Cake-LP ($1.02)
+FOX Per Week: 108679.25 ($0.49)
+APR: Day 6.86% Week 48.05% Year 2498.69%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 3.5%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[BTCB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $471.87 TVL: $137,228,112.51
+BTCB Price: $49,844.00
+BUSD Price: $1.00
+Staked: 0.0054 Cake-LP ($2.54)
+FOX Per Week: 543396.23 ($2.46)
+APR: Day 13.81% Week 96.64% Year 5025.28%
+You are staking 0.00 [BTCB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[BUSD] Cake LP - Fee 3.5%
+Unstake 0.00 [BTCB]-[BUSD] Cake LP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[VAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.82 TVL: $25,448,022.70
+VAI Price: $0.79
+BUSD Price: $1.00
+Staked: 0.5312 Cake-LP ($0.97)
+FOX Per Week: 108679.25 ($0.49)
+APR: Day 7.26% Week 50.85% Year 2644.00%
+You are staking 0.00 [VAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VAI]-[BUSD] Cake LP - Fee 3.5%
+Unstake 0.00 [VAI]-[BUSD] Cake LP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[UST]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $50,212,301.26
+UST Price: $1.00
+BUSD Price: $1.00
+Staked: 13.7743 Cake-LP ($28.28)
+FOX Per Week: 108679.25 ($0.49)
+APR: Day 0.25% Week 1.74% Year 90.37%
+You are staking 0.00 [UST]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[BUSD] Cake LP - Fee 3.5%
+Unstake 0.00 [UST]-[BUSD] Cake LP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+WBNB
+ Price: $486.47 Market Cap: $3,438,266,384.78 
+[%]
+Staked: 0.4825 WBNB ($234.72)
+FOX Per Week: 543396.23 ($2.46)
+APR: Day 0.15% Week 1.05% Year 54.45%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 3.5%
+Unstake 0.00 WBNB
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+BUSD
+ Price: $1.00 Market Cap: $4,195,298,643.81 
+[%]
+Staked: 3.4045 BUSD ($3.40)
+FOX Per Week: 326037.74 ($1.47)
+APR: Day 6.20% Week 43.37% Year 2255.35%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 3.5%
+Unstake 0.00 BUSD
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+BTCB
+ Price: $49,844.00 Market Cap: $4,261,711,844.00 
+[%]
+Staked: 0.0001 BTCB ($5.15)
+FOX Per Week: 543396.23 ($2.46)
+APR: Day 6.82% Week 47.73% Year 2481.84%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 3.5%
+Unstake 0.00 BTCB
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+ETH
+ Price: $3,332.25 Market Cap: $4,348,586,250.00 
+[%]
+Staked: 0.0027 ETH ($8.87)
+FOX Per Week: 543396.23 ($2.46)
+APR: Day 3.96% Week 27.70% Year 1440.54%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 3.5%
+Unstake 0.00 ETH
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+Cake
+ Price: $25.10 Market Cap: $10,444,900,082.33 
+[%]
+Staked: 6.1240 Cake ($153.71)
+FOX Per Week: 543396.23 ($2.46)
+APR: Day 0.23% Week 1.60% Year 83.14%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 3.5%
+Unstake 0.00 Cake
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+DOT
+ Price: $28.11 Market Cap: $393,539,999.86 
+[%]
+Staked: 0.1212 DOT ($3.41)
+FOX Per Week: 326037.74 ($1.47)
+APR: Day 6.18% Week 43.29% Year 2251.10%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 3.5%
+Unstake 0.00 DOT
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+XRP
+ Price: $1.29 Market Cap: $279,930,000.00 
+[%]
+Staked: 4.1088 XRP ($5.30)
+FOX Per Week: 326037.74 ($1.47)
+APR: Day 3.97% Week 27.82% Year 1446.68%
+You are staking 0.00 XRP ($0.00), 0.00% of the pool.
+Stake 0.00 XRP - Fee 3.5%
+Unstake 0.00 XRP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+UNI
+ Price: $29.37 Market Cap: $108,669,000.00 
+[%]
+Staked: 0.1095 UNI ($3.22)
+FOX Per Week: 326037.74 ($1.47)
+APR: Day 6.55% Week 45.86% Year 2384.69%
+You are staking 0.00 UNI ($0.00), 0.00% of the pool.
+Stake 0.00 UNI - Fee 3.5%
+Unstake 0.00 UNI
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 7.7200 DAI ($7.72)
+FOX Per Week: 163018.87 ($0.74)
+APR: Day 1.36% Week 9.55% Year 496.63%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 3.5%
+Unstake 0.00 DAI
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 2.8649 USDT ($2.86)
+FOX Per Week: 163018.87 ($0.74)
+APR: Day 3.68% Week 25.74% Year 1338.51%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 3.5%
+Unstake 0.00 USDT
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,510,977.00 
+[%]
+Staked: 1.9686 USDC ($1.97)
+FOX Per Week: 163018.87 ($0.74)
+APR: Day 5.35% Week 37.48% Year 1949.18%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 3.5%
+Unstake 0.00 USDC
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+[WBNB]-[NBTC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $136,503.30 TVL: $134,022.19
+WBNB Price: $486.47
+NBTC Price: $0.009230
+Staked: 0.0000 Cake-LP ($0.00)
+FOX Per Week: 543396.23 ($2.46)
+APR: Day 3748737.98% Week 26241165.83% Year 1364540623.06%
+You are staking 0.00 [WBNB]-[NBTC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[NBTC] Cake LP - Fee 3.5%
+Unstake 0.00 [WBNB]-[NBTC] Cake LP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+NBTC
+ Price: $0.009230 Market Cap: $193,830.94 
+[%]
+Staked: 12370.7179 NBTC ($114.18)
+FOX Per Week: 543396.23 ($2.46)
+APR: Day 0.31% Week 2.15% Year 111.93%
+You are staking 0.00 NBTC ($0.00), 0.00% of the pool.
+Stake 0.00 NBTC - Fee 3.5%
+Unstake 0.00 NBTC
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $894.67

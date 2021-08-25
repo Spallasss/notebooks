@@ -1,0 +1,298 @@
+INFO  : https://polygon.woodchain.io
+**************************************************************************************
+
+Mon Aug 23 2021 13:02:50 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+REWARDS HAVE NOT YET STARTED!
+	Rewards start at block 
+18501062
+
+
+Found 19 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[WOOD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.00
+USDC Price: $1.00
+WOOD Price: $0.00
+Staked: 0.0000 UNI-V2 ($0.00)
+WOOD Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [USDC]-[WOOD] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[WOOD] Uni LP
+Unstake 0.00 [USDC]-[WOOD] Uni LP
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[WOOD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.00
+WMATIC Price: $1.64
+WOOD Price: $0.00
+Staked: 0.0000 UNI-V2 ($0.00)
+WOOD Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WMATIC]-[WOOD] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WMATIC]-[WOOD] Uni LP
+Unstake 0.00 [WMATIC]-[WOOD] Uni LP
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WOOD]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.00
+WOOD Price: $0.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+WOOD Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WOOD]-[USDT] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WOOD]-[USDT] Uni LP
+Unstake 0.00 [WOOD]-[USDT] Uni LP
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,563,707,027,359.88 TVL: $34,032,824.33
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+WOOD Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,603,925.89 TVL: $33,313,464.33
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+WOOD Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WBTC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50,618,086,475,142.30 TVL: $16,268,961.89
+WBTC Price: $49,989.00
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+WOOD Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WBTC]-[USDC] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBTC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WBTC]-[USDC] Uni LP
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,697,092.95 TVL: $147,935,759.81
+USDC Price: $1.00
+WETH Price: $3,317.29
+Staked: 0.0000 UNI-V2 ($0.00)
+WOOD Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WOOD
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 WOOD ($0.00)
+WOOD Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WOOD ($0.00), NaN% of the pool.
+Stake 0.00 WOOD
+Unstake 0.00 WOOD
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+USDC
+ Price: $1.00 Market Cap: $1,042,367,739.55 
+[%]
+Staked: 0.0000 USDC ($0.00)
+WOOD Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 USDC ($0.00), NaN% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+WMATIC
+ Price: $1.64 Market Cap: $603,142,204.45 
+[%]
+Staked: 11.0571 WMATIC ($18.13)
+WOOD Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+USDT
+ Price: $1.00 Market Cap: $314,970,871.22 
+[%]
+Staked: 0.0000 USDT ($0.00)
+WOOD Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 USDT ($0.00), NaN% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+WBTC
+ Price: $49,989.00 Market Cap: $696,539,589.29 
+[%]
+Staked: 0.0000 WBTC ($0.00)
+WOOD Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WBTC ($0.00), NaN% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+WETH
+ Price: $3,317.29 Market Cap: $2,022,452,845.78 
+[%]
+Staked: 0.0960 WETH ($318.46)
+WOOD Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+QUICK
+ Price: $722.16 Market Cap: $691,299,702.91 
+[%]
+Staked: 0.0000 QUICK ($0.00)
+WOOD Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 QUICK ($0.00), NaN% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+BANANA
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 BANANA ($0.00)
+WOOD Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BANANA ($0.00), NaN% of the pool.
+Stake 0.00 BANANA - Fee 4%
+Unstake 0.00 BANANA
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+SUSHI
+ Price: $13.78 Market Cap: $13,993,716.63 
+[%]
+Staked: 0.0000 SUSHI ($0.00)
+WOOD Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SUSHI ($0.00), NaN% of the pool.
+Stake 0.00 SUSHI - Fee 4%
+Unstake 0.00 SUSHI
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+LINK
+ Price: $28.59 Market Cap: $64,878,744.81 
+[%]
+Staked: 0.0000 LINK ($0.00)
+WOOD Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 LINK ($0.00), NaN% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+AAVE
+ Price: $408.50 Market Cap: $155,362,589.71 
+[%]
+Staked: 0.0960 AAVE ($39.22)
+WOOD Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+DAI
+ Price: $1.00 Market Cap: $376,545,250.79 
+[%]
+Staked: 0.0000 DAI ($0.00)
+WOOD Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DAI ($0.00), NaN% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $375.81

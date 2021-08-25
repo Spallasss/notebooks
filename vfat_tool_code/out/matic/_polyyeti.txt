@@ -1,0 +1,220 @@
+INFO  : https://polyyeti.farm
+*************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:41:46 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 15 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[YETI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $243,666.96 TVL: $1.86
+USDC Price: $1.00
+YETI Price: $0.01
+Staked: 0.0000 UNI-V2 ($1.85)
+YETI Per Week: 91.91 ($1.27)
+APR: Day 9.81% Week 68.65% Year 3569.89%
+You are staking 0.00 [USDC]-[YETI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[YETI] Uni LP
+Unstake 0.00 [USDC]-[YETI] Uni LP
+Claim 0.00 YETI ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[YETI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.31 TVL: $2.14
+WMATIC Price: $1.64
+YETI Price: $0.01
+Staked: 4.7637 UNI-V2 ($1.48)
+YETI Per Week: 91.91 ($1.27)
+APR: Day 12.25% Week 85.75% Year 4459.05%
+You are staking 0.00 [WMATIC]-[YETI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[YETI] Uni LP
+Unstake 0.00 [WMATIC]-[YETI] Uni LP
+Claim 0.00 YETI ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+YETI
+ Price: $0.01 Market Cap: $5.66 
+[%]
+Staked: 69.1221 YETI ($0.95)
+YETI Per Week: 45.96 ($0.63)
+APR: Day 9.50% Week 66.49% Year 3457.34%
+You are staking 0.00 YETI ($0.00), 0.00% of the pool.
+Stake 0.00 YETI
+Unstake 0.00 YETI
+Claim 0.00 YETI ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,603,653.41 TVL: $33,310,018.31
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($1.26)
+YETI Per Week: 6.13 ($0.08)
+APR: Day 0.96% Week 6.71% Year 348.70%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 YETI ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WMATIC
+ Price: $1.64 Market Cap: $602,991,362.28 
+[%]
+Staked: 1.0199 WMATIC ($1.67)
+YETI Per Week: 6.13 ($0.08)
+APR: Day 0.72% Week 5.05% Year 262.85%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 YETI ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+DAI
+ Price: $1.00 Market Cap: $376,567,350.39 
+[%]
+Staked: 0.0000 DAI ($0.00)
+YETI Per Week: 4.60 ($0.06)
+APR: Day 906866807388294528.00% Week 6348067651718062080.00% Year 330099517889339195392.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 YETI ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+USDT
+ Price: $1.00 Market Cap: $314,975,208.11 
+[%]
+Staked: 0.0000 USDT ($0.00)
+YETI Per Week: 4.60 ($0.06)
+APR: Day 906760.60% Week 6347324.21% Year 330060859.13%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 YETI ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+USDC
+ Price: $1.00 Market Cap: $1,042,696,644.60 
+[%]
+Staked: 0.9386 USDC ($0.94)
+YETI Per Week: 4.60 ($0.06)
+APR: Day 0.97% Week 6.77% Year 351.81%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 YETI ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+QUICK
+ Price: $726.19 Market Cap: $695,157,487.62 
+[%]
+Staked: 0.0000 QUICK ($0.02)
+YETI Per Week: 4.60 ($0.06)
+APR: Day 41.34% Week 289.39% Year 15048.38%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 YETI ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+WETH
+ Price: $3,323.15 Market Cap: $2,026,232,838.74 
+[%]
+Staked: 0.0001 WETH ($0.25)
+YETI Per Week: 4.60 ($0.06)
+APR: Day 3.63% Week 25.41% Year 1321.19%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 YETI ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+WBTC
+ Price: $50,057.00 Market Cap: $697,487,091.58 
+[%]
+Staked: 0.0000 WBTC ($1.40)
+YETI Per Week: 4.60 ($0.06)
+APR: Day 0.65% Week 4.54% Year 236.02%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 YETI ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+AAVE
+ Price: $408.38 Market Cap: $155,316,950.77 
+[%]
+Staked: 0.0003 AAVE ($0.13)
+YETI Per Week: 4.60 ($0.06)
+APR: Day 7.02% Week 49.16% Year 2556.36%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 YETI ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+SUSHI
+ Price: $13.81 Market Cap: $13,999,001.70 
+[%]
+Staked: 3.6592 SUSHI ($50.53)
+YETI Per Week: 4.60 ($0.06)
+APR: Day 0.02% Week 0.13% Year 6.53%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 4%
+Unstake 0.00 SUSHI
+Claim 0.00 YETI ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+FISH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0195 FISH ($0.00)
+YETI Per Week: 4.60 ($0.06)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+Stake 0.00 FISH - Fee 4%
+Unstake 0.00 FISH
+Claim 0.00 YETI ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+LINK
+ Price: $28.61 Market Cap: $64,922,783.63 
+[%]
+Staked: 0.0004 LINK ($0.01)
+YETI Per Week: 4.60 ($0.06)
+APR: Day 70.41% Week 492.90% Year 25630.93%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 YETI ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $60.50

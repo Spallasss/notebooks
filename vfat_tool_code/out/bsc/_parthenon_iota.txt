@@ -1,0 +1,343 @@
+INFO  : https://iota.parthenon.finance
+********************************************************************************************
+
+Mon Aug 23 2021 14:33:15 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 22 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[IOTA]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $228.35
+IOTA Price: $0.000194
+BUSD Price: $1.00
+Staked: 3084.1995 Cake-LP ($91.66)
+IOTA Per Week: 42824.35 ($8.31)
+APR: Day 1.30% Week 9.07% Year 471.44%
+You are staking 0.00 [IOTA]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [IOTA]-[BUSD] Cake LP
+Unstake 0.00 [IOTA]-[BUSD] Cake LP
+Claim 0.00 IOTA ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[IOTA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.64 TVL: $74.40
+IOTA Price: $0.000194
+WBNB Price: $484.27
+Staked: 106.4163 Cake-LP ($68.55)
+IOTA Per Week: 42824.35 ($8.31)
+APR: Day 1.73% Week 12.12% Year 630.32%
+You are staking 0.00 [IOTA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [IOTA]-[WBNB] Cake LP
+Unstake 0.00 [IOTA]-[WBNB] Cake LP
+Claim 0.00 IOTA ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.73 TVL: $527,285,946.05
+WBNB Price: $484.27
+BUSD Price: $1.00
+Staked: 0.7560 Cake-LP ($37.59)
+IOTA Per Week: 3380.87 ($0.66)
+APR: Day 0.25% Week 1.75% Year 90.74%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 IOTA ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,124,070.67
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 4.8000 Cake-LP ($9.82)
+IOTA Per Week: 3380.87 ($0.66)
+APR: Day 0.95% Week 6.68% Year 347.44%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 IOTA ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,214.54 TVL: $173,752,351.47
+BTCB Price: $49,954.00
+WBNB Price: $484.27
+Staked: 0.0127 Cake-LP ($130.02)
+IOTA Per Week: 3380.87 ($0.66)
+APR: Day 0.07% Week 0.50% Year 26.24%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 IOTA ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,649.70 TVL: $261,547,849.00
+ETH Price: $3,323.57
+WBNB Price: $484.27
+Staked: 0.0510 Cake-LP ($135.13)
+IOTA Per Week: 3380.87 ($0.66)
+APR: Day 0.07% Week 0.49% Year 25.24%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 IOTA ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.03 TVL: $81,290,623.35
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 47.3600 Cake-LP ($96.35)
+IOTA Per Week: 3380.87 ($0.66)
+APR: Day 0.10% Week 0.68% Year 35.40%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 IOTA ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,868,097.74
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 1001.9654 Cake-LP ($2,061.41)
+IOTA Per Week: 3380.87 ($0.66)
+APR: Day 0.00% Week 0.03% Year 1.65%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 IOTA ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $240.39 TVL: $82,655,727.68
+DOT Price: $27.99
+WBNB Price: $484.27
+Staked: 2.2720 Cake-LP ($546.17)
+IOTA Per Week: 3380.87 ($0.66)
+APR: Day 0.02% Week 0.12% Year 6.25%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 IOTA ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+IOTA
+ Price: $0.000194 Market Cap: $407.37 
+[%]
+Staked: 866861.1792 IOTA ($168.21)
+IOTA Per Week: 31554.78 ($6.12)
+APR: Day 0.52% Week 3.64% Year 189.29%
+You are staking 0.00 IOTA ($0.00), 0.00% of the pool.
+Stake 0.00 IOTA
+Unstake 0.00 IOTA
+Claim 0.00 IOTA ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+BUSD
+ Price: $1.00 Market Cap: $4,193,710,666.04 
+[%]
+Staked: 1977.4748 BUSD ($1,974.04)
+IOTA Per Week: 6761.74 ($1.31)
+APR: Day 0.01% Week 0.07% Year 3.46%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 IOTA ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+WBNB
+ Price: $484.27 Market Cap: $3,429,222,196.02 
+[%]
+Staked: 0.4492 WBNB ($217.51)
+IOTA Per Week: 4507.83 ($0.87)
+APR: Day 0.06% Week 0.40% Year 20.91%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 IOTA ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+USDT
+ Price: $1.00 Market Cap: $3,377,554,183.68 
+[%]
+Staked: 8.6400 USDT ($8.63)
+IOTA Per Week: 3380.87 ($0.66)
+APR: Day 1.09% Week 7.60% Year 395.12%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 IOTA ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.0000 BTCB ($1.20)
+IOTA Per Week: 3380.87 ($0.66)
+APR: Day 7.82% Week 54.72% Year 2845.39%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 IOTA ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+ETH
+ Price: $3,323.57 Market Cap: $4,337,258,850.00 
+[%]
+Staked: 0.0003 ETH ($0.96)
+IOTA Per Week: 3380.87 ($0.66)
+APR: Day 9.79% Week 68.54% Year 3563.90%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 IOTA ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+DAI
+ Price: $1.00 Market Cap: $261,927,426.00 
+[%]
+Staked: 70.1600 DAI ($70.14)
+IOTA Per Week: 3380.87 ($0.66)
+APR: Day 0.13% Week 0.94% Year 48.64%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 IOTA ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,260,138.00 
+[%]
+Staked: 57.6000 USDC ($57.54)
+IOTA Per Week: 3380.87 ($0.66)
+APR: Day 0.16% Week 1.14% Year 59.28%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 IOTA ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+DOT
+ Price: $27.99 Market Cap: $391,859,999.86 
+[%]
+Staked: 1.1604 DOT ($32.48)
+IOTA Per Week: 3380.87 ($0.66)
+APR: Day 0.29% Week 2.02% Year 105.03%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 IOTA ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+Cake
+ Price: $24.99 Market Cap: $10,398,987,979.37 
+[%]
+Staked: 10.6086 Cake ($265.11)
+IOTA Per Week: 3380.87 ($0.66)
+APR: Day 0.04% Week 0.25% Year 12.87%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 IOTA ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+MUSCLE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 84.1500 MUSCLE ($0.00)
+IOTA Per Week: 1690.43 ($0.33)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MUSCLE ($0.00), NaN% of the pool.
+Stake 0.00 MUSCLE - Fee 1%
+Unstake 0.00 MUSCLE
+Claim 0.00 IOTA ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+THETA
+ Price: $0.00 Market Cap: $0.00 
+Staked: 31586.6975 THETA ($0.00)
+IOTA Per Week: 3380.87 ($0.66)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 THETA ($0.00), NaN% of the pool.
+Stake 0.00 THETA - Fee 4%
+Unstake 0.00 THETA
+Claim 0.00 IOTA ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+OLIVE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 493.7567 OLIVE ($0.00)
+IOTA Per Week: 563.48 ($0.11)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 OLIVE ($0.00), NaN% of the pool.
+Stake 0.00 OLIVE - Fee 2.5%
+Unstake 0.00 OLIVE
+Claim 0.00 IOTA ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $5,972.52

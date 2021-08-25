@@ -1,0 +1,267 @@
+INFO  : https://app.polydex.org
+*************************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:46:19 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 13 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WMATIC]-[CNT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.03 TVL: $308,332.72
+WMATIC Price: $1.64
+CNT Price: $0.16
+Staked: 136692.2954 Polydex-LP ($140,729.35)
+CNT Per Week: 17280.00 ($2,712.56)
+APR: Day 0.28% Week 1.93% Year 100.23%
+You are staking 0.00 [WMATIC]-[CNT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[CNT] Uni LP
+Unstake 0.00 [WMATIC]-[CNT] Uni LP
+Claim 0.00 CNT ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[USDC]-[CNT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $807,473.12 TVL: $59,755.42
+USDC Price: $1.00
+CNT Price: $0.16
+Staked: 0.0739 Polydex-LP ($59,666.33)
+CNT Per Week: 42660.00 ($6,696.63)
+APR: Day 1.60% Week 11.22% Year 583.62%
+You are staking 0.00 [USDC]-[CNT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[CNT] Uni LP
+Unstake 0.00 [USDC]-[CNT] Uni LP
+Claim 0.00 CNT ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WETH]-[CNT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $46.30 TVL: $65,849.92
+WETH Price: $3,322.52
+CNT Price: $0.16
+Staked: 1422.1793 Polydex-LP ($65,846.73)
+CNT Per Week: 44280.00 ($6,950.93)
+APR: Day 1.51% Week 10.56% Year 548.92%
+You are staking 0.00 [WETH]-[CNT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[CNT] Uni LP
+Unstake 0.00 [WETH]-[CNT] Uni LP
+Claim 0.00 CNT ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,589,585.16 TVL: $35,590.39
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0137 Polydex-LP ($35,577.35)
+CNT Per Week: 10800.00 ($1,695.35)
+APR: Day 0.68% Week 4.77% Year 247.79%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 CNT ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WMATIC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $148.26 TVL: $136,036.69
+WMATIC Price: $1.64
+WETH Price: $3,322.52
+Staked: 917.5700 Polydex-LP ($136,035.59)
+CNT Per Week: 16200.00 ($2,543.02)
+APR: Day 0.27% Week 1.87% Year 97.21%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 CNT ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WBTC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $44,826,697,628,830.02 TVL: $75,686.76
+WBTC Price: $50,046.00
+USDC Price: $1.00
+Staked: 0.0000 Polydex-LP ($75,686.19)
+CNT Per Week: 7560.00 ($1,186.74)
+APR: Day 0.22% Week 1.57% Year 81.53%
+You are staking 0.00 [WBTC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[USDC] Uni LP
+Unstake 0.00 [WBTC]-[USDC] Uni LP
+Claim 0.00 CNT ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[WBTC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,585,287,549.70 TVL: $201,811.53
+WBTC Price: $50,046.00
+WETH Price: $3,322.52
+Staked: 0.0001 Polydex-LP ($201,776.24)
+CNT Per Week: 23760.00 ($3,729.77)
+APR: Day 0.26% Week 1.85% Year 96.12%
+You are staking 0.00 [WBTC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] Uni LP
+Unstake 0.00 [WBTC]-[WETH] Uni LP
+Claim 0.00 CNT ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,999,074,901,132.77 TVL: $287,961.67
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 Polydex-LP ($287,961.67)
+CNT Per Week: 7020.00 ($1,101.98)
+APR: Day 0.05% Week 0.38% Year 19.90%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 CNT ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $115,746,928.84 TVL: $67,399.33
+USDC Price: $1.00
+WETH Price: $3,322.52
+Staked: 0.0006 Polydex-LP ($67,397.26)
+CNT Per Week: 20520.00 ($3,221.16)
+APR: Day 0.68% Week 4.78% Year 248.53%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 CNT ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[USDC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,998,704.74 TVL: $368,123.67
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.1842 Polydex-LP ($368,123.67)
+CNT Per Week: 8100.00 ($1,271.51)
+APR: Day 0.05% Week 0.35% Year 17.96%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 CNT ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[WETH]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $115,541,315.65 TVL: $89,609.38
+WETH Price: $3,322.52
+USDT Price: $1.00
+Staked: 0.0008 Polydex-LP ($89,608.62)
+CNT Per Week: 4860.00 ($762.91)
+APR: Day 0.12% Week 0.85% Year 44.27%
+You are staking 0.00 [WETH]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[USDT] Uni LP
+Unstake 0.00 [WETH]-[USDT] Uni LP
+Claim 0.00 CNT ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[WETH]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $115.51 TVL: $33,238.92
+WETH Price: $3,322.52
+DAI Price: $1.00
+Staked: 287.7546 Polydex-LP ($33,237.97)
+CNT Per Week: 8100.00 ($1,271.51)
+APR: Day 0.55% Week 3.83% Year 198.92%
+You are staking 0.00 [WETH]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[DAI] Uni LP
+Unstake 0.00 [WETH]-[DAI] Uni LP
+Claim 0.00 CNT ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WETH]-[AAVE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,331.87 TVL: $42,414.33
+WETH Price: $3,322.52
+AAVE Price: $408.30
+Staked: 18.1785 Polydex-LP ($42,389.82)
+CNT Per Week: 4860.00 ($762.91)
+APR: Day 0.26% Week 1.80% Year 93.59%
+You are staking 0.00 [WETH]-[AAVE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[AAVE] Uni LP
+Unstake 0.00 [WETH]-[AAVE] Uni LP
+Claim 0.00 CNT ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,604,036.80

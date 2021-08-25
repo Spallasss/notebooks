@@ -1,0 +1,297 @@
+INFO  : https://satis.finance
+**********************************************************************************
+
+Mon Aug 23 2021 14:29:06 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 18 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.70 TVL: $527,094,280.84
+WBNB Price: $483.91
+BUSD Price: $1.00
+Staked: 240.3119 Cake-LP ($11,944.57)
+xSAT Per Week: 676.51 ($32.08)
+APR: Day 0.04% Week 0.27% Year 13.97%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 xSAT ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,029,149.94
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 359.4081 Cake-LP ($735.08)
+xSAT Per Week: 541.21 ($25.66)
+APR: Day 0.50% Week 3.49% Year 181.55%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 xSAT ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,210.75 TVL: $173,687,620.50
+BTCB Price: $49,954.00
+WBNB Price: $483.91
+Staked: 0.0784 Cake-LP ($800.16)
+xSAT Per Week: 811.81 ($38.50)
+APR: Day 0.69% Week 4.81% Year 250.18%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 xSAT ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WBNB]-[BELT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $192.86 TVL: $79,023,429.82
+WBNB Price: $483.91
+BELT Price: $18.71
+Staked: 1.8407 Cake-LP ($354.98)
+xSAT Per Week: 541.21 ($25.66)
+APR: Day 1.03% Week 7.23% Year 375.95%
+You are staking 0.00 [WBNB]-[BELT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BELT] Cake LP
+Unstake 0.00 [WBNB]-[BELT] Cake LP
+Claim 0.00 xSAT ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $224.82 TVL: $1,028,981,053.40
+Cake Price: $24.98
+WBNB Price: $483.91
+Staked: 3.5232 Cake-LP ($792.09)
+xSAT Per Week: 270.60 ($12.83)
+APR: Day 0.23% Week 1.62% Year 84.24%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 xSAT ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[LINA]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.53 TVL: $5,941,609.99
+LINA Price: $0.06
+BUSD Price: $1.00
+Staked: 1470.9800 Cake-LP ($779.34)
+xSAT Per Week: 270.60 ($12.83)
+APR: Day 0.24% Week 1.65% Year 85.62%
+You are staking 0.00 [LINA]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LINA]-[BUSD] Cake LP
+Unstake 0.00 [LINA]-[BUSD] Cake LP
+Claim 0.00 xSAT ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[WBNB]-[BRY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $48.39 TVL: $1,477,252.52
+WBNB Price: $483.91
+BRY Price: $1.17
+Staked: 30.2978 Cake-LP ($1,466.03)
+xSAT Per Week: 270.60 ($12.83)
+APR: Day 0.13% Week 0.88% Year 45.52%
+You are staking 0.00 [WBNB]-[BRY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BRY] Cake LP
+Unstake 0.00 [WBNB]-[BRY] Cake LP
+Claim 0.00 xSAT ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[TRX]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13.49 TVL: $17,770,959.56
+TRX Price: $0.09
+WBNB Price: $483.91
+Staked: 62.9003 Cake-LP ($848.71)
+xSAT Per Week: 270.60 ($12.83)
+APR: Day 0.22% Week 1.51% Year 78.62%
+You are staking 0.00 [TRX]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TRX]-[WBNB] Cake LP
+Unstake 0.00 [TRX]-[WBNB] Cake LP
+Claim 0.00 xSAT ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[xSAT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.45 TVL: $8,208.73
+xSAT Price: $0.05
+BUSD Price: $1.00
+Staked: 17255.5323 Cake-LP ($7,711.00)
+xSAT Per Week: 5953.29 ($282.31)
+APR: Day 0.52% Week 3.66% Year 190.38%
+You are staking 0.00 [xSAT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [xSAT]-[BUSD] Cake LP
+Unstake 0.00 [xSAT]-[BUSD] Cake LP
+Claim 0.00 xSAT ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[xSAT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9.80 TVL: $11,606.41
+xSAT Price: $0.05
+WBNB Price: $483.91
+Staked: 997.6239 Cake-LP ($9,775.99)
+xSAT Per Week: 3788.46 ($179.65)
+APR: Day 0.26% Week 1.84% Year 95.56%
+You are staking 0.00 [xSAT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [xSAT]-[WBNB] Cake LP
+Unstake 0.00 [xSAT]-[WBNB] Cake LP
+Claim 0.00 xSAT ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[Cake]-[xSAT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.21 TVL: $2,303.83
+Cake Price: $24.98
+xSAT Price: $0.05
+Staked: 721.9788 Cake-LP ($1,592.97)
+xSAT Per Week: 2706.04 ($128.32)
+APR: Day 1.15% Week 8.06% Year 418.89%
+You are staking 0.00 [Cake]-[xSAT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[xSAT] Cake LP
+Unstake 0.00 [Cake]-[xSAT] Cake LP
+Claim 0.00 xSAT ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+xSAT
+ Price: $0.05 Market Cap: $24,583.73 
+[%]
+Staked: 50365.7924 xSAT ($2,388.39)
+xSAT Per Week: 2164.83 ($102.66)
+APR: Day 0.61% Week 4.30% Year 223.51%
+You are staking 0.00 xSAT ($0.00), 0.00% of the pool.
+Stake 0.00 xSAT
+Unstake 0.00 xSAT
+Claim 0.00 xSAT ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[USDT]-[xSAT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.44 TVL: $709.50
+USDT Price: $1.00
+xSAT Price: $0.05
+Staked: 1603.3275 Cake-LP ($701.42)
+xSAT Per Week: 1353.02 ($64.16)
+APR: Day 1.31% Week 9.15% Year 475.66%
+You are staking 0.00 [USDT]-[xSAT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[xSAT] Cake LP
+Unstake 0.00 [USDT]-[xSAT] Cake LP
+Claim 0.00 xSAT ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[XRP]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.78 TVL: $38,888,055.77
+XRP Price: $1.25
+WBNB Price: $483.91
+Staked: 54.1479 Cake-LP ($2,749.69)
+xSAT Per Week: 270.60 ($12.83)
+APR: Day 0.07% Week 0.47% Year 24.27%
+You are staking 0.00 [XRP]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XRP]-[WBNB] Cake LP
+Unstake 0.00 [XRP]-[WBNB] Cake LP
+Claim 0.00 xSAT ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.09 TVL: $46,752,651.75
+ADA Price: $2.82
+WBNB Price: $483.91
+Staked: 14.7230 Cake-LP ($1,134.97)
+xSAT Per Week: 270.60 ($12.83)
+APR: Day 0.16% Week 1.13% Year 58.79%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 xSAT ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $43,775.38

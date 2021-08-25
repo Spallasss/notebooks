@@ -1,0 +1,55 @@
+INFO  : https://aave.com
+******************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 15:55:07 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+DAI ($1.00)
+Supplied : 909,733,097.00 ($909,560,247.71) at 3.30% APR
+Borrowed : 729,195,258.07 ($729,056,710.98) at 4.58% APR
+Reserves : 180,537,843.07 ($180,503,540.88)
+Farming APR Supply 2.06% Borrow 3.86%
+Net APR Supply 5.37% Borrow -0.72%
+USDC ($1.00)
+Supplied : 1,148,693,876.59 ($1,145,163,940.31) at 2.93% APR
+Borrowed : 983,283,280.11 ($980,261,650.59) at 3.80% APR
+Reserves : 165,410,601.59 ($164,902,294.81)
+Farming APR Supply 1.49% Borrow 2.61%
+Net APR Supply 4.42% Borrow -1.20%
+USDT ($1.00)
+Supplied : 193,320,930.97 ($193,068,067.19) at 4.52% APR
+Borrowed : 174,493,438.18 ($174,265,200.76) at 5.57% APR
+Reserves : 18,827,493.58 ($18,802,867.22)
+Farming APR Supply 3.53% Borrow 5.87%
+Net APR Supply 8.05% Borrow 0.30%
+WBTC ($50,107.00)
+Supplied : 8,724.81 ($437,173,924.76) at 0.01% APR
+Borrowed : 283.57 ($14,208,993.58) at 0.40% APR
+Reserves : 8,441.23 ($422,964,926.73)
+Farming APR Supply 0.44% Borrow 1.50%
+Net APR Supply 0.45% Borrow 1.10%
+WETH ($3,335.09)
+Supplied : 368,081.61 ($1,227,585,283.41) at 0.14% APR
+Borrowed : 41,112.69 ($137,114,506.35) at 1.37% APR
+Reserves : 326,968.92 ($1,090,470,777.83)
+Farming APR Supply 1.56% Borrow 1.55%
+Net APR Supply 1.70% Borrow 0.18%
+WMATIC ($1.64)
+Supplied : 191,989,381.54 ($314,862,585.72) at 0.57% APR
+Borrowed : 41,207,398.71 ($67,580,133.88) at 3.34% APR
+Reserves : 150,781,983.74 ($247,282,453.34)
+Farming APR Supply 3.25% Borrow 1.68%
+Net APR Supply 3.82% Borrow -1.66%
+AAVE ($411.21)
+Supplied : 190,854.08 ($78,481,107.01) at 0.00% APR
+Borrowed : 0.00 ($0.00) at 0.00% APR
+Reserves : 190,854.08 ($78,481,107.01)
+Farming APR Supply 0.91% Borrow NaN%
+Net APR Supply 0.91% Borrow NaN%

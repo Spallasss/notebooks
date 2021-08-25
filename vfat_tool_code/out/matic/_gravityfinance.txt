@@ -1,0 +1,102 @@
+INFO  : https://gravityfinance.io/app/#farms
+**************************************************************************
+
+Mon Aug 23 2021 11:26:11 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+***NOTICE: GFI-USDC farm, and GFI-WETH farm have been updated to new farms, unstake from the old, and stake into the new to continue earning rewards***
+
+GFI-USDC Quick LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $332,624.76 TVL: $79,506.33
+GFI Price: $0.0258
+USDC Price: $1.00
+Total Staked in Farm: 0.09371777 [UNI-V2] ($31,172.85)
+GFI Emitted Per Week: 5,000,000.00 ($129,207.07)
+APR: Day 58.99% Week 414.09% Year 21532.50%
+You are staking 0.00000000 [GFI-USDC] ($0.00), 0.0000% of the pool
+Estimated GFI earnings: Day 0.0000 ($0.00) Week 0.0000 ($0.00) Year 0.0000 ($0.00)
+Your LP tokens comprise of 0.00000000 GFI + 0.00000000 USDC
+Stake 0.00000000 [GFI-USDC]
+Unstake 0.00000000 [GFI-USDC]
+Claim 0.00000000 [GFI]
+Staking or unstaking also claims rewards.
+
+GFI-WETH Quick LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $19.26 TVL: $58,119.52
+GFI Price: $0.0258
+WETH Price: $3,320.07
+Total Staked in Farm: 1578.00487435 [UNI-V2] ($30,388.29)
+GFI Emitted Per Week: 5,000,000.00 ($129,207.07)
+APR: Day 60.51% Week 424.72% Year 22085.59%
+You are staking 0.00000000 [GFI-WETH] ($0.00), 0.0000% of the pool
+Estimated GFI earnings: Day 0.0000 ($0.00) Week 0.0000 ($0.00) Year 0.0000 ($0.00)
+Your LP tokens comprise of 0.00000000 GFI + 0.00000000 WETH
+Stake 0.00000000 [GFI-WETH]
+Unstake 0.00000000 [GFI-WETH]
+Claim 0.00000000 [GFI]
+Staking or unstaking also claims rewards.
+
+GFI
+ 
+QuickSwap Listing
+ Price: $0.0258
+Staked in Farm: 83,927,022.27[GFI] ($2,168,793.00)
+GFI Emitted Per Week: 1,754,385.96 ($45,335.82)
+APR: Day 0.30% Week 2.10% Year 109.01%
+You are staking 0.00000000 [GFI] ($0.00), 0.0000% of the pool
+Estimated GFI earnings: Day 0.0000 ($0.00) Week 0.0000 ($0.00) Year 0.0000 ($0.00)
+Stake 0.00000000 [GFI]
+Unstake 0.00000000 [GFI]
+Claim 0.00000000 [GFI]
+Staking or unstaking also claims rewards.
+
+SUSHI
+ Price: $13.86 Market Cap: $14,049,685.99 
+[%]
+Staked in Farm: 41783.154396126825 [SUSHI] ($579,114.52)
+GFI Emitted Per Week: 166,666.67 ($4,306.90)
+APR: Day 0.11% Week 0.75% Year 38.78%
+You are staking 0.00000000 [SUSHI] ($0.00), 0.0000% of the pool
+Estimated GFI earnings: Day 0.0000 ($0.00) Week 0.0000 ($0.00) Year 0.0000 ($0.00)
+Stake 0.00000000 [SUSHI]
+Unstake 0.00000000 [SUSHI]
+Claim 0.00000000 [GFI]
+Staking or unstaking also claims rewards.
+
+LINK
+ Price: $28.74 Market Cap: $65,217,784.04 
+[%]
+Staked in Farm: 30543.494771612743 [LINK] ($877,820.04)
+GFI Emitted Per Week: 166,666.67 ($4,306.90)
+APR: Day 0.07% Week 0.49% Year 25.59%
+You are staking 0.00000000 [LINK] ($0.00), 0.0000% of the pool
+Estimated GFI earnings: Day 0.0000 ($0.00) Week 0.0000 ($0.00) Year 0.0000 ($0.00)
+Stake 0.00000000 [LINK]
+Unstake 0.00000000 [LINK]
+Claim 0.00000000 [GFI]
+Staking or unstaking also claims rewards.
+
+!!!LEGACY FARM, NO MORE REWARDS, UNSTAKE AND RESTAKE INTO NEW LP FARM!!!
+GFI-USDC Quick LP
+Unstake 0.00000000 [GFI-USDC]
+!!!LEGACY FARM, NO MORE REWARDS, UNSTAKE AND RESTAKE INTO NEW LP FARM!!!
+GFI-WETH Quick LP
+Unstake 0.00000000 [GFI-WETH]
+Farm Avg. APR Year: 8758.29%  Total Farm TVL: $3,687,288.70

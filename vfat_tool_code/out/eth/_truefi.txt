@@ -1,0 +1,80 @@
+INFO  : https://app.truefi.io/farm
+***************************************************************************************
+
+Mon Aug 23 2021 15:30:35 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[TRU]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11,806,432.80 TVL: $298,000.23
+TRU Price: $0.64
+WETH Price: $3,330.58
+Staked: 0.0193 UNI-V2 ($228,444.90)
+TRU Per Week: 353787.00 ($228,021.74)
+APR: Day 14.26% Week 99.81% Year 5190.37%
+You are staking 0.000000 undefined $0.00 (0.00% of the pool).
+Your LP tokens comprise of 0.0000 TRU + 0.0000 WETH
+Stake 0.000000 undefined
+Unstake 0.000000 undefined
+Claim 0.000000 TRU
+Exit
+
+
+[DAI 40%]-[BAL 57.99999999999999%]-[TRU 2%]
+ BPT Price: $1.66 TVL: $18,064.32
+DAI Price: $1.00
+BAL Price: $31.18
+TRU Price: $0.64
+Staked: 9297.9796 [DAI 40%]-[BAL 57.99999999999999%]-[TRU 2%] ($15,411.20)
+TRU Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 undefined $0.00 (0.00% of the pool).
+Your LP tokens comprise of 0.0000 DAI + 0.0000 BAL + 0.0000 TRU
+Stake 0.000000 undefined
+Unstake 0.000000 undefined
+Claim 0.000000 TRU
+Exit
+
+
+[TUSD]-[Legacy tfTUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.84 TVL: $3,866.89
+TUSD Price: $1.00
+Legacy tfTUSD Price: $0.83
+Staked: 621.6723 UNI-V2 ($1,144.91)
+TRU Per Week: 82404.00 ($53,110.78)
+APR: Day 662.69% Week 4638.86% Year 241220.50%
+You are staking 0.000000 undefined $0.00 (0.00% of the pool).
+Your LP tokens comprise of 0.0000 TUSD + 0.0000 Legacy tfTUSD
+Stake 0.000000 undefined
+Unstake 0.000000 undefined
+Claim 0.000000 TRU
+Exit
+
+
+Legacy tfTUSD
+ Price: $0.83 Market Cap: $93,854,730.40 
+[%]
+Staked: 112495593.1840 Legacy tfTUSD ($92,984,573.34)
+TRU Per Week: 315000.00 ($203,022.86)
+APR: Day 0.03% Week 0.22% Year 11.35%
+You are staking 0.000000 undefined $0.00 (0.00% of the pool).
+Stake 0.000000 undefined
+Unstake 0.000000 undefined
+Claim 0.000000 TRU
+Exit
+

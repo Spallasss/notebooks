@@ -1,0 +1,185 @@
+INFO  : https://www.misfitswap.live
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:26:01 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 12 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[SKULL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7,000.36 TVL: $6.07
+USDC Price: $1.00
+SKULL Price: $0.0000107554
+Staked: 0.0005 UNI-V2 ($3.29)
+SKULL Per Week: 64000.00 ($0.69)
+APR: Day 2.99% Week 20.95% Year 1089.36%
+You are staking 0.00 [USDC]-[SKULL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[SKULL] Uni LP
+Unstake 0.00 [USDC]-[SKULL] Uni LP
+Claim 0.00 SKULL ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[SKULL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $4.34
+WMATIC Price: $1.64
+SKULL Price: $0.0000107554
+Staked: 37.0421 UNI-V2 ($0.33)
+SKULL Per Week: 64000.00 ($0.69)
+APR: Day 29.43% Week 205.98% Year 10711.03%
+You are staking 0.00 [WMATIC]-[SKULL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[SKULL] Uni LP
+Unstake 0.00 [WMATIC]-[SKULL] Uni LP
+Claim 0.00 SKULL ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,604,468.52 TVL: $33,315,981.10
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+SKULL Per Week: 12800.00 ($0.14)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 SKULL ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+SKULL
+ Price: $0.0000107554 Market Cap: $14.04 
+[%]
+Staked: 560817.2187 SKULL ($6.03)
+SKULL Per Week: 44800.00 ($0.48)
+APR: Day 1.14% Week 7.99% Year 415.39%
+You are staking 0.00 SKULL ($0.00), 0.00% of the pool.
+Stake 0.00 SKULL
+Unstake 0.00 SKULL
+Claim 0.00 SKULL ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WMATIC
+ Price: $1.64 Market Cap: $602,083,485.04 
+[%]
+Staked: 1.1701 WMATIC ($1.92)
+SKULL Per Week: 12800.00 ($0.14)
+APR: Day 1.02% Week 7.17% Year 373.06%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 SKULL ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+QUICK
+ Price: $726.59 Market Cap: $695,540,394.29 
+[%]
+Staked: 0.0000 QUICK ($0.00)
+SKULL Per Week: 12800.00 ($0.14)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 QUICK ($0.00), NaN% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 SKULL ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WETH
+ Price: $3,326.05 Market Cap: $2,028,336,093.51 
+[%]
+Staked: 0.0039 WETH ($12.87)
+SKULL Per Week: 12800.00 ($0.14)
+APR: Day 0.15% Week 1.07% Year 55.63%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 SKULL ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WBTC
+ Price: $50,082.00 Market Cap: $698,035,766.01 
+[%]
+Staked: 0.0000 WBTC ($1.30)
+SKULL Per Week: 12800.00 ($0.14)
+APR: Day 1.51% Week 10.57% Year 549.56%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 SKULL ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+AAVE
+ Price: $408.14 Market Cap: $155,225,672.87 
+[%]
+Staked: 0.0032 AAVE ($1.32)
+SKULL Per Week: 12800.00 ($0.14)
+APR: Day 1.49% Week 10.40% Year 540.56%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 SKULL ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+DAI
+ Price: $1.00 Market Cap: $375,664,195.61 
+[%]
+Staked: 0.9563 DAI ($0.95)
+SKULL Per Week: 12800.00 ($0.14)
+APR: Day 2.06% Week 14.42% Year 749.82%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 SKULL ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+USDT
+ Price: $1.00 Market Cap: $314,914,939.22 
+[%]
+Staked: 0.9667 USDT ($0.97)
+SKULL Per Week: 12800.00 ($0.14)
+APR: Day 2.04% Week 14.26% Year 741.37%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 SKULL ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+USDC
+ Price: $1.00 Market Cap: $1,043,070,193.52 
+[%]
+Staked: 2.8800 USDC ($2.88)
+SKULL Per Week: 12800.00 ($0.14)
+APR: Day 0.68% Week 4.79% Year 248.83%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 SKULL ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $31.86

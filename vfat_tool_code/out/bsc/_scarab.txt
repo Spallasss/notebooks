@@ -1,0 +1,392 @@
+INFO  : https://scarab.farm/
+**********************************************************************************
+
+Mon Aug 23 2021 09:31:58 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 23 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+SCARAB
+ Price: $0.00 Market Cap: $0.00 
+Staked: 374048.1459 SCARAB ($0.00)
+SCARAB Per Week: 5964.50 ($0.96)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SCARAB ($0.00), NaN% of the pool.
+Stake 0.00 SCARAB
+Unstake 0.00 SCARAB
+Claim 0.00 SCARAB ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[SCARAB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $34.21
+SCARAB Price: $0.000161
+BUSD Price: $1.00
+Staked: 1017.3855 Cake-LP ($27.50)
+SCARAB Per Week: 59644.97 ($9.63)
+APR: Day 5.00% Week 35.00% Year 1820.15%
+You are staking 0.00 [SCARAB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SCARAB]-[BUSD] Cake LP
+Unstake 0.00 [SCARAB]-[BUSD] Cake LP
+Claim 0.00 SCARAB ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[SCARAB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.72 TVL: $17.04
+WBNB Price: $488.13
+SCARAB Price: $0.000161
+Staked: 5.9394 Cake-LP ($4.27)
+SCARAB Per Week: 35786.98 ($5.78)
+APR: Day 19.32% Week 135.21% Year 7031.00%
+You are staking 0.00 [WBNB]-[SCARAB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[SCARAB] Cake LP
+Unstake 0.00 [WBNB]-[SCARAB] Cake LP
+Claim 0.00 SCARAB ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+ETH
+ Price: $3,335.06 Market Cap: $4,352,253,300.00 
+[%]
+Staked: 0.0012 ETH ($3.90)
+SCARAB Per Week: 3578.70 ($0.58)
+APR: Day 2.11% Week 14.80% Year 769.58%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 SCARAB ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WBNB
+ Price: $488.13 Market Cap: $3,447,134,091.70 
+[%]
+Staked: 0.0101 WBNB ($4.93)
+SCARAB Per Week: 3578.70 ($0.58)
+APR: Day 1.68% Week 11.73% Year 609.71%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 SCARAB ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[BTCB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $472.00 TVL: $137,391,735.98
+BTCB Price: $49,844.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+SCARAB Per Week: 7157.40 ($1.16)
+APR: Day 222042.45% Week 1554297.12% Year 80823450.20%
+You are staking 0.00 [BTCB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[BUSD] Cake LP
+Claim 0.00 SCARAB ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $226.52 TVL: $1,036,667,489.65
+Cake Price: $25.14
+WBNB Price: $488.13
+Staked: 0.7086 Cake-LP ($160.51)
+SCARAB Per Week: 7157.40 ($1.16)
+APR: Day 0.10% Week 0.72% Year 37.42%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 SCARAB ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.95 TVL: $529,588,648.34
+WBNB Price: $488.13
+BUSD Price: $1.00
+Staked: 4.5637 Cake-LP ($227.95)
+SCARAB Per Week: 7157.40 ($1.16)
+APR: Day 0.07% Week 0.51% Year 26.35%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SCARAB ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,243.96 TVL: $174,419,244.09
+BTCB Price: $49,844.00
+WBNB Price: $488.13
+Staked: 0.0000 Cake-LP ($0.00)
+SCARAB Per Week: 7157.40 ($1.16)
+APR: Day 34594744.45% Week 242163211.18% Year 12592486981.47%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 SCARAB ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,664.89 TVL: $263,024,789.83
+ETH Price: $3,335.06
+WBNB Price: $488.13
+Staked: 0.0000 Cake-LP ($0.00)
+SCARAB Per Week: 7157.40 ($1.16)
+APR: Day 6102.94% Week 42720.60% Year 2221471.34%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 SCARAB ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.56 TVL: $47,039,659.58
+ADA Price: $2.83
+WBNB Price: $488.13
+Staked: 0.0000 Cake-LP ($0.00)
+SCARAB Per Week: 7157.40 ($1.16)
+APR: Day 479128636223.48% Week 3353900453564.33% Year 174402823585345.41%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 SCARAB ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[LTC]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $625.36 TVL: $11,673,934.00
+LTC Price: $189.83
+WBNB Price: $488.13
+Staked: 0.0018 Cake-LP ($1.11)
+SCARAB Per Week: 7157.40 ($1.16)
+APR: Day 14.91% Week 104.38% Year 5427.66%
+You are staking 0.00 [LTC]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LTC]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [LTC]-[WBNB] Cake LP
+Claim 0.00 SCARAB ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WBNB]-[LINK] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $242.03 TVL: $47,831,665.10
+WBNB Price: $488.13
+LINK Price: $28.74
+Staked: 0.0069 Cake-LP ($1.66)
+SCARAB Per Week: 5964.50 ($0.96)
+APR: Day 8.28% Week 57.99% Year 3015.44%
+You are staking 0.00 [WBNB]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LINK] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[LINK] Cake LP
+Claim 0.00 SCARAB ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $242.17 TVL: $83,266,867.13
+DOT Price: $28.18
+WBNB Price: $488.13
+Staked: 0.0089 Cake-LP ($2.14)
+SCARAB Per Week: 5964.50 ($0.96)
+APR: Day 6.41% Week 44.89% Year 2334.51%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 SCARAB ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,310,098.71
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 10.0491 Cake-LP ($20.57)
+SCARAB Per Week: 4771.60 ($0.77)
+APR: Day 0.53% Week 3.74% Year 194.65%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 SCARAB ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,363,580.00
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 3.8400 Cake-LP ($7.82)
+SCARAB Per Week: 4771.60 ($0.77)
+APR: Day 1.41% Week 9.85% Year 512.21%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 SCARAB ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $158,021,486.55
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 4.6543 Cake-LP ($9.58)
+SCARAB Per Week: 4771.60 ($0.77)
+APR: Day 1.15% Week 8.04% Year 417.84%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 SCARAB ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+BTCB
+ Price: $49,844.00 Market Cap: $4,261,711,844.00 
+[%]
+Staked: 0.0003 BTCB ($15.09)
+SCARAB Per Week: 3578.70 ($0.58)
+APR: Day 0.55% Week 3.83% Year 198.99%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 SCARAB ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+Cake
+ Price: $25.14 Market Cap: $10,461,651,251.72 
+[%]
+Staked: 1.6218 Cake ($40.77)
+SCARAB Per Week: 3578.70 ($0.58)
+APR: Day 0.20% Week 1.42% Year 73.65%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 SCARAB ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 0.9608 USDT ($0.96)
+SCARAB Per Week: 2385.80 ($0.39)
+APR: Day 5.73% Week 40.08% Year 2084.22%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 SCARAB ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+BUSD
+ Price: $1.00 Market Cap: $4,197,638,600.48 
+[%]
+Staked: 2.8800 BUSD ($2.88)
+SCARAB Per Week: 2385.80 ($0.39)
+APR: Day 1.91% Week 13.38% Year 695.71%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 SCARAB ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+USDC
+ Price: $1.00 Market Cap: $1,778,268,831.00 
+[%]
+Staked: 98.2816 USDC ($98.24)
+SCARAB Per Week: 2385.80 ($0.39)
+APR: Day 0.06% Week 0.39% Year 20.38%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 SCARAB ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 1.1363 DAI ($1.14)
+SCARAB Per Week: 2385.80 ($0.39)
+APR: Day 4.84% Week 33.88% Year 1761.89%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 SCARAB ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $631.02

@@ -1,0 +1,211 @@
+INFO  : https://polygon.prismfinance.net
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:29:31 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 13 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[PRISM] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $28,554,611.46 TVL: $157.10
+USDC Price: $1.00
+PRISM Price: $0.000243
+Staked: 0.0000 UNI-V2 ($148.88)
+PRISM Per Week: 54752.85 ($13.32)
+APR: Day 1.28% Week 8.95% Year 465.26%
+You are staking 0.00 [USDC]-[PRISM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[PRISM] Uni LP
+Unstake 0.00 [USDC]-[PRISM] Uni LP
+Claim 0.00 PRISM ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[PRISM] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.05 TVL: $130.22
+WMATIC Price: $1.65
+PRISM Price: $0.000243
+Staked: 2222.7064 UNI-V2 ($117.19)
+PRISM Per Week: 54752.85 ($13.32)
+APR: Day 1.62% Week 11.37% Year 591.10%
+You are staking 0.00 [WMATIC]-[PRISM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PRISM] Uni LP
+Unstake 0.00 [WMATIC]-[PRISM] Uni LP
+Claim 0.00 PRISM ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,612,700.98 TVL: $33,389,728.03
+WMATIC Price: $1.65
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($228.06)
+PRISM Per Week: 19711.03 ($4.80)
+APR: Day 0.30% Week 2.10% Year 109.34%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 PRISM ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WMATIC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $188.90 TVL: $123,165,322.70
+WMATIC Price: $1.65
+WETH Price: $3,319.36
+Staked: 138.6657 UNI-V2 ($26,194.11)
+PRISM Per Week: 16425.86 ($4.00)
+APR: Day 0.00% Week 0.02% Year 0.79%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 PRISM ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WMATIC]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $94.99 TVL: $32,023,280.72
+WMATIC Price: $1.65
+QUICK Price: $739.94
+Staked: 7.4583 UNI-V2 ($708.46)
+PRISM Per Week: 16425.86 ($4.00)
+APR: Day 0.08% Week 0.56% Year 29.33%
+You are staking 0.00 [WMATIC]-[QUICK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[QUICK] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[QUICK] Uni LP
+Claim 0.00 PRISM ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+PRISM
+ Price: $0.000243 Market Cap: $607.18 
+[%]
+Staked: 1407857.7663 PRISM ($342.52)
+PRISM Per Week: 21901.14 ($5.33)
+APR: Day 0.22% Week 1.56% Year 80.89%
+You are staking 0.00 PRISM ($0.00), 0.00% of the pool.
+Stake 0.00 PRISM
+Unstake 0.00 PRISM
+Claim 0.00 PRISM ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+USDC
+ Price: $1.00 Market Cap: $1,044,575,134.43 
+[%]
+Staked: 8089.0657 USDC ($8,060.53)
+PRISM Per Week: 15330.80 ($3.73)
+APR: Day 0.01% Week 0.05% Year 2.41%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 PRISM ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WMATIC
+ Price: $1.65 Market Cap: $605,549,883.46 
+[%]
+Staked: 1089.6548 WMATIC ($1,797.93)
+PRISM Per Week: 16425.86 ($4.00)
+APR: Day 0.03% Week 0.22% Year 11.56%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 PRISM ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+USDT
+ Price: $1.00 Market Cap: $314,874,551.44 
+[%]
+Staked: 4853.2030 USDT ($4,848.35)
+PRISM Per Week: 13140.68 ($3.20)
+APR: Day 0.01% Week 0.07% Year 3.43%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 PRISM ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+WBTC
+ Price: $50,128.00 Market Cap: $699,241,209.55 
+[%]
+Staked: 0.0039 WBTC ($194.12)
+PRISM Per Week: 13140.68 ($3.20)
+APR: Day 0.24% Week 1.65% Year 85.64%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 PRISM ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+WETH
+ Price: $3,319.36 Market Cap: $2,026,944,134.45 
+[%]
+Staked: 0.0704 WETH ($233.69)
+PRISM Per Week: 13140.68 ($3.20)
+APR: Day 0.20% Week 1.37% Year 71.14%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 PRISM ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+QUICK
+ Price: $739.94 Market Cap: $708,319,904.41 
+[%]
+Staked: 0.3512 QUICK ($259.83)
+PRISM Per Week: 16425.86 ($4.00)
+APR: Day 0.22% Week 1.54% Year 79.98%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 PRISM ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+AAVE
+ Price: $409.76 Market Cap: $155,985,216.89 
+[%]
+Staked: 1.1420 AAVE ($467.94)
+PRISM Per Week: 16425.86 ($4.00)
+APR: Day 0.12% Week 0.85% Year 44.41%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 PRISM ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $43,601.61

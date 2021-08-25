@@ -1,0 +1,649 @@
+INFO  : https://app.firebird.finance
+*************************************************************************************
+
+Mon Aug 23 2021 11:51:56 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 71 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+1 - 
+[WETH]-[HOPE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $22.07 TVL: $1,080,000.04
+WETH Price: $3,329.41
+HOPE Price: $0.04
+Staked: 48762.7361 FLP ($1,076,375.25)
+HOPE Per Week: 839028.90 ($30,873.87)
+APR: Day 0.41% Week 2.87% Year 149.15%
+You are staking 0.00 [WETH]-[HOPE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[HOPE] Uni LP
+Unstake 0.00 [WETH]-[HOPE] Uni LP
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBTC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,587,172,976.17 TVL: $1,036,166.38
+WBTC Price: $50,159.00
+WETH Price: $3,329.41
+Staked: 0.0004 FLP ($1,036,132.58)
+HOPE Per Week: 83902.89 ($3,087.39)
+APR: Day 0.04% Week 0.30% Year 15.49%
+You are staking 0.00 [WBTC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] Uni LP
+Unstake 0.00 [WBTC]-[WETH] Uni LP
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $115,858,822.79 TVL: $549,310.33
+USDC Price: $1.00
+WETH Price: $3,329.41
+Staked: 0.0047 FLP ($546,113.32)
+HOPE Per Week: 83902.89 ($3,087.39)
+APR: Day 0.08% Week 0.57% Year 29.40%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,591,942.52 TVL: $275,423.60
+WMATIC Price: $1.65
+USDC Price: $1.00
+Staked: 0.1052 FLP ($272,545.20)
+HOPE Per Week: 83902.89 ($3,087.39)
+APR: Day 0.16% Week 1.13% Year 58.91%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WMATIC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $148.94 TVL: $439,431.39
+WMATIC Price: $1.65
+WETH Price: $3,329.41
+Staked: 2949.9940 FLP ($439,358.85)
+HOPE Per Week: 83902.89 ($3,087.39)
+APR: Day 0.10% Week 0.70% Year 36.54%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[USDC]-[TITAN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $15,641,082.75 TVL: $476,861,866.40
+USDC Price: $1.00
+TITAN Price: $0.01
+Staked: 29.9380 FLP ($468,262,283.16)
+HOPE Per Week: 41951.45 ($1,543.69)
+APR: Day 0.00% Week 0.00% Year 0.02%
+You are staking 0.00 [USDC]-[TITAN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[TITAN] Uni LP
+Unstake 0.00 [USDC]-[TITAN] Uni LP
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+3FBird
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1099618.9447 3FBird ($0.00)
+HOPE Per Week: 167805.78 ($6,174.77)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 3FBird ($0.00), NaN% of the pool.
+Stake 0.00 3FBird
+Unstake 0.00 3FBird
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+9 - Wrapped 
+[WBTC]-[WETH] SLP
+ Price: $2,669,348,664.88 TVL: $196,394.67
+Staked: 0.0001 vaultWETHWBTC ($171,907.77)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.03% Week 0.18% Year 9.34%
+You are staking 0.00 vaultWETHWBTC ($0.00), 0.00% of the pool.
+Stake 0.00 vaultWETHWBTC
+Unstake 0.00 vaultWETHWBTC
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+10 - Wrapped 
+[WBTC]-[WETH] Uni LP
+ Price: $1,316,494,095,166.89 TVL: $210,804.29
+Staked: 0.0000 vaultWETHWBTC ($207,039.69)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.02% Week 0.15% Year 7.75%
+You are staking 0.00 vaultWETHWBTC ($0.00), 0.00% of the pool.
+Stake 0.00 vaultWETHWBTC
+Unstake 0.00 vaultWETHWBTC
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WMATIC]-[HOPE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.51 TVL: $1,047,008.27
+WMATIC Price: $1.65
+HOPE Price: $0.04
+Staked: 2051638.4321 FLP ($1,044,157.03)
+HOPE Per Week: 839028.90 ($30,873.87)
+APR: Day 0.42% Week 2.96% Year 153.75%
+You are staking 0.00 [WMATIC]-[HOPE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[HOPE] Uni LP
+Unstake 0.00 [WMATIC]-[HOPE] Uni LP
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+15 - vaultKNCWETH Price: $0.00 TVL: $0.00
+Staked: 2647.3332 vaultKNCWETH ($0.00)
+HOPE Per Week: 16780.58 ($617.48)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 vaultKNCWETH ($0.00), NaN% of the pool.
+Stake 0.00 vaultKNCWETH
+Unstake 0.00 vaultKNCWETH
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+16 - vaultUSDCWETH Price: $0.00 TVL: $0.00
+Staked: 0.0009 vaultUSDCWETH ($0.00)
+HOPE Per Week: 16780.58 ($617.48)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 vaultUSDCWETH ($0.00), NaN% of the pool.
+Stake 0.00 vaultUSDCWETH
+Unstake 0.00 vaultUSDCWETH
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+17 - vaultUSDCDAI Price: $0.00 TVL: $0.00
+Staked: 0.0608 vaultUSDCDAI ($0.00)
+HOPE Per Week: 16780.58 ($617.48)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 vaultUSDCDAI ($0.00), NaN% of the pool.
+Stake 0.00 vaultUSDCDAI
+Unstake 0.00 vaultUSDCDAI
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+18 - vaultUSDCUSDT Price: $0.00 TVL: $0.00
+Staked: 0.0000 vaultUSDCUSDT ($0.00)
+HOPE Per Week: 16780.58 ($617.48)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 vaultUSDCUSDT ($0.00), NaN% of the pool.
+Stake 0.00 vaultUSDCUSDT
+Unstake 0.00 vaultUSDCUSDT
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+19 - vaultWMATICKNC Price: $0.00 TVL: $0.00
+Staked: 107287.1471 vaultWMATICKNC ($0.00)
+HOPE Per Week: 16780.58 ($617.48)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 vaultWMATICKNC ($0.00), NaN% of the pool.
+Stake 0.00 vaultWMATICKNC
+Unstake 0.00 vaultWMATICKNC
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+20 - vaultWMATICDAI Price: $0.00 TVL: $0.00
+Staked: 59953.2877 vaultWMATICDAI ($0.00)
+HOPE Per Week: 16780.58 ($617.48)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 vaultWMATICDAI ($0.00), NaN% of the pool.
+Stake 0.00 vaultWMATICDAI
+Unstake 0.00 vaultWMATICDAI
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+26 - vaultpWINGS Price: $0.00 TVL: $0.00
+Staked: 9346.1744 vaultpWINGS ($0.00)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 vaultpWINGS ($0.00), NaN% of the pool.
+Stake 0.00 vaultpWINGS
+Unstake 0.00 vaultpWINGS
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+29 - Wrapped 
+[WMATIC]-[pWINGS] Uni LP
+ Price: $15.17 TVL: $213,692.77
+Staked: 1458.3557 vaultWMATICpWINGS ($22,130.37)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.20% Week 1.40% Year 72.54%
+You are staking 0.00 vaultWMATICpWINGS ($0.00), 0.00% of the pool.
+Stake 0.00 vaultWMATICpWINGS
+Unstake 0.00 vaultWMATICpWINGS
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+30 - Wrapped 
+[WBTC]-[WETH] Uni LP
+ Price: $2,654,379,493.50 TVL: $188,878.14
+Staked: 0.0001 vaultWBTCWETH ($182,106.56)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.02% Week 0.17% Year 8.82%
+You are staking 0.00 vaultWBTCWETH ($0.00), 0.00% of the pool.
+Stake 0.00 vaultWBTCWETH
+Unstake 0.00 vaultWBTCWETH
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+31 - Wrapped 
+[USDC]-[USDT] Uni LP
+ Price: $2,031,671,800,070.04 TVL: $107,532.86
+Staked: 0.0000 vaultUSDCUSDT ($103,523.13)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.04% Week 0.30% Year 15.51%
+You are staking 0.00 vaultUSDCUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 vaultUSDCUSDT
+Unstake 0.00 vaultUSDCUSDT
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+32 - Wrapped 
+[USDC]-[DAI] Uni LP
+ Price: $2,030,532.87 TVL: $126,884.40
+Staked: 0.0615 vaultUSDCDAI ($124,864.90)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.04% Week 0.25% Year 12.86%
+You are staking 0.00 vaultUSDCDAI ($0.00), 0.00% of the pool.
+Stake 0.00 vaultUSDCDAI
+Unstake 0.00 vaultUSDCDAI
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+33 - Wrapped 
+[WMATIC]-[WETH] Uni LP
+ Price: $157.96 TVL: $229,299.35
+Staked: 1393.4765 vaultWETHWMATIC ($220,115.37)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.02% Week 0.14% Year 7.29%
+You are staking 0.00 vaultWETHWMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 vaultWETHWMATIC
+Unstake 0.00 vaultWETHWMATIC
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+34 - Wrapped 
+[WMATIC]-[USDC] Uni LP
+ Price: $2,873,958.31 TVL: $45,635.01
+Staked: 0.0148 vaultUSDCWMATIC ($42,603.39)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.10% Week 0.72% Year 37.68%
+You are staking 0.00 vaultUSDCWMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 vaultUSDCWMATIC
+Unstake 0.00 vaultUSDCWMATIC
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+35 - Wrapped 
+[WMATIC]-[USDT] Uni LP
+ Price: $2,763,802.34 TVL: $24,744.66
+Staked: 0.0083 vaultUSDTWMATIC ($23,063.12)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.19% Week 1.34% Year 69.61%
+You are staking 0.00 vaultUSDTWMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 vaultUSDTWMATIC
+Unstake 0.00 vaultUSDTWMATIC
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+36 - 
+[ICE]-[HOPE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.20 TVL: $107,180.87
+ICE Price: $0.28
+HOPE Price: $0.04
+Staked: 521783.6508 FLP ($106,482.75)
+HOPE Per Week: 167805.78 ($6,174.77)
+APR: Day 0.83% Week 5.80% Year 301.54%
+You are staking 0.00 [ICE]-[HOPE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ICE]-[HOPE] Uni LP
+Unstake 0.00 [ICE]-[HOPE] Uni LP
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+37 - vaultIS3USD Price: $0.00 TVL: $0.00
+Staked: 5957043.6506 vaultIS3USD ($0.00)
+HOPE Per Week: 83902.89 ($3,087.39)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 vaultIS3USD ($0.00), NaN% of the pool.
+Stake 0.00 vaultIS3USD
+Unstake 0.00 vaultIS3USD
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+38 - Wrapped 
+[USDC]-[ICE] DFYN LP
+ Price: $5,056,141.94 TVL: $2,433,181.31
+Staked: 0.1140 vaultICEUSDC ($576,229.64)
+HOPE Per Week: 16780.58 ($617.48)
+APR: Day 0.02% Week 0.11% Year 5.57%
+You are staking 0.00 vaultICEUSDC ($0.00), 0.00% of the pool.
+Stake 0.00 vaultICEUSDC
+Unstake 0.00 vaultICEUSDC
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+39 - Wrapped 
+[ICE]-[WETH] Uni LP
+ Price: $300.61 TVL: $1,427,355.62
+Staked: 811.5794 vaultICEWETH ($243,965.56)
+HOPE Per Week: 16780.58 ($617.48)
+APR: Day 0.04% Week 0.25% Year 13.16%
+You are staking 0.00 vaultICEWETH ($0.00), 0.00% of the pool.
+Stake 0.00 vaultICEWETH
+Unstake 0.00 vaultICEWETH
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+40 - Wrapped 
+[ICE]-[DFYN] DFYN LP
+ Price: $3.08 TVL: $424,803.86
+Staked: 51673.3604 vaultICEDFYN ($159,354.69)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.03% Week 0.19% Year 10.07%
+You are staking 0.00 vaultICEDFYN ($0.00), 0.00% of the pool.
+Stake 0.00 vaultICEDFYN
+Unstake 0.00 vaultICEDFYN
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+41 - Wrapped 
+[ICE]-[HOPE] Uni LP
+ Price: $0.38 TVL: $95,716.22
+Staked: 132043.6566 vaultICEHOPE ($50,535.11)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.09% Week 0.61% Year 31.77%
+You are staking 0.00 vaultICEHOPE ($0.00), 0.00% of the pool.
+Stake 0.00 vaultICEHOPE
+Unstake 0.00 vaultICEHOPE
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+46 - Wrapped 
+[USDC]-[DINO] SLP
+ Price: $3,209,322.91 TVL: $37,850.84
+Staked: 0.0060 vaultUSDCDINO ($19,189.69)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.23% Week 1.61% Year 83.66%
+You are staking 0.00 vaultUSDCDINO ($0.00), 0.00% of the pool.
+Stake 0.00 vaultUSDCDINO
+Unstake 0.00 vaultUSDCDINO
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+47 - Wrapped 
+[BEL]-[WETH] Uni LP
+ Price: $210.58 TVL: $20,219.22
+Staked: 84.9691 vaultBELWETH ($17,892.53)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.25% Week 1.73% Year 89.73%
+You are staking 0.00 vaultBELWETH ($0.00), 0.00% of the pool.
+Stake 0.00 vaultBELWETH
+Unstake 0.00 vaultBELWETH
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+48 - Wrapped 
+[WETH]-[DFYN] DFYN LP
+ Price: $201.14 TVL: $348,358.68
+Staked: 1275.0163 vaultDFYNWETH ($256,456.68)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.02% Week 0.12% Year 6.26%
+You are staking 0.00 vaultDFYNWETH ($0.00), 0.00% of the pool.
+Stake 0.00 vaultDFYNWETH
+Unstake 0.00 vaultDFYNWETH
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+49 - Wrapped 
+[UST]-[USDT] DFYN LP
+ Price: $2,045,109.20 TVL: $154,104.28
+Staked: 0.0676 vaultUSTUSDT ($138,157.40)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.03% Week 0.22% Year 11.62%
+You are staking 0.00 vaultUSTUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 vaultUSTUSDT
+Unstake 0.00 vaultUSTUSDT
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+50 - Wrapped 
+[WETH]-[DINO] Uni LP
+ Price: $139.26 TVL: $21,148.56
+Staked: 118.1943 vaultDINOWETH ($16,459.98)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.27% Week 1.88% Year 97.54%
+You are staking 0.00 vaultDINOWETH ($0.00), 0.00% of the pool.
+Stake 0.00 vaultDINOWETH
+Unstake 0.00 vaultDINOWETH
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+51 - Wrapped 
+[USDC]-[USDT] PolyCat LP
+ Price: $2,000,935,055,671.07 TVL: $914,502.76
+Staked: 0.0000 vaultUSDCUSDT ($434,274.35)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.01% Week 0.07% Year 3.70%
+You are staking 0.00 vaultUSDCUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 vaultUSDCUSDT
+Unstake 0.00 vaultUSDCUSDT
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+52 - Wrapped 
+[USDC]-[DAI] PolyCat LP
+ Price: $63,276,753.69 TVL: $816,820.43
+Staked: 0.0079 vaultDAIUSDC ($497,472.81)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.01% Week 0.06% Year 3.23%
+You are staking 0.00 vaultDAIUSDC ($0.00), 0.00% of the pool.
+Stake 0.00 vaultDAIUSDC
+Unstake 0.00 vaultDAIUSDC
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+53 - Wrapped 
+[WBTC]-[WETH] PolyCat LP
+ Price: $2,589,599,462.23 TVL: $2,289,889.99
+Staked: 0.0008 vaultWETHWBTC ($2,193,851.69)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.00% Week 0.01% Year 0.73%
+You are staking 0.00 vaultWETHWBTC ($0.00), 0.00% of the pool.
+Stake 0.00 vaultWETHWBTC
+Unstake 0.00 vaultWETHWBTC
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+54 - Wrapped 
+[WBTC]-[USDT] PolyCat LP
+ Price: $44,984,010,622,186.59 TVL: $101,125.80
+Staked: 0.0000 vaultUSDTWBTC ($35,727.07)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.12% Week 0.86% Year 44.94%
+You are staking 0.00 vaultUSDTWBTC ($0.00), 0.00% of the pool.
+Stake 0.00 vaultUSDTWBTC
+Unstake 0.00 vaultUSDTWBTC
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+55 - Wrapped 
+[WMATIC]-[WETH] PolyCat LP
+ Price: $149.09 TVL: $694,412.87
+Staked: 3462.0286 vaultWETHWMATIC ($516,164.59)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.01% Week 0.06% Year 3.11%
+You are staking 0.00 vaultWETHWMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 vaultWETHWMATIC
+Unstake 0.00 vaultWETHWMATIC
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+56 - Wrapped 
+[WMATIC]-[DAI] PolyCat LP
+ Price: $2.59 TVL: $190,771.36
+Staked: 64572.0111 vaultDAIWMATIC ($167,432.72)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.03% Week 0.18% Year 9.59%
+You are staking 0.00 vaultDAIWMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 vaultDAIWMATIC
+Unstake 0.00 vaultDAIWMATIC
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+59 - Wrapped 
+[WMATIC]-[FISH] PolyCat LP
+ Price: $6.11 TVL: $186,387.80
+Staked: 15561.8324 vaultFISHWMATIC ($95,077.98)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.05% Week 0.32% Year 16.89%
+You are staking 0.00 vaultFISHWMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 vaultFISHWMATIC
+Unstake 0.00 vaultFISHWMATIC
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+60 - Wrapped 
+[DAI]-[USDT] PolyCat LP
+ Price: $1,998,127.57 TVL: $2,176,692.61
+Staked: 0.9846 vaultDAIUSDT ($1,967,278.77)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.00% Week 0.02% Year 0.82%
+You are staking 0.00 vaultDAIUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 vaultDAIUSDT
+Unstake 0.00 vaultDAIUSDT
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+61 - Wrapped 
+[WMATIC]-[USDT] PolyCat LP
+ Price: $2,579,571.20 TVL: $140,982.41
+Staked: 0.0411 vaultUSDTWMATIC ($106,088.59)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.04% Week 0.29% Year 15.13%
+You are staking 0.00 vaultUSDTWMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 vaultUSDTWMATIC
+Unstake 0.00 vaultUSDTWMATIC
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+62 - Wrapped 
+[WMATIC]-[USDC] PolyCat LP
+ Price: $2,598,113.65 TVL: $259,249.65
+Staked: 0.0547 vaultUSDCWMATIC ($142,128.01)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.03% Week 0.22% Year 11.30%
+You are staking 0.00 vaultUSDCWMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 vaultUSDCWMATIC
+Unstake 0.00 vaultUSDCWMATIC
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+63 - Wrapped 
+[WMATIC]-[WBTC] PolyCat LP
+ Price: $57,669,345.44 TVL: $233,938.96
+Staked: 0.0024 vaultWBTCWMATIC ($136,639.54)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.03% Week 0.23% Year 11.75%
+You are staking 0.00 vaultWBTCWMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 vaultWBTCWMATIC
+Unstake 0.00 vaultWBTCWMATIC
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+64 - Wrapped 
+[WBTC]-[DAI] PolyCat LP
+ Price: $6,515,109,554.82 TVL: $217,316.93
+Staked: 0.0000 vaultDAIWBTC ($162,386.09)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.03% Week 0.19% Year 9.89%
+You are staking 0.00 vaultDAIWBTC ($0.00), 0.00% of the pool.
+Stake 0.00 vaultDAIWBTC
+Unstake 0.00 vaultDAIWBTC
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+65 - Wrapped 
+[FISH]-[WETH] PolyCat LP
+ Price: $273.60 TVL: $113,179.36
+Staked: 224.3245 vaultFISHWETH ($61,375.01)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.07% Week 0.50% Year 26.16%
+You are staking 0.00 vaultFISHWETH ($0.00), 0.00% of the pool.
+Stake 0.00 vaultFISHWETH
+Unstake 0.00 vaultFISHWETH
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+66 - Wrapped 
+[USDC]-[FISH] PolyCat LP
+ Price: $4,754,368.17 TVL: $108,384.09
+Staked: 0.0140 vaultFISHUSDC ($66,371.36)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.07% Week 0.47% Year 24.19%
+You are staking 0.00 vaultFISHUSDC ($0.00), 0.00% of the pool.
+Stake 0.00 vaultFISHUSDC
+Unstake 0.00 vaultFISHUSDC
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+67 - Wrapped 
+[WETH]-[PAW] PolyCat LP
+ Price: $141.12 TVL: $114,979.05
+Staked: 467.3894 vaultPAWV2WETH ($65,956.70)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.07% Week 0.47% Year 24.34%
+You are staking 0.00 vaultPAWV2WETH ($0.00), 0.00% of the pool.
+Stake 0.00 vaultPAWV2WETH
+Unstake 0.00 vaultPAWV2WETH
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+68 - Wrapped 
+[WMATIC]-[PAW] PolyCat LP
+ Price: $3.13 TVL: $145,352.68
+Staked: 15024.0756 vaultPAWV2WMATIC ($47,045.39)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.09% Week 0.66% Year 34.13%
+You are staking 0.00 vaultPAWV2WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 vaultPAWV2WMATIC
+Unstake 0.00 vaultPAWV2WMATIC
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+69 - Wrapped 
+[FISH]-[PAW] PolyCat LP
+ Price: $5.77 TVL: $27,945.20
+Staked: 3117.7646 vaultPAWV2FISH ($17,975.01)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.25% Week 1.72% Year 89.32%
+You are staking 0.00 vaultPAWV2FISH ($0.00), 0.00% of the pool.
+Stake 0.00 vaultPAWV2FISH
+Unstake 0.00 vaultPAWV2FISH
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+70 - Wrapped 
+[USDC]-[PAW] PolyCat LP
+ Price: $2,485,892.22 TVL: $82,158.51
+Staked: 0.0150 vaultPAWV2USDC ($37,220.35)
+HOPE Per Week: 8390.29 ($308.74)
+APR: Day 0.12% Week 0.83% Year 43.13%
+You are staking 0.00 vaultPAWV2USDC ($0.00), 0.00% of the pool.
+Stake 0.00 vaultPAWV2USDC
+Unstake 0.00 vaultPAWV2USDC
+Claim 0.00 HOPE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $482,109,509.73

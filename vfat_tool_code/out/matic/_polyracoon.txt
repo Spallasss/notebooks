@@ -1,0 +1,160 @@
+INFO  : https://polyracoon.com
+TG : https://t.me/polyracoon
+BUY RACOON : https://quickswap.exchange/#/swap?outputCurrency=0xC07F279830aaFA63e25c87227B45e426E84E6DB2
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here 
+https://docs.matic.network/docs/develop/network-details/network/
+ ***
+
+Mon Aug 23 2021 12:03:10 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 9 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[RACOON] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8,379.14 TVL: $8.87
+USDC Price: $1.00
+RACOON Price: $0.0000107721
+Staked: 0.0002 UNI-V2 ($1.32)
+RACOON Per Week: 61714.29 ($0.66)
+APR: Day 7.20% Week 50.42% Year 2621.75%
+You are staking 0.00 [USDC]-[RACOON] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[RACOON] Uni LP
+Unstake 0.00 [USDC]-[RACOON] Uni LP
+Claim 0.00 RACOON ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[RACOON] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $5.94
+WMATIC Price: $1.65
+RACOON Price: $0.0000107721
+Staked: 179.1995 UNI-V2 ($1.85)
+RACOON Per Week: 61714.29 ($0.66)
+APR: Day 5.14% Week 35.98% Year 1870.71%
+You are staking 0.00 [WMATIC]-[RACOON] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[RACOON] Uni LP
+Unstake 0.00 [WMATIC]-[RACOON] Uni LP
+Claim 0.00 RACOON ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,615,733.29 TVL: $33,413,202.55
+WMATIC Price: $1.65
+USDC Price: $1.00
+Staked: 0.0001 UNI-V2 ($397.35)
+RACOON Per Week: 28800.00 ($0.31)
+APR: Day 0.01% Week 0.08% Year 4.06%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 RACOON ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,805,552.94 TVL: $148,101,749.86
+USDC Price: $1.00
+WETH Price: $3,324.85
+Staked: 0.0000 UNI-V2 ($1.03)
+RACOON Per Week: 28800.00 ($0.31)
+APR: Day 4.32% Week 30.23% Year 1571.78%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 RACOON ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+RACOON
+ Price: $0.0000107721 Market Cap: $19.71 
+[%]
+Staked: 816828.8938 RACOON ($8.80)
+RACOON Per Week: 28800.00 ($0.31)
+APR: Day 0.50% Week 3.53% Year 183.34%
+You are staking 0.00 RACOON ($0.00), 0.00% of the pool.
+Stake 0.00 RACOON
+Unstake 0.00 RACOON
+Claim 0.00 RACOON ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WMATIC
+ Price: $1.65 Market Cap: $605,604,455.69 
+[%]
+Staked: 24.1390 WMATIC ($39.83)
+RACOON Per Week: 16457.14 ($0.18)
+APR: Day 0.06% Week 0.45% Year 23.14%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 RACOON ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+USDC
+ Price: $1.00 Market Cap: $1,046,361,744.36 
+[%]
+Staked: 108.1125 USDC ($107.87)
+RACOON Per Week: 16457.14 ($0.18)
+APR: Day 0.02% Week 0.16% Year 8.55%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 RACOON ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+USDC
+ Price: $1.00 Market Cap: $1,046,361,744.36 
+[%]
+Staked: 108.1125 USDC ($107.87)
+RACOON Per Week: 16457.14 ($0.18)
+APR: Day 0.02% Week 0.16% Year 8.55%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 RACOON ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+WETH
+ Price: $3,324.85 Market Cap: $2,030,797,972.87 
+[%]
+Staked: 0.0020 WETH ($6.79)
+RACOON Per Week: 28800.00 ($0.31)
+APR: Day 0.65% Week 4.57% Year 237.45%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 RACOON ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $672.70

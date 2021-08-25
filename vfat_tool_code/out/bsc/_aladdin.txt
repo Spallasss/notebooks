@@ -1,0 +1,417 @@
+INFO  : https://1001nights.gold
+*********************************************************************************
+
+Mon Aug 23 2021 15:11:37 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 25 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.98 TVL: $526,632,322.50
+WBNB Price: $489.11
+BUSD Price: $1.00
+Staked: 0.0200 Cake-LP ($1.00)
+ALADDIN Per Week: 471.16 ($2.05)
+APR: Day 29.36% Week 205.49% Year 10685.29%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 ALADDIN ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[USDT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.88 TVL: $252,204,907.83
+USDT Price: $1.00
+WBNB Price: $489.11
+Staked: 0.0308 Cake-LP ($1.57)
+ALADDIN Per Week: 424.05 ($1.85)
+APR: Day 16.83% Week 117.81% Year 6125.96%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 ALADDIN ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,254.31 TVL: $174,595,581.19
+BTCB Price: $49,844.00
+WBNB Price: $489.11
+Staked: 0.0001 Cake-LP ($1.08)
+ALADDIN Per Week: 424.05 ($1.85)
+APR: Day 24.36% Week 170.50% Year 8865.98%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 ALADDIN ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,667.02 TVL: $263,235,598.64
+ETH Price: $3,333.60
+WBNB Price: $489.11
+Staked: 0.0029 Cake-LP ($7.71)
+ALADDIN Per Week: 424.05 ($1.85)
+APR: Day 3.42% Week 23.96% Year 1245.95%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 ALADDIN ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $227.70 TVL: $1,041,667,823.03
+Cake Price: $25.35
+WBNB Price: $489.11
+Staked: 0.0044 Cake-LP ($1.00)
+ALADDIN Per Week: 376.93 ($1.64)
+APR: Day 23.40% Week 163.81% Year 8517.99%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 ALADDIN ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[Cake]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13.49 TVL: $66,712,461.71
+Cake Price: $25.35
+BUSD Price: $1.00
+Staked: 1.0003 Cake-LP ($13.50)
+ALADDIN Per Week: 376.93 ($1.64)
+APR: Day 1.74% Week 12.16% Year 632.27%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 ALADDIN ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $242.50 TVL: $83,394,032.11
+DOT Price: $28.20
+WBNB Price: $489.11
+Staked: 0.0000 Cake-LP ($0.00)
+ALADDIN Per Week: 376.93 ($1.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 ALADDIN ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.64 TVL: $47,075,572.76
+ADA Price: $2.83
+WBNB Price: $489.11
+Staked: 0.2026 Cake-LP ($15.73)
+ALADDIN Per Week: 376.93 ($1.64)
+APR: Day 1.49% Week 10.43% Year 542.62%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 ALADDIN ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,192,249.89
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.4800 Cake-LP ($0.98)
+ALADDIN Per Week: 376.93 ($1.64)
+APR: Day 23.87% Week 167.09% Year 8688.47%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 ALADDIN ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.03 TVL: $81,321,762.48
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.4992 Cake-LP ($1.02)
+ALADDIN Per Week: 376.93 ($1.64)
+APR: Day 23.08% Week 161.55% Year 8400.76%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 ALADDIN ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,950,225.96
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+ALADDIN Per Week: 376.93 ($1.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 ALADDIN ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[USDT]-[USDC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $125,100,904.87
+USDT Price: $1.00
+USDC Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+ALADDIN Per Week: 376.93 ($1.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDT]-[USDC] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[USDC] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[USDC] Cake LP
+Claim 0.00 ALADDIN ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+BUSD
+ Price: $1.00 Market Cap: $4,194,429,036.93 
+[%]
+Staked: 1.0003 BUSD ($1.00)
+ALADDIN Per Week: 329.82 ($1.44)
+APR: Day 20.54% Week 143.78% Year 7476.41%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 ALADDIN ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 0.9600 USDT ($0.96)
+ALADDIN Per Week: 329.82 ($1.44)
+APR: Day 21.37% Week 149.61% Year 7779.74%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 ALADDIN ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+WBNB
+ Price: $489.11 Market Cap: $3,448,025,226.85 
+[%]
+Staked: 0.0118 WBNB ($5.77)
+ALADDIN Per Week: 329.82 ($1.44)
+APR: Day 3.55% Week 24.87% Year 1293.03%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 ALADDIN ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+BTCB
+ Price: $49,844.00 Market Cap: $4,261,711,844.00 
+[%]
+Staked: 0.0001 BTCB ($4.52)
+ALADDIN Per Week: 188.47 ($0.82)
+APR: Day 2.59% Week 18.15% Year 943.98%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 ALADDIN ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+ETH
+ Price: $3,333.60 Market Cap: $4,350,348,000.00 
+[%]
+Staked: 0.0001 ETH ($0.32)
+ALADDIN Per Week: 188.47 ($0.82)
+APR: Day 36.47% Week 255.29% Year 13274.94%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 ALADDIN ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+Cake
+ Price: $25.35 Market Cap: $10,549,123,499.25 
+[%]
+Staked: 0.2104 Cake ($5.33)
+ALADDIN Per Week: 188.47 ($0.82)
+APR: Day 2.20% Week 15.39% Year 800.06%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 ALADDIN ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 0.0000 DAI ($0.00)
+ALADDIN Per Week: 188.47 ($0.82)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DAI ($0.00), NaN% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 ALADDIN ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,863,219.00 
+[%]
+Staked: 0.3386 USDC ($0.34)
+ALADDIN Per Week: 188.47 ($0.82)
+APR: Day 34.64% Week 242.47% Year 12608.65%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 ALADDIN ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+DOT
+ Price: $28.20 Market Cap: $394,799,999.86 
+[%]
+Staked: 0.2880 DOT ($8.12)
+ALADDIN Per Week: 188.47 ($0.82)
+APR: Day 1.44% Week 10.10% Year 525.38%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 ALADDIN ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+ADA
+ Price: $2.83 Market Cap: $792,400,000.00 
+[%]
+Staked: 0.2880 ADA ($0.82)
+ALADDIN Per Week: 282.70 ($1.23)
+APR: Day 21.57% Week 151.02% Year 7852.84%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 ALADDIN ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[ALADDIN]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.14 TVL: $177.47
+ALADDIN Price: $0.004354
+BUSD Price: $1.00
+Staked: 584.2252 Cake-LP ($81.74)
+ALADDIN Per Week: 4711.64 ($20.51)
+APR: Day 3.59% Week 25.10% Year 1305.10%
+You are staking 0.00 [ALADDIN]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALADDIN]-[BUSD] Cake LP
+Unstake 0.00 [ALADDIN]-[BUSD] Cake LP
+Claim 0.00 ALADDIN ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[ALADDIN]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.26 TVL: $26.08
+ALADDIN Price: $0.004354
+WBNB Price: $489.11
+Staked: 7.9058 Cake-LP ($25.75)
+ALADDIN Per Week: 4240.48 ($18.46)
+APR: Day 10.24% Week 71.71% Year 3728.79%
+You are staking 0.00 [ALADDIN]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALADDIN]-[WBNB] Cake LP
+Unstake 0.00 [ALADDIN]-[WBNB] Cake LP
+Claim 0.00 ALADDIN ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+ALADDIN
+ Price: $0.004354 Market Cap: $997.83 
+[%]
+Staked: 92934.6390 ALADDIN ($404.63)
+ALADDIN Per Week: 2826.99 ($12.31)
+APR: Day 0.43% Week 3.04% Year 158.18%
+You are staking 0.00 ALADDIN ($0.00), 0.00% of the pool.
+Stake 0.00 ALADDIN
+Unstake 0.00 ALADDIN
+Claim 0.00 ALADDIN ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $582.87

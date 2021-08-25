@@ -1,0 +1,95 @@
+INFO  : https://bundledao.org
+****************************************************************************************
+
+Mon Aug 23 2021 14:39:44 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 4 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[BDL]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.83 TVL: $76,405.68
+BDL Price: $0.001662
+WBNB Price: $484.17
+Staked: 40655.3246 Cake-LP ($74,420.93)
+BDL Per Week: 2646000.00 ($4,398.17)
+APR: Day 0.84% Week 5.91% Year 307.31%
+You are staking 0.00 [BDL]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BDL]-[WBNB] Cake LP
+Unstake 0.00 [BDL]-[WBNB] Cake LP
+Claim 0.00 BDL ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[bDEFI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.48 TVL: $33,781.46
+bDEFI Price: $1.52
+BUSD Price: $1.00
+Staked: 13373.7799 Cake-LP ($33,231.37)
+BDL Per Week: 529200.00 ($879.63)
+APR: Day 0.38% Week 2.65% Year 137.64%
+You are staking 0.00 [bDEFI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bDEFI]-[BUSD] Cake LP
+Unstake 0.00 [bDEFI]-[BUSD] Cake LP
+Claim 0.00 BDL ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[bCHAIN]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.59 TVL: $62,818.68
+bCHAIN Price: $1.66
+BUSD Price: $1.00
+Staked: 24190.9769 Cake-LP ($62,746.03)
+BDL Per Week: 529200.00 ($879.63)
+APR: Day 0.20% Week 1.40% Year 72.90%
+You are staking 0.00 [bCHAIN]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bCHAIN]-[BUSD] Cake LP
+Unstake 0.00 [bCHAIN]-[BUSD] Cake LP
+Claim 0.00 BDL ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[bSTBL]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.99 TVL: $130,542.23
+bSTBL Price: $0.98
+BUSD Price: $1.00
+Staked: 65504.2385 Cake-LP ($130,156.22)
+BDL Per Week: 529200.00 ($879.63)
+APR: Day 0.10% Week 0.68% Year 35.14%
+You are staking 0.00 [bSTBL]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bSTBL]-[BUSD] Cake LP
+Unstake 0.00 [bSTBL]-[BUSD] Cake LP
+Claim 0.00 BDL ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $300,554.55

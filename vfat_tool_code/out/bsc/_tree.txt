@@ -1,0 +1,343 @@
+INFO  : https://app.treedefi.com
+**********************************************************************************
+
+Mon Aug 23 2021 14:02:16 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 26 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[SEED]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $188.51 TVL: $612,992.39
+SEED Price: $11.27
+WBNB Price: $483.66
+Staked: 3076.6172 Cake-LP ($579,958.46)
+SEED Per Week: 2175.41 ($24,507.95)
+APR: Day 0.60% Week 4.23% Year 219.74%
+You are staking 0.00 [SEED]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SEED]-[WBNB] Cake LP
+Unstake 0.00 [SEED]-[WBNB] Cake LP
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[SEED]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8.92 TVL: $1,227,378.25
+SEED Price: $11.27
+BUSD Price: $1.00
+Staked: 130486.6985 Cake-LP ($1,163,316.27)
+SEED Per Week: 5801.09 ($65,354.53)
+APR: Day 0.80% Week 5.62% Year 292.13%
+You are staking 0.00 [SEED]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SEED]-[BUSD] Cake LP
+Unstake 0.00 [SEED]-[BUSD] Cake LP
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.50 TVL: $3,328,417.49
+WBNB Price: $483.66
+BUSD Price: $1.00
+Staked: 9389.0833 Cake-LP ($605,606.04)
+SEED Per Week: 870.16 ($9,803.18)
+APR: Day 0.23% Week 1.62% Year 84.17%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $2,586,449.29
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 421764.0878 Cake-LP ($863,170.13)
+SEED Per Week: 616.37 ($6,943.92)
+APR: Day 0.11% Week 0.80% Year 41.83%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+SEED
+ Price: $11.27 Market Cap: $5,931,156.79 
+[%]
+Staked: 253377.4242 SEED ($2,854,525.31)
+SEED Per Week: 3625.68 ($40,846.58)
+APR: Day 0.20% Week 1.43% Year 74.41%
+You are staking 0.00 SEED ($0.00), 0.00% of the pool.
+Stake 0.00 SEED
+Unstake 0.00 SEED
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WBNB
+ Price: $483.66 Market Cap: $3,426,937,918.48 
+[%]
+Staked: 1682.2718 WBNB ($813,647.56)
+SEED Per Week: 290.05 ($3,267.73)
+APR: Day 0.06% Week 0.40% Year 20.88%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 3%
+Unstake 0.00 WBNB
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+BTCB
+ Price: $50,221.00 Market Cap: $4,293,945,721.00 
+[%]
+Staked: 6.8422 BTCB ($343,623.80)
+SEED Per Week: 145.03 ($1,633.86)
+APR: Day 0.07% Week 0.48% Year 24.72%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 3%
+Unstake 0.00 BTCB
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+USDT
+ Price: $1.00 Market Cap: $3,377,097,883.96 
+[%]
+Staked: 56941.8720 USDT ($56,893.02)
+SEED Per Week: 36.26 ($408.47)
+APR: Day 0.10% Week 0.72% Year 37.33%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 3%
+Unstake 0.00 USDT
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+DAI
+ Price: $1.00 Market Cap: $261,817,648.00 
+[%]
+Staked: 58340.1645 DAI ($58,299.56)
+SEED Per Week: 36.26 ($408.47)
+APR: Day 0.10% Week 0.70% Year 36.43%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 3%
+Unstake 0.00 DAI
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+BUSD
+ Price: $1.00 Market Cap: $4,199,079,543.27 
+[%]
+Staked: 60229.4731 BUSD ($60,201.95)
+SEED Per Week: 36.26 ($408.47)
+APR: Day 0.10% Week 0.68% Year 35.28%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 3%
+Unstake 0.00 BUSD
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[BUSD]-[TREE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $38.49 TVL: $3,905.62
+BUSD Price: $1.00
+TREE Price: $332.49
+Staked: 20.9190 Cake-LP ($805.11)
+SEED Per Week: 1.81 ($20.42)
+APR: Day 0.36% Week 2.54% Year 131.91%
+You are staking 0.00 [BUSD]-[TREE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[TREE] Cake LP
+Unstake 0.00 [BUSD]-[TREE] Cake LP
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+TREE
+ Price: $332.49 Market Cap: $5,652,701.10 
+[%]
+Staked: 8717.0216 TREE ($2,898,345.73)
+SEED Per Week: 1812.84 ($20,423.29)
+APR: Day 0.10% Week 0.70% Year 36.64%
+You are staking 0.00 TREE ($0.00), 0.00% of the pool.
+Stake 0.00 TREE
+Unstake 0.00 TREE
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[SEED]-[TREE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $130.44 TVL: $1,711,473.95
+SEED Price: $11.27
+TREE Price: $332.49
+Staked: 12585.1233 Cake-LP ($1,641,644.78)
+SEED Per Week: 4024.51 ($45,339.70)
+APR: Day 0.39% Week 2.76% Year 143.62%
+You are staking 0.00 [SEED]-[TREE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SEED]-[TREE] Cake LP
+Unstake 0.00 [SEED]-[TREE] Cake LP
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[WBNB]-[TREE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $891.52 TVL: $1,496,818.85
+WBNB Price: $483.66
+TREE Price: $332.49
+Staked: 846.6073 Cake-LP ($754,771.40)
+SEED Per Week: 2175.41 ($24,507.95)
+APR: Day 0.46% Week 3.25% Year 168.85%
+You are staking 0.00 [WBNB]-[TREE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[TREE] Cake LP
+Unstake 0.00 [WBNB]-[TREE] Cake LP
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[Cake]-[SEED] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $35.39 TVL: $291,405.18
+Cake Price: $25.00
+SEED Price: $11.27
+Staked: 7826.8094 Cake-LP ($276,996.04)
+SEED Per Week: 1015.19 ($11,437.04)
+APR: Day 0.59% Week 4.13% Year 214.71%
+You are staking 0.00 [Cake]-[SEED] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[SEED] Cake LP
+Unstake 0.00 [Cake]-[SEED] Cake LP
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[GREEN]-[TREE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11.05 TVL: $54,159.11
+GREEN Price: $0.09
+TREE Price: $332.49
+Staked: 4779.1849 Cake-LP ($52,803.75)
+SEED Per Week: 290.05 ($3,267.73)
+APR: Day 0.88% Week 6.19% Year 321.80%
+You are staking 0.00 [GREEN]-[TREE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GREEN]-[TREE] Cake LP
+Unstake 0.00 [GREEN]-[TREE] Cake LP
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[SEED]-[BUNNY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $19.78 TVL: $179,503.06
+SEED Price: $11.27
+BUNNY Price: $7.77
+Staked: 8980.0077 Cake-LP ($177,668.21)
+SEED Per Week: 1015.19 ($11,437.04)
+APR: Day 0.92% Week 6.44% Year 334.74%
+You are staking 0.00 [SEED]-[BUNNY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SEED]-[BUNNY] Cake LP
+Unstake 0.00 [SEED]-[BUNNY] Cake LP
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[ADA]-[SEED] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11.75 TVL: $417,501.67
+ADA Price: $2.84
+SEED Price: $11.27
+Staked: 33698.2034 Cake-LP ($395,833.42)
+SEED Per Week: 1015.19 ($11,437.04)
+APR: Day 0.41% Week 2.89% Year 150.25%
+You are staking 0.00 [ADA]-[SEED] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[SEED] Cake LP
+Unstake 0.00 [ADA]-[SEED] Cake LP
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[SEED]-[NIU] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.61 TVL: $29,383.53
+SEED Price: $11.27
+NIU Price: $0.007824
+Staked: 47063.7690 Cake-LP ($28,870.30)
+SEED Per Week: 181.28 ($2,042.33)
+APR: Day 1.01% Week 7.07% Year 367.86%
+You are staking 0.00 [SEED]-[NIU] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SEED]-[NIU] Cake LP
+Unstake 0.00 [SEED]-[NIU] Cake LP
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+SEED
+ Price: $11.27 Market Cap: $5,931,156.79 
+[%]
+Staked: 253377.4242 SEED ($2,854,525.31)
+SEED Per Week: 5075.95 ($57,185.21)
+APR: Day 0.29% Week 2.00% Year 104.17%
+You are staking 0.00 SEED ($0.00), 0.00% of the pool.
+Stake 0.00 SEED
+Unstake 0.00 SEED
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $16,481,506.11

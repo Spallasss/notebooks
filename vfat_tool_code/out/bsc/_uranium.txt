@@ -1,0 +1,56 @@
+INFO  : https://app.uranium.finance
+************************************************************************************
+
+Mon Aug 23 2021 14:04:55 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 15 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+U92
+ Price: $0.02 Market Cap: $36,859.20 
+[%]
+Staked: 1411427.7834 U92 ($30,491.27)
+U92 Per Week: 67200.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 U92 ($0.00), 0.00% of the pool.
+Stake 0.00 U92
+Unstake 0.00 U92
+Claim 0.00 U92 ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WBNB
+ Price: $484.47 Market Cap: $3,432,774,846.35 
+[%]
+Staked: 20.6340 WBNB ($9,996.57)
+U92 Per Week: 16800.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB
+Unstake 0.00 WBNB
+Claim 0.00 U92 ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+BUSD
+ Price: $1.00 Market Cap: $4,199,419,824.22 
+[%]
+Staked: 13159.6701 BUSD ($13,154.72)
+U92 Per Week: 16800.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD
+Unstake 0.00 BUSD
+Claim 0.00 U92 ($0.00)
+Staking or unstaking also claims rewards.
+{}
+Oops something went wrong. Try refreshing the page.

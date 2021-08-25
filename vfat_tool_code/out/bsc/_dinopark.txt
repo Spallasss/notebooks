@@ -1,0 +1,369 @@
+INFO  : https://dinopark.finance
+*************************************************************************************
+
+Mon Aug 23 2021 14:30:31 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 21 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+DINO
+ Price: $0.000482 Market Cap: $26,084.28 
+[%]
+Staked: 14148481.0501 DINO ($6,813.65)
+DINO Per Week: 150074.44 ($72.27)
+APR: Day 0.15% Week 1.06% Year 55.16%
+You are staking 0.00 DINO ($0.00), 0.00% of the pool.
+Stake 0.00 DINO
+Unstake 0.00 DINO
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[DINO]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.06 TVL: $3,744.27
+DINO Price: $0.000482
+BUSD Price: $1.00
+Staked: 60474.8930 Cake-LP ($3,427.43)
+DINO Per Week: 700347.39 ($337.27)
+APR: Day 1.41% Week 9.84% Year 511.70%
+You are staking 0.00 [DINO]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DINO]-[BUSD] Cake LP
+Unstake 0.00 [DINO]-[BUSD] Cake LP
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[DINO]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.13 TVL: $20,168.51
+DINO Price: $0.000482
+WBNB Price: $483.95
+Staked: 1665.6245 Cake-LP ($1,881.53)
+DINO Per Week: 400198.51 ($192.73)
+APR: Day 1.46% Week 10.24% Year 532.65%
+You are staking 0.00 [DINO]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DINO]-[WBNB] Cake LP
+Unstake 0.00 [DINO]-[WBNB] Cake LP
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.71 TVL: $527,142,406.86
+WBNB Price: $483.95
+BUSD Price: $1.00
+Staked: 17.9507 Cake-LP ($892.31)
+DINO Per Week: 75037.22 ($36.14)
+APR: Day 0.58% Week 4.05% Year 210.59%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,044,447.28
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 329.0252 Cake-LP ($672.97)
+DINO Per Week: 60029.78 ($28.91)
+APR: Day 0.61% Week 4.30% Year 223.38%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[USDT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.59 TVL: $251,826,488.15
+USDT Price: $1.00
+WBNB Price: $483.95
+Staked: 15.1431 Cake-LP ($766.14)
+DINO Per Week: 65032.26 ($31.32)
+APR: Day 0.58% Week 4.09% Year 212.57%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,211.17 TVL: $173,694,972.11
+BTCB Price: $49,954.00
+WBNB Price: $483.95
+Staked: 0.0653 Cake-LP ($666.66)
+DINO Per Week: 70034.74 ($33.73)
+APR: Day 0.72% Week 5.06% Year 263.08%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,648.30 TVL: $261,416,160.22
+ETH Price: $3,322.25
+WBNB Price: $483.95
+Staked: 0.2797 Cake-LP ($740.68)
+DINO Per Week: 70034.74 ($33.73)
+APR: Day 0.65% Week 4.55% Year 236.78%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $240.23 TVL: $82,598,999.59
+DOT Price: $27.97
+WBNB Price: $483.95
+Staked: 6.2661 Cake-LP ($1,505.30)
+DINO Per Week: 70034.74 ($33.73)
+APR: Day 0.32% Week 2.24% Year 116.51%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.03 TVL: $81,288,626.58
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 450.5479 Cake-LP ($916.61)
+DINO Per Week: 60029.78 ($28.91)
+APR: Day 0.45% Week 3.15% Year 164.00%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,809,214.01
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 317.8542 Cake-LP ($653.69)
+DINO Per Week: 60029.78 ($28.91)
+APR: Day 0.63% Week 4.42% Year 229.97%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $224.83 TVL: $1,029,023,958.84
+Cake Price: $24.98
+WBNB Price: $483.95
+Staked: 1.9618 Cake-LP ($441.08)
+DINO Per Week: 30014.89 ($14.45)
+APR: Day 0.47% Week 3.28% Year 170.41%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+BUSD
+ Price: $1.00 Market Cap: $4,193,504,817.07 
+[%]
+Staked: 535.7483 BUSD ($534.79)
+DINO Per Week: 30014.89 ($14.45)
+APR: Day 0.39% Week 2.70% Year 140.55%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+WBNB
+ Price: $483.95 Market Cap: $3,427,232,882.76 
+[%]
+Staked: 1.0797 WBNB ($522.53)
+DINO Per Week: 40019.85 ($19.27)
+APR: Day 0.53% Week 3.69% Year 191.79%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+USDT
+ Price: $1.00 Market Cap: $3,377,097,883.96 
+[%]
+Staked: 364.6483 USDT ($364.34)
+DINO Per Week: 15007.44 ($7.23)
+APR: Day 0.28% Week 1.98% Year 103.15%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.0860 BTCB ($4,297.57)
+DINO Per Week: 30014.89 ($14.45)
+APR: Day 0.05% Week 0.34% Year 17.49%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+ETH
+ Price: $3,322.25 Market Cap: $4,335,536,250.00 
+[%]
+Staked: 0.0843 ETH ($280.00)
+DINO Per Week: 30014.89 ($14.45)
+APR: Day 0.74% Week 5.16% Year 268.44%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+Cake
+ Price: $24.98 Market Cap: $10,394,803,000.15 
+[%]
+Staked: 46.4158 Cake ($1,159.47)
+DINO Per Week: 10004.96 ($4.82)
+APR: Day 0.06% Week 0.42% Year 21.61%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.09 TVL: $46,754,759.71
+ADA Price: $2.82
+WBNB Price: $483.95
+Staked: 16.6975 Cake-LP ($1,287.24)
+DINO Per Week: 30014.89 ($14.45)
+APR: Day 0.16% Week 1.12% Year 58.39%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[XRP]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.78 TVL: $38,888,869.15
+XRP Price: $1.25
+WBNB Price: $483.95
+Staked: 2.4775 Cake-LP ($125.81)
+DINO Per Week: 10004.96 ($4.82)
+APR: Day 0.55% Week 3.83% Year 199.15%
+You are staking 0.00 [XRP]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XRP]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [XRP]-[WBNB] Cake LP
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[DOGE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,767,870.32 TVL: $26,033,456.10
+DOGE Price: $0.32
+WBNB Price: $483.95
+Staked: 0.0000 Cake-LP ($66.29)
+DINO Per Week: 10004.96 ($4.82)
+APR: Day 1.04% Week 7.27% Year 377.96%
+You are staking 0.00 [DOGE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOGE]-[WBNB] Cake LP
+Claim 0.00 DINO ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $28,016.08

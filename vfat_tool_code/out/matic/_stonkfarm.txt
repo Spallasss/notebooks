@@ -1,0 +1,264 @@
+INFO  : https://stonk.farm/
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:25:15 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 17 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[STONKX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $15,170.09 TVL: $35.11
+USDC Price: $1.00
+STONKX Price: $0.0000463966
+Staked: 0.0021 UNI-V2 ($31.89)
+STONKX Per Week: 29629.63 ($1.37)
+APR: Day 0.62% Week 4.31% Year 224.17%
+You are staking 0.00 [USDC]-[STONKX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[STONKX] Uni LP
+Unstake 0.00 [USDC]-[STONKX] Uni LP
+Claim 0.00 STONKX ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,625,980.18 TVL: $33,485,847.45
+WMATIC Price: $1.66
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($169.79)
+STONKX Per Week: 7407.41 ($0.34)
+APR: Day 0.03% Week 0.20% Year 10.53%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 2%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 STONKX ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+WMATIC
+ Price: $1.66 Market Cap: $609,224,942.00 
+[%]
+Staked: 2.2223 WMATIC ($3.69)
+STONKX Per Week: 2962.96 ($0.14)
+APR: Day 0.53% Week 3.73% Year 193.78%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 2%
+Unstake 0.00 WMATIC
+Claim 0.00 STONKX ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WBTC
+ Price: $50,123.00 Market Cap: $699,171,463.98 
+[%]
+Staked: 0.0002 WBTC ($12.03)
+STONKX Per Week: 5925.93 ($0.27)
+APR: Day 0.33% Week 2.29% Year 118.85%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 2%
+Unstake 0.00 WBTC
+Claim 0.00 STONKX ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WETH
+ Price: $3,320.16 Market Cap: $2,027,048,667.95 
+[%]
+Staked: 0.0102 WETH ($33.93)
+STONKX Per Week: 5925.93 ($0.27)
+APR: Day 0.12% Week 0.81% Year 42.13%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 2%
+Unstake 0.00 WETH
+Claim 0.00 STONKX ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+QUICK
+ Price: $741.66 Market Cap: $709,966,403.10 
+[%]
+Staked: 0.0267 QUICK ($19.81)
+STONKX Per Week: 6814.81 ($0.32)
+APR: Day 0.23% Week 1.60% Year 82.98%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 2%
+Unstake 0.00 QUICK
+Claim 0.00 STONKX ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+YLD
+ Price: $0.46 Market Cap: $277,065.40 
+[%]
+Staked: 42.5536 YLD ($19.74)
+STONKX Per Week: 1481.48 ($0.07)
+APR: Day 0.05% Week 0.35% Year 18.10%
+You are staking 0.00 YLD ($0.00), 0.00% of the pool.
+Stake 0.00 YLD - Fee 2%
+Unstake 0.00 YLD
+Claim 0.00 STONKX ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+USDT
+ Price: $1.00 Market Cap: $314,878,199.42 
+[%]
+Staked: 10.0000 USDT ($9.99)
+STONKX Per Week: 4444.44 ($0.21)
+APR: Day 0.29% Week 2.06% Year 107.33%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 2%
+Unstake 0.00 USDT
+Claim 0.00 STONKX ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+USDC
+ Price: $1.00 Market Cap: $1,044,254,040.38 
+[%]
+Staked: 20.6963 USDC ($20.62)
+STONKX Per Week: 4444.44 ($0.21)
+APR: Day 0.14% Week 1.00% Year 52.01%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 2%
+Unstake 0.00 USDC
+Claim 0.00 STONKX ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+STONKX
+ Price: $0.0000463966 Market Cap: $76.76 
+[%]
+Staked: 679093.0445 STONKX ($31.51)
+STONKX Per Week: 14814.81 ($0.69)
+APR: Day 0.31% Week 2.18% Year 113.44%
+You are staking 0.00 STONKX ($0.00), 0.00% of the pool.
+Stake 0.00 STONKX
+Unstake 0.00 STONKX
+Claim 0.00 STONKX ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,560,434,403,888.51 TVL: $33,923,942.99
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($40.97)
+STONKX Per Week: 7111.11 ($0.33)
+APR: Day 0.12% Week 0.81% Year 41.88%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 2%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 STONKX ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[WBTC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50,622,097,394,347.97 TVL: $16,269,735.58
+WBTC Price: $50,123.00
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($216.69)
+STONKX Per Week: 7407.41 ($0.34)
+APR: Day 0.02% Week 0.16% Year 8.25%
+You are staking 0.00 [WBTC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[USDC] Uni LP - Fee 2%
+Unstake 0.00 [WBTC]-[USDC] Uni LP
+Claim 0.00 STONKX ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WMATIC]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $95.39 TVL: $32,157,367.34
+WMATIC Price: $1.66
+QUICK Price: $741.66
+Staked: 0.3728 UNI-V2 ($35.56)
+STONKX Per Week: 7111.11 ($0.33)
+APR: Day 0.13% Week 0.93% Year 48.24%
+You are staking 0.00 [WMATIC]-[QUICK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[QUICK] Uni LP - Fee 2%
+Unstake 0.00 [WMATIC]-[QUICK] Uni LP
+Claim 0.00 STONKX ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WMATIC]-[STONKX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $18.61
+WMATIC Price: $1.66
+STONKX Price: $0.0000463966
+Staked: 869.4918 UNI-V2 ($16.52)
+STONKX Per Week: 29629.63 ($1.37)
+APR: Day 1.19% Week 8.32% Year 432.71%
+You are staking 0.00 [WMATIC]-[STONKX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[STONKX] Uni LP
+Unstake 0.00 [WMATIC]-[STONKX] Uni LP
+Claim 0.00 STONKX ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+FISH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1.4900 FISH ($0.00)
+STONKX Per Week: 2962.96 ($0.14)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+Stake 0.00 FISH - Fee 4%
+Unstake 0.00 FISH
+Claim 0.00 STONKX ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+IRON
+ Price: $0.00 Market Cap: $0.00 
+Staked: 37.3774 IRON ($0.00)
+STONKX Per Week: 2962.96 ($0.14)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 IRON ($0.00), NaN% of the pool.
+Stake 0.00 IRON - Fee 4%
+Unstake 0.00 IRON
+Claim 0.00 STONKX ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+PolyDoge
+ Price: $0.0000000063 Market Cap: $6,296,000.00 
+[%]
+Staked: 1391107944.3053 PolyDoge ($8.76)
+STONKX Per Week: 2962.96 ($0.14)
+APR: Day 0.22% Week 1.57% Year 81.62%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 4%
+Unstake 0.00 PolyDoge
+Claim 0.00 STONKX ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $671.50

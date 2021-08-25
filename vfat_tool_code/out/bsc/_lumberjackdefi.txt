@@ -1,0 +1,291 @@
+INFO  : https://lumberjackdefi.com
+******************************************************************************
+
+Mon Aug 23 2021 09:31:11 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 18 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WOOD]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $1.42
+WOOD Price: $0.000244
+BUSD Price: $1.00
+Staked: 40.9765 Cake-LP ($1.29)
+WOOD Per Week: 5268.29 ($1.29)
+APR: Day 14.20% Week 99.39% Year 5168.10%
+You are staking 0.00 [WOOD]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WOOD]-[BUSD] Cake LP
+Unstake 0.00 [WOOD]-[BUSD] Cake LP
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WBNB]-[WOOD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.08 TVL: $2.22
+WBNB Price: $488.03
+WOOD Price: $0.000244
+Staked: 1.9609 Cake-LP ($2.11)
+WOOD Per Week: 4565.85 ($1.11)
+APR: Day 7.54% Week 52.80% Year 2745.51%
+You are staking 0.00 [WBNB]-[WOOD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[WOOD] Cake LP
+Unstake 0.00 [WBNB]-[WOOD] Cake LP
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.94 TVL: $529,556,823.21
+WBNB Price: $488.03
+BUSD Price: $1.00
+Staked: 5.5980 Cake-LP ($279.56)
+WOOD Per Week: 842.93 ($0.21)
+APR: Day 0.01% Week 0.07% Year 3.83%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,283,583.98
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 13.5253 Cake-LP ($27.68)
+WOOD Per Week: 702.44 ($0.17)
+APR: Day 0.09% Week 0.62% Year 32.22%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,242.92 TVL: $174,401,398.56
+BTCB Price: $49,844.00
+WBNB Price: $488.03
+Staked: 0.0000 Cake-LP ($0.00)
+WOOD Per Week: 772.68 ($0.19)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,664.33 TVL: $262,969,029.92
+ETH Price: $3,334.33
+WBNB Price: $488.03
+Staked: 0.0000 Cake-LP ($0.00)
+WOOD Per Week: 842.93 ($0.21)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,356,736.97
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 94.3816 Cake-LP ($192.12)
+WOOD Per Week: 702.44 ($0.17)
+APR: Day 0.01% Week 0.09% Year 4.64%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $226.45 TVL: $1,036,354,970.97
+Cake Price: $25.13
+WBNB Price: $488.03
+Staked: 0.0022 Cake-LP ($0.51)
+WOOD Per Week: 561.95 ($0.14)
+APR: Day 3.88% Week 27.15% Year 1411.61%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+WOOD
+ Price: $0.000244 Market Cap: $8.59 
+[%]
+Staked: 19339.8825 WOOD ($4.72)
+WOOD Per Week: 1053.66 ($0.26)
+APR: Day 0.78% Week 5.45% Year 283.30%
+You are staking 0.00 WOOD ($0.00), 0.00% of the pool.
+Stake 0.00 WOOD
+Unstake 0.00 WOOD
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+BUSD
+ Price: $1.00 Market Cap: $4,196,932,832.58 
+[%]
+Staked: 50.1809 BUSD ($50.13)
+WOOD Per Week: 421.46 ($0.10)
+APR: Day 0.03% Week 0.21% Year 10.67%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+WBNB
+ Price: $488.03 Market Cap: $3,446,410,383.37 
+[%]
+Staked: 0.0000 WBNB ($0.00)
+WOOD Per Week: 702.44 ($0.17)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 WBNB ($0.00), NaN% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 4.8000 USDT ($4.80)
+WOOD Per Week: 421.46 ($0.10)
+APR: Day 0.31% Week 2.14% Year 111.50%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+BTCB
+ Price: $49,844.00 Market Cap: $4,261,711,844.00 
+[%]
+Staked: 0.0019 BTCB ($95.70)
+WOOD Per Week: 561.95 ($0.14)
+APR: Day 0.02% Week 0.14% Year 7.46%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+ETH
+ Price: $3,334.33 Market Cap: $4,351,300,650.00 
+[%]
+Staked: 0.0222 ETH ($73.88)
+WOOD Per Week: 702.44 ($0.17)
+APR: Day 0.03% Week 0.23% Year 12.07%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+DOT
+ Price: $28.18 Market Cap: $394,519,999.86 
+[%]
+Staked: 0.0000 DOT ($0.00)
+WOOD Per Week: 561.95 ($0.14)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DOT ($0.00), NaN% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+ADA
+ Price: $2.83 Market Cap: $792,400,000.00 
+[%]
+Staked: 0.0000 ADA ($0.00)
+WOOD Per Week: 561.95 ($0.14)
+APR: Day 147309.00% Week 1031162.99% Year 53620475.28%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+LINK
+ Price: $28.73 Market Cap: $247,078,000.00 
+[%]
+Staked: 0.0000 LINK ($0.00)
+WOOD Per Week: 561.95 ($0.14)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 LINK ($0.00), NaN% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+Cake
+ Price: $25.13 Market Cap: $10,457,483,454.10 
+[%]
+Staked: 0.6101 Cake ($15.33)
+WOOD Per Week: 351.22 ($0.09)
+APR: Day 0.08% Week 0.56% Year 29.09%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 WOOD ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $747.84

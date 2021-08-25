@@ -1,0 +1,184 @@
+INFO  : https://bakerycream.finance
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:31:11 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 14 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[CREAM]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $197,349.98 TVL: $67.24
+CREAM Price: $0.008861
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($6.23)
+CREAM Per Week: 917.63 ($8.13)
+APR: Day 18.65% Week 130.58% Year 6790.19%
+You are staking 0.00 [CREAM]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CREAM]-[USDC] Uni LP
+Unstake 0.00 [CREAM]-[USDC] Uni LP
+Claim 0.00 CREAM ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[USDC]-[BAKE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $433,172.82 TVL: $96.90
+USDC Price: $1.00
+BAKE Price: $0.04
+Staked: 0.0000 UNI-V2 ($1.38)
+CREAM Per Week: 229.41 ($2.03)
+APR: Day 21.00% Week 147.02% Year 7645.17%
+You are staking 0.00 [USDC]-[BAKE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BAKE] Uni LP
+Unstake 0.00 [USDC]-[BAKE] Uni LP
+Claim 0.00 CREAM ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WMATIC]-[BAKE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.57 TVL: $386.22
+WMATIC Price: $1.64
+BAKE Price: $0.04
+Staked: 3.7277 UNI-V2 ($2.12)
+CREAM Per Week: 229.41 ($2.03)
+APR: Day 13.69% Week 95.84% Year 4983.64%
+You are staking 0.00 [WMATIC]-[BAKE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[BAKE] Uni LP
+Unstake 0.00 [WMATIC]-[BAKE] Uni LP
+Claim 0.00 CREAM ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+CREAM
+ Price: $0.008861 Market Cap: $64.02 
+[%]
+Staked: 1412.7758 CREAM ($12.52)
+CREAM Per Week: 305.88 ($2.71)
+APR: Day 3.09% Week 21.65% Year 1125.84%
+You are staking 0.00 CREAM ($0.00), 0.00% of the pool.
+Stake 0.00 CREAM
+Unstake 0.00 CREAM
+Claim 0.00 CREAM ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+BREAD
+ Price: $0.00 Market Cap: $0.00 
+Staked: 212.4870 BREAD ($0.00)
+CREAM Per Week: 152.94 ($1.36)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BREAD ($0.00), NaN% of the pool.
+Stake 0.00 BREAD
+Unstake 0.00 BREAD
+Claim 0.00 CREAM ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WMATIC
+ Price: $1.64 Market Cap: $602,074,995.99 
+[%]
+Staked: 244.8000 WMATIC ($401.47)
+CREAM Per Week: 95.59 ($0.85)
+APR: Day 0.03% Week 0.21% Year 10.97%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 CREAM ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+USDC
+ Price: $1.00 Market Cap: $1,043,373,235.74 
+[%]
+Staked: 287.3574 USDC ($287.14)
+CREAM Per Week: 57.35 ($0.51)
+APR: Day 0.03% Week 0.18% Year 9.20%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 CREAM ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+WBTC
+ Price: $50,099.00 Market Cap: $698,272,709.58 
+[%]
+Staked: 0.0001 WBTC ($4.54)
+CREAM Per Week: 57.35 ($0.51)
+APR: Day 1.60% Week 11.19% Year 582.11%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 CREAM ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+WETH
+ Price: $3,325.94 Market Cap: $2,028,181,827.59 
+[%]
+Staked: 0.0013 WETH ($4.38)
+CREAM Per Week: 57.35 ($0.51)
+APR: Day 1.66% Week 11.61% Year 603.50%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 CREAM ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+QUICK
+ Price: $726.80 Market Cap: $695,741,420.29 
+[%]
+Staked: 0.0068 QUICK ($4.96)
+CREAM Per Week: 38.23 ($0.34)
+APR: Day 0.98% Week 6.83% Year 355.29%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 CREAM ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+USDT
+ Price: $1.00 Market Cap: $314,915,935.86 
+[%]
+Staked: 199.8631 USDT ($199.63)
+CREAM Per Week: 38.23 ($0.34)
+APR: Day 0.02% Week 0.17% Year 8.82%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 CREAM ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+DAI
+ Price: $1.00 Market Cap: $376,374,717.01 
+[%]
+Staked: 9.6001 DAI ($9.58)
+CREAM Per Week: 38.23 ($0.34)
+APR: Day 0.50% Week 3.53% Year 183.80%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 CREAM ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $933.95

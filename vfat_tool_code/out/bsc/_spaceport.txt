@@ -1,0 +1,371 @@
+INFO  : https://bsc.SpacePortDeFi.com
+****************************************************************************************
+
+Mon Aug 23 2021 09:34:19 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 23 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+STARSHIP
+ Price: $0.00 Market Cap: $0.00 
+Staked: 28499.9918 STARSHIP ($0.00)
+STARSHIP Per Week: 33.24 ($0.27)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 STARSHIP ($0.00), NaN% of the pool.
+Stake 0.00 STARSHIP
+Unstake 0.00 STARSHIP
+Claim 0.00 STARSHIP ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.96 TVL: $525,996,940.22
+WBNB Price: $488.37
+BUSD Price: $1.00
+Staked: 8.9843 Cake-LP ($448.82)
+STARSHIP Per Week: 10.23 ($0.08)
+APR: Day 0.00% Week 0.02% Year 0.95%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 STARSHIP ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,246.55 TVL: $174,463,263.23
+BTCB Price: $49,844.00
+WBNB Price: $488.37
+Staked: 0.0000 Cake-LP ($0.00)
+STARSHIP Per Week: 7.67 ($0.06)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 STARSHIP ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,665.40 TVL: $263,074,770.02
+ETH Price: $3,334.64
+WBNB Price: $488.37
+Staked: 0.0000 Cake-LP ($0.00)
+STARSHIP Per Week: 7.67 ($0.06)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 STARSHIP ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.84 TVL: $252,087,323.54
+USDT Price: $1.00
+WBNB Price: $488.37
+Staked: 3.8546 Cake-LP ($195.98)
+STARSHIP Per Week: 5.11 ($0.04)
+APR: Day 0.00% Week 0.02% Year 1.09%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 STARSHIP ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.58 TVL: $47,042,094.24
+ADA Price: $2.83
+WBNB Price: $488.37
+Staked: 5.7615 Cake-LP ($447.00)
+STARSHIP Per Week: 7.67 ($0.06)
+APR: Day 0.00% Week 0.01% Year 0.72%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 STARSHIP ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,264,849.36
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+STARSHIP Per Week: 7.67 ($0.06)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 STARSHIP ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $226.67 TVL: $1,036,980,663.85
+Cake Price: $25.16
+WBNB Price: $488.37
+Staked: 0.0417 Cake-LP ($9.44)
+STARSHIP Per Week: 5.11 ($0.04)
+APR: Day 0.06% Week 0.44% Year 22.68%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 STARSHIP ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,351,889.82
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+STARSHIP Per Week: 5.11 ($0.04)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 STARSHIP ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $242.19 TVL: $83,272,447.87
+DOT Price: $28.17
+WBNB Price: $488.37
+Staked: 0.4584 Cake-LP ($111.01)
+STARSHIP Per Week: 5.11 ($0.04)
+APR: Day 0.01% Week 0.04% Year 1.93%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 STARSHIP ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+WBNB
+ Price: $488.37 Market Cap: $3,443,391,633.40 
+[%]
+Staked: 0.0689 WBNB ($33.66)
+STARSHIP Per Week: 6.39 ($0.05)
+APR: Day 0.02% Week 0.15% Year 7.95%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 STARSHIP ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+BUSD
+ Price: $1.00 Market Cap: $4,196,432,913.65 
+[%]
+Staked: 133.6888 BUSD ($133.54)
+STARSHIP Per Week: 6.39 ($0.05)
+APR: Day 0.01% Week 0.04% Year 2.00%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 STARSHIP ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+BTCB
+ Price: $49,844.00 Market Cap: $4,261,711,844.00 
+[%]
+Staked: 0.0001 BTCB ($5.69)
+STARSHIP Per Week: 5.11 ($0.04)
+APR: Day 0.10% Week 0.72% Year 37.61%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 STARSHIP ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+ETH
+ Price: $3,334.64 Market Cap: $4,351,705,200.00 
+[%]
+Staked: 0.0000 ETH ($0.00)
+STARSHIP Per Week: 5.11 ($0.04)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ETH ($0.00), NaN% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 STARSHIP ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+Cake
+ Price: $25.16 Market Cap: $10,469,995,738.36 
+[%]
+Staked: 0.2591 Cake ($6.52)
+STARSHIP Per Week: 3.84 ($0.03)
+APR: Day 0.07% Week 0.47% Year 24.64%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 STARSHIP ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+ADA
+ Price: $2.83 Market Cap: $792,400,000.00 
+[%]
+Staked: 0.0000 ADA ($0.00)
+STARSHIP Per Week: 5.11 ($0.04)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ADA ($0.00), NaN% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 STARSHIP ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+DOT
+ Price: $28.17 Market Cap: $394,379,999.86 
+[%]
+Staked: 2.8800 DOT ($81.13)
+STARSHIP Per Week: 3.84 ($0.03)
+APR: Day 0.01% Week 0.04% Year 1.98%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 STARSHIP ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 0.0000 USDT ($0.00)
+STARSHIP Per Week: 5.11 ($0.04)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDT ($0.00), NaN% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 STARSHIP ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+USDC
+ Price: $1.00 Market Cap: $1,778,074,920.00 
+[%]
+Staked: 16.7854 USDC ($16.78)
+STARSHIP Per Week: 5.11 ($0.04)
+APR: Day 0.04% Week 0.25% Year 12.76%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 STARSHIP ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+XRP
+ Price: $1.29 Market Cap: $279,930,000.00 
+[%]
+Staked: 231.0933 XRP ($298.11)
+STARSHIP Per Week: 3.84 ($0.03)
+APR: Day 0.00% Week 0.01% Year 0.54%
+You are staking 0.00 XRP ($0.00), 0.00% of the pool.
+Stake 0.00 XRP - Fee 4%
+Unstake 0.00 XRP
+Claim 0.00 STARSHIP ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+LTC
+ Price: $189.85 Market Cap: $112,960,750.00 
+[%]
+Staked: 0.0237 LTC ($4.51)
+STARSHIP Per Week: 3.84 ($0.03)
+APR: Day 0.10% Week 0.69% Year 35.63%
+You are staking 0.00 LTC ($0.00), 0.00% of the pool.
+Stake 0.00 LTC - Fee 4%
+Unstake 0.00 LTC
+Claim 0.00 STARSHIP ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[STARSHIP]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.19 TVL: $356.65
+STARSHIP Price: $0.008051
+BUSD Price: $1.00
+Staked: 358.7727 Cake-LP ($69.09)
+STARSHIP Per Week: 102.29 ($0.82)
+APR: Day 0.17% Week 1.19% Year 61.98%
+You are staking 0.00 [STARSHIP]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [STARSHIP]-[BUSD] Cake LP
+Unstake 0.00 [STARSHIP]-[BUSD] Cake LP
+Claim 0.00 STARSHIP ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[STARSHIP]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.16 TVL: $1,056.36
+STARSHIP Price: $0.008051
+WBNB Price: $488.37
+Staked: 28.8905 Cake-LP ($120.24)
+STARSHIP Per Week: 63.93 ($0.51)
+APR: Day 0.06% Week 0.43% Year 22.26%
+You are staking 0.00 [STARSHIP]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [STARSHIP]-[WBNB] Cake LP
+Unstake 0.00 [STARSHIP]-[WBNB] Cake LP
+Claim 0.00 STARSHIP ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,981.53

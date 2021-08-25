@@ -1,0 +1,271 @@
+INFO  : https://fanaticsfinance.com
+**************************************************************************************
+
+Mon Aug 23 2021 14:24:05 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 22 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+2 - 
+GOAL
+ Price: $0.72 Market Cap: $186,274.66 
+[%]
+Staked: 58157.0836 GOAL ($41,973.44)
+GOAL Per Week: 833.63 ($601.65)
+APR: Day 0.20% Week 1.43% Year 74.54%
+You are staking 0.00 GOAL ($0.00), 0.00% of the pool.
+Stake 0.00 GOAL
+Unstake 0.00 GOAL
+Claim 0.00 GOAL ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[GOAL]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.82 TVL: $45,201.18
+GOAL Price: $0.72
+BUSD Price: $1.00
+Staked: 23697.9856 Cake-LP ($43,104.12)
+GOAL Per Week: 2223.02 ($1,604.41)
+APR: Day 0.53% Week 3.72% Year 193.55%
+You are staking 0.00 [GOAL]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GOAL]-[BUSD] Cake LP
+Unstake 0.00 [GOAL]-[BUSD] Cake LP
+Claim 0.00 GOAL ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[WBNB]-[GOAL] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $41.98 TVL: $58,880.65
+WBNB Price: $483.87
+GOAL Price: $0.72
+Staked: 1392.3616 Cake-LP ($58,457.05)
+GOAL Per Week: 2778.77 ($2,005.51)
+APR: Day 0.49% Week 3.43% Year 178.40%
+You are staking 0.00 [WBNB]-[GOAL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[GOAL] Cake LP
+Unstake 0.00 [WBNB]-[GOAL] Cake LP
+Claim 0.00 GOAL ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[ZEFI]-[GOAL] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.88 TVL: $6,829.35
+ZEFI Price: $0.25
+GOAL Price: $0.72
+Staked: 7603.8169 Cake-LP ($6,665.62)
+GOAL Per Week: 277.88 ($200.55)
+APR: Day 0.43% Week 3.01% Year 156.45%
+You are staking 0.00 [ZEFI]-[GOAL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZEFI]-[GOAL] Cake LP
+Unstake 0.00 [ZEFI]-[GOAL] Cake LP
+Claim 0.00 GOAL ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WKSOC]-[GOAL] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.05 TVL: $16,097.76
+WKSOC Price: $0.000729
+GOAL Price: $0.72
+Staked: 329367.1461 Cake-LP ($16,027.68)
+GOAL Per Week: 1111.51 ($802.20)
+APR: Day 0.72% Week 5.01% Year 260.27%
+You are staking 0.00 [WKSOC]-[GOAL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WKSOC]-[GOAL] Cake LP
+Unstake 0.00 [WKSOC]-[GOAL] Cake LP
+Claim 0.00 GOAL ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[ATM]-[GOAL] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,352,959,267,538.18 TVL: $3,590.92
+ATM Price: $18.37
+GOAL Price: $0.72
+Staked: 0.0000 Cake-LP ($3,392.13)
+GOAL Per Week: 208.41 ($150.41)
+APR: Day 0.63% Week 4.43% Year 230.58%
+You are staking 0.00 [ATM]-[GOAL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ATM]-[GOAL] Cake LP
+Unstake 0.00 [ATM]-[GOAL] Cake LP
+Claim 0.00 GOAL ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[JUV]-[GOAL] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $418,124,863,271.77 TVL: $4,108.45
+JUV Price: $14.03
+GOAL Price: $0.72
+Staked: 0.0000 Cake-LP ($4,080.09)
+GOAL Per Week: 208.41 ($150.41)
+APR: Day 0.53% Week 3.69% Year 191.70%
+You are staking 0.00 [JUV]-[GOAL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JUV]-[GOAL] Cake LP
+Unstake 0.00 [JUV]-[GOAL] Cake LP
+Claim 0.00 GOAL ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[ASR]-[GOAL] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $253,894,391,305.47 TVL: $4,578.72
+ASR Price: $8.46
+GOAL Price: $0.72
+Staked: 0.0000 Cake-LP ($4,545.33)
+GOAL Per Week: 208.41 ($150.41)
+APR: Day 0.47% Week 3.31% Year 172.08%
+You are staking 0.00 [ASR]-[GOAL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ASR]-[GOAL] Cake LP
+Unstake 0.00 [ASR]-[GOAL] Cake LP
+Claim 0.00 GOAL ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[PSG]-[GOAL] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $976,064,607,755.79 TVL: $7,384.39
+PSG Price: $33.52
+GOAL Price: $0.72
+Staked: 0.0000 Cake-LP ($7,273.51)
+GOAL Per Week: 416.82 ($300.83)
+APR: Day 0.59% Week 4.14% Year 215.07%
+You are staking 0.00 [PSG]-[GOAL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PSG]-[GOAL] Cake LP
+Unstake 0.00 [PSG]-[GOAL] Cake LP
+Claim 0.00 GOAL ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.70 TVL: $527,045,719.06
+WBNB Price: $483.87
+BUSD Price: $1.00
+Staked: 22.4604 Cake-LP ($1,116.29)
+GOAL Per Week: 6.95 ($5.01)
+APR: Day 0.06% Week 0.45% Year 23.36%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 6%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 GOAL ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[USDT]-[GOAL] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.72 TVL: $8,358.13
+USDT Price: $1.00
+GOAL Price: $0.72
+Staked: 4821.7941 Cake-LP ($8,290.21)
+GOAL Per Week: 694.69 ($501.38)
+APR: Day 0.86% Week 6.05% Year 314.49%
+You are staking 0.00 [USDT]-[GOAL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[GOAL] Cake LP
+Unstake 0.00 [USDT]-[GOAL] Cake LP
+Claim 0.00 GOAL ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+WKSOC
+ Price: $0.000729 Market Cap: $38,450.72 
+[%]
+Staked: 11275153.1677 WKSOC ($8,218.75)
+GOAL Per Week: 138.94 ($100.28)
+APR: Day 0.17% Week 1.22% Year 63.44%
+You are staking 0.00 WKSOC ($0.00), 0.00% of the pool.
+Stake 0.00 WKSOC - Fee 4%
+Unstake 0.00 WKSOC
+Claim 0.00 GOAL ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[ULA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $16.27 TVL: $12,071.13
+ULA Price: $0.13
+WBNB Price: $483.87
+Staked: 741.1225 Cake-LP ($12,054.39)
+GOAL Per Week: 694.69 ($501.38)
+APR: Day 0.59% Week 4.16% Year 216.28%
+You are staking 0.00 [ULA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ULA]-[WBNB] Cake LP
+Unstake 0.00 [ULA]-[WBNB] Cake LP
+Claim 0.00 GOAL ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[ULA]-[WKSOC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $4,568.70
+ULA Price: $0.13
+WKSOC Price: $0.000729
+Staked: 229137.1792 Cake-LP ($4,561.74)
+GOAL Per Week: 277.88 ($200.55)
+APR: Day 0.63% Week 4.40% Year 228.61%
+You are staking 0.00 [ULA]-[WKSOC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ULA]-[WKSOC] Cake LP
+Unstake 0.00 [ULA]-[WKSOC] Cake LP
+Claim 0.00 GOAL ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $219,760.35

@@ -1,0 +1,175 @@
+INFO  : https://app.hepa.finance
+
+⭐️When you deposit or withdraw the contract will automatically claim HEPA on your behalf.
+💡The unclaimed HEPA amount listed above is your total rewards -
+when claiming 95% will be locked and 5% will be immediately accessible.
+*********************************************************************************
+
+Mon Aug 23 2021 09:27:59 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 8 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[HEPA]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.32 TVL: $63,804.04
+HEPA Price: $0.009123
+WBNB Price: $487.74
+Staked: 10324.0461 APE-LP ($44,636.69)
+HEPA Per Week: 875520.00 ($7,987.48)
+APR: Day 2.56% Week 17.89% Year 930.51%
+You are staking 0.00 [HEPA]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HEPA]-[WBNB] APE LP
+Unstake 0.00 [HEPA]-[WBNB] APE LP
+Claim 0.00 HEPA ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[HEPA]-[TAPE] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $30,942.09
+HEPA Price: $0.009123
+TAPE Price: $0.03
+Staked: 898641.4044 APE-LP ($29,924.59)
+HEPA Per Week: 92160.00 ($840.79)
+APR: Day 0.40% Week 2.81% Year 146.10%
+You are staking 0.00 [HEPA]-[TAPE] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HEPA]-[TAPE] APE LP
+Unstake 0.00 [HEPA]-[TAPE] APE LP
+Claim 0.00 HEPA ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[BANANA]-[HEPA] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.42 TVL: $4,938.12
+BANANA Price: $4.78
+HEPA Price: $0.009123
+Staked: 11490.1132 APE-LP ($4,838.48)
+HEPA Per Week: 46080.00 ($420.39)
+APR: Day 1.24% Week 8.69% Year 451.80%
+You are staking 0.00 [BANANA]-[HEPA] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BANANA]-[HEPA] APE LP
+Unstake 0.00 [BANANA]-[HEPA] APE LP
+Claim 0.00 HEPA ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[Cake]-[HEPA] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.96 TVL: $3,004.30
+Cake Price: $25.15
+HEPA Price: $0.009123
+Staked: 3017.5718 APE-LP ($2,892.74)
+HEPA Per Week: 92160.00 ($840.79)
+APR: Day 4.15% Week 29.07% Year 1511.40%
+You are staking 0.00 [Cake]-[HEPA] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[HEPA] APE LP
+Unstake 0.00 [Cake]-[HEPA] APE LP
+Claim 0.00 HEPA ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[HEPA]-[BUSD] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.19 TVL: $2,564.22
+HEPA Price: $0.009123
+BUSD Price: $1.00
+Staked: 13264.0811 APE-LP ($2,539.73)
+HEPA Per Week: 92160.00 ($840.79)
+APR: Day 4.73% Week 33.11% Year 1721.48%
+You are staking 0.00 [HEPA]-[BUSD] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HEPA]-[BUSD] APE LP
+Unstake 0.00 [HEPA]-[BUSD] APE LP
+Claim 0.00 HEPA ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[DAI]-[BUSD] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $10,110,982.48
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 2398.6013 APE-LP ($4,807.89)
+HEPA Per Week: 46080.00 ($420.39)
+APR: Day 1.25% Week 8.74% Year 454.68%
+You are staking 0.00 [DAI]-[BUSD] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] APE LP
+Unstake 0.00 [DAI]-[BUSD] APE LP
+Claim 0.00 HEPA ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[WBNB]-[BUSD] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $53.27 TVL: $22,192,011.22
+WBNB Price: $487.74
+BUSD Price: $1.00
+Staked: 23.0870 APE-LP ($1,229.77)
+HEPA Per Week: 46080.00 ($420.39)
+APR: Day 4.88% Week 34.18% Year 1777.61%
+You are staking 0.00 [WBNB]-[BUSD] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] APE LP
+Unstake 0.00 [WBNB]-[BUSD] APE LP
+Claim 0.00 HEPA ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[BHUNT]-[HEPA] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.82 TVL: $3,524.52
+BHUNT Price: $0.0000000133
+HEPA Price: $0.009123
+Staked: 4188.5868 APE-LP ($3,450.00)
+HEPA Per Week: 322560.00 ($2,942.76)
+APR: Day 12.19% Week 85.30% Year 4435.45%
+You are staking 0.00 [BHUNT]-[HEPA] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BHUNT]-[HEPA] APE LP
+Unstake 0.00 [BHUNT]-[HEPA] APE LP
+Claim 0.00 HEPA ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $94,319.89

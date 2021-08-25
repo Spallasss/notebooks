@@ -1,0 +1,864 @@
+INFO  : https://garudaswap.finance
+****************************************************************************************
+
+Mon Aug 23 2021 14:25:42 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 52 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.70 TVL: $527,011,907.00
+WBNB Price: $483.87
+BUSD Price: $1.00
+Staked: 75.8385 Cake-LP ($3,768.96)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,210.31 TVL: $171,647,923.27
+BTCB Price: $49,954.00
+WBNB Price: $483.87
+Staked: 0.0169 Cake-LP ($172.53)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,647.88 TVL: $261,375,672.76
+ETH Price: $3,321.76
+WBNB Price: $483.87
+Staked: 0.0434 Cake-LP ($114.80)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $240.16 TVL: $82,577,192.84
+DOT Price: $27.96
+WBNB Price: $483.87
+Staked: 5.5403 Cake-LP ($1,330.58)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.59 TVL: $251,806,055.99
+USDT Price: $1.00
+WBNB Price: $483.87
+Staked: 0.6930 Cake-LP ($35.06)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $224.86 TVL: $1,029,150,727.34
+Cake Price: $24.99
+WBNB Price: $483.87
+Staked: 20.5789 Cake-LP ($4,627.32)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+GARUDA
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 GARUDA ($0.00)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 GARUDA ($0.00), NaN% of the pool.
+Stake 0.00 GARUDA
+Unstake 0.00 GARUDA
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+BUSD
+ Price: $1.00 Market Cap: $4,192,261,321.24 
+[%]
+Staked: 16852.6195 BUSD ($16,817.57)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+WBNB
+ Price: $483.87 Market Cap: $3,427,729,505.40 
+[%]
+Staked: 7.4175 WBNB ($3,589.08)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.1480 BTCB ($7,391.80)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+ETH
+ Price: $3,321.76 Market Cap: $4,334,896,800.00 
+[%]
+Staked: 0.3016 ETH ($1,001.69)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+Cake
+ Price: $24.99 Market Cap: $10,398,920,324.54 
+[%]
+Staked: 226.3362 Cake ($5,656.14)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,766,512.29
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 317.4744 Cake-LP ($652.74)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[GARUDA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $134.60
+GARUDA Price: $0.0000000000
+WBNB Price: $483.87
+Staked: 67114.7429 Cake-LP ($1.91)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [GARUDA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GARUDA]-[WBNB] Cake LP
+Unstake 0.00 [GARUDA]-[WBNB] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[GARUDA]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $1.27
+GARUDA Price: $0.0000000000
+BUSD Price: $1.00
+Staked: 302002.2027 Cake-LP ($0.17)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [GARUDA]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GARUDA]-[BUSD] Cake LP
+Unstake 0.00 [GARUDA]-[BUSD] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.09 TVL: $46,752,328.03
+ADA Price: $2.82
+WBNB Price: $483.87
+Staked: 1.0789 Cake-LP ($83.17)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[XRP]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.78 TVL: $38,888,149.52
+XRP Price: $1.25
+WBNB Price: $483.87
+Staked: 0.0011 Cake-LP ($0.05)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [XRP]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XRP]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [XRP]-[WBNB] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[WBNB]-[LINK] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $240.80 TVL: $47,590,683.26
+WBNB Price: $483.87
+LINK Price: $28.70
+Staked: 15.4024 Cake-LP ($3,708.89)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LINK] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[LINK] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[WBNB]-[UNI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $243.02 TVL: $33,900,023.79
+WBNB Price: $483.87
+UNI Price: $29.38
+Staked: 0.0057 Cake-LP ($1.39)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[UNI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[UNI] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[UNI] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[USDT]-[GARUDA] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.23
+USDT Price: $1.00
+GARUDA Price: $0.0000000000
+Staked: 93910.4772 Cake-LP ($0.05)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT]-[GARUDA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[GARUDA] Cake LP
+Unstake 0.00 [USDT]-[GARUDA] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+DOT
+ Price: $27.96 Market Cap: $391,439,999.86 
+[%]
+Staked: 24.2897 DOT ($679.14)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+ADA
+ Price: $2.82 Market Cap: $789,600,000.00 
+[%]
+Staked: 1934.0302 ADA ($5,453.97)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+XRP
+ Price: $1.25 Market Cap: $271,250,000.00 
+[%]
+Staked: 2032.2113 XRP ($2,540.26)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 XRP ($0.00), 0.00% of the pool.
+Stake 0.00 XRP - Fee 4%
+Unstake 0.00 XRP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+LINK
+ Price: $28.70 Market Cap: $246,820,000.00 
+[%]
+Staked: 126.2722 LINK ($3,624.01)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+UNI
+ Price: $29.38 Market Cap: $108,706,000.00 
+[%]
+Staked: 9.3636 UNI ($275.10)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 UNI ($0.00), 0.00% of the pool.
+Stake 0.00 UNI - Fee 4%
+Unstake 0.00 UNI
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+DOGE
+ Price: $0.32 Market Cap: $645,256,000.00 
+[%]
+Staked: 14965.2406 DOGE ($4,828.21)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DOGE ($0.00), 0.00% of the pool.
+Stake 0.00 DOGE - Fee 4%
+Unstake 0.00 DOGE
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+[GARUDA]-[xSAT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.00
+GARUDA Price: $0.0000000000
+xSAT Price: $0.0000222859
+Staked: 195.0913 Cake-LP ($0.00)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [GARUDA]-[xSAT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GARUDA]-[xSAT] Cake LP
+Unstake 0.00 [GARUDA]-[xSAT] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+XVS
+ Price: $37.28 Market Cap: $1,118,400,000.00 
+[%]
+Staked: 566.6015 XVS ($21,122.90)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 XVS ($0.00), 0.00% of the pool.
+Stake 0.00 XVS - Fee 4%
+Unstake 0.00 XVS
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+[LTC]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $621.42 TVL: $11,600,312.24
+LTC Price: $189.10
+WBNB Price: $483.87
+Staked: 0.0019 Cake-LP ($1.16)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [LTC]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LTC]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [LTC]-[WBNB] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+LTC
+ Price: $189.10 Market Cap: $112,514,500.00 
+[%]
+Staked: 0.0007 LTC ($0.13)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 LTC ($0.00), 0.00% of the pool.
+Stake 0.00 LTC - Fee 4%
+Unstake 0.00 LTC
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+[DOGE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,765,834.61 TVL: $26,014,309.05
+DOGE Price: $0.32
+WBNB Price: $483.87
+Staked: 0.0003 Cake-LP ($797.03)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DOGE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOGE]-[WBNB] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+[WBNB]-[XVS] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $303.12 TVL: $34,281,979.83
+WBNB Price: $483.87
+XVS Price: $37.28
+Staked: 11.8594 Cake-LP ($3,594.80)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[XVS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[XVS] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[XVS] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+[GARUDA]-[USDC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $4.24
+GARUDA Price: $0.0000000000
+USDC Price: $1.00
+Staked: 1454852.7513 Cake-LP ($0.57)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [GARUDA]-[USDC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GARUDA]-[USDC] Cake LP
+Unstake 0.00 [GARUDA]-[USDC] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+33 - 
+CERBERUS
+ Price: $0.00 Market Cap: $0.00 
+Staked: 368432220.2083 CERBERUS ($0.00)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CERBERUS ($0.00), NaN% of the pool.
+Stake 0.00 CERBERUS
+Unstake 0.00 CERBERUS
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+34 - 
+USDC
+ Price: $1.00 Market Cap: $1,775,589,657.00 
+[%]
+Staked: 413.2204 USDC ($412.43)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+35 - 
+USDT
+ Price: $1.00 Market Cap: $3,377,097,883.96 
+[%]
+Staked: 2546.7675 USDT ($2,544.58)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+36 - 
+[DAI]-[GARUDA] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.01
+DAI Price: $1.00
+GARUDA Price: $0.0000000000
+Staked: 28566.9501 Cake-LP ($0.01)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DAI]-[GARUDA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[GARUDA] Cake LP
+Unstake 0.00 [DAI]-[GARUDA] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+37 - 
+UST
+ Price: $1.00 Market Cap: $37,061,811.54 
+[%]
+Staked: 650.3474 UST ($650.35)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 UST ($0.00), 0.00% of the pool.
+Stake 0.00 UST - Fee 4%
+Unstake 0.00 UST
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+38 - 
+[UST]-[GARUDA] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.03
+UST Price: $1.00
+GARUDA Price: $0.0000000000
+Staked: 88000.7676 Cake-LP ($0.03)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [UST]-[GARUDA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[GARUDA] Cake LP
+Unstake 0.00 [UST]-[GARUDA] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+39 - 
+TUSD
+ Price: $0.00 Market Cap: $0.00 
+Staked: 44.4293 TUSD ($0.00)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 TUSD ($0.00), NaN% of the pool.
+Stake 0.00 TUSD - Fee 4%
+Unstake 0.00 TUSD
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+40 - 
+[TUSD]-[GARUDA] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.00
+TUSD Price: $0.01
+GARUDA Price: $0.0000000000
+Staked: 46155.0116 Cake-LP ($0.00)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [TUSD]-[GARUDA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TUSD]-[GARUDA] Cake LP
+Unstake 0.00 [TUSD]-[GARUDA] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+41 - 
+DAI
+ Price: $1.00 Market Cap: $261,817,648.00 
+[%]
+Staked: 348.0421 DAI ($347.80)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+42 - 
+[VAI]-[GARUDA] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.29
+VAI Price: $0.78
+GARUDA Price: $0.0000000000
+Staked: 16449.5024 Cake-LP ($0.14)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [VAI]-[GARUDA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VAI]-[GARUDA] Cake LP
+Unstake 0.00 [VAI]-[GARUDA] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+43 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $314,943,167.34
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 69.9301 Cake-LP ($143.01)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+44 - 
+[Cake]-[GARUDA] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.72
+Cake Price: $24.99
+GARUDA Price: $0.0000000000
+Staked: 7799.6348 Cake-LP ($0.01)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [Cake]-[GARUDA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[GARUDA] Cake LP
+Unstake 0.00 [Cake]-[GARUDA] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+45 - 
+[ETH]-[GARUDA] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.02
+ETH Price: $3,321.76
+GARUDA Price: $0.0000000000
+Staked: 886.9524 Cake-LP ($0.02)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ETH]-[GARUDA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[GARUDA] Cake LP
+Unstake 0.00 [ETH]-[GARUDA] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+46 - 
+[TUSD]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.01 TVL: $61,211,251.87
+TUSD Price: $0.01
+BUSD Price: $1.00
+Staked: 169.6688 Cake-LP ($172.12)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [TUSD]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TUSD]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [TUSD]-[BUSD] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+47 - 
+[UST]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $50,228,799.76
+UST Price: $1.00
+BUSD Price: $1.00
+Staked: 18.7826 Cake-LP ($38.55)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [UST]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [UST]-[BUSD] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+48 - 
+[DOT]-[GARUDA] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $1.62
+DOT Price: $27.96
+GARUDA Price: $0.0000000000
+Staked: 5104.0335 Cake-LP ($0.01)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DOT]-[GARUDA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[GARUDA] Cake LP
+Unstake 0.00 [DOT]-[GARUDA] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+49 - 
+[USDT]-[USDC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $122,248,675.22
+USDT Price: $1.00
+USDC Price: $1.00
+Staked: 5.7798 Cake-LP ($11.92)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT]-[USDC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[USDC] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+50 - 
+[BETH]-[GARUDA] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.24
+BETH Price: $3,204.94
+GARUDA Price: $0.0000000000
+Staked: 151.0616 Cake-LP ($0.14)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [BETH]-[GARUDA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BETH]-[GARUDA] Cake LP
+Unstake 0.00 [BETH]-[GARUDA] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+51 - 
+[TUSD]-[USDT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.01 TVL: $69.75
+TUSD Price: $0.01
+USDT Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+GARUDA Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [TUSD]-[USDT] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [TUSD]-[USDT] Cake LP - Fee 4%
+Unstake 0.00 [TUSD]-[USDT] Cake LP
+Claim 0.00 GARUDA ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $96,192.30

@@ -1,0 +1,97 @@
+INFO:
+  * 
+V1 WITHDRAWAL AND CONVERSION TOOL
+
+  * 
+LEGACY GUIDE: Withdrawing from v1 pool, quickswap, and converting tokens to v2.
+
+
+TOKEN:
+  * Symbol: 
+MEME
+ (v2)
+  * Anti-whale  (0.1% Max total supply transfer amount)
+  * 5% Transfer Fee - 2% Burned, 3% added to liquidity
+  * 500 Tokens Pre-mined: 400 to LP & 100 For Promotions and Costs during v1, and v2 supply is entirely bootstrapped from current MEME holders converting to v2.
+  * V1 Liquidity Locked (v2 coming soon): 
+0xB6b9f14A318063BA44D5f21D34fEF0E1016ECA8c
+
+
+FARMING:
+  * Masterchef: 
+0xFd713726a28f45cEBCD2c9088BD2084De836e86F
+
+  * 
+Farming Starts on Block: 15929420 — Sun Jun 20 2021 03:06:46 GMT-0400 (Eastern Daylight Time)
+
+  * First Harvest Start: 
+block 16015969
+
+  * Harvest Cooldowns:
+      - Native:     4 Hours
+      - Non-Native: 8 Hours
+
+DEPOSIT FEES:
+  * 0% On Native Farms
+  * 2% On Non-Native Farms *** ONLY 1% until june 25th 2021 12pm EST ***
+
+NOTES:
+  * dQUICK has no liquidity pool so token price and market cap will be 0. This does not affect farming rewards!
+  * Use 6% slippage when swapping tokens due to transfer fee.
+
+
+                          *** IMPORTANT ***
+*** ATTEMPTING TO HARVEST EARLY WILL MINT MEME AND STORE IN MASTERCHEF ***
+*** NO MEME IS LOST!!!                                                 ***
+*** YOU WILL BE PAID YOUR FULL BALANCE ON NEXT SUCCESSFUL HARVEST      ***
+
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:46:17 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 9 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+7 - 
+MEME
+ Price: $0.002518 Market Cap: $868.58 
+[%]
+Staked: 119485.3598 MEME ($300.83)
+MEME Per Week: 10.50 ($0.03)
+APR: Day 0.00% Week 0.01% Year 0.46%
+You are staking 0.00 MEME ($0.00), 0.00% of the pool.
+Stake 0.00 MEME
+Unstake 0.00 MEME
+Claim 0.00 MEME ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[WMATIC]-[MEME] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.16 TVL: $742.41
+WMATIC Price: $1.65
+MEME Price: $0.002518
+Staked: 2163.0524 UNI-V2 ($352.91)
+MEME Per Week: 28.00 ($0.07)
+APR: Day 0.00% Week 0.02% Year 1.04%
+You are staking 0.00 [WMATIC]-[MEME] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[MEME] Uni LP
+Unstake 0.00 [WMATIC]-[MEME] Uni LP
+Claim 0.00 MEME ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $653.74

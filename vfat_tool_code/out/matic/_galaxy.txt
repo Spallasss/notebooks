@@ -1,0 +1,355 @@
+INFO  : https://galaxyfarm.routerprotocol.com
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:08:59 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+[ROUTE (PoS)]-[WETH] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $265.31 TVL: $4,979,733.83
+ROUTE (PoS) Price: $4.71
+WETH Price: $3,335.36
+Staked: 0.5271 DFYNLP ($139.85)
+ROUTE (PoS) Per Week: 0.00 ($0.00) APR: Year 0.00%
+OM Per Week: 0.00 ($0.00) APR: Year 0.00%
+RAZOR Per Week: 0.00 ($0.00) APR: Year 0.00%
+COR Per Week: 0.00 ($0.00) APR: Year 0.00%
+FRONT Per Week: 0.00 ($0.00) APR: Year 0.00%
+GLCH Per Week: 0.00 ($0.00) APR: Year 0.00%
+IGG Per Week: 0.00 ($0.00) APR: Year 0.00%
+NORD Per Week: 0.00 ($0.00) APR: Year 0.00%
+RAGE Per Week: 0.00 ($0.00) APR: Year 0.00%
+STR Per Week: 0.00 ($0.00) APR: Year 0.00%
+UNN Per Week: 0.00 ($0.00) APR: Year 0.00%
+Total Per Week: $0.00
+Total APR: Day 0.0000% Week 0.00% Year 0.00%
+You are staking 0.000000 [ROUTE (PoS)]-[WETH] DFYN LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [ROUTE (PoS)]-[WETH] DFYN LP
+Unstake 0.000000 [ROUTE (PoS)]-[WETH] DFYN LP
+Claim all earnings ($0.00)
+Revoke (set approval to 0)
+Exit
+[COR]-[WETH] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11.94 TVL: $36,614.26
+COR Price: $0.01
+WETH Price: $3,335.36
+Staked: 0.0269 DFYNLP ($0.32)
+ROUTE (PoS) Per Week: 0.00 ($0.00) APR: Year 0.00%
+OM Per Week: 0.00 ($0.00) APR: Year 0.00%
+RAZOR Per Week: 0.00 ($0.00) APR: Year 0.00%
+COR Per Week: 0.00 ($0.00) APR: Year 0.00%
+FRONT Per Week: 0.00 ($0.00) APR: Year 0.00%
+GLCH Per Week: 0.00 ($0.00) APR: Year 0.00%
+IGG Per Week: 0.00 ($0.00) APR: Year 0.00%
+NORD Per Week: 0.00 ($0.00) APR: Year 0.00%
+RAGE Per Week: 0.00 ($0.00) APR: Year 0.00%
+STR Per Week: 0.00 ($0.00) APR: Year 0.00%
+UNN Per Week: 0.00 ($0.00) APR: Year 0.00%
+Total Per Week: $0.00
+Total APR: Day 0.0000% Week 0.00% Year 0.00%
+You are staking 0.000000 [COR]-[WETH] DFYN LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [COR]-[WETH] DFYN LP
+Unstake 0.000000 [COR]-[WETH] DFYN LP
+Claim all earnings ($0.00)
+Revoke (set approval to 0)
+Exit
+[WETH]-[FRONT] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $92.14 TVL: $368.48
+WETH Price: $3,335.36
+FRONT Price: $0.62
+Staked: 2.0647 DFYNLP ($190.24)
+ROUTE (PoS) Per Week: 0.00 ($0.00) APR: Year 0.00%
+OM Per Week: 0.00 ($0.00) APR: Year 0.00%
+RAZOR Per Week: 0.00 ($0.00) APR: Year 0.00%
+COR Per Week: 0.00 ($0.00) APR: Year 0.00%
+FRONT Per Week: 0.00 ($0.00) APR: Year 0.00%
+GLCH Per Week: 0.00 ($0.00) APR: Year 0.00%
+IGG Per Week: 0.00 ($0.00) APR: Year 0.00%
+NORD Per Week: 0.00 ($0.00) APR: Year 0.00%
+RAGE Per Week: 0.00 ($0.00) APR: Year 0.00%
+STR Per Week: 0.00 ($0.00) APR: Year 0.00%
+UNN Per Week: 0.00 ($0.00) APR: Year 0.00%
+Total Per Week: $0.00
+Total APR: Day 0.0000% Week 0.00% Year 0.00%
+You are staking 0.000000 [WETH]-[FRONT] DFYN LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WETH]-[FRONT] DFYN LP
+Unstake 0.000000 [WETH]-[FRONT] DFYN LP
+Claim all earnings ($0.00)
+Revoke (set approval to 0)
+Exit
+[WETH]-[GLCH] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $70.19 TVL: $31,954.92
+WETH Price: $3,335.36
+GLCH Price: $0.34
+Staked: 0.6446 DFYNLP ($45.24)
+ROUTE (PoS) Per Week: 0.00 ($0.00) APR: Year 0.00%
+OM Per Week: 0.00 ($0.00) APR: Year 0.00%
+RAZOR Per Week: 0.00 ($0.00) APR: Year 0.00%
+COR Per Week: 0.00 ($0.00) APR: Year 0.00%
+FRONT Per Week: 0.00 ($0.00) APR: Year 0.00%
+GLCH Per Week: 0.00 ($0.00) APR: Year 0.00%
+IGG Per Week: 0.00 ($0.00) APR: Year 0.00%
+NORD Per Week: 0.00 ($0.00) APR: Year 0.00%
+RAGE Per Week: 0.00 ($0.00) APR: Year 0.00%
+STR Per Week: 0.00 ($0.00) APR: Year 0.00%
+UNN Per Week: 0.00 ($0.00) APR: Year 0.00%
+Total Per Week: $0.00
+Total APR: Day 0.0000% Week 0.00% Year 0.00%
+You are staking 0.000000 [WETH]-[GLCH] DFYN LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WETH]-[GLCH] DFYN LP
+Unstake 0.000000 [WETH]-[GLCH] DFYN LP
+Claim all earnings ($0.00)
+Revoke (set approval to 0)
+Exit
+[WETH]-[IGG] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,669,700.19 TVL: $59,185.65
+WETH Price: $3,335.36
+IGG Price: $0.000855
+Staked: 0.0001 DFYNLP ($526.91)
+ROUTE (PoS) Per Week: 0.00 ($0.00) APR: Year 0.00%
+OM Per Week: 0.00 ($0.00) APR: Year 0.00%
+RAZOR Per Week: 0.00 ($0.00) APR: Year 0.00%
+COR Per Week: 0.00 ($0.00) APR: Year 0.00%
+FRONT Per Week: 0.00 ($0.00) APR: Year 0.00%
+GLCH Per Week: 0.00 ($0.00) APR: Year 0.00%
+IGG Per Week: 0.00 ($0.00) APR: Year 0.00%
+NORD Per Week: 0.00 ($0.00) APR: Year 0.00%
+RAGE Per Week: 0.00 ($0.00) APR: Year 0.00%
+STR Per Week: 0.00 ($0.00) APR: Year 0.00%
+UNN Per Week: 0.00 ($0.00) APR: Year 0.00%
+Total Per Week: $0.00
+Total APR: Day 0.0000% Week 0.00% Year 0.00%
+You are staking 0.000000 [WETH]-[IGG] DFYN LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WETH]-[IGG] DFYN LP
+Unstake 0.000000 [WETH]-[IGG] DFYN LP
+Claim all earnings ($0.00)
+Revoke (set approval to 0)
+Exit
+[WETH]-[OM] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $56.10 TVL: $14,295.57
+WETH Price: $3,335.36
+OM Price: $0.23
+Staked: 34.0060 DFYNLP ($1,907.82)
+ROUTE (PoS) Per Week: 0.00 ($0.00) APR: Year 0.00%
+OM Per Week: 0.00 ($0.00) APR: Year 0.00%
+RAZOR Per Week: 0.00 ($0.00) APR: Year 0.00%
+COR Per Week: 0.00 ($0.00) APR: Year 0.00%
+FRONT Per Week: 0.00 ($0.00) APR: Year 0.00%
+GLCH Per Week: 0.00 ($0.00) APR: Year 0.00%
+IGG Per Week: 0.00 ($0.00) APR: Year 0.00%
+NORD Per Week: 0.00 ($0.00) APR: Year 0.00%
+RAGE Per Week: 0.00 ($0.00) APR: Year 0.00%
+STR Per Week: 0.00 ($0.00) APR: Year 0.00%
+UNN Per Week: 0.00 ($0.00) APR: Year 0.00%
+Total Per Week: $0.00
+Total APR: Day 0.0000% Week 0.00% Year 0.00%
+You are staking 0.000000 [WETH]-[OM] DFYN LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WETH]-[OM] DFYN LP
+Unstake 0.000000 [WETH]-[OM] DFYN LP
+Claim all earnings ($0.00)
+Revoke (set approval to 0)
+Exit
+[WETH]-[NORD] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $189.99 TVL: $3,260.01
+WETH Price: $3,335.36
+NORD Price: $2.52
+Staked: 0.3666 DFYNLP ($69.65)
+ROUTE (PoS) Per Week: 0.00 ($0.00) APR: Year 0.00%
+OM Per Week: 0.00 ($0.00) APR: Year 0.00%
+RAZOR Per Week: 0.00 ($0.00) APR: Year 0.00%
+COR Per Week: 0.00 ($0.00) APR: Year 0.00%
+FRONT Per Week: 0.00 ($0.00) APR: Year 0.00%
+GLCH Per Week: 0.00 ($0.00) APR: Year 0.00%
+IGG Per Week: 0.00 ($0.00) APR: Year 0.00%
+NORD Per Week: 0.00 ($0.00) APR: Year 0.00%
+RAGE Per Week: 0.00 ($0.00) APR: Year 0.00%
+STR Per Week: 0.00 ($0.00) APR: Year 0.00%
+UNN Per Week: 0.00 ($0.00) APR: Year 0.00%
+Total Per Week: $0.00
+Total APR: Day 0.0000% Week 0.00% Year 0.00%
+You are staking 0.000000 [WETH]-[NORD] DFYN LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WETH]-[NORD] DFYN LP
+Unstake 0.000000 [WETH]-[NORD] DFYN LP
+Claim all earnings ($0.00)
+Revoke (set approval to 0)
+Exit
+[RAGE]-[WETH] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $15.32 TVL: $20,610.60
+RAGE Price: $0.02
+WETH Price: $3,335.36
+Staked: 1189.0122 DFYNLP ($18,214.54)
+ROUTE (PoS) Per Week: 0.00 ($0.00) APR: Year 0.00%
+OM Per Week: 0.00 ($0.00) APR: Year 0.00%
+RAZOR Per Week: 0.00 ($0.00) APR: Year 0.00%
+COR Per Week: 0.00 ($0.00) APR: Year 0.00%
+FRONT Per Week: 0.00 ($0.00) APR: Year 0.00%
+GLCH Per Week: 0.00 ($0.00) APR: Year 0.00%
+IGG Per Week: 0.00 ($0.00) APR: Year 0.00%
+NORD Per Week: 0.00 ($0.00) APR: Year 0.00%
+RAGE Per Week: 0.00 ($0.00) APR: Year 0.00%
+STR Per Week: 0.00 ($0.00) APR: Year 0.00%
+UNN Per Week: 0.00 ($0.00) APR: Year 0.00%
+Total Per Week: $0.00
+Total APR: Day 0.0000% Week 0.00% Year 0.00%
+You are staking 0.000000 [RAGE]-[WETH] DFYN LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [RAGE]-[WETH] DFYN LP
+Unstake 0.000000 [RAGE]-[WETH] DFYN LP
+Claim all earnings ($0.00)
+Revoke (set approval to 0)
+Exit
+[WETH]-[RAZOR] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $29.62 TVL: $858.71
+WETH Price: $3,335.36
+RAZOR Price: $0.06
+Staked: 0.4859 DFYNLP ($14.39)
+ROUTE (PoS) Per Week: 0.00 ($0.00) APR: Year 0.00%
+OM Per Week: 0.00 ($0.00) APR: Year 0.00%
+RAZOR Per Week: 0.00 ($0.00) APR: Year 0.00%
+COR Per Week: 0.00 ($0.00) APR: Year 0.00%
+FRONT Per Week: 0.00 ($0.00) APR: Year 0.00%
+GLCH Per Week: 0.00 ($0.00) APR: Year 0.00%
+IGG Per Week: 0.00 ($0.00) APR: Year 0.00%
+NORD Per Week: 0.00 ($0.00) APR: Year 0.00%
+RAGE Per Week: 0.00 ($0.00) APR: Year 0.00%
+STR Per Week: 0.00 ($0.00) APR: Year 0.00%
+UNN Per Week: 0.00 ($0.00) APR: Year 0.00%
+Total Per Week: $0.00
+Total APR: Day 0.0000% Week 0.00% Year 0.00%
+You are staking 0.000000 [WETH]-[RAZOR] DFYN LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WETH]-[RAZOR] DFYN LP
+Unstake 0.000000 [WETH]-[RAZOR] DFYN LP
+Claim all earnings ($0.00)
+Revoke (set approval to 0)
+Exit
+[WETH]-[STR] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $38.17 TVL: $25,413.31
+WETH Price: $3,335.36
+STR Price: $0.10
+Staked: 65.5371 DFYNLP ($2,501.45)
+ROUTE (PoS) Per Week: 0.00 ($0.00) APR: Year 0.00%
+OM Per Week: 0.00 ($0.00) APR: Year 0.00%
+RAZOR Per Week: 0.00 ($0.00) APR: Year 0.00%
+COR Per Week: 0.00 ($0.00) APR: Year 0.00%
+FRONT Per Week: 0.00 ($0.00) APR: Year 0.00%
+GLCH Per Week: 0.00 ($0.00) APR: Year 0.00%
+IGG Per Week: 0.00 ($0.00) APR: Year 0.00%
+NORD Per Week: 0.00 ($0.00) APR: Year 0.00%
+RAGE Per Week: 0.00 ($0.00) APR: Year 0.00%
+STR Per Week: 0.00 ($0.00) APR: Year 0.00%
+UNN Per Week: 0.00 ($0.00) APR: Year 0.00%
+Total Per Week: $0.00
+Total APR: Day 0.0000% Week 0.00% Year 0.00%
+You are staking 0.000000 [WETH]-[STR] DFYN LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WETH]-[STR] DFYN LP
+Unstake 0.000000 [WETH]-[STR] DFYN LP
+Claim all earnings ($0.00)
+Revoke (set approval to 0)
+Exit
+[UNN]-[WETH] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13.05 TVL: $24,095.38
+UNN Price: $0.01
+WETH Price: $3,335.36
+Staked: 0.0000 DFYNLP ($0.00)
+ROUTE (PoS) Per Week: 0.00 ($0.00) APR: Year NaN%
+OM Per Week: 0.00 ($0.00) APR: Year NaN%
+RAZOR Per Week: 0.00 ($0.00) APR: Year NaN%
+COR Per Week: 0.00 ($0.00) APR: Year NaN%
+FRONT Per Week: 0.00 ($0.00) APR: Year NaN%
+GLCH Per Week: 0.00 ($0.00) APR: Year NaN%
+IGG Per Week: 0.00 ($0.00) APR: Year NaN%
+NORD Per Week: 0.00 ($0.00) APR: Year NaN%
+RAGE Per Week: 0.00 ($0.00) APR: Year NaN%
+STR Per Week: 0.00 ($0.00) APR: Year NaN%
+UNN Per Week: 0.00 ($0.00) APR: Year NaN%
+Total Per Week: $0.00
+Total APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [UNN]-[WETH] DFYN LP $0.00 (NaN% of the pool).
+Polygon Explorer
+Stake 0.000000 [UNN]-[WETH] DFYN LP
+Unstake 0.000000 [UNN]-[WETH] DFYN LP
+Claim all earnings ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $23,610.41

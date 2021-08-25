@@ -1,0 +1,52 @@
+INFO  : http://app.eurxb.finance
+Your liquidity will be locked for 10 days
+**********************************************************************************
+
+Mon Aug 23 2021 15:41:31 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[XBE]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $113,425,733.27 TVL: $1,296,501.18
+XBE Price: $2,728.07
+USDT Price: $1.00
+Staked: 0.0017 UNI-V2 ($190,905.30)
+XBE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [XBE]-[USDT] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [XBE]-[USDT] Uni LP
+Unstake 0.000000 [XBE]-[USDT] Uni LP
+Claim 0.000000 XBE ($0.00)
+Revoke (set approval to 0)
+Exit
+[XBE]-[USDT] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $107,087,429.57 TVL: $291,379.86
+XBE Price: $2,728.07
+USDT Price: $1.00
+Staked: 0.0000 SLP ($0.00)
+XBE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [XBE]-[USDT] SLP $0.00 (NaN% of the pool).
+Etherscan
+Stake 0.000000 [XBE]-[USDT] SLP
+Unstake 0.000000 [XBE]-[USDT] SLP
+Claim 0.000000 XBE ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $190,905.30

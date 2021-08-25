@@ -1,0 +1,430 @@
+INFO  : https://www.convexfinance.com
+*******************************************************************************
+
+Mon Aug 23 2021 15:46:35 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+[CVX]-[WETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $362.06 TVL: $48,152,875.95
+CVX Price: $8.60
+WETH Price: $3,326.40
+Staked: 132335.8889 SLP ($47,912,880.29)
+CVX Per Week: 51781.69 ($445,322.50) APR: Year 48.33%
+SUSHI Per Week: 8734.90 ($120,891.04) APR: Year 13.12%
+Total Per Week: $566,213.54
+Total APR: Day 0.1688% Week 1.18% Year 61.45%
+You are staking 0.000000 [CVX]-[WETH] SLP $0.00 (0.00% of the pool).
+Etherscan
+Unstake 0.000000 [CVX]-[WETH] SLP
+Claim 0.00 CVX ($0.00) + 0.00 SUSHI ($0.00)
+Revoke (set approval to 0)
+Exit
+[cvxCRV]-[CRV] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.75 TVL: $53,108,080.94
+cvxCRV Price: $2.29
+CRV Price: $2.38
+Staked: 11123999.4376 SLP ($52,881,806.30)
+CVX Per Week: 77703.26 ($668,248.02) APR: Year 65.71%
+SUSHI Per Week: 8079.78 ($111,824.21) APR: Year 11.00%
+Total Per Week: $780,072.23
+Total APR: Day 0.2107% Week 1.48% Year 76.71%
+You are staking 0.000000 [cvxCRV]-[CRV] SLP $0.00 (0.00% of the pool).
+Etherscan
+Unstake 0.000000 [cvxCRV]-[CRV] SLP
+Claim 0.00 CVX ($0.00) + 0.00 SUSHI ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $100,794,686.59
+cvxCRV
+ Price: $2.29 Market Cap: $197,236,461.66 
+[%]
+Staked: 73211429.9220 cvxCRV ($167,654,174.52)
+CRV Per Week: 322555.70 ($767,682.56)
+APR: Day 0.07% Week 0.46% Year 23.81%
+You are staking 0.000000 cvxCRV $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 cvxCRV
+Unstake 0.000000 cvxCRV
+Claim 0.000000 CRV ($0.00)
+Revoke (set approval to 0)
+Exit
+CVX
+ Price: $8.60 Market Cap: $541,432,841.92 
+[%]
+Staked: 14130673.5592 CVX ($121,523,792.61)
+CRV Per Week: 161277.85 ($383,841.28)
+APR: Day 0.05% Week 0.32% Year 16.42%
+You are staking 0.000000 CVX $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 CVX
+Unstake 0.000000 CVX
+Claim 0.000000 CRV ($0.00)
+Revoke (set approval to 0)
+Exit
+3Crv
+ Price: $1.02 Market Cap: $1,437,486,142.20 
+[%]
+Staked: 73211429.9220 3Crv ($74,675,658.52)
+3Crv Per Week: 271020.61 ($276,441.02)
+APR: Day 0.05% Week 0.37% Year 19.25%
+You are staking 0.000000 3Crv $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 3Crv
+Unstake 0.000000 3Crv
+Claim 0.000000 3Crv ($0.00)
+Revoke (set approval to 0)
+Exit
+hCRV
+ Price: $50,593.60 Market Cap: $425,407,959.79 
+Staked: 2149.1823 hCRV ($108,734,861.00)
+CRV Per Week: 36672.15 ($87,279.71)
+APR: Day 0.01% Week 0.08% Year 4.17%
+You are staking 0.000000 hCRV $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 hCRV
+Unstake 0.000000 hCRV
+Claim 0.000000 CRV ($0.00)
+Revoke (set approval to 0)
+Exit
+3Crv
+ Price: $1.02 Market Cap: $1,435,243,832.38 
+Staked: 122668964.7490 3Crv ($124,927,167.86)
+CRV Per Week: 59236.86 ($140,983.73)
+APR: Day 0.02% Week 0.11% Year 5.87%
+You are staking 0.000000 3Crv $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 3Crv
+Unstake 0.000000 3Crv
+Claim 0.000000 CRV ($0.00)
+Revoke (set approval to 0)
+Exit
+gusd3CRV
+ Price: $1.01 Market Cap: $31,110,955.97 
+Staked: 15985050.2970 gusd3CRV ($16,168,523.38)
+CRV Per Week: 9762.42 ($23,234.57)
+APR: Day 0.02% Week 0.14% Year 7.47%
+You are staking 0.000000 gusd3CRV $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 gusd3CRV
+Unstake 0.000000 gusd3CRV
+Claim 0.000000 CRV ($0.00)
+Revoke (set approval to 0)
+Exit
+husd3CRV
+ Price: $1.01 Market Cap: $1,850,941.81 
+Staked: 1659255.1058 husd3CRV ($1,678,673.86)
+CRV Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 husd3CRV $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 husd3CRV
+Unstake 0.000000 husd3CRV
+Claim 0.000000 CRV ($0.00)
+Revoke (set approval to 0)
+Exit
+usdk3CRV
+ Price: $1.92 Market Cap: $692,886.25 
+Staked: 285429.0005 usdk3CRV ($546,672.94)
+CRV Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 usdk3CRV $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 usdk3CRV
+Unstake 0.000000 usdk3CRV
+Claim 0.000000 CRV ($0.00)
+Revoke (set approval to 0)
+Exit
+usdn3CRV
+ Price: $1.03 Market Cap: $701,453,175.31 
+Staked: 628115753.5647 usdn3CRV ($646,400,450.75)
+CRV Per Week: 432294.72 ($1,028,861.44)
+APR: Day 0.02% Week 0.16% Year 8.28%
+You are staking 0.000000 usdn3CRV $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 usdn3CRV
+Unstake 0.000000 usdn3CRV
+Claim 0.000000 CRV ($0.00)
+Revoke (set approval to 0)
+Exit
+musd3CRV
+ Price: $0.98 Market Cap: $3,642,389.47 
+Staked: 3247769.4755 musd3CRV ($3,175,088.09)
+CRV Per Week: 1291.80 ($3,074.48)
+APR: Day 0.01% Week 0.10% Year 5.04%
+You are staking 0.000000 musd3CRV $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 musd3CRV
+Unstake 0.000000 musd3CRV
+Claim 0.000000 CRV ($0.00)
+Revoke (set approval to 0)
+Exit
+rsv3CRV
+ Price: $1.04 Market Cap: $18,539,330.38 
+Staked: 12813082.6011 rsv3CRV ($13,282,709.65)
+CRV Per Week: 11686.89 ($27,814.81)
+APR: Day 0.03% Week 0.21% Year 10.89%
+You are staking 0.000000 rsv3CRV $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 rsv3CRV
+Unstake 0.000000 rsv3CRV
+Claim 0.000000 CRV ($0.00)
+Revoke (set approval to 0)
+Exit
+tbtc/sbtcCrv
+ Price: $51,418.88 Market Cap: $165,231,846.95 
+Staked: 2941.0784 tbtc/sbtcCrv ($151,226,956.33)
+CRV Per Week: 98930.53 ($235,454.67)
+APR: Day 0.02% Week 0.16% Year 8.10%
+You are staking 0.000000 tbtc/sbtcCrv $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 tbtc/sbtcCrv
+Unstake 0.000000 tbtc/sbtcCrv
+Claim 0.000000 CRV ($0.00)
+Revoke (set approval to 0)
+Exit
+dusd3CRV
+ Price: $1.03 Market Cap: $26,752,360.19 
+Staked: 24164311.4908 dusd3CRV ($24,937,659.36)
+CRV Per Week: 20474.64 ($48,729.65)
+APR: Day 0.03% Week 0.20% Year 10.16%
+You are staking 0.000000 dusd3CRV $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 dusd3CRV
+Unstake 0.000000 dusd3CRV
+Claim 0.000000 CRV ($0.00)
+Revoke (set approval to 0)
+Exit
+pBTC/sbtcCRV
+ Price: $50,091.80 Market Cap: $180,587,629.67 
+Staked: 3205.7388 pBTC/sbtcCRV ($160,581,239.55)
+CRV Per Week: 90251.54 ($214,798.68)
+APR: Day 0.02% Week 0.13% Year 6.96%
+You are staking 0.000000 pBTC/sbtcCRV $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 pBTC/sbtcCRV
+Unstake 0.000000 pBTC/sbtcCRV
+Claim 0.000000 CRV ($0.00)
+Revoke (set approval to 0)
+Exit
+bBTC/sbtcCRV
+ Price: $50,453.04 Market Cap: $276,453,519.64 
+Staked: 4315.0903 bBTC/sbtcCRV ($217,709,408.46)
+CRV Per Week: 78713.79 ($187,338.81)
+APR: Day 0.01% Week 0.09% Year 4.47%
+You are staking 0.000000 bBTC/sbtcCRV $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 bBTC/sbtcCRV
+Unstake 0.000000 bBTC/sbtcCRV
+Claim 0.000000 CRV ($0.00)
+Revoke (set approval to 0)
+Exit
+oBTC/sbtcCRV
+ Price: $48,233.39 Market Cap: $136,350,152.54 
+Staked: 2340.4894 oBTC/sbtcCRV ($112,889,744.33)
+CRV Per Week: 57886.43 ($137,769.70)
+APR: Day 0.02% Week 0.12% Year 6.35%
+You are staking 0.000000 oBTC/sbtcCRV $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 oBTC/sbtcCRV
+Unstake 0.000000 oBTC/sbtcCRV
+Claim 0.000000 CRV ($0.00)
+Revoke (set approval to 0)
+Exit
+ust3CRV
+ Price: $1.02 Market Cap: $47,638,227.42 
+Staked: 13573677.4053 ust3CRV ($13,867,032.23)
+CRV Per Week: 2074.39 ($4,937.04)
+APR: Day 0.01% Week 0.04% Year 1.85%
+You are staking 0.000000 ust3CRV $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 ust3CRV
+Unstake 0.000000 ust3CRV
+Claim 0.000000 CRV ($0.00)
+Revoke (set approval to 0)
+Exit
+eursCRV
+ Price: $1.18 Market Cap: $152,958,996.42 
+Staked: 114074574.1777 eursCRV ($134,941,784.30)
+CRV Per Week: 115632.20 ($275,204.65)
+APR: Day 0.03% Week 0.20% Year 10.61%
+You are staking 0.000000 eursCRV $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 eursCRV
+Unstake 0.000000 eursCRV
+Claim 0.000000 CRV ($0.00)
+Revoke (set approval to 0)
+Exit
+a3CRV
+ Price: $1.07 Market Cap: $179,781,245.19 
+Staked: 75493129.5942 a3CRV ($81,004,024.10)
+CRV Per Week: 24403.24 ($58,079.72)
+APR: Day 0.01% Week 0.07% Year 3.73%
+You are staking 0.000000 a3CRV $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 a3CRV
+Unstake 0.000000 a3CRV
+Claim 0.000000 CRV ($0.00)
+Revoke (set approval to 0)
+Exit
+saCRV
+ Price: $1.05 Market Cap: $253,215,582.46 
+Staked: 214372796.8638 saCRV ($225,046,995.96)
+CRV Per Week: 121777.31 ($289,829.99)
+APR: Day 0.02% Week 0.13% Year 6.70%
+You are staking 0.000000 saCRV $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 saCRV
+Unstake 0.000000 saCRV
+Claim 0.000000 CRV ($0.00)
+Revoke (set approval to 0)
+Exit
+usdp3CRV
+ Price: $1.00 Market Cap: $235,791,009.18 
+Staked: 213690450.8722 usdp3CRV ($213,914,684.36)
+CRV Per Week: 150084.28 ($357,200.58)
+APR: Day 0.02% Week 0.17% Year 8.68%
+You are staking 0.000000 usdp3CRV $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 usdp3CRV
+Unstake 0.000000 usdp3CRV
+Claim 0.000000 CRV ($0.00)
+Revoke (set approval to 0)
+Exit
+ib3CRV
+ Price: $1.03 Market Cap: $307,044,477.59 
+Staked: 237854236.6033 ib3CRV ($244,526,542.08)
+CRV Per Week: 156017.94 ($371,322.70)
+APR: Day 0.02% Week 0.15% Year 7.90%
+You are staking 0.000000 ib3CRV $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 ib3CRV
+Unstake 0.000000 ib3CRV
+Claim 0.000000 CRV ($0.00)
+Revoke (set approval to 0)
+Exit
+linkCRV
+ Price: $28.77 Market Cap: $168,956,801.29 
+Staked: 3730551.5928 linkCRV ($107,333,154.39)
+CRV Per Week: 24315.38 ($57,870.61)
+APR: Day 0.01% Week 0.05% Year 2.80%
+You are staking 0.000000 linkCRV $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 linkCRV
+Unstake 0.000000 linkCRV
+Claim 0.000000 CRV ($0.00)
+Revoke (set approval to 0)
+Exit
+TUSD3CRV-f
+ Price: $1.00 Market Cap: $35,625,759.66 
+Staked: 5010062.1706 TUSD3CRV-f ($5,009,634.64)
+CRV Per Week: 4389.96 ($10,448.09)
+APR: Day 0.03% Week 0.21% Year 10.85%
+You are staking 0.000000 TUSD3CRV-f $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 TUSD3CRV-f
+Unstake 0.000000 TUSD3CRV-f
+Claim 0.000000 CRV ($0.00)
+Revoke (set approval to 0)
+Exit
+FRAX3CRV-f
+ Price: $1.00 Market Cap: $325,741,040.31 
+Staked: 303265081.8021 FRAX3CRV-f ($303,951,769.90)
+CRV Per Week: 203308.93 ($483,875.25)
+APR: Day 0.02% Week 0.16% Year 8.28%
+You are staking 0.000000 FRAX3CRV-f $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 FRAX3CRV-f
+Unstake 0.000000 FRAX3CRV-f
+Claim 0.000000 CRV ($0.00)
+Revoke (set approval to 0)
+Exit
+LUSD3CRV-f
+ Price: $1.02 Market Cap: $252,269,444.33 
+Staked: 196803237.2912 LUSD3CRV-f ($199,768,992.34)
+CRV Per Week: 138193.92 ($328,901.54)
+APR: Day 0.02% Week 0.16% Year 8.56%
+You are staking 0.000000 LUSD3CRV-f $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 LUSD3CRV-f
+Unstake 0.000000 LUSD3CRV-f
+Claim 0.000000 CRV ($0.00)
+Revoke (set approval to 0)
+Exit
+BUSD3CRV-f
+ Price: $1.00 Market Cap: $236,726,532.14 
+Staked: 174085579.2266 BUSD3CRV-f ($174,119,531.83)
+CRV Per Week: 64702.57 ($153,992.12)
+APR: Day 0.01% Week 0.09% Year 4.60%
+You are staking 0.000000 BUSD3CRV-f $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 BUSD3CRV-f
+Unstake 0.000000 BUSD3CRV-f
+Claim 0.000000 CRV ($0.00)
+Revoke (set approval to 0)
+Exit
+alUSD3CRV-f
+ Price: $1.00 Market Cap: $415,538,322.88 
+Staked: 324949721.0784 alUSD3CRV-f ($325,541,957.93)
+CRV Per Week: 70439.87 ($167,646.90)
+APR: Day 0.01% Week 0.05% Year 2.68%
+You are staking 0.000000 alUSD3CRV-f $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 alUSD3CRV-f
+Unstake 0.000000 alUSD3CRV-f
+Claim 0.000000 CRV ($0.00)
+Revoke (set approval to 0)
+Exit
+crvTricrypto
+ Price: $1.01 Market Cap: $40,850.00 
+Staked: 35232.1701 crvTricrypto ($35,499.14)
+CRV Per Week: 43558.36 ($103,668.89)
+APR: Day 41.72% Week 292.03% Year 15185.67%
+You are staking 0.000000 crvTricrypto $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 crvTricrypto
+Unstake 0.000000 crvTricrypto
+Claim 0.000000 CRV ($0.00)
+Revoke (set approval to 0)
+Exit
+crv3crypto
+ Price: $1.00 Market Cap: $273,974.07 
+Staked: 217569.1498 crv3crypto ($217,883.53)
+CRV Per Week: 355842.89 ($846,906.07)
+APR: Day 55.53% Week 388.70% Year 20212.23%
+You are staking 0.000000 crv3crypto $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 crv3crypto
+Unstake 0.000000 crv3crypto
+Claim 0.000000 CRV ($0.00)
+Revoke (set approval to 0)
+Exit
+EURT-f
+ Price: $1.18 Market Cap: $35,550,949.61 
+Staked: 26137996.0337 EURT-f ($30,870,355.42)
+CRV Per Week: 30715.30 ($73,102.41)
+APR: Day 0.03% Week 0.24% Year 12.31%
+You are staking 0.000000 EURT-f $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 EURT-f
+Unstake 0.000000 EURT-f
+Claim 0.000000 CRV ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $4,006,262,623.38

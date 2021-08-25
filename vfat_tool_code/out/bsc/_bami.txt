@@ -1,0 +1,145 @@
+INFO  : https://app.bami.money
+*************************************************************************
+
+Mon Aug 23 2021 14:15:46 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 14 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+7 - 
+BAMI
+ Price: $0.01 Market Cap: $13,495,399.93 
+[%]
+Staked: 459399.4902 BAMI ($6,129.57)
+BAMI Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BAMI ($0.00), 0.00% of the pool.
+Stake 0.00 BAMI
+Unstake 0.00 BAMI
+Claim 0.00 BAMI ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[USDT]-[BAMI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.24 TVL: $61,621.49
+USDT Price: $1.00
+BAMI Price: $0.01
+Staked: 14544.4260 Cake-LP ($3,418.82)
+BAMI Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT]-[BAMI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BAMI] Cake LP
+Unstake 0.00 [USDT]-[BAMI] Cake LP
+Claim 0.00 BAMI ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[USDT]-[VNDC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13,874,393.15 TVL: $29,106.35
+USDT Price: $1.00
+VNDC Price: $0.0000436319
+Staked: 0.0000 Cake-LP ($549.73)
+BAMI Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT]-[VNDC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[VNDC] Cake LP - Fee 1.5%
+Unstake 0.00 [USDT]-[VNDC] Cake LP
+Claim 0.00 BAMI ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[VIDB]-[VNDC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,040,600,631,887.02 TVL: $1,906,514.61
+VIDB Price: $0.62
+VNDC Price: $0.0000436319
+Staked: 0.0000 Cake-LP ($12.66)
+BAMI Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [VIDB]-[VNDC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VIDB]-[VNDC] Cake LP - Fee 1.5%
+Unstake 0.00 [VIDB]-[VNDC] Cake LP
+Claim 0.00 BAMI ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,648.61 TVL: $261,450,241.75
+ETH Price: $3,322.85
+WBNB Price: $483.98
+Staked: 0.0000 Cake-LP ($0.00)
+BAMI Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 1.5%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 BAMI ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,229.95 TVL: $171,980,979.88
+BTCB Price: $50,135.00
+WBNB Price: $483.98
+Staked: 0.0015 Cake-LP ($14.83)
+BAMI Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 1.5%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 BAMI ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,013,727.43
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 11.6676 Cake-LP ($23.87)
+BAMI Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 1.5%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 BAMI ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $10,149.48

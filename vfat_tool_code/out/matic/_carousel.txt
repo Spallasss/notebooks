@@ -1,0 +1,277 @@
+INFO  : https://carouselswap.com
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:50:42 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 18 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[CRS]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $31,280.08 TVL: $79.54
+CRS Price: $0.000170
+USDC Price: $1.00
+Staked: 0.0021 UNI-V2 ($64.71)
+CRS Per Week: 57029.70 ($9.71)
+APR: Day 2.14% Week 15.01% Year 780.60%
+You are staking 0.00 [CRS]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRS]-[USDC] Uni LP
+Unstake 0.00 [CRS]-[USDC] Uni LP
+Claim 0.00 CRS ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[CRS] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.04 TVL: $69.83
+WMATIC Price: $1.65
+CRS Price: $0.000170
+Staked: 1358.7069 UNI-V2 ($52.95)
+CRS Per Week: 57029.70 ($9.71)
+APR: Day 2.62% Week 18.35% Year 953.99%
+You are staking 0.00 [WMATIC]-[CRS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[CRS] Uni LP
+Unstake 0.00 [WMATIC]-[CRS] Uni LP
+Claim 0.00 CRS ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,616,415.65 TVL: $33,415,752.42
+WMATIC Price: $1.65
+USDC Price: $1.00
+Staked: 0.0001 UNI-V2 ($495.61)
+CRS Per Week: 14257.43 ($2.43)
+APR: Day 0.07% Week 0.49% Year 25.48%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 CRS ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,941,893.09 TVL: $148,225,751.40
+USDC Price: $1.00
+WETH Price: $3,329.41
+Staked: 0.0000 UNI-V2 ($29.69)
+CRS Per Week: 14257.43 ($2.43)
+APR: Day 1.17% Week 8.18% Year 425.31%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 CRS ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,562,682,314,473.64 TVL: $33,953,633.17
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($1.92)
+CRS Per Week: 9504.95 ($1.62)
+APR: Day 12.03% Week 84.21% Year 4378.70%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 CRS ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WMATIC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $189.19 TVL: $123,100,939.65
+WMATIC Price: $1.65
+WETH Price: $3,329.41
+Staked: 0.0030 UNI-V2 ($0.57)
+CRS Per Week: 14257.43 ($2.43)
+APR: Day 61.39% Week 429.72% Year 22345.52%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 CRS ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+CRS
+ Price: $0.000170 Market Cap: $223.28 
+[%]
+Staked: 679853.2629 CRS ($115.80)
+CRS Per Week: 33267.33 ($5.67)
+APR: Day 0.70% Week 4.89% Year 254.45%
+You are staking 0.00 CRS ($0.00), 0.00% of the pool.
+Stake 0.00 CRS
+Unstake 0.00 CRS
+Claim 0.00 CRS ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WMATIC
+ Price: $1.65 Market Cap: $605,564,339.14 
+[%]
+Staked: 117.5321 WMATIC ($193.93)
+CRS Per Week: 12356.44 ($2.10)
+APR: Day 0.16% Week 1.09% Year 56.43%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 CRS ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+USDT
+ Price: $1.00 Market Cap: $314,823,907.95 
+[%]
+Staked: 10.5600 USDT ($10.55)
+CRS Per Week: 7603.96 ($1.30)
+APR: Day 1.75% Week 12.28% Year 638.49%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 CRS ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+USDC
+ Price: $1.00 Market Cap: $1,046,242,388.24 
+[%]
+Staked: 49.6286 USDC ($49.53)
+CRS Per Week: 7603.96 ($1.30)
+APR: Day 0.37% Week 2.61% Year 135.97%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 CRS ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+DAI
+ Price: $1.00 Market Cap: $375,659,203.55 
+[%]
+Staked: 1.9176 DAI ($1.91)
+CRS Per Week: 7603.96 ($1.30)
+APR: Day 9.66% Week 67.65% Year 3517.62%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 CRS ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+WBTC
+ Price: $50,179.00 Market Cap: $699,936,505.22 
+[%]
+Staked: 0.0000 WBTC ($0.00)
+CRS Per Week: 9504.95 ($1.62)
+APR: Day 46090.10% Week 322630.70% Year 16776796.62%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 CRS ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+WETH
+ Price: $3,329.41 Market Cap: $2,032,954,689.57 
+[%]
+Staked: 0.3428 WETH ($1,141.47)
+CRS Per Week: 12356.44 ($2.10)
+APR: Day 0.03% Week 0.18% Year 9.59%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 CRS ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+SUSHI
+ Price: $13.87 Market Cap: $14,059,822.85 
+[%]
+Staked: 20.8556 SUSHI ($289.27)
+CRS Per Week: 9504.95 ($1.62)
+APR: Day 0.08% Week 0.56% Year 29.10%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 4%
+Unstake 0.00 SUSHI
+Claim 0.00 CRS ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+QUICK
+ Price: $736.90 Market Cap: $705,409,813.72 
+[%]
+Staked: 2.2823 QUICK ($1,681.81)
+CRS Per Week: 9504.95 ($1.62)
+APR: Day 0.01% Week 0.10% Year 5.01%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 CRS ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+PolyDoge
+ Price: $0.0000000063 Market Cap: $6,332,000.00 
+[%]
+Staked: 40000960.0960 PolyDoge ($0.25)
+CRS Per Week: 5702.97 ($0.97)
+APR: Day 54.79% Week 383.50% Year 19942.10%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 4%
+Unstake 0.00 PolyDoge
+Claim 0.00 CRS ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+LINK
+ Price: $28.71 Market Cap: $65,149,707.02 
+[%]
+Staked: 6.2585 LINK ($179.68)
+CRS Per Week: 5702.97 ($0.97)
+APR: Day 0.08% Week 0.54% Year 28.11%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 CRS ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+FISH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1.1520 FISH ($0.00)
+CRS Per Week: 950.50 ($0.16)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+Stake 0.00 FISH - Fee 4%
+Unstake 0.00 FISH
+Claim 0.00 CRS ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $4,309.65

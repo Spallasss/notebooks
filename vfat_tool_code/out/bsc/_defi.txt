@@ -1,0 +1,163 @@
+INFO  : https://www.defi.finance
+*************************************************************************************
+
+Mon Aug 23 2021 15:18:08 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 15 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+wDEFI
+ Price: $0.00 Market Cap: $0.00 
+Staked: 237692945.1882 wDEFI ($0.00)
+wDEFI Per Week: 4092.99 ($17.91)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 wDEFI ($0.00), NaN% of the pool.
+Stake 0.00 wDEFI
+Unstake 0.00 wDEFI
+Claim 0.00 wDEFI ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[KIWI]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.93 TVL: $281.10
+KIWI Price: $0.21
+BUSD Price: $1.00
+Staked: 0.8430 Cheese-LP ($0.79)
+wDEFI Per Week: 818597.10 ($3,582.87)
+APR: Day 65143.44% Week 456004.05% Year 23712210.47%
+You are staking 0.00 [KIWI]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KIWI]-[BUSD] Uni LP - Fee 100%
+Unstake 0.00 [KIWI]-[BUSD] Uni LP
+Claim 0.00 wDEFI ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[WOOP]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.91 TVL: $734,794.76
+WOOP Price: $0.20
+BUSD Price: $1.00
+Staked: 808394.7341 Cake-LP ($734,415.79)
+wDEFI Per Week: 4092985.48 ($17,914.36)
+APR: Day 0.35% Week 2.44% Year 126.84%
+You are staking 0.00 [WOOP]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WOOP]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [WOOP]-[BUSD] Cake LP
+Claim 0.00 wDEFI ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[wDEFI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.16 TVL: $1,232,057.52
+wDEFI Price: $0.004377
+BUSD Price: $1.00
+Staked: 7537416.9559 Cake-LP ($1,207,055.80)
+wDEFI Per Week: 6139478.23 ($26,871.53)
+APR: Day 0.32% Week 2.23% Year 115.76%
+You are staking 0.00 [wDEFI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wDEFI]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [wDEFI]-[BUSD] Cake LP
+Claim 0.00 wDEFI ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[wDEFI]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.83 TVL: $2,548,024.14
+wDEFI Price: $0.004377
+WBNB Price: $495.68
+Staked: 664953.4436 Cake-LP ($2,545,234.18)
+wDEFI Per Week: 12278956.45 ($53,743.07)
+APR: Day 0.30% Week 2.11% Year 109.80%
+You are staking 0.00 [wDEFI]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wDEFI]-[WBNB] Cake LP - Fee 1%
+Unstake 0.00 [wDEFI]-[WBNB] Cake LP
+Claim 0.00 wDEFI ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[USDT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $51.22 TVL: $253,914,778.61
+USDT Price: $1.00
+WBNB Price: $495.68
+Staked: 3.0834 Cake-LP ($157.94)
+wDEFI Per Week: 4092.99 ($17.91)
+APR: Day 1.62% Week 11.34% Year 589.82%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 wDEFI ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WOOP]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $20.47 TVL: $11,378,480.90
+WOOP Price: $0.20
+WBNB Price: $495.68
+Staked: 555618.2586 Cake-LP ($11,373,853.50)
+wDEFI Per Week: 49115825.80 ($214,972.27)
+APR: Day 0.27% Week 1.89% Year 98.28%
+You are staking 0.00 [WOOP]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WOOP]-[WBNB] Cake LP - Fee 1%
+Unstake 0.00 [WOOP]-[WBNB] Cake LP
+Claim 0.00 wDEFI ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[wDEFI]-[WOOP] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.06 TVL: $2,360,312.83
+wDEFI Price: $0.004377
+WOOP Price: $0.20
+Staked: 38026599.8748 Cake-LP ($2,291,748.62)
+wDEFI Per Week: 8185970.97 ($35,828.71)
+APR: Day 0.22% Week 1.56% Year 81.30%
+You are staking 0.00 [wDEFI]-[WOOP] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wDEFI]-[WOOP] Cake LP - Fee 1%
+Unstake 0.00 [wDEFI]-[WOOP] Cake LP
+Claim 0.00 wDEFI ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $18,152,466.61

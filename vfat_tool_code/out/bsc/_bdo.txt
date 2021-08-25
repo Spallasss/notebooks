@@ -1,0 +1,41 @@
+INFO  : 
+https://bdollar.fi
+
+**********************************************************************
+
+Mon Aug 23 2021 13:38:44 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+TOKEN INFORMATION
+BDO price $0.05
+BDO Circulating 33432586
+Marketcap: $1,747,621.28
+BDO totalSupply 33432912
+Fully diluted marketcap: $1,747,638.32
+ 
+sBDO price $32.24
+sBDO Circulating 43523
+Marketcap: $1,402,982.74
+sBDO totalSupply 94657
+Fully diluted marketcap: $3,051,309.35
+ 
+bBDO price $0.05
+bBDO totalSupply 10725294
+-------------------------------------------------
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+BOARD ROOM INFORMATION
+There are undefined sBDO in boardroom, NaN% of circulating
+Total Value Locked: $337,828.29
+Reward token: BDO
+APR NaN %
+You are staking 0.00 sBDO ($0.00) in boardroom, NaN% of the pool
+Approve 0.00 sBDO
+Stake 0.00 sBDO
+Unstake 0.00  sBDO
+Claim 0.00 BDO
+Revoke approval
+Exit

@@ -1,0 +1,632 @@
+INFO  : https://bcharity.net/
+*************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:29:40 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 45 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+GIVE
+ Price: $0.47 Market Cap: $36,028.47 
+[%]
+Staked: 30366.9818 GIVE ($14,138.63)
+GIVE Per Week: 411.43 ($191.56)
+APR: Day 0.19% Week 1.35% Year 70.45%
+You are staking 0.00 GIVE ($0.00), 0.00% of the pool.
+Stake 0.00 GIVE
+Unstake 0.00 GIVE
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[USDC]-[GIVE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,451,740.11 TVL: $3,500.26
+USDC Price: $1.00
+GIVE Price: $0.47
+Staked: 0.0024 UNI-V2 ($3,498.50)
+GIVE Per Week: 1234.29 ($574.67)
+APR: Day 2.35% Week 16.43% Year 854.17%
+You are staking 0.00 [USDC]-[GIVE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[GIVE] Uni LP
+Unstake 0.00 [USDC]-[GIVE] Uni LP
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[GIVE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.83 TVL: $5,405.85
+WMATIC Price: $1.64
+GIVE Price: $0.47
+Staked: 2951.5448 UNI-V2 ($5,391.51)
+GIVE Per Week: 822.86 ($383.12)
+APR: Day 1.02% Week 7.11% Year 369.51%
+You are staking 0.00 [WMATIC]-[GIVE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[GIVE] Uni LP
+Unstake 0.00 [WMATIC]-[GIVE] Uni LP
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[QUICK]-[GIVE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $37.92 TVL: $4,358.50
+QUICK Price: $726.76
+GIVE Price: $0.47
+Staked: 114.9127 UNI-V2 ($4,357.35)
+GIVE Per Week: 411.43 ($191.56)
+APR: Day 0.63% Week 4.40% Year 228.60%
+You are staking 0.00 [QUICK]-[GIVE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [QUICK]-[GIVE] Uni LP
+Unstake 0.00 [QUICK]-[GIVE] Uni LP
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WMATIC
+ Price: $1.64 Market Cap: $602,069,167.40 
+[%]
+Staked: 16050.6554 WMATIC ($26,323.07)
+GIVE Per Week: 370.29 ($172.40)
+APR: Day 0.09% Week 0.65% Year 34.06%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 3%
+Unstake 0.00 WMATIC
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+USDC
+ Price: $1.00 Market Cap: $1,043,347,289.54 
+[%]
+Staked: 28644.4531 USDC ($28,620.91)
+GIVE Per Week: 370.29 ($172.40)
+APR: Day 0.09% Week 0.60% Year 31.32%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 3%
+Unstake 0.00 USDC
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+DAI
+ Price: $1.00 Market Cap: $376,374,417.49 
+[%]
+Staked: 21545.6758 DAI ($21,511.46)
+GIVE Per Week: 246.86 ($114.93)
+APR: Day 0.08% Week 0.53% Year 27.78%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 3%
+Unstake 0.00 DAI
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WBTC
+ Price: $50,096.00 Market Cap: $698,230,896.01 
+[%]
+Staked: 0.1892 WBTC ($9,479.71)
+GIVE Per Week: 246.86 ($114.93)
+APR: Day 0.17% Week 1.21% Year 63.05%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 3%
+Unstake 0.00 WBTC
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+WETH
+ Price: $3,325.76 Market Cap: $2,028,073,563.40 
+[%]
+Staked: 22.2244 WETH ($73,913.04)
+GIVE Per Week: 246.86 ($114.93)
+APR: Day 0.02% Week 0.16% Year 8.09%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 3%
+Unstake 0.00 WETH
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+QUICK
+ Price: $726.76 Market Cap: $695,703,129.62 
+[%]
+Staked: 5.9399 QUICK ($4,316.87)
+GIVE Per Week: 123.43 ($57.47)
+APR: Day 0.19% Week 1.33% Year 69.22%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 3%
+Unstake 0.00 QUICK
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+CRV
+ Price: $2.43 Market Cap: $6,972,979.67 
+[%]
+Staked: 3289.1057 CRV ($7,992.53)
+GIVE Per Week: 123.43 ($57.47)
+APR: Day 0.10% Week 0.72% Year 37.39%
+You are staking 0.00 CRV ($0.00), 0.00% of the pool.
+Stake 0.00 CRV - Fee 3%
+Unstake 0.00 CRV
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+AAVE
+ Price: $408.37 Market Cap: $155,313,147.52 
+[%]
+Staked: 16.0527 AAVE ($6,555.43)
+GIVE Per Week: 123.43 ($57.47)
+APR: Day 0.13% Week 0.88% Year 45.59%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 3%
+Unstake 0.00 AAVE
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,605,024.30 TVL: $33,319,919.81
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0003 UNI-V2 ($1,158.45)
+GIVE Per Week: 370.29 ($172.40)
+APR: Day 2.13% Week 14.88% Year 773.87%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 3%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[USDC]-[GIVE] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,389,943.43 TVL: $2,646.41
+USDC Price: $1.00
+GIVE Price: $0.47
+Staked: 0.0019 SLP ($2,635.55)
+GIVE Per Week: 411.43 ($191.56)
+APR: Day 1.04% Week 7.27% Year 377.95%
+You are staking 0.00 [USDC]-[GIVE] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[GIVE] SLP
+Unstake 0.00 [USDC]-[GIVE] SLP
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[USDC]-[GIVE] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,368,261.28 TVL: $932.04
+USDC Price: $1.00
+GIVE Price: $0.47
+Staked: 0.0007 APE-LP ($915.07)
+GIVE Per Week: 411.43 ($191.56)
+APR: Day 2.99% Week 20.93% Year 1088.55%
+You are staking 0.00 [USDC]-[GIVE] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[GIVE] APE LP
+Unstake 0.00 [USDC]-[GIVE] APE LP
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+SUSHI
+ Price: $13.83 Market Cap: $14,019,275.42 
+[%]
+Staked: 827.2629 SUSHI ($11,441.05)
+GIVE Per Week: 370.29 ($172.40)
+APR: Day 0.22% Week 1.51% Year 78.36%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 3%
+Unstake 0.00 SUSHI
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+BANANA
+ Price: $0.00 Market Cap: $0.00 
+Staked: 978.4026 BANANA ($0.00)
+GIVE Per Week: 370.29 ($172.40)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BANANA ($0.00), NaN% of the pool.
+Stake 0.00 BANANA - Fee 3%
+Unstake 0.00 BANANA
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+SPADE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 307.1798 SPADE ($0.00)
+GIVE Per Week: 370.29 ($172.40)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SPADE ($0.00), NaN% of the pool.
+Stake 0.00 SPADE - Fee 3%
+Unstake 0.00 SPADE
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+PolyDoge
+ Price: $0.0000000063 Market Cap: $6,280,000.00 
+[%]
+Staked: 534892364378.4596 PolyDoge ($3,359.12)
+GIVE Per Week: 123.43 ($57.47)
+APR: Day 0.24% Week 1.71% Year 88.96%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 3%
+Unstake 0.00 PolyDoge
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[PolyDoge]-[GIVE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $547.01
+PolyDoge Price: $0.0000000063
+GIVE Price: $0.47
+Staked: 5008776.1108 UNI-V2 ($545.64)
+GIVE Per Week: 123.43 ($57.47)
+APR: Day 1.50% Week 10.53% Year 547.67%
+You are staking 0.00 [PolyDoge]-[GIVE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PolyDoge]-[GIVE] Uni LP
+Unstake 0.00 [PolyDoge]-[GIVE] Uni LP
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[GIVE]-[SPADE] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.87 TVL: $528.95
+GIVE Price: $0.47
+SPADE Price: $7.84
+Staked: 107.3403 SLP ($415.12)
+GIVE Per Week: 246.86 ($114.93)
+APR: Day 3.96% Week 27.69% Year 1439.73%
+You are staking 0.00 [GIVE]-[SPADE] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [GIVE]-[SPADE] SLP
+Unstake 0.00 [GIVE]-[SPADE] SLP
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[WETH]-[GIVE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $112,323,445.33 TVL: $1,057.38
+WETH Price: $3,325.76
+GIVE Price: $0.47
+Staked: 0.0000 UNI-V2 ($1,055.54)
+GIVE Per Week: 370.29 ($172.40)
+APR: Day 2.33% Week 16.33% Year 849.32%
+You are staking 0.00 [WETH]-[GIVE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[GIVE] Uni LP
+Unstake 0.00 [WETH]-[GIVE] Uni LP
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[WETH]-[GIVE] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $79.04 TVL: $734.95
+WETH Price: $3,325.76
+GIVE Price: $0.47
+Staked: 9.1721 SLP ($724.96)
+GIVE Per Week: 370.29 ($172.40)
+APR: Day 3.40% Week 23.78% Year 1236.61%
+You are staking 0.00 [WETH]-[GIVE] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[GIVE] SLP
+Unstake 0.00 [WETH]-[GIVE] SLP
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[WETH]-[GIVE] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $78.82 TVL: $843.07
+WETH Price: $3,325.76
+GIVE Price: $0.47
+Staked: 10.6257 APE-LP ($837.49)
+GIVE Per Week: 370.29 ($172.40)
+APR: Day 2.94% Week 20.59% Year 1070.45%
+You are staking 0.00 [WETH]-[GIVE] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[GIVE] APE LP
+Unstake 0.00 [WETH]-[GIVE] APE LP
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+[WBTC]-[GIVE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $42,024,744.63 TVL: $1,244.29
+WBTC Price: $50,096.00
+GIVE Price: $0.47
+Staked: 0.0000 UNI-V2 ($971.51)
+GIVE Per Week: 370.29 ($172.40)
+APR: Day 2.54% Week 17.75% Year 922.79%
+You are staking 0.00 [WBTC]-[GIVE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[GIVE] Uni LP
+Unstake 0.00 [WBTC]-[GIVE] Uni LP
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+[WMATIC]-[GIVE] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.76 TVL: $911.26
+WMATIC Price: $1.64
+GIVE Price: $0.47
+Staked: 516.2292 SLP ($910.16)
+GIVE Per Week: 822.86 ($383.12)
+APR: Day 6.01% Week 42.09% Year 2188.84%
+You are staking 0.00 [WMATIC]-[GIVE] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[GIVE] SLP
+Unstake 0.00 [WMATIC]-[GIVE] SLP
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+[SUSHI]-[GIVE] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.10 TVL: $585.43
+SUSHI Price: $13.83
+GIVE Price: $0.47
+Staked: 114.5123 SLP ($584.23)
+GIVE Per Week: 411.43 ($191.56)
+APR: Day 4.68% Week 32.79% Year 1704.99%
+You are staking 0.00 [SUSHI]-[GIVE] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SUSHI]-[GIVE] SLP
+Unstake 0.00 [SUSHI]-[GIVE] SLP
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+[COVAL]-[GIVE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $15,509.78 TVL: $836.51
+COVAL Price: $0.01
+GIVE Price: $0.47
+Staked: 0.0539 UNI-V2 ($836.03)
+GIVE Per Week: 246.86 ($114.93)
+APR: Day 1.96% Week 13.75% Year 714.88%
+You are staking 0.00 [COVAL]-[GIVE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COVAL]-[GIVE] Uni LP
+Unstake 0.00 [COVAL]-[GIVE] Uni LP
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+[WMATIC]-[GIVE] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.75 TVL: $979.22
+WMATIC Price: $1.64
+GIVE Price: $0.47
+Staked: 557.5745 APE-LP ($976.60)
+GIVE Per Week: 822.86 ($383.12)
+APR: Day 5.60% Week 39.23% Year 2039.94%
+You are staking 0.00 [WMATIC]-[GIVE] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[GIVE] APE LP
+Unstake 0.00 [WMATIC]-[GIVE] APE LP
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+33 - 
+[BANANA]-[GIVE] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.94 TVL: $305.24
+BANANA Price: $4.64
+GIVE Price: $0.47
+Staked: 102.8441 APE-LP ($302.68)
+GIVE Per Week: 411.43 ($191.56)
+APR: Day 9.04% Week 63.29% Year 3290.95%
+You are staking 0.00 [BANANA]-[GIVE] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BANANA]-[GIVE] APE LP
+Unstake 0.00 [BANANA]-[GIVE] APE LP
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+34 - 
+COVAL
+ Price: $0.01 Market Cap: $113,124.62 
+[%]
+Staked: 263723.9379 COVAL ($3,366.25)
+GIVE Per Week: 123.43 ($57.47)
+APR: Day 0.24% Week 1.71% Year 88.77%
+You are staking 0.00 COVAL ($0.00), 0.00% of the pool.
+Stake 0.00 COVAL - Fee 3%
+Unstake 0.00 COVAL
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+37 - 
+EMON
+ Price: $0.00 Market Cap: $0.00 
+Staked: 48500.0000 EMON ($0.00)
+GIVE Per Week: 370.29 ($172.40)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 EMON ($0.00), NaN% of the pool.
+Stake 0.00 EMON - Fee 3%
+Unstake 0.00 EMON
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+38 - 
+LINK
+ Price: $28.63 Market Cap: $64,968,168.31 
+[%]
+Staked: 74.0741 LINK ($2,120.74)
+GIVE Per Week: 246.86 ($114.93)
+APR: Day 0.77% Week 5.42% Year 281.82%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 3%
+Unstake 0.00 LINK
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+39 - 
+[GIVE]-[DFYN] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.50 TVL: $103.08
+GIVE Price: $0.47
+DFYN Price: $1.21
+Staked: 68.2197 DFYNLP ($102.61)
+GIVE Per Week: 411.43 ($191.56)
+APR: Day 26.67% Week 186.68% Year 9707.40%
+You are staking 0.00 [GIVE]-[DFYN] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GIVE]-[DFYN] DFYN LP
+Unstake 0.00 [GIVE]-[DFYN] DFYN LP
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+40 - 
+[ROUTE (PoS)]-[GIVE] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.95 TVL: $102.22
+ROUTE (PoS) Price: $4.65
+GIVE Price: $0.47
+Staked: 34.5252 DFYNLP ($101.75)
+GIVE Per Week: 370.29 ($172.40)
+APR: Day 24.21% Week 169.44% Year 8810.74%
+You are staking 0.00 [ROUTE (PoS)]-[GIVE] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ROUTE (PoS)]-[GIVE] DFYN LP
+Unstake 0.00 [ROUTE (PoS)]-[GIVE] DFYN LP
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+41 - 
+[WMATIC]-[GIVE] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.75 TVL: $1,097.81
+WMATIC Price: $1.64
+GIVE Price: $0.47
+Staked: 627.0779 DFYNLP ($1,097.36)
+GIVE Per Week: 822.86 ($383.12)
+APR: Day 4.99% Week 34.91% Year 1815.45%
+You are staking 0.00 [WMATIC]-[GIVE] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[GIVE] DFYN LP
+Unstake 0.00 [WMATIC]-[GIVE] DFYN LP
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+42 - 
+DFYN
+ Price: $1.21 Market Cap: $44,315,223.84 
+[%]
+Staked: 187.6338 DFYN ($227.04)
+GIVE Per Week: 123.43 ($57.47)
+APR: Day 3.62% Week 25.31% Year 1316.22%
+You are staking 0.00 DFYN ($0.00), 0.00% of the pool.
+Stake 0.00 DFYN - Fee 3%
+Unstake 0.00 DFYN
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+43 - 
+ROUTE (PoS)
+ Price: $4.65 Market Cap: $37,554,983.91 
+[%]
+Staked: 345.8345 ROUTE (PoS) ($1,608.91)
+GIVE Per Week: 123.43 ($57.47)
+APR: Day 0.51% Week 3.57% Year 185.74%
+You are staking 0.00 ROUTE (PoS) ($0.00), 0.00% of the pool.
+Stake 0.00 ROUTE (PoS) - Fee 3%
+Unstake 0.00 ROUTE (PoS)
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+44 - 
+[WMATIC]-[EMON] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.38 TVL: $213,750.51
+WMATIC Price: $1.64
+EMON Price: $0.27
+Staked: 1121.6947 UNI-V2 ($1,547.02)
+GIVE Per Week: 370.29 ($172.40)
+APR: Day 1.59% Week 11.14% Year 579.50%
+You are staking 0.00 [WMATIC]-[EMON] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[EMON] Uni LP - Fee 3%
+Unstake 0.00 [WMATIC]-[EMON] Uni LP
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $243,939.88

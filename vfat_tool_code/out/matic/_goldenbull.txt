@@ -1,0 +1,477 @@
+INFO  : https://farms.goldenbull.finance
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:28:44 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 28 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[GBULL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $102,984.91 TVL: $407.99
+USDC Price: $1.00
+GBULL Price: $0.001894
+Staked: 0.0019 UNI-V2 ($198.87)
+GBULL Per Week: 205.23 ($0.39)
+APR: Day 0.03% Week 0.20% Year 10.16%
+You are staking 0.00 [USDC]-[GBULL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[GBULL] Uni LP
+Unstake 0.00 [USDC]-[GBULL] Uni LP
+Claim 0.00 GBULL ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+WBTC
+ Price: $50,126.00 Market Cap: $699,213,311.32 
+[%]
+Staked: 0.0050 WBTC ($251.50)
+GBULL Per Week: 2052.26 ($3.89)
+APR: Day 0.22% Week 1.55% Year 80.38%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 3.2%
+Unstake 0.00 WBTC
+Claim 0.00 GBULL ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+WETH
+ Price: $3,319.44 Market Cap: $2,026,942,547.00 
+[%]
+Staked: 0.5683 WETH ($1,886.33)
+GBULL Per Week: 2052.26 ($3.89)
+APR: Day 0.03% Week 0.21% Year 10.72%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 3.2%
+Unstake 0.00 WETH
+Claim 0.00 GBULL ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+QUICK
+ Price: $740.06 Market Cap: $708,434,776.42 
+[%]
+Staked: 0.2653 QUICK ($196.37)
+GBULL Per Week: 2052.26 ($3.89)
+APR: Day 0.28% Week 1.98% Year 102.94%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 3.2%
+Unstake 0.00 QUICK
+Claim 0.00 GBULL ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WMATIC
+ Price: $1.65 Market Cap: $605,553,632.28 
+[%]
+Staked: 4807.1397 WMATIC ($7,931.78)
+GBULL Per Week: 3694.06 ($7.00)
+APR: Day 0.01% Week 0.09% Year 4.59%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 3.2%
+Unstake 0.00 WMATIC
+Claim 0.00 GBULL ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+USDC
+ Price: $1.00 Market Cap: $1,044,204,045.63 
+[%]
+Staked: 2419.6661 USDC ($2,410.27)
+GBULL Per Week: 2052.26 ($3.89)
+APR: Day 0.02% Week 0.16% Year 8.39%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 3.2%
+Unstake 0.00 USDC
+Claim 0.00 GBULL ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+USDT
+ Price: $1.00 Market Cap: $314,874,551.44 
+[%]
+Staked: 326.8770 USDT ($326.55)
+GBULL Per Week: 2052.26 ($3.89)
+APR: Day 0.17% Week 1.19% Year 61.91%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 3.2%
+Unstake 0.00 USDT
+Claim 0.00 GBULL ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+DAI
+ Price: $1.00 Market Cap: $376,255,408.70 
+[%]
+Staked: 164.4493 DAI ($164.45)
+GBULL Per Week: 2052.26 ($3.89)
+APR: Day 0.34% Week 2.36% Year 122.93%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 3.2%
+Unstake 0.00 DAI
+Claim 0.00 GBULL ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+GBULL
+ Price: $0.001894 Market Cap: $3,608.18 
+[%]
+Staked: 511310.6015 GBULL ($968.57)
+GBULL Per Week: 8209.03 ($15.55)
+APR: Day 0.23% Week 1.61% Year 83.49%
+You are staking 0.00 GBULL ($0.00), 0.00% of the pool.
+Stake 0.00 GBULL
+Unstake 0.00 GBULL
+Claim 0.00 GBULL ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,538,809.24 TVL: $147,858,881.81
+USDC Price: $1.00
+WETH Price: $3,319.44
+Staked: 0.0000 UNI-V2 ($969.87)
+GBULL Per Week: 3078.38 ($5.83)
+APR: Day 0.09% Week 0.60% Year 31.27%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 3.2%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 GBULL ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,611,882.19 TVL: $33,383,801.05
+WMATIC Price: $1.65
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($197.57)
+GBULL Per Week: 3078.38 ($5.83)
+APR: Day 0.42% Week 2.95% Year 153.48%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 3.2%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 GBULL ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[WMATIC]-[GBULL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.13 TVL: $236.66
+WMATIC Price: $1.65
+GBULL Price: $0.001894
+Staked: 329.9820 UNI-V2 ($41.72)
+GBULL Per Week: 205.23 ($0.39)
+APR: Day 0.13% Week 0.93% Year 48.45%
+You are staking 0.00 [WMATIC]-[GBULL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[GBULL] Uni LP
+Unstake 0.00 [WMATIC]-[GBULL] Uni LP
+Claim 0.00 GBULL ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[GBULL]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.52 TVL: $97.24
+GBULL Price: $0.001894
+QUICK Price: $740.06
+Staked: 19.5408 UNI-V2 ($49.32)
+GBULL Per Week: 205.23 ($0.39)
+APR: Day 0.11% Week 0.79% Year 40.99%
+You are staking 0.00 [GBULL]-[QUICK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GBULL]-[QUICK] Uni LP
+Unstake 0.00 [GBULL]-[QUICK] Uni LP
+Claim 0.00 GBULL ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[GBULL]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.48 TVL: $193.61
+GBULL Price: $0.001894
+WETH Price: $3,319.44
+Staked: 19.9533 UNI-V2 ($109.25)
+GBULL Per Week: 205.23 ($0.39)
+APR: Day 0.05% Week 0.36% Year 18.50%
+You are staking 0.00 [GBULL]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GBULL]-[WETH] Uni LP
+Unstake 0.00 [GBULL]-[WETH] Uni LP
+Claim 0.00 GBULL ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[BULL]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $109,490.38 TVL: $698.31
+BULL Price: $0.001834
+USDC Price: $1.00
+Staked: 0.0002 UNI-V2 ($26.50)
+GBULL Per Week: 205.23 ($0.39)
+APR: Day 0.21% Week 1.47% Year 76.29%
+You are staking 0.00 [BULL]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BULL]-[USDC] Uni LP
+Unstake 0.00 [BULL]-[USDC] Uni LP
+Claim 0.00 GBULL ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[WMATIC]-[BULL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.16 TVL: $1,078.62
+WMATIC Price: $1.65
+BULL Price: $0.001834
+Staked: 92.6095 UNI-V2 ($14.76)
+GBULL Per Week: 205.23 ($0.39)
+APR: Day 0.38% Week 2.63% Year 136.98%
+You are staking 0.00 [WMATIC]-[BULL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[BULL] Uni LP
+Unstake 0.00 [WMATIC]-[BULL] Uni LP
+Claim 0.00 GBULL ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[GBULL]-[miMATIC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.09 TVL: $87.52
+GBULL Price: $0.001894
+miMATIC Price: $0.98
+Staked: 349.6570 UNI-V2 ($31.83)
+GBULL Per Week: 3283.61 ($6.22)
+APR: Day 2.79% Week 19.54% Year 1016.01%
+You are staking 0.00 [GBULL]-[miMATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GBULL]-[miMATIC] Uni LP - Fee 3.2%
+Unstake 0.00 [GBULL]-[miMATIC] Uni LP
+Claim 0.00 GBULL ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[USDC]-[GBULL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $95,076.18 TVL: $546.18
+USDC Price: $1.00
+GBULL Price: $0.001894
+Staked: 0.0047 BULL-LP ($451.08)
+GBULL Per Week: 30783.85 ($58.31)
+APR: Day 1.85% Week 12.93% Year 672.23%
+You are staking 0.00 [USDC]-[GBULL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[GBULL] Uni LP
+Unstake 0.00 [USDC]-[GBULL] Uni LP
+Claim 0.00 GBULL ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[WMATIC]-[GBULL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.12 TVL: $547.51
+WMATIC Price: $1.65
+GBULL Price: $0.001894
+Staked: 3438.0847 BULL-LP ($424.48)
+GBULL Per Week: 24627.08 ($46.65)
+APR: Day 1.57% Week 10.99% Year 571.48%
+You are staking 0.00 [WMATIC]-[GBULL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[GBULL] Uni LP
+Unstake 0.00 [WMATIC]-[GBULL] Uni LP
+Claim 0.00 GBULL ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[GBULL]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.46 TVL: $232.38
+GBULL Price: $0.001894
+QUICK Price: $740.06
+Staked: 90.9217 BULL-LP ($223.59)
+GBULL Per Week: 18470.31 ($34.99)
+APR: Day 2.24% Week 15.65% Year 813.72%
+You are staking 0.00 [GBULL]-[QUICK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GBULL]-[QUICK] Uni LP
+Unstake 0.00 [GBULL]-[QUICK] Uni LP
+Claim 0.00 GBULL ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[GBULL]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.37 TVL: $120.63
+GBULL Price: $0.001894
+WETH Price: $3,319.44
+Staked: 21.4240 BULL-LP ($115.12)
+GBULL Per Week: 24627.08 ($46.65)
+APR: Day 5.79% Week 40.52% Year 2107.26%
+You are staking 0.00 [GBULL]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GBULL]-[WETH] Uni LP
+Unstake 0.00 [GBULL]-[WETH] Uni LP
+Claim 0.00 GBULL ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[BULL]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $92,947.43 TVL: $74.13
+BULL Price: $0.001834
+USDC Price: $1.00
+Staked: 0.0005 BULL-LP ($45.81)
+GBULL Per Week: 8209.03 ($15.55)
+APR: Day 4.85% Week 33.95% Year 1765.21%
+You are staking 0.00 [BULL]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BULL]-[USDC] Uni LP
+Unstake 0.00 [BULL]-[USDC] Uni LP
+Claim 0.00 GBULL ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[WMATIC]-[BULL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.12 TVL: $619.66
+WMATIC Price: $1.65
+BULL Price: $0.001834
+Staked: 1915.5215 BULL-LP ($232.01)
+GBULL Per Week: 8209.03 ($15.55)
+APR: Day 0.96% Week 6.70% Year 348.53%
+You are staking 0.00 [WMATIC]-[BULL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[BULL] Uni LP
+Unstake 0.00 [WMATIC]-[BULL] Uni LP
+Claim 0.00 GBULL ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[BULL]-[TITAN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.53 TVL: $1,974,522.05
+BULL Price: $0.001834
+TITAN Price: $0.01
+Staked: 3701490.7361 BULL-LP ($1,962,706.04)
+GBULL Per Week: 5746.32 ($10.89)
+APR: Day 0.00% Week 0.00% Year 0.03%
+You are staking 0.00 [BULL]-[TITAN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BULL]-[TITAN] Uni LP - Fee 2%
+Unstake 0.00 [BULL]-[TITAN] Uni LP
+Claim 0.00 GBULL ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[GBULL]-[TITAN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.54 TVL: $6,214,347.74
+GBULL Price: $0.001894
+TITAN Price: $0.01
+Staked: 2718226.2688 BULL-LP ($1,465,567.62)
+GBULL Per Week: 5746.32 ($10.89)
+APR: Day 0.00% Week 0.00% Year 0.04%
+You are staking 0.00 [GBULL]-[TITAN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GBULL]-[TITAN] Uni LP - Fee 2%
+Unstake 0.00 [GBULL]-[TITAN] Uni LP
+Claim 0.00 GBULL ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+[USDC]-[TITAN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13,423,524.99 TVL: $4,846,279.91
+USDC Price: $1.00
+TITAN Price: $0.01
+Staked: 0.2671 BULL-LP ($3,586,009.59)
+GBULL Per Week: 5746.32 ($10.89)
+APR: Day 0.00% Week 0.00% Year 0.02%
+You are staking 0.00 [USDC]-[TITAN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[TITAN] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[TITAN] Uni LP
+Claim 0.00 GBULL ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+[WMATIC]-[TITAN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $17.41 TVL: $2,227,517.41
+WMATIC Price: $1.65
+TITAN Price: $0.01
+Staked: 60378.0446 BULL-LP ($1,051,186.80)
+GBULL Per Week: 5746.32 ($10.89)
+APR: Day 0.00% Week 0.00% Year 0.05%
+You are staking 0.00 [WMATIC]-[TITAN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[TITAN] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[TITAN] Uni LP
+Claim 0.00 GBULL ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $8,082,737.66

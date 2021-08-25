@@ -1,0 +1,448 @@
+INFO  : https://farms.apwars.farm
+****************************************************************************************
+
+Mon Aug 23 2021 14:13:36 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 34 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[wGOLD]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.19 TVL: $406,406.94
+wGOLD Price: $0.008096
+BUSD Price: $1.00
+Staked: 2059377.1429 Cake-LP ($399,218.05)
+WGOLD Per Week: 1401642.42 ($11,347.16)
+APR: Day 0.41% Week 2.84% Year 147.80%
+You are staking 0.00 [wGOLD]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wGOLD]-[BUSD] Cake LP
+Unstake 0.00 [wGOLD]-[BUSD] Cake LP
+Claim 0.00 WGOLD ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[wGOLD]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.20 TVL: $281,972.60
+wGOLD Price: $0.008096
+WBNB Price: $484.34
+Staked: 65881.4810 Cake-LP ($276,481.50)
+WGOLD Per Week: 1051231.81 ($8,510.37)
+APR: Day 0.44% Week 3.08% Year 160.06%
+You are staking 0.00 [wGOLD]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wGOLD]-[WBNB] Cake LP
+Unstake 0.00 [wGOLD]-[WBNB] Cake LP
+Claim 0.00 WGOLD ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.25 TVL: $1,018,667.76
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 126876.1352 Cake-LP ($285,903.51)
+WGOLD Per Week: 210246.36 ($1,702.07)
+APR: Day 0.09% Week 0.60% Year 30.96%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 WGOLD ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[wWARRIOR]-[wGOLD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $13,224.97
+wWARRIOR Price: $0.006017
+wGOLD Price: $0.008096
+Staked: 921901.0657 Cake-LP ($13,036.12)
+WGOLD Per Week: 70082.12 ($567.36)
+APR: Day 0.62% Week 4.35% Year 226.31%
+You are staking 0.00 [wWARRIOR]-[wGOLD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wWARRIOR]-[wGOLD] Cake LP - Fee 4%
+Unstake 0.00 [wWARRIOR]-[wGOLD] Cake LP
+Claim 0.00 WGOLD ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[wGOLD]-[wGRUNT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $14,502.16
+wGOLD Price: $0.008096
+wGRUNT Price: $0.004710
+Staked: 1148416.0647 Cake-LP ($14,334.05)
+WGOLD Per Week: 70082.12 ($567.36)
+APR: Day 0.57% Week 3.96% Year 205.82%
+You are staking 0.00 [wGOLD]-[wGRUNT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wGOLD]-[wGRUNT] Cake LP - Fee 4%
+Unstake 0.00 [wGOLD]-[wGRUNT] Cake LP
+Claim 0.00 WGOLD ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[wGOLD]-[wARCHER] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $12,867.16
+wGOLD Price: $0.008096
+wARCHER Price: $0.005193
+Staked: 968445.9936 Cake-LP ($12,713.00)
+WGOLD Per Week: 70082.12 ($567.36)
+APR: Day 0.64% Week 4.46% Year 232.07%
+You are staking 0.00 [wGOLD]-[wARCHER] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wGOLD]-[wARCHER] Cake LP - Fee 4%
+Unstake 0.00 [wGOLD]-[wARCHER] Cake LP
+Claim 0.00 WGOLD ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[wGOLD]-[wORC-ARCHER] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $13,649.00
+wGOLD Price: $0.008096
+wORC-ARCHER Price: $0.004348
+Staked: 1101460.2820 Cake-LP ($13,212.34)
+WGOLD Per Week: 70082.12 ($567.36)
+APR: Day 0.61% Week 4.29% Year 223.30%
+You are staking 0.00 [wGOLD]-[wORC-ARCHER] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wGOLD]-[wORC-ARCHER] Cake LP - Fee 4%
+Unstake 0.00 [wGOLD]-[wORC-ARCHER] Cake LP
+Claim 0.00 WGOLD ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[wGOLD]-[wARMORED-WARRIOR] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $13,101.52
+wGOLD Price: $0.008096
+wARMORED-WARRIOR Price: $0.02
+Staked: 543989.7542 Cake-LP ($12,945.70)
+WGOLD Per Week: 70082.12 ($567.36)
+APR: Day 0.63% Week 4.38% Year 227.89%
+You are staking 0.00 [wGOLD]-[wARMORED-WARRIOR] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wGOLD]-[wARMORED-WARRIOR] Cake LP - Fee 4%
+Unstake 0.00 [wGOLD]-[wARMORED-WARRIOR] Cake LP
+Claim 0.00 WGOLD ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[wARMORED-GRUNT]-[wGOLD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $13,534.87
+wARMORED-GRUNT Price: $0.01
+wGOLD Price: $0.008096
+Staked: 596638.8628 Cake-LP ($13,302.48)
+WGOLD Per Week: 70082.12 ($567.36)
+APR: Day 0.61% Week 4.27% Year 221.78%
+You are staking 0.00 [wARMORED-GRUNT]-[wGOLD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wARMORED-GRUNT]-[wGOLD] Cake LP - Fee 4%
+Unstake 0.00 [wARMORED-GRUNT]-[wGOLD] Cake LP
+Claim 0.00 WGOLD ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[wGOLD]-[wCROSSBOW-MAN] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $13,077.57
+wGOLD Price: $0.008096
+wCROSSBOW-MAN Price: $0.02
+Staked: 501959.3322 Cake-LP ($12,930.59)
+WGOLD Per Week: 70082.12 ($567.36)
+APR: Day 0.63% Week 4.39% Year 228.16%
+You are staking 0.00 [wGOLD]-[wCROSSBOW-MAN] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wGOLD]-[wCROSSBOW-MAN] Cake LP - Fee 4%
+Unstake 0.00 [wGOLD]-[wCROSSBOW-MAN] Cake LP
+Claim 0.00 WGOLD ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[wPIKE-ORC]-[wGOLD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $14,340.98
+wPIKE-ORC Price: $0.02
+wGOLD Price: $0.008096
+Staked: 569859.9817 Cake-LP ($14,078.64)
+WGOLD Per Week: 70082.12 ($567.36)
+APR: Day 0.58% Week 4.03% Year 209.56%
+You are staking 0.00 [wPIKE-ORC]-[wGOLD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wPIKE-ORC]-[wGOLD] Cake LP - Fee 4%
+Unstake 0.00 [wPIKE-ORC]-[wGOLD] Cake LP
+Claim 0.00 WGOLD ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[wCOURAGE]-[wGOLD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $94,789.77
+wCOURAGE Price: $0.001852
+wGOLD Price: $0.008096
+Staked: 11193002.5487 Cake-LP ($87,540.64)
+WGOLD Per Week: 70082.12 ($567.36)
+APR: Day 0.09% Week 0.65% Year 33.70%
+You are staking 0.00 [wCOURAGE]-[wGOLD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wCOURAGE]-[wGOLD] Cake LP - Fee 4%
+Unstake 0.00 [wCOURAGE]-[wGOLD] Cake LP
+Claim 0.00 WGOLD ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[wWIZARD]-[wGOLD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.04 TVL: $13,121.84
+wWIZARD Price: $0.04
+wGOLD Price: $0.008096
+Staked: 336036.8162 Cake-LP ($12,976.93)
+WGOLD Per Week: 70082.12 ($567.36)
+APR: Day 0.62% Week 4.37% Year 227.35%
+You are staking 0.00 [wWIZARD]-[wGOLD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wWIZARD]-[wGOLD] Cake LP - Fee 4%
+Unstake 0.00 [wWIZARD]-[wGOLD] Cake LP
+Claim 0.00 WGOLD ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[wSHAMAN]-[wGOLD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.04 TVL: $16,108.67
+wSHAMAN Price: $0.04
+wGOLD Price: $0.008096
+Staked: 411712.7444 Cake-LP ($15,582.38)
+WGOLD Per Week: 70082.12 ($567.36)
+APR: Day 0.52% Week 3.64% Year 189.33%
+You are staking 0.00 [wSHAMAN]-[wGOLD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wSHAMAN]-[wGOLD] Cake LP - Fee 4%
+Unstake 0.00 [wSHAMAN]-[wGOLD] Cake LP
+Claim 0.00 WGOLD ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[wGOLD]-[wSKELETON-WARRIOR] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $14,008.28
+wGOLD Price: $0.008096
+wSKELETON-WARRIOR Price: $0.005769
+Staked: 986578.4806 Cake-LP ($13,645.25)
+WGOLD Per Week: 70082.12 ($567.36)
+APR: Day 0.59% Week 4.16% Year 216.21%
+You are staking 0.00 [wGOLD]-[wSKELETON-WARRIOR] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wGOLD]-[wSKELETON-WARRIOR] Cake LP - Fee 4%
+Unstake 0.00 [wGOLD]-[wSKELETON-WARRIOR] Cake LP
+Claim 0.00 WGOLD ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[wHOUND]-[wGOLD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $13,479.49
+wHOUND Price: $0.006103
+wGOLD Price: $0.008096
+Staked: 916445.6616 Cake-LP ($13,053.59)
+WGOLD Per Week: 70082.12 ($567.36)
+APR: Day 0.62% Week 4.35% Year 226.01%
+You are staking 0.00 [wHOUND]-[wGOLD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wHOUND]-[wGOLD] Cake LP - Fee 4%
+Unstake 0.00 [wHOUND]-[wGOLD] Cake LP
+Claim 0.00 WGOLD ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[wGOLD]-[wUNDEAD-ARCHER] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.03 TVL: $12,119.50
+wGOLD Price: $0.008096
+wUNDEAD-ARCHER Price: $0.03
+Staked: 367246.4008 Cake-LP ($11,752.17)
+WGOLD Per Week: 70082.12 ($567.36)
+APR: Day 0.69% Week 4.83% Year 251.04%
+You are staking 0.00 [wGOLD]-[wUNDEAD-ARCHER] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wGOLD]-[wUNDEAD-ARCHER] Cake LP - Fee 4%
+Unstake 0.00 [wGOLD]-[wUNDEAD-ARCHER] Cake LP
+Claim 0.00 WGOLD ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[wWITCH]-[wGOLD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.04 TVL: $23,908.01
+wWITCH Price: $0.04
+wGOLD Price: $0.008096
+Staked: 626969.6134 Cake-LP ($23,143.97)
+WGOLD Per Week: 70082.12 ($567.36)
+APR: Day 0.35% Week 2.45% Year 127.47%
+You are staking 0.00 [wWITCH]-[wGOLD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wWITCH]-[wGOLD] Cake LP - Fee 4%
+Unstake 0.00 [wWITCH]-[wGOLD] Cake LP
+Claim 0.00 WGOLD ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+[wGOLD]-[wUNDEAD-PIKEMAN] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.04 TVL: $12,077.09
+wGOLD Price: $0.008096
+wUNDEAD-PIKEMAN Price: $0.04
+Staked: 322872.3464 Cake-LP ($11,593.67)
+WGOLD Per Week: 70082.12 ($567.36)
+APR: Day 0.70% Week 4.89% Year 254.47%
+You are staking 0.00 [wGOLD]-[wUNDEAD-PIKEMAN] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wGOLD]-[wUNDEAD-PIKEMAN] Cake LP - Fee 4%
+Unstake 0.00 [wGOLD]-[wUNDEAD-PIKEMAN] Cake LP
+Claim 0.00 WGOLD ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+[wHORSEMAN]-[wGOLD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.05 TVL: $13,413.57
+wHORSEMAN Price: $0.08
+wGOLD Price: $0.008096
+Staked: 257184.1041 Cake-LP ($12,823.65)
+WGOLD Per Week: 70082.12 ($567.36)
+APR: Day 0.63% Week 4.42% Year 230.06%
+You are staking 0.00 [wHORSEMAN]-[wGOLD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wHORSEMAN]-[wGOLD] Cake LP - Fee 4%
+Unstake 0.00 [wHORSEMAN]-[wGOLD] Cake LP
+Claim 0.00 WGOLD ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+[wDEATH-KNIGHT]-[wGOLD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.05 TVL: $17,174.28
+wDEATH-KNIGHT Price: $0.09
+wGOLD Price: $0.008096
+Staked: 299131.4560 Cake-LP ($16,413.54)
+WGOLD Per Week: 70082.12 ($567.36)
+APR: Day 0.49% Week 3.46% Year 179.75%
+You are staking 0.00 [wDEATH-KNIGHT]-[wGOLD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wDEATH-KNIGHT]-[wGOLD] Cake LP - Fee 4%
+Unstake 0.00 [wDEATH-KNIGHT]-[wGOLD] Cake LP
+Claim 0.00 WGOLD ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+[wGOLD]-[wWARG] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.05 TVL: $16,715.57
+wGOLD Price: $0.008096
+wWARG Price: $0.07
+Staked: 324963.5234 Cake-LP ($16,121.03)
+WGOLD Per Week: 70082.12 ($567.36)
+APR: Day 0.50% Week 3.52% Year 183.01%
+You are staking 0.00 [wGOLD]-[wWARG] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wGOLD]-[wWARG] Cake LP - Fee 4%
+Unstake 0.00 [wGOLD]-[wWARG] Cake LP
+Claim 0.00 WGOLD ($0.00)
+Staking or unstaking also claims rewards.
+33 - 
+wWISDOM
+ Price: $0.00 Market Cap: $0.00 
+Staked: 49.5178 wWISDOM ($0.00)
+WGOLD Per Week: 140164.24 ($1,134.72)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 wWISDOM ($0.00), NaN% of the pool.
+Stake 0.00 wWISDOM
+Unstake 0.00 wWISDOM
+Claim 0.00 WGOLD ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,302,802.82

@@ -1,0 +1,45 @@
+INFO  : https://wild.credit
+************************************************************************************
+
+Mon Aug 23 2021 15:47:25 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+
+xWILD Price: $0.84 Total Supply: 8061140.9478 TVL: $6,797,369.53
+WILD Price: $0.70
+There is a total of 9639580.58 WILD staked in xWILD
+Your balance is 0.00 xWILD (0.00 WILD), $0.00, 0.00% of the pool
+Stake 0.00 WILD
+Unstake 0.00 xWILD
+Staking Contract
+Found 1 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WILD]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $102.52 TVL: $928,000.11
+WILD Price: $0.71
+WETH Price: $3,328.40
+Staked: 8893.1623 UNI-V2 ($911,718.09)
+WILD Per Week: 84224.00 ($59,390.72)
+APR: Day 0.93% Week 6.51% Year 338.74%
+You are staking 0.00 [WILD]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WILD]-[WETH] Uni LP
+Unstake 0.00 [WILD]-[WETH] Uni LP
+Claim 0.00 WILD ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $911,718.09

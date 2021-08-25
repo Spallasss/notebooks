@@ -1,0 +1,193 @@
+INFO  : https://bsc.plaguefactory.com
+****************************************************************************************
+
+Mon Aug 23 2021 15:17:17 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 11 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[BUSD]-[PLAGUE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $14.79
+BUSD Price: $1.00
+PLAGUE Price: $0.0000484637
+Staked: 85.2314 Cake-LP ($1.20)
+PLAGUE Per Week: 150447.76 ($7.29)
+APR: Day 86.50% Week 605.53% Year 31487.69%
+You are staking 0.00 [BUSD]-[PLAGUE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[PLAGUE] Cake LP
+Unstake 0.00 [BUSD]-[PLAGUE] Cake LP
+Claim 0.00 PLAGUE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WBNB]-[PLAGUE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.32 TVL: $18.25
+WBNB Price: $495.85
+PLAGUE Price: $0.0000484637
+Staked: 6.2935 Cake-LP ($2.00)
+PLAGUE Per Week: 150447.76 ($7.29)
+APR: Day 52.14% Week 364.97% Year 18978.37%
+You are staking 0.00 [WBNB]-[PLAGUE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[PLAGUE] Cake LP
+Unstake 0.00 [WBNB]-[PLAGUE] Cake LP
+Claim 0.00 PLAGUE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.34 TVL: $531,115,008.30
+WBNB Price: $495.85
+BUSD Price: $1.00
+Staked: 9.0000 Cake-LP ($453.09)
+PLAGUE Per Week: 75223.88 ($3.65)
+APR: Day 0.11% Week 0.80% Year 41.84%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 PLAGUE ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,323,322.01
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 400.0000 Cake-LP ($818.83)
+PLAGUE Per Week: 75223.88 ($3.65)
+APR: Day 0.06% Week 0.45% Year 23.15%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 PLAGUE ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,348,857.89
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 400.0000 Cake-LP ($814.30)
+PLAGUE Per Week: 75223.88 ($3.65)
+APR: Day 0.06% Week 0.45% Year 23.28%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 PLAGUE ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.01 TVL: $1,600.83
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+PLAGUE Per Week: 75223.88 ($3.65)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 PLAGUE ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+PLAGUE
+ Price: $0.0000484637 Market Cap: $32.70 
+[%]
+Staked: 201025.7577 PLAGUE ($9.74)
+PLAGUE Per Week: 105313.43 ($5.10)
+APR: Day 7.48% Week 52.39% Year 2724.18%
+You are staking 0.00 PLAGUE ($0.00), 0.00% of the pool.
+Stake 0.00 PLAGUE
+Unstake 0.00 PLAGUE
+Claim 0.00 PLAGUE ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+BUSD
+ Price: $1.00 Market Cap: $4,197,752,027.46 
+[%]
+Staked: 96.0366 BUSD ($95.96)
+PLAGUE Per Week: 75223.88 ($3.65)
+APR: Day 0.54% Week 3.80% Year 197.55%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 PLAGUE ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 1.8240 USDT ($1.82)
+PLAGUE Per Week: 75223.88 ($3.65)
+APR: Day 28.56% Week 199.91% Year 10395.25%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 PLAGUE ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 1000.0000 DAI ($1,000.00)
+PLAGUE Per Week: 75223.88 ($3.65)
+APR: Day 0.05% Week 0.36% Year 18.96%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 PLAGUE ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,591,032.00 
+[%]
+Staked: 1420.0488 USDC ($1,418.92)
+PLAGUE Per Week: 75223.88 ($3.65)
+APR: Day 0.04% Week 0.26% Year 13.36%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 PLAGUE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $4,615.87

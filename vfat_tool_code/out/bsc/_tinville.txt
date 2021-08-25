@@ -1,0 +1,179 @@
+INFO  : https://farms.tinville.finance
+*************************************************************************************
+
+Mon Aug 23 2021 14:32:37 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 12 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[TINVS]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.19 TVL: $8,737.47
+TINVS Price: $0.007597
+BUSD Price: $1.00
+Staked: 45710.1172 Cake-LP ($8,605.27)
+TINvS Per Week: 57982.30 ($440.50)
+APR: Day 0.73% Week 5.12% Year 266.18%
+You are staking 0.00 [TINVS]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TINVS]-[BUSD] Cake LP
+Unstake 0.00 [TINVS]-[BUSD] Cake LP
+Claim 0.00 TINvS ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WBNB]-[TINVS] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.10 TVL: $17,589.31
+WBNB Price: $483.97
+TINVS Price: $0.007597
+Staked: 4278.1100 Cake-LP ($17,529.16)
+TINvS Per Week: 57982.30 ($440.50)
+APR: Day 0.36% Week 2.51% Year 130.67%
+You are staking 0.00 [WBNB]-[TINVS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[TINVS] Cake LP
+Unstake 0.00 [WBNB]-[TINVS] Cake LP
+Claim 0.00 TINvS ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WBNB]-[TINV] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,418,584.09 TVL: $326,464.62
+WBNB Price: $483.97
+TINV Price: $0.95
+Staked: 0.0084 Cake-LP ($11,874.87)
+TINvS Per Week: 17840.71 ($135.54)
+APR: Day 0.16% Week 1.14% Year 59.35%
+You are staking 0.00 [WBNB]-[TINV] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[TINV] Cake LP
+Unstake 0.00 [WBNB]-[TINV] Cake LP
+Claim 0.00 TINvS ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+TINVS
+ Price: $0.007597 Market Cap: $33,588.12 
+[%]
+Staked: 1289765.2523 TINVS ($9,798.45)
+TINvS Per Week: 17840.71 ($135.54)
+APR: Day 0.20% Week 1.38% Year 71.93%
+You are staking 0.00 TINVS ($0.00), 0.00% of the pool.
+Stake 0.00 TINVS
+Unstake 0.00 TINVS
+Claim 0.00 TINvS ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+TINV
+ Price: $0.95 Market Cap: $689,508.86 
+[%]
+Staked: 29040.6390 TINV ($27,574.79)
+TINvS Per Week: 17840.71 ($135.54)
+APR: Day 0.07% Week 0.49% Year 25.56%
+You are staking 0.00 TINV ($0.00), 0.00% of the pool.
+Stake 0.00 TINV - Fee 5%
+Unstake 0.00 TINV
+Claim 0.00 TINvS ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WBNB
+ Price: $483.97 Market Cap: $3,427,340,290.81 
+[%]
+Staked: 2.6683 WBNB ($1,291.38)
+TINvS Per Week: 4460.18 ($33.88)
+APR: Day 0.37% Week 2.62% Year 136.44%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 TINvS ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+Cake
+ Price: $24.99 Market Cap: $10,398,980,585.93 
+[%]
+Staked: 129.4787 Cake ($3,235.67)
+TINvS Per Week: 5352.21 ($40.66)
+APR: Day 0.18% Week 1.26% Year 65.35%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 TINvS ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.71 TVL: $527,165,009.66
+WBNB Price: $483.97
+BUSD Price: $1.00
+Staked: 9.3373 Cake-LP ($464.17)
+TINvS Per Week: 4460.18 ($33.88)
+APR: Day 1.04% Week 7.30% Year 379.60%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 TINvS ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+ETH
+ Price: $3,322.84 Market Cap: $4,336,306,200.00 
+[%]
+Staked: 1.5030 ETH ($4,994.33)
+TINvS Per Week: 7136.28 ($54.21)
+APR: Day 0.16% Week 1.09% Year 56.45%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 TINvS ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+BUSD
+ Price: $1.00 Market Cap: $4,193,689,661.04 
+[%]
+Staked: 1111.4795 BUSD ($1,109.55)
+TINvS Per Week: 5352.21 ($40.66)
+APR: Day 0.52% Week 3.66% Year 190.56%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 TINvS ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+USDC
+ Price: $1.00 Market Cap: $1,776,125,136.00 
+[%]
+Staked: 981.8155 USDC ($980.23)
+TINvS Per Week: 5352.21 ($40.66)
+APR: Day 0.59% Week 4.15% Year 215.70%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 TINvS ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $87,457.85

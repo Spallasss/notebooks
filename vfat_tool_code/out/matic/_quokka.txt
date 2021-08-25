@@ -1,0 +1,130 @@
+INFO  : https://polyquokka.finance/
+*****************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 13:09:23 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 8 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WMATIC]-[QUOKK] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.33 TVL: $18,624.76
+WMATIC Price: $1.64
+QUOKK Price: $0.74
+Staked: 7260.6285 SLP ($16,885.78)
+QUOKK Per Week: 127684.73 ($94,812.50)
+APR: Day 80.21% Week 561.49% Year 29197.64%
+You are staking 0.00 [WMATIC]-[QUOKK] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[QUOKK] SLP
+Unstake 0.00 [WMATIC]-[QUOKK] SLP
+Claim 0.00 QUOKK ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[USDC]-[QUOKK] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,791,633.34 TVL: $17,887.61
+USDC Price: $1.00
+QUOKK Price: $0.74
+Staked: 0.0073 SLP ($13,000.20)
+QUOKK Per Week: 85123.15 ($63,208.33)
+APR: Day 69.46% Week 486.21% Year 25282.94%
+You are staking 0.00 [USDC]-[QUOKK] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[QUOKK] SLP
+Unstake 0.00 [USDC]-[QUOKK] SLP
+Claim 0.00 QUOKK ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+QUOKK
+ Price: $0.74 Market Cap: $2,657,626.45 
+[%]
+Staked: 21066.7365 QUOKK ($15,643.14)
+QUOKK Per Week: 42561.58 ($31,604.17)
+APR: Day 28.86% Week 202.03% Year 10505.67%
+You are staking 0.00 QUOKK ($0.00), 0.00% of the pool.
+Stake 0.00 QUOKK
+Unstake 0.00 QUOKK
+Claim 0.00 QUOKK ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WMATIC
+ Price: $1.64 Market Cap: $603,135,556.35 
+[%]
+Staked: 9135.1097 WMATIC ($14,981.58)
+QUOKK Per Week: 9931.03 ($7,374.31)
+APR: Day 7.03% Week 49.22% Year 2559.57%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 3.99%
+Unstake 0.00 WMATIC
+Claim 0.00 QUOKK ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WETH
+ Price: $3,316.30 Market Cap: $2,021,839,247.18 
+[%]
+Staked: 2.4261 WETH ($8,045.56)
+QUOKK Per Week: 7093.60 ($5,267.36)
+APR: Day 9.35% Week 65.47% Year 3404.40%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 3.99%
+Unstake 0.00 WETH
+Claim 0.00 QUOKK ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WBTC
+ Price: $49,989.00 Market Cap: $696,550,853.31 
+[%]
+Staked: 0.1057 WBTC ($5,281.46)
+QUOKK Per Week: 7093.60 ($5,267.36)
+APR: Day 14.25% Week 99.73% Year 5186.12%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 3.99%
+Unstake 0.00 WBTC
+Claim 0.00 QUOKK ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+USDT
+ Price: $1.00 Market Cap: $314,851,568.06 
+[%]
+Staked: 4365.8788 USDT ($4,361.69)
+QUOKK Per Week: 4256.16 ($3,160.42)
+APR: Day 10.35% Week 72.46% Year 3767.85%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4.99%
+Unstake 0.00 USDT
+Claim 0.00 QUOKK ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+USDC
+ Price: $1.00 Market Cap: $1,041,929,775.00 
+[%]
+Staked: 13943.4548 USDC ($13,922.73)
+QUOKK Per Week: 4256.16 ($3,160.42)
+APR: Day 3.24% Week 22.70% Year 1180.38%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4.99%
+Unstake 0.00 USDC
+Claim 0.00 QUOKK ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $92,122.14

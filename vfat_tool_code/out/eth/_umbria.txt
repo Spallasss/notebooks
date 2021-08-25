@@ -1,0 +1,38 @@
+INFO  : https://farm.umbria.network
+***********************************************************************************
+
+Mon Aug 23 2021 15:39:52 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 1 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[UMBR]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $117.02 TVL: $692,149.62
+UMBR Price: $0.98
+WETH Price: $3,333.32
+Staked: 1293.5588 UNI-V2 ($151,372.26)
+UMBR Per Week: 5376.00 ($5,286.43)
+APR: Day 0.50% Week 3.49% Year 181.60%
+You are staking 0.00 [UMBR]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UMBR]-[WETH] Uni LP
+Unstake 0.00 [UMBR]-[WETH] Uni LP
+Claim 0.00 UMBR ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $151,372.26

@@ -1,0 +1,40 @@
+INFO  : https://www.polyponzi.com/
+***************************************************************************************
+
+Prepare for the biggest ponzi since bitconnect! all the polyshit farms try to disguise themselves as a real project with "Utility" but we alll know they are just ponzi...
+
+We say things for what they are join the ponzi first and you'll profit! We are not trying to fool anyone we all know how the launch of native tokens work until the farm launches!
+
+Let the game begin! Good luck to all!
+
+Join our degen community at https://t.me/PolyPonziFarm
+
+PolyPonzi address: 0x3f573975BE13077C6435f47352437C095816D1fD
+
+Liquidity added: 
+
+https://quickswap.exchange/#/swap?outputCurrency=0x3f573975BE13077C6435f47352437C095816D1fD
+
+Farm starts at Block 17031432:
+
+https://polygonscan.com/block/countdown/17031432
+
+
+
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:25:54 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart ponzi contracts...
+
+Found 1 pools.
+
+Showing incentivized pools only.
+
+{}
+Oops something went wrong. Try refreshing the page.

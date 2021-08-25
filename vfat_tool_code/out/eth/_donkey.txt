@@ -1,0 +1,31 @@
+INFO  : https://don-key.finance
+**********************************************************************************
+
+Mon Aug 23 2021 15:47:18 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[DON]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,763,527.39 TVL: $800,848.83
+DON Price: $0.61
+USDT Price: $1.00
+Staked: 0.1585 UNI-V2 ($279,512.14)
+DON Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [DON]-[USDT] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [DON]-[USDT] Uni LP
+Unstake 0.000000 [DON]-[USDT] Uni LP
+Claim 0.000000 DON ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $279,512.14

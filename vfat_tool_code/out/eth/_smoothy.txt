@@ -1,0 +1,50 @@
+INFO  : https://smoothy.finance
+***************************************************************************************
+
+Mon Aug 23 2021 15:45:29 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 2 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+syUSD
+ Price: $1.00 Market Cap: $3,506,747.41 
+[%]
+Staked: 3320798.1105 syUSD ($3,320,798.11)
+SMTY Per Week: 80547.95 ($20,655.80)
+APR: Day 0.09% Week 0.62% Year 32.34%
+You are staking 0.00 syUSD ($0.00), 0.00% of the pool.
+Stake 0.00 syUSD
+Unstake 0.00 syUSD
+Claim 0.00 SMTY ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[SMTY]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $62.46 TVL: $344,806.04
+SMTY Price: $0.26
+WETH Price: $3,326.01
+Staked: 5520.4984 UNI-V2 ($344,796.51)
+SMTY Per Week: 34520.55 ($8,852.48)
+APR: Day 0.37% Week 2.57% Year 133.51%
+You are staking 0.00 [SMTY]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SMTY]-[WETH] Uni LP
+Unstake 0.00 [SMTY]-[WETH] Uni LP
+Claim 0.00 SMTY ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $3,665,594.62

@@ -1,0 +1,141 @@
+INFO  : https://staking.synthetix.io
+*********************************************************************************
+
+Mon Aug 23 2021 15:44:46 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[sUSD 80%]-[sAAPL 20%]
+ BPT Price: $9,898.24 TVL: $4,504.62
+sUSD Price: $1.00
+sAAPL Price: $128.80
+Staked: 0.4551 [sUSD 80%]-[sAAPL 20%] ($4,504.62)
+SNX Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [sUSD 80%]-[sAAPL 20%] $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [sUSD 80%]-[sAAPL 20%]
+Unstake 0.000000 [sUSD 80%]-[sAAPL 20%]
+Claim 0.000000 SNX ($0.00)
+Revoke (set approval to 0)
+Exit
+[sUSD 80%]-[sAMZN 20%]
+ BPT Price: $10,213.23 TVL: $16.75
+sUSD Price: $1.00
+sAMZN Price: $3,778.73
+Staked: 0.0016 [sUSD 80%]-[sAMZN 20%] ($16.75)
+SNX Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [sUSD 80%]-[sAMZN 20%] $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [sUSD 80%]-[sAMZN 20%]
+Unstake 0.000000 [sUSD 80%]-[sAMZN 20%]
+Claim 0.000000 SNX ($0.00)
+Revoke (set approval to 0)
+Exit
+[sUSD 80%]-[sCOIN 20%]
+ BPT Price: $0.00 TVL: $0.00
+sUSD Price: $1.00
+sCOIN Price: $0.00
+Staked: 0.0000 [sUSD 80%]-[sCOIN 20%] ($0.00)
+SNX Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [sUSD 80%]-[sCOIN 20%] $0.00 (NaN% of the pool).
+Etherscan
+Stake 0.000000 [sUSD 80%]-[sCOIN 20%]
+Unstake 0.000000 [sUSD 80%]-[sCOIN 20%]
+Claim 0.000000 SNX ($0.00)
+Revoke (set approval to 0)
+Exit
+[sUSD 80%]-[sFB 20%]
+ BPT Price: $0.00 TVL: $0.00
+sUSD Price: $1.00
+sFB Price: $360.62
+Staked: 0.0000 [sUSD 80%]-[sFB 20%] ($0.00)
+SNX Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [sUSD 80%]-[sFB 20%] $0.00 (NaN% of the pool).
+Etherscan
+Stake 0.000000 [sUSD 80%]-[sFB 20%]
+Unstake 0.000000 [sUSD 80%]-[sFB 20%]
+Claim 0.000000 SNX ($0.00)
+Revoke (set approval to 0)
+Exit
+[sUSD 80%]-[sGOOG 20%]
+ BPT Price: $10,410.80 TVL: $42.61
+sUSD Price: $1.00
+sGOOG Price: $2,793.35
+Staked: 0.0000 [sUSD 80%]-[sGOOG 20%] ($0.00)
+SNX Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [sUSD 80%]-[sGOOG 20%] $0.00 (NaN% of the pool).
+Etherscan
+Stake 0.000000 [sUSD 80%]-[sGOOG 20%]
+Unstake 0.000000 [sUSD 80%]-[sGOOG 20%]
+Claim 0.000000 SNX ($0.00)
+Revoke (set approval to 0)
+Exit
+[sUSD 80%]-[sMSFT 20%]
+ BPT Price: $0.00 TVL: $0.00
+sUSD Price: $1.00
+sMSFT Price: $0.00
+Staked: 0.0000 [sUSD 80%]-[sMSFT 20%] ($0.00)
+SNX Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [sUSD 80%]-[sMSFT 20%] $0.00 (NaN% of the pool).
+Etherscan
+Stake 0.000000 [sUSD 80%]-[sMSFT 20%]
+Unstake 0.000000 [sUSD 80%]-[sMSFT 20%]
+Claim 0.000000 SNX ($0.00)
+Revoke (set approval to 0)
+Exit
+[sUSD 80%]-[sNFLX 20%]
+ BPT Price: $10,017.53 TVL: $1,398.16
+sUSD Price: $1.00
+sNFLX Price: $520.28
+Staked: 0.0000 [sUSD 80%]-[sNFLX 20%] ($0.00)
+SNX Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [sUSD 80%]-[sNFLX 20%] $0.00 (NaN% of the pool).
+Etherscan
+Stake 0.000000 [sUSD 80%]-[sNFLX 20%]
+Unstake 0.000000 [sUSD 80%]-[sNFLX 20%]
+Claim 0.000000 SNX ($0.00)
+Revoke (set approval to 0)
+Exit
+crvPlain3andSUSD
+ Price: $1.04 Market Cap: $151,997,259.24 
+[%]
+Staked: 141570141.2177 crvPlain3andSUSD ($147,232,946.87)
+SNX Per Week: 6004.89 ($84,008.42)
+APR: Day 0.01% Week 0.06% Year 2.97%
+You are staking 0.000000 crvPlain3andSUSD $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 crvPlain3andSUSD
+Unstake 0.000000 crvPlain3andSUSD
+Claim 0.000000 SNX ($0.00)
+Revoke (set approval to 0)
+Exit
+Short Rewards
+sBTC
+ Price: $50,177.00 Market Cap: $181,900,822.93 
+[%]
+Staked: 3.8305 sBTC ($192,203.08)
+SNX Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 sBTC $0.00 (0.00% of the pool).
+Etherscan
+Claim 0.000000 SNX ($0.00)
+sETH
+ Price: $3,351.94 Market Cap: $335,248,845.59 
+[%]
+Staked: 55.5753 sETH ($186,284.96)
+SNX Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 sETH $0.00 (0.00% of the pool).
+Etherscan
+Claim 0.000000 SNX ($0.00)
+Total staked: $147,615,956.27

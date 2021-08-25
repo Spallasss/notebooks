@@ -1,0 +1,38 @@
+INFO  : https://stake.myswarm.app
+****************************************************************************
+
+Mon Aug 23 2021 15:42:01 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 2 pools.
+
+Showing incentivized pools only.
+
+{
+  "reason": "cannot estimate gas; transaction may fail or may require manual gas limit",
+  "code": "UNPREDICTABLE_GAS_LIMIT",
+  "error": {
+    "code": -32603,
+    "message": "execution reverted: SafeMath: subtraction overflow",
+    "data": {
+      "originalError": {
+        "code": 3,
+        "data": "0x08c379a00000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000001e536166654d6174683a207375627472616374696f6e206f766572666c6f770000",
+        "message": "execution reverted: SafeMath: subtraction overflow"
+      }
+    }
+  },
+  "method": "call",
+  "transaction": {
+    "to": "0xD38abbAeC03a9FF287eFc9a5F0d0580E07335D1D",
+    "data": "0x98969e820000000000000000000000000000000000000000000000000000000000000000000000000000000000000000bd106eeb1f0ed1528bc631e1616ea8aea59ad0fd",
+    "accessList": null
+  }
+}
+Oops something went wrong. Try refreshing the page.

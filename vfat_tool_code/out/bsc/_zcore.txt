@@ -1,0 +1,526 @@
+INFO  : https://finance.zcore.network
+**********************************************************************************
+
+Mon Aug 23 2021 13:53:34 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 72 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+14 - 
+ZEFI
+ Price: $0.25 Market Cap: $1,352,574.89 
+[%]
+Staked: 1655043.3481 ZEFI ($418,267.52)
+ZEFI Per Week: 33745.14 ($8,528.17)
+APR: Day 0.29% Week 2.04% Year 106.02%
+You are staking 0.00 ZEFI ($0.00), 0.00% of the pool.
+Stake 0.00 ZEFI
+Unstake 0.00 ZEFI
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+BUSD
+ Price: $1.00 Market Cap: $4,199,751,703.17 
+[%]
+Staked: 62527.9354 BUSD ($62,509.36)
+ZEFI Per Week: 1088.55 ($275.10)
+APR: Day 0.06% Week 0.44% Year 22.89%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+WBNB
+ Price: $484.00 Market Cap: $3,429,706,657.50 
+[%]
+Staked: 198.1662 WBNB ($95,912.43)
+ZEFI Per Week: 1088.55 ($275.10)
+APR: Day 0.04% Week 0.29% Year 14.91%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+BTCB
+ Price: $50,221.00 Market Cap: $4,293,945,721.00 
+[%]
+Staked: 2.2784 BTCB ($114,424.63)
+ZEFI Per Week: 1088.55 ($275.10)
+APR: Day 0.03% Week 0.24% Year 12.50%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+ETH
+ Price: $3,324.99 Market Cap: $4,339,111,950.00 
+[%]
+Staked: 29.4447 ETH ($97,903.41)
+ZEFI Per Week: 1088.55 ($275.10)
+APR: Day 0.04% Week 0.28% Year 14.61%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,217,442.00 
+[%]
+Staked: 80740.9288 USDC ($80,660.03)
+ZEFI Per Week: 1088.55 ($275.10)
+APR: Day 0.05% Week 0.34% Year 17.74%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+USDT
+ Price: $1.00 Market Cap: $3,377,097,883.96 
+[%]
+Staked: 55114.1707 USDT ($55,066.88)
+ZEFI Per Week: 1088.55 ($275.10)
+APR: Day 0.07% Week 0.50% Year 25.98%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+DAI
+ Price: $1.00 Market Cap: $261,817,648.00 
+[%]
+Staked: 109022.7356 DAI ($108,946.86)
+ZEFI Per Week: 1088.55 ($275.10)
+APR: Day 0.04% Week 0.25% Year 13.13%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+Cake
+ Price: $25.02 Market Cap: $10,411,131,846.03 
+[%]
+Staked: 901.2180 Cake ($22,548.48)
+ZEFI Per Week: 1088.55 ($275.10)
+APR: Day 0.17% Week 1.22% Year 63.44%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+WZCR
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1287980.8883 WZCR ($0.00)
+ZEFI Per Week: 1088.55 ($275.10)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WZCR ($0.00), NaN% of the pool.
+Stake 0.00 WZCR - Fee 4%
+Unstake 0.00 WZCR
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+ZCRT
+ Price: $0.00 Market Cap: $0.00 
+Staked: 180285.9791 ZCRT ($0.00)
+ZEFI Per Week: 1088.55 ($275.10)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ZCRT ($0.00), NaN% of the pool.
+Stake 0.00 ZCRT - Fee 4%
+Unstake 0.00 ZCRT
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+39 - 
+[ZEFI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.03 TVL: $293,757.33
+ZEFI Price: $0.25
+BUSD Price: $1.00
+Staked: 283823.9658 Cake-LP ($291,625.66)
+ZEFI Per Week: 32656.59 ($8,253.07)
+APR: Day 0.40% Week 2.83% Year 147.16%
+You are staking 0.00 [ZEFI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZEFI]-[BUSD] Cake LP
+Unstake 0.00 [ZEFI]-[BUSD] Cake LP
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+40 - 
+[ZEFI]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $22.65 TVL: $560,437.14
+ZEFI Price: $0.25
+WBNB Price: $484.00
+Staked: 24518.5674 Cake-LP ($555,406.46)
+ZEFI Per Week: 54427.65 ($13,755.12)
+APR: Day 0.35% Week 2.48% Year 128.78%
+You are staking 0.00 [ZEFI]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZEFI]-[WBNB] Cake LP
+Unstake 0.00 [ZEFI]-[WBNB] Cake LP
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+42 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.75 TVL: $526,766,924.75
+WBNB Price: $484.00
+BUSD Price: $1.00
+Staked: 2259.5093 Cake-LP ($112,405.85)
+ZEFI Per Week: 3265.66 ($825.31)
+APR: Day 0.10% Week 0.73% Year 38.18%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+43 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $158,013,793.82
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 102538.6055 Cake-LP ($211,108.85)
+ZEFI Per Week: 3265.66 ($825.31)
+APR: Day 0.06% Week 0.39% Year 20.33%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+45 - 
+[WLQX]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.82 TVL: $81,942.70
+WLQX Price: $0.004031
+WBNB Price: $484.00
+Staked: 27574.7594 Cake-LP ($77,778.06)
+ZEFI Per Week: 3265.66 ($825.31)
+APR: Day 0.15% Week 1.06% Year 55.18%
+You are staking 0.00 [WLQX]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WLQX]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [WLQX]-[WBNB] Cake LP
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+46 - 
+[WZYON]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.59 TVL: $1,776.75
+WZYON Price: $0.000178
+WBNB Price: $484.00
+Staked: 2989.1842 Cake-LP ($1,774.01)
+ZEFI Per Week: 217.71 ($55.02)
+APR: Day 0.44% Week 3.10% Year 161.28%
+You are staking 0.00 [WZYON]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WZYON]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [WZYON]-[WBNB] Cake LP
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+48 - 
+[ZCRT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.85 TVL: $28,829.20
+ZCRT Price: $0.18
+BUSD Price: $1.00
+Staked: 33718.1009 Cake-LP ($28,823.94)
+ZEFI Per Week: 2177.11 ($550.20)
+APR: Day 0.27% Week 1.91% Year 99.26%
+You are staking 0.00 [ZCRT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZCRT]-[BUSD] Cake LP
+Unstake 0.00 [ZCRT]-[BUSD] Cake LP
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+49 - 
+[WZCR]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.23 TVL: $26,261.92
+WZCR Price: $0.01
+BUSD Price: $1.00
+Staked: 112090.5754 Cake-LP ($26,206.70)
+ZEFI Per Week: 2177.11 ($550.20)
+APR: Day 0.30% Week 2.10% Year 109.17%
+You are staking 0.00 [WZCR]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WZCR]-[BUSD] Cake LP
+Unstake 0.00 [WZCR]-[BUSD] Cake LP
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+50 - 
+[ZEFI]-[BTCB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $227.05 TVL: $124,740.86
+ZEFI Price: $0.25
+BTCB Price: $50,221.00
+Staked: 544.5339 Cake-LP ($123,634.34)
+ZEFI Per Week: 10885.53 ($2,751.02)
+APR: Day 0.32% Week 2.23% Year 115.71%
+You are staking 0.00 [ZEFI]-[BTCB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZEFI]-[BTCB] Cake LP
+Unstake 0.00 [ZEFI]-[BTCB] Cake LP
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+52 - 
+[POLIS]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.95 TVL: $8,232.55
+POLIS Price: $0.22
+BUSD Price: $1.00
+Staked: 8642.6399 Cake-LP ($8,227.17)
+ZEFI Per Week: 217.71 ($55.02)
+APR: Day 0.10% Week 0.67% Year 34.78%
+You are staking 0.00 [POLIS]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [POLIS]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [POLIS]-[BUSD] Cake LP
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+54 - 
+[CBRL]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $19,552,914.45 TVL: $6,025.59
+CBRL Price: $0.19
+WBNB Price: $484.00
+Staked: 0.0003 Cake-LP ($5,470.76)
+ZEFI Per Week: 217.71 ($55.02)
+APR: Day 0.14% Week 1.01% Year 52.30%
+You are staking 0.00 [CBRL]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CBRL]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [CBRL]-[WBNB] Cake LP
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+56 - 
+WLQX
+ Price: $0.004031 Market Cap: $139,659.77 
+[%]
+Staked: 18252132.4717 WLQX ($73,572.83)
+ZEFI Per Week: 1088.55 ($275.10)
+APR: Day 0.05% Week 0.37% Year 19.44%
+You are staking 0.00 WLQX ($0.00), 0.00% of the pool.
+Stake 0.00 WLQX - Fee 4%
+Unstake 0.00 WLQX
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+59 - 
+[ZEFI]-[ETH] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $58.61 TVL: $138,499.13
+ZEFI Price: $0.25
+ETH Price: $3,324.99
+Staked: 2355.2232 Cake-LP ($138,035.07)
+ZEFI Per Week: 10885.53 ($2,751.02)
+APR: Day 0.28% Week 1.99% Year 103.64%
+You are staking 0.00 [ZEFI]-[ETH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZEFI]-[ETH] Cake LP
+Unstake 0.00 [ZEFI]-[ETH] Cake LP
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+61 - 
+[WBTCT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.19 TVL: $2,063.12
+WBTCT Price: $0.009225
+BUSD Price: $1.00
+Staked: 10613.2801 Cake-LP ($2,062.61)
+ZEFI Per Week: 217.71 ($55.02)
+APR: Day 0.38% Week 2.67% Year 138.71%
+You are staking 0.00 [WBTCT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTCT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBTCT]-[BUSD] Cake LP
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+62 - 
+[wIQ]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.23 TVL: $1,689.40
+wIQ Price: $0.01
+BUSD Price: $1.00
+Staked: 7178.3240 Cake-LP ($1,646.87)
+ZEFI Per Week: 217.71 ($55.02)
+APR: Day 0.48% Week 3.34% Year 173.73%
+You are staking 0.00 [wIQ]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wIQ]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [wIQ]-[BUSD] Cake LP
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+63 - 
+[wIQ]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.02 TVL: $996.19
+wIQ Price: $0.01
+WBNB Price: $484.00
+Staked: 197.9322 Cake-LP ($992.68)
+ZEFI Per Week: 108.86 ($27.51)
+APR: Day 0.40% Week 2.77% Year 144.11%
+You are staking 0.00 [wIQ]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wIQ]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [wIQ]-[WBNB] Cake LP
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+66 - 
+[ZBO]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $93.19 TVL: $184,884.57
+ZBO Price: $4.11
+WBNB Price: $484.00
+Staked: 618.8615 Cake-LP ($57,674.36)
+ZEFI Per Week: 6531.32 ($1,650.61)
+APR: Day 0.41% Week 2.86% Year 148.82%
+You are staking 0.00 [ZBO]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZBO]-[WBNB] Cake LP
+Unstake 0.00 [ZBO]-[WBNB] Cake LP
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+67 - 
+[ZEFI]-[ZBO] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.13 TVL: $92,763.14
+ZEFI Price: $0.25
+ZBO Price: $4.11
+Staked: 43392.3738 Cake-LP ($92,600.04)
+ZEFI Per Week: 6531.32 ($1,650.61)
+APR: Day 0.25% Week 1.78% Year 92.69%
+You are staking 0.00 [ZEFI]-[ZBO] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZEFI]-[ZBO] Cake LP
+Unstake 0.00 [ZEFI]-[ZBO] Cake LP
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+68 - 
+ZBO
+ Price: $4.11 Market Cap: $472,350.61 
+[%]
+Staked: 6325.0134 ZBO ($25,979.34)
+ZEFI Per Week: 1088.55 ($275.10)
+APR: Day 0.15% Week 1.06% Year 55.06%
+You are staking 0.00 ZBO ($0.00), 0.00% of the pool.
+Stake 0.00 ZBO
+Unstake 0.00 ZBO
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+70 - 
+[BZFI]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9.11 TVL: $3,298.35
+BZFI Price: $0.04
+WBNB Price: $484.00
+Staked: 243.1549 Cake-LP ($2,214.81)
+ZEFI Per Week: 108.86 ($27.51)
+APR: Day 0.18% Week 1.24% Year 64.59%
+You are staking 0.00 [BZFI]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BZFI]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BZFI]-[WBNB] Cake LP
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+71 - 
+ZVPOWER
+ Price: $0.00 Market Cap: $0.00 
+Staked: 100.0000 ZVPOWER ($0.00)
+ZEFI Per Week: 17416.85 ($4,401.64)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ZVPOWER ($0.00), NaN% of the pool.
+Stake 0.00 ZVPOWER
+Unstake 0.00 ZVPOWER
+Claim 0.00 ZEFI ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $2,893,479.99

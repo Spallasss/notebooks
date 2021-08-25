@@ -1,0 +1,70 @@
+INFO  : https://app.optionroom.finance
+
+COURT tokens become claimable from 13 of May
+***************************************************************************************
+
+Mon Aug 23 2021 15:36:59 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+ROOM
+ Price: $0.00 Market Cap: $0.00 
+Staked: 2084225.5063 ROOM ($0.00)
+COURT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 ROOM $0.00 (NaN% of the pool).
+Etherscan
+Stake 0.000000 ROOM
+Unstake 0.000000 ROOM
+Claim 0.000000 COURT ($0.00)
+Revoke (set approval to 0)
+Exit
+[ROOM]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9.84 TVL: $132,954.49
+ROOM Price: $0.003741
+WETH Price: $3,331.95
+Staked: 3211.2330 UNI-V2 ($31,587.31)
+COURT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [ROOM]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [ROOM]-[WETH] Uni LP
+Unstake 0.000000 [ROOM]-[WETH] Uni LP
+Claim 0.000000 COURT ($0.00)
+Revoke (set approval to 0)
+Exit
+HT
+ Price: $14.66 Market Cap: $7,330,000,000.00 
+[%]
+Staked: 204.6100 HT ($2,999.58)
+COURT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 HT $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 HT
+Unstake 0.000000 HT
+Claim 0.000000 COURT ($0.00)
+Revoke (set approval to 0)
+Exit
+MATTER
+ Price: $0.00 Market Cap: $0.00 
+Staked: 894022.2871 MATTER ($0.00)
+COURT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 MATTER $0.00 (NaN% of the pool).
+Etherscan
+Stake 0.000000 MATTER
+Unstake 0.000000 MATTER
+Claim 0.000000 COURT ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $34,586.89

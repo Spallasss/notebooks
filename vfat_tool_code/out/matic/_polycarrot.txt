@@ -1,0 +1,175 @@
+INFO  : https://www.polycarrot.finance
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:36:36 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 10 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[Carrot] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $223,511.38 TVL: $90.67
+USDC Price: $1.00
+Carrot Price: $0.01
+Staked: 0.0003 UNI-V2 ($68.33)
+CARROT Per Week: 895.34 ($9.34)
+APR: Day 1.95% Week 13.66% Year 710.45%
+You are staking 0.00 [USDC]-[Carrot] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[Carrot] Uni LP
+Unstake 0.00 [USDC]-[Carrot] Uni LP
+Claim 0.00 CARROT ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+Carrot
+ Price: $0.01 Market Cap: $259.08 
+[%]
+Staked: 16257.4081 Carrot ($169.52)
+CARROT Per Week: 895.34 ($9.34)
+APR: Day 0.79% Week 5.51% Year 286.38%
+You are staking 0.00 Carrot ($0.00), 0.00% of the pool.
+Stake 0.00 Carrot
+Unstake 0.00 Carrot
+Claim 0.00 CARROT ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[Bunny] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.65 TVL: $334.95
+WMATIC Price: $1.65
+Bunny Price: $0.47
+Staked: 20.0541 UNI-V2 ($53.22)
+CARROT Per Week: 104.46 ($1.09)
+APR: Day 0.29% Week 2.05% Year 106.41%
+You are staking 0.00 [WMATIC]-[Bunny] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[Bunny] Uni LP
+Unstake 0.00 [WMATIC]-[Bunny] Uni LP
+Claim 0.00 CARROT ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[Bunny] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,901,895.88 TVL: $195.36
+USDC Price: $1.00
+Bunny Price: $0.47
+Staked: 0.0000 UNI-V2 ($37.74)
+CARROT Per Week: 104.46 ($1.09)
+APR: Day 0.41% Week 2.89% Year 150.07%
+You are staking 0.00 [USDC]-[Bunny] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[Bunny] Uni LP
+Unstake 0.00 [USDC]-[Bunny] Uni LP
+Claim 0.00 CARROT ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+Bunny
+ Price: $0.47 Market Cap: $3,337.41 
+[%]
+Staked: 231.3046 Bunny ($107.95)
+CARROT Per Week: 74.61 ($0.78)
+APR: Day 0.10% Week 0.72% Year 37.48%
+You are staking 0.00 Bunny ($0.00), 0.00% of the pool.
+Stake 0.00 Bunny
+Unstake 0.00 Bunny
+Claim 0.00 CARROT ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WMATIC
+ Price: $1.65 Market Cap: $605,438,660.38 
+[%]
+Staked: 229.7823 WMATIC ($379.14)
+CARROT Per Week: 298.45 ($3.11)
+APR: Day 0.12% Week 0.82% Year 42.68%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 CARROT ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+DAI
+ Price: $1.00 Market Cap: $375,659,203.55 
+[%]
+Staked: 96.9600 DAI ($96.81)
+CARROT Per Week: 104.46 ($1.09)
+APR: Day 0.16% Week 1.13% Year 58.51%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 CARROT ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WETH
+ Price: $3,322.24 Market Cap: $2,028,623,796.47 
+[%]
+Staked: 0.0463 WETH ($153.73)
+CARROT Per Week: 104.46 ($1.09)
+APR: Day 0.10% Week 0.71% Year 36.84%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 CARROT ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,615,936.84 TVL: $33,412,220.72
+WMATIC Price: $1.65
+USDC Price: $1.00
+Staked: 0.0003 UNI-V2 ($1,356.42)
+CARROT Per Week: 149.22 ($1.56)
+APR: Day 0.02% Week 0.11% Year 5.97%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 CARROT ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[USDC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $74,898,607.77 TVL: $21,367,192.36
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 UNI-V2 ($57.65)
+CARROT Per Week: 149.22 ($1.56)
+APR: Day 0.39% Week 2.70% Year 140.36%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 CARROT ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $2,480.50

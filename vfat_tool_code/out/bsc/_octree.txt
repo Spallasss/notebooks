@@ -1,0 +1,57 @@
+INFO  : https://octree.finance
+***********************************************************************************
+
+Mon Aug 23 2021 14:00:37 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 2 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[OCT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $73,112,684.87 TVL: $441,665.00
+OCT Price: $215.36
+WBNB Price: $483.59
+Staked: 0.0000 Cake-LP ($3,103.54)
+OAK Per Week: 17.28 ($124.42)
+APR: Day 0.57% Week 4.01% Year 208.47%
+You are staking 0.00 [OCT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [OCT]-[WBNB] Cake LP
+Unstake 0.00 [OCT]-[WBNB] Cake LP
+Claim 0.00 OAK ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[OAK]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $119.94 TVL: $270,827.45
+OAK Price: $7.20
+WBNB Price: $483.59
+Staked: 3.1273 Cake-LP ($375.09)
+OAK Per Week: 2.88 ($20.74)
+APR: Day 0.79% Week 5.53% Year 287.49%
+You are staking 0.00 [OAK]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [OAK]-[WBNB] Cake LP
+Unstake 0.00 [OAK]-[WBNB] Cake LP
+Claim 0.00 OAK ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $3,478.62

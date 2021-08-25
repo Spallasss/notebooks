@@ -1,0 +1,591 @@
+INFO  : https://app.yieldparrot.finance
+****************************************************************************************
+
+Mon Aug 23 2021 09:22:23 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 56 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+LORY
+ Price: $0.00 Market Cap: $0.00 
+Staked: 92478.1557 LORY ($0.00)
+LORY Per Week: 4365.04 ($15,189.26)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 LORY ($0.00), NaN% of the pool.
+Stake 0.00 LORY
+Unstake 0.00 LORY
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+[LORY]-[BUSD] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.83 TVL: $114,403.36
+LORY Price: $3.48
+BUSD Price: $1.00
+Staked: 29740.5869 APE-LP ($113,925.98)
+LORY Per Week: 2400.77 ($8,354.09)
+APR: Day 1.05% Week 7.33% Year 381.31%
+You are staking 0.00 [LORY]-[BUSD] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LORY]-[BUSD] APE LP
+Unstake 0.00 [LORY]-[BUSD] APE LP
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+Cake
+ Price: $25.10 Market Cap: $10,444,923,140.31 
+[%]
+Staked: 22752.2482 Cake ($571,081.43)
+LORY Per Week: 873.01 ($3,037.85)
+APR: Day 0.08% Week 0.53% Year 27.66%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+BANANA
+ Price: $4.77 Market Cap: $302,262,847.00 
+[%]
+Staked: 9778.5358 BANANA ($46,643.62)
+LORY Per Week: 145.50 ($506.31)
+APR: Day 0.16% Week 1.09% Year 56.45%
+You are staking 0.00 BANANA ($0.00), 0.00% of the pool.
+Stake 0.00 BANANA
+Unstake 0.00 BANANA
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $225.99 TVL: $1,034,284,468.85
+Cake Price: $25.10
+WBNB Price: $486.60
+Staked: 1143.6657 Cake-LP ($258,453.75)
+LORY Per Week: 407.40 ($1,417.66)
+APR: Day 0.08% Week 0.55% Year 28.52%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.86 TVL: $528,182,000.14
+WBNB Price: $486.60
+BUSD Price: $1.00
+Staked: 2984.1949 Cake-LP ($148,794.44)
+LORY Per Week: 436.50 ($1,518.93)
+APR: Day 0.15% Week 1.02% Year 53.08%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+[BANANA]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $107.78 TVL: $61,127,372.10
+BANANA Price: $4.77
+WBNB Price: $486.60
+Staked: 1846.8883 APE-LP ($199,057.18)
+LORY Per Week: 203.70 ($708.83)
+APR: Day 0.05% Week 0.36% Year 18.52%
+You are staking 0.00 [BANANA]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BANANA]-[WBNB] APE LP
+Unstake 0.00 [BANANA]-[WBNB] APE LP
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+[BANANA]-[BUSD] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.18 TVL: $21,217,078.88
+BANANA Price: $4.77
+BUSD Price: $1.00
+Staked: 8606.6608 APE-LP ($44,624.88)
+LORY Per Week: 145.50 ($506.31)
+APR: Day 0.16% Week 1.13% Year 59.00%
+You are staking 0.00 [BANANA]-[BUSD] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BANANA]-[BUSD] APE LP
+Unstake 0.00 [BANANA]-[BUSD] APE LP
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+[ADA]-[WBNB] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $76.58 TVL: $13,494,858.03
+ADA Price: $2.83
+WBNB Price: $486.60
+Staked: 3389.1503 APE-LP ($259,537.92)
+LORY Per Week: 378.30 ($1,316.40)
+APR: Day 0.07% Week 0.51% Year 26.37%
+You are staking 0.00 [ADA]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] APE LP
+Unstake 0.00 [ADA]-[WBNB] APE LP
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+BBQ
+ Price: $0.00 Market Cap: $0.00 
+Staked: 281985.1701 BBQ ($0.00)
+LORY Per Week: 29.10 ($101.26)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BBQ ($0.00), NaN% of the pool.
+Stake 0.00 BBQ
+Unstake 0.00 BBQ
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+[BBQ]-[BUSD] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.96 TVL: $77,777.24
+BBQ Price: $0.22
+BUSD Price: $1.00
+Staked: 33957.8577 APE-LP ($32,558.51)
+LORY Per Week: 29.10 ($101.26)
+APR: Day 0.04% Week 0.31% Year 16.17%
+You are staking 0.00 [BBQ]-[BUSD] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BBQ]-[BUSD] APE LP
+Unstake 0.00 [BBQ]-[BUSD] APE LP
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+beltBNB Price: $0.00 TVL: $0.00
+Staked: 529.5403 beltBNB ($0.00)
+LORY Per Week: 378.30 ($1,316.40)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 beltBNB ($0.00), NaN% of the pool.
+Stake 0.00 beltBNB
+Unstake 0.00 beltBNB
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+beltBTC Price: $0.00 TVL: $0.00
+Staked: 7.8110 beltBTC ($0.00)
+LORY Per Week: 378.30 ($1,316.40)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 beltBTC ($0.00), NaN% of the pool.
+Stake 0.00 beltBTC
+Unstake 0.00 beltBTC
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+beltETH Price: $0.00 TVL: $0.00
+Staked: 103.4174 beltETH ($0.00)
+LORY Per Week: 378.30 ($1,316.40)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 beltETH ($0.00), NaN% of the pool.
+Stake 0.00 beltETH
+Unstake 0.00 beltETH
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+4Belt
+ Price: $0.00 Market Cap: $0.00 
+Staked: 349774.2134 4Belt ($0.00)
+LORY Per Week: 378.30 ($1,316.40)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 4Belt ($0.00), NaN% of the pool.
+Stake 0.00 4Belt
+Unstake 0.00 4Belt
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+[WBNB]-[BBQ] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $21.28 TVL: $88,680.26
+WBNB Price: $486.60
+BBQ Price: $0.22
+Staked: 1685.8217 APE-LP ($35,873.05)
+LORY Per Week: 29.10 ($101.26)
+APR: Day 0.04% Week 0.28% Year 14.68%
+You are staking 0.00 [WBNB]-[BBQ] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BBQ] APE LP
+Unstake 0.00 [WBNB]-[BBQ] APE LP
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,210,231.52
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 104806.9471 Cake-LP ($214,500.86)
+LORY Per Week: 436.50 ($1,518.93)
+APR: Day 0.10% Week 0.71% Year 36.82%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,964,095.15
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 122605.6734 Cake-LP ($252,349.71)
+LORY Per Week: 436.50 ($1,518.93)
+APR: Day 0.09% Week 0.60% Year 31.30%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+Cake
+ Price: $25.10 Market Cap: $10,444,923,140.31 
+[%]
+Staked: 136226.9360 Cake ($3,419,296.09)
+LORY Per Week: 2037.02 ($7,088.32)
+APR: Day 0.03% Week 0.21% Year 10.78%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+BANANA
+ Price: $4.77 Market Cap: $302,262,847.00 
+[%]
+Staked: 302471.1810 BANANA ($1,442,787.53)
+LORY Per Week: 873.01 ($3,037.85)
+APR: Day 0.03% Week 0.21% Year 10.95%
+You are staking 0.00 BANANA ($0.00), 0.00% of the pool.
+Stake 0.00 BANANA
+Unstake 0.00 BANANA
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,227.90 TVL: $174,145,826.15
+BTCB Price: $49,844.00
+WBNB Price: $486.60
+Staked: 25.3650 Cake-LP ($259,431.02)
+LORY Per Week: 407.40 ($1,417.66)
+APR: Day 0.08% Week 0.55% Year 28.42%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,659.86 TVL: $262,558,799.10
+ETH Price: $3,332.93
+WBNB Price: $486.60
+Staked: 64.9359 Cake-LP ($172,720.50)
+LORY Per Week: 407.40 ($1,417.66)
+APR: Day 0.12% Week 0.82% Year 42.68%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+[WBNB]-[LORY] APE LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $85.23 TVL: $770,741.30
+WBNB Price: $486.60
+LORY Price: $3.48
+Staked: 3521.7365 APE-LP ($300,166.34)
+LORY Per Week: 727.51 ($2,531.54)
+APR: Day 0.12% Week 0.84% Year 43.86%
+You are staking 0.00 [WBNB]-[LORY] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LORY] APE LP
+Unstake 0.00 [WBNB]-[LORY] APE LP
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+[BREW]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $41.10 TVL: $1,274,156.99
+BREW Price: $0.80
+WBNB Price: $486.60
+Staked: 83.2927 Cafe-LP ($3,423.60)
+LORY Per Week: 14.55 ($50.63)
+APR: Day 0.21% Week 1.48% Year 76.90%
+You are staking 0.00 [BREW]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BREW]-[WBNB] Uni LP
+Unstake 0.00 [BREW]-[WBNB] Uni LP
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+[WEX]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.15 TVL: $6,980,308.52
+WEX Price: $0.007974
+WBNB Price: $486.60
+Staked: 6085.6429 WLP ($25,252.05)
+LORY Per Week: 72.75 ($253.15)
+APR: Day 0.14% Week 1.00% Year 52.13%
+You are staking 0.00 [WEX]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WEX]-[WBNB] Uni LP
+Unstake 0.00 [WEX]-[WBNB] Uni LP
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+[USDT]-[WEX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.19 TVL: $14,085,495.63
+USDT Price: $1.00
+WEX Price: $0.007974
+Staked: 116271.6293 WLP ($22,016.24)
+LORY Per Week: 29.10 ($101.26)
+APR: Day 0.07% Week 0.46% Year 23.92%
+You are staking 0.00 [USDT]-[WEX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WEX] Uni LP
+Unstake 0.00 [USDT]-[WEX] Uni LP
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+[ETH]-[BTCB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $26,804.47 TVL: $153,512,310.68
+ETH Price: $3,332.93
+BTCB Price: $49,844.00
+Staked: 4.6241 Cake-LP ($123,946.32)
+LORY Per Week: 291.00 ($1,012.62)
+APR: Day 0.12% Week 0.82% Year 42.48%
+You are staking 0.00 [ETH]-[BTCB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BTCB] Cake LP
+Unstake 0.00 [ETH]-[BTCB] Cake LP
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,323,648.68
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 86959.6615 Cake-LP ($176,989.72)
+LORY Per Week: 378.30 ($1,316.40)
+APR: Day 0.11% Week 0.74% Year 38.68%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+[USDT]-[USDC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $123,068,814.23
+USDT Price: $1.00
+USDC Price: $1.00
+Staked: 79539.7888 Cake-LP ($164,210.39)
+LORY Per Week: 378.30 ($1,316.40)
+APR: Day 0.11% Week 0.80% Year 41.69%
+You are staking 0.00 [USDT]-[USDC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] Cake LP
+Unstake 0.00 [USDT]-[USDC] Cake LP
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+[WINGS]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $34.34 TVL: $1,660,640.54
+WINGS Price: $0.45
+WBNB Price: $486.60
+Staked: 360.6173 WINGS-LP ($12,382.59)
+LORY Per Week: 72.75 ($253.15)
+APR: Day 0.29% Week 2.04% Year 106.31%
+You are staking 0.00 [WINGS]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WINGS]-[WBNB] Uni LP
+Unstake 0.00 [WINGS]-[WBNB] Uni LP
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+[Cake]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13.43 TVL: $66,520,428.40
+Cake Price: $25.10
+BUSD Price: $1.00
+Staked: 2119.6577 Cake-LP ($28,463.34)
+LORY Per Week: 72.75 ($253.15)
+APR: Day 0.13% Week 0.89% Year 46.25%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+[Cake]-[USDT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11.47 TVL: $44,229,277.71
+Cake Price: $25.10
+USDT Price: $1.00
+Staked: 2455.3741 Cake-LP ($28,164.10)
+LORY Per Week: 72.75 ($253.15)
+APR: Day 0.13% Week 0.90% Year 46.74%
+You are staking 0.00 [Cake]-[USDT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[USDT] Cake LP
+Unstake 0.00 [Cake]-[USDT] Cake LP
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+[BABY]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.47 TVL: $2,159,355.19
+BABY Price: $0.18
+USDT Price: $1.00
+Staked: 16291.5279 Baby-LP ($23,868.22)
+LORY Per Week: 29.10 ($101.26)
+APR: Day 0.06% Week 0.42% Year 22.06%
+You are staking 0.00 [BABY]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BABY]-[USDT] Uni LP
+Unstake 0.00 [BABY]-[USDT] Uni LP
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+WEX
+ Price: $0.007974 Market Cap: $42,129,016.23 
+[%]
+Staked: 30688281.8928 WEX ($244,718.01)
+LORY Per Week: 291.00 ($1,012.62)
+APR: Day 0.06% Week 0.41% Year 21.52%
+You are staking 0.00 WEX ($0.00), 0.00% of the pool.
+Stake 0.00 WEX
+Unstake 0.00 WEX
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+[USDT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.75 TVL: $252,854,402.93
+USDT Price: $1.00
+WBNB Price: $486.60
+Staked: 390.8834 Cake-LP ($19,837.41)
+LORY Per Week: 72.75 ($253.15)
+APR: Day 0.18% Week 1.28% Year 66.36%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+[TUSD]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $120,816,058.59
+TUSD Price: $1.00
+BUSD Price: $1.00
+Staked: 21087.0685 Cake-LP ($42,215.77)
+LORY Per Week: 72.75 ($253.15)
+APR: Day 0.09% Week 0.60% Year 31.18%
+You are staking 0.00 [TUSD]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TUSD]-[BUSD] Cake LP
+Unstake 0.00 [TUSD]-[BUSD] Cake LP
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+TMT
+ Price: $0.00 Market Cap: $0.00 
+Staked: 167.1366 TMT ($0.00)
+LORY Per Week: 14.55 ($50.63)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 TMT ($0.00), NaN% of the pool.
+Stake 0.00 TMT
+Unstake 0.00 TMT
+Claim 0.00 LORY ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $8,687,290.58

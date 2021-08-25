@@ -1,0 +1,4249 @@
+INFO  : https://www.bao.finance
+********************************************************************************
+
+Mon Aug 23 2021 15:37:20 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 224 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[BAO]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.82 TVL: $3,197,060.77
+BAO Price: $0.000824
+WETH Price: $3,331.95
+Staked: 605239.0705 UNI-V2 ($2,920,233.38)
+BAO Per Week: 1505429.47 ($1,240.23)
+APR: Day 0.01% Week 0.04% Year 2.21%
+You are staking 0.00 [BAO]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BAO]-[WETH] Uni LP
+Unstake 0.00 [BAO]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WBTC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,070,160,724.95 TVL: $156,285,433.18
+WBTC Price: $50,348.00
+WETH Price: $3,331.95
+Staked: 0.0004 UNI-V2 ($1,337,586.37)
+BAO Per Week: 82140.21 ($67.67)
+APR: Day 0.00% Week 0.01% Year 0.26%
+You are staking 0.00 [WBTC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] Uni LP
+Unstake 0.00 [WBTC]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WETH]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $202,147,890.65 TVL: $153,019,093.08
+WETH Price: $3,331.95
+USDT Price: $1.00
+Staked: 0.0006 UNI-V2 ($117,262.20)
+BAO Per Week: 27370.95 ($22.55)
+APR: Day 0.00% Week 0.02% Year 1.00%
+You are staking 0.00 [WETH]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[USDT] Uni LP
+Unstake 0.00 [WETH]-[USDT] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[LINK]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $875.50 TVL: $66,094,362.76
+LINK Price: $28.88
+WETH Price: $3,331.95
+Staked: 377.9355 UNI-V2 ($330,884.35)
+BAO Per Week: 82112.84 ($67.65)
+APR: Day 0.00% Week 0.02% Year 1.06%
+You are staking 0.00 [LINK]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LINK]-[WETH] Uni LP
+Unstake 0.00 [LINK]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $197,769,184.49 TVL: $200,835,012.97
+USDC Price: $1.00
+WETH Price: $3,331.95
+Staked: 0.0025 UNI-V2 ($497,730.16)
+BAO Per Week: 109483.79 ($90.20)
+APR: Day 0.00% Week 0.02% Year 0.94%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[cDAI]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,935,734.85 TVL: $216,409.40
+cDAI Price: $0.02
+WETH Price: $3,331.95
+Staked: 0.1058 UNI-V2 ($204,869.27)
+BAO Per Week: 27370.95 ($22.55)
+APR: Day 0.00% Week 0.01% Year 0.57%
+You are staking 0.00 [cDAI]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [cDAI]-[WETH] Uni LP
+Unstake 0.00 [cDAI]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[OKB]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $598.87 TVL: $26,936.73
+OKB Price: $22.14
+WETH Price: $3,331.95
+Staked: 38.0274 UNI-V2 ($22,773.54)
+BAO Per Week: 54769.27 ($45.12)
+APR: Day 0.03% Week 0.20% Year 10.30%
+You are staking 0.00 [OKB]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [OKB]-[WETH] Uni LP
+Unstake 0.00 [OKB]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[LEO]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $220.26 TVL: $44,198.47
+LEO Price: $2.99
+WETH Price: $3,331.95
+Staked: 176.8355 UNI-V2 ($38,950.18)
+BAO Per Week: 54769.27 ($45.12)
+APR: Day 0.02% Week 0.12% Year 6.02%
+You are staking 0.00 [LEO]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LEO]-[WETH] Uni LP
+Unstake 0.00 [LEO]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[DAI]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $175.89 TVL: $81,445,400.66
+DAI Price: $1.00
+WETH Price: $3,331.95
+Staked: 446.5381 UNI-V2 ($78,541.81)
+BAO Per Week: 27370.95 ($22.55)
+APR: Day 0.00% Week 0.03% Year 1.49%
+You are staking 0.00 [DAI]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[WETH] Uni LP
+Unstake 0.00 [DAI]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[UNI]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,302.49 TVL: $119,264,027.82
+UNI Price: $29.38
+WETH Price: $3,331.95
+Staked: 1261.3606 UNI-V2 ($1,642,911.53)
+BAO Per Week: 109483.79 ($90.20)
+APR: Day 0.00% Week 0.01% Year 0.29%
+You are staking 0.00 [UNI]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UNI]-[WETH] Uni LP
+Unstake 0.00 [UNI]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[HT]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $509.52 TVL: $648,038.53
+HT Price: $14.66
+WETH Price: $3,331.95
+Staked: 434.1757 UNI-V2 ($221,221.44)
+BAO Per Week: 109483.79 ($90.20)
+APR: Day 0.01% Week 0.04% Year 2.12%
+You are staking 0.00 [HT]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HT]-[WETH] Uni LP
+Unstake 0.00 [HT]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[AAVE]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,799.32 TVL: $39,362,534.36
+AAVE Price: $412.77
+WETH Price: $3,331.95
+Staked: 144.6138 UNI-V2 ($404,819.79)
+BAO Per Week: 109483.79 ($90.20)
+APR: Day 0.00% Week 0.02% Year 1.16%
+You are staking 0.00 [AAVE]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AAVE]-[WETH] Uni LP
+Unstake 0.00 [AAVE]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[CEL]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,266,051,174.65 TVL: $2,344,019.76
+CEL Price: $5.98
+WETH Price: $3,331.95
+Staked: 0.0000 UNI-V2 ($105,347.49)
+BAO Per Week: 27370.95 ($22.55)
+APR: Day 0.00% Week 0.02% Year 1.11%
+You are staking 0.00 [CEL]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CEL]-[WETH] Uni LP
+Unstake 0.00 [CEL]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[SNX]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $685.62 TVL: $3,470,431.62
+SNX Price: $14.09
+WETH Price: $3,331.95
+Staked: 181.2324 UNI-V2 ($124,256.64)
+BAO Per Week: 82112.84 ($67.65)
+APR: Day 0.01% Week 0.05% Year 2.83%
+You are staking 0.00 [SNX]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SNX]-[WETH] Uni LP
+Unstake 0.00 [SNX]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[WETH]-[CRV] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $872.51 TVL: $3,253,871.97
+WETH Price: $3,331.95
+CRV Price: $2.41
+Staked: 195.8709 UNI-V2 ($170,898.89)
+BAO Per Week: 54741.89 ($45.10)
+APR: Day 0.00% Week 0.03% Year 1.37%
+You are staking 0.00 [WETH]-[CRV] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[CRV] Uni LP
+Unstake 0.00 [WETH]-[CRV] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[YFI]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49,774.06 TVL: $4,228,735.29
+YFI Price: $40,329.00
+WETH Price: $3,331.95
+Staked: 5.1569 UNI-V2 ($256,681.43)
+BAO Per Week: 164225.68 ($135.30)
+APR: Day 0.01% Week 0.05% Year 2.74%
+You are staking 0.00 [YFI]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [YFI]-[WETH] Uni LP
+Unstake 0.00 [YFI]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[COMP]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,849.89 TVL: $7,534,986.98
+COMP Price: $468.46
+WETH Price: $3,331.95
+Staked: 67.6904 UNI-V2 ($260,600.42)
+BAO Per Week: 27370.95 ($22.55)
+APR: Day 0.00% Week 0.01% Year 0.45%
+You are staking 0.00 [COMP]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COMP]-[WETH] Uni LP
+Unstake 0.00 [COMP]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[MKR]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9,080.21 TVL: $48,996,908.28
+MKR Price: $3,989.56
+WETH Price: $3,331.95
+Staked: 39.7477 UNI-V2 ($360,917.70)
+BAO Per Week: 27370.95 ($22.55)
+APR: Day 0.00% Week 0.01% Year 0.32%
+You are staking 0.00 [MKR]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MKR]-[WETH] Uni LP
+Unstake 0.00 [MKR]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[UMA]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $550.05 TVL: $244,180.35
+UMA Price: $14.86
+WETH Price: $3,331.95
+Staked: 68.7582 UNI-V2 ($37,820.29)
+BAO Per Week: 27370.95 ($22.55)
+APR: Day 0.01% Week 0.06% Year 3.10%
+You are staking 0.00 [UMA]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UMA]-[WETH] Uni LP
+Unstake 0.00 [UMA]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[FTX Token]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,239.09 TVL: $762,182.67
+FTX Token Price: $51.41
+WETH Price: $3,331.95
+Staked: 328.1218 UNI-V2 ($406,572.66)
+BAO Per Week: 164253.05 ($135.32)
+APR: Day 0.00% Week 0.03% Year 1.73%
+You are staking 0.00 [FTX Token]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FTX Token]-[WETH] Uni LP
+Unstake 0.00 [FTX Token]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[WETH]-[renBTC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,070,997,250.63 TVL: $2,874,692.51
+WETH Price: $3,331.95
+renBTC Price: $50,097.00
+Staked: 0.0000 UNI-V2 ($78,276.48)
+BAO Per Week: 27370.95 ($22.55)
+APR: Day 0.00% Week 0.03% Year 1.50%
+You are staking 0.00 [WETH]-[renBTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[renBTC] Uni LP
+Unstake 0.00 [WETH]-[renBTC] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[BAT]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $134.63 TVL: $3,078,498.80
+BAT Price: $0.86
+WETH Price: $3,331.95
+Staked: 304.4111 UNI-V2 ($40,983.32)
+BAO Per Week: 20528.21 ($16.91)
+APR: Day 0.01% Week 0.04% Year 2.15%
+You are staking 0.00 [BAT]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BAT]-[WETH] Uni LP
+Unstake 0.00 [BAT]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[TUSD]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $175.42 TVL: $115,670.42
+TUSD Price: $1.00
+WETH Price: $3,331.95
+Staked: 121.8180 UNI-V2 ($21,369.00)
+BAO Per Week: 6842.74 ($5.64)
+APR: Day 0.00% Week 0.03% Year 1.37%
+You are staking 0.00 [TUSD]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TUSD]-[WETH] Uni LP
+Unstake 0.00 [TUSD]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[WETH]-[HUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11,847,178.35 TVL: $33,677.35
+WETH Price: $3,331.95
+HUSD Price: $1.00
+Staked: 0.0026 UNI-V2 ($31,188.52)
+BAO Per Week: 20528.21 ($16.91)
+APR: Day 0.01% Week 0.05% Year 2.82%
+You are staking 0.00 [WETH]-[HUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[HUSD] Uni LP
+Unstake 0.00 [WETH]-[HUSD] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[WETH]-[ZRX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $172.47 TVL: $767,679.63
+WETH Price: $3,331.95
+ZRX Price: $1.14
+Staked: 434.4718 UNI-V2 ($74,931.96)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.00% Week 0.02% Year 0.78%
+You are staking 0.00 [WETH]-[ZRX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[ZRX] Uni LP
+Unstake 0.00 [WETH]-[ZRX] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[aETH]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $629,569,895,020,694.00 TVL: $64,814.72
+aETH Price: $3,344.66
+WETH Price: $3,331.95
+Staked: 0.0000 UNI-V2 ($63,003.64)
+BAO Per Week: 27370.95 ($22.55)
+APR: Day 0.01% Week 0.04% Year 1.86%
+You are staking 0.00 [aETH]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [aETH]-[WETH] Uni LP
+Unstake 0.00 [aETH]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+[OCEAN]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $167.83 TVL: $3,512,030.95
+OCEAN Price: $0.99
+WETH Price: $3,331.95
+Staked: 736.7557 UNI-V2 ($123,652.67)
+BAO Per Week: 20528.21 ($16.91)
+APR: Day 0.00% Week 0.01% Year 0.71%
+You are staking 0.00 [OCEAN]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [OCEAN]-[WETH] Uni LP
+Unstake 0.00 [OCEAN]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+[WETH]-[KNC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $236.22 TVL: $441,776.42
+WETH Price: $3,331.95
+KNC Price: $2.17
+Staked: 154.3338 UNI-V2 ($36,457.21)
+BAO Per Week: 20528.21 ($16.91)
+APR: Day 0.01% Week 0.05% Year 2.41%
+You are staking 0.00 [WETH]-[KNC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[KNC] Uni LP
+Unstake 0.00 [WETH]-[KNC] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+[WETH]-[AMPL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $14,429,484.60 TVL: $9,351,683.38
+WETH Price: $3,331.95
+AMPL Price: $0.93
+Staked: 0.0048 UNI-V2 ($68,844.92)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.00% Week 0.02% Year 0.85%
+You are staking 0.00 [WETH]-[AMPL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[AMPL] Uni LP
+Unstake 0.00 [WETH]-[AMPL] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+[wNXM]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,946.18 TVL: $936,217.28
+wNXM Price: $72.14
+WETH Price: $3,331.95
+Staked: 13.8618 UNI-V2 ($26,977.48)
+BAO Per Week: 27370.95 ($22.55)
+APR: Day 0.01% Week 0.08% Year 4.35%
+You are staking 0.00 [wNXM]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wNXM]-[WETH] Uni LP
+Unstake 0.00 [wNXM]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+[RSR]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $53.88 TVL: $1,844,360.54
+RSR Price: $0.05
+WETH Price: $3,331.95
+Staked: 5509.8309 UNI-V2 ($296,868.78)
+BAO Per Week: 68427.37 ($56.37)
+APR: Day 0.00% Week 0.02% Year 0.99%
+You are staking 0.00 [RSR]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RSR]-[WETH] Uni LP
+Unstake 0.00 [RSR]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+[WETH]-[ENJ] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $232.29 TVL: $1,375,116.71
+WETH Price: $3,331.95
+ENJ Price: $1.93
+Staked: 205.8279 UNI-V2 ($47,811.36)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.00% Week 0.02% Year 1.23%
+You are staking 0.00 [WETH]-[ENJ] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[ENJ] Uni LP
+Unstake 0.00 [WETH]-[ENJ] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+[BAND]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $613.90 TVL: $374,614.60
+BAND Price: $10.01
+WETH Price: $3,331.95
+Staked: 25.6045 UNI-V2 ($15,718.59)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.01% Week 0.07% Year 3.73%
+You are staking 0.00 [BAND]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BAND]-[WETH] Uni LP
+Unstake 0.00 [BAND]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+33 - 
+[NMR]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,040.24 TVL: $312,828.34
+NMR Price: $44.51
+WETH Price: $3,331.95
+Staked: 35.2276 UNI-V2 ($36,645.04)
+BAO Per Week: 27370.95 ($22.55)
+APR: Day 0.01% Week 0.06% Year 3.20%
+You are staking 0.00 [NMR]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NMR]-[WETH] Uni LP
+Unstake 0.00 [NMR]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+34 - 
+[BAL]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,171.96 TVL: $889,055.03
+BAL Price: $31.20
+WETH Price: $3,331.95
+Staked: 270.2274 UNI-V2 ($316,695.64)
+BAO Per Week: 109483.79 ($90.20)
+APR: Day 0.00% Week 0.03% Year 1.48%
+You are staking 0.00 [BAL]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BAL]-[WETH] Uni LP
+Unstake 0.00 [BAL]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+35 - 
+[NEXO]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $255.23 TVL: $532,256.28
+NEXO Price: $1.99
+WETH Price: $3,331.95
+Staked: 21.1076 UNI-V2 ($5,387.23)
+BAO Per Week: 20528.21 ($16.91)
+APR: Day 0.04% Week 0.31% Year 16.32%
+You are staking 0.00 [NEXO]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NEXO]-[WETH] Uni LP
+Unstake 0.00 [NEXO]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+36 - 
+[ANT]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $296.23 TVL: $4,451,444.57
+ANT Price: $5.39
+WETH Price: $3,331.95
+Staked: 5.1363 UNI-V2 ($1,521.54)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.08%
+You are staking 0.00 [ANT]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ANT]-[WETH] Uni LP
+Unstake 0.00 [ANT]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+37 - 
+[MANA]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $165.75 TVL: $3,776,449.81
+MANA Price: $0.90
+WETH Price: $3,331.95
+Staked: 8.5089 UNI-V2 ($1,410.31)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.08%
+You are staking 0.00 [MANA]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MANA]-[WETH] Uni LP
+Unstake 0.00 [MANA]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+38 - 
+[SNT]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $43.62 TVL: $1,624,837.94
+SNT Price: $0.10
+WETH Price: $3,331.95
+Staked: 2331.1791 UNI-V2 ($101,690.52)
+BAO Per Week: 6842.74 ($5.64)
+APR: Day 0.00% Week 0.01% Year 0.29%
+You are staking 0.00 [SNT]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SNT]-[WETH] Uni LP
+Unstake 0.00 [SNT]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+39 - 
+[ESD]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $15,485,451.25 TVL: $342,414.36
+ESD Price: $0.05
+USDC Price: $1.00
+Staked: 0.0030 UNI-V2 ($46,406.66)
+BAO Per Week: 20555.58 ($16.93)
+APR: Day 0.01% Week 0.04% Year 1.90%
+You are staking 0.00 [ESD]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ESD]-[USDC] Uni LP
+Unstake 0.00 [ESD]-[USDC] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+40 - 
+[yyDAI+yUSDC+yUSDT+yTUSD]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7,475,152,634.52 TVL: $323,638.55
+yyDAI+yUSDC+yUSDT+yTUSD Price: $1.31
+WETH Price: $3,331.95
+Staked: 0.0000 UNI-V2 ($307,161.53)
+BAO Per Week: 82112.84 ($67.65)
+APR: Day 0.00% Week 0.02% Year 1.15%
+You are staking 0.00 [yyDAI+yUSDC+yUSDT+yTUSD]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [yyDAI+yUSDC+yUSDT+yTUSD]-[WETH] Uni LP
+Unstake 0.00 [yyDAI+yUSDC+yUSDT+yTUSD]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+41 - 
+[MATIC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $352.97 TVL: $4,854,636.54
+MATIC Price: $1.66
+WETH Price: $3,331.95
+Staked: 438.3274 UNI-V2 ($154,716.06)
+BAO Per Week: 27370.95 ($22.55)
+APR: Day 0.00% Week 0.01% Year 0.76%
+You are staking 0.00 [MATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MATIC]-[WETH] Uni LP
+Unstake 0.00 [MATIC]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+42 - 
+[PAXG]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5,787.04 TVL: $23,533,536.43
+PAXG Price: $1,790.01
+WETH Price: $3,331.95
+Staked: 5.6561 UNI-V2 ($32,732.23)
+BAO Per Week: 20528.21 ($16.91)
+APR: Day 0.01% Week 0.05% Year 2.69%
+You are staking 0.00 [PAXG]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PAXG]-[WETH] Uni LP
+Unstake 0.00 [PAXG]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+43 - 
+[WETH]-[GT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $259.49 TVL: $32,772.98
+WETH Price: $3,331.95
+GT Price: $4.72
+Staked: 118.2196 UNI-V2 ($30,677.28)
+BAO Per Week: 20528.21 ($16.91)
+APR: Day 0.01% Week 0.06% Year 2.87%
+You are staking 0.00 [WETH]-[GT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[GT] Uni LP
+Unstake 0.00 [WETH]-[GT] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+44 - 
+[SXP]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $405.22 TVL: $382,471.16
+SXP Price: $3.73
+WETH Price: $3,331.95
+Staked: 93.4039 UNI-V2 ($37,848.73)
+BAO Per Week: 20555.58 ($16.93)
+APR: Day 0.01% Week 0.04% Year 2.33%
+You are staking 0.00 [SXP]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SXP]-[WETH] Uni LP
+Unstake 0.00 [SXP]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+45 - 
+[REP]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $748.39 TVL: $125,169.40
+REP Price: $29.41
+WETH Price: $3,331.95
+Staked: 114.1383 UNI-V2 ($85,419.62)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.00% Week 0.01% Year 0.69%
+You are staking 0.00 [REP]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [REP]-[WETH] Uni LP
+Unstake 0.00 [REP]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+46 - 
+[CVC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9,397,992.27 TVL: $72,022.27
+CVC Price: $0.37
+WETH Price: $3,331.95
+Staked: 0.0001 UNI-V2 ($696.81)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.17%
+You are staking 0.00 [CVC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CVC]-[WETH] Uni LP
+Unstake 0.00 [CVC]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+47 - 
+[HEGIC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $100.63 TVL: $1,446,730.74
+HEGIC Price: $0.17
+WETH Price: $3,331.95
+Staked: 631.5795 UNI-V2 ($63,557.63)
+BAO Per Week: 54741.89 ($45.10)
+APR: Day 0.01% Week 0.07% Year 3.69%
+You are staking 0.00 [HEGIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HEGIC]-[WETH] Uni LP
+Unstake 0.00 [HEGIC]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+48 - 
+[WFIL]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $18,391,643.65 TVL: $27,401.45
+WFIL Price: $77.27
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($225.55)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.01% Year 0.52%
+You are staking 0.00 [WFIL]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFIL]-[USDC] Uni LP
+Unstake 0.00 [WFIL]-[USDC] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+49 - 
+[HBTC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,187,109,720.91 TVL: $173,598.68
+HBTC Price: $50,243.00
+WETH Price: $3,331.95
+Staked: 0.0001 UNI-V2 ($160,506.65)
+BAO Per Week: 54741.89 ($45.10)
+APR: Day 0.00% Week 0.03% Year 1.46%
+You are staking 0.00 [HBTC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HBTC]-[WETH] Uni LP
+Unstake 0.00 [HBTC]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+50 - 
+[cUNI]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9,168,670.45 TVL: $398,007.72
+cUNI Price: $0.59
+WETH Price: $3,331.95
+Staked: 0.0426 UNI-V2 ($390,771.09)
+BAO Per Week: 54741.89 ($45.10)
+APR: Day 0.00% Week 0.01% Year 0.60%
+You are staking 0.00 [cUNI]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [cUNI]-[WETH] Uni LP
+Unstake 0.00 [cUNI]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+51 - 
+[WETH]-[UOS] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $104,970,116,326,787.52 TVL: $565,924.18
+WETH Price: $3,331.95
+UOS Price: $0.75
+Staked: 0.0000 UNI-V2 ($36,862.57)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.00% Week 0.03% Year 1.59%
+You are staking 0.00 [WETH]-[UOS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[UOS] Uni LP
+Unstake 0.00 [WETH]-[UOS] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+52 - 
+[WETH]-[UTK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $114.42 TVL: $253,785.27
+WETH Price: $3,331.95
+UTK Price: $0.47
+Staked: 433.5608 UNI-V2 ($49,609.34)
+BAO Per Week: 20528.21 ($16.91)
+APR: Day 0.00% Week 0.03% Year 1.77%
+You are staking 0.00 [WETH]-[UTK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[UTK] Uni LP
+Unstake 0.00 [WETH]-[UTK] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+53 - 
+[WETH]-[SHR] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,809,211,768.40 TVL: $513,182.39
+WETH Price: $3,331.95
+SHR Price: $0.05
+Staked: 0.0000 UNI-V2 ($30,118.10)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.01% Week 0.04% Year 1.95%
+You are staking 0.00 [WETH]-[SHR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[SHR] Uni LP
+Unstake 0.00 [WETH]-[SHR] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+54 - 
+[Titan]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $385.93 TVL: $4,425.26
+Titan Price: $7.75
+WETH Price: $3,331.95
+Staked: 10.9218 UNI-V2 ($4,215.02)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.03%
+You are staking 0.00 [Titan]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Titan]-[WETH] Uni LP
+Unstake 0.00 [Titan]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+55 - 
+[MPH]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,333.79 TVL: $461,721.12
+MPH Price: $62.46
+WETH Price: $3,331.95
+Staked: 20.0496 UNI-V2 ($26,742.10)
+BAO Per Week: 54769.27 ($45.12)
+APR: Day 0.02% Week 0.17% Year 8.77%
+You are staking 0.00 [MPH]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MPH]-[WETH] Uni LP
+Unstake 0.00 [MPH]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+56 - 
+[sUSD]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $207.36 TVL: $655,814.98
+sUSD Price: $1.00
+WETH Price: $3,331.95
+Staked: 219.3829 UNI-V2 ($45,491.89)
+BAO Per Week: 54741.89 ($45.10)
+APR: Day 0.01% Week 0.10% Year 5.16%
+You are staking 0.00 [sUSD]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [sUSD]-[WETH] Uni LP
+Unstake 0.00 [sUSD]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+57 - 
+[MATH]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $160.78 TVL: $146,169.10
+MATH Price: $1.33
+WETH Price: $3,331.95
+Staked: 254.0018 UNI-V2 ($40,838.22)
+BAO Per Week: 54769.27 ($45.12)
+APR: Day 0.02% Week 0.11% Year 5.75%
+You are staking 0.00 [MATH]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MATH]-[WETH] Uni LP
+Unstake 0.00 [MATH]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+58 - 
+[SRM]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $433,831,276.92 TVL: $746,009.60
+SRM Price: $7.48
+WETH Price: $3,331.95
+Staked: 0.0012 UNI-V2 ($533,786.09)
+BAO Per Week: 109511.16 ($90.22)
+APR: Day 0.00% Week 0.02% Year 0.88%
+You are staking 0.00 [SRM]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SRM]-[WETH] Uni LP
+Unstake 0.00 [SRM]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+59 - 
+[cZRX]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,005,015.25 TVL: $9,640.48
+cZRX Price: $0.02
+WETH Price: $3,331.95
+Staked: 0.0047 UNI-V2 ($9,504.83)
+BAO Per Week: 20528.21 ($16.91)
+APR: Day 0.03% Week 0.18% Year 9.25%
+You are staking 0.00 [cZRX]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [cZRX]-[WETH] Uni LP
+Unstake 0.00 [cZRX]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+60 - 
+[RPL]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $656.01 TVL: $1,903,943.74
+RPL Price: $17.66
+WETH Price: $3,331.95
+Staked: 134.2545 UNI-V2 ($88,072.83)
+BAO Per Week: 68427.37 ($56.37)
+APR: Day 0.01% Week 0.06% Year 3.33%
+You are staking 0.00 [RPL]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RPL]-[WETH] Uni LP
+Unstake 0.00 [RPL]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+61 - 
+[STORJ]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $17,044,500.70 TVL: $1,173,622.63
+STORJ Price: $1.38
+WETH Price: $3,331.95
+Staked: 0.0001 UNI-V2 ($2,189.14)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.05%
+You are staking 0.00 [STORJ]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [STORJ]-[WETH] Uni LP
+Unstake 0.00 [STORJ]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+62 - 
+[BNT]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $459.54 TVL: $927,991.10
+BNT Price: $4.36
+WETH Price: $3,331.95
+Staked: 50.9160 UNI-V2 ($23,397.91)
+BAO Per Week: 27370.95 ($22.55)
+APR: Day 0.01% Week 0.10% Year 5.01%
+You are staking 0.00 [BNT]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BNT]-[WETH] Uni LP
+Unstake 0.00 [BNT]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+63 - 
+[ANKR]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $987,365,827.50 TVL: $286,848.26
+ANKR Price: $0.11
+WETH Price: $3,331.95
+Staked: 0.0002 UNI-V2 ($184,320.82)
+BAO Per Week: 109511.16 ($90.22)
+APR: Day 0.01% Week 0.05% Year 2.55%
+You are staking 0.00 [ANKR]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ANKR]-[WETH] Uni LP
+Unstake 0.00 [ANKR]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+64 - 
+[UBT]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $28,575,204.71 TVL: $2,389,536.99
+UBT Price: $2.38
+WETH Price: $3,331.95
+Staked: 0.0084 UNI-V2 ($239,462.66)
+BAO Per Week: 20528.21 ($16.91)
+APR: Day 0.00% Week 0.01% Year 0.37%
+You are staking 0.00 [UBT]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UBT]-[WETH] Uni LP
+Unstake 0.00 [UBT]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+65 - 
+[FTM]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $194.89 TVL: $1,456,132.24
+FTM Price: $0.57
+WETH Price: $3,331.95
+Staked: 848.8308 UNI-V2 ($165,428.26)
+BAO Per Week: 27370.95 ($22.55)
+APR: Day 0.00% Week 0.01% Year 0.71%
+You are staking 0.00 [FTM]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FTM]-[WETH] Uni LP
+Unstake 0.00 [FTM]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+66 - 
+[AGI]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,003,824.23 TVL: $85,651.60
+AGI Price: $0.05
+WETH Price: $3,331.95
+Staked: 0.0030 UNI-V2 ($11,840.70)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.01% Week 0.10% Year 4.95%
+You are staking 0.00 [AGI]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AGI]-[WETH] Uni LP
+Unstake 0.00 [AGI]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+67 - 
+[POLY]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $90.14 TVL: $103,849.34
+POLY Price: $0.34
+WETH Price: $3,331.95
+Staked: 213.5181 UNI-V2 ($19,245.95)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.01% Week 0.06% Year 3.05%
+You are staking 0.00 [POLY]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [POLY]-[WETH] Uni LP
+Unstake 0.00 [POLY]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+68 - 
+[ELF]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $75.83 TVL: $151,779.31
+ELF Price: $0.35
+WETH Price: $3,331.95
+Staked: 215.2115 UNI-V2 ($16,320.21)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.01%
+You are staking 0.00 [ELF]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ELF]-[WETH] Uni LP
+Unstake 0.00 [ELF]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+69 - 
+[DNT]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.63 TVL: $65,847.11
+DNT Price: $0.20
+WETH Price: $3,331.95
+Staked: 732.9235 UNI-V2 ($47,371.89)
+BAO Per Week: 54741.89 ($45.10)
+APR: Day 0.01% Week 0.10% Year 4.95%
+You are staking 0.00 [DNT]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DNT]-[WETH] Uni LP
+Unstake 0.00 [DNT]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+70 - 
+[PNK]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $65.07 TVL: $7,203,899.14
+PNK Price: $0.16
+WETH Price: $3,331.95
+Staked: 645.2671 UNI-V2 ($41,985.89)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.00% Week 0.03% Year 1.40%
+You are staking 0.00 [PNK]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PNK]-[WETH] Uni LP
+Unstake 0.00 [PNK]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+71 - 
+[HXRO]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $102.66 TVL: $1,517,761.33
+HXRO Price: $0.51
+WETH Price: $3,331.95
+Staked: 265.9019 UNI-V2 ($27,297.70)
+BAO Per Week: 54741.89 ($45.10)
+APR: Day 0.02% Week 0.17% Year 8.59%
+You are staking 0.00 [HXRO]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HXRO]-[WETH] Uni LP
+Unstake 0.00 [HXRO]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+73 - 
+[NPXS]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9.41 TVL: $15,128.71
+NPXS Price: $0.001723
+WETH Price: $3,331.95
+Staked: 657.4778 UNI-V2 ($6,187.20)
+BAO Per Week: 6870.11 ($5.66)
+APR: Day 0.01% Week 0.09% Year 4.76%
+You are staking 0.00 [NPXS]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NPXS]-[WETH] Uni LP
+Unstake 0.00 [NPXS]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+74 - 
+[WZEC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $234,468,599.78 TVL: $435.10
+WZEC Price: $108.08
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($399.29)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.01% Year 0.29%
+You are staking 0.00 [WZEC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WZEC]-[USDC] Uni LP
+Unstake 0.00 [WZEC]-[USDC] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+75 - 
+[CORE]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11,089.15 TVL: $3,469,813.43
+CORE Price: $7,150.45
+WETH Price: $3,331.95
+Staked: 1.1871 UNI-V2 ($13,164.06)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.01%
+You are staking 0.00 [CORE]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CORE]-[WETH] Uni LP
+Unstake 0.00 [CORE]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+76 - 
+[WETH]-[mUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $150.23 TVL: $25,349.35
+WETH Price: $3,331.95
+mUSD Price: $0.96
+Staked: 69.8197 UNI-V2 ($10,489.21)
+BAO Per Week: 27370.95 ($22.55)
+APR: Day 0.03% Week 0.21% Year 11.18%
+You are staking 0.00 [WETH]-[mUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[mUSD] Uni LP
+Unstake 0.00 [WETH]-[mUSD] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+77 - 
+[WETH]-[EURS] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13,121,255,179.67 TVL: $34,541.15
+WETH Price: $3,331.95
+EURS Price: $1.18
+Staked: 0.0000 UNI-V2 ($34,087.38)
+BAO Per Week: 54741.89 ($45.10)
+APR: Day 0.02% Week 0.13% Year 6.88%
+You are staking 0.00 [WETH]-[EURS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[EURS] Uni LP
+Unstake 0.00 [WETH]-[EURS] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+78 - 
+[WETH]-[AXS] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,749.61 TVL: $1,101,752.74
+WETH Price: $3,331.95
+AXS Price: $77.68
+Staked: 374.2130 UNI-V2 ($654,728.15)
+BAO Per Week: 136882.11 ($112.77)
+APR: Day 0.00% Week 0.02% Year 0.90%
+You are staking 0.00 [WETH]-[AXS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[AXS] Uni LP
+Unstake 0.00 [WETH]-[AXS] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+79 - 
+[WETH]-[BTMX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,416,814,587.87 TVL: $90,383.83
+WETH Price: $3,331.95
+BTMX Price: $0.45
+Staked: 0.0000 UNI-V2 ($22,911.44)
+BAO Per Week: 54769.27 ($45.12)
+APR: Day 0.03% Week 0.20% Year 10.24%
+You are staking 0.00 [WETH]-[BTMX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[BTMX] Uni LP
+Unstake 0.00 [WETH]-[BTMX] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+80 - 
+[LPT]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,069.07 TVL: $263,702.55
+LPT Price: $21.80
+WETH Price: $3,331.95
+Staked: 37.2428 UNI-V2 ($39,815.32)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.00% Week 0.03% Year 1.47%
+You are staking 0.00 [LPT]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LPT]-[WETH] Uni LP
+Unstake 0.00 [LPT]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+81 - 
+[WETH]-[DGTX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8.25 TVL: $391,389.63
+WETH Price: $3,331.95
+DGTX Price: $0.004189
+Staked: 2800.2702 UNI-V2 ($23,103.30)
+BAO Per Week: 27370.95 ($22.55)
+APR: Day 0.01% Week 0.10% Year 5.08%
+You are staking 0.00 [WETH]-[DGTX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[DGTX] Uni LP
+Unstake 0.00 [WETH]-[DGTX] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+82 - 
+[WETH]-[ENG] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7,107,890.21 TVL: $3,387.67
+WETH Price: $3,331.95
+ENG Price: $0.09
+Staked: 0.0003 UNI-V2 ($2,056.80)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.06%
+You are staking 0.00 [WETH]-[ENG] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[ENG] Uni LP
+Unstake 0.00 [WETH]-[ENG] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+83 - 
+[FET]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $152.47 TVL: $235,593.01
+FET Price: $0.57
+WETH Price: $3,331.95
+Staked: 405.1508 UNI-V2 ($61,772.92)
+BAO Per Week: 27370.95 ($22.55)
+APR: Day 0.01% Week 0.04% Year 1.90%
+You are staking 0.00 [FET]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FET]-[WETH] Uni LP
+Unstake 0.00 [FET]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+84 - 
+[FARM]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $38,377,979.50 TVL: $233,619.18
+FARM Price: $240.14
+USDC Price: $1.00
+Staked: 0.0037 UNI-V2 ($142,446.57)
+BAO Per Week: 34241.05 ($28.21)
+APR: Day 0.00% Week 0.02% Year 1.03%
+You are staking 0.00 [FARM]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FARM]-[USDC] Uni LP
+Unstake 0.00 [FARM]-[USDC] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+85 - 
+[ADX]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $105.33 TVL: $1,525,897.20
+ADX Price: $0.64
+WETH Price: $3,331.95
+Staked: 403.6642 UNI-V2 ($42,517.68)
+BAO Per Week: 82112.84 ($67.65)
+APR: Day 0.02% Week 0.16% Year 8.27%
+You are staking 0.00 [ADX]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADX]-[WETH] Uni LP
+Unstake 0.00 [ADX]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+86 - 
+[STAKE]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $673.45 TVL: $5,090,820.62
+STAKE Price: $9.99
+WETH Price: $3,331.95
+Staked: 693.9645 UNI-V2 ($467,349.28)
+BAO Per Week: 218967.58 ($180.39)
+APR: Day 0.01% Week 0.04% Year 2.01%
+You are staking 0.00 [STAKE]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [STAKE]-[WETH] Uni LP
+Unstake 0.00 [STAKE]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+87 - 
+[BZRX]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $146.44 TVL: $245,450.23
+BZRX Price: $0.46
+WETH Price: $3,331.95
+Staked: 314.1252 UNI-V2 ($46,000.02)
+BAO Per Week: 41056.42 ($33.82)
+APR: Day 0.01% Week 0.07% Year 3.82%
+You are staking 0.00 [BZRX]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BZRX]-[WETH] Uni LP
+Unstake 0.00 [BZRX]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+88 - 
+[IDEX]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $38.51 TVL: $107,455.99
+IDEX Price: $0.07
+WETH Price: $3,331.95
+Staked: 2383.7702 UNI-V2 ($91,800.84)
+BAO Per Week: 6870.11 ($5.66)
+APR: Day 0.00% Week 0.01% Year 0.32%
+You are staking 0.00 [IDEX]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [IDEX]-[WETH] Uni LP
+Unstake 0.00 [IDEX]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+89 - 
+[WETH]-[NEC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $36.01 TVL: $56,484.88
+WETH Price: $3,331.95
+NEC Price: $0.07
+Staked: 247.6684 UNI-V2 ($8,919.48)
+BAO Per Week: 20555.58 ($16.93)
+APR: Day 0.03% Week 0.19% Year 9.87%
+You are staking 0.00 [WETH]-[NEC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[NEC] Uni LP
+Unstake 0.00 [WETH]-[NEC] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+90 - 
+[SAND]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $119.24 TVL: $30,512,546.70
+SAND Price: $0.67
+WETH Price: $3,331.95
+Staked: 1144.8859 UNI-V2 ($136,513.65)
+BAO Per Week: 20555.58 ($16.93)
+APR: Day 0.00% Week 0.01% Year 0.65%
+You are staking 0.00 [SAND]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SAND]-[WETH] Uni LP
+Unstake 0.00 [SAND]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+91 - 
+[WETH]-[MLN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,064.13 TVL: $1,581,077.95
+WETH Price: $3,331.95
+MLN Price: $93.69
+Staked: 5.2437 UNI-V2 ($10,823.74)
+BAO Per Week: 20528.21 ($16.91)
+APR: Day 0.02% Week 0.16% Year 8.12%
+You are staking 0.00 [WETH]-[MLN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[MLN] Uni LP
+Unstake 0.00 [WETH]-[MLN] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+92 - 
+[CREAM]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,273.09 TVL: $393,439.28
+CREAM Price: $184.33
+WETH Price: $3,331.95
+Staked: 15.2247 UNI-V2 ($49,831.71)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.00% Week 0.02% Year 1.18%
+You are staking 0.00 [CREAM]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CREAM]-[WETH] Uni LP
+Unstake 0.00 [CREAM]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+93 - 
+[DPI]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,711.13 TVL: $23,723,781.03
+DPI Price: $434.15
+WETH Price: $3,331.95
+Staked: 91.2556 UNI-V2 ($247,405.57)
+BAO Per Week: 109511.16 ($90.22)
+APR: Day 0.01% Week 0.04% Year 1.90%
+You are staking 0.00 [DPI]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DPI]-[WETH] Uni LP
+Unstake 0.00 [DPI]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+94 - 
+[TBTC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $27,662.79 TVL: $2,463,284.02
+TBTC Price: $51,101.00
+WETH Price: $3,331.95
+Staked: 1.7148 UNI-V2 ($47,435.35)
+BAO Per Week: 20528.21 ($16.91)
+APR: Day 0.01% Week 0.04% Year 1.85%
+You are staking 0.00 [TBTC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TBTC]-[WETH] Uni LP
+Unstake 0.00 [TBTC]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+95 - 
+[LOOM]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $48.90 TVL: $20,728.60
+LOOM Price: $0.11
+WETH Price: $3,331.95
+Staked: 219.4305 UNI-V2 ($10,730.06)
+BAO Per Week: 6842.74 ($5.64)
+APR: Day 0.01% Week 0.05% Year 2.73%
+You are staking 0.00 [LOOM]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LOOM]-[WETH] Uni LP
+Unstake 0.00 [LOOM]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+96 - 
+[MX]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $121.92 TVL: $18,002.69
+MX Price: $0.98
+WETH Price: $3,331.95
+Staked: 72.9263 UNI-V2 ($8,891.44)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.02% Week 0.13% Year 6.59%
+You are staking 0.00 [MX]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MX]-[WETH] Uni LP
+Unstake 0.00 [MX]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+97 - 
+[KP3R]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,661.30 TVL: $933,990.30
+KP3R Price: $191.02
+WETH Price: $3,331.95
+Staked: 50.0788 UNI-V2 ($133,274.84)
+BAO Per Week: 82140.21 ($67.67)
+APR: Day 0.01% Week 0.05% Year 2.64%
+You are staking 0.00 [KP3R]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KP3R]-[WETH] Uni LP
+Unstake 0.00 [KP3R]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+98 - 
+[AKRO]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.06 TVL: $623,775.24
+AKRO Price: $0.04
+WETH Price: $3,331.95
+Staked: 2989.9550 UNI-V2 ($149,664.12)
+BAO Per Week: 82140.21 ($67.67)
+APR: Day 0.01% Week 0.05% Year 2.35%
+You are staking 0.00 [AKRO]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AKRO]-[WETH] Uni LP
+Unstake 0.00 [AKRO]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+99 - 
+[REQ]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $72.79 TVL: $4,823,338.27
+REQ Price: $0.27
+WETH Price: $3,331.95
+Staked: 96.7228 UNI-V2 ($7,040.69)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.02%
+You are staking 0.00 [REQ]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [REQ]-[WETH] Uni LP
+Unstake 0.00 [REQ]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+100 - 
+[QSP]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $30.59 TVL: $100,949.73
+QSP Price: $0.05
+WETH Price: $3,331.95
+Staked: 1882.5132 UNI-V2 ($57,588.80)
+BAO Per Week: 20528.21 ($16.91)
+APR: Day 0.00% Week 0.03% Year 1.53%
+You are staking 0.00 [QSP]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [QSP]-[WETH] Uni LP
+Unstake 0.00 [QSP]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+101 - 
+[MTA]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $216.43 TVL: $2,398,759.76
+MTA Price: $1.13
+WETH Price: $3,331.95
+Staked: 328.3902 UNI-V2 ($71,072.65)
+BAO Per Week: 82140.21 ($67.67)
+APR: Day 0.01% Week 0.10% Year 4.95%
+You are staking 0.00 [MTA]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MTA]-[WETH] Uni LP
+Unstake 0.00 [MTA]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+102 - 
+[AST]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9,503,650,479.00 TVL: $312,339.45
+AST Price: $0.23
+WETH Price: $3,331.95
+Staked: 0.0000 UNI-V2 ($38,199.87)
+BAO Per Week: 27370.95 ($22.55)
+APR: Day 0.01% Week 0.06% Year 3.07%
+You are staking 0.00 [AST]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AST]-[WETH] Uni LP
+Unstake 0.00 [AST]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+103 - 
+[DUSD]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $925,186,930.86 TVL: $22,516.69
+DUSD Price: $1.02
+WETH Price: $3,331.95
+Staked: 0.0000 UNI-V2 ($20,166.69)
+BAO Per Week: 20528.21 ($16.91)
+APR: Day 0.01% Week 0.08% Year 4.36%
+You are staking 0.00 [DUSD]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DUSD]-[WETH] Uni LP
+Unstake 0.00 [DUSD]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+104 - 
+[BTSE]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $30,403,207.86 TVL: $555,767.64
+BTSE Price: $5.73
+WETH Price: $3,331.95
+Staked: 0.0003 UNI-V2 ($10,412.21)
+BAO Per Week: 13712.84 ($11.30)
+APR: Day 0.02% Week 0.11% Year 5.64%
+You are staking 0.00 [BTSE]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTSE]-[WETH] Uni LP
+Unstake 0.00 [BTSE]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+105 - 
+[DF]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $61.04 TVL: $2,470,712.32
+DF Price: $0.21
+WETH Price: $3,331.95
+Staked: 504.3566 UNI-V2 ($30,785.56)
+BAO Per Week: 27370.95 ($22.55)
+APR: Day 0.01% Week 0.07% Year 3.81%
+You are staking 0.00 [DF]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DF]-[WETH] Uni LP
+Unstake 0.00 [DF]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+106 - 
+[WETH]-[DMG] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $62.37 TVL: $33,266.54
+WETH Price: $3,331.95
+DMG Price: $0.05
+Staked: 11.5497 UNI-V2 ($720.38)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.16%
+You are staking 0.00 [WETH]-[DMG] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[DMG] Uni LP
+Unstake 0.00 [WETH]-[DMG] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+107 - 
+[WETH]-[KARMA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $281,684,128.84 TVL: $53,111.14
+WETH Price: $3,331.95
+KARMA Price: $0.04
+Staked: 0.0000 UNI-V2 ($26.64)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.01% Week 0.08% Year 4.40%
+You are staking 0.00 [WETH]-[KARMA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[KARMA] Uni LP
+Unstake 0.00 [WETH]-[KARMA] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+108 - 
+[TKN]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6,546,132.29 TVL: $2,133,507.18
+TKN Price: $0.27
+WETH Price: $3,331.95
+Staked: 0.0061 UNI-V2 ($40,073.79)
+BAO Per Week: 41056.42 ($33.82)
+APR: Day 0.01% Week 0.08% Year 4.39%
+You are staking 0.00 [TKN]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TKN]-[WETH] Uni LP
+Unstake 0.00 [TKN]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+109 - 
+[PNT]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $718,094,040.87 TVL: $2,146,385.33
+PNT Price: $1.28
+WETH Price: $3,331.95
+Staked: 0.0000 UNI-V2 ($1,153.73)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.10%
+You are staking 0.00 [PNT]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PNT]-[WETH] Uni LP
+Unstake 0.00 [PNT]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+110 - 
+[YAM]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $391.68 TVL: $34,224.81
+YAM Price: $0.89
+WETH Price: $3,331.95
+Staked: 65.4761 UNI-V2 ($25,645.43)
+BAO Per Week: 27370.95 ($22.55)
+APR: Day 0.01% Week 0.09% Year 4.57%
+You are staking 0.00 [YAM]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [YAM]-[WETH] Uni LP
+Unstake 0.00 [YAM]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+111 - 
+[AUDIO]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $276.03 TVL: $9,967,180.89
+AUDIO Price: $3.00
+WETH Price: $3,331.95
+Staked: 290.1376 UNI-V2 ($80,087.42)
+BAO Per Week: 54741.89 ($45.10)
+APR: Day 0.01% Week 0.06% Year 2.93%
+You are staking 0.00 [AUDIO]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AUDIO]-[WETH] Uni LP
+Unstake 0.00 [AUDIO]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+112 - 
+[GHST]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $447.78 TVL: $251,178.71
+GHST Price: $2.11
+WETH Price: $3,331.95
+Staked: 351.6472 UNI-V2 ($157,458.97)
+BAO Per Week: 54741.89 ($45.10)
+APR: Day 0.00% Week 0.03% Year 1.49%
+You are staking 0.00 [GHST]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GHST]-[WETH] Uni LP
+Unstake 0.00 [GHST]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+113 - 
+[SWRV]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $269.00 TVL: $78,553.34
+SWRV Price: $0.94
+WETH Price: $3,331.95
+Staked: 171.4432 UNI-V2 ($46,117.71)
+BAO Per Week: 54741.89 ($45.10)
+APR: Day 0.01% Week 0.10% Year 5.09%
+You are staking 0.00 [SWRV]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SWRV]-[WETH] Uni LP
+Unstake 0.00 [SWRV]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+114 - 
+[FOAM]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $25.87 TVL: $698,445.26
+FOAM Price: $0.04
+WETH Price: $3,331.95
+Staked: 42.5184 UNI-V2 ($1,099.84)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.11%
+You are staking 0.00 [FOAM]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FOAM]-[WETH] Uni LP
+Unstake 0.00 [FOAM]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+115 - 
+[LIEN]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $60,219,905.59 TVL: $183,631.17
+LIEN Price: $5.26
+WETH Price: $3,331.95
+Staked: 0.0004 UNI-V2 ($26,016.23)
+BAO Per Week: 54741.89 ($45.10)
+APR: Day 0.02% Week 0.17% Year 9.01%
+You are staking 0.00 [LIEN]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LIEN]-[WETH] Uni LP
+Unstake 0.00 [LIEN]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+116 - 
+[WETH]-[PRE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $26.60 TVL: $176,640.47
+WETH Price: $3,331.95
+PRE Price: $0.05
+Staked: 9.3016 UNI-V2 ($247.40)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.01% Year 0.47%
+You are staking 0.00 [WETH]-[PRE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[PRE] Uni LP
+Unstake 0.00 [WETH]-[PRE] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+117 - 
+[GEN]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.91 TVL: $116,245.22
+GEN Price: $0.07
+WETH Price: $3,331.95
+Staked: 331.1532 UNI-V2 ($16,529.03)
+BAO Per Week: 20528.21 ($16.91)
+APR: Day 0.01% Week 0.10% Year 5.32%
+You are staking 0.00 [GEN]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GEN]-[WETH] Uni LP
+Unstake 0.00 [GEN]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+118 - 
+[JRT]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.90 TVL: $388,219.24
+JRT Price: $0.10
+WETH Price: $3,331.95
+Staked: 0.0770 UNI-V2 ($3.84)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.08% Week 0.59% Year 30.53%
+You are staking 0.00 [JRT]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JRT]-[WETH] Uni LP
+Unstake 0.00 [JRT]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+119 - 
+[WETH]-[MEME] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $534,364,071.15 TVL: $1,708,699.39
+WETH Price: $3,331.95
+MEME Price: $592.22
+Staked: 0.0000 UNI-V2 ($22,305.97)
+BAO Per Week: 34241.05 ($28.21)
+APR: Day 0.02% Week 0.13% Year 6.58%
+You are staking 0.00 [WETH]-[MEME] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[MEME] Uni LP
+Unstake 0.00 [WETH]-[MEME] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+120 - 
+[BOND]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11,954,658.56 TVL: $29,282,358.30
+BOND Price: $28.84
+USDC Price: $1.00
+Staked: 0.0058 UNI-V2 ($68,939.57)
+BAO Per Week: 109483.79 ($90.20)
+APR: Day 0.02% Week 0.13% Year 6.80%
+You are staking 0.00 [BOND]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BOND]-[USDC] Uni LP
+Unstake 0.00 [BOND]-[USDC] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+121 - 
+[APY]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $112.93 TVL: $5,293,739.84
+APY Price: $0.58
+WETH Price: $3,331.95
+Staked: 914.7524 UNI-V2 ($103,299.56)
+BAO Per Week: 109483.79 ($90.20)
+APR: Day 0.01% Week 0.09% Year 4.54%
+You are staking 0.00 [APY]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [APY]-[WETH] Uni LP
+Unstake 0.00 [APY]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+122 - 
+[INDEX]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,033.22 TVL: $732,645.33
+INDEX Price: $40.83
+WETH Price: $3,331.95
+Staked: 144.8455 UNI-V2 ($149,656.93)
+BAO Per Week: 109483.79 ($90.20)
+APR: Day 0.01% Week 0.06% Year 3.13%
+You are staking 0.00 [INDEX]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [INDEX]-[WETH] Uni LP
+Unstake 0.00 [INDEX]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+123 - 
+[USDC]-[DHT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,397,746.09 TVL: $18,196.37
+USDC Price: $1.00
+DHT Price: $1.18
+Staked: 0.0048 UNI-V2 ($11,549.37)
+BAO Per Week: 54741.89 ($45.10)
+APR: Day 0.06% Week 0.39% Year 20.31%
+You are staking 0.00 [USDC]-[DHT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DHT] Uni LP
+Unstake 0.00 [USDC]-[DHT] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+124 - 
+[DOUGH]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $81.25 TVL: $376,325.39
+DOUGH Price: $0.35
+WETH Price: $3,331.95
+Staked: 658.6781 UNI-V2 ($53,516.68)
+BAO Per Week: 82112.84 ($67.65)
+APR: Day 0.02% Week 0.13% Year 6.57%
+You are staking 0.00 [DOUGH]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOUGH]-[WETH] Uni LP
+Unstake 0.00 [DOUGH]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+125 - 
+[HGET]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $290,145,394.28 TVL: $117,365.87
+HGET Price: $4.34
+WETH Price: $3,331.95
+Staked: 0.0002 UNI-V2 ($59,751.34)
+BAO Per Week: 109483.79 ($90.20)
+APR: Day 0.02% Week 0.15% Year 7.85%
+You are staking 0.00 [HGET]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HGET]-[WETH] Uni LP
+Unstake 0.00 [HGET]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+126 - 
+[BFT]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $20.26 TVL: $291,410.29
+BFT Price: $0.03
+WETH Price: $3,331.95
+Staked: 58.1533 UNI-V2 ($1,178.39)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.10%
+You are staking 0.00 [BFT]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BFT]-[WETH] Uni LP
+Unstake 0.00 [BFT]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+127 - 
+[WETH]-[ROOK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,709.50 TVL: $3,875,660.79
+WETH Price: $3,331.95
+ROOK Price: $181.58
+Staked: 51.7382 UNI-V2 ($140,184.56)
+BAO Per Week: 109483.79 ($90.20)
+APR: Day 0.01% Week 0.06% Year 3.35%
+You are staking 0.00 [WETH]-[ROOK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[ROOK] Uni LP
+Unstake 0.00 [WETH]-[ROOK] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+128 - 
+[YAMv2]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.02 TVL: $5,391.57
+YAMv2 Price: $4.74
+WETH Price: $3,331.95
+Staked: 1599.8518 UNI-V2 ($1,636.59)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.07%
+You are staking 0.00 [YAMv2]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [YAMv2]-[WETH] Uni LP
+Unstake 0.00 [YAMv2]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+129 - 
+[DFD]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $60.55 TVL: $43,717.14
+DFD Price: $0.15
+WETH Price: $3,331.95
+Staked: 477.5705 UNI-V2 ($28,916.63)
+BAO Per Week: 34241.05 ($28.21)
+APR: Day 0.01% Week 0.10% Year 5.07%
+You are staking 0.00 [DFD]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DFD]-[WETH] Uni LP
+Unstake 0.00 [DFD]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+130 - 
+[BLT]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $38.63 TVL: $58,070.76
+BLT Price: $0.08
+WETH Price: $3,331.95
+Staked: 648.9074 UNI-V2 ($25,068.48)
+BAO Per Week: 20528.21 ($16.91)
+APR: Day 0.01% Week 0.07% Year 3.51%
+You are staking 0.00 [BLT]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BLT]-[WETH] Uni LP
+Unstake 0.00 [BLT]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+131 - 
+[SLP]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $547,203,392,582.31 TVL: $180,414.32
+SLP Price: $0.98
+WETH Price: $3,331.95
+Staked: 0.0000 UNI-V2 ($47,586.49)
+BAO Per Week: 27370.95 ($22.55)
+APR: Day 0.01% Week 0.05% Year 2.46%
+You are staking 0.00 [SLP]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SLP]-[WETH] Uni LP
+Unstake 0.00 [SLP]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+132 - 
+[WETH]-[HYDRO] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.74 TVL: $593.04
+WETH Price: $3,331.95
+HYDRO Price: $0.0000409071
+Staked: 99.4819 UNI-V2 ($173.31)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.01% Year 0.68%
+You are staking 0.00 [WETH]-[HYDRO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[HYDRO] Uni LP
+Unstake 0.00 [WETH]-[HYDRO] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+133 - 
+[KRL]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $71.28 TVL: $29,293.19
+KRL Price: $0.31
+WETH Price: $3,331.95
+Staked: 158.5303 UNI-V2 ($11,299.42)
+BAO Per Week: 6870.11 ($5.66)
+APR: Day 0.01% Week 0.05% Year 2.60%
+You are staking 0.00 [KRL]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KRL]-[WETH] Uni LP
+Unstake 0.00 [KRL]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+134 - 
+[RSV]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $122.53 TVL: $68,349.24
+RSV Price: $1.01
+WETH Price: $3,331.95
+Staked: 497.9224 UNI-V2 ($61,009.04)
+BAO Per Week: 54741.89 ($45.10)
+APR: Day 0.01% Week 0.07% Year 3.84%
+You are staking 0.00 [RSV]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RSV]-[WETH] Uni LP
+Unstake 0.00 [RSV]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+135 - 
+[HOT]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,186,994,779.41 TVL: $436,529.06
+HOT Price: $0.01
+WETH Price: $3,331.95
+Staked: 0.0000 UNI-V2 ($1,868.43)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.06%
+You are staking 0.00 [HOT]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HOT]-[WETH] Uni LP
+Unstake 0.00 [HOT]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+136 - 
+[ADEL]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $47.92 TVL: $15,332.78
+ADEL Price: $0.06
+WETH Price: $3,331.95
+Staked: 134.4886 UNI-V2 ($6,444.56)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.02% Week 0.17% Year 9.10%
+You are staking 0.00 [ADEL]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADEL]-[WETH] Uni LP
+Unstake 0.00 [ADEL]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+137 - 
+[SOCKS]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50,012.46 TVL: $398,018.67
+SOCKS Price: $123,937.00
+WETH Price: $3,331.95
+Staked: 3.0824 UNI-V2 ($154,159.50)
+BAO Per Week: 54769.27 ($45.12)
+APR: Day 0.00% Week 0.03% Year 1.52%
+You are staking 0.00 [SOCKS]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SOCKS]-[WETH] Uni LP
+Unstake 0.00 [SOCKS]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+138 - 
+[WETH]-[WAR] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $26.28 TVL: $75,241.23
+WETH Price: $3,331.95
+WAR Price: $0.04
+Staked: 1422.5849 UNI-V2 ($37,378.87)
+BAO Per Week: 13712.84 ($11.30)
+APR: Day 0.00% Week 0.03% Year 1.57%
+You are staking 0.00 [WETH]-[WAR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[WAR] Uni LP
+Unstake 0.00 [WETH]-[WAR] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+139 - 
+[0xBTC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,270,987.16 TVL: $68,307.10
+0xBTC Price: $0.53
+WETH Price: $3,331.95
+Staked: 0.0013 UNI-V2 ($13,537.73)
+BAO Per Week: 27370.95 ($22.55)
+APR: Day 0.02% Week 0.17% Year 8.66%
+You are staking 0.00 [0xBTC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [0xBTC]-[WETH] Uni LP
+Unstake 0.00 [0xBTC]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+140 - 
+[WETH]-[DONUT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $16.00 TVL: $270,370.35
+WETH Price: $3,331.95
+DONUT Price: $0.008829
+Staked: 1106.2151 UNI-V2 ($17,696.37)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.01% Week 0.06% Year 3.31%
+You are staking 0.00 [WETH]-[DONUT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[DONUT] Uni LP
+Unstake 0.00 [WETH]-[DONUT] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+141 - 
+[TTT]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $16.04 TVL: $23,753.26
+TTT Price: $0.005137
+WETH Price: $3,331.95
+Staked: 39.6613 UNI-V2 ($636.13)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.18%
+You are staking 0.00 [TTT]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TTT]-[WETH] Uni LP
+Unstake 0.00 [TTT]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+142 - 
+[REPv2]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $768.95 TVL: $1,578,502.10
+REPv2 Price: $29.27
+WETH Price: $3,331.95
+Staked: 22.8800 UNI-V2 ($17,593.56)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.01% Week 0.06% Year 3.33%
+You are staking 0.00 [REPv2]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [REPv2]-[WETH] Uni LP
+Unstake 0.00 [REPv2]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+143 - 
+[GNO]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,958.57 TVL: $248,232.65
+GNO Price: $237.33
+WETH Price: $3,331.95
+Staked: 5.9444 UNI-V2 ($11,642.45)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.01% Week 0.10% Year 5.04%
+You are staking 0.00 [GNO]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GNO]-[WETH] Uni LP
+Unstake 0.00 [GNO]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+144 - 
+[WETH]-[AUC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $59.41 TVL: $386,483.55
+WETH Price: $3,331.95
+AUC Price: $0.09
+Staked: 222.7661 UNI-V2 ($13,235.43)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.01% Week 0.09% Year 4.43%
+You are staking 0.00 [WETH]-[AUC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[AUC] Uni LP
+Unstake 0.00 [WETH]-[AUC] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+145 - 
+[YAX]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $324.13 TVL: $130,909.01
+YAX Price: $4.24
+WETH Price: $3,331.95
+Staked: 17.2268 UNI-V2 ($5,583.71)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.03% Week 0.20% Year 10.50%
+You are staking 0.00 [YAX]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [YAX]-[WETH] Uni LP
+Unstake 0.00 [YAX]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+146 - 
+[OCTO]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $562.31 TVL: $259,726.66
+OCTO Price: $12.33
+WETH Price: $3,331.95
+Staked: 12.1438 UNI-V2 ($6,828.62)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.02% Week 0.17% Year 8.59%
+You are staking 0.00 [OCTO]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [OCTO]-[WETH] Uni LP
+Unstake 0.00 [OCTO]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+147 - 
+[VALUE]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $458.59 TVL: $5,275.75
+VALUE Price: $2.16
+WETH Price: $3,331.95
+Staked: 3.2797 UNI-V2 ($1,504.06)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.08%
+You are staking 0.00 [VALUE]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VALUE]-[WETH] Uni LP
+Unstake 0.00 [VALUE]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+148 - 
+[WETH]-[SHROOM] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $129.15 TVL: $858,304.35
+WETH Price: $3,331.95
+SHROOM Price: $0.38
+Staked: 325.4769 UNI-V2 ($42,036.73)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.00% Week 0.03% Year 1.39%
+You are staking 0.00 [WETH]-[SHROOM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[SHROOM] Uni LP
+Unstake 0.00 [WETH]-[SHROOM] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+149 - 
+[WETH]-[RGT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7,789,420.05 TVL: $2,677,964.38
+WETH Price: $3,331.95
+RGT Price: $12.02
+Staked: 0.0066 UNI-V2 ($51,663.68)
+BAO Per Week: 27370.95 ($22.55)
+APR: Day 0.01% Week 0.04% Year 2.27%
+You are staking 0.00 [WETH]-[RGT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[RGT] Uni LP
+Unstake 0.00 [WETH]-[RGT] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+150 - 
+[SEED]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $678.53 TVL: $841.87
+SEED Price: $31.78
+WETH Price: $3,331.95
+Staked: 0.1398 UNI-V2 ($94.84)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.02% Year 1.24%
+You are staking 0.00 [SEED]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SEED]-[WETH] Uni LP
+Unstake 0.00 [SEED]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+151 - 
+[WG0]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,838.79 TVL: $795,949.44
+WG0 Price: $554.99
+WETH Price: $3,331.95
+Staked: 4.7471 UNI-V2 ($13,475.89)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.01% Week 0.08% Year 4.35%
+You are staking 0.00 [WG0]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WG0]-[WETH] Uni LP
+Unstake 0.00 [WG0]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+152 - 
+[WETH]-[WOA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $12,910.59 TVL: $10,009.35
+WETH Price: $3,331.95
+WOA Price: $10,397.61
+Staked: 0.4894 UNI-V2 ($6,318.88)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.03% Week 0.18% Year 9.28%
+You are staking 0.00 [WETH]-[WOA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[WOA] Uni LP
+Unstake 0.00 [WETH]-[WOA] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+153 - 
+[UBXT]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $21.14 TVL: $303,932.74
+UBXT Price: $0.03
+WETH Price: $3,331.95
+Staked: 779.2286 UNI-V2 ($16,471.48)
+BAO Per Week: 34241.05 ($28.21)
+APR: Day 0.02% Week 0.17% Year 8.91%
+You are staking 0.00 [UBXT]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UBXT]-[WETH] Uni LP
+Unstake 0.00 [UBXT]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+154 - 
+[BEST]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $12,717,428.66 TVL: $2,696.48
+BEST Price: $1.11
+WETH Price: $3,331.95
+Staked: 0.0001 UNI-V2 ($1,022.32)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.11%
+You are staking 0.00 [BEST]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BEST]-[WETH] Uni LP
+Unstake 0.00 [BEST]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+155 - 
+[TOMOE]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $246.33 TVL: $99,477.84
+TOMOE Price: $3.50
+WETH Price: $3,331.95
+Staked: 3.8107 UNI-V2 ($938.68)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.12%
+You are staking 0.00 [TOMOE]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TOMOE]-[WETH] Uni LP
+Unstake 0.00 [TOMOE]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+156 - 
+[WETH]-[HEZ] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $273.30 TVL: $1,769,972.58
+WETH Price: $3,331.95
+HEZ Price: $5.33
+Staked: 53.5470 UNI-V2 ($14,634.60)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.01% Week 0.08% Year 4.01%
+You are staking 0.00 [WETH]-[HEZ] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[HEZ] Uni LP
+Unstake 0.00 [WETH]-[HEZ] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+157 - 
+[PICKLE]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $458.05 TVL: $1,277,811.15
+PICKLE Price: $10.71
+WETH Price: $3,331.95
+Staked: 3.4519 UNI-V2 ($1,581.14)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.07%
+You are staking 0.00 [PICKLE]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PICKLE]-[WETH] Uni LP
+Unstake 0.00 [PICKLE]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+158 - 
+[WETH]-[ENCORE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $196.81 TVL: $77,109.27
+WETH Price: $3,331.95
+ENCORE Price: $2.33
+Staked: 0.1812 UNI-V2 ($35.66)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.01% Week 0.06% Year 3.29%
+You are staking 0.00 [WETH]-[ENCORE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[ENCORE] Uni LP
+Unstake 0.00 [WETH]-[ENCORE] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+159 - 
+[YFIM]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $688.96 TVL: $1,303,241.08
+YFIM Price: $18.94
+WETH Price: $3,331.95
+Staked: 0.1341 UNI-V2 ($92.39)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.02% Year 1.27%
+You are staking 0.00 [YFIM]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [YFIM]-[WETH] Uni LP
+Unstake 0.00 [YFIM]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+160 - 
+[WETH]-[ORO] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $45.30 TVL: $1,237.03
+WETH Price: $3,331.95
+ORO Price: $0.10
+Staked: 7.4278 UNI-V2 ($336.51)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.01% Year 0.35%
+You are staking 0.00 [WETH]-[ORO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[ORO] Uni LP
+Unstake 0.00 [WETH]-[ORO] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+161 - 
+[XOR]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,036.11 TVL: $1,937,744.56
+XOR Price: $285.64
+WETH Price: $3,331.95
+Staked: 10.6405 UNI-V2 ($32,305.76)
+BAO Per Week: 6842.74 ($5.64)
+APR: Day 0.00% Week 0.02% Year 0.91%
+You are staking 0.00 [XOR]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XOR]-[WETH] Uni LP
+Unstake 0.00 [XOR]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+162 - 
+[REN]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $144.42 TVL: $2,491,774.45
+REN Price: $0.64
+WETH Price: $3,331.95
+Staked: 391.3516 UNI-V2 ($56,517.31)
+BAO Per Week: 27370.95 ($22.55)
+APR: Day 0.01% Week 0.04% Year 2.07%
+You are staking 0.00 [REN]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [REN]-[WETH] Uni LP
+Unstake 0.00 [REN]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+163 - 
+[LRC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $101.60 TVL: $445,721.72
+LRC Price: $0.51
+WETH Price: $3,331.95
+Staked: 173.4378 UNI-V2 ($17,621.34)
+BAO Per Week: 6842.74 ($5.64)
+APR: Day 0.00% Week 0.03% Year 1.66%
+You are staking 0.00 [LRC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LRC]-[WETH] Uni LP
+Unstake 0.00 [LRC]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+164 - 
+[CVP]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $221.61 TVL: $6,045,899.29
+CVP Price: $1.58
+WETH Price: $3,331.95
+Staked: 34.5015 UNI-V2 ($7,646.04)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.02%
+You are staking 0.00 [CVP]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CVP]-[WETH] Uni LP
+Unstake 0.00 [CVP]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+165 - 
+[JUL]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,576.20 TVL: $20,812.73
+JUL Price: $31.99
+WETH Price: $3,331.95
+Staked: 0.2492 UNI-V2 ($392.80)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.01% Year 0.30%
+You are staking 0.00 [JUL]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JUL]-[WETH] Uni LP
+Unstake 0.00 [JUL]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+166 - 
+[KEEP]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $110.29 TVL: $11,891,943.76
+KEEP Price: $0.44
+WETH Price: $3,331.95
+Staked: 703.5974 UNI-V2 ($77,598.02)
+BAO Per Week: 54741.89 ($45.10)
+APR: Day 0.01% Week 0.06% Year 3.02%
+You are staking 0.00 [KEEP]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KEEP]-[WETH] Uni LP
+Unstake 0.00 [KEEP]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+167 - 
+[WETH]-[RMPL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,659,305.79 TVL: $626,495.77
+WETH Price: $3,331.95
+RMPL Price: $0.80
+Staked: 0.0008 UNI-V2 ($1,317.61)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.09%
+You are staking 0.00 [WETH]-[RMPL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[RMPL] Uni LP
+Unstake 0.00 [WETH]-[RMPL] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+168 - 
+[OWL]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $57.26 TVL: $1,877,124.24
+OWL Price: $0.19
+WETH Price: $3,331.95
+Staked: 7.4965 UNI-V2 ($429.24)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.01% Year 0.27%
+You are staking 0.00 [OWL]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [OWL]-[WETH] Uni LP
+Unstake 0.00 [OWL]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+169 - 
+[WETH]-[RARI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,165.96 TVL: $2,058,892.44
+WETH Price: $3,331.95
+RARI Price: $33.03
+Staked: 72.8417 UNI-V2 ($303,455.35)
+BAO Per Week: 82140.21 ($67.67)
+APR: Day 0.00% Week 0.02% Year 1.16%
+You are staking 0.00 [WETH]-[RARI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[RARI] Uni LP
+Unstake 0.00 [WETH]-[RARI] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+170 - 
+[SUSHI]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $865.54 TVL: $2,798,772.86
+SUSHI Price: $13.93
+WETH Price: $3,331.95
+Staked: 216.4929 UNI-V2 ($187,383.12)
+BAO Per Week: 109483.79 ($90.20)
+APR: Day 0.01% Week 0.05% Year 2.50%
+You are staking 0.00 [SUSHI]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SUSHI]-[WETH] Uni LP
+Unstake 0.00 [SUSHI]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+171 - 
+[ORN]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $42,341,952.47 TVL: $1,260,849.08
+ORN Price: $9.50
+WETH Price: $3,331.95
+Staked: 0.0003 UNI-V2 ($11,579.94)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.01% Week 0.10% Year 5.06%
+You are staking 0.00 [ORN]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ORN]-[WETH] Uni LP
+Unstake 0.00 [ORN]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+172 - 
+[CHART]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $28.96 TVL: $354,779.93
+CHART Price: $0.03
+WETH Price: $3,331.95
+Staked: 1024.6800 UNI-V2 ($29,679.17)
+BAO Per Week: 54741.89 ($45.10)
+APR: Day 0.02% Week 0.15% Year 7.90%
+You are staking 0.00 [CHART]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CHART]-[WETH] Uni LP
+Unstake 0.00 [CHART]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+173 - 
+[XIO]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.06 TVL: $3,368,595.58
+XIO Price: $0.14
+WETH Price: $3,331.95
+Staked: 184.2946 UNI-V2 ($9,225.71)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.02% Week 0.12% Year 6.35%
+You are staking 0.00 [XIO]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XIO]-[WETH] Uni LP
+Unstake 0.00 [XIO]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+174 - 
+[YFL]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6,306.51 TVL: $396,416.00
+YFL Price: $194.19
+WETH Price: $3,331.95
+Staked: 2.3057 UNI-V2 ($14,541.21)
+BAO Per Week: 6842.74 ($5.64)
+APR: Day 0.01% Week 0.04% Year 2.02%
+You are staking 0.00 [YFL]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [YFL]-[WETH] Uni LP
+Unstake 0.00 [YFL]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+175 - 
+[WETH]-[SWAP] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $258.96 TVL: $4,933,364.41
+WETH Price: $3,331.95
+SWAP Price: $1.84
+Staked: 47.2108 UNI-V2 ($12,225.75)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.01% Week 0.09% Year 4.80%
+You are staking 0.00 [WETH]-[SWAP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[SWAP] Uni LP
+Unstake 0.00 [WETH]-[SWAP] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+176 - 
+[BUSD]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,192,187.57 TVL: $1,170,062.50
+BUSD Price: $1.00
+USDC Price: $1.00
+Staked: 0.0128 UNI-V2 ($28,148.77)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.01% Week 0.04% Year 2.08%
+You are staking 0.00 [BUSD]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[USDC] Uni LP
+Unstake 0.00 [BUSD]-[USDC] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+177 - 
+[POLS]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $263.44 TVL: $15,516,942.09
+POLS Price: $2.12
+WETH Price: $3,331.95
+Staked: 395.2478 UNI-V2 ($104,125.55)
+BAO Per Week: 27370.95 ($22.55)
+APR: Day 0.00% Week 0.02% Year 1.13%
+You are staking 0.00 [POLS]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [POLS]-[WETH] Uni LP
+Unstake 0.00 [POLS]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+178 - 
+[HAUT]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $392.90 TVL: $3,430.67
+HAUT Price: $9.07
+WETH Price: $3,331.95
+Staked: 2.6221 UNI-V2 ($1,030.21)
+BAO Per Week: 2737.09 ($2.25)
+APR: Day 0.03% Week 0.22% Year 11.38%
+You are staking 0.00 [HAUT]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HAUT]-[WETH] Uni LP
+Unstake 0.00 [HAUT]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+179 - 
+[ALMX]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,446.30 TVL: $5,739.29
+ALMX Price: $139.33
+WETH Price: $3,331.95
+Staked: 1.4267 UNI-V2 ($2,063.36)
+BAO Per Week: 2737.09 ($2.25)
+APR: Day 0.02% Week 0.11% Year 5.68%
+You are staking 0.00 [ALMX]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALMX]-[WETH] Uni LP
+Unstake 0.00 [ALMX]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+180 - 
+[CANDY]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $488.56 TVL: $18,119.91
+CANDY Price: $16.48
+WETH Price: $3,331.95
+Staked: 17.5082 UNI-V2 ($8,553.72)
+BAO Per Week: 2737.09 ($2.25)
+APR: Day 0.00% Week 0.03% Year 1.37%
+You are staking 0.00 [CANDY]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CANDY]-[WETH] Uni LP
+Unstake 0.00 [CANDY]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+181 - 
+[COKE]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $227.67 TVL: $5,132.99
+COKE Price: $2.41
+WETH Price: $3,331.95
+Staked: 13.0160 UNI-V2 ($2,963.33)
+BAO Per Week: 2737.09 ($2.25)
+APR: Day 0.01% Week 0.08% Year 3.96%
+You are staking 0.00 [COKE]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COKE]-[WETH] Uni LP
+Unstake 0.00 [COKE]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+182 - 
+[BUGS]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $336.03 TVL: $4,605.78
+BUGS Price: $7.19
+WETH Price: $3,331.95
+Staked: 11.0187 UNI-V2 ($3,702.63)
+BAO Per Week: 2737.09 ($2.25)
+APR: Day 0.01% Week 0.06% Year 3.17%
+You are staking 0.00 [BUGS]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUGS]-[WETH] Uni LP
+Unstake 0.00 [BUGS]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+183 - 
+[WETH]-[sDEFI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $15,511.17 TVL: $32,217.36
+WETH Price: $3,331.95
+sDEFI Price: $15,720.05
+Staked: 1.9546 UNI-V2 ($30,317.91)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.01% Week 0.04% Year 1.93%
+You are staking 0.00 [WETH]-[sDEFI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[sDEFI] Uni LP
+Unstake 0.00 [WETH]-[sDEFI] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+184 - 
+[ALPHA]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $296.25 TVL: $344,533.55
+ALPHA Price: $1.14
+WETH Price: $3,331.95
+Staked: 666.1389 UNI-V2 ($197,345.47)
+BAO Per Week: 54769.27 ($45.12)
+APR: Day 0.00% Week 0.02% Year 1.19%
+You are staking 0.00 [ALPHA]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALPHA]-[WETH] Uni LP
+Unstake 0.00 [ALPHA]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+185 - 
+[WVG0]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,632.27 TVL: $108,434.19
+WVG0 Price: $883.45
+WETH Price: $3,331.95
+Staked: 1.8986 UNI-V2 ($6,896.19)
+BAO Per Week: 2737.09 ($2.25)
+APR: Day 0.00% Week 0.03% Year 1.70%
+You are staking 0.00 [WVG0]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WVG0]-[WETH] Uni LP
+Unstake 0.00 [WVG0]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+186 - 
+[KP4R]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $361.63 TVL: $370,551.49
+KP4R Price: $7.52
+WETH Price: $3,331.95
+Staked: 94.9679 UNI-V2 ($34,342.81)
+BAO Per Week: 27370.95 ($22.55)
+APR: Day 0.01% Week 0.07% Year 3.41%
+You are staking 0.00 [KP4R]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KP4R]-[WETH] Uni LP
+Unstake 0.00 [KP4R]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+187 - 
+[IDLE]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,024.23 TVL: $140,166.30
+IDLE Price: $6.46
+WETH Price: $3,331.95
+Staked: 34.8371 UNI-V2 ($35,681.27)
+BAO Per Week: 27370.95 ($22.55)
+APR: Day 0.01% Week 0.06% Year 3.29%
+You are staking 0.00 [IDLE]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [IDLE]-[WETH] Uni LP
+Unstake 0.00 [IDLE]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+188 - 
+[PERP]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $632.16 TVL: $11,076,731.63
+PERP Price: $18.05
+WETH Price: $3,331.95
+Staked: 313.2747 UNI-V2 ($198,038.95)
+BAO Per Week: 109511.16 ($90.22)
+APR: Day 0.01% Week 0.05% Year 2.37%
+You are staking 0.00 [PERP]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PERP]-[WETH] Uni LP
+Unstake 0.00 [PERP]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+189 - 
+[ZAP]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $47.44 TVL: $91,783.54
+ZAP Price: $0.05
+WETH Price: $3,331.95
+Staked: 361.0569 UNI-V2 ($17,129.55)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.01% Week 0.07% Year 3.42%
+You are staking 0.00 [ZAP]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZAP]-[WETH] Uni LP
+Unstake 0.00 [ZAP]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+190 - 
+[COVER]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $496.95 TVL: $3,864.07
+COVER Price: $1.50
+WETH Price: $3,331.95
+Staked: 2.4393 UNI-V2 ($1,212.20)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.10%
+You are staking 0.00 [COVER]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COVER]-[WETH] Uni LP
+Unstake 0.00 [COVER]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+191 - 
+[CRE]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $14.88 TVL: $57,911.02
+CRE Price: $0.01
+WETH Price: $3,331.95
+Staked: 2819.5731 UNI-V2 ($41,967.27)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.00% Week 0.03% Year 1.40%
+You are staking 0.00 [CRE]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRE]-[WETH] Uni LP
+Unstake 0.00 [CRE]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+192 - 
+[L2]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $17.60 TVL: $274,325.83
+L2 Price: $0.02
+WETH Price: $3,331.95
+Staked: 220.4990 UNI-V2 ($3,881.16)
+BAO Per Week: 6842.74 ($5.64)
+APR: Day 0.02% Week 0.15% Year 7.55%
+You are staking 0.00 [L2]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [L2]-[WETH] Uni LP
+Unstake 0.00 [L2]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+193 - 
+[DODO]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $370.20 TVL: $646,939.29
+DODO Price: $2.33
+WETH Price: $3,331.95
+Staked: 0.0148 UNI-V2 ($5.48)
+BAO Per Week: 27.37 ($0.02)
+APR: Day 0.06% Week 0.41% Year 21.41%
+You are staking 0.00 [DODO]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DODO]-[WETH] Uni LP
+Unstake 0.00 [DODO]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+194 - 
+[API3]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $539.66 TVL: $1,351,957.35
+API3 Price: $4.52
+WETH Price: $3,331.95
+Staked: 298.6072 UNI-V2 ($161,146.30)
+BAO Per Week: 109511.16 ($90.22)
+APR: Day 0.01% Week 0.06% Year 2.91%
+You are staking 0.00 [API3]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [API3]-[WETH] Uni LP
+Unstake 0.00 [API3]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+195 - 
+[WETH]-[FRONT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $182.12 TVL: $162,058.29
+WETH Price: $3,331.95
+FRONT Price: $1.42
+Staked: 161.4598 UNI-V2 ($29,404.84)
+BAO Per Week: 27370.95 ($22.55)
+APR: Day 0.01% Week 0.08% Year 3.99%
+You are staking 0.00 [WETH]-[FRONT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[FRONT] Uni LP
+Unstake 0.00 [WETH]-[FRONT] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+196 - 
+[SKL]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $91.94 TVL: $4,234,689.46
+SKL Price: $0.38
+WETH Price: $3,331.95
+Staked: 187.2241 UNI-V2 ($17,214.03)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.01% Week 0.07% Year 3.41%
+You are staking 0.00 [SKL]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SKL]-[WETH] Uni LP
+Unstake 0.00 [SKL]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+197 - 
+[TRU]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11,809,511.95 TVL: $298,077.95
+TRU Price: $0.64
+WETH Price: $3,331.95
+Staked: 0.0009 UNI-V2 ($10,991.29)
+BAO Per Week: 27370.95 ($22.55)
+APR: Day 0.03% Week 0.21% Year 10.67%
+You are staking 0.00 [TRU]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TRU]-[WETH] Uni LP
+Unstake 0.00 [TRU]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+198 - 
+[DEXT]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $22.71 TVL: $42,436.17
+DEXT Price: $0.006924
+WETH Price: $3,331.95
+Staked: 625.2323 UNI-V2 ($14,196.56)
+BAO Per Week: 27370.95 ($22.55)
+APR: Day 0.02% Week 0.16% Year 8.26%
+You are staking 0.00 [DEXT]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DEXT]-[WETH] Uni LP
+Unstake 0.00 [DEXT]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+199 - 
+[eXRD]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $48.10 TVL: $43,982.40
+eXRD Price: $0.11
+WETH Price: $3,331.95
+Staked: 216.4075 UNI-V2 ($10,409.04)
+BAO Per Week: 13685.47 ($11.27)
+APR: Day 0.02% Week 0.11% Year 5.63%
+You are staking 0.00 [eXRD]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [eXRD]-[WETH] Uni LP
+Unstake 0.00 [eXRD]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+200 - 
+[BAO]-[WETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.56 TVL: $2,993,885.68
+BAO Price: $0.000824
+WETH Price: $3,331.95
+Staked: 575267.5238 SLP ($2,050,476.55)
+BAO Per Week: 1094865.26 ($901.99)
+APR: Day 0.01% Week 0.04% Year 2.29%
+You are staking 0.00 [BAO]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [BAO]-[WETH] SLP
+Unstake 0.00 [BAO]-[WETH] SLP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+201 - 
+[BAO]-[USDC] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $59,868.98 TVL: $318,281.43
+BAO Price: $0.000824
+USDC Price: $1.00
+Staked: 4.3484 SLP ($260,333.23)
+BAO Per Week: 684301.05 ($563.75)
+APR: Day 0.03% Week 0.22% Year 11.26%
+You are staking 0.00 [BAO]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [BAO]-[USDC] SLP
+Unstake 0.00 [BAO]-[USDC] SLP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+202 - 
+[YFI]-[BAO] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11.83 TVL: $194,568.63
+YFI Price: $40,329.00
+BAO Price: $0.000824
+Staked: 15417.8700 SLP ($182,397.84)
+BAO Per Week: 136882.11 ($112.77)
+APR: Day 0.01% Week 0.06% Year 3.21%
+You are staking 0.00 [YFI]-[BAO] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [YFI]-[BAO] SLP
+Unstake 0.00 [YFI]-[BAO] SLP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+203 - 
+[BAO]-[SUSHI] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.22 TVL: $181,893.97
+BAO Price: $0.000824
+SUSHI Price: $13.93
+Staked: 635806.7264 SLP ($140,639.85)
+BAO Per Week: 136882.11 ($112.77)
+APR: Day 0.01% Week 0.08% Year 4.17%
+You are staking 0.00 [BAO]-[SUSHI] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [BAO]-[SUSHI] SLP
+Unstake 0.00 [BAO]-[SUSHI] SLP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+204 - 
+[BAO]-[DAI] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.06 TVL: $176,410.90
+BAO Price: $0.000824
+DAI Price: $1.00
+Staked: 2237522.7061 SLP ($132,597.24)
+BAO Per Week: 136882.11 ($112.77)
+APR: Day 0.01% Week 0.09% Year 4.42%
+You are staking 0.00 [BAO]-[DAI] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [BAO]-[DAI] SLP
+Unstake 0.00 [BAO]-[DAI] SLP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+205 - 
+xSUSHI
+ Price: $16.38 Market Cap: $1,149,449,186.20 
+[%]
+Staked: 40122.1863 xSUSHI ($657,201.41)
+BAO Per Week: 82140.21 ($67.67)
+APR: Day 0.00% Week 0.01% Year 0.54%
+You are staking 0.00 xSUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 xSUSHI
+Unstake 0.00 xSUSHI
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+206 - 
+[SUSHI]-[xSUSHI] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $30.72 TVL: $274,006.15
+SUSHI Price: $13.93
+xSUSHI Price: $16.38
+Staked: 6743.8531 SLP ($207,178.74)
+BAO Per Week: 82140.21 ($67.67)
+APR: Day 0.00% Week 0.03% Year 1.70%
+You are staking 0.00 [SUSHI]-[xSUSHI] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SUSHI]-[xSUSHI] SLP
+Unstake 0.00 [SUSHI]-[xSUSHI] SLP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+207 - 
+[xSUSHI]-[WETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $512.94 TVL: $59,543,901.24
+xSUSHI Price: $16.38
+WETH Price: $3,331.95
+Staked: 272.5749 SLP ($139,815.36)
+BAO Per Week: 82140.21 ($67.67)
+APR: Day 0.01% Week 0.05% Year 2.52%
+You are staking 0.00 [xSUSHI]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [xSUSHI]-[WETH] SLP
+Unstake 0.00 [xSUSHI]-[WETH] SLP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+208 - 
+[WETH]-[GRT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $193.62 TVL: $1,993,017.85
+WETH Price: $3,331.95
+GRT Price: $1.04
+Staked: 1724.0333 UNI-V2 ($333,799.64)
+BAO Per Week: 82140.21 ($67.67)
+APR: Day 0.00% Week 0.02% Year 1.05%
+You are staking 0.00 [WETH]-[GRT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[GRT] Uni LP
+Unstake 0.00 [WETH]-[GRT] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+209 - 
+[RUNE]-[WETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $507.87 TVL: $3,832,226.93
+RUNE Price: $11.79
+WETH Price: $3,331.95
+Staked: 673.5065 SLP ($342,057.00)
+BAO Per Week: 54769.27 ($45.12)
+APR: Day 0.00% Week 0.01% Year 0.69%
+You are staking 0.00 [RUNE]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [RUNE]-[WETH] SLP
+Unstake 0.00 [RUNE]-[WETH] SLP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+210 - 
+[1INCH]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $400.46 TVL: $2,468,911.82
+1INCH Price: $3.46
+WETH Price: $3,331.95
+Staked: 893.2585 UNI-V2 ($357,714.38)
+BAO Per Week: 20555.58 ($16.93)
+APR: Day 0.00% Week 0.00% Year 0.25%
+You are staking 0.00 [1INCH]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [1INCH]-[WETH] Uni LP
+Unstake 0.00 [1INCH]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+211 - 
+[WETH]-[FIDA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $233,182,177.83 TVL: $97,311.55
+WETH Price: $3,331.95
+FIDA Price: $4.02
+Staked: 0.0004 UNI-V2 ($96,674.30)
+BAO Per Week: 34241.05 ($28.21)
+APR: Day 0.00% Week 0.03% Year 1.52%
+You are staking 0.00 [WETH]-[FIDA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[FIDA] Uni LP
+Unstake 0.00 [WETH]-[FIDA] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+212 - 
+[NFTX]-[WETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,659.27 TVL: $14,784,201.84
+NFTX Price: $174.32
+WETH Price: $3,331.95
+Staked: 86.0967 SLP ($142,858.09)
+BAO Per Week: 54769.27 ($45.12)
+APR: Day 0.00% Week 0.03% Year 1.64%
+You are staking 0.00 [NFTX]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [NFTX]-[WETH] SLP
+Unstake 0.00 [NFTX]-[WETH] SLP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+213 - 
+[sETH]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7,074.86 TVL: $297,472.61
+sETH Price: $3,340.29
+WETH Price: $3,331.95
+Staked: 10.2848 UNI-V2 ($72,763.22)
+BAO Per Week: 54769.27 ($45.12)
+APR: Day 0.01% Week 0.06% Year 3.22%
+You are staking 0.00 [sETH]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [sETH]-[WETH] Uni LP
+Unstake 0.00 [sETH]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+214 - 
+[WETH]-[aETHc] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7,151.87 TVL: $3,978,700.42
+WETH Price: $3,331.95
+aETHc Price: $3,151.41
+Staked: 18.6360 UNI-V2 ($133,282.61)
+BAO Per Week: 54769.27 ($45.12)
+APR: Day 0.00% Week 0.03% Year 1.76%
+You are staking 0.00 [WETH]-[aETHc] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[aETHc] Uni LP
+Unstake 0.00 [WETH]-[aETHc] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+215 - 
+[stETH]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7,088.78 TVL: $437,847.08
+stETH Price: $3,341.28
+WETH Price: $3,331.95
+Staked: 55.5804 UNI-V2 ($393,996.74)
+BAO Per Week: 54769.27 ($45.12)
+APR: Day 0.00% Week 0.01% Year 0.60%
+You are staking 0.00 [stETH]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [stETH]-[WETH] Uni LP
+Unstake 0.00 [stETH]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+216 - 
+[WETH]-[INJ] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $665.49 TVL: $353,348.62
+WETH Price: $3,331.95
+INJ Price: $12.98
+Staked: 133.1656 UNI-V2 ($88,621.01)
+BAO Per Week: 20555.58 ($16.93)
+APR: Day 0.00% Week 0.02% Year 0.99%
+You are staking 0.00 [WETH]-[INJ] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[INJ] Uni LP
+Unstake 0.00 [WETH]-[INJ] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+217 - 
+[GRO]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $544.37 TVL: $288,502.31
+GRO Price: $12.39
+WETH Price: $3,331.95
+Staked: 25.0221 UNI-V2 ($13,621.19)
+BAO Per Week: 20555.58 ($16.93)
+APR: Day 0.02% Week 0.12% Year 6.46%
+You are staking 0.00 [GRO]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GRO]-[WETH] Uni LP
+Unstake 0.00 [GRO]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+218 - 
+[WETH]-[TVK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $119.57 TVL: $5,025,379.34
+WETH Price: $3,331.95
+TVK Price: $0.37
+Staked: 272.4944 UNI-V2 ($32,581.83)
+BAO Per Week: 20555.58 ($16.93)
+APR: Day 0.01% Week 0.05% Year 2.70%
+You are staking 0.00 [WETH]-[TVK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[TVK] Uni LP
+Unstake 0.00 [WETH]-[TVK] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+219 - 
+[FRAX]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,096,101.52 TVL: $5,463,262.80
+FRAX Price: $1.00
+USDC Price: $1.00
+Staked: 0.0149 UNI-V2 ($31,173.97)
+BAO Per Week: 20555.58 ($16.93)
+APR: Day 0.01% Week 0.05% Year 2.82%
+You are staking 0.00 [FRAX]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FRAX]-[USDC] Uni LP
+Unstake 0.00 [FRAX]-[USDC] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+220 - 
+[DAI]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,237,407.96 TVL: $54,853,624.73
+DAI Price: $1.00
+USDC Price: $1.00
+Staked: 0.0141 UNI-V2 ($31,538.97)
+BAO Per Week: 20555.58 ($16.93)
+APR: Day 0.01% Week 0.05% Year 2.79%
+You are staking 0.00 [DAI]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDC] Uni LP
+Unstake 0.00 [DAI]-[USDC] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+221 - 
+[LDO]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $493.66 TVL: $95,333.00
+LDO Price: $6.20
+WETH Price: $3,331.95
+Staked: 57.0401 UNI-V2 ($28,158.42)
+BAO Per Week: 20555.58 ($16.93)
+APR: Day 0.01% Week 0.06% Year 3.13%
+You are staking 0.00 [LDO]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LDO]-[WETH] Uni LP
+Unstake 0.00 [LDO]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+222 - 
+[BADGER]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,986.19 TVL: $271,147.63
+BADGER Price: $25.75
+WETH Price: $3,331.95
+Staked: 36.5749 UNI-V2 ($72,644.55)
+BAO Per Week: 13712.84 ($11.30)
+APR: Day 0.00% Week 0.02% Year 0.81%
+You are staking 0.00 [BADGER]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BADGER]-[WETH] Uni LP
+Unstake 0.00 [BADGER]-[WETH] Uni LP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+223 - 
+[BOR]-[WETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,707.80 TVL: $442,536.88
+BOR Price: $191.74
+WETH Price: $3,331.95
+Staked: 6.6859 SLP ($11,418.23)
+BAO Per Week: 13712.84 ($11.30)
+APR: Day 0.01% Week 0.10% Year 5.14%
+You are staking 0.00 [BOR]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [BOR]-[WETH] SLP
+Unstake 0.00 [BOR]-[WETH] SLP
+Claim 0.00 BAO ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $25,877,017.26

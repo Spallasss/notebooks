@@ -1,0 +1,482 @@
+INFO  : https://avengers.exchange
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:32:31 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 30 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+Shield
+ Price: $0.0000351264 Market Cap: $80.31 
+[%]
+Staked: 235682.7053 Shield ($8.28)
+SHIELD Per Week: 28159.37 ($0.99)
+APR: Day 1.71% Week 11.95% Year 621.30%
+You are staking 0.00 Shield ($0.00), 0.00% of the pool.
+Stake 0.00 Shield
+Unstake 0.00 Shield
+Claim 0.00 SHIELD ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[USDC]-[Shield] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $12,318.21 TVL: $6.29
+USDC Price: $1.00
+Shield Price: $0.0000351264
+Staked: 0.0004 UNI-V2 ($5.47)
+SHIELD Per Week: 28159.37 ($0.99)
+APR: Day 2.58% Week 18.07% Year 939.53%
+You are staking 0.00 [USDC]-[Shield] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[Shield] Uni LP
+Unstake 0.00 [USDC]-[Shield] Uni LP
+Claim 0.00 SHIELD ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+WBTC
+ Price: $50,132.00 Market Cap: $699,497,534.01 
+[%]
+Staked: 0.0000 WBTC ($0.00)
+SHIELD Per Week: 1759.96 ($0.06)
+APR: Day 1761.67% Week 12331.67% Year 641247.07%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 SHIELD ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WMATIC
+ Price: $1.65 Market Cap: $605,556,615.49 
+[%]
+Staked: 5.1930 WMATIC ($8.57)
+SHIELD Per Week: 1759.96 ($0.06)
+APR: Day 0.10% Week 0.72% Year 37.52%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 SHIELD ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+USDT
+ Price: $1.00 Market Cap: $314,705,082.93 
+[%]
+Staked: 0.0479 USDT ($0.05)
+SHIELD Per Week: 1759.96 ($0.06)
+APR: Day 18.47% Week 129.30% Year 6723.77%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 SHIELD ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+QUICK
+ Price: $739.29 Market Cap: $707,697,681.07 
+[%]
+Staked: 0.0001 QUICK ($0.09)
+SHIELD Per Week: 1759.96 ($0.06)
+APR: Day 9.92% Week 69.44% Year 3610.66%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 SHIELD ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+Krill
+ Price: $0.09 Market Cap: $659,066.92 
+[%]
+Staked: 1.0340 Krill ($0.09)
+SHIELD Per Week: 35.20 ($0.00)
+APR: Day 0.19% Week 1.33% Year 69.33%
+You are staking 0.00 Krill ($0.00), 0.00% of the pool.
+Stake 0.00 Krill - Fee 4%
+Unstake 0.00 Krill
+Claim 0.00 SHIELD ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+DAI
+ Price: $1.00 Market Cap: $375,433,666.89 
+[%]
+Staked: 4.7784 DAI ($4.77)
+SHIELD Per Week: 1759.96 ($0.06)
+APR: Day 0.19% Week 1.30% Year 67.42%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 SHIELD ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+WETH
+ Price: $3,320.65 Market Cap: $2,027,639,827.67 
+[%]
+Staked: 0.0001 WETH ($0.30)
+SHIELD Per Week: 1759.96 ($0.06)
+APR: Day 2.95% Week 20.67% Year 1075.04%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 SHIELD ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+USDC
+ Price: $1.00 Market Cap: $1,045,327,845.84 
+[%]
+Staked: 22.2586 USDC ($22.20)
+SHIELD Per Week: 1759.96 ($0.06)
+APR: Day 0.04% Week 0.28% Year 14.48%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 SHIELD ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+SUSHI
+ Price: $13.87 Market Cap: $14,059,822.85 
+[%]
+Staked: 0.0068 SUSHI ($0.09)
+SHIELD Per Week: 1759.96 ($0.06)
+APR: Day 9.40% Week 65.78% Year 3420.57%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 4%
+Unstake 0.00 SUSHI
+Claim 0.00 SHIELD ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+LINK
+ Price: $28.69 Market Cap: $65,104,322.34 
+[%]
+Staked: 11.2585 LINK ($323.01)
+SHIELD Per Week: 1759.96 ($0.06)
+APR: Day 0.00% Week 0.02% Year 1.00%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 SHIELD ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+AAVE
+ Price: $409.80 Market Cap: $156,000,443.88 
+[%]
+Staked: 0.0006 AAVE ($0.23)
+SHIELD Per Week: 1759.96 ($0.06)
+APR: Day 3.83% Week 26.83% Year 1395.41%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 SHIELD ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WMATIC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $188.94 TVL: $123,189,243.22
+WMATIC Price: $1.65
+WETH Price: $3,320.65
+Staked: 0.1108 UNI-V2 ($20.94)
+SHIELD Per Week: 703.98 ($0.02)
+APR: Day 0.02% Week 0.12% Year 6.14%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 SHIELD ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,656,036.41 TVL: $147,965,371.34
+USDC Price: $1.00
+WETH Price: $3,320.65
+Staked: 0.0000 UNI-V2 ($3.62)
+SHIELD Per Week: 703.98 ($0.02)
+APR: Day 0.10% Week 0.68% Year 35.51%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 SHIELD ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,614,369.89 TVL: $33,400,850.56
+WMATIC Price: $1.65
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($10.93)
+SHIELD Per Week: 703.98 ($0.02)
+APR: Day 0.03% Week 0.23% Year 11.76%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 SHIELD ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[WETH]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $137.84 TVL: $31,007,733.98
+WETH Price: $3,320.65
+DAI Price: $1.00
+Staked: 0.0163 UNI-V2 ($2.25)
+SHIELD Per Week: 703.98 ($0.02)
+APR: Day 0.16% Week 1.10% Year 57.10%
+You are staking 0.00 [WETH]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [WETH]-[DAI] Uni LP
+Claim 0.00 SHIELD ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[DAI]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $27,037,388.87 TVL: $3,941,758.53
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($17.54)
+SHIELD Per Week: 703.98 ($0.02)
+APR: Day 0.02% Week 0.14% Year 7.33%
+You are staking 0.00 [DAI]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [DAI]-[USDT] Uni LP
+Claim 0.00 SHIELD ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[WMATIC]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $94.95 TVL: $32,002,738.26
+WMATIC Price: $1.65
+QUICK Price: $739.29
+Staked: 0.0000 UNI-V2 ($0.00)
+SHIELD Per Week: 703.98 ($0.02)
+APR: Day 16081.86% Week 112572.99% Year 5853795.22%
+You are staking 0.00 [WMATIC]-[QUICK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[QUICK] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[QUICK] Uni LP
+Claim 0.00 SHIELD ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[USDC]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $88,489,362.37 TVL: $9,034,499.20
+USDC Price: $1.00
+QUICK Price: $739.29
+Staked: 0.0000 UNI-V2 ($65.21)
+SHIELD Per Week: 703.98 ($0.02)
+APR: Day 0.01% Week 0.04% Year 1.97%
+You are staking 0.00 [USDC]-[QUICK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[QUICK] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[QUICK] Uni LP
+Claim 0.00 SHIELD ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[WBTC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,290,965,860,974.33 TVL: $97,742,039.99
+WBTC Price: $50,132.00
+WETH Price: $3,320.65
+Staked: 0.0000 UNI-V2 ($61.61)
+SHIELD Per Week: 703.98 ($0.02)
+APR: Day 0.01% Week 0.04% Year 2.09%
+You are staking 0.00 [WBTC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WBTC]-[WETH] Uni LP
+Claim 0.00 SHIELD ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[WETH]-[AAVE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,426.90 TVL: $46,940,934.52
+WETH Price: $3,320.65
+AAVE Price: $409.80
+Staked: 0.0501 UNI-V2 ($121.66)
+SHIELD Per Week: 703.98 ($0.02)
+APR: Day 0.00% Week 0.02% Year 1.06%
+You are staking 0.00 [WETH]-[AAVE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[AAVE] Uni LP - Fee 4%
+Unstake 0.00 [WETH]-[AAVE] Uni LP
+Claim 0.00 SHIELD ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[LINK]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $635.91 TVL: $33,593,490.45
+LINK Price: $28.69
+WETH Price: $3,320.65
+Staked: 0.0097 UNI-V2 ($6.17)
+SHIELD Per Week: 703.98 ($0.02)
+APR: Day 0.06% Week 0.40% Year 20.85%
+You are staking 0.00 [LINK]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LINK]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [LINK]-[WETH] Uni LP
+Claim 0.00 SHIELD ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[WETH]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,429.26 TVL: $19,207,986.86
+WETH Price: $3,320.65
+QUICK Price: $739.29
+Staked: 0.0000 UNI-V2 ($0.00)
+SHIELD Per Week: 703.98 ($0.02)
+APR: Day 18783.88% Week 131487.16% Year 6837332.23%
+You are staking 0.00 [WETH]-[QUICK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[QUICK] Uni LP - Fee 4%
+Unstake 0.00 [WETH]-[QUICK] Uni LP
+Claim 0.00 SHIELD ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[WETH]-[UNI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $727.10 TVL: $11,152,482.07
+WETH Price: $3,320.65
+UNI Price: $29.24
+Staked: 0.0004 UNI-V2 ($0.29)
+SHIELD Per Week: 703.98 ($0.02)
+APR: Day 1.21% Week 8.50% Year 442.21%
+You are staking 0.00 [WETH]-[UNI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[UNI] Uni LP - Fee 4%
+Unstake 0.00 [WETH]-[UNI] Uni LP
+Claim 0.00 SHIELD ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+IRON
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 IRON ($0.00)
+SHIELD Per Week: 1759.96 ($0.06)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 IRON ($0.00), NaN% of the pool.
+Stake 0.00 IRON - Fee 4%
+Unstake 0.00 IRON
+Claim 0.00 SHIELD ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+FISH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1.5973 FISH ($0.00)
+SHIELD Per Week: 1759.96 ($0.06)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+Stake 0.00 FISH - Fee 4%
+Unstake 0.00 FISH
+Claim 0.00 SHIELD ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+[WMATIC]-[Shield] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $2.68
+WMATIC Price: $1.65
+Shield Price: $0.0000351264
+Staked: 93.8515 UNI-V2 ($1.46)
+SHIELD Per Week: 28159.37 ($0.99)
+APR: Day 9.65% Week 67.56% Year 3513.11%
+You are staking 0.00 [WMATIC]-[Shield] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[Shield] Uni LP
+Unstake 0.00 [WMATIC]-[Shield] Uni LP
+Claim 0.00 SHIELD ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+[USDT]-[Shield] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11,968.28 TVL: $2.82
+USDT Price: $1.00
+Shield Price: $0.0000351264
+Staked: 0.0001 UNI-V2 ($1.58)
+SHIELD Per Week: 28159.37 ($0.99)
+APR: Day 8.94% Week 62.55% Year 3252.36%
+You are staking 0.00 [USDT]-[Shield] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[Shield] Uni LP
+Unstake 0.00 [USDT]-[Shield] Uni LP
+Claim 0.00 SHIELD ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+MALT
+ Price: $0.00 Market Cap: $0.00 
+Staked: 96.9457 MALT ($0.00)
+SHIELD Per Week: 1759.96 ($0.06)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MALT ($0.00), NaN% of the pool.
+Stake 0.00 MALT - Fee 4%
+Unstake 0.00 MALT
+Claim 0.00 SHIELD ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $686.40

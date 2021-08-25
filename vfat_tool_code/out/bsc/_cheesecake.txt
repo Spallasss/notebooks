@@ -1,0 +1,302 @@
+INFO  : https://cheesecakeswap.com
+***********************************************************************************
+
+Mon Aug 23 2021 14:03:38 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 37 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+3 - 
+CCAKE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1773643.3334 CCAKE ($0.00)
+CCAKE Per Week: 24230.77 ($2,420.79)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CCAKE ($0.00), NaN% of the pool.
+Stake 0.00 CCAKE
+Unstake 0.00 CCAKE
+Claim 0.00 CCAKE ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+BUSD
+ Price: $1.00 Market Cap: $4,200,999,400.00 
+[%]
+Staked: 12799.2960 BUSD ($12,799.30)
+CCAKE Per Week: 1938.46 ($193.66)
+APR: Day 0.22% Week 1.51% Year 78.68%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 3%
+Unstake 0.00 BUSD
+Claim 0.00 CCAKE ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+WBNB
+ Price: $484.40 Market Cap: $3,432,306,760.91 
+[%]
+Staked: 74.6534 WBNB ($36,162.11)
+CCAKE Per Week: 2907.69 ($290.49)
+APR: Day 0.11% Week 0.80% Year 41.77%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 3%
+Unstake 0.00 WBNB
+Claim 0.00 CCAKE ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+BTCB
+ Price: $50,221.00 Market Cap: $4,293,945,721.00 
+[%]
+Staked: 2.0786 BTCB ($104,387.10)
+CCAKE Per Week: 2907.69 ($290.49)
+APR: Day 0.04% Week 0.28% Year 14.47%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 3%
+Unstake 0.00 BTCB
+Claim 0.00 CCAKE ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+BAKE
+ Price: $3.17 Market Cap: $2,311,651,574.38 
+[%]
+Staked: 8578.5824 BAKE ($27,194.11)
+CCAKE Per Week: 1938.46 ($193.66)
+APR: Day 0.10% Week 0.71% Year 37.03%
+You are staking 0.00 BAKE ($0.00), 0.00% of the pool.
+Stake 0.00 BAKE - Fee 3%
+Unstake 0.00 BAKE
+Claim 0.00 CCAKE ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+Cake
+ Price: $25.00 Market Cap: $10,402,894,908.79 
+[%]
+Staked: 1573.3587 Cake ($39,333.97)
+CCAKE Per Week: 1938.46 ($193.66)
+APR: Day 0.07% Week 0.49% Year 25.60%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 3%
+Unstake 0.00 Cake
+Claim 0.00 CCAKE ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+ETH
+ Price: $3,330.45 Market Cap: $4,346,237,250.00 
+[%]
+Staked: 44.6243 ETH ($148,618.99)
+CCAKE Per Week: 2907.69 ($290.49)
+APR: Day 0.03% Week 0.20% Year 10.16%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 3%
+Unstake 0.00 ETH
+Claim 0.00 CCAKE ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+UNI
+ Price: $29.37 Market Cap: $108,669,000.00 
+[%]
+Staked: 1783.8474 UNI ($52,391.60)
+CCAKE Per Week: 1938.46 ($193.66)
+APR: Day 0.05% Week 0.37% Year 19.22%
+You are staking 0.00 UNI ($0.00), 0.00% of the pool.
+Stake 0.00 UNI - Fee 3%
+Unstake 0.00 UNI
+Claim 0.00 CCAKE ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+SXP
+ Price: $3.71 Market Cap: $1,074,842,375.46 
+[%]
+Staked: 6612.4429 SXP ($24,532.16)
+CCAKE Per Week: 1938.46 ($193.66)
+APR: Day 0.11% Week 0.79% Year 41.05%
+You are staking 0.00 SXP ($0.00), 0.00% of the pool.
+Stake 0.00 SXP - Fee 3%
+Unstake 0.00 SXP
+Claim 0.00 CCAKE ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+DOT
+ Price: $28.04 Market Cap: $392,559,999.86 
+[%]
+Staked: 2357.3285 DOT ($66,099.49)
+CCAKE Per Week: 1938.46 ($193.66)
+APR: Day 0.04% Week 0.29% Year 15.24%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 3%
+Unstake 0.00 DOT
+Claim 0.00 CCAKE ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+LINK
+ Price: $28.78 Market Cap: $247,508,000.00 
+[%]
+Staked: 3305.1086 LINK ($95,121.02)
+CCAKE Per Week: 1938.46 ($193.66)
+APR: Day 0.03% Week 0.20% Year 10.59%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 3%
+Unstake 0.00 LINK
+Claim 0.00 CCAKE ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[CCAKE]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.65 TVL: $131,394.37
+CCAKE Price: $0.10
+BUSD Price: $1.00
+Staked: 202665.4075 Cake-LP ($130,993.23)
+CCAKE Per Week: 38769.23 ($3,873.26)
+APR: Day 0.42% Week 2.96% Year 153.76%
+You are staking 0.00 [CCAKE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CCAKE]-[BUSD] Cake LP
+Unstake 0.00 [CCAKE]-[BUSD] Cake LP
+Claim 0.00 CCAKE ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+[WBNB]-[CCAKE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $14.25 TVL: $138,586.12
+WBNB Price: $484.40
+CCAKE Price: $0.10
+Staked: 9721.8783 Cake-LP ($138,565.07)
+CCAKE Per Week: 38769.23 ($3,873.26)
+APR: Day 0.40% Week 2.80% Year 145.35%
+You are staking 0.00 [WBNB]-[CCAKE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[CCAKE] Cake LP
+Unstake 0.00 [WBNB]-[CCAKE] Cake LP
+Claim 0.00 CCAKE ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+[ETH]-[CCAKE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $45.86 TVL: $18,659.39
+ETH Price: $3,330.45
+CCAKE Price: $0.10
+Staked: 404.4542 Cake-LP ($18,548.84)
+CCAKE Per Week: 9692.31 ($968.32)
+APR: Day 0.75% Week 5.22% Year 271.46%
+You are staking 0.00 [ETH]-[CCAKE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[CCAKE] Cake LP
+Unstake 0.00 [ETH]-[CCAKE] Cake LP
+Claim 0.00 CCAKE ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+[DOT]-[CCAKE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.38 TVL: $18,989.34
+DOT Price: $28.04
+CCAKE Price: $0.10
+Staked: 5581.2623 Cake-LP ($18,886.90)
+CCAKE Per Week: 3876.92 ($387.33)
+APR: Day 0.29% Week 2.05% Year 106.64%
+You are staking 0.00 [DOT]-[CCAKE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[CCAKE] Cake LP
+Unstake 0.00 [DOT]-[CCAKE] Cake LP
+Claim 0.00 CCAKE ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+[Cake]-[CCAKE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.38 TVL: $17,949.42
+Cake Price: $25.00
+CCAKE Price: $0.10
+Staked: 5232.6667 Cake-LP ($17,676.59)
+CCAKE Per Week: 3876.92 ($387.33)
+APR: Day 0.31% Week 2.19% Year 113.94%
+You are staking 0.00 [Cake]-[CCAKE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[CCAKE] Cake LP
+Unstake 0.00 [Cake]-[CCAKE] Cake LP
+Claim 0.00 CCAKE ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+[SXP]-[CCAKE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.23 TVL: $10,781.78
+SXP Price: $3.71
+CCAKE Price: $0.10
+Staked: 8638.6198 Cake-LP ($10,643.65)
+CCAKE Per Week: 3876.92 ($387.33)
+APR: Day 0.52% Week 3.64% Year 189.23%
+You are staking 0.00 [SXP]-[CCAKE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SXP]-[CCAKE] Cake LP
+Unstake 0.00 [SXP]-[CCAKE] Cake LP
+Claim 0.00 CCAKE ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+[CCAKE]-[BAKE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.15 TVL: $24,619.25
+CCAKE Price: $0.10
+BAKE Price: $3.17
+Staked: 21161.8945 Cake-LP ($24,308.25)
+CCAKE Per Week: 3876.92 ($387.33)
+APR: Day 0.23% Week 1.59% Year 82.86%
+You are staking 0.00 [CCAKE]-[BAKE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CCAKE]-[BAKE] Cake LP
+Unstake 0.00 [CCAKE]-[BAKE] Cake LP
+Claim 0.00 CCAKE ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,249,996.26
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 48935.1533 Cake-LP ($100,178.68)
+CCAKE Per Week: 1938.46 ($193.66)
+APR: Day 0.03% Week 0.19% Year 10.05%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 CCAKE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,066,441.05

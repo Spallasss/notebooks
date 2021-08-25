@@ -1,0 +1,688 @@
+INFO  : https://money-pocket.dollaremon.fi
+***************************************************************************************
+
+Mon Aug 23 2021 09:16:23 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 39 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+DY
+ Price: $0.03 Market Cap: $8,343.91 
+[%]
+Staked: 72585.0209 DY ($1,902.99)
+DY Per Week: 2466.06 ($64.65)
+APR: Day 0.49% Week 3.40% Year 176.67%
+You are staking 0.00 DY ($0.00), 0.00% of the pool.
+Stake 0.00 DY
+Unstake 0.00 DY
+Claim 0.00 DY ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+cCBD
+ Price: $2.59 Market Cap: $32,870.66 
+[%]
+Staked: 1511.4023 cCBD ($3,907.59)
+DY Per Week: 616.51 ($16.16)
+APR: Day 0.06% Week 0.41% Year 21.51%
+You are staking 0.00 cCBD ($0.00), 0.00% of the pool.
+Stake 0.00 cCBD
+Unstake 0.00 cCBD
+Claim 0.00 DY ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+sCBD
+ Price: $0.49 Market Cap: $22,481.30 
+[%]
+Staked: 2787.1840 sCBD ($1,377.43)
+DY Per Week: 1233.03 ($32.33)
+APR: Day 0.34% Week 2.35% Year 122.04%
+You are staking 0.00 sCBD ($0.00), 0.00% of the pool.
+Stake 0.00 sCBD
+Unstake 0.00 sCBD
+Claim 0.00 DY ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+bCBD
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1997.9171 bCBD ($0.00)
+DY Per Week: 308.26 ($8.08)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 bCBD ($0.00), NaN% of the pool.
+Stake 0.00 bCBD
+Unstake 0.00 bCBD
+Claim 0.00 DY ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+BUSD
+ Price: $1.00 Market Cap: $4,194,773,518.89 
+[%]
+Staked: 450.2940 BUSD ($449.63)
+DY Per Week: 493.21 ($12.93)
+APR: Day 0.41% Week 2.88% Year 149.55%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD
+Unstake 0.00 BUSD
+Claim 0.00 DY ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WBNB
+ Price: $484.10 Market Cap: $3,424,431,764.78 
+[%]
+Staked: 20.0103 WBNB ($9,687.01)
+DY Per Week: 493.21 ($12.93)
+APR: Day 0.02% Week 0.13% Year 6.94%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB
+Unstake 0.00 WBNB
+Claim 0.00 DY ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+Cake
+ Price: $25.08 Market Cap: $10,436,550,145.79 
+[%]
+Staked: 16.8983 Cake ($423.81)
+DY Per Week: 308.26 ($8.08)
+APR: Day 0.27% Week 1.91% Year 99.16%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Claim 0.00 DY ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+FTM
+ Price: $0.00 Market Cap: $0.00 
+Staked: 49.3676 FTM ($0.00)
+DY Per Week: 308.26 ($8.08)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FTM ($0.00), NaN% of the pool.
+Stake 0.00 FTM
+Unstake 0.00 FTM
+Claim 0.00 DY ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 1.3651 BTCB ($68,194.47)
+DY Per Week: 308.26 ($8.08)
+APR: Day 0.00% Week 0.01% Year 0.62%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB
+Unstake 0.00 BTCB
+Claim 0.00 DY ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+BETH
+ Price: $3,212.22 Market Cap: $321,222,000,000.00 
+[%]
+Staked: 0.0071 BETH ($22.88)
+DY Per Week: 308.26 ($8.08)
+APR: Day 5.05% Week 35.32% Year 1836.57%
+You are staking 0.00 BETH ($0.00), 0.00% of the pool.
+Stake 0.00 BETH
+Unstake 0.00 BETH
+Claim 0.00 DY ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[sCBD]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.42 TVL: $3,689.17
+sCBD Price: $0.49
+BUSD Price: $1.00
+Staked: 475.8960 DollarYaki-LP ($675.75)
+4DP Per Week: 1233.03 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [sCBD]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [sCBD]-[BUSD] Uni LP
+Unstake 0.00 [sCBD]-[BUSD] Uni LP
+Claim 0.00 4DP ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[cCBD]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.23 TVL: $12,141.36
+cCBD Price: $2.59
+BUSD Price: $1.00
+Staked: 688.8136 DollarYaki-LP ($2,227.40)
+4DP Per Week: 616.51 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [cCBD]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [cCBD]-[BUSD] Uni LP
+Unstake 0.00 [cCBD]-[BUSD] Uni LP
+Claim 0.00 4DP ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WBNB]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $44.93 TVL: $34,634.80
+WBNB Price: $484.10
+BUSD Price: $1.00
+Staked: 756.3910 DollarYaki-LP ($33,984.58)
+4DP Per Week: 493.21 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 4DP ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[DAI]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $465.16
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 198.7583 DollarYaki-LP ($397.57)
+4DP Per Week: 493.21 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [DAI]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Uni LP
+Unstake 0.00 [DAI]-[BUSD] Uni LP
+Claim 0.00 4DP ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[USDC]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $217.23
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 80.3934 DollarYaki-LP ($160.79)
+4DP Per Week: 493.21 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [USDC]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Uni LP
+Unstake 0.00 [USDC]-[BUSD] Uni LP
+Claim 0.00 4DP ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[XRP]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.28 TVL: $121.46
+XRP Price: $1.29
+BUSD Price: $1.00
+Staked: 6.9312 DollarYaki-LP ($15.81)
+4DP Per Week: 123.30 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [XRP]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XRP]-[BUSD] Uni LP
+Unstake 0.00 [XRP]-[BUSD] Uni LP
+Claim 0.00 4DP ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[DOT]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10.63 TVL: $113.84
+DOT Price: $28.03
+BUSD Price: $1.00
+Staked: 1.9332 DollarYaki-LP ($20.56)
+4DP Per Week: 123.30 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [DOT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[BUSD] Uni LP
+Unstake 0.00 [DOT]-[BUSD] Uni LP
+Claim 0.00 4DP ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[ADA]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.37 TVL: $57.96
+ADA Price: $2.83
+BUSD Price: $1.00
+Staked: 6.0130 DollarYaki-LP ($20.29)
+4DP Per Week: 123.30 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [ADA]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[BUSD] Uni LP
+Unstake 0.00 [ADA]-[BUSD] Uni LP
+Claim 0.00 4DP ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[DOGE]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $114,615.06 TVL: $748.97
+DOGE Price: $0.33
+BUSD Price: $1.00
+Staked: 0.0057 DollarYaki-LP ($655.48)
+4DP Per Week: 123.30 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [DOGE]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[BUSD] Uni LP
+Unstake 0.00 [DOGE]-[BUSD] Uni LP
+Claim 0.00 4DP ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[TWT]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.95 TVL: $83.40
+TWT Price: $0.94
+BUSD Price: $1.00
+Staked: 21.2266 DollarYaki-LP ($41.43)
+4DP Per Week: 123.30 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [TWT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TWT]-[BUSD] Uni LP
+Unstake 0.00 [TWT]-[BUSD] Uni LP
+Claim 0.00 4DP ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[ALPHA]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $40.29
+ALPHA Price: $1.05
+BUSD Price: $1.00
+Staked: 10.1720 DollarYaki-LP ($20.95)
+4DP Per Week: 123.30 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [ALPHA]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALPHA]-[BUSD] Uni LP
+Unstake 0.00 [ALPHA]-[BUSD] Uni LP
+Claim 0.00 4DP ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[XVS]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $12.32 TVL: $52.21
+XVS Price: $37.46
+BUSD Price: $1.00
+Staked: 1.1623 DollarYaki-LP ($14.32)
+4DP Per Week: 123.30 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [XVS]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XVS]-[BUSD] Uni LP
+Unstake 0.00 [XVS]-[BUSD] Uni LP
+Claim 0.00 4DP ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[BSCX]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.16 TVL: $51.72
+BSCX Price: $2.47
+BUSD Price: $1.00
+Staked: 6.7248 DollarYaki-LP ($21.26)
+4DP Per Week: 123.30 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [BSCX]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BSCX]-[BUSD] Uni LP
+Unstake 0.00 [BSCX]-[BUSD] Uni LP
+Claim 0.00 4DP ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[SFP]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.43 TVL: $382.20
+SFP Price: $1.47
+BUSD Price: $1.00
+Staked: 151.8988 DollarYaki-LP ($369.34)
+4DP Per Week: 123.30 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [SFP]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SFP]-[BUSD] Uni LP
+Unstake 0.00 [SFP]-[BUSD] Uni LP
+Claim 0.00 4DP ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[SXP]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.86 TVL: $79.27
+SXP Price: $3.70
+BUSD Price: $1.00
+Staked: 14.8477 DollarYaki-LP ($57.30)
+4DP Per Week: 123.30 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [SXP]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SXP]-[BUSD] Uni LP
+Unstake 0.00 [SXP]-[BUSD] Uni LP
+Claim 0.00 4DP ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[Cake]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10.07 TVL: $306.42
+Cake Price: $25.08
+BUSD Price: $1.00
+Staked: 23.8456 DollarYaki-LP ($240.20)
+4DP Per Week: 123.30 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [Cake]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Uni LP
+Unstake 0.00 [Cake]-[BUSD] Uni LP
+Claim 0.00 4DP ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+[BUNNY]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.56 TVL: $46.47
+BUNNY Price: $7.66
+BUSD Price: $1.00
+Staked: 4.5560 DollarYaki-LP ($25.35)
+4DP Per Week: 123.30 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [BUNNY]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUNNY]-[BUSD] Uni LP
+Unstake 0.00 [BUNNY]-[BUSD] Uni LP
+Claim 0.00 4DP ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+[BANANA]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.39 TVL: $173.89
+BANANA Price: $4.77
+BUSD Price: $1.00
+Staked: 31.5767 DollarYaki-LP ($138.61)
+4DP Per Week: 123.30 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [BANANA]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BANANA]-[BUSD] Uni LP
+Unstake 0.00 [BANANA]-[BUSD] Uni LP
+Claim 0.00 4DP ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+[BAKE]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.57 TVL: $64.14
+BAKE Price: $3.15
+BUSD Price: $1.00
+Staked: 11.6454 DollarYaki-LP ($41.55)
+4DP Per Week: 123.30 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [BAKE]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BAKE]-[BUSD] Uni LP
+Unstake 0.00 [BAKE]-[BUSD] Uni LP
+Claim 0.00 4DP ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+[MDX]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.38 TVL: $272.65
+MDX Price: $1.40
+BUSD Price: $1.00
+Staked: 106.0335 DollarYaki-LP ($251.89)
+4DP Per Week: 123.30 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [MDX]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MDX]-[BUSD] Uni LP
+Unstake 0.00 [MDX]-[BUSD] Uni LP
+Claim 0.00 4DP ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+[PoFi]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.64 TVL: $2,487.88
+PoFi Price: $0.10
+BUSD Price: $1.00
+Staked: 3844.6460 DollarYaki-LP ($2,477.42)
+4DP Per Week: 123.30 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [PoFi]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PoFi]-[BUSD] Uni LP
+Unstake 0.00 [PoFi]-[BUSD] Uni LP
+Claim 0.00 4DP ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+[sCBD]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $31.30 TVL: $3,057.76
+sCBD Price: $0.49
+WBNB Price: $484.10
+Staked: 96.3807 DollarYaki-LP ($3,016.99)
+4DP Per Week: 1233.03 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [sCBD]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [sCBD]-[WBNB] Uni LP
+Unstake 0.00 [sCBD]-[WBNB] Uni LP
+Claim 0.00 4DP ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+[cCBD]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $71.37 TVL: $1,428.63
+cCBD Price: $2.59
+WBNB Price: $484.10
+Staked: 18.2019 DollarYaki-LP ($1,299.15)
+4DP Per Week: 616.51 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [cCBD]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [cCBD]-[WBNB] Uni LP
+Unstake 0.00 [cCBD]-[WBNB] Uni LP
+Claim 0.00 4DP ($0.00)
+Staking or unstaking also claims rewards.
+33 - 
+[FTM]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $34.21 TVL: $309.54
+FTM Price: $0.59
+WBNB Price: $484.10
+Staked: 6.6280 DollarYaki-LP ($226.72)
+4DP Per Week: 308.26 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [FTM]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FTM]-[WBNB] Uni LP
+Unstake 0.00 [FTM]-[WBNB] Uni LP
+Claim 0.00 4DP ($0.00)
+Staking or unstaking also claims rewards.
+34 - 
+[WBNB]-[MATIC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $56.69 TVL: $159.34
+WBNB Price: $484.10
+MATIC Price: $1.64
+Staked: 1.0140 DollarYaki-LP ($57.48)
+4DP Per Week: 308.26 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WBNB]-[MATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[MATIC] Uni LP
+Unstake 0.00 [WBNB]-[MATIC] Uni LP
+Claim 0.00 4DP ($0.00)
+Staking or unstaking also claims rewards.
+35 - 
+[AVAX]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $313.01 TVL: $1,339.60
+AVAX Price: $50.26
+WBNB Price: $484.10
+Staked: 3.9383 DollarYaki-LP ($1,232.71)
+4DP Per Week: 308.26 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [AVAX]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AVAX]-[WBNB] Uni LP
+Unstake 0.00 [AVAX]-[WBNB] Uni LP
+Claim 0.00 4DP ($0.00)
+Staking or unstaking also claims rewards.
+36 - 
+[DOT]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $233.56 TVL: $374.78
+DOT Price: $28.03
+WBNB Price: $484.10
+Staked: 1.2380 DollarYaki-LP ($289.16)
+4DP Per Week: 308.26 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [DOT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Uni LP
+Unstake 0.00 [DOT]-[WBNB] Uni LP
+Claim 0.00 4DP ($0.00)
+Staking or unstaking also claims rewards.
+37 - 
+[DY]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.35 TVL: $2,155.18
+DY Price: $0.03
+BUSD Price: $1.00
+Staked: 5141.2816 DollarYaki-LP ($1,793.09)
+4DP Per Week: 2466.06 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [DY]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DY]-[BUSD] Uni LP
+Unstake 0.00 [DY]-[BUSD] Uni LP
+Claim 0.00 4DP ($0.00)
+Staking or unstaking also claims rewards.
+38 - 
+[WBNB]-[DY] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7.59 TVL: $3,163.46
+WBNB Price: $484.10
+DY Price: $0.03
+Staked: 368.7719 DollarYaki-LP ($2,799.22)
+4DP Per Week: 2466.06 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WBNB]-[DY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[DY] Uni LP
+Unstake 0.00 [WBNB]-[DY] Uni LP
+Claim 0.00 4DP ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $138,538.17

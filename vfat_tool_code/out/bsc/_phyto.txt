@@ -1,0 +1,38 @@
+INFO  : https://www.phyto.finance
+************************************************************************************
+
+Mon Aug 23 2021 14:13:52 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 8 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+7 - 
+[USDT]-[PHY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $3.62
+USDT Price: $1.00
+PHY Price: $0.000107
+Staked: 172.0489 Cake-LP ($3.59)
+PHY Per Week: 201600.00 ($21.62)
+APR: Day 86.15% Week 603.06% Year 31359.27%
+You are staking 0.00 [USDT]-[PHY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[PHY] Cake LP
+Unstake 0.00 [USDT]-[PHY] Cake LP
+Claim 0.00 PHY ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $3.59

@@ -1,0 +1,593 @@
+INFO  : 
+https://www.fletaconnect.io
+
+********************************************************************************
+
+Mon Aug 23 2021 15:10:58 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 50 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+Cherry
+ Price: $0.00 Market Cap: $0.00 
+Staked: 473526.0698 Cherry ($0.00)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 Cherry ($0.00), NaN% of the pool.
+Stake 0.00 Cherry
+Unstake 0.00 Cherry
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+BFLETA
+ Price: $0.00 Market Cap: $0.00 
+Staked: 114212959.3559 BFLETA ($0.00)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BFLETA ($0.00), NaN% of the pool.
+Stake 0.00 BFLETA
+Unstake 0.00 BFLETA
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+WBNB
+ Price: $489.06 Market Cap: $3,447,503,021.00 
+[%]
+Staked: 2035.6599 WBNB ($995,559.81)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day 5.76% Week 40.31% Year 2095.97%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB
+Unstake 0.00 WBNB
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+BTCB
+ Price: $49,844.00 Market Cap: $4,261,711,844.00 
+[%]
+Staked: 7.7165 BTCB ($384,620.91)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day 14.90% Week 104.33% Year 5425.25%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB
+Unstake 0.00 BTCB
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+ETH
+ Price: $3,333.53 Market Cap: $4,350,256,650.00 
+[%]
+Staked: 214.4628 ETH ($714,918.32)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day 8.02% Week 56.13% Year 2918.75%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH
+Unstake 0.00 ETH
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+[WBNB]-[BFLETA] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.15 TVL: $567,621.74
+WBNB Price: $489.06
+BFLETA Price: $0.01
+Staked: 106744.3393 Cake-LP ($549,720.89)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day 10.43% Week 73.00% Year 3795.86%
+You are staking 0.00 [WBNB]-[BFLETA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BFLETA] Cake LP
+Unstake 0.00 [WBNB]-[BFLETA] Cake LP
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,253.79 TVL: $174,586,690.57
+BTCB Price: $49,844.00
+WBNB Price: $489.06
+Staked: 0.0000 Cake-LP ($0.00)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,666.86 TVL: $263,219,454.60
+ETH Price: $3,333.53
+WBNB Price: $489.06
+Staked: 0.0000 Cake-LP ($0.00)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $227.64 TVL: $1,041,413,257.43
+Cake Price: $25.34
+WBNB Price: $489.06
+Staked: 0.0000 Cake-LP ($0.00)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+[WBNB]-[BELT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $195.02 TVL: $79,929,776.30
+WBNB Price: $489.06
+BELT Price: $18.93
+Staked: 0.0000 Cake-LP ($0.00)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[BELT] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BELT] Cake LP
+Unstake 0.00 [WBNB]-[BELT] Cake LP
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.98 TVL: $526,602,888.86
+WBNB Price: $489.06
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+[BTCB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $471.82 TVL: $137,339,325.00
+BTCB Price: $49,844.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BTCB]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[BUSD] Cake LP
+Unstake 0.00 [BTCB]-[BUSD] Cake LP
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+[Cake]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13.49 TVL: $66,698,621.96
+Cake Price: $25.34
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+[Cake]-[USDT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $11.53 TVL: $44,442,590.45
+Cake Price: $25.34
+USDT Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[USDT] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[USDT] Cake LP
+Unstake 0.00 [Cake]-[USDT] Cake LP
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,190,356.74
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.03 TVL: $81,321,273.75
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,948,545.10
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+[UST]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $50,142,246.49
+UST Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [UST]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [UST]-[BUSD] Cake LP
+Unstake 0.00 [UST]-[BUSD] Cake LP
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+[TUSD]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $120,959,500.69
+TUSD Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [TUSD]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [TUSD]-[BUSD] Cake LP
+Unstake 0.00 [TUSD]-[BUSD] Cake LP
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+[ETH]-[BTCB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $26,806.97 TVL: $153,734,140.95
+ETH Price: $3,333.53
+BTCB Price: $49,844.00
+Staked: 0.0000 Cake-LP ($0.00)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[BTCB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[BTCB] Cake LP
+Unstake 0.00 [ETH]-[BTCB] Cake LP
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+[ETH]-[USDC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $118.78 TVL: $71,702,713.30
+ETH Price: $3,333.53
+USDC Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[USDC] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[USDC] Cake LP
+Unstake 0.00 [ETH]-[USDC] Cake LP
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $242.49 TVL: $83,389,801.02
+DOT Price: $28.20
+WBNB Price: $489.06
+Staked: 0.0000 Cake-LP ($0.00)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+[WBNB]-[LINK] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $242.43 TVL: $47,911,985.83
+WBNB Price: $489.06
+LINK Price: $28.78
+Staked: 0.0000 Cake-LP ($0.00)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[LINK] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[LINK] Cake LP
+Unstake 0.00 [WBNB]-[LINK] Cake LP
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+[Cherry]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.62 TVL: $1,156,294.50
+Cherry Price: $1.99
+WBNB Price: $489.06
+Staked: 15565.1976 Cake-LP ($1,005,871.41)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day 5.70% Week 39.89% Year 2074.48%
+You are staking 0.00 [Cherry]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cherry]-[WBNB] Cake LP
+Unstake 0.00 [Cherry]-[WBNB] Cake LP
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+[Cherry]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.91 TVL: $527,326.16
+Cherry Price: $1.99
+BUSD Price: $1.00
+Staked: 181404.9917 Cake-LP ($527,264.97)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day 10.87% Week 76.11% Year 3957.53%
+You are staking 0.00 [Cherry]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cherry]-[BUSD] Cake LP
+Unstake 0.00 [Cherry]-[BUSD] Cake LP
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+CRYBURN
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 CRYBURN ($0.00)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CRYBURN ($0.00), NaN% of the pool.
+Stake 0.00 CRYBURN
+Unstake 0.00 CRYBURN
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+Cake
+ Price: $25.34 Market Cap: $10,544,959,190.11 
+[%]
+Staked: 0.2080 Cake ($5.27)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day 1087852.28% Week 7614965.93% Year 395978228.28%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $227.64 TVL: $1,041,413,257.43
+Cake Price: $25.34
+WBNB Price: $489.06
+Staked: 0.0000 Cake-LP ($0.00)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+[WBNB]-[BELT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $195.02 TVL: $79,929,776.30
+WBNB Price: $489.06
+BELT Price: $18.93
+Staked: 0.0000 Cake-LP ($0.00)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[BELT] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BELT] Cake LP
+Unstake 0.00 [WBNB]-[BELT] Cake LP
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.98 TVL: $526,602,888.86
+WBNB Price: $489.06
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+beltBTC Price: $0.00 TVL: $0.00
+Staked: 0.0000 beltBTC ($0.00)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 beltBTC ($0.00), NaN% of the pool.
+Stake 0.00 beltBTC
+Unstake 0.00 beltBTC
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+beltETH Price: $0.00 TVL: $0.00
+Staked: 0.0000 beltETH ($0.00)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 beltETH ($0.00), NaN% of the pool.
+Stake 0.00 beltETH
+Unstake 0.00 beltETH
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+beltBNB Price: $0.00 TVL: $0.00
+Staked: 0.0000 beltBNB ($0.00)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 beltBNB ($0.00), NaN% of the pool.
+Stake 0.00 beltBNB
+Unstake 0.00 beltBNB
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+4Belt
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 4Belt ($0.00)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 4Belt ($0.00), NaN% of the pool.
+Stake 0.00 4Belt
+Unstake 0.00 4Belt
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+Cake
+ Price: $25.34 Market Cap: $10,544,959,190.11 
+[%]
+Staked: 26.2430 Cake ($665.00)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day 8620.47% Week 60343.30% Year 3137851.39%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+[USDT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.88 TVL: $252,192,116.51
+USDT Price: $1.00
+WBNB Price: $489.06
+Staked: 0.0000 Cake-LP ($0.00)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+[WBNB]-[BEAR] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $882.66 TVL: $916,765.40
+WBNB Price: $489.06
+BEAR Price: $167.23
+Staked: 0.0000 Cake-LP ($0.00)
+CHERRY Per Week: 201600.00 ($401,281.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[BEAR] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BEAR] Cake LP
+Unstake 0.00 [WBNB]-[BEAR] Cake LP
+Claim 0.00 CHERRY ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $4,178,626.58

@@ -1,0 +1,90 @@
+INFO  : 
+
+Buy NINJA: https://quickswap.exchange/#/swap?outputCurrency=0x3d40560B6C301A640f29c4fFE58592b62f7428d5
+
+Farming
+ - Farming start on block: 16373223. Thursday, 1 Jul 2021 22:22
+
+ - Harvest Lockup Timers on Pool - 4 Hrs non-native, 2 hrs native.
+ - Pre-mine to only add funds to liquidity pool and marketing cost
+
+Deposit fees
+ - 3% on Non-native farms
+ - 0% on Native farms
+
+ Token
+ - NINJA: 0x3d40560B6C301A640f29c4fFE58592b62f7428d5
+ - Max Supply : 1,000,000 NINJA
+ - Anti-whale will set to  0.5% Max total supply transfer amount
+
+ Twitter - https://twitter.com/ninjaswapfi
+ Telegram - https://t.me/polyninja_finance
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:56:28 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 3 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[NINJA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $584.70 TVL: $0.00
+USDC Price: $1.00
+NINJA Price: $0.0000000208
+Staked: 0.0000 UNI-V2 ($0.00)
+NINJA Per Week: 9600.00 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[NINJA] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[NINJA] Uni LP
+Unstake 0.00 [USDC]-[NINJA] Uni LP
+Claim 0.00 NINJA ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[NINJA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.00
+WMATIC Price: $1.65
+NINJA Price: $0.0000000208
+Staked: 0.0000 UNI-V2 ($0.00)
+NINJA Per Week: 9600.00 ($0.00)
+APR: Day 3177355423565496832.00% Week 22241487964958478336.00% Year 1.1565573741778409e+21%
+You are staking 0.00 [WMATIC]-[NINJA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[NINJA] Uni LP
+Unstake 0.00 [WMATIC]-[NINJA] Uni LP
+Claim 0.00 NINJA ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+NINJA
+ Price: $0.0000000208 Market Cap: $0.00 
+[%]
+Staked: 551.4667 NINJA ($0.00)
+NINJA Per Week: 9600.00 ($0.00)
+APR: Day 248.69% Week 1740.81% Year 90522.24%
+You are staking 0.00 NINJA ($0.00), 0.00% of the pool.
+Stake 0.00 NINJA
+Unstake 0.00 NINJA
+Claim 0.00 NINJA ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $0.00

@@ -1,7 +1,7 @@
 INFO  : https://app.0.exchange
 *********************************************************************
 
-Tue Jul 13 2021 23:51:24 GMT+0530 (India Standard Time)
+Mon Aug 23 2021 13:13:24 GMT+0530 (India Standard Time)
 [CHANGE WALLET]
  -=- 
 [CLEAR BROWSER STORAGE]
@@ -16,10 +16,10 @@ Reading smart contracts...
 [-]
  
 [<=>]
- Price: $118,751,078.80 TVL: $19,422.07
-ZERO Price: $0.02
-zUSDC Price: $1.02
-Staked: 0.0001 ZERO-LP ($7,884.99)
+ Price: $155,007,545.48 TVL: $18,106.40
+ZERO Price: $0.04
+zUSDC Price: $1.08
+Staked: 0.0000 ZERO-LP ($6,114.82)
 ZERO Per Week: 0.00 ($0.00)
 APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0.000000 [ZERO]-[zUSDC] Uni LP $0.00 (0.00% of the pool).
@@ -36,10 +36,10 @@ Exit
 [-]
  
 [<=>]
- Price: $1.20 TVL: $315,735.48
-ZERO Price: $0.02
-WAVAX Price: $12.34
-Staked: 84211.1717 ZERO-LP ($101,320.54)
+ Price: $3.08 TVL: $388,592.93
+ZERO Price: $0.04
+WAVAX Price: $49.33
+Staked: 51978.5413 ZERO-LP ($159,968.89)
 ZERO Per Week: 0.00 ($0.00)
 APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0.000000 [ZERO]-[WAVAX] Uni LP $0.00 (0.00% of the pool).
@@ -56,10 +56,10 @@ Exit
 [-]
  
 [<=>]
- Price: $14.87 TVL: $49,635.46
-ZERO Price: $0.02
-zETH Price: $2,042.29
-Staked: 295.3982 ZERO-LP ($4,393.40)
+ Price: $24.00 TVL: $45,129.95
+ZERO Price: $0.04
+zETH Price: $3,297.36
+Staked: 186.9970 ZERO-LP ($4,488.36)
 ZERO Per Week: 0.00 ($0.00)
 APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0.000000 [ZERO]-[zETH] Uni LP $0.00 (0.00% of the pool).
@@ -76,10 +76,10 @@ Exit
 [-]
  
 [<=>]
- Price: $327,380.47 TVL: $30,183.75
-ZERO Price: $0.02
-zUSDT Price: $1.03
-Staked: 0.0385 ZERO-LP ($12,587.87)
+ Price: $420,994.71 TVL: $24,898.46
+ZERO Price: $0.04
+zUSDT Price: $1.05
+Staked: 0.0265 ZERO-LP ($11,137.86)
 ZERO Per Week: 0.00 ($0.00)
 APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0.000000 [ZERO]-[zUSDT] Uni LP $0.00 (0.00% of the pool).
@@ -96,10 +96,10 @@ Exit
 [-]
  
 [<=>]
- Price: $5,537,471.57 TVL: $22,984.93
-ZERO Price: $0.02
-zBTC Price: $31,748.08
-Staked: 0.0037 ZERO-LP ($20,347.08)
+ Price: $8,871,575.35 TVL: $29,517.93
+ZERO Price: $0.04
+zBTC Price: $51,511.33
+Staked: 0.0029 ZERO-LP ($25,860.96)
 ZERO Per Week: 0.00 ($0.00)
 APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0.000000 [ZERO]-[zBTC] Uni LP $0.00 (0.00% of the pool).
@@ -116,10 +116,10 @@ Exit
 [-]
  
 [<=>]
- Price: $1.37 TVL: $9,903.77
-ZERO Price: $0.02
-zUNI Price: $19.43
-Staked: 2722.6300 ZERO-LP ($3,718.96)
+ Price: $2.04 TVL: $9,034.46
+ZERO Price: $0.04
+zUNI Price: $27.26
+Staked: 725.3650 ZERO-LP ($1,476.20)
 ZERO Per Week: 0.00 ($0.00)
 APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0.000000 [ZERO]-[zUNI] Uni LP $0.00 (0.00% of the pool).
@@ -136,10 +136,10 @@ Exit
 [-]
  
 [<=>]
- Price: $0.85 TVL: $27,911.97
-ZERO Price: $0.02
-zSUSHI Price: $7.56
-Staked: 30647.4265 ZERO-LP ($25,964.84)
+ Price: $1.48 TVL: $46,208.31
+ZERO Price: $0.04
+zSUSHI Price: $14.54
+Staked: 29233.9618 ZERO-LP ($43,268.63)
 ZERO Per Week: 0.00 ($0.00)
 APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0.000000 [ZERO]-[zSUSHI] Uni LP $0.00 (0.00% of the pool).
@@ -156,10 +156,10 @@ Exit
 [-]
  
 [<=>]
- Price: $0.32 TVL: $11,363.28
-ZERO Price: $0.02
-zDAI Price: $1.03
-Staked: 33939.4848 ZERO-LP ($10,957.36)
+ Price: $0.41 TVL: $9,910.10
+ZERO Price: $0.04
+zDAI Price: $1.04
+Staked: 22746.7856 ZERO-LP ($9,376.46)
 ZERO Per Week: 0.00 ($0.00)
 APR: Day 0.00% Week 0.00% Year 0.00%
 You are staking 0.000000 [ZERO]-[zDAI] Uni LP $0.00 (0.00% of the pool).
@@ -169,4 +169,4 @@ Unstake 0.000000 [ZERO]-[zDAI] Uni LP
 Claim 0.000000 ZERO ($0.00)
 Revoke (set approval to 0)
 Exit
-Total staked: $187,175.04
+Total staked: $261,692.18

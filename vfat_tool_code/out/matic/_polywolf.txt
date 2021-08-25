@@ -1,0 +1,406 @@
+INFO  : https://polywolf.finance
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:22:00 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 50 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+WMATIC
+ Price: $1.66 Market Cap: $609,158,219.22 
+[%]
+Staked: 8.4102 WMATIC ($13.96)
+WOLF Per Week: 2701.69 ($1.96)
+APR: Day 2.01% Week 14.07% Year 731.66%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 WOLF ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+WBTC
+ Price: $50,162.00 Market Cap: $699,715,479.44 
+[%]
+Staked: 0.0030 WBTC ($152.50)
+WOLF Per Week: 2701.69 ($1.96)
+APR: Day 0.18% Week 1.29% Year 66.98%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 WOLF ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+WETH
+ Price: $3,323.42 Market Cap: $2,029,036,784.17 
+[%]
+Staked: 0.0056 WETH ($18.53)
+WOLF Per Week: 2701.69 ($1.96)
+APR: Day 1.51% Week 10.60% Year 551.24%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 WOLF ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+USDT
+ Price: $1.00 Market Cap: $314,853,059.77 
+[%]
+Staked: 211.9725 USDT ($211.76)
+WOLF Per Week: 2701.69 ($1.96)
+APR: Day 0.13% Week 0.93% Year 48.24%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 WOLF ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+USDC
+ Price: $1.00 Market Cap: $1,044,843,149.88 
+[%]
+Staked: 821.4792 USDC ($818.81)
+WOLF Per Week: 2701.69 ($1.96)
+APR: Day 0.03% Week 0.24% Year 12.48%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 WOLF ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+DAI
+ Price: $1.00 Market Cap: $376,284,571.53 
+[%]
+Staked: 105.2403 DAI ($105.24)
+WOLF Per Week: 2701.69 ($1.96)
+APR: Day 0.27% Week 1.87% Year 97.06%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 WOLF ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+AAVE
+ Price: $410.53 Market Cap: $156,278,336.32 
+[%]
+Staked: 0.0081 AAVE ($3.33)
+WOLF Per Week: 540.34 ($0.39)
+APR: Day 1.69% Week 11.81% Year 614.01%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 WOLF ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+QUICK
+ Price: $741.37 Market Cap: $709,688,795.76 
+[%]
+Staked: 0.1570 QUICK ($116.42)
+WOLF Per Week: 540.34 ($0.39)
+APR: Day 0.05% Week 0.34% Year 17.55%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 WOLF ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+Krill
+ Price: $0.09 Market Cap: $658,952.70 
+[%]
+Staked: 35.6920 Krill ($3.20)
+WOLF Per Week: 540.34 ($0.39)
+APR: Day 1.75% Week 12.27% Year 638.16%
+You are staking 0.00 Krill ($0.00), 0.00% of the pool.
+Stake 0.00 Krill - Fee 4%
+Unstake 0.00 Krill
+Claim 0.00 WOLF ($0.00)
+Staking or unstaking also claims rewards.
+35 - 
+[USDC]-[WOLF] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $54,985.44 TVL: $501.10
+USDC Price: $1.00
+WOLF Price: $0.000727
+Staked: 0.0045 WOLF-LP ($245.69)
+WOLF Per Week: 56735.46 ($41.25)
+APR: Day 2.40% Week 16.79% Year 873.08%
+You are staking 0.00 [USDC]-[WOLF] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WOLF] Uni LP
+Unstake 0.00 [USDC]-[WOLF] Uni LP
+Claim 0.00 WOLF ($0.00)
+Staking or unstaking also claims rewards.
+36 - 
+[WMATIC]-[WOLF] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.07 TVL: $329.71
+WMATIC Price: $1.66
+WOLF Price: $0.000727
+Staked: 4491.6221 WOLF-LP ($317.13)
+WOLF Per Week: 59437.15 ($43.22)
+APR: Day 1.95% Week 13.63% Year 708.61%
+You are staking 0.00 [WMATIC]-[WOLF] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WOLF] Uni LP
+Unstake 0.00 [WMATIC]-[WOLF] Uni LP
+Claim 0.00 WOLF ($0.00)
+Staking or unstaking also claims rewards.
+37 - 
+[WBTC]-[WOLF] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,215,174.92 TVL: $107.89
+WBTC Price: $50,162.00
+WOLF Price: $0.000727
+Staked: 0.0001 WOLF-LP ($107.11)
+WOLF Per Week: 13508.44 ($9.82)
+APR: Day 1.31% Week 9.17% Year 476.83%
+You are staking 0.00 [WBTC]-[WOLF] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WOLF] Uni LP
+Unstake 0.00 [WBTC]-[WOLF] Uni LP
+Claim 0.00 WOLF ($0.00)
+Staking or unstaking also claims rewards.
+38 - 
+[WETH]-[WOLF] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.14 TVL: $88.84
+WETH Price: $3,323.42
+WOLF Price: $0.000727
+Staked: 27.8620 WOLF-LP ($87.43)
+WOLF Per Week: 13508.44 ($9.82)
+APR: Day 1.60% Week 11.23% Year 584.18%
+You are staking 0.00 [WETH]-[WOLF] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[WOLF] Uni LP
+Unstake 0.00 [WETH]-[WOLF] Uni LP
+Claim 0.00 WOLF ($0.00)
+Staking or unstaking also claims rewards.
+39 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,636,690.38 TVL: $22,034.52
+WMATIC Price: $1.66
+USDC Price: $1.00
+Staked: 0.0084 WOLF-LP ($22,029.10)
+WOLF Per Week: 24315.20 ($17.68)
+APR: Day 0.01% Week 0.08% Year 4.17%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 WOLF ($0.00)
+Staking or unstaking also claims rewards.
+40 - 
+[WMATIC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $150.09 TVL: $20,493.61
+WMATIC Price: $1.66
+WETH Price: $3,323.42
+Staked: 136.4253 WOLF-LP ($20,476.52)
+WOLF Per Week: 16210.13 ($11.79)
+APR: Day 0.01% Week 0.06% Year 2.99%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 WOLF ($0.00)
+Staking or unstaking also claims rewards.
+41 - 
+[WMATIC]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $71.05 TVL: $568.59
+WMATIC Price: $1.66
+QUICK Price: $741.37
+Staked: 7.7577 WOLF-LP ($551.18)
+WOLF Per Week: 2701.69 ($1.96)
+APR: Day 0.05% Week 0.36% Year 18.53%
+You are staking 0.00 [WMATIC]-[QUICK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[QUICK] Uni LP
+Unstake 0.00 [WMATIC]-[QUICK] Uni LP
+Claim 0.00 WOLF ($0.00)
+Staking or unstaking also claims rewards.
+42 - 
+[USDC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,997,585.87 TVL: $20,668.52
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0096 WOLF-LP ($19,166.37)
+WOLF Per Week: 5403.38 ($3.93)
+APR: Day 0.00% Week 0.02% Year 1.07%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 WOLF ($0.00)
+Staking or unstaking also claims rewards.
+43 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,998,687,729,379.04 TVL: $1,588.71
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 WOLF-LP ($177.05)
+WOLF Per Week: 5403.38 ($3.93)
+APR: Day 0.32% Week 2.22% Year 115.39%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 WOLF ($0.00)
+Staking or unstaking also claims rewards.
+44 - 
+[SUSHI]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $435.09 TVL: $172.11
+SUSHI Price: $13.89
+WETH Price: $3,323.42
+Staked: 0.3253 WOLF-LP ($141.52)
+WOLF Per Week: 5403.38 ($3.93)
+APR: Day 0.40% Week 2.78% Year 144.35%
+You are staking 0.00 [SUSHI]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SUSHI]-[WETH] Uni LP
+Unstake 0.00 [SUSHI]-[WETH] Uni LP
+Claim 0.00 WOLF ($0.00)
+Staking or unstaking also claims rewards.
+45 - 
+[SUSHI]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7,576,183.66 TVL: $167.78
+SUSHI Price: $13.89
+USDC Price: $1.00
+Staked: 0.0000 WOLF-LP ($161.93)
+WOLF Per Week: 8105.07 ($5.89)
+APR: Day 0.52% Week 3.64% Year 189.24%
+You are staking 0.00 [SUSHI]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SUSHI]-[USDC] Uni LP
+Unstake 0.00 [SUSHI]-[USDC] Uni LP
+Claim 0.00 WOLF ($0.00)
+Staking or unstaking also claims rewards.
+46 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $116,679,212.70 TVL: $1,152.12
+USDC Price: $1.00
+WETH Price: $3,323.42
+Staked: 0.0000 WOLF-LP ($1,128.44)
+WOLF Per Week: 8105.07 ($5.89)
+APR: Day 0.07% Week 0.52% Year 27.16%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 WOLF ($0.00)
+Staking or unstaking also claims rewards.
+47 - 
+[WETH]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $115,924,620.99 TVL: $246.95
+WETH Price: $3,323.42
+USDT Price: $1.00
+Staked: 0.0000 WOLF-LP ($230.07)
+WOLF Per Week: 8105.07 ($5.89)
+APR: Day 0.37% Week 2.56% Year 133.19%
+You are staking 0.00 [WETH]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[USDT] Uni LP
+Unstake 0.00 [WETH]-[USDT] Uni LP
+Claim 0.00 WOLF ($0.00)
+Staking or unstaking also claims rewards.
+48 - 
+[WMATIC]-[WBTC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $58,157,558.18 TVL: $230.85
+WMATIC Price: $1.66
+WBTC Price: $50,162.00
+Staked: 0.0000 WOLF-LP ($229.04)
+WOLF Per Week: 8105.07 ($5.89)
+APR: Day 0.37% Week 2.57% Year 133.80%
+You are staking 0.00 [WMATIC]-[WBTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WBTC] Uni LP
+Unstake 0.00 [WMATIC]-[WBTC] Uni LP
+Claim 0.00 WOLF ($0.00)
+Staking or unstaking also claims rewards.
+49 - 
+WOLF
+ Price: $0.000727 Market Cap: $2,512.70 
+[%]
+Staked: 1350093.7866 WOLF ($981.63)
+WOLF Per Week: 32420.26 ($23.57)
+APR: Day 0.34% Week 2.40% Year 124.87%
+You are staking 0.00 WOLF ($0.00), 0.00% of the pool.
+Stake 0.00 WOLF
+Unstake 0.00 WOLF
+Claim 0.00 WOLF ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $67,473.98

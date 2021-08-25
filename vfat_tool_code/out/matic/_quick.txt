@@ -1,0 +1,1518 @@
+INFO  : https://quickswap.exchange/#/quick
+***************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 15:50:40 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+[WMATIC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $188.87 TVL: $122,840,529.13
+WMATIC Price: $1.64
+WETH Price: $3,338.85
+Staked: 534738.2064 UNI-V2 ($100,997,441.81)
+QUICK Per Week: 350.23 ($250,688.91)
+APR: Day 0.04% Week 0.25% Year 12.91%
+You are staking 0.000000 [WMATIC]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WMATIC]-[WETH] Uni LP
+Unstake 0.000000 [WMATIC]-[WETH] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[WBTC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,294,596,140,725.28 TVL: $98,066,175.07
+WBTC Price: $50,139.00
+WETH Price: $3,338.85
+Staked: 0.0001 UNI-V2 ($97,574,211.19)
+QUICK Per Week: 182.12 ($130,357.79)
+APR: Day 0.02% Week 0.13% Year 6.95%
+You are staking 0.000000 [WBTC]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WBTC]-[WETH] Uni LP
+Unstake 0.000000 [WBTC]-[WETH] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $163,133,605.78 TVL: $148,527,161.65
+USDC Price: $1.00
+WETH Price: $3,338.85
+Staked: 0.8084 UNI-V2 ($131,881,248.67)
+QUICK Per Week: 392.23 ($280,754.89)
+APR: Day 0.03% Week 0.21% Year 11.07%
+You are staking 0.000000 [USDC]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [USDC]-[WETH] Uni LP
+Unstake 0.000000 [USDC]-[WETH] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[WETH]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,714,664,357.26 TVL: $46,232,682.36
+WETH Price: $3,338.85
+USDT Price: $1.00
+Staked: 0.0170 UNI-V2 ($46,072,928.87)
+QUICK Per Week: 245.15 ($175,474.96)
+APR: Day 0.05% Week 0.38% Year 19.80%
+You are staking 0.000000 [WETH]-[USDT] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WETH]-[USDT] Uni LP
+Unstake 0.000000 [WETH]-[USDT] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[WMATIC]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $93.15 TVL: $31,447,099.00
+WMATIC Price: $1.64
+QUICK Price: $715.79
+Staked: 317882.6583 UNI-V2 ($29,610,926.00)
+QUICK Per Week: 245.16 ($175,480.56)
+APR: Day 0.08% Week 0.59% Year 30.82%
+You are staking 0.000000 [WMATIC]-[QUICK] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WMATIC]-[QUICK] Uni LP
+Unstake 0.000000 [WMATIC]-[QUICK] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[WETH]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $138.36 TVL: $31,076,411.35
+WETH Price: $3,338.85
+DAI Price: $1.00
+Staked: 223585.6185 UNI-V2 ($30,934,325.58)
+QUICK Per Week: 161.10 ($115,312.19)
+APR: Day 0.05% Week 0.37% Year 19.38%
+You are staking 0.000000 [WETH]-[DAI] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WETH]-[DAI] Uni LP
+Unstake 0.000000 [WETH]-[DAI] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[WETH]-[AAVE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,439.19 TVL: $47,187,929.31
+WETH Price: $3,338.85
+AAVE Price: $411.70
+Staked: 18844.0134 UNI-V2 ($45,964,181.76)
+QUICK Per Week: 140.09 ($100,272.20)
+APR: Day 0.03% Week 0.22% Year 11.34%
+You are staking 0.000000 [WETH]-[AAVE] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WETH]-[AAVE] Uni LP
+Unstake 0.000000 [WETH]-[AAVE] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,561,792,405,253.10 TVL: $33,943,349.02
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($28,380,842.78)
+QUICK Per Week: 84.05 ($60,162.76)
+APR: Day 0.03% Week 0.21% Year 11.02%
+You are staking 0.000000 [USDC]-[USDT] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [USDC]-[USDT] Uni LP
+Unstake 0.000000 [USDC]-[USDT] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[LINK]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $638.32 TVL: $33,616,755.41
+LINK Price: $28.75
+WETH Price: $3,338.85
+Staked: 52311.9686 UNI-V2 ($33,391,724.55)
+QUICK Per Week: 126.07 ($90,242.74)
+APR: Day 0.04% Week 0.27% Year 14.05%
+You are staking 0.000000 [LINK]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [LINK]-[WETH] Uni LP
+Unstake 0.000000 [LINK]-[WETH] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[USDC]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $87,096,604.03 TVL: $8,875,080.38
+USDC Price: $1.00
+QUICK Price: $715.79
+Staked: 0.0974 UNI-V2 ($8,480,472.77)
+QUICK Per Week: 98.07 ($70,195.02)
+APR: Day 0.12% Week 0.83% Year 43.04%
+You are staking 0.000000 [USDC]-[QUICK] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [USDC]-[QUICK] Uni LP
+Unstake 0.000000 [USDC]-[QUICK] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[WETH]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,370.49 TVL: $18,956,889.25
+WETH Price: $3,338.85
+QUICK Price: $715.79
+Staked: 4235.7887 UNI-V2 ($18,512,482.31)
+QUICK Per Week: 154.10 ($110,304.47)
+APR: Day 0.09% Week 0.60% Year 30.98%
+You are staking 0.000000 [WETH]-[QUICK] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WETH]-[QUICK] Uni LP
+Unstake 0.000000 [WETH]-[QUICK] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[WBTC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50,665,149,020,397.36 TVL: $16,202,812.17
+WBTC Price: $50,139.00
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($15,891,253.77)
+QUICK Per Week: 98.06 ($70,189.42)
+APR: Day 0.06% Week 0.44% Year 22.97%
+You are staking 0.000000 [WBTC]-[USDC] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WBTC]-[USDC] Uni LP
+Unstake 0.000000 [WBTC]-[USDC] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[USDC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $74,938,302.97 TVL: $21,430,058.55
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.2550 UNI-V2 ($19,108,982.92)
+QUICK Per Week: 35.02 ($25,066.65)
+APR: Day 0.02% Week 0.13% Year 6.82%
+You are staking 0.000000 [USDC]-[DAI] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [USDC]-[DAI] Uni LP
+Unstake 0.000000 [USDC]-[DAI] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[QUICK]-[TEL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $925,880,589.93 TVL: $10,127,796.32
+QUICK Price: $715.79
+TEL Price: $0.03
+Staked: 0.0000 UNI-V2 ($7,446.30)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [QUICK]-[TEL] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [QUICK]-[TEL] Uni LP
+Unstake 0.000000 [QUICK]-[TEL] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+stkGHST-QUICK
+ Price: $0.00 Market Cap: $0.00 
+Staked: 47349.8460 stkGHST-QUICK ($0.00)
+QUICK Per Week: 28.02 ($20,053.32)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 stkGHST-QUICK $0.00 (NaN% of the pool).
+Polygon Explorer
+Stake 0.000000 stkGHST-QUICK
+Unstake 0.000000 stkGHST-QUICK
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[WETH]-[WISE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $85.52 TVL: $1,228,917.75
+WETH Price: $3,338.85
+WISE Price: $0.53
+Staked: 13975.1252 UNI-V2 ($1,195,196.09)
+QUICK Per Week: 2.10 ($1,504.56)
+APR: Day 0.02% Week 0.13% Year 6.55%
+You are staking 0.000000 [WETH]-[WISE] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WETH]-[WISE] Uni LP
+Unstake 0.000000 [WETH]-[WISE] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[WETH]-[CEL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,896,570,292.44 TVL: $5,550,864.48
+WETH Price: $3,338.85
+CEL Price: $5.92
+Staked: 0.0019 UNI-V2 ($5,542,264.74)
+QUICK Per Week: 35.02 ($25,066.65)
+APR: Day 0.06% Week 0.45% Year 23.52%
+You are staking 0.000000 [WETH]-[CEL] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WETH]-[CEL] Uni LP
+Unstake 0.000000 [WETH]-[CEL] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[WETH]-[TEL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $25,433,218,779.72 TVL: $8,940,975.94
+WETH Price: $3,338.85
+TEL Price: $0.03
+Staked: 0.0000 UNI-V2 ($1,980.27)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WETH]-[TEL] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WETH]-[TEL] Uni LP
+Unstake 0.000000 [WETH]-[TEL] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[DEFI5]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,202.99 TVL: $601,609.55
+DEFI5 Price: $104.98
+WETH Price: $3,338.85
+Staked: 404.8195 UNI-V2 ($486,991.82)
+QUICK Per Week: 3.50 ($2,506.67)
+APR: Day 0.07% Week 0.51% Year 26.77%
+You are staking 0.000000 [DEFI5]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [DEFI5]-[WETH] Uni LP
+Unstake 0.000000 [DEFI5]-[WETH] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[Krill]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $25,072.89 TVL: $13,608.36
+Krill Price: $0.09
+QUICK Price: $715.79
+Staked: 0.4037 UNI-V2 ($10,121.17)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [Krill]-[QUICK] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [Krill]-[QUICK] Uni LP
+Unstake 0.000000 [Krill]-[QUICK] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[QUICK]-[WISE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $39.92 TVL: $708,217.29
+QUICK Price: $715.79
+WISE Price: $0.53
+Staked: 17430.8068 UNI-V2 ($695,878.89)
+QUICK Per Week: 3.50 ($2,508.07)
+APR: Day 0.05% Week 0.36% Year 18.74%
+You are staking 0.000000 [QUICK]-[WISE] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [QUICK]-[WISE] Uni LP
+Unstake 0.000000 [QUICK]-[WISE] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[QUICK]-[PolyDoge] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.07 TVL: $431,503.62
+QUICK Price: $715.79
+PolyDoge Price: $0.0000000059
+Staked: 5962702.8119 UNI-V2 ($415,983.75)
+QUICK Per Week: 5.25 ($3,761.26)
+APR: Day 0.13% Week 0.90% Year 47.02%
+You are staking 0.000000 [QUICK]-[PolyDoge] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [QUICK]-[PolyDoge] Uni LP
+Unstake 0.000000 [QUICK]-[PolyDoge] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,601,481.52 TVL: $33,218,436.18
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 6.5204 UNI-V2 ($30,003,516.85)
+QUICK Per Week: 84.05 ($60,162.76)
+APR: Day 0.03% Week 0.20% Year 10.43%
+You are staking 0.000000 [WMATIC]-[USDC] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WMATIC]-[USDC] Uni LP
+Unstake 0.000000 [WMATIC]-[USDC] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[QUICK]-[EMON] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $29.00 TVL: $10,076.70
+QUICK Price: $715.79
+EMON Price: $0.27
+Staked: 200.2299 UNI-V2 ($5,806.34)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [QUICK]-[EMON] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [QUICK]-[EMON] Uni LP
+Unstake 0.000000 [QUICK]-[EMON] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[WETH]-[SX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $95.87 TVL: $112,158.04
+WETH Price: $3,338.85
+SX Price: $0.60
+Staked: 3.4680 UNI-V2 ($332.48)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WETH]-[SX] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WETH]-[SX] Uni LP
+Unstake 0.000000 [WETH]-[SX] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+stkGHST-USDC
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0243 stkGHST-USDC ($0.00)
+QUICK Per Week: 12.26 ($8,773.33)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 stkGHST-USDC $0.00 (NaN% of the pool).
+Polygon Explorer
+Stake 0.000000 stkGHST-USDC
+Unstake 0.000000 stkGHST-USDC
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[WMATIC]-[WOLF] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $157.87 TVL: $523,518.85
+WMATIC Price: $1.64
+WOLF Price: $0.0000034528
+Staked: 16.2827 UNI-V2 ($2,570.54)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WMATIC]-[WOLF] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WMATIC]-[WOLF] Uni LP
+Unstake 0.000000 [WMATIC]-[WOLF] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[LINK]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $306.10 TVL: $1,314,532.31
+LINK Price: $28.75
+QUICK Price: $715.79
+Staked: 4181.9395 UNI-V2 ($1,280,111.54)
+QUICK Per Week: 4.90 ($3,510.17)
+APR: Day 0.04% Week 0.27% Year 14.26%
+You are staking 0.000000 [LINK]-[QUICK] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [LINK]-[QUICK] Uni LP
+Unstake 0.000000 [LINK]-[QUICK] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[AGA]-[AGAr] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $21,940,537,782,883.28 TVL: $38,315.05
+AGA Price: $0.78
+AGAr Price: $151.57
+Staked: 0.0000 UNI-V2 ($20,023.88)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [AGA]-[AGAr] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [AGA]-[AGAr] Uni LP
+Unstake 0.000000 [AGA]-[AGAr] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[QUICK]-[UNI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $317.35 TVL: $2,061,127.24
+QUICK Price: $715.79
+UNI Price: $29.28
+Staked: 6408.7124 UNI-V2 ($2,033,825.75)
+QUICK Per Week: 14.01 ($10,028.06)
+APR: Day 0.07% Week 0.49% Year 25.64%
+You are staking 0.000000 [QUICK]-[UNI] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [QUICK]-[UNI] Uni LP
+Unstake 0.000000 [QUICK]-[UNI] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[Krill]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $686,812.63 TVL: $210,027.67
+Krill Price: $0.09
+USDC Price: $1.00
+Staked: 0.0292 UNI-V2 ($20,074.82)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [Krill]-[USDC] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [Krill]-[USDC] Uni LP
+Unstake 0.000000 [Krill]-[USDC] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[DAI]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $27,067,841.43 TVL: $3,963,339.88
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 0.1216 UNI-V2 ($3,292,123.22)
+QUICK Per Week: 14.01 ($10,028.06)
+APR: Day 0.04% Week 0.30% Year 15.84%
+You are staking 0.000000 [DAI]-[USDT] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [DAI]-[USDT] Uni LP
+Unstake 0.000000 [DAI]-[USDT] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[WMATIC]-[PolyDoge] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $139,974.19
+WMATIC Price: $1.64
+PolyDoge Price: $0.0000000059
+Staked: 59903049.8270 UNI-V2 ($16,605.95)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WMATIC]-[PolyDoge] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WMATIC]-[PolyDoge] Uni LP
+Unstake 0.000000 [WMATIC]-[PolyDoge] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[WMATIC]-[EMON] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.39 TVL: $215,054.98
+WMATIC Price: $1.64
+EMON Price: $0.27
+Staked: 6726.1142 UNI-V2 ($9,339.65)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WMATIC]-[EMON] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WMATIC]-[EMON] Uni LP
+Unstake 0.000000 [WMATIC]-[EMON] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[FRAX]-[FXS] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.63 TVL: $32,759.77
+FRAX Price: $0.99
+FXS Price: $5.21
+Staked: 2890.5249 UNI-V2 ($13,373.95)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [FRAX]-[FXS] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [FRAX]-[FXS] Uni LP
+Unstake 0.000000 [FRAX]-[FXS] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[QUICK]-[DEGEN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $130.43 TVL: $276,011.20
+QUICK Price: $715.79
+DEGEN Price: $5.59
+Staked: 2082.3050 UNI-V2 ($271,601.54)
+QUICK Per Week: 3.50 ($2,506.67)
+APR: Day 0.13% Week 0.92% Year 47.99%
+You are staking 0.000000 [QUICK]-[DEGEN] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [QUICK]-[DEGEN] Uni LP
+Unstake 0.000000 [QUICK]-[DEGEN] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[QUICK]-[GAME] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $23.00 TVL: $739,145.58
+QUICK Price: $715.79
+GAME Price: $0.17
+Staked: 32135.4300 UNI-V2 ($739,069.84)
+QUICK Per Week: 3.50 ($2,506.81)
+APR: Day 0.05% Week 0.34% Year 17.64%
+You are staking 0.000000 [QUICK]-[GAME] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [QUICK]-[GAME] Uni LP
+Unstake 0.000000 [QUICK]-[GAME] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[WETH]-[DEGEN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $282.10 TVL: $453,330.13
+WETH Price: $3,338.85
+DEGEN Price: $5.59
+Staked: 1517.2780 UNI-V2 ($428,023.26)
+QUICK Per Week: 3.50 ($2,506.67)
+APR: Day 0.08% Week 0.59% Year 30.45%
+You are staking 0.000000 [WETH]-[DEGEN] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WETH]-[DEGEN] Uni LP
+Unstake 0.000000 [WETH]-[DEGEN] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[ARIA20]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $132.95 TVL: $320,633.33
+ARIA20 Price: $1.28
+WETH Price: $3,338.85
+Staked: 312.0931 UNI-V2 ($41,491.57)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [ARIA20]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [ARIA20]-[WETH] Uni LP
+Unstake 0.000000 [ARIA20]-[WETH] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[WETH]-[CC10] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,030.56 TVL: $545,422.36
+WETH Price: $3,338.85
+CC10 Price: $76.58
+Staked: 526.8624 UNI-V2 ($542,962.07)
+QUICK Per Week: 3.50 ($2,506.67)
+APR: Day 0.07% Week 0.46% Year 24.01%
+You are staking 0.000000 [WETH]-[CC10] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WETH]-[CC10] Uni LP
+Unstake 0.000000 [WETH]-[CC10] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[VISION]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $302.18 TVL: $1,201,031.02
+VISION Price: $6.54
+WETH Price: $3,338.85
+Staked: 3746.3170 UNI-V2 ($1,132,062.99)
+QUICK Per Week: 3.50 ($2,506.67)
+APR: Day 0.03% Week 0.22% Year 11.51%
+You are staking 0.000000 [VISION]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [VISION]-[WETH] Uni LP
+Unstake 0.000000 [VISION]-[WETH] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[DEFI5]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $563.23 TVL: $486,464.71
+DEFI5 Price: $104.98
+QUICK Price: $715.79
+Staked: 862.5016 UNI-V2 ($485,784.29)
+QUICK Per Week: 3.50 ($2,506.67)
+APR: Day 0.07% Week 0.52% Year 26.83%
+You are staking 0.000000 [DEFI5]-[QUICK] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [DEFI5]-[QUICK] Uni LP
+Unstake 0.000000 [DEFI5]-[QUICK] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[$DG]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,936.26 TVL: $578,205.23
+$DG Price: $251.10
+WETH Price: $3,338.85
+Staked: 244.6672 UNI-V2 ($473,739.60)
+QUICK Per Week: 7.00 ($5,013.33)
+APR: Day 0.15% Week 1.06% Year 55.03%
+You are staking 0.000000 [$DG]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [$DG]-[WETH] Uni LP
+Unstake 0.000000 [$DG]-[WETH] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[QUICK]-[CEL] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,355,420,003.63 TVL: $31,742.70
+QUICK Price: $715.79
+CEL Price: $5.92
+Staked: 0.0000 UNI-V2 ($28,341.19)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [QUICK]-[CEL] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [QUICK]-[CEL] Uni LP
+Unstake 0.000000 [QUICK]-[CEL] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[QUICK]-[CC10] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $478.60 TVL: $241,511.66
+QUICK Price: $715.79
+CC10 Price: $76.58
+Staked: 504.1303 UNI-V2 ($241,275.64)
+QUICK Per Week: 3.50 ($2,506.67)
+APR: Day 0.15% Week 1.04% Year 54.02%
+You are staking 0.000000 [QUICK]-[CC10] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [QUICK]-[CC10] Uni LP
+Unstake 0.000000 [QUICK]-[CC10] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[WETH]-[UBT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $18,420,259.03 TVL: $2,621,277.36
+WETH Price: $3,338.85
+UBT Price: $2.36
+Staked: 0.1420 UNI-V2 ($2,616,295.72)
+QUICK Per Week: 3.50 ($2,506.67)
+APR: Day 0.01% Week 0.10% Year 4.98%
+You are staking 0.000000 [WETH]-[UBT] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WETH]-[UBT] Uni LP
+Unstake 0.000000 [WETH]-[UBT] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[WMATIC]-[mOCEAN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.60 TVL: $2,107,121.83
+WMATIC Price: $1.64
+mOCEAN Price: $0.98
+Staked: 128602.7281 UNI-V2 ($334,040.92)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WMATIC]-[mOCEAN] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WMATIC]-[mOCEAN] Uni LP
+Unstake 0.000000 [WMATIC]-[mOCEAN] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[SWAP]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $78.71 TVL: $68,920.48
+SWAP Price: $1.86
+QUICK Price: $715.79
+Staked: 49.3951 UNI-V2 ($3,887.92)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [SWAP]-[QUICK] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [SWAP]-[QUICK] Uni LP
+Unstake 0.000000 [SWAP]-[QUICK] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[SX]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.34 TVL: $227.87
+SX Price: $0.60
+DAI Price: $1.00
+Staked: 1.1845 UNI-V2 ($2.77)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [SX]-[DAI] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [SX]-[DAI] Uni LP
+Unstake 0.000000 [SX]-[DAI] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[QUICK]-[miFARM] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $948.15 TVL: $270,399.72
+QUICK Price: $715.79
+miFARM Price: $285.64
+Staked: 275.7450 UNI-V2 ($261,447.08)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [QUICK]-[miFARM] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [QUICK]-[miFARM] Uni LP
+Unstake 0.000000 [QUICK]-[miFARM] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[UBT]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8,575,032.66 TVL: $11,675.42
+UBT Price: $2.36
+QUICK Price: $715.79
+Staked: 0.0010 UNI-V2 ($8,230.76)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [UBT]-[QUICK] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [UBT]-[QUICK] Uni LP
+Unstake 0.000000 [UBT]-[QUICK] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[QUICK]-[SUPER] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $57.23 TVL: $277,918.22
+QUICK Price: $715.79
+SUPER Price: $1.01
+Staked: 4808.9465 UNI-V2 ($275,215.51)
+QUICK Per Week: 3.50 ($2,506.67)
+APR: Day 0.13% Week 0.91% Year 47.36%
+You are staking 0.000000 [QUICK]-[SUPER] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [QUICK]-[SUPER] Uni LP
+Unstake 0.000000 [QUICK]-[SUPER] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[QUICK]-[AGAr] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $70,248,488.76 TVL: $8.50
+QUICK Price: $715.79
+AGAr Price: $151.57
+Staked: 0.0000 UNI-V2 ($3.09)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [QUICK]-[AGAr] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [QUICK]-[AGAr] Uni LP
+Unstake 0.000000 [QUICK]-[AGAr] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[ANY]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $97.95 TVL: $176,492.86
+ANY Price: $3.15
+QUICK Price: $715.79
+Staked: 1025.7631 UNI-V2 ($100,478.62)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [ANY]-[QUICK] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [ANY]-[QUICK] Uni LP
+Unstake 0.000000 [ANY]-[QUICK] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[WETH]-[SUPER] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $130.47 TVL: $399,253.37
+WETH Price: $3,338.85
+SUPER Price: $1.01
+Staked: 2835.1237 UNI-V2 ($369,891.55)
+QUICK Per Week: 2.80 ($2,005.33)
+APR: Day 0.08% Week 0.54% Year 28.19%
+You are staking 0.000000 [WETH]-[SUPER] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WETH]-[SUPER] Uni LP
+Unstake 0.000000 [WETH]-[SUPER] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[FRAX]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $57.87 TVL: $8,640.65
+FRAX Price: $0.99
+QUICK Price: $715.79
+Staked: 2.9771 UNI-V2 ($172.30)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [FRAX]-[QUICK] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [FRAX]-[QUICK] Uni LP
+Unstake 0.000000 [FRAX]-[QUICK] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[VISION]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $141.14 TVL: $28,127.39
+VISION Price: $6.54
+QUICK Price: $715.79
+Staked: 11.8320 UNI-V2 ($1,669.96)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [VISION]-[QUICK] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [VISION]-[QUICK] Uni LP
+Unstake 0.000000 [VISION]-[QUICK] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[HEX]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,539,278.80 TVL: $98,368.11
+HEX Price: $0.17
+QUICK Price: $715.79
+Staked: 0.0015 UNI-V2 ($3,717.16)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [HEX]-[QUICK] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [HEX]-[QUICK] Uni LP
+Unstake 0.000000 [HEX]-[QUICK] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[QUICK]-[xMARK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,633,738.69 TVL: $8,524.34
+QUICK Price: $715.79
+xMARK Price: $0.86
+Staked: 0.0000 UNI-V2 ($22.57)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [QUICK]-[xMARK] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [QUICK]-[xMARK] Uni LP
+Unstake 0.000000 [QUICK]-[xMARK] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[$DG]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $901.31 TVL: $3,082.67
+$DG Price: $251.10
+QUICK Price: $715.79
+Staked: 3.2002 UNI-V2 ($2,884.40)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [$DG]-[QUICK] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [$DG]-[QUICK] Uni LP
+Unstake 0.000000 [$DG]-[QUICK] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[AGA]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $538,605,070.59 TVL: $2.82
+AGA Price: $0.78
+QUICK Price: $715.79
+Staked: 0.0000 UNI-V2 ($0.00)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [AGA]-[QUICK] Uni LP $0.00 (NaN% of the pool).
+Polygon Explorer
+Stake 0.000000 [AGA]-[QUICK] Uni LP
+Unstake 0.000000 [AGA]-[QUICK] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[QUICK]-[IGG] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $15,014,446.16 TVL: $213,220.59
+QUICK Price: $715.79
+IGG Price: $0.000835
+Staked: 0.0140 UNI-V2 ($210,738.62)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [QUICK]-[IGG] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [QUICK]-[IGG] Uni LP
+Unstake 0.000000 [QUICK]-[IGG] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[QUICK]-[BTU] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $42.44 TVL: $1.81
+QUICK Price: $715.79
+BTU Price: $0.61
+Staked: 0.0000 UNI-V2 ($0.00)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [QUICK]-[BTU] Uni LP $0.00 (NaN% of the pool).
+Polygon Explorer
+Stake 0.000000 [QUICK]-[BTU] Uni LP
+Unstake 0.000000 [QUICK]-[BTU] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[FSN]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $33.88 TVL: $2.25
+FSN Price: $0.37
+QUICK Price: $715.79
+Staked: 0.0663 UNI-V2 ($2.25)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [FSN]-[QUICK] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [FSN]-[QUICK] Uni LP
+Unstake 0.000000 [FSN]-[QUICK] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[ARIA20]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $62.26 TVL: $122,254.91
+ARIA20 Price: $1.28
+QUICK Price: $715.79
+Staked: 213.2353 UNI-V2 ($13,275.33)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [ARIA20]-[QUICK] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [ARIA20]-[QUICK] Uni LP
+Unstake 0.000000 [ARIA20]-[QUICK] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[QUICK]-[NFTP] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $307.40 TVL: $15,720.09
+QUICK Price: $715.79
+NFTP Price: $31.36
+Staked: 0.0000 UNI-V2 ($0.00)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [QUICK]-[NFTP] Uni LP $0.00 (NaN% of the pool).
+Polygon Explorer
+Stake 0.000000 [QUICK]-[NFTP] Uni LP
+Unstake 0.000000 [QUICK]-[NFTP] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[QUICK]-[PLOT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $15.87 TVL: $90,334.45
+QUICK Price: $715.79
+PLOT Price: $0.08
+Staked: 5337.6074 UNI-V2 ($84,691.48)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [QUICK]-[PLOT] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [QUICK]-[PLOT] Uni LP
+Unstake 0.000000 [QUICK]-[PLOT] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[QUICK]-[DRC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,270,680,011.00 TVL: $2,664.24
+QUICK Price: $715.79
+DRC Price: $0.003158
+Staked: 0.0000 UNI-V2 ($0.00)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [QUICK]-[DRC] Uni LP $0.00 (NaN% of the pool).
+Polygon Explorer
+Stake 0.000000 [QUICK]-[DRC] Uni LP
+Unstake 0.000000 [QUICK]-[DRC] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[QUICK]-[SX] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $44.22 TVL: $5.14
+QUICK Price: $715.79
+SX Price: $0.60
+Staked: 0.0000 UNI-V2 ($0.00)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [QUICK]-[SX] Uni LP $0.00 (NaN% of the pool).
+Polygon Explorer
+Stake 0.000000 [QUICK]-[SX] Uni LP
+Unstake 0.000000 [QUICK]-[SX] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[mOCEAN]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $54.94 TVL: $532.81
+mOCEAN Price: $0.98
+QUICK Price: $715.79
+Staked: 7.4800 UNI-V2 ($410.95)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [mOCEAN]-[QUICK] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [mOCEAN]-[QUICK] Uni LP
+Unstake 0.000000 [mOCEAN]-[QUICK] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[CTSI]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $48.81 TVL: $18,931.29
+CTSI Price: $0.75
+QUICK Price: $715.79
+Staked: 1.0053 UNI-V2 ($49.07)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [CTSI]-[QUICK] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [CTSI]-[QUICK] Uni LP
+Unstake 0.000000 [CTSI]-[QUICK] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[QUICK]-[WOLF] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,583.02 TVL: $4,655.68
+QUICK Price: $715.79
+WOLF Price: $0.0000034528
+Staked: 0.0812 UNI-V2 ($290.90)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [QUICK]-[WOLF] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [QUICK]-[WOLF] Uni LP
+Unstake 0.000000 [QUICK]-[WOLF] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[GFARM2]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $62,077.60 TVL: $0.00
+GFARM2 Price: $1.31
+QUICK Price: $715.79
+Staked: 0.0000 UNI-V2 ($0.00)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [GFARM2]-[QUICK] Uni LP $0.00 (NaN% of the pool).
+Polygon Explorer
+Stake 0.000000 [GFARM2]-[QUICK] Uni LP
+Unstake 0.000000 [GFARM2]-[QUICK] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[ELET]-[QUICK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10.47 TVL: $1,956.32
+ELET Price: $0.03
+QUICK Price: $715.79
+Staked: 124.7196 UNI-V2 ($1,306.25)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [ELET]-[QUICK] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [ELET]-[QUICK] Uni LP
+Unstake 0.000000 [ELET]-[QUICK] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[QUICK]-[DMT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $657.64 TVL: $157.11
+QUICK Price: $715.79
+DMT Price: $137.96
+Staked: 0.2336 UNI-V2 ($153.60)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [QUICK]-[DMT] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [QUICK]-[DMT] Uni LP
+Unstake 0.000000 [QUICK]-[DMT] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+[QUICK]-[DSLA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.64 TVL: $194,222.49
+QUICK Price: $715.79
+DSLA Price: $0.008020
+Staked: 18.6478 UNI-V2 ($105.25)
+QUICK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [QUICK]-[DSLA] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [QUICK]-[DSLA] Uni LP
+Unstake 0.000000 [QUICK]-[DSLA] Uni LP
+Claim 0.000000 QUICK ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $660,527,927.00

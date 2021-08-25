@@ -1,0 +1,19 @@
+INFO  : https://bingocash.fi
+****************************************************************************************
+
+Mon Aug 23 2021 14:05:01 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 3 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+Total Staked: $0.00

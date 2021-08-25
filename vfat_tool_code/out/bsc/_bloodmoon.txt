@@ -1,0 +1,605 @@
+INFO  : https://bloodmoon.werewolf.farm
+*****************************************************************************************
+
+Mon Aug 23 2021 09:15:43 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 36 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[BLOODMOON]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.07 TVL: $345.19
+BLOODMOON Price: $0.000723
+BUSD Price: $1.00
+Staked: 4159.2896 Cake-LP ($298.52)
+BLOODMOON Per Week: 26964.26 ($19.50)
+APR: Day 0.93% Week 6.53% Year 339.74%
+You are staking 0.00 [BLOODMOON]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BLOODMOON]-[BUSD] Cake LP
+Unstake 0.00 [BLOODMOON]-[BUSD] Cake LP
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[BLOODMOON]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.41 TVL: $1,330.84
+BLOODMOON Price: $0.000723
+WBNB Price: $484.10
+Staked: 68.6715 Cake-LP ($96.99)
+BLOODMOON Per Week: 20223.20 ($14.63)
+APR: Day 2.15% Week 15.08% Year 784.25%
+You are staking 0.00 [BLOODMOON]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BLOODMOON]-[WBNB] Cake LP
+Unstake 0.00 [BLOODMOON]-[WBNB] Cake LP
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[Cake]-[BLOODMOON] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.34 TVL: $81.85
+Cake Price: $25.01
+BLOODMOON Price: $0.000723
+Staked: 206.0894 Cake-LP ($69.23)
+BLOODMOON Per Week: 20223.20 ($14.63)
+APR: Day 3.02% Week 21.13% Year 1098.77%
+You are staking 0.00 [Cake]-[BLOODMOON] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BLOODMOON] Cake LP
+Unstake 0.00 [Cake]-[BLOODMOON] Cake LP
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[BLOODMOON]-[WEREWOLF] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $42.42
+BLOODMOON Price: $0.000723
+WEREWOLF Price: $0.006161
+Staked: 8760.4726 Cake-LP ($41.99)
+BLOODMOON Per Week: 13482.13 ($9.75)
+APR: Day 3.32% Week 23.22% Year 1207.61%
+You are staking 0.00 [BLOODMOON]-[WEREWOLF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BLOODMOON]-[WEREWOLF] Cake LP
+Unstake 0.00 [BLOODMOON]-[WEREWOLF] Cake LP
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WEREWOLF]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.19 TVL: $403.00
+WEREWOLF Price: $0.006161
+BUSD Price: $1.00
+Staked: 1201.2728 Cake-LP ($223.93)
+BLOODMOON Per Week: 5055.80 ($3.66)
+APR: Day 0.23% Week 1.63% Year 84.92%
+You are staking 0.00 [WEREWOLF]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WEREWOLF]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [WEREWOLF]-[BUSD] Cake LP
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WEREWOLF]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.00 TVL: $1,405.40
+WEREWOLF Price: $0.006161
+WBNB Price: $484.10
+Staked: 6.5750 Cake-LP ($26.30)
+BLOODMOON Per Week: 6741.07 ($4.88)
+APR: Day 2.65% Week 18.54% Year 964.16%
+You are staking 0.00 [WEREWOLF]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WEREWOLF]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [WEREWOLF]-[WBNB] Cake LP
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.73 TVL: $527,295,144.25
+WBNB Price: $484.10
+BUSD Price: $1.00
+Staked: 0.6807 Cake-LP ($33.85)
+BLOODMOON Per Week: 3370.53 ($2.44)
+APR: Day 1.03% Week 7.20% Year 374.56%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,212.93 TVL: $173,725,009.11
+BTCB Price: $49,954.00
+WBNB Price: $484.10
+Staked: 0.3840 Cake-LP ($3,921.83)
+BLOODMOON Per Week: 2106.58 ($1.52)
+APR: Day 0.01% Week 0.04% Year 2.02%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,652.05 TVL: $261,786,236.91
+ETH Price: $3,330.52
+WBNB Price: $484.10
+Staked: 1.5300 Cake-LP ($4,057.58)
+BLOODMOON Per Week: 2106.58 ($1.52)
+APR: Day 0.01% Week 0.04% Year 1.95%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[Cake]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $13.40 TVL: $66,391,250.08
+Cake Price: $25.01
+BUSD Price: $1.00
+Staked: 0.8024 Cake-LP ($10.75)
+BLOODMOON Per Week: 1895.92 ($1.37)
+APR: Day 1.82% Week 12.75% Year 663.10%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 2.99%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $225.00 TVL: $1,029,798,936.08
+Cake Price: $25.01
+WBNB Price: $484.10
+Staked: 0.0404 Cake-LP ($9.10)
+BLOODMOON Per Week: 1263.95 ($0.91)
+APR: Day 1.44% Week 10.05% Year 522.54%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $240.48 TVL: $82,685,491.69
+DOT Price: $28.02
+WBNB Price: $484.10
+Staked: 0.0597 Cake-LP ($14.36)
+BLOODMOON Per Week: 1263.95 ($0.91)
+APR: Day 0.91% Week 6.37% Year 331.03%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,336,213.55
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 123.1767 Cake-LP ($252.06)
+BLOODMOON Per Week: 1263.95 ($0.91)
+APR: Day 0.05% Week 0.36% Year 18.86%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,903,620.57
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 737.8188 Cake-LP ($1,518.07)
+BLOODMOON Per Week: 1895.92 ($1.37)
+APR: Day 0.01% Week 0.09% Year 4.70%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 2.99%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,312,249.01
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 797.2992 Cake-LP ($1,622.52)
+BLOODMOON Per Week: 1263.95 ($0.91)
+APR: Day 0.01% Week 0.06% Year 2.93%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[SAFEMOON]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $458.65 TVL: $17,775.26
+SAFEMOON Price: $0.0000020394
+BUSD Price: $1.00
+Staked: 0.0141 Cake-LP ($6.46)
+BLOODMOON Per Week: 1895.92 ($1.37)
+APR: Day 3.03% Week 21.24% Year 1104.67%
+You are staking 0.00 [SAFEMOON]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SAFEMOON]-[BUSD] Cake LP - Fee 2.99%
+Unstake 0.00 [SAFEMOON]-[BUSD] Cake LP
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[SAFEMOON]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $21,362.45 TVL: $66,650,385.59
+SAFEMOON Price: $0.0000020394
+WBNB Price: $484.10
+Staked: 0.0029 Cake-LP ($61.48)
+BLOODMOON Per Week: 1263.95 ($0.91)
+APR: Day 0.21% Week 1.49% Year 77.33%
+You are staking 0.00 [SAFEMOON]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SAFEMOON]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [SAFEMOON]-[WBNB] Cake LP
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[DOGE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,777,238.05 TVL: $26,121,565.10
+DOGE Price: $0.33
+WBNB Price: $484.10
+Staked: 0.0000 Cake-LP ($28.82)
+BLOODMOON Per Week: 1263.95 ($0.91)
+APR: Day 0.45% Week 3.17% Year 164.97%
+You are staking 0.00 [DOGE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOGE]-[WBNB] Cake LP
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+BLOODMOON
+ Price: $0.000723 Market Cap: $3,137.41 
+[%]
+Staked: 1621119.5602 BLOODMOON ($1,172.58)
+BLOODMOON Per Week: 13482.13 ($9.75)
+APR: Day 0.12% Week 0.83% Year 43.25%
+You are staking 0.00 BLOODMOON ($0.00), 0.00% of the pool.
+Stake 0.00 BLOODMOON
+Unstake 0.00 BLOODMOON
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.3136 BTCB ($15,664.23)
+BLOODMOON Per Week: 2527.90 ($1.83)
+APR: Day 0.00% Week 0.01% Year 0.61%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 2.99%
+Unstake 0.00 BTCB
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+WBNB
+ Price: $484.10 Market Cap: $3,425,432,581.44 
+[%]
+Staked: 0.1621 WBNB ($78.50)
+BLOODMOON Per Week: 1685.27 ($1.22)
+APR: Day 0.22% Week 1.55% Year 80.75%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+ETH
+ Price: $3,330.52 Market Cap: $4,346,328,600.00 
+[%]
+Staked: 3.6752 ETH ($12,240.29)
+BLOODMOON Per Week: 1685.27 ($1.22)
+APR: Day 0.00% Week 0.01% Year 0.52%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+DOT
+ Price: $28.02 Market Cap: $392,279,999.86 
+[%]
+Staked: 230.8763 DOT ($6,469.15)
+BLOODMOON Per Week: 1263.95 ($0.91)
+APR: Day 0.00% Week 0.01% Year 0.73%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+Cake
+ Price: $25.01 Market Cap: $10,407,413,379.88 
+[%]
+Staked: 0.6219 Cake ($15.55)
+BLOODMOON Per Week: 1895.92 ($1.37)
+APR: Day 1.26% Week 8.82% Year 458.49%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 2.99%
+Unstake 0.00 Cake
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+BUSD
+ Price: $1.00 Market Cap: $4,194,786,121.88 
+[%]
+Staked: 1988.9212 BUSD ($1,985.98)
+BLOODMOON Per Week: 1263.95 ($0.91)
+APR: Day 0.01% Week 0.05% Year 2.39%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 241.1065 USDT ($241.06)
+BLOODMOON Per Week: 1263.95 ($0.91)
+APR: Day 0.05% Week 0.38% Year 19.72%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 3411.8098 DAI ($3,411.81)
+BLOODMOON Per Week: 1895.92 ($1.37)
+APR: Day 0.01% Week 0.04% Year 2.09%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 2.99%
+Unstake 0.00 DAI
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,035,984.00 
+[%]
+Staked: 4115.7445 USDC ($4,111.20)
+BLOODMOON Per Week: 1263.95 ($0.91)
+APR: Day 0.00% Week 0.02% Year 1.16%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+DOGE
+ Price: $0.33 Market Cap: $650,236,000.00 
+[%]
+Staked: 206.4952 DOGE ($67.14)
+BLOODMOON Per Week: 1263.95 ($0.91)
+APR: Day 0.19% Week 1.36% Year 70.81%
+You are staking 0.00 DOGE ($0.00), 0.00% of the pool.
+Stake 0.00 DOGE - Fee 2.99%
+Unstake 0.00 DOGE
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+ADA
+ Price: $2.82 Market Cap: $789,600,000.00 
+[%]
+Staked: 7.2396 ADA ($20.42)
+BLOODMOON Per Week: 842.63 ($0.61)
+APR: Day 0.43% Week 2.99% Year 155.24%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+XRP
+ Price: $1.29 Market Cap: $279,930,000.00 
+[%]
+Staked: 20.9731 XRP ($27.06)
+BLOODMOON Per Week: 842.63 ($0.61)
+APR: Day 0.32% Week 2.25% Year 117.14%
+You are staking 0.00 XRP ($0.00), 0.00% of the pool.
+Stake 0.00 XRP - Fee 4%
+Unstake 0.00 XRP
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+[YOLO]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.74 TVL: $257.28
+YOLO Price: $0.0000000004
+BUSD Price: $1.00
+Staked: 107.4583 Cake-LP ($186.45)
+BLOODMOON Per Week: 2106.58 ($1.52)
+APR: Day 0.12% Week 0.82% Year 42.50%
+You are staking 0.00 [YOLO]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [YOLO]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [YOLO]-[BUSD] Cake LP
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+[DAI]-[USDT] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.42 TVL: $213,848.76
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 797.6785 Cake-LP ($1,931.14)
+BLOODMOON Per Week: 16852.66 ($12.19)
+APR: Day 0.09% Week 0.63% Year 32.82%
+You are staking 0.00 [DAI]-[USDT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDT] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[USDT] Cake LP
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+33 - 
+[DAI]-[USDC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $7,786.17
+DAI Price: $1.00
+USDC Price: $1.00
+Staked: 935.2675 Cake-LP ($1,925.75)
+BLOODMOON Per Week: 16852.66 ($12.19)
+APR: Day 0.09% Week 0.63% Year 32.92%
+You are staking 0.00 [DAI]-[USDC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDC] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[USDC] Cake LP
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+34 - 
+[USDT]-[USDC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $122,626,256.40
+USDT Price: $1.00
+USDC Price: $1.00
+Staked: 1024.9307 Cake-LP ($2,115.53)
+BLOODMOON Per Week: 16852.66 ($12.19)
+APR: Day 0.08% Week 0.58% Year 29.96%
+You are staking 0.00 [USDT]-[USDC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] Cake LP - Fee 2.99%
+Unstake 0.00 [USDT]-[USDC] Cake LP
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+35 - 
+LINK
+ Price: $28.71 Market Cap: $246,906,000.00 
+[%]
+Staked: 0.0069 LINK ($0.20)
+BLOODMOON Per Week: 4213.17 ($3.05)
+APR: Day 220.34% Week 1542.38% Year 80203.93%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK
+Unstake 0.00 LINK
+Claim 0.00 BLOODMOON ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $63,957.86

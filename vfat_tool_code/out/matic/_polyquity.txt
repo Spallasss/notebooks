@@ -1,0 +1,54 @@
+INFO  : https://app.polyquity.org
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:56:45 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+[USDC]-[PYQ] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $807,855.85 TVL: $1,377,611.74
+USDC Price: $1.00
+PYQ Price: $0.11
+Staked: 1.6984 SLP ($1,372,032.19)
+PYQ Per Week: 767123.29 ($87,183.29)
+APR: Day 0.91% Week 6.35% Year 330.42%
+You are staking 0.000000 [USDC]-[PYQ] SLP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [USDC]-[PYQ] SLP
+Unstake 0.000000 [USDC]-[PYQ] SLP
+Claim 0.000000 PYQ ($0.00)
+Revoke (set approval to 0)
+Exit
+[USDC]-[PUSD] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,080,803.36 TVL: $3,126,655.88
+USDC Price: $1.00
+PUSD Price: $1.03
+Staked: 0.1542 SLP ($320,790.17)
+PYQ Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [USDC]-[PUSD] SLP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [USDC]-[PUSD] SLP
+Unstake 0.000000 [USDC]-[PUSD] SLP
+Claim 0.000000 PYQ ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $1,692,822.37

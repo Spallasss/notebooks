@@ -1,0 +1,35 @@
+INFO  : https://cyclone.xyz/eth
+*************************************************************************
+
+Mon Aug 23 2021 15:44:05 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+[CYC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,225.65 TVL: $2,009,269.06
+CYC Price: $744.01
+WETH Price: $3,326.01
+Staked: 620.6680 UNI-V2 ($2,002,056.26)
+CYC Per Week: 134.82 ($100,305.89)
+APR: Day 0.72% Week 5.01% Year 260.53%
+You are staking 0.00 [CYC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CYC]-[WETH] Uni LP
+Unstake 0.00 [CYC]-[WETH] Uni LP
+Claim 0.00 CYC ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $2,002,056.26

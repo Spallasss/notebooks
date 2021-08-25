@@ -1,0 +1,277 @@
+INFO  : https://venus.cosmos.farm
+****************************************************************************************
+
+Mon Aug 23 2021 09:21:53 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 19 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[VENUS]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.24 TVL: $537.61
+VENUS Price: $0.008511
+BUSD Price: $1.00
+Staked: 2223.4097 Cake-LP ($528.08)
+VENUS Per Week: 1504.48 ($12.80)
+APR: Day 0.35% Week 2.42% Year 126.08%
+You are staking 0.00 [VENUS]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VENUS]-[BUSD] Cake LP
+Unstake 0.00 [VENUS]-[BUSD] Cake LP
+Claim 0.00 VENUS ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[VENUS]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.61 TVL: $508.98
+VENUS Price: $0.008511
+WBNB Price: $486.60
+Staked: 80.5900 Cake-LP ($452.02)
+VENUS Per Week: 1805.37 ($15.37)
+APR: Day 0.49% Week 3.40% Year 176.76%
+You are staking 0.00 [VENUS]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VENUS]-[WBNB] Cake LP
+Unstake 0.00 [VENUS]-[WBNB] Cake LP
+Claim 0.00 VENUS ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.86 TVL: $528,181,707.02
+WBNB Price: $486.60
+BUSD Price: $1.00
+Staked: 41.4814 Cake-LP ($2,068.30)
+VENUS Per Week: 421.25 ($3.59)
+APR: Day 0.02% Week 0.17% Year 9.01%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 VENUS ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+VENUS
+ Price: $0.008511 Market Cap: $3,593.26 
+[%]
+Staked: 227420.4678 VENUS ($1,935.51)
+VENUS Per Week: 992.96 ($8.45)
+APR: Day 0.06% Week 0.44% Year 22.70%
+You are staking 0.00 VENUS ($0.00), 0.00% of the pool.
+Stake 0.00 VENUS
+Unstake 0.00 VENUS
+Claim 0.00 VENUS ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+BUSD
+ Price: $1.00 Market Cap: $4,195,962,401.72 
+[%]
+Staked: 243.9828 BUSD ($243.69)
+VENUS Per Week: 300.90 ($2.56)
+APR: Day 0.15% Week 1.05% Year 54.64%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 VENUS ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WBNB
+ Price: $486.60 Market Cap: $3,439,023,026.37 
+[%]
+Staked: 10.8313 WBNB ($5,270.53)
+VENUS Per Week: 300.90 ($2.56)
+APR: Day 0.01% Week 0.05% Year 2.53%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 VENUS ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 3431.2308 USDT ($3,430.57)
+VENUS Per Week: 300.90 ($2.56)
+APR: Day 0.01% Week 0.07% Year 3.88%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 VENUS ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+BTCB
+ Price: $49,844.00 Market Cap: $4,261,711,844.00 
+[%]
+Staked: 0.0988 BTCB ($4,924.19)
+VENUS Per Week: 300.90 ($2.56)
+APR: Day 0.01% Week 0.05% Year 2.70%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 VENUS ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+ETH
+ Price: $3,332.93 Market Cap: $4,349,473,650.00 
+[%]
+Staked: 2.5603 ETH ($8,533.34)
+VENUS Per Week: 300.90 ($2.56)
+APR: Day 0.00% Week 0.03% Year 1.56%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 VENUS ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 1958.8744 DAI ($1,958.87)
+VENUS Per Week: 300.90 ($2.56)
+APR: Day 0.02% Week 0.13% Year 6.80%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 VENUS ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,777,827.00 
+[%]
+Staked: 1070.9696 USDC ($1,070.23)
+VENUS Per Week: 300.90 ($2.56)
+APR: Day 0.03% Week 0.24% Year 12.44%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 VENUS ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+DOT
+ Price: $28.12 Market Cap: $393,679,999.86 
+[%]
+Staked: 51.9626 DOT ($1,461.19)
+VENUS Per Week: 300.90 ($2.56)
+APR: Day 0.03% Week 0.18% Year 9.11%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 VENUS ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+LINK
+ Price: $28.72 Market Cap: $246,992,000.00 
+[%]
+Staked: 11.0448 LINK ($317.21)
+VENUS Per Week: 300.90 ($2.56)
+APR: Day 0.12% Week 0.81% Year 41.98%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 VENUS ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+Cake
+ Price: $25.10 Market Cap: $10,444,920,467.78 
+[%]
+Staked: 22.6951 Cake ($569.65)
+VENUS Per Week: 300.90 ($2.56)
+APR: Day 0.06% Week 0.45% Year 23.38%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 VENUS ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,210,222.14
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 51.1157 Cake-LP ($104.61)
+VENUS Per Week: 421.25 ($3.59)
+APR: Day 0.49% Week 3.43% Year 178.21%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 VENUS ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,659.86 TVL: $262,558,799.29
+ETH Price: $3,332.93
+WBNB Price: $486.60
+Staked: 0.0222 Cake-LP ($59.02)
+VENUS Per Week: 421.25 ($3.59)
+APR: Day 0.87% Week 6.07% Year 315.86%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 VENUS ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[VENUS]-[MARS] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $586.86
+VENUS Price: $0.008511
+MARS Price: $0.001257
+Staked: 67974.8812 Cake-LP ($586.07)
+VENUS Per Week: 1203.58 ($10.24)
+APR: Day 0.25% Week 1.75% Year 90.89%
+You are staking 0.00 [VENUS]-[MARS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VENUS]-[MARS] Cake LP
+Unstake 0.00 [VENUS]-[MARS] Cake LP
+Claim 0.00 VENUS ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+MARS
+ Price: $0.001257 Market Cap: $8,540.98 
+[%]
+Staked: 1046657.0351 MARS ($1,315.57)
+VENUS Per Week: 300.90 ($2.56)
+APR: Day 0.03% Week 0.19% Year 10.12%
+You are staking 0.00 MARS ($0.00), 0.00% of the pool.
+Stake 0.00 MARS
+Unstake 0.00 MARS
+Claim 0.00 VENUS ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $34,828.65

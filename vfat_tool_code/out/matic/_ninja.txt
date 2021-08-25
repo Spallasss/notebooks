@@ -1,0 +1,154 @@
+INFO  : https://0xpolygon.ninja
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:58:43 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 9 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+NINJA
+ Price: $0.00 Market Cap: $0.00 
+Staked: 17.1254 NINJA ($0.00)
+NINJA Per Week: 389.19 ($423.53)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 NINJA ($0.00), NaN% of the pool.
+Stake 0.00 NINJA
+Unstake 0.00 NINJA
+Claim 0.00 NINJA ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[USDC]-[NINJA] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,097,155.03 TVL: $5,249.36
+USDC Price: $1.00
+NINJA Price: $1.09
+Staked: 0.0000 UNI-V2 ($0.44)
+NINJA Per Week: 194.59 ($211.76)
+APR: Day 6802.63% Week 47618.40% Year 2476156.88%
+You are staking 0.00 [USDC]-[NINJA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[NINJA] Uni LP
+Unstake 0.00 [USDC]-[NINJA] Uni LP
+Claim 0.00 NINJA ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,604,188.98 TVL: $33,315,368.00
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.28)
+NINJA Per Week: 19.46 ($21.18)
+APR: Day 1083.43% Week 7584.00% Year 394368.01%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 NINJA ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WBTC
+ Price: $50,005.00 Market Cap: $696,762,531.00 
+[%]
+Staked: 0.0000 WBTC ($0.00)
+NINJA Per Week: 19.46 ($21.18)
+APR: Day 86425.39% Week 604977.75% Year 31458843.26%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 NINJA ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WBTC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,289,342,024,650.13 TVL: $97,609,402.45
+WBTC Price: $50,005.00
+WETH Price: $3,320.72
+Staked: 0.0000 UNI-V2 ($0.00)
+NINJA Per Week: 19.46 ($21.18)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBTC]-[WETH] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBTC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WBTC]-[WETH] Uni LP
+Claim 0.00 NINJA ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[USDC]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,563,853,553,731.98 TVL: $34,034,762.24
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+NINJA Per Week: 19.46 ($21.18)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 NINJA ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WETH
+ Price: $3,320.72 Market Cap: $2,024,529,011.09 
+[%]
+Staked: 0.0000 WETH ($0.00)
+NINJA Per Week: 19.46 ($21.18)
+APR: Day 31147215.44% Week 218030508.06% Year 11337586419.27%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 NINJA ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+USDT
+ Price: $1.00 Market Cap: $314,970,871.22 
+[%]
+Staked: 0.0000 USDT ($0.00)
+NINJA Per Week: 19.46 ($21.18)
+APR: Day 30280982.38% Week 211966876.67% Year 11022277586.94%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 NINJA ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+USDC
+ Price: $1.00 Market Cap: $1,042,582,314.93 
+[%]
+Staked: 0.0000 USDC ($0.00)
+NINJA Per Week: 19.46 ($21.18)
+APR: Day 302888044.02% Week 2120216308.17% Year 110251248024.69%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 NINJA ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $0.73

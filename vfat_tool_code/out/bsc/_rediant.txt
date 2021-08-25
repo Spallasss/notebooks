@@ -1,0 +1,196 @@
+INFO  : https://rediant.finance
+************************************************************************************
+
+Mon Aug 23 2021 09:19:23 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 13 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[RDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.43 TVL: $1,348.79
+RDT Price: $0.02
+BUSD Price: $1.00
+Staked: 3047.4711 Cake-LP ($1,305.51)
+RDT Per Week: 59165.22 ($1,199.66)
+APR: Day 13.13% Week 91.89% Year 4778.41%
+You are staking 0.00 [RDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RDT]-[BUSD] Cake LP
+Unstake 0.00 [RDT]-[BUSD] Cake LP
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[RDT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7.25 TVL: $3,402.01
+RDT Price: $0.02
+WBNB Price: $486.45
+Staked: 141.0759 Cake-LP ($1,022.85)
+RDT Per Week: 46017.39 ($933.07)
+APR: Day 13.03% Week 91.22% Year 4743.56%
+You are staking 0.00 [RDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RDT]-[WBNB] Cake LP
+Unstake 0.00 [RDT]-[WBNB] Cake LP
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+RDT
+ Price: $0.02 Market Cap: $26,175.02 
+[%]
+Staked: 966349.1151 RDT ($19,594.14)
+RDT Per Week: 7888.70 ($159.95)
+APR: Day 0.12% Week 0.82% Year 42.45%
+You are staking 0.00 RDT ($0.00), 0.00% of the pool.
+Stake 0.00 RDT
+Unstake 0.00 RDT
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+BUSD
+ Price: $1.00 Market Cap: $4,195,202,020.82 
+[%]
+Staked: 153.1970 BUSD ($152.99)
+RDT Per Week: 3944.35 ($79.98)
+APR: Day 7.47% Week 52.28% Year 2718.44%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WBNB
+ Price: $486.45 Market Cap: $3,438,169,690.18 
+[%]
+Staked: 7.2865 WBNB ($3,544.54)
+RDT Per Week: 6573.91 ($133.30)
+APR: Day 0.54% Week 3.76% Year 195.55%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+ETH
+ Price: $3,331.96 Market Cap: $4,348,207,800.00 
+[%]
+Staked: 0.4139 ETH ($1,379.20)
+RDT Per Week: 4601.74 ($93.31)
+APR: Day 0.97% Week 6.77% Year 351.80%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.0011 BTCB ($54.49)
+RDT Per Week: 4601.74 ($93.31)
+APR: Day 24.46% Week 171.23% Year 8904.17%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 413.0349 DAI ($413.03)
+RDT Per Week: 2629.57 ($53.32)
+APR: Day 1.84% Week 12.91% Year 671.26%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,398,900.00 
+[%]
+Staked: 468.6618 USDC ($468.24)
+RDT Per Week: 2629.57 ($53.32)
+APR: Day 1.63% Week 11.39% Year 592.12%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 220.8319 USDT ($220.79)
+RDT Per Week: 2629.57 ($53.32)
+APR: Day 3.45% Week 24.15% Year 1255.75%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+Cake
+ Price: $25.10 Market Cap: $10,444,896,986.06 
+[%]
+Staked: 4.8051 Cake ($120.61)
+RDT Per Week: 3286.96 ($66.65)
+APR: Day 7.89% Week 55.26% Year 2873.49%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+DOT
+ Price: $28.10 Market Cap: $393,399,999.86 
+[%]
+Staked: 2.0307 DOT ($57.06)
+RDT Per Week: 2629.57 ($53.32)
+APR: Day 13.35% Week 93.44% Year 4858.71%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.85 TVL: $528,049,817.21
+WBNB Price: $486.45
+BUSD Price: $1.00
+Staked: 34.7923 Cake-LP ($1,734.34)
+RDT Per Week: 4601.74 ($93.31)
+APR: Day 0.77% Week 5.38% Year 279.76%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 RDT ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $30,067.79

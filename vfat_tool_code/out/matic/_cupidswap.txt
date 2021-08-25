@@ -1,0 +1,185 @@
+INFO  : https://www.cupidswap.com
+**************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:16:23 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 12 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[CUPID] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6,476.74 TVL: $2.06
+USDC Price: $1.00
+CUPID Price: $0.0000092414
+Staked: 0.0001 UNI-V2 ($0.69)
+CUPID Per Week: 60000.00 ($0.55)
+APR: Day 11.55% Week 80.82% Year 4202.80%
+You are staking 0.00 [USDC]-[CUPID] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[CUPID] Uni LP
+Unstake 0.00 [USDC]-[CUPID] Uni LP
+Claim 0.00 CUPID ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[CUPID] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $5.43
+WMATIC Price: $1.64
+CUPID Price: $0.0000092414
+Staked: 405.2672 UNI-V2 ($3.35)
+CUPID Per Week: 60000.00 ($0.55)
+APR: Day 2.36% Week 16.54% Year 859.92%
+You are staking 0.00 [WMATIC]-[CUPID] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[CUPID] Uni LP
+Unstake 0.00 [WMATIC]-[CUPID] Uni LP
+Claim 0.00 CUPID ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,600,305.50 TVL: $33,286,110.69
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($2.24)
+CUPID Per Week: 12000.00 ($0.11)
+APR: Day 0.71% Week 4.96% Year 257.89%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 2.99%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 CUPID ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+CUPID
+ Price: $0.0000092414 Market Cap: $12.30 
+[%]
+Staked: 557872.3282 CUPID ($5.16)
+CUPID Per Week: 60000.00 ($0.55)
+APR: Day 1.54% Week 10.76% Year 559.27%
+You are staking 0.00 CUPID ($0.00), 0.00% of the pool.
+Stake 0.00 CUPID
+Unstake 0.00 CUPID
+Claim 0.00 CUPID ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WMATIC
+ Price: $1.64 Market Cap: $601,972,405.23 
+[%]
+Staked: 19.7094 WMATIC ($32.32)
+CUPID Per Week: 12000.00 ($0.11)
+APR: Day 0.05% Week 0.34% Year 17.84%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 2.99%
+Unstake 0.00 WMATIC
+Claim 0.00 CUPID ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+QUICK
+ Price: $726.72 Market Cap: $695,664,838.95 
+[%]
+Staked: 0.0008 QUICK ($0.61)
+CUPID Per Week: 12000.00 ($0.11)
+APR: Day 2.58% Week 18.08% Year 940.41%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 2.99%
+Unstake 0.00 QUICK
+Claim 0.00 CUPID ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WETH
+ Price: $3,319.22 Market Cap: $2,027,366,623.58 
+[%]
+Staked: 0.0004 WETH ($1.47)
+CUPID Per Week: 12000.00 ($0.11)
+APR: Day 1.08% Week 7.54% Year 392.16%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 2.99%
+Unstake 0.00 WETH
+Claim 0.00 CUPID ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WBTC
+ Price: $50,001.00 Market Cap: $696,956,800.58 
+[%]
+Staked: 0.0000 WBTC ($0.39)
+CUPID Per Week: 12000.00 ($0.11)
+APR: Day 4.11% Week 28.77% Year 1495.85%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 2.99%
+Unstake 0.00 WBTC
+Claim 0.00 CUPID ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+AAVE
+ Price: $407.68 Market Cap: $155,193,413.76 
+[%]
+Staked: 0.3123 AAVE ($127.33)
+CUPID Per Week: 12000.00 ($0.11)
+APR: Day 0.01% Week 0.09% Year 4.53%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 2.99%
+Unstake 0.00 AAVE
+Claim 0.00 CUPID ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+DAI
+ Price: $1.00 Market Cap: $375,664,195.61 
+[%]
+Staked: 0.5183 DAI ($0.52)
+CUPID Per Week: 12000.00 ($0.11)
+APR: Day 3.06% Week 21.43% Year 1114.27%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 2.99%
+Unstake 0.00 DAI
+Claim 0.00 CUPID ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+USDT
+ Price: $1.00 Market Cap: $314,846,345.41 
+[%]
+Staked: 0.0010 USDT ($0.00)
+CUPID Per Week: 12000.00 ($0.11)
+APR: Day 1638.48% Week 11469.39% Year 596408.48%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 2.99%
+Unstake 0.00 USDT
+Claim 0.00 CUPID ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+USDC
+ Price: $1.00 Market Cap: $1,045,510,944.61 
+[%]
+Staked: 0.0000 USDC ($0.00)
+CUPID Per Week: 12000.00 ($0.11)
+APR: Day 1588779.62% Week 11121457.32% Year 578315780.51%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 2.99%
+Unstake 0.00 USDC
+Claim 0.00 CUPID ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $174.07

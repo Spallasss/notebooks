@@ -1,7 +1,7 @@
 INFO  : https://ftm.borgswap.exchange
 *************************************************************************************
 
-Tue Jul 13 2021 23:53:17 GMT+0530 (India Standard Time)
+Mon Aug 23 2021 13:17:27 GMT+0530 (India Standard Time)
 [CHANGE WALLET]
  -=- 
 [CLEAR BROWSER STORAGE]
@@ -24,12 +24,12 @@ Finished reading smart contracts.
 [-]
  
 [<=>]
- Price: $25.05 TVL: $235.89
+ Price: $20.48 TVL: $217.32
 DAI Price: $1.00
-SON Price: $108.18
-Staked: 9.3456 HLP ($234.08)
-SON Per Week: 0.22 ($24.17)
-APR: Day 1.47% Week 10.32% Year 536.88%
+SON Price: $71.44
+Staked: 10.5319 HLP ($215.74)
+SON Per Week: 0.22 ($15.96)
+APR: Day 1.06% Week 7.40% Year 384.70%
 You are staking 0.00 [DAI]-[SON] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [DAI]-[SON] Uni LP
 Unstake 0.00 [DAI]-[SON] Uni LP
@@ -43,12 +43,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $24,717,067.28 TVL: $617.18
+ Price: $20,141,213.13 TVL: $477.58
 USDC Price: $1.00
-SON Price: $108.18
-Staked: 0.0000 HLP ($470.75)
-SON Per Week: 0.22 ($24.17)
-APR: Day 0.73% Week 5.13% Year 266.96%
+SON Price: $71.44
+Staked: 0.0000 HLP ($357.73)
+SON Per Week: 0.22 ($15.96)
+APR: Day 0.64% Week 4.46% Year 232.00%
 You are staking 0.00 [USDC]-[SON] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [USDC]-[SON] Uni LP
 Unstake 0.00 [USDC]-[SON] Uni LP
@@ -62,12 +62,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $12.16 TVL: $497.45
-WFTM Price: $0.22
-SON Price: $108.18
-Staked: 37.3725 HLP ($454.63)
-SON Per Week: 0.35 ($37.98)
-APR: Day 1.19% Week 8.35% Year 434.38%
+ Price: $15.82 TVL: $434.10
+WFTM Price: $0.56
+SON Price: $71.44
+Staked: 23.8965 HLP ($378.11)
+SON Per Week: 0.35 ($25.08)
+APR: Day 0.95% Week 6.63% Year 344.93%
 You are staking 0.00 [WFTM]-[SON] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WFTM]-[SON] Uni LP
 Unstake 0.00 [WFTM]-[SON] Uni LP
@@ -81,12 +81,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $407,980,687.81 TVL: $782.97
-BTC Price: $30,592.37
-SON Price: $108.18
-Staked: 0.0000 HLP ($766.35)
-SON Per Week: 0.47 ($50.64)
-APR: Day 0.94% Week 6.61% Year 343.59%
+ Price: $413,437,871.51 TVL: $771.89
+BTC Price: $47,521.70
+SON Price: $71.44
+Staked: 0.0000 HLP ($754.93)
+SON Per Week: 0.47 ($33.44)
+APR: Day 0.63% Week 4.43% Year 230.34%
 You are staking 0.00 [BTC]-[SON] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [BTC]-[SON] Uni LP
 Unstake 0.00 [BTC]-[SON] Uni LP
@@ -100,12 +100,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $1,019.02 TVL: $177.67
-ETH Price: $1,985.74
-SON Price: $108.18
-Staked: 0.1736 HLP ($176.94)
-SON Per Week: 0.33 ($35.68)
-APR: Day 2.88% Week 20.16% Year 1048.48%
+ Price: $1,086.24 TVL: $175.97
+ETH Price: $3,319.36
+SON Price: $71.44
+Staked: 0.1613 HLP ($175.16)
+SON Per Week: 0.33 ($23.56)
+APR: Day 1.92% Week 13.45% Year 699.45%
 You are staking 0.00 [ETH]-[SON] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [ETH]-[SON] Uni LP
 Unstake 0.00 [ETH]-[SON] Uni LP
@@ -119,12 +119,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $583,929.33 TVL: $136.90
-BORGDAI Price: $0.86
-SON Price: $108.18
-Staked: 0.0001 HLP ($80.56)
-SON Per Week: 0.15 ($16.11)
-APR: Day 2.86% Week 20.00% Year 1039.97%
+ Price: $454,951.01 TVL: $148.95
+BORGDAI Price: $0.98
+SON Price: $71.44
+Staked: 0.0002 HLP ($105.05)
+SON Per Week: 0.15 ($10.64)
+APR: Day 1.45% Week 10.13% Year 526.71%
 You are staking 0.00 [BORGDAI]-[SON] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [BORGDAI]-[SON] Uni LP
 Unstake 0.00 [BORGDAI]-[SON] Uni LP
@@ -138,12 +138,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $315,963.80 TVL: $257.98
-SON Price: $108.18
-BORG Price: $0.02
-Staked: 0.0008 HLP ($250.54)
-SON Per Week: 0.15 ($16.11)
-APR: Day 0.92% Week 6.43% Year 334.40%
+ Price: $345,208.74 TVL: $225.85
+SON Price: $71.44
+BORG Price: $0.03
+Staked: 0.0006 HLP ($217.68)
+SON Per Week: 0.15 ($10.64)
+APR: Day 0.70% Week 4.89% Year 254.18%
 You are staking 0.00 [SON]-[BORG] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [SON]-[BORG] Uni LP
 Unstake 0.00 [SON]-[BORG] Uni LP
@@ -157,12 +157,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $9.63 TVL: $61.09
-SON Price: $108.18
-AURORA Price: $0.14
-Staked: 6.2772 HLP ($60.46)
-SON Per Week: 0.15 ($16.11)
-APR: Day 3.81% Week 26.65% Year 1385.62%
+ Price: $7.23 TVL: $45.84
+SON Price: $71.44
+AURORA Price: $0.12
+Staked: 5.4479 HLP ($39.37)
+SON Per Week: 0.15 ($10.64)
+APR: Day 3.86% Week 27.02% Year 1405.24%
 You are staking 0.00 [SON]-[AURORA] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [SON]-[AURORA] Uni LP
 Unstake 0.00 [SON]-[AURORA] Uni LP
@@ -170,10 +170,10 @@ Claim 0.00 SON ($0.00)
 Staking or unstaking also claims rewards.
 8 - 
 SON
- Price: $108.18 Market Cap: $7,982.22 
-Staked: 40.4566 SON ($4,376.52)
-SON Per Week: 0.94 ($101.27)
-APR: Day 0.33% Week 2.31% Year 120.33%
+ Price: $71.44 Market Cap: $7,856.14 
+Staked: 60.5205 SON ($4,323.72)
+SON Per Week: 0.94 ($66.88)
+APR: Day 0.22% Week 1.55% Year 80.44%
 You are staking 0.00 SON ($0.00), 0.00% of the pool.
 Stake 0.00 SON
 Unstake 0.00 SON
@@ -187,12 +187,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $0.99 TVL: $82,721.63
-WFTM Price: $0.22
+ Price: $1.60 TVL: $72,819.39
+WFTM Price: $0.56
 DAI Price: $1.00
-Staked: 89.7410 HLP ($89.17)
-SON Per Week: 0.03 ($3.45)
-APR: Day 0.55% Week 3.87% Year 201.32%
+Staked: 5.1135 HLP ($8.16)
+SON Per Week: 0.03 ($2.28)
+APR: Day 3.99% Week 27.94% Year 1452.82%
 You are staking 0.00 [WFTM]-[DAI] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WFTM]-[DAI] Uni LP - Fee 3%
 Unstake 0.00 [WFTM]-[DAI] Uni LP
@@ -206,12 +206,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $1,033,725.73 TVL: $227,969.42
+ Price: $1,673,694.90 TVL: $204,096.86
 USDC Price: $1.00
-WFTM Price: $0.22
-Staked: 0.0000 HLP ($8.14)
-SON Per Week: 0.03 ($3.45)
-APR: Day 6.06% Week 42.43% Year 2206.13%
+WFTM Price: $0.56
+Staked: 0.0000 HLP ($12.87)
+SON Per Week: 0.03 ($2.28)
+APR: Day 2.53% Week 17.72% Year 921.28%
 You are staking 0.00 [USDC]-[WFTM] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [USDC]-[WFTM] Uni LP - Fee 3%
 Unstake 0.00 [USDC]-[WFTM] Uni LP
@@ -225,12 +225,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $16,869,632.68 TVL: $54,049.27
-WFTM Price: $0.22
-BTC Price: $30,592.37
-Staked: 0.0000 HLP ($694.90)
-SON Per Week: 0.03 ($3.45)
-APR: Day 0.07% Week 0.50% Year 25.84%
+ Price: $33,631,017.48 TVL: $39,075.40
+WFTM Price: $0.56
+BTC Price: $47,521.70
+Staked: 0.0000 HLP ($1,385.35)
+SON Per Week: 0.03 ($2.28)
+APR: Day 0.02% Week 0.16% Year 8.56%
 You are staking 0.00 [WFTM]-[BTC] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WFTM]-[BTC] Uni LP - Fee 3%
 Unstake 0.00 [WFTM]-[BTC] Uni LP
@@ -244,12 +244,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $42.92 TVL: $79,020.32
-WFTM Price: $0.22
-ETH Price: $1,985.74
-Staked: 5.9330 HLP ($254.65)
-SON Per Week: 0.03 ($3.45)
-APR: Day 0.19% Week 1.36% Year 70.50%
+ Price: $88.86 TVL: $80,296.88
+WFTM Price: $0.56
+ETH Price: $3,319.36
+Staked: 5.9330 HLP ($527.21)
+SON Per Week: 0.03 ($2.28)
+APR: Day 0.06% Week 0.43% Year 22.49%
 You are staking 0.00 [WFTM]-[ETH] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WFTM]-[ETH] Uni LP - Fee 3%
 Unstake 0.00 [WFTM]-[ETH] Uni LP
@@ -263,12 +263,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $2,052,977.89 TVL: $366,577.80
+ Price: $2,060,745.52 TVL: $250,816.88
 USDC Price: $1.00
 DAI Price: $1.00
-Staked: 0.0000 HLP ($76.39)
-SON Per Week: 0.03 ($3.45)
-APR: Day 0.65% Week 4.52% Year 235.00%
+Staked: 0.0000 HLP ($77.65)
+SON Per Week: 0.03 ($2.28)
+APR: Day 0.42% Week 2.94% Year 152.68%
 You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [USDC]-[DAI] Uni LP - Fee 3%
 Unstake 0.00 [USDC]-[DAI] Uni LP
@@ -276,10 +276,10 @@ Claim 0.00 SON ($0.00)
 Staking or unstaking also claims rewards.
 14 - 
 WFTM
- Price: $0.22 Market Cap: $56,167,080.73 
-Staked: 3897.0658 WFTM ($867.46)
-SON Per Week: 0.03 ($3.45)
-APR: Day 0.06% Week 0.40% Year 20.70%
+ Price: $0.56 Market Cap: $121,076,973.02 
+Staked: 4063.5364 WFTM ($2,294.59)
+SON Per Week: 0.03 ($2.28)
+APR: Day 0.01% Week 0.10% Year 5.17%
 You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
 Stake 0.00 WFTM - Fee 7%
 Unstake 0.00 WFTM
@@ -287,10 +287,10 @@ Claim 0.00 SON ($0.00)
 Staking or unstaking also claims rewards.
 15 - 
 ETH
- Price: $1,985.74 Market Cap: $5,456,854.82 
-Staked: 0.3514 ETH ($697.77)
-SON Per Week: 0.03 ($3.45)
-APR: Day 0.07% Week 0.49% Year 25.73%
+ Price: $3,319.36 Market Cap: $15,105,052.08 
+Staked: 0.3547 ETH ($1,177.30)
+SON Per Week: 0.03 ($2.28)
+APR: Day 0.03% Week 0.19% Year 10.07%
 You are staking 0.00 ETH ($0.00), 0.00% of the pool.
 Stake 0.00 ETH - Fee 7%
 Unstake 0.00 ETH
@@ -298,10 +298,10 @@ Claim 0.00 SON ($0.00)
 Staking or unstaking also claims rewards.
 16 - 
 YFI
- Price: $33,483.00 Market Cap: $1,207,620.37 
-Staked: 0.0044 YFI ($146.65)
-SON Per Week: 0.03 ($3.45)
-APR: Day 0.34% Week 2.35% Year 122.42%
+ Price: $40,030.00 Market Cap: $3,391,048.16 
+Staked: 0.0044 YFI ($175.32)
+SON Per Week: 0.03 ($2.28)
+APR: Day 0.19% Week 1.30% Year 67.63%
 You are staking 0.00 YFI ($0.00), 0.00% of the pool.
 Stake 0.00 YFI - Fee 7%
 Unstake 0.00 YFI
@@ -309,10 +309,10 @@ Claim 0.00 SON ($0.00)
 Staking or unstaking also claims rewards.
 17 - 
 FUSD
- Price: $1.00 Market Cap: $24,701,898.67 
+ Price: $1.00 Market Cap: $23,903,762.10 
 Staked: 2390.2944 FUSD ($2,390.29)
-SON Per Week: 0.03 ($3.45)
-APR: Day 0.02% Week 0.14% Year 7.51%
+SON Per Week: 0.03 ($2.28)
+APR: Day 0.01% Week 0.10% Year 4.96%
 You are staking 0.00 FUSD ($0.00), 0.00% of the pool.
 Stake 0.00 FUSD - Fee 7%
 Unstake 0.00 FUSD
@@ -320,10 +320,10 @@ Claim 0.00 SON ($0.00)
 Staking or unstaking also claims rewards.
 19 - 
 ICE
- Price: $2.29 Market Cap: $8,350,856.43 
-Staked: 77.5745 ICE ($177.65)
-SON Per Week: 0.03 ($3.45)
-APR: Day 0.28% Week 1.94% Year 101.06%
+ Price: $1.82 Market Cap: $7,203,338.53 
+Staked: 30.5699 ICE ($55.64)
+SON Per Week: 0.03 ($2.28)
+APR: Day 0.59% Week 4.10% Year 213.10%
 You are staking 0.00 ICE ($0.00), 0.00% of the pool.
 Stake 0.00 ICE - Fee 7%
 Unstake 0.00 ICE
@@ -331,10 +331,10 @@ Claim 0.00 SON ($0.00)
 Staking or unstaking also claims rewards.
 20 - 
 LINK
- Price: $17.19 Market Cap: $1,401,720.01 
-Staked: 23.4151 LINK ($402.51)
-SON Per Week: 0.03 ($3.45)
-APR: Day 0.12% Week 0.86% Year 44.60%
+ Price: $28.70 Market Cap: $3,035,579.22 
+Staked: 23.4151 LINK ($672.01)
+SON Per Week: 0.03 ($2.28)
+APR: Day 0.05% Week 0.34% Year 17.64%
 You are staking 0.00 LINK ($0.00), 0.00% of the pool.
 Stake 0.00 LINK - Fee 7%
 Unstake 0.00 LINK
@@ -342,10 +342,10 @@ Claim 0.00 SON ($0.00)
 Staking or unstaking also claims rewards.
 21 - 
 CREAM
- Price: $0.001382 Market Cap: $6.24 
-Staked: 7.5799 CREAM ($0.01)
-SON Per Week: 0.03 ($3.45)
-APR: Day 4706.75% Week 32947.24% Year 1713256.72%
+ Price: $0.000843 Market Cap: $4.65 
+Staked: 4.8105 CREAM ($0.00)
+SON Per Week: 0.03 ($2.28)
+APR: Day 8029.64% Week 56207.46% Year 2922787.69%
 You are staking 0.00 CREAM ($0.00), 0.00% of the pool.
 Stake 0.00 CREAM - Fee 7%
 Unstake 0.00 CREAM
@@ -353,10 +353,10 @@ Claim 0.00 SON ($0.00)
 Staking or unstaking also claims rewards.
 22 - 
 DAI
- Price: $1.00 Market Cap: $51,232,166.32 
-Staked: 114.3740 DAI ($114.37)
-SON Per Week: 0.03 ($3.45)
-APR: Day 0.43% Week 3.02% Year 156.97%
+ Price: $1.00 Market Cap: $39,294,873.11 
+Staked: 114.3740 DAI ($114.25)
+SON Per Week: 0.03 ($2.28)
+APR: Day 0.29% Week 2.00% Year 103.77%
 You are staking 0.00 DAI ($0.00), 0.00% of the pool.
 Stake 0.00 DAI - Fee 7%
 Unstake 0.00 DAI
@@ -365,8 +365,8 @@ Staking or unstaking also claims rewards.
 23 - 
 OPE
  Price: $0.00 Market Cap: $0.00 
-Staked: 5.7316 OPE ($0.00)
-SON Per Week: 0.03 ($3.45)
+Staked: 9.8436 OPE ($0.00)
+SON Per Week: 0.03 ($2.28)
 APR: Day NaN% Week NaN% Year NaN%
 You are staking 0.00 OPE ($0.00), NaN% of the pool.
 Stake 0.00 OPE - Fee 7%
@@ -375,10 +375,10 @@ Claim 0.00 SON ($0.00)
 Staking or unstaking also claims rewards.
 24 - 
 AURORA
- Price: $0.14 Market Cap: $1,391,430.85 
-Staked: 9569.4296 AURORA ($1,373.21)
-SON Per Week: 0.03 ($3.45)
-APR: Day 0.04% Week 0.25% Year 13.07%
+ Price: $0.12 Market Cap: $1,139,835.35 
+Staked: 10112.9070 AURORA ($1,201.20)
+SON Per Week: 0.03 ($2.28)
+APR: Day 0.03% Week 0.19% Year 9.87%
 You are staking 0.00 AURORA ($0.00), 0.00% of the pool.
 Stake 0.00 AURORA - Fee 7%
 Unstake 0.00 AURORA
@@ -392,12 +392,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $4,658.02 TVL: $741.15
-YFI Price: $33,483.00
-SON Price: $108.18
-Staked: 0.1576 HLP ($734.02)
-SON Per Week: 0.82 ($88.61)
-APR: Day 1.72% Week 12.07% Year 627.77%
+ Price: $4,152.08 TVL: $652.71
+YFI Price: $40,030.00
+SON Price: $71.44
+Staked: 0.1557 HLP ($646.30)
+SON Per Week: 0.82 ($58.52)
+APR: Day 1.29% Week 9.05% Year 470.85%
 You are staking 0.00 [YFI]-[SON] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [YFI]-[SON] Uni LP
 Unstake 0.00 [YFI]-[SON] Uni LP
@@ -411,12 +411,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $13,608.17 TVL: $668.54
-WFTM Price: $0.22
-BORG Price: $0.02
-Staked: 0.0453 HLP ($616.93)
-SON Per Week: 0.12 ($12.66)
-APR: Day 0.29% Week 2.05% Year 106.70%
+ Price: $29,160.03 TVL: $1,293.25
+WFTM Price: $0.56
+BORG Price: $0.03
+Staked: 0.0406 HLP ($1,182.51)
+SON Per Week: 0.12 ($8.36)
+APR: Day 0.10% Week 0.71% Year 36.76%
 You are staking 0.00 [WFTM]-[BORG] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WFTM]-[BORG] Uni LP
 Unstake 0.00 [WFTM]-[BORG] Uni LP
@@ -430,12 +430,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $54,582.85 TVL: $394.54
-WFTM Price: $0.22
-BORGDAI Price: $0.86
-Staked: 0.0068 HLP ($369.42)
-SON Per Week: 0.12 ($12.66)
-APR: Day 0.49% Week 3.43% Year 178.19%
+ Price: $82,080.53 TVL: $593.30
+WFTM Price: $0.56
+BORGDAI Price: $0.98
+Staked: 0.0068 HLP ($555.53)
+SON Per Week: 0.12 ($8.36)
+APR: Day 0.21% Week 1.50% Year 78.26%
 You are staking 0.00 [WFTM]-[BORGDAI] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WFTM]-[BORGDAI] Uni LP
 Unstake 0.00 [WFTM]-[BORGDAI] Uni LP
@@ -443,10 +443,10 @@ Claim 0.00 SON ($0.00)
 Staking or unstaking also claims rewards.
 28 - 
 BOO
- Price: $3.37 Market Cap: $16,459,032.49 
-Staked: 83.4971 BOO ($281.39)
-SON Per Week: 0.03 ($3.45)
-APR: Day 0.18% Week 1.23% Year 63.80%
+ Price: $10.07 Market Cap: $59,317,065.50 
+Staked: 83.4971 BOO ($840.82)
+SON Per Week: 0.03 ($2.28)
+APR: Day 0.04% Week 0.27% Year 14.10%
 You are staking 0.00 BOO ($0.00), 0.00% of the pool.
 Stake 0.00 BOO - Fee 7%
 Unstake 0.00 BOO
@@ -454,11 +454,11 @@ Claim 0.00 SON ($0.00)
 Staking or unstaking also claims rewards.
 29 - 
 SPIRIT
- Price: $0.00 Market Cap: $0.00 
-Staked: 807.7385 SPIRIT ($0.00)
-SON Per Week: 0.03 ($3.45)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 SPIRIT ($0.00), NaN% of the pool.
+ Price: $0.06 Market Cap: $19,780,333.59 
+Staked: 944.8781 SPIRIT ($59.15)
+SON Per Week: 0.03 ($2.28)
+APR: Day 0.55% Week 3.85% Year 200.44%
+You are staking 0.00 SPIRIT ($0.00), 0.00% of the pool.
 Stake 0.00 SPIRIT - Fee 7%
 Unstake 0.00 SPIRIT
 Claim 0.00 SON ($0.00)
@@ -471,12 +471,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $25.97 TVL: $249.14
-SON Price: $108.18
+ Price: $20.27 TVL: $194.48
+SON Price: $71.44
 FUSD Price: $1.00
-Staked: 9.4413 HLP ($245.18)
-SON Per Week: 0.22 ($24.17)
-APR: Day 1.41% Week 9.86% Year 512.57%
+Staked: 9.4413 HLP ($191.39)
+SON Per Week: 0.22 ($15.96)
+APR: Day 1.19% Week 8.34% Year 433.64%
 You are staking 0.00 [SON]-[FUSD] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [SON]-[FUSD] Uni LP
 Unstake 0.00 [SON]-[FUSD] Uni LP
@@ -490,12 +490,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $1,757,026,354.88 TVL: $245.25
-ZOO Price: $0.005873
-SON Price: $108.18
-Staked: 0.0000 HLP ($238.81)
-SON Per Week: 0.15 ($16.11)
-APR: Day 0.96% Week 6.75% Year 350.82%
+ Price: $3,400,529,069.78 TVL: $474.66
+ZOO Price: $0.03
+SON Price: $71.44
+Staked: 0.0000 HLP ($462.19)
+SON Per Week: 0.15 ($10.64)
+APR: Day 0.33% Week 2.30% Year 119.71%
 You are staking 0.00 [ZOO]-[SON] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [ZOO]-[SON] Uni LP
 Unstake 0.00 [ZOO]-[SON] Uni LP
@@ -509,12 +509,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $23,043,214.54 TVL: $210.81
+ Price: $18,721,727.05 TVL: $146.34
 fUSDT Price: $1.00
-SON Price: $108.18
-Staked: 0.0000 HLP ($200.64)
-SON Per Week: 0.22 ($24.17)
-APR: Day 1.72% Week 12.05% Year 626.34%
+SON Price: $71.44
+Staked: 0.0000 HLP ($138.05)
+SON Per Week: 0.22 ($15.96)
+APR: Day 1.65% Week 11.56% Year 601.18%
 You are staking 0.00 [fUSDT]-[SON] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [fUSDT]-[SON] Uni LP
 Unstake 0.00 [fUSDT]-[SON] Uni LP
@@ -528,12 +528,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $36.71 TVL: $35.97
-SON Price: $108.18
-ICE Price: $2.29
-Staked: 0.9635 HLP ($35.37)
-SON Per Week: 0.15 ($16.11)
-APR: Day 6.51% Week 45.55% Year 2368.46%
+ Price: $27.57 TVL: $53.81
+SON Price: $71.44
+ICE Price: $1.82
+Staked: 1.9350 HLP ($53.34)
+SON Per Week: 0.15 ($10.64)
+APR: Day 2.85% Week 19.95% Year 1037.27%
 You are staking 0.00 [SON]-[ICE] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [SON]-[ICE] Uni LP
 Unstake 0.00 [SON]-[ICE] Uni LP
@@ -547,12 +547,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $41.27 TVL: $10.42
-SON Price: $108.18
-OPE Price: $2.87
-Staked: 0.2502 HLP ($10.33)
-SON Per Week: 0.15 ($16.11)
-APR: Day 22.29% Week 156.03% Year 8113.50%
+ Price: $48.77 TVL: $49.61
+SON Price: $71.44
+OPE Price: $5.42
+Staked: 1.0142 HLP ($49.47)
+SON Per Week: 0.15 ($10.64)
+APR: Day 3.07% Week 21.51% Year 1118.50%
 You are staking 0.00 [SON]-[OPE] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [SON]-[OPE] Uni LP
 Unstake 0.00 [SON]-[OPE] Uni LP
@@ -566,12 +566,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $8,034.42 TVL: $143.01
-BORGDAI Price: $0.86
-AURORA Price: $0.14
-Staked: 0.0110 HLP ($88.03)
-SON Per Week: 0.12 ($12.66)
-APR: Day 2.05% Week 14.38% Year 747.78%
+ Price: $7,030.84 TVL: $125.15
+BORGDAI Price: $0.98
+AURORA Price: $0.12
+Staked: 0.0110 HLP ($77.03)
+SON Per Week: 0.12 ($8.36)
+APR: Day 1.55% Week 10.85% Year 564.34%
 You are staking 0.00 [BORGDAI]-[AURORA] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [BORGDAI]-[AURORA] Uni LP
 Unstake 0.00 [BORGDAI]-[AURORA] Uni LP
@@ -585,12 +585,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $20,408.67 TVL: $615.25
-BORGDAI Price: $0.86
+ Price: $19,216.56 TVL: $579.31
+BORGDAI Price: $0.98
 DAI Price: $1.00
-Staked: 0.0201 HLP ($410.15)
-SON Per Week: 0.12 ($12.66)
-APR: Day 0.44% Week 3.09% Year 160.49%
+Staked: 0.0201 HLP ($386.20)
+SON Per Week: 0.12 ($8.36)
+APR: Day 0.31% Week 2.16% Year 112.57%
 You are staking 0.00 [BORGDAI]-[DAI] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [BORGDAI]-[DAI] Uni LP
 Unstake 0.00 [BORGDAI]-[DAI] Uni LP
@@ -604,12 +604,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $20,535,414,411.53 TVL: $1,579.54
+ Price: $19,346,489,733.57 TVL: $1,432.40
 fUSDT Price: $1.00
-BORGDAI Price: $0.86
-Staked: 0.0000 HLP ($1,051.11)
-SON Per Week: 0.12 ($12.66)
-APR: Day 0.17% Week 1.20% Year 62.63%
+BORGDAI Price: $0.98
+Staked: 0.0000 HLP ($990.26)
+SON Per Week: 0.12 ($8.36)
+APR: Day 0.12% Week 0.84% Year 43.90%
 You are staking 0.00 [fUSDT]-[BORGDAI] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [fUSDT]-[BORGDAI] Uni LP
 Unstake 0.00 [fUSDT]-[BORGDAI] Uni LP
@@ -619,7 +619,7 @@ Staking or unstaking also claims rewards.
 SNX
  Price: $0.00 Market Cap: $0.00 
 Staked: 16.9578 SNX ($0.00)
-SON Per Week: 0.03 ($3.45)
+SON Per Week: 0.03 ($2.28)
 APR: Day NaN% Week NaN% Year NaN%
 You are staking 0.00 SNX ($0.00), NaN% of the pool.
 Stake 0.00 SNX - Fee 7%
@@ -634,12 +634,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $91.03 TVL: $189.94
-SON Price: $108.18
-LINK Price: $17.19
-Staked: 2.0820 HLP ($189.53)
-SON Per Week: 0.33 ($35.68)
-APR: Day 2.69% Week 18.82% Year 978.82%
+ Price: $95.71 TVL: $183.87
+SON Price: $71.44
+LINK Price: $28.70
+Staked: 1.9155 HLP ($183.33)
+SON Per Week: 0.33 ($23.56)
+APR: Day 1.84% Week 12.85% Year 668.28%
 You are staking 0.00 [SON]-[LINK] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [SON]-[LINK] Uni LP
 Unstake 0.00 [SON]-[LINK] Uni LP
@@ -653,12 +653,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $137.56 TVL: $288.76
-CREAM Price: $0.001382
-SON Price: $108.18
-Staked: 2.0836 HLP ($286.63)
-SON Per Week: 0.22 ($24.17)
-APR: Day 1.20% Week 8.43% Year 438.44%
+ Price: $116.91 TVL: $232.45
+CREAM Price: $0.000843
+SON Price: $71.44
+Staked: 1.9725 HLP ($230.60)
+SON Per Week: 0.22 ($15.96)
+APR: Day 0.99% Week 6.92% Year 359.90%
 You are staking 0.00 [CREAM]-[SON] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [CREAM]-[SON] Uni LP
 Unstake 0.00 [CREAM]-[SON] Uni LP
@@ -672,12 +672,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $60.17 TVL: $59.50
-SON Price: $108.18
-SUSHI Price: $7.21
-Staked: 0.9833 HLP ($59.16)
-SON Per Week: 0.22 ($24.17)
-APR: Day 5.84% Week 40.85% Year 2124.21%
+ Price: $69.14 TVL: $101.09
+SON Price: $71.44
+SUSHI Price: $13.81
+Staked: 1.4562 HLP ($100.68)
+SON Per Week: 0.22 ($15.96)
+APR: Day 2.26% Week 15.85% Year 824.37%
 You are staking 0.00 [SON]-[SUSHI] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [SON]-[SUSHI] Uni LP
 Unstake 0.00 [SON]-[SUSHI] Uni LP
@@ -691,12 +691,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $0.29 TVL: $11.24
-SON Price: $108.18
-UBI Price: $0.000135
-Staked: 36.1403 HLP ($10.64)
-SON Per Week: 0.07 ($8.06)
-APR: Day 10.82% Week 75.71% Year 3936.67%
+ Price: $0.26 TVL: $33.06
+SON Price: $71.44
+UBI Price: $0.000140
+Staked: 127.2022 HLP ($32.54)
+SON Per Week: 0.07 ($5.32)
+APR: Day 2.34% Week 16.35% Year 850.16%
 You are staking 0.00 [SON]-[UBI] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [SON]-[UBI] Uni LP
 Unstake 0.00 [SON]-[UBI] Uni LP
@@ -710,12 +710,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $10,887.13 TVL: $24.74
-AURORA Price: $0.14
-BORG Price: $0.02
-Staked: 0.0020 HLP ($22.19)
-SON Per Week: 0.12 ($12.66)
-APR: Day 8.15% Week 57.06% Year 2966.94%
+ Price: $13,868.36 TVL: $63.13
+AURORA Price: $0.12
+BORG Price: $0.03
+Staked: 0.0043 HLP ($59.88)
+SON Per Week: 0.12 ($8.36)
+APR: Day 1.99% Week 13.96% Year 726.03%
 You are staking 0.00 [AURORA]-[BORG] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [AURORA]-[BORG] Uni LP
 Unstake 0.00 [AURORA]-[BORG] Uni LP
@@ -723,10 +723,10 @@ Claim 0.00 SON ($0.00)
 Staking or unstaking also claims rewards.
 44 - 
 SUSHI
- Price: $7.21 Market Cap: $1,682,276.67 
-Staked: 18.5751 SUSHI ($133.93)
-SON Per Week: 0.03 ($3.45)
-APR: Day 0.37% Week 2.58% Year 134.05%
+ Price: $13.81 Market Cap: $2,794,193.64 
+Staked: 18.5751 SUSHI ($256.52)
+SON Per Week: 0.03 ($2.28)
+APR: Day 0.13% Week 0.89% Year 46.22%
 You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
 Stake 0.00 SUSHI - Fee 7%
 Unstake 0.00 SUSHI
@@ -740,12 +740,12 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $0.40 TVL: $498,146.13
-WFTM Price: $0.22
-AURORA Price: $0.14
-Staked: 151.7884 HLP ($61.07)
-SON Per Week: 0.03 ($3.45)
-APR: Day 0.81% Week 5.65% Year 293.97%
+ Price: $0.59 TVL: $466,399.32
+WFTM Price: $0.56
+AURORA Price: $0.12
+Staked: 151.2836 HLP ($89.25)
+SON Per Week: 0.03 ($2.28)
+APR: Day 0.36% Week 2.55% Year 132.84%
 You are staking 0.00 [WFTM]-[AURORA] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [WFTM]-[AURORA] Uni LP - Fee 3%
 Unstake 0.00 [WFTM]-[AURORA] Uni LP
@@ -759,15 +759,15 @@ Staking or unstaking also claims rewards.
 [-]
  
 [<=>]
- Price: $5.34 TVL: $56.70
+ Price: $4.68 TVL: $58.00
 ORI Price: $0.03
-SON Price: $108.18
-Staked: 10.5987 HLP ($56.60)
-SON Per Week: 0.12 ($12.66)
-APR: Day 3.20% Week 22.37% Year 1163.01%
+SON Price: $71.44
+Staked: 12.3732 HLP ($57.89)
+SON Per Week: 0.12 ($8.36)
+APR: Day 2.06% Week 14.44% Year 750.93%
 You are staking 0.00 [ORI]-[SON] Uni LP ($0.00), 0.00% of the pool.
 Stake 0.00 [ORI]-[SON] Uni LP
 Unstake 0.00 [ORI]-[SON] Uni LP
 Claim 0.00 SON ($0.00)
 Staking or unstaking also claims rewards.
-Total Staked: $19,265.15
+Total Staked: $23,302.29

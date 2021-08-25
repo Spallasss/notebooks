@@ -1,0 +1,88 @@
+INFO  : https://mors.finance
+*********************************************************************************
+
+Mon Aug 23 2021 14:13:07 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 4 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[BUSD]-[MORSE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.07 TVL: $19.90
+BUSD Price: $1.00
+MORSE Price: $0.001292
+Staked: 255.9451 Cake-LP ($19.14)
+MORSE Per Week: 3944.35 ($5.10)
+APR: Day 3.80% Week 26.63% Year 1384.95%
+You are staking 0.00 [BUSD]-[MORSE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[MORSE] Cake LP - Fee 1.5%
+Unstake 0.00 [BUSD]-[MORSE] Cake LP
+Claim 0.00 MORSE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WBNB]-[MORSE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.67 TVL: $38.20
+WBNB Price: $484.34
+MORSE Price: $0.001292
+Staked: 9.3787 Cake-LP ($15.69)
+MORSE Per Week: 3944.35 ($5.10)
+APR: Day 4.64% Week 32.48% Year 1689.19%
+You are staking 0.00 [WBNB]-[MORSE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[MORSE] Cake LP - Fee 1.5%
+Unstake 0.00 [WBNB]-[MORSE] Cake LP
+Claim 0.00 MORSE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.51 TVL: $3,329,012.61
+WBNB Price: $484.34
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+MORSE Per Week: 876.52 ($1.13)
+APR: Day 132568.61% Week 927980.28% Year 48254974.59%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 2.5%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 MORSE ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+MORSE
+ Price: $0.001292 Market Cap: $97.13 
+[%]
+Staked: 34095.2442 MORSE ($44.06)
+MORSE Per Week: 1314.78 ($1.70)
+APR: Day 0.55% Week 3.86% Year 200.52%
+You are staking 0.00 MORSE ($0.00), 0.00% of the pool.
+Stake 0.00 MORSE - Fee 1.5%
+Unstake 0.00 MORSE
+Claim 0.00 MORSE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $78.88

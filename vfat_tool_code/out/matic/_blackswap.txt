@@ -1,0 +1,427 @@
+INFO  : https://www.blackswap.finance
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:10:58 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 18 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[AURORA]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $307,922.58 TVL: $8,108.53
+AURORA Price: $0.02
+USDC Price: $1.00
+Staked: 0.0262 UNI-V2 ($8,055.18)
+AURORA Per Week: 12200.96 ($231.44)
+APR: Day 0.41% Week 2.87% Year 149.40%
+You are staking 0.00 [AURORA]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AURORA]-[USDC] Uni LP
+Unstake 0.00 [AURORA]-[USDC] Uni LP
+Claim 0.00 AURORA ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+AURORA
+ Price: $0.02 Market Cap: $48,449.57 
+[%]
+Staked: 600103.7951 AURORA ($11,383.28)
+AURORA Per Week: 6100.48 ($115.72)
+APR: Day 0.15% Week 1.02% Year 52.86%
+You are staking 0.00 AURORA ($0.00), 0.00% of the pool.
+Stake 0.00 AURORA - Fee 1%
+Unstake 0.00 AURORA
+Claim 0.00 AURORA ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+WMATIC
+ Price: $1.66 Market Cap: $609,055,138.41 
+[%]
+Staked: 32053.7233 WMATIC ($53,209.18)
+AURORA Per Week: 4880.38 ($92.58)
+APR: Day 0.02% Week 0.17% Year 9.05%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 2%
+Unstake 0.00 WMATIC
+Claim 0.00 AURORA ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+WBTC
+ Price: $50,241.00 Market Cap: $701,001,262.14 
+[%]
+Staked: 0.5991 WBTC ($30,099.96)
+AURORA Per Week: 1220.10 ($23.14)
+APR: Day 0.01% Week 0.08% Year 4.00%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 1%
+Unstake 0.00 WBTC
+Claim 0.00 AURORA ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WETH
+ Price: $3,335.26 Market Cap: $2,036,354,220.00 
+[%]
+Staked: 2.5286 WETH ($8,433.42)
+AURORA Per Week: 4880.38 ($92.58)
+APR: Day 0.16% Week 1.10% Year 57.08%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 1%
+Unstake 0.00 WETH
+Claim 0.00 AURORA ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+USDT
+ Price: $1.00 Market Cap: $314,853,423.03 
+[%]
+Staked: 5173.4880 USDT ($5,168.31)
+AURORA Per Week: 3660.29 ($69.43)
+APR: Day 0.19% Week 1.34% Year 69.86%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 1%
+Unstake 0.00 USDT
+Claim 0.00 AURORA ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+USDC
+ Price: $1.00 Market Cap: $1,045,956,725.05 
+[%]
+Staked: 7627.8360 USDC ($7,611.08)
+AURORA Per Week: 3660.29 ($69.43)
+APR: Day 0.13% Week 0.91% Year 47.44%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 1%
+Unstake 0.00 USDC
+Claim 0.00 AURORA ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+DAI
+ Price: $1.00 Market Cap: $376,285,421.53 
+[%]
+Staked: 5647.6871 DAI ($5,647.69)
+AURORA Per Week: 2440.19 ($46.29)
+APR: Day 0.12% Week 0.82% Year 42.62%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 1%
+Unstake 0.00 DAI
+Claim 0.00 AURORA ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[AURORA]-[WMATIC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.38 TVL: $7,389.78
+AURORA Price: $0.02
+WMATIC Price: $1.66
+Staked: 13792.1431 UNI-V2 ($5,187.36)
+AURORA Per Week: 7320.57 ($138.86)
+APR: Day 0.38% Week 2.68% Year 139.20%
+You are staking 0.00 [AURORA]-[WMATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AURORA]-[WMATIC] Uni LP
+Unstake 0.00 [AURORA]-[WMATIC] Uni LP
+Claim 0.00 AURORA ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[AURORA]-[WMATIC] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.36 TVL: $8,252.11
+AURORA Price: $0.02
+WMATIC Price: $1.67
+Staked: 22756.3706 DFYNLP ($8,241.62)
+AURORA Per Week: 7320.57 ($138.86)
+APR: Day 0.24% Week 1.68% Year 87.61%
+You are staking 0.00 [AURORA]-[WMATIC] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AURORA]-[WMATIC] DFYN LP
+Unstake 0.00 [AURORA]-[WMATIC] DFYN LP
+Claim 0.00 AURORA ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[AURORA]-[USDC] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $288,577.72 TVL: $2,583.99
+AURORA Price: $0.02
+USDC Price: $1.00
+Staked: 0.0085 DFYNLP ($2,448.97)
+AURORA Per Week: 7320.57 ($138.86)
+APR: Day 0.81% Week 5.67% Year 294.85%
+You are staking 0.00 [AURORA]-[USDC] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AURORA]-[USDC] DFYN LP
+Unstake 0.00 [AURORA]-[USDC] DFYN LP
+Claim 0.00 AURORA ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[USDC]-[NEBULA] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $506,396.94 TVL: $3,109.07
+USDC Price: $1.00
+NEBULA Price: $0.06
+Staked: 0.0025 DFYNLP ($1,247.28)
+AURORA Per Week: 4880.38 ($92.58)
+APR: Day 1.06% Week 7.42% Year 385.95%
+You are staking 0.00 [USDC]-[NEBULA] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[NEBULA] DFYN LP - Fee 2%
+Unstake 0.00 [USDC]-[NEBULA] DFYN LP
+Claim 0.00 AURORA ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+IRON
+ Price: $0.00 Market Cap: $0.00 
+Staked: 6492.1979 IRON ($0.00)
+AURORA Per Week: 2440.19 ($46.29)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 IRON ($0.00), NaN% of the pool.
+Stake 0.00 IRON - Fee 2%
+Unstake 0.00 IRON
+Claim 0.00 AURORA ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[AURORA]-[WMATIC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.36 TVL: $1,462.53
+AURORA Price: $0.02
+WMATIC Price: $1.66
+Staked: 2168.5551 PolyZap-LP ($781.89)
+AURORA Per Week: 2440.19 ($46.29)
+APR: Day 0.85% Week 5.92% Year 307.84%
+You are staking 0.00 [AURORA]-[WMATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AURORA]-[WMATIC] Uni LP
+Unstake 0.00 [AURORA]-[WMATIC] Uni LP
+Claim 0.00 AURORA ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[WMATIC]-[PZAP] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.75 TVL: $121,924.23
+WMATIC Price: $1.66
+PZAP Price: $0.07
+Staked: 969.4134 PolyZap-LP ($722.54)
+AURORA Per Week: 2440.19 ($46.29)
+APR: Day 0.92% Week 6.41% Year 333.13%
+You are staking 0.00 [WMATIC]-[PZAP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PZAP] Uni LP - Fee 2%
+Unstake 0.00 [WMATIC]-[PZAP] Uni LP
+Claim 0.00 AURORA ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $148,237.74
+Found 13 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WMATIC]-[SOLAR] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.22 TVL: $11,509.23
+WMATIC Price: $1.66
+SOLAR Price: $0.004388
+Staked: 25171.3827 UNI-V2 ($5,420.57)
+SOLAR Per Week: 55384.62 ($243.00)
+APR: Day 0.64% Week 4.48% Year 233.12%
+You are staking 0.00 [WMATIC]-[SOLAR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[SOLAR] Uni LP
+Unstake 0.00 [WMATIC]-[SOLAR] Uni LP
+Claim 0.00 SOLAR ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+SOLAR
+ Price: $0.004388 Market Cap: $16,820.23 
+[%]
+Staked: 1424438.2650 SOLAR ($6,249.83)
+SOLAR Per Week: 33230.77 ($145.80)
+APR: Day 0.33% Week 2.33% Year 121.31%
+You are staking 0.00 SOLAR ($0.00), 0.00% of the pool.
+Stake 0.00 SOLAR
+Unstake 0.00 SOLAR
+Claim 0.00 SOLAR ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[AURORA]-[WMATIC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.38 TVL: $7,389.78
+AURORA Price: $0.02
+WMATIC Price: $1.66
+Staked: 5745.5003 UNI-V2 ($2,160.94)
+SOLAR Per Week: 27692.31 ($121.50)
+APR: Day 0.80% Week 5.62% Year 292.38%
+You are staking 0.00 [AURORA]-[WMATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AURORA]-[WMATIC] Uni LP
+Unstake 0.00 [AURORA]-[WMATIC] Uni LP
+Claim 0.00 SOLAR ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+NEBULA
+ Price: $0.06 Market Cap: $3,815.00 
+[%]
+Staked: 11942.7064 NEBULA ($746.91)
+SOLAR Per Week: 13292.31 ($58.32)
+APR: Day 1.12% Week 7.81% Year 406.03%
+You are staking 0.00 NEBULA ($0.00), 0.00% of the pool.
+Stake 0.00 NEBULA
+Unstake 0.00 NEBULA
+Claim 0.00 SOLAR ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WMATIC
+ Price: $1.66 Market Cap: $609,109,515.45 
+[%]
+Staked: 5442.0192 WMATIC ($9,033.75)
+SOLAR Per Week: 19938.46 ($87.48)
+APR: Day 0.14% Week 0.97% Year 50.36%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 2%
+Unstake 0.00 WMATIC
+Claim 0.00 SOLAR ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WBTC
+ Price: $50,241.00 Market Cap: $701,001,262.14 
+[%]
+Staked: 0.3979 WBTC ($19,989.58)
+SOLAR Per Week: 7753.85 ($34.02)
+APR: Day 0.02% Week 0.17% Year 8.85%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 2%
+Unstake 0.00 WBTC
+Claim 0.00 SOLAR ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WETH
+ Price: $3,335.26 Market Cap: $2,036,346,200.28 
+[%]
+Staked: 9.8995 WETH ($33,017.54)
+SOLAR Per Week: 11076.92 ($48.60)
+APR: Day 0.02% Week 0.15% Year 7.65%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 2%
+Unstake 0.00 WETH
+Claim 0.00 SOLAR ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+USDT
+ Price: $1.00 Market Cap: $314,853,423.03 
+[%]
+Staked: 24500.9059 USDT ($24,476.40)
+SOLAR Per Week: 11076.92 ($48.60)
+APR: Day 0.03% Week 0.20% Year 10.33%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 2%
+Unstake 0.00 USDT
+Claim 0.00 SOLAR ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+USDC
+ Price: $1.00 Market Cap: $1,045,956,725.05 
+[%]
+Staked: 10858.6672 USDC ($10,834.81)
+SOLAR Per Week: 11076.92 ($48.60)
+APR: Day 0.06% Week 0.45% Year 23.33%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 2%
+Unstake 0.00 USDC
+Claim 0.00 SOLAR ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+DAI
+ Price: $1.00 Market Cap: $376,285,421.53 
+[%]
+Staked: 10227.0489 DAI ($10,227.05)
+SOLAR Per Week: 8861.54 ($38.88)
+APR: Day 0.05% Week 0.38% Year 19.77%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 2%
+Unstake 0.00 DAI
+Claim 0.00 SOLAR ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[WMATIC]-[SOLAR] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.24 TVL: $2,896.64
+WMATIC Price: $1.67
+SOLAR Price: $0.004388
+Staked: 11598.3804 DFYNLP ($2,822.66)
+SOLAR Per Week: 55384.62 ($243.00)
+APR: Day 1.23% Week 8.61% Year 447.67%
+You are staking 0.00 [WMATIC]-[SOLAR] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[SOLAR] DFYN LP
+Unstake 0.00 [WMATIC]-[SOLAR] DFYN LP
+Claim 0.00 SOLAR ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[USDC]-[NEBULA] DFYN LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $506,396.94 TVL: $3,109.07
+USDC Price: $1.00
+NEBULA Price: $0.06
+Staked: 0.0035 DFYNLP ($1,760.67)
+SOLAR Per Week: 33230.77 ($145.80)
+APR: Day 1.18% Week 8.28% Year 430.61%
+You are staking 0.00 [USDC]-[NEBULA] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[NEBULA] DFYN LP - Fee 2%
+Unstake 0.00 [USDC]-[NEBULA] DFYN LP
+Claim 0.00 SOLAR ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $126,740.72

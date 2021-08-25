@@ -1,0 +1,248 @@
+INFO  : https://mushrooms.finance/farms
+******************************************************************************
+
+Mon Aug 23 2021 15:26:41 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 22 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+MM
+ Price: $4.02 Market Cap: $2,509,878.48 
+[%]
+Staked: 251128.6559 MM ($1,009,537.20)
+MM Per Week: 222.94 ($896.24)
+APR: Day 0.01% Week 0.09% Year 4.62%
+You are staking 0.00 MM ($0.00), 0.00% of the pool.
+Stake 0.00 MM
+Unstake 0.00 MM
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+1 - m3Crv Price: $1.08 TVL: $58,405.27
+Staked: 50783.0784 m3Crv ($55,000.19)
+MM Per Week: 22.29 ($89.62)
+APR: Day 0.02% Week 0.16% Year 8.47%
+You are staking 0.00 m3Crv ($0.00), 0.00% of the pool.
+Stake 0.00 m3Crv
+Unstake 0.00 m3Crv
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+UNI-V2
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.1060 UNI-V2 ($0.00)
+MM Per Week: 1070.13 ($4,301.93)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 UNI-V2 ($0.00), NaN% of the pool.
+Stake 0.00 UNI-V2
+Unstake 0.00 UNI-V2
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+3 - mcrvRenWBTC Price: $52,142.17 TVL: $54,796.93
+Staked: 1.0278 mcrvRenWBTC ($53,590.30)
+MM Per Week: 22.29 ($89.62)
+APR: Day 0.02% Week 0.17% Year 8.70%
+You are staking 0.00 mcrvRenWBTC ($0.00), 0.00% of the pool.
+Stake 0.00 mcrvRenWBTC
+Unstake 0.00 mcrvRenWBTC
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+4 - mDAI Price: $1.07 TVL: $113,067.25
+Staked: 97845.7597 mDAI ($105,181.48)
+MM Per Week: 44.59 ($179.25)
+APR: Day 0.02% Week 0.17% Year 8.86%
+You are staking 0.00 mDAI ($0.00), 0.00% of the pool.
+Stake 0.00 mDAI
+Unstake 0.00 mDAI
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+5 - mUSDC Price: $1.09 TVL: $122,314.61
+Staked: 103103.2879 mUSDC ($112,241.15)
+MM Per Week: 44.59 ($179.25)
+APR: Day 0.02% Week 0.16% Year 8.30%
+You are staking 0.00 mUSDC ($0.00), 0.00% of the pool.
+Stake 0.00 mUSDC
+Unstake 0.00 mUSDC
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+6 - Wrapped 
+[MIR]-[UST] Uni LP
+ Price: $8.39 TVL: $922,834.39
+Staked: 58425.6409 mUNI-V2 ($490,104.06)
+MM Per Week: 22.29 ($89.62)
+APR: Day 0.00% Week 0.02% Year 0.95%
+You are staking 0.00 mUNI-V2 ($0.00), 0.00% of the pool.
+Stake 0.00 mUNI-V2
+Unstake 0.00 mUNI-V2
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[MM]-[WETH] 1INCH LP
+ Price: $255.72 TVL: $391,025.10
+MM Price: $4.02
+WETH Price: $3,329.42
+Staked: 380.1236 SLP ($97,205.39)
+MM Per Week: 356.71 ($1,433.98)
+APR: Day 0.21% Week 1.48% Year 76.71%
+You are staking 0.00 [MM]-[WETH] 1INCH LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MM]-[WETH] 1INCH LP
+Unstake 0.00 [MM]-[WETH] 1INCH LP
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[KP3R]-[MM] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $58.14 TVL: $57,591.75
+KP3R Price: $190.52
+MM Price: $4.02
+Staked: 213.1134 SLP ($12,389.73)
+MM Per Week: 22.29 ($89.62)
+APR: Day 0.10% Week 0.72% Year 37.62%
+You are staking 0.00 [KP3R]-[MM] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [KP3R]-[MM] SLP
+Unstake 0.00 [KP3R]-[MM] SLP
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+9 - mWETH Price: $3,391.96 TVL: $720,983.05
+Staked: 197.3627 mWETH ($669,447.10)
+MM Per Week: 200.65 ($806.61)
+APR: Day 0.02% Week 0.12% Year 6.27%
+You are staking 0.00 mWETH ($0.00), 0.00% of the pool.
+Stake 0.00 mWETH
+Unstake 0.00 mWETH
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+10 - mUNI Price: $30.38 TVL: $222,121.30
+Staked: 6399.9780 mUNI ($194,445.04)
+MM Per Week: 44.59 ($179.25)
+APR: Day 0.01% Week 0.09% Year 4.79%
+You are staking 0.00 mUNI ($0.00), 0.00% of the pool.
+Stake 0.00 mUNI
+Unstake 0.00 mUNI
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+11 - mWBTC Price: $51,264.45 TVL: $1,610,896.04
+Staked: 29.9155 mWBTC ($1,533,600.47)
+MM Per Week: 222.94 ($896.24)
+APR: Day 0.01% Week 0.06% Year 3.04%
+You are staking 0.00 mWBTC ($0.00), 0.00% of the pool.
+Stake 0.00 mWBTC
+Unstake 0.00 mWBTC
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+12 - mLINK Price: $29.43 TVL: $264,053.36
+Staked: 8576.1072 mLINK ($252,434.65)
+MM Per Week: 44.59 ($179.25)
+APR: Day 0.01% Week 0.07% Year 3.69%
+You are staking 0.00 mLINK ($0.00), 0.00% of the pool.
+Stake 0.00 mLINK
+Unstake 0.00 mLINK
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+13 - mZRX Price: $1.16 TVL: $175,673.73
+Staked: 149397.7493 mZRX ($172,972.82)
+MM Per Week: 44.59 ($179.25)
+APR: Day 0.01% Week 0.10% Year 5.39%
+You are staking 0.00 mZRX ($0.00), 0.00% of the pool.
+Stake 0.00 mZRX
+Unstake 0.00 mZRX
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+14 - mALCX Price: $652.67 TVL: $336,646.00
+Staked: 153.2378 mALCX ($100,014.11)
+MM Per Week: 44.59 ($179.25)
+APR: Day 0.03% Week 0.18% Year 9.32%
+You are staking 0.00 mALCX ($0.00), 0.00% of the pool.
+Stake 0.00 mALCX
+Unstake 0.00 mALCX
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+15 - malUSD Price: $1.11 TVL: $164,571.02
+Staked: 128401.9612 malUSD ($142,528.46)
+MM Per Week: 44.59 ($179.25)
+APR: Day 0.02% Week 0.13% Year 6.54%
+You are staking 0.00 malUSD ($0.00), 0.00% of the pool.
+Stake 0.00 malUSD
+Unstake 0.00 malUSD
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+16 - musdp3CRV Price: $1.05 TVL: $57,677.39
+Staked: 52048.5995 musdp3CRV ($54,586.72)
+MM Per Week: 22.29 ($89.62)
+APR: Day 0.02% Week 0.16% Year 8.54%
+You are staking 0.00 musdp3CRV ($0.00), 0.00% of the pool.
+Stake 0.00 musdp3CRV
+Unstake 0.00 musdp3CRV
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+17 - mrenBTC Price: $50,856.72 TVL: $61,855.32
+Staked: 1.1381 mrenBTC ($57,881.41)
+MM Per Week: 44.59 ($179.25)
+APR: Day 0.04% Week 0.31% Year 16.10%
+You are staking 0.00 mrenBTC ($0.00), 0.00% of the pool.
+Stake 0.00 mrenBTC
+Unstake 0.00 mrenBTC
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[MM]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $18,416,692.17 TVL: $242,174.50
+MM Price: $4.02
+WETH Price: $3,329.42
+Staked: 0.0028 UNI-V2 ($50,974.27)
+MM Per Week: 245.24 ($985.86)
+APR: Day 0.28% Week 1.93% Year 100.57%
+You are staking 0.00 [MM]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MM]-[WETH] Uni LP
+Unstake 0.00 [MM]-[WETH] Uni LP
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+19 - myveCRV-DAO Price: $1.31 TVL: $14,681.75
+Staked: 8783.2705 myveCRV-DAO ($11,524.86)
+MM Per Week: 22.29 ($89.62)
+APR: Day 0.11% Week 0.78% Year 40.44%
+You are staking 0.00 myveCRV-DAO ($0.00), 0.00% of the pool.
+Stake 0.00 myveCRV-DAO
+Unstake 0.00 myveCRV-DAO
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+20 - mTUSD Price: $1.02 TVL: $16,617.10
+Staked: 15913.7187 mTUSD ($16,250.01)
+MM Per Week: 22.29 ($89.62)
+APR: Day 0.08% Week 0.55% Year 28.68%
+You are staking 0.00 mTUSD ($0.00), 0.00% of the pool.
+Stake 0.00 mTUSD
+Unstake 0.00 mTUSD
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+21 - mCVX Price: $8.70 TVL: $50,010.29
+Staked: 5671.5913 mCVX ($49,360.41)
+MM Per Week: 22.29 ($89.62)
+APR: Day 0.03% Week 0.18% Year 9.44%
+You are staking 0.00 mCVX ($0.00), 0.00% of the pool.
+Stake 0.00 mCVX
+Unstake 0.00 mCVX
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $5,241,269.81

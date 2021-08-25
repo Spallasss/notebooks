@@ -1,0 +1,298 @@
+INFO  : https://aliendefi.com
+********************************************************************************
+
+Mon Aug 23 2021 09:16:55 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 18 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[ALIEN]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.04 TVL: $27.85
+ALIEN Price: $0.000398
+BUSD Price: $1.00
+Staked: 132.0957 Cake-LP ($5.73)
+ALIEN Per Week: 38156.49 ($15.18)
+APR: Day 37.87% Week 265.10% Year 13785.11%
+You are staking 0.00 [ALIEN]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALIEN]-[BUSD] Cake LP
+Unstake 0.00 [ALIEN]-[BUSD] Cake LP
+Claim 0.00 ALIEN ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[ALIEN]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.97 TVL: $62.75
+ALIEN Price: $0.000398
+WBNB Price: $484.10
+Staked: 4.4150 Cake-LP ($4.28)
+ALIEN Per Week: 33386.93 ($13.28)
+APR: Day 44.35% Week 310.48% Year 16145.14%
+You are staking 0.00 [ALIEN]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALIEN]-[WBNB] Cake LP
+Unstake 0.00 [ALIEN]-[WBNB] Cake LP
+Claim 0.00 ALIEN ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.73 TVL: $527,443,133.40
+WBNB Price: $484.10
+BUSD Price: $1.00
+Staked: 0.0705 Cake-LP ($3.51)
+ALIEN Per Week: 5723.47 ($2.28)
+APR: Day 9.28% Week 64.94% Year 3377.02%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 ALIEN ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,212.99 TVL: $173,726,102.61
+BTCB Price: $49,954.00
+WBNB Price: $484.10
+Staked: 0.0000 Cake-LP ($0.01)
+ALIEN Per Week: 5723.47 ($2.28)
+APR: Day 3312.98% Week 23190.89% Year 1205926.27%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 ALIEN ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,652.09 TVL: $261,790,861.39
+ETH Price: $3,330.56
+WBNB Price: $484.10
+Staked: 0.0005 Cake-LP ($1.43)
+ALIEN Per Week: 5723.47 ($2.28)
+APR: Day 22.75% Week 159.23% Year 8280.00%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 ALIEN ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $240.52 TVL: $82,700,518.71
+DOT Price: $28.03
+WBNB Price: $484.10
+Staked: 0.0019 Cake-LP ($0.46)
+ALIEN Per Week: 5723.47 ($2.28)
+APR: Day 70.43% Week 493.04% Year 25638.14%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 ALIEN ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,345,753.83
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 1.8751 Cake-LP ($3.84)
+ALIEN Per Week: 5723.47 ($2.28)
+APR: Day 8.48% Week 59.34% Year 3085.56%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 ALIEN ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,312,127.03
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0945 Cake-LP ($0.19)
+ALIEN Per Week: 5723.47 ($2.28)
+APR: Day 169.08% Week 1183.56% Year 61545.24%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 ALIEN ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,902,671.83
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 4.7372 Cake-LP ($9.75)
+ALIEN Per Week: 5723.47 ($2.28)
+APR: Day 3.34% Week 23.36% Year 1214.74%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 ALIEN ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+ALIEN
+ Price: $0.000398 Market Cap: $182.17 
+[%]
+Staked: 248459.0119 ALIEN ($98.84)
+ALIEN Per Week: 38156.49 ($15.18)
+APR: Day 2.19% Week 15.36% Year 798.58%
+You are staking 0.00 ALIEN ($0.00), 0.00% of the pool.
+Stake 0.00 ALIEN
+Unstake 0.00 ALIEN
+Claim 0.00 ALIEN ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+BUSD
+ Price: $1.00 Market Cap: $4,194,773,518.89 
+[%]
+Staked: 112.6824 BUSD ($112.52)
+ALIEN Per Week: 5723.47 ($2.28)
+APR: Day 0.29% Week 2.02% Year 105.23%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 ALIEN ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+WBNB
+ Price: $484.10 Market Cap: $3,424,729,864.84 
+[%]
+Staked: 0.1532 WBNB ($74.16)
+ALIEN Per Week: 5723.47 ($2.28)
+APR: Day 0.44% Week 3.07% Year 159.66%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 ALIEN ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 16.0116 USDT ($16.01)
+ALIEN Per Week: 5723.47 ($2.28)
+APR: Day 2.03% Week 14.22% Year 739.60%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 ALIEN ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+ETH
+ Price: $3,330.56 Market Cap: $4,346,380,800.00 
+[%]
+Staked: 0.0005 ETH ($1.60)
+ALIEN Per Week: 5723.47 ($2.28)
+APR: Day 20.35% Week 142.42% Year 7406.07%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 ALIEN ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.0001 BTCB ($7.41)
+ALIEN Per Week: 5723.47 ($2.28)
+APR: Day 4.39% Week 30.73% Year 1598.02%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 ALIEN ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 0.9600 DAI ($0.96)
+ALIEN Per Week: 5723.47 ($2.28)
+APR: Day 33.88% Week 237.17% Year 12333.05%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 ALIEN ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,019,973.00 
+[%]
+Staked: 32.0193 USDC ($31.98)
+ALIEN Per Week: 5723.47 ($2.28)
+APR: Day 1.02% Week 7.12% Year 370.18%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 ALIEN ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+DOT
+ Price: $28.03 Market Cap: $392,419,999.86 
+[%]
+Staked: 0.0816 DOT ($2.29)
+ALIEN Per Week: 5723.47 ($2.28)
+APR: Day 14.22% Week 99.55% Year 5176.46%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 ALIEN ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $374.95

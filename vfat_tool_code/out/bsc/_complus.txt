@@ -1,0 +1,247 @@
+INFO  : https://bsc.complus.exchange
+************************************************************************************
+
+Mon Aug 23 2021 13:52:15 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 13 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDT]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $46.99 TVL: $4,572.58
+USDT Price: $1.00
+WBNB Price: $483.98
+Staked: 97.0636 COM-LP ($4,561.27)
+COM Per Week: 20160.00 ($74.21)
+APR: Day 0.23% Week 1.63% Year 84.60%
+You are staking 0.00 [USDT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Uni LP
+Unstake 0.00 [USDT]-[WBNB] Uni LP
+Claim 0.00 COM ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[DAI]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $45.37 TVL: $4,300.36
+DAI Price: $1.00
+WBNB Price: $483.98
+Staked: 94.7374 COM-LP ($4,297.83)
+COM Per Week: 20160.00 ($74.21)
+APR: Day 0.25% Week 1.73% Year 89.79%
+You are staking 0.00 [DAI]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[WBNB] Uni LP
+Unstake 0.00 [DAI]-[WBNB] Uni LP
+Claim 0.00 COM ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[USDC]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $45.39 TVL: $3,855.90
+USDC Price: $1.00
+WBNB Price: $483.98
+Staked: 84.8847 COM-LP ($3,852.82)
+COM Per Week: 20160.00 ($74.21)
+APR: Day 0.28% Week 1.93% Year 100.16%
+You are staking 0.00 [USDC]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WBNB] Uni LP
+Unstake 0.00 [USDC]-[WBNB] Uni LP
+Claim 0.00 COM ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[ETH]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,565.36 TVL: $4,716.69
+ETH Price: $3,324.39
+WBNB Price: $483.98
+Staked: 1.8383 COM-LP ($4,715.86)
+COM Per Week: 20160.00 ($74.21)
+APR: Day 0.22% Week 1.57% Year 81.83%
+You are staking 0.00 [ETH]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Uni LP
+Unstake 0.00 [ETH]-[WBNB] Uni LP
+Claim 0.00 COM ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BTCB]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9,979.56 TVL: $5,044.83
+BTCB Price: $50,221.00
+WBNB Price: $483.98
+Staked: 0.5052 COM-LP ($5,041.76)
+COM Per Week: 20160.00 ($74.21)
+APR: Day 0.21% Week 1.47% Year 76.54%
+You are staking 0.00 [BTCB]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Uni LP
+Unstake 0.00 [BTCB]-[WBNB] Uni LP
+Claim 0.00 COM ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[COM]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.87 TVL: $5,937.59
+COM Price: $0.003681
+WBNB Price: $483.98
+Staked: 2045.8505 COM-LP ($5,862.06)
+COM Per Week: 16128.00 ($59.37)
+APR: Day 0.14% Week 1.01% Year 52.66%
+You are staking 0.00 [COM]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COM]-[WBNB] Uni LP
+Unstake 0.00 [COM]-[WBNB] Uni LP
+Claim 0.00 COM ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[xCOM]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.10 TVL: $4,129.31
+xCOM Price: $0.004800
+WBNB Price: $483.98
+Staked: 1332.3448 COM-LP ($4,128.82)
+COM Per Week: 4032.00 ($14.84)
+APR: Day 0.05% Week 0.36% Year 18.69%
+You are staking 0.00 [xCOM]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [xCOM]-[WBNB] Uni LP
+Unstake 0.00 [xCOM]-[WBNB] Uni LP
+Claim 0.00 COM ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[COM+]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.79 TVL: $26,422.14
+COM+ Price: $0.003723
+WBNB Price: $483.98
+Staked: 8840.4029 COM-LP ($24,664.45)
+COM Per Week: 40320.00 ($148.42)
+APR: Day 0.09% Week 0.60% Year 31.29%
+You are staking 0.00 [COM+]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COM+]-[WBNB] Uni LP
+Unstake 0.00 [COM+]-[WBNB] Uni LP
+Claim 0.00 COM ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[COM+]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.13 TVL: $18,543.09
+COM+ Price: $0.003723
+USDT Price: $1.00
+Staked: 146174.2602 COM-LP ($18,524.40)
+COM Per Week: 80640.00 ($296.84)
+APR: Day 0.23% Week 1.60% Year 83.33%
+You are staking 0.00 [COM+]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COM+]-[USDT] Uni LP
+Unstake 0.00 [COM+]-[USDT] Uni LP
+Claim 0.00 COM ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[AVAX]-[COM+] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.38 TVL: $6,018.77
+AVAX Price: $9.25
+COM+ Price: $0.003723
+Staked: 15936.9091 COM-LP ($6,018.46)
+COM Per Week: 20160.00 ($74.21)
+APR: Day 0.18% Week 1.23% Year 64.12%
+You are staking 0.00 [AVAX]-[COM+] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AVAX]-[COM+] Uni LP
+Unstake 0.00 [AVAX]-[COM+] Uni LP
+Claim 0.00 COM ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[COM+]-[HT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.33 TVL: $5,012.34
+COM+ Price: $0.003723
+HT Price: $6.96
+Staked: 15395.2631 COM-LP ($5,011.51)
+COM Per Week: 20160.00 ($74.21)
+APR: Day 0.21% Week 1.48% Year 77.00%
+You are staking 0.00 [COM+]-[HT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COM+]-[HT] Uni LP
+Unstake 0.00 [COM+]-[HT] Uni LP
+Claim 0.00 COM ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[COM+]-[BNB+] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.97 TVL: $22,135.90
+COM+ Price: $0.003723
+BNB+ Price: $256.91
+Staked: 11133.0598 COM-LP ($21,883.11)
+COM Per Week: 120960.00 ($445.26)
+APR: Day 0.29% Week 2.03% Year 105.81%
+You are staking 0.00 [COM+]-[BNB+] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COM+]-[BNB+] Uni LP
+Unstake 0.00 [COM+]-[BNB+] Uni LP
+Claim 0.00 COM ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $108,562.36

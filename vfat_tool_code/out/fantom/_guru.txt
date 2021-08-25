@@ -1,0 +1,32 @@
+INFO  : https://ftm.guru
+*****************************************************************************
+
+Mon Aug 23 2021 13:22:47 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+[WFTM]-[ELITE] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $35.04 TVL: $35,961.20
+WFTM Price: $0.57
+ELITE Price: $382.44
+Staked: 838.5259 SLP ($29,380.92)
+ELITE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WFTM]-[ELITE] SLP $0.00 (0.00% of the pool).
+FTM Scan
+Stake 0.000000 [WFTM]-[ELITE] SLP
+Unstake 0.000000 [WFTM]-[ELITE] SLP
+Claim 0.000000 ELITE ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $29,380.92

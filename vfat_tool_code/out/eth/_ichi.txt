@@ -1,0 +1,217 @@
+INFO  : https://ichi.farm/
+***************************************************************************************
+
+Mon Aug 23 2021 15:25:45 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 20 pools.
+
+Finished reading smart contracts.
+
+[oneETH]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3,697,030.37 TVL: $442,601.90
+oneETH Price: $1.00
+WETH Price: $3,329.67
+Staked: 0.1196 ichiLP ($441,984.42)
+ICHI Per Week: 0.0000000000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.0000000000 undefined ($0.00), 0.00% of the pool.
+Stake 0.0000000000 undefined
+Unstake 0.0000000000 undefined
+Claim 0.0000000000 ICHI
+Staking or unstaking also claims rewards.
+
+
+[ICHI]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8,684,417.14 TVL: $4,607.28
+ICHI Price: $4.82
+WETH Price: $3,329.67
+Staked: 0.0003 ichiLP ($2,557.02)
+ICHI Per Week: 0.0000000000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.0000000000 undefined ($0.00), 0.00% of the pool.
+Stake 0.0000000000 undefined
+Unstake 0.0000000000 undefined
+Claim 0.0000000000 ICHI
+Staking or unstaking also claims rewards.
+
+
+[oneETH]-[ICHI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,485,458,709.02 TVL: $11,245.47
+oneETH Price: $1.00
+ICHI Price: $4.82
+Staked: 0.0000 ichiLP ($81.72)
+ICHI Per Week: 0.0000000000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.0000000000 undefined ($0.00), 0.00% of the pool.
+Stake 0.0000000000 undefined
+Unstake 0.0000000000 undefined
+Claim 0.0000000000 ICHI
+Staking or unstaking also claims rewards.
+
+
+[ICHI]-[oneBTC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,457,696,154.85 TVL: $180.66
+ICHI Price: $4.82
+oneBTC Price: $1.00
+Staked: 0.0000 ichiLP ($2.74)
+ICHI Per Week: 0.0000000000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.0000000000 undefined ($0.00), 0.00% of the pool.
+Stake 0.0000000000 undefined
+Unstake 0.0000000000 undefined
+Claim 0.0000000000 ICHI
+Staking or unstaking also claims rewards.
+
+
+[WBTC]-[oneBTC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,425,706,869,563.46 TVL: $22,098.00
+WBTC Price: $50,269.00
+oneBTC Price: $1.00
+Staked: 0.0000 ichiLP ($0.00)
+ICHI Per Week: 0.0000000000 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.0000000000 undefined ($0.00), NaN% of the pool.
+Stake 0.0000000000 undefined
+Unstake 0.0000000000 undefined
+Claim 0.0000000000 ICHI
+Staking or unstaking also claims rewards.
+
+
+[ICHI]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $43,683,368.59 TVL: $73,096.75
+ICHI Price: $4.82
+WETH Price: $3,329.67
+Staked: 0.0000 UNI-V2 ($0.68)
+ICHI Per Week: 0.0000000000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.0000000000 undefined ($0.00), 0.00% of the pool.
+Stake 0.0000000000 undefined
+Unstake 0.0000000000 undefined
+Claim 0.0000000000 ICHI
+Staking or unstaking also claims rewards.
+
+
+[oneLINK]-[LINK] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $371,666.08 TVL: $41.20
+oneLINK Price: $1.01
+LINK Price: $28.87
+Staked: 0.0000 ichiLP ($0.00)
+ICHI Per Week: 0.0000000000 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.0000000000 undefined ($0.00), NaN% of the pool.
+Stake 0.0000000000 undefined
+Unstake 0.0000000000 undefined
+Claim 0.0000000000 ICHI
+Staking or unstaking also claims rewards.
+
+
+[WBTC]-[oneBTC] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,426,655,859,583.91 TVL: $959,784.58
+WBTC Price: $50,269.00
+oneBTC Price: $1.00
+Staked: 0.0000 SLP ($958,451.18)
+ICHI Per Week: 313.6000000000 ($1,511.55)
+APR: Day 0.02% Week 0.16% Year 8.20%
+You are staking 0.0000000000 undefined ($0.00), 0.00% of the pool.
+Stake 0.0000000000 undefined
+Unstake 0.0000000000 undefined
+Claim 0.0000000000 ICHI
+Staking or unstaking also claims rewards.
+
+
+[oneLINK]-[LINK] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $353,457.84 TVL: $650.61
+oneLINK Price: $1.01
+LINK Price: $28.87
+Staked: 0.0000 SLP ($3.14)
+ICHI Per Week: 0.0000000000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.0000000000 undefined ($0.00), 0.00% of the pool.
+Stake 0.0000000000 undefined
+Unstake 0.0000000000 undefined
+Claim 0.0000000000 ICHI
+Staking or unstaking also claims rewards.
+
+
+[ICHI]-[WETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $8,248,144.51 TVL: $3,718,668.81
+ICHI Price: $4.82
+WETH Price: $3,329.67
+Staked: 0.0774 SLP ($638,289.52)
+ICHI Per Week: 0.0000000000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.0000000000 undefined ($0.00), 0.00% of the pool.
+Stake 0.0000000000 undefined
+Unstake 0.0000000000 undefined
+Claim 0.0000000000 ICHI
+Staking or unstaking also claims rewards.
+
+
+{}
+Oops something went wrong. Try refreshing the page.

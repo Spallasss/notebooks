@@ -1,0 +1,64 @@
+INFO  : https://mimo.capital/mining
+*************************************************************************
+
+Mon Aug 23 2021 15:42:31 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+[WETH 50%]-[PAR 50%]
+ BPT Price: $28.26 TVL: $6,438.41
+WETH Price: $3,326.41
+PAR Price: $1.18
+Staked: 227.8355 [WETH 50%]-[PAR 50%] ($6,438.41)
+MIMO Per Week: 5256133.05 ($164,871.28)
+APR: Day 365.82% Week 2560.74% Year 133158.72%
+You are staking 0.00 [WETH 50%]-[PAR 50%] ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH 50%]-[PAR 50%]
+Unstake 0.00 [WETH 50%]-[PAR 50%]
+Claim 0.00 MIMO ($0.00)
+[PAR 50%]-[USDC 50%]
+ BPT Price: $996.08 TVL: $2,160.35
+PAR Price: $1.18
+USDC Price: $1.00
+Staked: 2.1689 [PAR 50%]-[USDC 50%] ($2,160.35)
+MIMO Per Week: 5256133.05 ($164,871.28)
+APR: Day 1090.24% Week 7631.70% Year 396848.18%
+You are staking 0.00 [PAR 50%]-[USDC 50%] ($0.00), 0.00% of the pool.
+Stake 0.00 [PAR 50%]-[USDC 50%]
+Unstake 0.00 [PAR 50%]-[USDC 50%]
+Claim 0.00 MIMO ($0.00)
+WETH Pool
+PAR
+ Price: $1.18 Market Cap: $10,935,298.96 
+[%]
+Staked: 6121518.7146 PAR ($7,223,392.08)
+MIMO Per Week: 5256133.05 ($164,871.28)
+APR: Day 0.33% Week 2.28% Year 118.69%
+You are staking 0.00 PAR ($0.00), 0.00% of the pool.
+
+
+WBTC Pool
+PAR
+ Price: $1.18 Market Cap: $10,935,298.96 
+[%]
+Staked: 2078947.9254 PAR ($2,453,158.55)
+MIMO Per Week: 4204906.44 ($131,897.02)
+APR: Day 0.77% Week 5.38% Year 279.58%
+You are staking 0.00 PAR ($0.00), 0.00% of the pool.
+
+
+USDC Pool
+PAR
+ Price: $1.18 Market Cap: $10,935,298.96 
+[%]
+Staked: 969022.3463 PAR ($1,143,446.37)
+MIMO Per Week: 1051226.61 ($32,974.26)
+APR: Day 0.41% Week 2.88% Year 149.96%
+You are staking 0.00 PAR ($0.00), 0.00% of the pool.
+
+
+Total Staked: $7,231,990.84

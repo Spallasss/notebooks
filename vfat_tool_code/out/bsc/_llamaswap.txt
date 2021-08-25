@@ -1,0 +1,319 @@
+INFO  : https://llamaswap.finance
+****************************************************************************************
+
+Mon Aug 23 2021 14:09:41 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 18 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+LAMA
+ Price: $0.00 Market Cap: $0.00 
+Staked: 877349.6850 LAMA ($0.00)
+LAMA Per Week: 6904.11 ($650.10)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 LAMA ($0.00), NaN% of the pool.
+Stake 0.00 LAMA - Fee 345.57%
+Unstake 0.00 LAMA
+Claim 0.00 LAMA ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[LAMA]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.66 TVL: $60,882.27
+LAMA Price: $0.09
+BUSD Price: $1.00
+Staked: 80713.2421 Cake-LP ($53,050.66)
+LAMA Per Week: 27616.44 ($2,600.39)
+APR: Day 0.70% Week 4.90% Year 254.89%
+You are staking 0.00 [LAMA]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LAMA]-[BUSD] Cake LP - Fee 414.44%
+Unstake 0.00 [LAMA]-[BUSD] Cake LP
+Claim 0.00 LAMA ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[LAMA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $14.19 TVL: $41,513.22
+LAMA Price: $0.09
+WBNB Price: $485.10
+Staked: 2711.0396 Cake-LP ($38,479.15)
+LAMA Per Week: 16569.86 ($1,560.23)
+APR: Day 0.58% Week 4.05% Year 210.85%
+You are staking 0.00 [LAMA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LAMA]-[WBNB] Cake LP - Fee 245.96%
+Unstake 0.00 [LAMA]-[WBNB] Cake LP
+Claim 0.00 LAMA ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+Cake
+ Price: $25.00 Market Cap: $10,402,947,060.46 
+[%]
+Staked: 0.0000 Cake ($0.00)
+LAMA Per Week: 2071.23 ($195.03)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 Cake ($0.00), NaN% of the pool.
+Stake 0.00 Cake - Fee 231.26%
+Unstake 0.00 Cake
+Claim 0.00 LAMA ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $225.19 TVL: $1,030,669,946.88
+Cake Price: $25.00
+WBNB Price: $485.10
+Staked: 0.0000 Cake-LP ($0.00)
+LAMA Per Week: 3452.05 ($325.05)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 170.95%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 LAMA ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,654.40 TVL: $262,021,298.31
+ETH Price: $3,329.69
+WBNB Price: $485.10
+Staked: 0.0000 Cake-LP ($0.00)
+LAMA Per Week: 690.41 ($65.01)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 644.62%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 LAMA ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[USDT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $50.65 TVL: $252,124,414.26
+USDT Price: $1.00
+WBNB Price: $485.10
+Staked: 0.0000 Cake-LP ($0.00)
+LAMA Per Week: 2071.23 ($195.03)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP - Fee 113.32%
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 LAMA ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,334,123.59
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+LAMA Per Week: 1380.82 ($130.02)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 483.28%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 LAMA ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.80 TVL: $527,350,212.71
+WBNB Price: $485.10
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+LAMA Per Week: 2761.64 ($260.04)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 644.5%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 LAMA ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[YUMMY]-[LAMA] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $70.82 TVL: $3,767.09
+YUMMY Price: $0.0000097096
+LAMA Price: $0.09
+Staked: 51.1134 Cake-LP ($3,619.60)
+LAMA Per Week: 690.41 ($65.01)
+APR: Day 0.26% Week 1.80% Year 93.39%
+You are staking 0.00 [YUMMY]-[LAMA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [YUMMY]-[LAMA] Cake LP - Fee 133.26%
+Unstake 0.00 [YUMMY]-[LAMA] Cake LP
+Claim 0.00 LAMA ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[LAMA]-[CHAR] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $8,612.51
+LAMA Price: $0.09
+CHAR Price: $0.000965
+Staked: 419542.2573 Cake-LP ($8,582.71)
+LAMA Per Week: 690.41 ($65.01)
+APR: Day 0.11% Week 0.76% Year 39.39%
+You are staking 0.00 [LAMA]-[CHAR] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LAMA]-[CHAR] Cake LP - Fee 586.97%
+Unstake 0.00 [LAMA]-[CHAR] Cake LP
+Claim 0.00 LAMA ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[LAMA]-[DONI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.33 TVL: $1,981.52
+LAMA Price: $0.09
+DONI Price: $0.0000000002
+Staked: 6064.9187 Cake-LP ($1,975.32)
+LAMA Per Week: 690.41 ($65.01)
+APR: Day 0.47% Week 3.29% Year 171.14%
+You are staking 0.00 [LAMA]-[DONI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LAMA]-[DONI] Cake LP - Fee 175.3%
+Unstake 0.00 [LAMA]-[DONI] Cake LP
+Claim 0.00 LAMA ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[LAMA]-[WSAFE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,829.98 TVL: $8,700.27
+LAMA Price: $0.09
+WSAFE Price: $0.02
+Staked: 3.0675 Cake-LP ($8,681.05)
+LAMA Per Week: 690.41 ($65.01)
+APR: Day 0.11% Week 0.75% Year 38.94%
+You are staking 0.00 [LAMA]-[WSAFE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LAMA]-[WSAFE] Cake LP - Fee 236.09%
+Unstake 0.00 [LAMA]-[WSAFE] Cake LP
+Claim 0.00 LAMA ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+wWOOL
+ Price: $0.00 Market Cap: $0.00 
+Staked: 33946.1074 wWOOL ($0.00)
+LAMA Per Week: 13808.22 ($1,300.19)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 wWOOL ($0.00), NaN% of the pool.
+Stake 0.00 wWOOL - Fee 61.44%
+Unstake 0.00 wWOOL
+Claim 0.00 LAMA ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[LAMA]-[WOOL] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.13 TVL: $127,970.76
+LAMA Price: $0.09
+WOOL Price: $2.52
+Staked: 97830.0762 Cake-LP ($110,831.86)
+LAMA Per Week: 6904.11 ($650.10)
+APR: Day 0.08% Week 0.59% Year 30.50%
+You are staking 0.00 [LAMA]-[WOOL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LAMA]-[WOOL] Cake LP - Fee 327.68%
+Unstake 0.00 [LAMA]-[WOOL] Cake LP
+Claim 0.00 LAMA ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[WOOL]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.35 TVL: $39,822.10
+WOOL Price: $2.52
+BUSD Price: $1.00
+Staked: 10277.2235 Cake-LP ($34,429.13)
+LAMA Per Week: 6904.11 ($650.10)
+APR: Day 0.27% Week 1.89% Year 98.19%
+You are staking 0.00 [WOOL]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WOOL]-[BUSD] Cake LP - Fee 491.52%
+Unstake 0.00 [WOOL]-[BUSD] Cake LP
+Claim 0.00 LAMA ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[WBNB]-[WOOL] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $74.10 TVL: $56,839.49
+WBNB Price: $485.10
+WOOL Price: $2.52
+Staked: 626.4935 Cake-LP ($46,422.55)
+LAMA Per Week: 6904.11 ($650.10)
+APR: Day 0.20% Week 1.40% Year 72.82%
+You are staking 0.00 [WBNB]-[WOOL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[WOOL] Cake LP - Fee 491.52%
+Unstake 0.00 [WBNB]-[WOOL] Cake LP
+Claim 0.00 LAMA ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $306,072.03

@@ -1,0 +1,72 @@
+INFO  : https://polytide.finance/
+**************************************************************************
+
+Mon Aug 23 2021 12:27:51 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 4 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+OYSTER
+ Price: $0.00 Market Cap: $0.00 
+Staked: 9977.6395 OYSTER ($0.00)
+OYSTER Per Week: 342.86 ($2.87)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 OYSTER ($0.00), NaN% of the pool.
+Stake 0.00 OYSTER
+Unstake 0.00 OYSTER
+Claim 0.00 OYSTER ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[USDC]-[OYSTER] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $186,853.01 TVL: $319.45
+USDC Price: $1.00
+OYSTER Price: $0.008365
+Staked: 0.0002 UNI-V2 ($30.18)
+OYSTER Per Week: 5142.86 ($43.02)
+APR: Day 20.37% Week 142.57% Year 7413.48%
+You are staking 0.00 [USDC]-[OYSTER] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[OYSTER] Uni LP
+Unstake 0.00 [USDC]-[OYSTER] Uni LP
+Claim 0.00 OYSTER ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+USDC
+ Price: $1.00 Market Cap: $1,043,334,370.84 
+[%]
+Staked: 9945.8031 USDC ($9,937.76)
+OYSTER Per Week: 1371.43 ($11.47)
+APR: Day 0.02% Week 0.12% Year 6.00%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 0.5%
+Unstake 0.00 USDC
+Claim 0.00 OYSTER ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+USDC
+ Price: $1.00 Market Cap: $1,043,334,370.84 
+[%]
+Staked: 9945.8031 USDC ($9,937.76)
+OYSTER Per Week: 342.86 ($2.87)
+APR: Day 0.00% Week 0.03% Year 1.50%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 0.5%
+Unstake 0.00 USDC
+Claim 0.00 OYSTER ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $19,905.69

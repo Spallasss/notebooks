@@ -1,0 +1,152 @@
+INFO  : https://www.pinkswap.finance
+***************************************************************************************
+
+Mon Aug 23 2021 14:40:34 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 7 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[PinkS]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $70,282.40
+PinkS Price: $0.0000000005
+WBNB Price: $484.17
+Staked: 64109888.8335 Pink-LP ($63,726.04)
+PinkS Per Week: 3729071360000.00 ($1,788.66)
+APR: Day 0.40% Week 2.81% Year 145.95%
+You are staking 0.00 [PinkS]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PinkS]-[WBNB] Uni LP
+Unstake 0.00 [PinkS]-[WBNB] Uni LP
+Claim 0.00 PinkS ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WBNB]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $45.12 TVL: $27,911.48
+WBNB Price: $484.17
+BUSD Price: $1.00
+Staked: 584.7978 Pink-LP ($26,388.74)
+PinkS Per Week: 745814272000.00 ($357.73)
+APR: Day 0.19% Week 1.36% Year 70.49%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 PinkS ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[PinkE]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $24.14 TVL: $324,354.27
+PinkE Price: $0.0000000003
+WBNB Price: $484.17
+Staked: 454.6381 Pink-LP ($10,974.77)
+PinkS Per Week: 372907136000.00 ($178.87)
+APR: Day 0.23% Week 1.63% Year 84.75%
+You are staking 0.00 [PinkE]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PinkE]-[WBNB] Uni LP
+Unstake 0.00 [PinkE]-[WBNB] Uni LP
+Claim 0.00 PinkS ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $14,773.22
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 7355.6233 Pink-LP ($14,739.34)
+PinkS Per Week: 186453568000.00 ($89.43)
+APR: Day 0.09% Week 0.61% Year 31.55%
+You are staking 0.00 [USDT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Uni LP
+Unstake 0.00 [USDT]-[BUSD] Uni LP
+Claim 0.00 PinkS ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[ETH]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,552.16 TVL: $10,774.88
+ETH Price: $3,330.95
+WBNB Price: $484.17
+Staked: 3.9985 Pink-LP ($10,204.80)
+PinkS Per Week: 186453568000.00 ($89.43)
+APR: Day 0.13% Week 0.88% Year 45.57%
+You are staking 0.00 [ETH]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Uni LP
+Unstake 0.00 [ETH]-[WBNB] Uni LP
+Claim 0.00 PinkS ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[BTCB]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9,867.02 TVL: $5,358.13
+BTCB Price: $49,954.00
+WBNB Price: $484.17
+Staked: 0.5399 Pink-LP ($5,327.45)
+PinkS Per Week: 186453568000.00 ($89.43)
+APR: Day 0.24% Week 1.68% Year 87.29%
+You are staking 0.00 [BTCB]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Uni LP
+Unstake 0.00 [BTCB]-[WBNB] Uni LP
+Claim 0.00 PinkS ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[USDT]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $44.53 TVL: $5,533.56
+USDT Price: $1.00
+WBNB Price: $484.17
+Staked: 121.8147 Pink-LP ($5,424.60)
+PinkS Per Week: 186453568000.00 ($89.43)
+APR: Day 0.24% Week 1.65% Year 85.73%
+You are staking 0.00 [USDT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Uni LP
+Unstake 0.00 [USDT]-[WBNB] Uni LP
+Claim 0.00 PinkS ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $136,785.73

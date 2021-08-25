@@ -1,0 +1,219 @@
+*************** 👨‍🌾 LOTUS SWAP FARMING CALCULATOR 👨‍🌾 ***************
+WEB  : https://lotusswapdefi.com
+TG   : https://t.me/lotusswapdefi
+**************************************************************************************
+
+Mon Aug 23 2021 09:28:27 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 13 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[LOTUS]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $2.20
+LOTUS Price: $0.0000730167
+BUSD Price: $1.00
+Staked: 113.9401 Cake-LP ($2.15)
+LOTUS Per Week: 23261.54 ($1.70)
+APR: Day 11.26% Week 78.83% Year 4099.27%
+You are staking 0.00 [LOTUS]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LOTUS]-[BUSD] Cake LP
+Unstake 0.00 [LOTUS]-[BUSD] Cake LP
+Claim 0.00 LOTUS ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WBNB]-[LOTUS] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.39 TVL: $32.03
+WBNB Price: $487.75
+LOTUS Price: $0.0000730167
+Staked: 52.6817 Cake-LP ($20.67)
+LOTUS Per Week: 23261.54 ($1.70)
+APR: Day 1.17% Week 8.22% Year 427.35%
+You are staking 0.00 [WBNB]-[LOTUS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LOTUS] Cake LP
+Unstake 0.00 [WBNB]-[LOTUS] Cake LP
+Claim 0.00 LOTUS ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.93 TVL: $528,864,872.80
+WBNB Price: $487.75
+BUSD Price: $1.00
+Staked: 0.5600 Cake-LP ($27.96)
+LOTUS Per Week: 15507.69 ($1.13)
+APR: Day 0.58% Week 4.05% Year 210.60%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 LOTUS ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.14 TVL: $4,006,626.26
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0086 Cake-LP ($0.02)
+LOTUS Per Week: 15507.69 ($1.13)
+APR: Day 876.40% Week 6134.83% Year 319011.02%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 LOTUS ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,904.03 TVL: $1,953,234.49
+BTCB Price: $49,844.00
+WBNB Price: $487.75
+Staked: 0.0000 Cake-LP ($0.00)
+LOTUS Per Week: 15507.69 ($1.13)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 LOTUS ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,873.68 TVL: $3,536,966.75
+ETH Price: $3,333.34
+WBNB Price: $487.75
+Staked: 0.0000 Cake-LP ($0.00)
+LOTUS Per Week: 15507.69 ($1.13)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 LOTUS ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+LOTUS
+ Price: $0.0000730167 Market Cap: $39.77 
+[%]
+Staked: 225205.6495 LOTUS ($16.44)
+LOTUS Per Week: 23261.54 ($1.70)
+APR: Day 1.48% Week 10.33% Year 537.11%
+You are staking 0.00 LOTUS ($0.00), 0.00% of the pool.
+Stake 0.00 LOTUS
+Unstake 0.00 LOTUS
+Claim 0.00 LOTUS ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+BUSD
+ Price: $1.00 Market Cap: $4,196,886,621.58 
+[%]
+Staked: 292.9728 BUSD ($292.69)
+LOTUS Per Week: 11630.77 ($0.85)
+APR: Day 0.04% Week 0.29% Year 15.09%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 LOTUS ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+WBNB
+ Price: $487.75 Market Cap: $3,445,717,036.08 
+[%]
+Staked: 0.0576 WBNB ($28.09)
+LOTUS Per Week: 11630.77 ($0.85)
+APR: Day 0.43% Week 3.02% Year 157.19%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 LOTUS ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 192.0000 USDT ($191.96)
+LOTUS Per Week: 11630.77 ($0.85)
+APR: Day 0.06% Week 0.44% Year 23.00%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 LOTUS ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+BTCB
+ Price: $49,844.00 Market Cap: $4,261,711,844.00 
+[%]
+Staked: 0.0113 BTCB ($563.27)
+LOTUS Per Week: 11630.77 ($0.85)
+APR: Day 0.02% Week 0.15% Year 7.84%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 LOTUS ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+ETH
+ Price: $3,333.34 Market Cap: $4,350,008,700.00 
+[%]
+Staked: 0.0109 ETH ($36.17)
+LOTUS Per Week: 11630.77 ($0.85)
+APR: Day 0.34% Week 2.35% Year 122.08%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 LOTUS ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+Cake
+ Price: $25.15 Market Cap: $10,465,780,367.84 
+[%]
+Staked: 0.0000 Cake ($0.00)
+LOTUS Per Week: 11630.77 ($0.85)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 Cake ($0.00), NaN% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 LOTUS ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,179.43

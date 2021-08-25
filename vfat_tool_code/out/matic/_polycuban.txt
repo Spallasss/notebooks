@@ -1,0 +1,264 @@
+INFO  : https://polycuban.finance
+*****************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:47:26 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 17 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[CUBAN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $12,311.42 TVL: $1.86
+USDC Price: $1.00
+CUBAN Price: $0.0000322256
+Staked: 0.0001 UNI-V2 ($1.78)
+CUBAN Per Week: 1816.22 ($0.06)
+APR: Day 0.47% Week 3.29% Year 171.12%
+You are staking 0.00 [USDC]-[CUBAN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[CUBAN] Uni LP
+Unstake 0.00 [USDC]-[CUBAN] Uni LP
+Claim 0.00 CUBAN ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[CUBAN] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $1.62
+WMATIC Price: $1.65
+CUBAN Price: $0.0000322256
+Staked: 78.4431 UNI-V2 ($1.23)
+CUBAN Per Week: 1816.22 ($0.06)
+APR: Day 0.68% Week 4.76% Year 247.66%
+You are staking 0.00 [WMATIC]-[CUBAN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[CUBAN] Uni LP
+Unstake 0.00 [WMATIC]-[CUBAN] Uni LP
+Claim 0.00 CUBAN ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,616,565.25 TVL: $33,416,832.18
+WMATIC Price: $1.65
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($13.60)
+CUBAN Per Week: 778.38 ($0.03)
+APR: Day 0.03% Week 0.18% Year 9.59%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 CUBAN ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $162,950,687.56 TVL: $148,233,725.19
+USDC Price: $1.00
+WETH Price: $3,329.56
+Staked: 0.0000 UNI-V2 ($14.44)
+CUBAN Per Week: 1297.30 ($0.04)
+APR: Day 0.04% Week 0.29% Year 15.05%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 CUBAN ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+CUBAN
+ Price: $0.0000322256 Market Cap: $5.94 
+[%]
+Staked: 89716.2774 CUBAN ($2.89)
+CUBAN Per Week: 1816.22 ($0.06)
+APR: Day 0.29% Week 2.02% Year 105.27%
+You are staking 0.00 CUBAN ($0.00), 0.00% of the pool.
+Stake 0.00 CUBAN
+Unstake 0.00 CUBAN
+Claim 0.00 CUBAN ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WMATIC
+ Price: $1.65 Market Cap: $605,528,323.27 
+[%]
+Staked: 0.4810 WMATIC ($0.79)
+CUBAN Per Week: 1816.22 ($0.06)
+APR: Day 1.05% Week 7.38% Year 383.51%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 CUBAN ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+QUICK
+ Price: $736.96 Market Cap: $705,467,249.72 
+[%]
+Staked: 0.0061 QUICK ($4.48)
+CUBAN Per Week: 1816.22 ($0.06)
+APR: Day 0.19% Week 1.31% Year 67.93%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 CUBAN ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+WETH
+ Price: $3,329.56 Market Cap: $2,033,049,870.29 
+[%]
+Staked: 0.0007 WETH ($2.41)
+CUBAN Per Week: 1816.22 ($0.06)
+APR: Day 0.35% Week 2.43% Year 126.12%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 CUBAN ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+WBTC
+ Price: $50,190.00 Market Cap: $700,089,941.94 
+[%]
+Staked: 0.0000 WBTC ($1.70)
+CUBAN Per Week: 1816.22 ($0.06)
+APR: Day 0.49% Week 3.44% Year 178.93%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 CUBAN ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+AAVE
+ Price: $410.07 Market Cap: $156,103,226.01 
+[%]
+Staked: 0.0033 AAVE ($1.34)
+CUBAN Per Week: 1297.30 ($0.04)
+APR: Day 0.45% Week 3.12% Year 162.33%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 CUBAN ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+USDT
+ Price: $1.00 Market Cap: $314,823,907.95 
+[%]
+Staked: 0.1021 USDT ($0.10)
+CUBAN Per Week: 1816.22 ($0.06)
+APR: Day 8.20% Week 57.41% Year 2985.13%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 CUBAN ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+DAI
+ Price: $1.00 Market Cap: $375,659,203.55 
+[%]
+Staked: 8.5973 DAI ($8.58)
+CUBAN Per Week: 1816.22 ($0.06)
+APR: Day 0.10% Week 0.68% Year 35.46%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 CUBAN ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+FISH
+ Price: $0.00 Market Cap: $0.00 
+Staked: 3.8153 FISH ($0.00)
+CUBAN Per Week: 1816.22 ($0.06)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+Stake 0.00 FISH - Fee 4%
+Unstake 0.00 FISH
+Claim 0.00 CUBAN ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+PolyGame
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1892.8470 PolyGame ($0.00)
+CUBAN Per Week: 1816.22 ($0.06)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 PolyGame ($0.00), NaN% of the pool.
+Stake 0.00 PolyGame - Fee 4%
+Unstake 0.00 PolyGame
+Claim 0.00 CUBAN ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+TITAN
+ Price: $0.01 Market Cap: $501,157,043,708.85 
+[%]
+Staked: 1147724551.1692 TITAN ($16,430,663.99)
+CUBAN Per Week: 1816.22 ($0.06)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 TITAN ($0.00), 0.00% of the pool.
+Stake 0.00 TITAN - Fee 4%
+Unstake 0.00 TITAN
+Claim 0.00 CUBAN ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[WMATIC]-[PolyGame] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.07 TVL: $286.85
+WMATIC Price: $1.65
+PolyGame Price: $0.000535
+Staked: 12.6565 UNI-V2 ($0.88)
+CUBAN Per Week: 1816.22 ($0.06)
+APR: Day 0.95% Week 6.68% Year 347.55%
+You are staking 0.00 [WMATIC]-[PolyGame] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PolyGame] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[PolyGame] Uni LP
+Claim 0.00 CUBAN ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[USDC]-[PolyGame] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $48,257.40 TVL: $10.32
+USDC Price: $1.00
+PolyGame Price: $0.000535
+Staked: 0.0001 UNI-V2 ($5.68)
+CUBAN Per Week: 1816.22 ($0.06)
+APR: Day 0.15% Week 1.03% Year 53.55%
+You are staking 0.00 [USDC]-[PolyGame] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[PolyGame] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[PolyGame] Uni LP
+Claim 0.00 CUBAN ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $16,430,723.91

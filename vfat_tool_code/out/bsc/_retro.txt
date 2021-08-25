@@ -1,0 +1,250 @@
+INFO  : https://retrofarms.net
+*******************************************************************************
+
+Mon Aug 23 2021 09:23:46 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 16 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+RCUBE
+ Price: $0.06 Market Cap: $1,327,637.39 
+[%]
+Staked: 0.0007 RCUBE ($0.00)
+QBert Per Week: 56527.96 ($7,540.89)
+APR: Day 2321624739.73% Week 16251373178.10% Year 845071405261.09%
+You are staking 0.00 RCUBE ($0.00), 0.00% of the pool.
+Stake 0.00 RCUBE
+Unstake 0.00 RCUBE
+Claim 0.00 QBert ($0.00)
+Staking or unstaking also claims rewards.
+QBERT
+ Price: $0.13 Market Cap: $257,884.83 
+[%]
+Staked: 545096.1894 QBERT ($72,716.42)
+QBert Per Week: 12481.64 ($1,665.06)
+APR: Day 0.33% Week 2.29% Year 119.07%
+You are staking 0.00 QBERT ($0.00), 0.00% of the pool.
+Stake 0.00 QBERT
+Unstake 0.00 QBERT
+Claim 0.00 QBert ($0.00)
+Staking or unstaking also claims rewards.
+WBNB
+ Price: $486.37 Market Cap: $3,437,027,151.50 
+[%]
+Staked: 311.3202 WBNB ($151,416.80)
+QBert Per Week: 4437.92 ($592.02)
+APR: Day 0.06% Week 0.39% Year 20.33%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB
+Unstake 0.00 WBNB
+Claim 0.00 QBert ($0.00)
+Staking or unstaking also claims rewards.
+BUSD
+ Price: $1.00 Market Cap: $4,195,983,406.71 
+[%]
+Staked: 69583.5173 BUSD ($69,500.43)
+QBert Per Week: 4437.92 ($592.02)
+APR: Day 0.12% Week 0.85% Year 44.29%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD
+Unstake 0.00 BUSD
+Claim 0.00 QBert ($0.00)
+Staking or unstaking also claims rewards.
+Cake
+ Price: $25.13 Market Cap: $10,457,420,069.35 
+[%]
+Staked: 376.9974 Cake ($9,473.94)
+QBert Per Week: 2218.96 ($296.01)
+APR: Day 0.45% Week 3.12% Year 162.47%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Claim 0.00 QBert ($0.00)
+Staking or unstaking also claims rewards.
+[RCUBE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,198,023.49 TVL: $539,641.87
+RCUBE Price: $0.06
+WBNB Price: $486.37
+Staked: 0.0151 Cake-LP ($18,104.56)
+QBert Per Week: 7766.35 ($1,036.04)
+APR: Day 0.82% Week 5.72% Year 297.57%
+You are staking 0.00 [RCUBE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RCUBE]-[WBNB] Cake LP
+Unstake 0.00 [RCUBE]-[WBNB] Cake LP
+Claim 0.00 QBert ($0.00)
+Staking or unstaking also claims rewards.
+[QBERT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $16.27 TVL: $75,015.14
+QBERT Price: $0.13
+WBNB Price: $486.37
+Staked: 500.6659 Cake-LP ($8,143.95)
+QBert Per Week: 3883.18 ($518.02)
+APR: Day 0.91% Week 6.36% Year 330.76%
+You are staking 0.00 [QBERT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [QBERT]-[WBNB] Cake LP
+Unstake 0.00 [QBERT]-[WBNB] Cake LP
+Claim 0.00 QBert ($0.00)
+Staking or unstaking also claims rewards.
+[QBERT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.74 TVL: $55,284.35
+QBERT Price: $0.13
+BUSD Price: $1.00
+Staked: 5066.5794 Cake-LP ($3,727.36)
+QBert Per Week: 1109.48 ($148.01)
+APR: Day 0.57% Week 3.97% Year 206.48%
+You are staking 0.00 [QBERT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [QBERT]-[BUSD] Cake LP
+Unstake 0.00 [QBERT]-[BUSD] Cake LP
+Claim 0.00 QBert ($0.00)
+Staking or unstaking also claims rewards.
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $226.07 TVL: $1,034,650,190.21
+Cake Price: $25.13
+WBNB Price: $486.37
+Staked: 70.8932 Cake-LP ($16,026.77)
+QBert Per Week: 2218.96 ($296.01)
+APR: Day 0.26% Week 1.85% Year 96.04%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 QBert ($0.00)
+Staking or unstaking also claims rewards.
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.85 TVL: $528,059,424.49
+WBNB Price: $486.37
+BUSD Price: $1.00
+Staked: 34.4330 Cake-LP ($1,716.46)
+QBert Per Week: 554.74 ($74.00)
+APR: Day 0.62% Week 4.31% Year 224.19%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 QBert ($0.00)
+Staking or unstaking also claims rewards.
+[DUSA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,512,446.75 TVL: $33,130.94
+DUSA Price: $0.32
+WBNB Price: $486.37
+Staked: 0.0005 Cake-LP ($1,149.96)
+QBert Per Week: 33.28 ($4.44)
+APR: Day 0.06% Week 0.39% Year 20.08%
+You are staking 0.00 [DUSA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DUSA]-[WBNB] Cake LP
+Unstake 0.00 [DUSA]-[WBNB] Cake LP
+Claim 0.00 QBert ($0.00)
+Staking or unstaking also claims rewards.
+COSMIC
+ Price: $0.00 Market Cap: $0.00 
+Staked: 35.1063 COSMIC ($0.00)
+QBert Per Week: 11.09 ($1.48)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 COSMIC ($0.00), NaN% of the pool.
+Stake 0.00 COSMIC
+Unstake 0.00 COSMIC
+Claim 0.00 QBert ($0.00)
+Staking or unstaking also claims rewards.
+[QBERT]-[COSMIC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.00 TVL: $1,037.58
+QBERT Price: $0.13
+COSMIC Price: $1.87
+Staked: 210.4574 Cake-LP ($211.07)
+QBert Per Week: 166.42 ($22.20)
+APR: Day 1.50% Week 10.52% Year 546.96%
+You are staking 0.00 [QBERT]-[COSMIC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [QBERT]-[COSMIC] Cake LP
+Unstake 0.00 [QBERT]-[COSMIC] Cake LP
+Claim 0.00 QBert ($0.00)
+Staking or unstaking also claims rewards.
+ETH
+ Price: $3,333.01 Market Cap: $4,349,578,050.00 
+[%]
+Staked: 6.8827 ETH ($22,940.07)
+QBert Per Week: 2218.96 ($296.01)
+APR: Day 0.18% Week 1.29% Year 67.10%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH
+Unstake 0.00 ETH
+Claim 0.00 QBert ($0.00)
+Staking or unstaking also claims rewards.
+ADA
+ Price: $2.83 Market Cap: $792,400,000.00 
+[%]
+Staked: 7269.9001 ADA ($20,573.82)
+QBert Per Week: 2218.96 ($296.01)
+APR: Day 0.21% Week 1.44% Year 74.82%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA
+Unstake 0.00 ADA
+Claim 0.00 QBert ($0.00)
+Staking or unstaking also claims rewards.
+[QBERT]-[RCUBE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $22,017.68 TVL: $34,789.35
+QBERT Price: $0.13
+RCUBE Price: $0.06
+Staked: 1.5568 Cake-LP ($34,277.99)
+QBert Per Week: 16642.19 ($2,220.09)
+APR: Day 0.93% Week 6.48% Year 336.79%
+You are staking 0.00 [QBERT]-[RCUBE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [QBERT]-[RCUBE] Cake LP
+Unstake 0.00 [QBERT]-[RCUBE] Cake LP
+Claim 0.00 QBert ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $429,979.60

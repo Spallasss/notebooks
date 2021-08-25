@@ -1,0 +1,160 @@
+INFO  : https://app.meebmaster.com
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 12:37:22 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 9 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+MEEB
+ Price: $0.00 Market Cap: $0.00 
+Staked: 2103959.9117 MEEB ($0.00)
+MEEB Per Week: 16111.78 ($80,938.10)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MEEB ($0.00), NaN% of the pool.
+Stake 0.00 MEEB
+Unstake 0.00 MEEB
+Claim 0.00 MEEB ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[USDC]-[MEEB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,542,959.26 TVL: $1,976,153.10
+USDC Price: $1.00
+MEEB Price: $5.02
+Staked: 0.4316 PolyDexV2-LP ($1,960,746.05)
+MEEB Per Week: 32223.55 ($161,876.20)
+APR: Day 1.18% Week 8.26% Year 429.30%
+You are staking 0.00 [USDC]-[MEEB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[MEEB] Uni LP
+Unstake 0.00 [USDC]-[MEEB] Uni LP
+Claim 0.00 MEEB ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[MEEB]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $278.12 TVL: $393,968.37
+MEEB Price: $5.02
+WETH Price: $3,324.75
+Staked: 1414.9519 UNI-V2 ($393,530.75)
+MEEB Per Week: 6444.71 ($32,375.24)
+APR: Day 1.18% Week 8.23% Year 427.80%
+You are staking 0.00 [MEEB]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MEEB]-[WETH] Uni LP
+Unstake 0.00 [MEEB]-[WETH] Uni LP
+Claim 0.00 MEEB ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[WMATIC]-[MEEB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.92 TVL: $436,385.60
+WMATIC Price: $1.64
+MEEB Price: $5.02
+Staked: 72288.2186 FLP ($428,022.23)
+MEEB Per Week: 6444.71 ($32,375.24)
+APR: Day 1.08% Week 7.56% Year 393.32%
+You are staking 0.00 [WMATIC]-[MEEB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[MEEB] Uni LP
+Unstake 0.00 [WMATIC]-[MEEB] Uni LP
+Claim 0.00 MEEB ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDC]-[SDO] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,061,319.21 TVL: $629,622.09
+USDC Price: $1.00
+SDO Price: $0.91
+Staked: 0.0000 UNI-V2 ($0.00)
+MEEB Per Week: 3222.36 ($16,187.62)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[SDO] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[SDO] Uni LP
+Unstake 0.00 [USDC]-[SDO] Uni LP
+Claim 0.00 MEEB ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[USDC]-[SDS] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,331,968.46 TVL: $231,621.71
+USDC Price: $1.00
+SDS Price: $3.67
+Staked: 0.0000 UNI-V2 ($0.00)
+MEEB Per Week: 3222.36 ($16,187.62)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[SDS] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[SDS] Uni LP
+Unstake 0.00 [USDC]-[SDS] Uni LP
+Claim 0.00 MEEB ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+PLX
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 PLX ($0.00)
+MEEB Per Week: 3222.36 ($16,187.62)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 PLX ($0.00), NaN% of the pool.
+Stake 0.00 PLX - Fee 4%
+Unstake 0.00 PLX
+Claim 0.00 MEEB ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+SDS
+ Price: $3.67 Market Cap: $719,483.28 
+[%]
+Staked: 0.0000 SDS ($0.00)
+MEEB Per Week: 3222.36 ($16,187.62)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 SDS ($0.00), NaN% of the pool.
+Stake 0.00 SDS - Fee 4%
+Unstake 0.00 SDS
+Claim 0.00 MEEB ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+TOP
+ Price: $0.00 Market Cap: $0.00 
+Staked: 13409178.3152 TOP ($0.00)
+MEEB Per Week: 1611.18 ($8,093.81)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 TOP ($0.00), NaN% of the pool.
+Stake 0.00 TOP - Fee 4%
+Unstake 0.00 TOP
+Claim 0.00 MEEB ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $2,782,299.03

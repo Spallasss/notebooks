@@ -1,0 +1,31 @@
+INFO  : https://exchange.futureswap.com
+*******************************************************************************
+
+Mon Aug 23 2021 15:41:06 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[FST]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $455.40 TVL: $2,237,450.77
+FST Price: $11.54
+WETH Price: $3,333.32
+Staked: 4359.2231 UNI-V2 ($1,985,193.35)
+FST Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [FST]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [FST]-[WETH] Uni LP
+Unstake 0.000000 [FST]-[WETH] Uni LP
+Claim 0.000000 FST ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $1,985,193.35

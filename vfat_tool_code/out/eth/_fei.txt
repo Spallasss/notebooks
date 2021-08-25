@@ -1,0 +1,31 @@
+INFO  : https://fei.money
+********************************************************************************
+
+Mon Aug 23 2021 15:42:46 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[FEI]-[TRIBE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.04 TVL: $360,711,561.76
+FEI Price: $1.00
+TRIBE Price: $0.66
+Staked: 119440310.2606 UNI-V2 ($123,797,885.42)
+TRIBE Per Week: 3118329.23 ($2,044,382.88)
+APR: Day 0.24% Week 1.65% Year 85.87%
+You are staking 0.000000 [FEI]-[TRIBE] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [FEI]-[TRIBE] Uni LP
+Unstake 0.000000 [FEI]-[TRIBE] Uni LP
+Claim 0.000000 TRIBE ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $123,797,885.42

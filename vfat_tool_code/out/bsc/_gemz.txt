@@ -1,0 +1,383 @@
+INFO  : https://www.gemz.finance/
+**********************************************************************************
+
+Mon Aug 23 2021 13:48:14 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 24 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[GEMZ]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.04 TVL: $13.90
+GEMZ Price: $0.000445
+BUSD Price: $1.00
+Staked: 247.7692 Cake-LP ($10.97)
+GEMZ Per Week: 7264.21 ($3.23)
+APR: Day 4.20% Week 29.43% Year 1530.54%
+You are staking 0.00 [GEMZ]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GEMZ]-[BUSD] Cake LP
+Unstake 0.00 [GEMZ]-[BUSD] Cake LP
+Claim 0.00 GEMZ ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[GEMZ]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.97 TVL: $40.45
+GEMZ Price: $0.000445
+WBNB Price: $483.90
+Staked: 41.2606 Cake-LP ($39.85)
+GEMZ Per Week: 4540.13 ($2.02)
+APR: Day 0.72% Week 5.07% Year 263.46%
+You are staking 0.00 [GEMZ]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GEMZ]-[WBNB] Cake LP
+Unstake 0.00 [GEMZ]-[WBNB] Cake LP
+Claim 0.00 GEMZ ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.52 TVL: $3,329,286.06
+WBNB Price: $483.90
+BUSD Price: $1.00
+Staked: 0.0040 Cake-LP ($0.26)
+GEMZ Per Week: 181.61 ($0.08)
+APR: Day 4.47% Week 31.29% Year 1627.08%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 GEMZ ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.14 TVL: $4,006,423.14
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 5.6861 Cake-LP ($12.14)
+GEMZ Per Week: 181.61 ($0.08)
+APR: Day 0.10% Week 0.67% Year 34.59%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 GEMZ ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+GEMZ
+ Price: $0.000445 Market Cap: $174.44 
+[%]
+Staked: 210532.9158 GEMZ ($93.61)
+GEMZ Per Week: 3632.11 ($1.62)
+APR: Day 0.25% Week 1.73% Year 89.71%
+You are staking 0.00 GEMZ ($0.00), 0.00% of the pool.
+Stake 0.00 GEMZ
+Unstake 0.00 GEMZ
+Claim 0.00 GEMZ ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+WBNB
+ Price: $483.90 Market Cap: $3,428,920,637.44 
+[%]
+Staked: 0.1441 WBNB ($69.73)
+GEMZ Per Week: 272.41 ($0.12)
+APR: Day 0.02% Week 0.17% Year 9.03%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 GEMZ ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+VIKING
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0100 VIKING ($0.00)
+GEMZ Per Week: 1.82 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 VIKING ($0.00), NaN% of the pool.
+Stake 0.00 VIKING - Fee 99%
+Unstake 0.00 VIKING
+Claim 0.00 GEMZ ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+BUSD
+ Price: $1.00 Market Cap: $4,199,310,598.24 
+[%]
+Staked: 29.8000 BUSD ($29.79)
+GEMZ Per Week: 181.61 ($0.08)
+APR: Day 0.04% Week 0.27% Year 14.10%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 GEMZ ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,901.81 TVL: $1,952,837.98
+BTCB Price: $50,221.00
+WBNB Price: $483.90
+Staked: 0.0000 Cake-LP ($0.11)
+GEMZ Per Week: 272.41 ($0.12)
+APR: Day 15.87% Week 111.11% Year 5777.52%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 GEMZ ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,857.95 TVL: $3,517,610.96
+ETH Price: $3,323.40
+WBNB Price: $483.90
+Staked: 0.0001 Cake-LP ($0.29)
+GEMZ Per Week: 272.41 ($0.12)
+APR: Day 6.05% Week 42.38% Year 2203.87%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 GEMZ ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $2,586,520.52
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.5855 Cake-LP ($1.20)
+GEMZ Per Week: 181.61 ($0.08)
+APR: Day 0.96% Week 6.74% Year 350.42%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 GEMZ ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.26 TVL: $1,019,531.72
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0125 Cake-LP ($0.03)
+GEMZ Per Week: 181.61 ($0.08)
+APR: Day 40.88% Week 286.16% Year 14880.49%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 GEMZ ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $251.95 TVL: $672,491.69
+DOT Price: $27.97
+WBNB Price: $483.90
+Staked: 0.0002 Cake-LP ($0.04)
+GEMZ Per Week: 272.41 ($0.12)
+APR: Day 40.03% Week 280.20% Year 14570.28%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 GEMZ ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[Cake]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $15.68 TVL: $180,160.78
+Cake Price: $25.01
+BUSD Price: $1.00
+Staked: 0.0100 Cake-LP ($0.16)
+GEMZ Per Week: 272.41 ($0.12)
+APR: Day 11.03% Week 77.24% Year 4016.73%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 GEMZ ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $260.72 TVL: $8,043,036.75
+Cake Price: $25.01
+WBNB Price: $483.90
+Staked: 0.0002 Cake-LP ($0.04)
+GEMZ Per Week: 272.41 ($0.12)
+APR: Day 38.59% Week 270.11% Year 14045.57%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 GEMZ ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+EGG
+ Price: $0.72 Market Cap: $3,413,351.14 
+[%]
+Staked: 1.0248 EGG ($0.74)
+GEMZ Per Week: 272.41 ($0.12)
+APR: Day 2.33% Week 16.34% Year 849.80%
+You are staking 0.00 EGG ($0.00), 0.00% of the pool.
+Stake 0.00 EGG - Fee 4%
+Unstake 0.00 EGG
+Claim 0.00 GEMZ ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+USDT
+ Price: $1.00 Market Cap: $3,377,097,883.96 
+[%]
+Staked: 1.0300 USDT ($1.03)
+GEMZ Per Week: 181.61 ($0.08)
+APR: Day 1.12% Week 7.85% Year 408.02%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 GEMZ ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+BTCB
+ Price: $50,221.00 Market Cap: $4,293,945,721.00 
+[%]
+Staked: 0.0003 BTCB ($16.47)
+GEMZ Per Week: 272.41 ($0.12)
+APR: Day 0.11% Week 0.74% Year 38.25%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 GEMZ ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+ETH
+ Price: $3,323.40 Market Cap: $4,337,037,000.00 
+[%]
+Staked: 0.0089 ETH ($29.62)
+GEMZ Per Week: 272.41 ($0.12)
+APR: Day 0.06% Week 0.41% Year 21.26%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 GEMZ ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+DAI
+ Price: $1.00 Market Cap: $261,817,648.00 
+[%]
+Staked: 1.0600 DAI ($1.06)
+GEMZ Per Week: 181.61 ($0.08)
+APR: Day 1.09% Week 7.62% Year 396.41%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 GEMZ ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+USDC
+ Price: $1.00 Market Cap: $1,776,763,797.00 
+[%]
+Staked: 1.0600 USDC ($1.06)
+GEMZ Per Week: 181.61 ($0.08)
+APR: Day 1.09% Week 7.63% Year 396.63%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 GEMZ ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+DOT
+ Price: $27.97 Market Cap: $391,579,999.86 
+[%]
+Staked: 0.0334 DOT ($0.93)
+GEMZ Per Week: 272.41 ($0.12)
+APR: Day 1.85% Week 12.98% Year 674.71%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 GEMZ ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+Cake
+ Price: $25.01 Market Cap: $10,406,924,744.80 
+[%]
+Staked: 0.2189 Cake ($5.48)
+GEMZ Per Week: 272.41 ($0.12)
+APR: Day 0.32% Week 2.21% Year 115.03%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 GEMZ ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+BSCX
+ Price: $2.47 Market Cap: $24,658,988.12 
+[%]
+Staked: 0.1628 BSCX ($0.40)
+GEMZ Per Week: 272.41 ($0.12)
+APR: Day 4.30% Week 30.13% Year 1566.58%
+You are staking 0.00 BSCX ($0.00), 0.00% of the pool.
+Stake 0.00 BSCX - Fee 4%
+Unstake 0.00 BSCX
+Claim 0.00 GEMZ ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $315.00

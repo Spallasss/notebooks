@@ -1,0 +1,497 @@
+INFO  : https://lady.smurf.money
+*********************************************************************************
+
+Mon Aug 23 2021 09:30:05 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 31 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[SMRF]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.12 TVL: $142.53
+SMRF Price: $0.002390
+BUSD Price: $1.00
+Staked: 192.5814 Cake-LP ($22.49)
+SMRF Per Week: 370.99 ($0.89)
+APR: Day 0.56% Week 3.94% Year 204.97%
+You are staking 0.00 [SMRF]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SMRF]-[BUSD] Cake LP
+Unstake 0.00 [SMRF]-[BUSD] Cake LP
+Claim 0.00 SMRF ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[SMRF]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.69 TVL: $76.64
+SMRF Price: $0.002390
+WBNB Price: $487.99
+Staked: 28.2697 Cake-LP ($75.97)
+SMRF Per Week: 309.16 ($0.74)
+APR: Day 0.14% Week 0.97% Year 50.56%
+You are staking 0.00 [SMRF]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SMRF]-[WBNB] Cake LP
+Unstake 0.00 [SMRF]-[WBNB] Cake LP
+Claim 0.00 SMRF ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[SMURF]-[SMRF] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.10 TVL: $4.54
+SMURF Price: $0.84
+SMRF Price: $0.002390
+Staked: 24.4310 Cake-LP ($2.42)
+SMRF Per Week: 216.41 ($0.52)
+APR: Day 3.05% Week 21.36% Year 1110.91%
+You are staking 0.00 [SMURF]-[SMRF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SMURF]-[SMRF] Cake LP
+Unstake 0.00 [SMURF]-[SMRF] Cake LP
+Claim 0.00 SMRF ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[SMURF]-[PAPAS] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.10 TVL: $10.11
+SMURF Price: $0.84
+PAPAS Price: $0.002356
+Staked: 53.5516 Cake-LP ($5.31)
+SMRF Per Week: 115.93 ($0.28)
+APR: Day 0.74% Week 5.21% Year 271.05%
+You are staking 0.00 [SMURF]-[PAPAS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SMURF]-[PAPAS] Cake LP - Fee 1%
+Unstake 0.00 [SMURF]-[PAPAS] Cake LP
+Claim 0.00 SMRF ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[SMURF]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $1,089.75
+SMURF Price: $0.84
+BUSD Price: $1.00
+Staked: 12.7463 Cake-LP ($25.53)
+SMRF Per Week: 115.93 ($0.28)
+APR: Day 0.16% Week 1.09% Year 56.43%
+You are staking 0.00 [SMURF]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SMURF]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [SMURF]-[BUSD] Cake LP
+Claim 0.00 SMRF ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[PAPAS]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.12 TVL: $111.56
+PAPAS Price: $0.002356
+BUSD Price: $1.00
+Staked: 38.5268 Cake-LP ($4.57)
+SMRF Per Week: 115.93 ($0.28)
+APR: Day 0.87% Week 6.06% Year 314.89%
+You are staking 0.00 [PAPAS]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PAPAS]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [PAPAS]-[BUSD] Cake LP
+Claim 0.00 SMRF ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[bSMURF]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.08 TVL: $89.98
+bSMURF Price: $0.001119
+BUSD Price: $1.00
+Staked: 37.5152 Cake-LP ($2.94)
+SMRF Per Week: 115.93 ($0.28)
+APR: Day 1.35% Week 9.42% Year 489.93%
+You are staking 0.00 [bSMURF]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bSMURF]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [bSMURF]-[BUSD] Cake LP
+Claim 0.00 SMRF ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+SMURF
+ Price: $0.84 Market Cap: $3,370.37 
+[%]
+Staked: 4.0692 SMURF ($3.41)
+SMRF Per Week: 77.29 ($0.18)
+APR: Day 0.77% Week 5.42% Year 281.98%
+You are staking 0.00 SMURF ($0.00), 0.00% of the pool.
+Stake 0.00 SMURF - Fee 2%
+Unstake 0.00 SMURF
+Claim 0.00 SMRF ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+PAPAS
+ Price: $0.002356 Market Cap: $925.48 
+[%]
+Staked: 3996.8675 PAPAS ($9.41)
+SMRF Per Week: 77.29 ($0.18)
+APR: Day 0.28% Week 1.96% Year 102.00%
+You are staking 0.00 PAPAS ($0.00), 0.00% of the pool.
+Stake 0.00 PAPAS - Fee 2%
+Unstake 0.00 PAPAS
+Claim 0.00 SMRF ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+bSMURF
+ Price: $0.001119 Market Cap: $596.69 
+[%]
+Staked: 11831.4618 bSMURF ($13.24)
+SMRF Per Week: 77.29 ($0.18)
+APR: Day 0.20% Week 1.39% Year 72.53%
+You are staking 0.00 bSMURF ($0.00), 0.00% of the pool.
+Stake 0.00 bSMURF - Fee 2%
+Unstake 0.00 bSMURF
+Claim 0.00 SMRF ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.94 TVL: $528,998,883.62
+WBNB Price: $487.99
+BUSD Price: $1.00
+Staked: 0.7535 Cake-LP ($37.63)
+SMRF Per Week: 42.51 ($0.10)
+APR: Day 0.04% Week 0.27% Year 14.04%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 3.9%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SMRF ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,242.50 TVL: $174,394,269.27
+BTCB Price: $49,844.00
+WBNB Price: $487.99
+Staked: 0.0006 Cake-LP ($6.36)
+SMRF Per Week: 38.64 ($0.09)
+APR: Day 0.21% Week 1.45% Year 75.52%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 3.9%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 SMRF ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,664.19 TVL: $262,955,570.13
+ETH Price: $3,334.27
+WBNB Price: $487.99
+Staked: 0.0007 Cake-LP ($1.79)
+SMRF Per Week: 38.64 ($0.09)
+APR: Day 0.74% Week 5.15% Year 267.93%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 3.9%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 SMRF ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[ETH]-[COMP] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,556.74 TVL: $6,074,791.34
+ETH Price: $3,334.27
+COMP Price: $470.51
+Staked: 0.0835 Cake-LP ($213.42)
+SMRF Per Week: 23.19 ($0.06)
+APR: Day 0.00% Week 0.03% Year 1.35%
+You are staking 0.00 [ETH]-[COMP] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[COMP] Cake LP - Fee 3.9%
+Unstake 0.00 [ETH]-[COMP] Cake LP
+Claim 0.00 SMRF ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,996,331.96
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.4805 Cake-LP ($0.99)
+SMRF Per Week: 30.92 ($0.07)
+APR: Day 1.07% Week 7.47% Year 388.35%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 3.9%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 SMRF ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,283,566.36
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.4805 Cake-LP ($0.98)
+SMRF Per Week: 30.92 ($0.07)
+APR: Day 1.07% Week 7.51% Year 390.58%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 3.9%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 SMRF ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.55 TVL: $47,032,571.62
+ADA Price: $2.83
+WBNB Price: $487.99
+Staked: 1.4611 Cake-LP ($113.31)
+SMRF Per Week: 23.19 ($0.06)
+APR: Day 0.01% Week 0.05% Year 2.54%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 3.9%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 SMRF ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[WBNB]-[UNI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $244.11 TVL: $34,050,830.13
+WBNB Price: $487.99
+UNI Price: $29.39
+Staked: 0.0218 Cake-LP ($5.33)
+SMRF Per Week: 23.19 ($0.06)
+APR: Day 0.15% Week 1.04% Year 54.06%
+You are staking 0.00 [WBNB]-[UNI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[UNI] Cake LP - Fee 3.9%
+Unstake 0.00 [WBNB]-[UNI] Cake LP
+Claim 0.00 SMRF ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $226.44 TVL: $1,036,312,408.01
+Cake Price: $25.13
+WBNB Price: $487.99
+Staked: 0.0413 Cake-LP ($9.35)
+SMRF Per Week: 23.19 ($0.06)
+APR: Day 0.08% Week 0.59% Year 30.82%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 3.9%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 SMRF ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+BUSD
+ Price: $1.00 Market Cap: $4,196,932,832.58 
+[%]
+Staked: 145.1391 BUSD ($145.00)
+SMRF Per Week: 27.05 ($0.06)
+APR: Day 0.01% Week 0.04% Year 2.32%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 3.9%
+Unstake 0.00 BUSD
+Claim 0.00 SMRF ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+WBNB
+ Price: $487.99 Market Cap: $3,446,603,369.35 
+[%]
+Staked: 0.0483 WBNB ($23.58)
+SMRF Per Week: 27.05 ($0.06)
+APR: Day 0.04% Week 0.27% Year 14.25%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 3.9%
+Unstake 0.00 WBNB
+Claim 0.00 SMRF ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 1.1420 DAI ($1.14)
+SMRF Per Week: 15.46 ($0.04)
+APR: Day 0.46% Week 3.23% Year 168.19%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 3.9%
+Unstake 0.00 DAI
+Claim 0.00 SMRF ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+ETH
+ Price: $3,334.27 Market Cap: $4,351,222,350.00 
+[%]
+Staked: 0.0260 ETH ($86.77)
+SMRF Per Week: 15.46 ($0.04)
+APR: Day 0.01% Week 0.04% Year 2.21%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 3.9%
+Unstake 0.00 ETH
+Claim 0.00 SMRF ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+BTCB
+ Price: $49,844.00 Market Cap: $4,261,711,844.00 
+[%]
+Staked: 0.0000 BTCB ($0.00)
+SMRF Per Week: 15.46 ($0.04)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BTCB ($0.00), NaN% of the pool.
+Stake 0.00 BTCB - Fee 3.9%
+Unstake 0.00 BTCB
+Claim 0.00 SMRF ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+Cake
+ Price: $25.13 Market Cap: $10,457,472,692.20 
+[%]
+Staked: 1.0160 Cake ($25.53)
+SMRF Per Week: 15.46 ($0.04)
+APR: Day 0.02% Week 0.14% Year 7.52%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 3.9%
+Unstake 0.00 Cake
+Claim 0.00 SMRF ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+DOT
+ Price: $28.18 Market Cap: $394,519,999.86 
+[%]
+Staked: 2.1877 DOT ($61.65)
+SMRF Per Week: 15.46 ($0.04)
+APR: Day 0.01% Week 0.06% Year 3.12%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 3.9%
+Unstake 0.00 DOT
+Claim 0.00 SMRF ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+ADA
+ Price: $2.83 Market Cap: $792,400,000.00 
+[%]
+Staked: 0.0000 ADA ($0.00)
+SMRF Per Week: 15.46 ($0.04)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ADA ($0.00), NaN% of the pool.
+Stake 0.00 ADA - Fee 3.9%
+Unstake 0.00 ADA
+Claim 0.00 SMRF ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+[WHALE]-[SMRF] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.62
+WHALE Price: $0.001588
+SMRF Price: $0.002390
+Staked: 137.3238 Cake-LP ($0.60)
+SMRF Per Week: 115.93 ($0.28)
+APR: Day 6.55% Week 45.84% Year 2383.68%
+You are staking 0.00 [WHALE]-[SMRF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WHALE]-[SMRF] Cake LP
+Unstake 0.00 [WHALE]-[SMRF] Cake LP
+Claim 0.00 SMRF ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+SMRF
+ Price: $0.002390 Market Cap: $439.13 
+[%]
+Staked: 34914.2334 SMRF ($83.43)
+SMRF Per Week: 170.04 ($0.41)
+APR: Day 0.07% Week 0.49% Year 25.32%
+You are staking 0.00 SMRF ($0.00), 0.00% of the pool.
+Stake 0.00 SMRF
+Unstake 0.00 SMRF
+Claim 0.00 SMRF ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+JUNGLE
+ Price: $0.00 Market Cap: $0.00 
+Staked: 96.7385 JUNGLE ($0.00)
+SMRF Per Week: 19.32 ($0.05)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 JUNGLE ($0.00), NaN% of the pool.
+Stake 0.00 JUNGLE - Fee 3.9%
+Unstake 0.00 JUNGLE
+Claim 0.00 SMRF ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $982.17

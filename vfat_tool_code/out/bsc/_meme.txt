@@ -1,0 +1,190 @@
+INFO  : https://memefarm.io
+*****************************************************************************
+
+Mon Aug 23 2021 13:51:09 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 19 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+9 - 
+[APE]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $15.18 TVL: $37,011.02
+APE Price: $0.11
+WBNB Price: $483.93
+Staked: 1629.2759 Cake-LP ($24,731.09)
+MFRM Per Week: 19748.57 ($445.10)
+APR: Day 0.26% Week 1.80% Year 93.59%
+You are staking 0.00 [APE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [APE]-[WBNB] Cake LP
+Unstake 0.00 [APE]-[WBNB] Cake LP
+Claim 0.00 MFRM ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+[MFRM]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6.67 TVL: $17,895.91
+MFRM Price: $0.02
+WBNB Price: $483.93
+Staked: 2644.7971 Cake-LP ($17,642.14)
+MFRM Per Week: 29622.86 ($667.65)
+APR: Day 0.54% Week 3.78% Year 196.79%
+You are staking 0.00 [MFRM]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MFRM]-[WBNB] Cake LP
+Unstake 0.00 [MFRM]-[WBNB] Cake LP
+Claim 0.00 MFRM ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+[SOAK]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.25 TVL: $695.43
+SOAK Price: $0.008604
+WBNB Price: $483.93
+Staked: 158.7431 Cake-LP ($674.10)
+MFRM Per Week: 3291.43 ($74.18)
+APR: Day 1.57% Week 11.00% Year 572.25%
+You are staking 0.00 [SOAK]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SOAK]-[WBNB] Cake LP
+Unstake 0.00 [SOAK]-[WBNB] Cake LP
+Claim 0.00 MFRM ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+[BUST]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9.15 TVL: $5,853.28
+BUST Price: $0.04
+WBNB Price: $483.93
+Staked: 637.4519 Cake-LP ($5,833.20)
+MFRM Per Week: 4937.14 ($111.28)
+APR: Day 0.27% Week 1.91% Year 99.20%
+You are staking 0.00 [BUST]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUST]-[WBNB] Cake LP
+Unstake 0.00 [BUST]-[WBNB] Cake LP
+Claim 0.00 MFRM ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+[WBNB]-[BIFI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,606.29 TVL: $3,045,661.80
+WBNB Price: $483.93
+BIFI Price: $1,255.35
+Staked: 0.9639 Cake-LP ($1,548.37)
+MFRM Per Week: 3291.43 ($74.18)
+APR: Day 0.68% Week 4.79% Year 249.14%
+You are staking 0.00 [WBNB]-[BIFI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BIFI] Cake LP
+Unstake 0.00 [WBNB]-[BIFI] Cake LP
+Claim 0.00 MFRM ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+[MFRM]-[APE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.10 TVL: $21,428.86
+MFRM Price: $0.02
+APE Price: $0.11
+Staked: 212126.6207 Cake-LP ($21,348.47)
+MFRM Per Week: 4937.14 ($111.28)
+APR: Day 0.07% Week 0.52% Year 27.10%
+You are staking 0.00 [MFRM]-[APE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MFRM]-[APE] Cake LP
+Unstake 0.00 [MFRM]-[APE] Cake LP
+Claim 0.00 MFRM ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+[BUST]-[APE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.14 TVL: $24,631.15
+BUST Price: $0.04
+APE Price: $0.11
+Staked: 159151.5032 Cake-LP ($22,362.16)
+MFRM Per Week: 4937.14 ($111.28)
+APR: Day 0.07% Week 0.50% Year 25.88%
+You are staking 0.00 [BUST]-[APE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUST]-[APE] Cake LP
+Unstake 0.00 [BUST]-[APE] Cake LP
+Claim 0.00 MFRM ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[APE]-[BIFI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $23.84 TVL: $5,386.51
+APE Price: $0.11
+BIFI Price: $1,255.35
+Staked: 225.3146 Cake-LP ($5,372.61)
+MFRM Per Week: 3291.43 ($74.18)
+APR: Day 0.20% Week 1.38% Year 71.80%
+You are staking 0.00 [APE]-[BIFI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [APE]-[BIFI] Cake LP
+Unstake 0.00 [APE]-[BIFI] Cake LP
+Claim 0.00 MFRM ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[TEST]-[APE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $27.23 TVL: $1,286.29
+TEST Price: $0.0000010104
+APE Price: $0.11
+Staked: 47.2075 Cake-LP ($1,285.48)
+MFRM Per Week: 6582.86 ($148.37)
+APR: Day 1.65% Week 11.54% Year 600.17%
+You are staking 0.00 [TEST]-[APE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TEST]-[APE] Cake LP
+Unstake 0.00 [TEST]-[APE] Cake LP
+Claim 0.00 MFRM ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $100,797.64

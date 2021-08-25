@@ -1,0 +1,71 @@
+INFO  : https://kine.finance
+**********************************************************************
+
+Mon Aug 23 2021 15:39:36 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[WETH]-[KINE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $219.83 TVL: $3,711,921.88
+WETH Price: $3,331.59
+KINE Price: $3.35
+Staked: 8970.9202 UNI-V2 ($1,972,105.62)
+KINE Per Week: 10019.63 ($33,565.77)
+APR: Day 0.24% Week 1.70% Year 88.51%
+You are staking 0.000000 [WETH]-[KINE] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [WETH]-[KINE] Uni LP
+Unstake 0.000000 [WETH]-[KINE] Uni LP
+Claim 0.000000 KINE ($0.00)
+Revoke (set approval to 0)
+Exit
+[WETH]-[kUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $95.14 TVL: $273.23
+WETH Price: $3,331.59
+kUSD Price: $0.61
+Staked: 0.6389 UNI-V2 ($60.78)
+KINE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WETH]-[kUSD] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [WETH]-[kUSD] Uni LP
+Unstake 0.000000 [WETH]-[kUSD] Uni LP
+Claim 0.000000 KINE ($0.00)
+Revoke (set approval to 0)
+Exit
+[kUSD]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,595,374.02 TVL: $820.44
+kUSD Price: $0.61
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+KINE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [kUSD]-[USDT] Uni LP $0.00 (NaN% of the pool).
+Etherscan
+Stake 0.000000 [kUSD]-[USDT] Uni LP
+Unstake 0.000000 [kUSD]-[USDT] Uni LP
+Claim 0.000000 KINE ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $1,972,166.40

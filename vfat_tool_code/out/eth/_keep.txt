@@ -1,0 +1,70 @@
+INFO  : https://dashboard.keep.network/liquidity
+**********************************************************************
+
+Mon Aug 23 2021 15:40:48 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[KEEP]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $110.01 TVL: $11,862,088.24
+KEEP Price: $0.43
+WETH Price: $3,333.32
+Staked: 85483.8656 UNI-V2 ($9,404,135.77)
+KEEP Per Week: 170000.00 ($73,803.97)
+APR: Day 0.11% Week 0.78% Year 40.81%
+You are staking 0.000000 [KEEP]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [KEEP]-[WETH] Uni LP
+Unstake 0.000000 [KEEP]-[WETH] Uni LP
+Claim 0.000000 KEEP ($0.00)
+Revoke (set approval to 0)
+Exit
+[TBTC]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $27,694.01 TVL: $2,466,064.32
+TBTC Price: $51,196.00
+WETH Price: $3,333.32
+Staked: 57.2054 UNI-V2 ($1,584,247.70)
+KEEP Per Week: 25000.00 ($10,853.52)
+APR: Day 0.10% Week 0.69% Year 35.62%
+You are staking 0.000000 [TBTC]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [TBTC]-[WETH] Uni LP
+Unstake 0.000000 [TBTC]-[WETH] Uni LP
+Claim 0.000000 KEEP ($0.00)
+Revoke (set approval to 0)
+Exit
+saddleTWRenSBTC
+ Price: $52,172.40 Market Cap: $58,022,141.83 
+Staked: 965.2396 saddleTWRenSBTC ($50,358,864.45)
+KEEP Per Week: 250000.00 ($108,535.25)
+APR: Day 0.03% Week 0.22% Year 11.21%
+You are staking 0.000000 saddleTWRenSBTC $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 saddleTWRenSBTC
+Unstake 0.000000 saddleTWRenSBTC
+Claim 0.000000 KEEP ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $61,347,247.91
+
+KEEP Price: $0.434141 TVL: $17,393,993.29
+Staked: 40065308.93
+KEEP Per Week: 23333.33 ($10,129.96)
+APR: Day 0.01% Week 0.06% Year 3.03%
+You are staking 0.00 KEEP ($0.00), 0.00% of the pool.
+Unstake 0.00 KEEP

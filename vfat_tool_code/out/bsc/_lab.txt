@@ -1,0 +1,340 @@
+INFO  : https://thelab.finance
+****************************************************************************************
+
+Mon Aug 23 2021 14:11:36 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 34 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+9 - 
+LABO
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1103095.9828 LABO ($0.00)
+LABO Per Week: 6805.06 ($104.40)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 LABO ($0.00), NaN% of the pool.
+Stake 0.00 LABO
+Unstake 0.00 LABO
+Claim 0.00 LABO ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+BUSD
+ Price: $1.00 Market Cap: $4,195,693,537.75 
+[%]
+Staked: 18390.9577 BUSD ($18,367.73)
+LABO Per Week: 2551.90 ($39.15)
+APR: Day 0.03% Week 0.21% Year 11.08%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 LABO ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+WBNB
+ Price: $484.85 Market Cap: $3,436,076,261.01 
+[%]
+Staked: 28.6781 WBNB ($13,904.56)
+LABO Per Week: 2551.90 ($39.15)
+APR: Day 0.04% Week 0.28% Year 14.64%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 LABO ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+EGG
+ Price: $0.73 Market Cap: $3,465,168.07 
+[%]
+Staked: 1775.7887 EGG ($1,303.73)
+LABO Per Week: 3402.53 ($52.20)
+APR: Day 0.57% Week 4.00% Year 208.21%
+You are staking 0.00 EGG ($0.00), 0.00% of the pool.
+Stake 0.00 EGG - Fee 4%
+Unstake 0.00 EGG
+Claim 0.00 LABO ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+AUTO
+ Price: $1,422.74 Market Cap: $91,226,677.52 
+[%]
+Staked: 2.9376 AUTO ($4,179.49)
+LABO Per Week: 3402.53 ($52.20)
+APR: Day 0.18% Week 1.25% Year 64.95%
+You are staking 0.00 AUTO ($0.00), 0.00% of the pool.
+Stake 0.00 AUTO - Fee 4%
+Unstake 0.00 AUTO
+Claim 0.00 LABO ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+ETH
+ Price: $3,329.25 Market Cap: $4,344,671,250.00 
+[%]
+Staked: 0.3503 ETH ($1,166.33)
+LABO Per Week: 2551.90 ($39.15)
+APR: Day 0.48% Week 3.36% Year 174.55%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 LABO ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+DAI
+ Price: $1.00 Market Cap: $261,817,648.00 
+[%]
+Staked: 1065.7092 DAI ($1,064.97)
+LABO Per Week: 850.63 ($13.05)
+APR: Day 0.18% Week 1.23% Year 63.72%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 LABO ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,085,796.00 
+[%]
+Staked: 1914.2400 USDC ($1,912.18)
+LABO Per Week: 850.63 ($13.05)
+APR: Day 0.10% Week 0.68% Year 35.49%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 LABO ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+DOT
+ Price: $28.00 Market Cap: $391,999,999.86 
+[%]
+Staked: 78.2536 DOT ($2,191.10)
+LABO Per Week: 2551.90 ($39.15)
+APR: Day 0.26% Week 1.79% Year 92.91%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 LABO ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+BTCB
+ Price: $50,135.00 Market Cap: $4,286,592,635.00 
+[%]
+Staked: 0.3841 BTCB ($19,256.77)
+LABO Per Week: 1701.27 ($26.10)
+APR: Day 0.02% Week 0.14% Year 7.05%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 LABO ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+BSCX
+ Price: $2.48 Market Cap: $24,758,822.08 
+[%]
+Staked: 696.8136 BSCX ($1,728.10)
+LABO Per Week: 850.63 ($13.05)
+APR: Day 0.11% Week 0.76% Year 39.27%
+You are staking 0.00 BSCX ($0.00), 0.00% of the pool.
+Stake 0.00 BSCX - Fee 4%
+Unstake 0.00 BSCX
+Claim 0.00 LABO ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[LABO]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.25 TVL: $9,251.63
+LABO Price: $0.02
+BUSD Price: $1.00
+Staked: 35401.2705 Cake-LP ($8,920.73)
+LABO Per Week: 68050.63 ($1,044.02)
+APR: Day 1.67% Week 11.70% Year 608.57%
+You are staking 0.00 [LABO]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LABO]-[BUSD] Cake LP
+Unstake 0.00 [LABO]-[BUSD] Cake LP
+Claim 0.00 LABO ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[LABO]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $5.60 TVL: $18,974.96
+LABO Price: $0.02
+WBNB Price: $484.85
+Staked: 3369.3317 Cake-LP ($18,867.62)
+LABO Per Week: 68050.63 ($1,044.02)
+APR: Day 0.79% Week 5.53% Year 287.74%
+You are staking 0.00 [LABO]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LABO]-[WBNB] Cake LP
+Unstake 0.00 [LABO]-[WBNB] Cake LP
+Claim 0.00 LABO ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.77 TVL: $527,043,805.51
+WBNB Price: $484.85
+BUSD Price: $1.00
+Staked: 59.7837 Cake-LP ($2,975.29)
+LABO Per Week: 5103.80 ($78.30)
+APR: Day 0.38% Week 2.63% Year 136.85%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 LABO ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,066,448.87
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 12611.3458 Cake-LP ($25,801.30)
+LABO Per Week: 3402.53 ($52.20)
+APR: Day 0.03% Week 0.20% Year 10.52%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 LABO ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,239.14 TVL: $172,135,360.43
+BTCB Price: $50,135.00
+WBNB Price: $484.85
+Staked: 0.3141 Cake-LP ($3,216.40)
+LABO Per Week: 5103.80 ($78.30)
+APR: Day 0.35% Week 2.43% Year 126.59%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 LABO ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,653.54 TVL: $261,936,495.53
+ETH Price: $3,329.25
+WBNB Price: $484.85
+Staked: 1.0672 Cake-LP ($2,831.75)
+LABO Per Week: 5103.80 ($78.30)
+APR: Day 0.40% Week 2.77% Year 143.79%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 LABO ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.03 TVL: $81,307,812.15
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 1684.0418 Cake-LP ($3,426.24)
+LABO Per Week: 3402.53 ($52.20)
+APR: Day 0.22% Week 1.52% Year 79.23%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 LABO ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $240.58 TVL: $82,720,566.15
+DOT Price: $28.00
+WBNB Price: $484.85
+Staked: 15.2507 Cake-LP ($3,668.99)
+LABO Per Week: 5103.80 ($78.30)
+APR: Day 0.30% Week 2.13% Year 110.97%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 LABO ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $225.04 TVL: $1,029,990,322.94
+Cake Price: $24.98
+WBNB Price: $484.85
+Staked: 5.9509 Cake-LP ($1,339.18)
+LABO Per Week: 3402.53 ($52.20)
+APR: Day 0.56% Week 3.90% Year 202.69%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 LABO ($0.00)
+Staking or unstaking also claims rewards.
+33 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.44 TVL: $46,965,274.26
+ADA Price: $2.84
+WBNB Price: $484.85
+Staked: 212.4929 Cake-LP ($16,454.60)
+LABO Per Week: 3402.53 ($52.20)
+APR: Day 0.05% Week 0.32% Year 16.50%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 LABO ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $152,577.06

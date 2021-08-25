@@ -1,0 +1,20 @@
+INFO  : https://fulcrum.trade
+************************************************************************************
+
+Mon Aug 23 2021 14:05:50 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+{
+  "code": -32603,
+  "message": "Internal JSON-RPC error.",
+  "data": {
+    "code": -32000,
+    "message": "execution reverted"
+  }
+}
+Oops something went wrong. Try refreshing the page.

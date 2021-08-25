@@ -1,0 +1,434 @@
+INFO  : https://TheKongFinance.com
+*************************************************************************************
+
+Mon Aug 23 2021 14:38:35 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 27 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[KONG]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.07 TVL: $185.30
+KONG Price: $0.000978
+BUSD Price: $1.00
+Staked: 931.1591 Cake-LP ($69.83)
+KONG Per Week: 8960.00 ($8.77)
+APR: Day 1.79% Week 12.55% Year 652.73%
+You are staking 0.00 [KONG]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KONG]-[BUSD] Cake LP
+Unstake 0.00 [KONG]-[BUSD] Cake LP
+Claim 0.00 KONG ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[KONG]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.62 TVL: $128.70
+KONG Price: $0.000978
+WBNB Price: $484.17
+Staked: 21.8317 Cake-LP ($35.28)
+KONG Per Week: 6720.00 ($6.57)
+APR: Day 2.66% Week 18.64% Year 969.11%
+You are staking 0.00 [KONG]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KONG]-[WBNB] Cake LP
+Unstake 0.00 [KONG]-[WBNB] Cake LP
+Claim 0.00 KONG ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.74 TVL: $527,391,845.63
+WBNB Price: $484.17
+BUSD Price: $1.00
+Staked: 0.0240 Cake-LP ($1.19)
+KONG Per Week: 1194.67 ($1.17)
+APR: Day 13.99% Week 97.91% Year 5091.54%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 KONG ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDT]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $315,300,575.43
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 18.8149 Cake-LP ($38.51)
+KONG Per Week: 1194.67 ($1.17)
+APR: Day 0.43% Week 3.04% Year 157.83%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 KONG ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,213.49 TVL: $173,734,608.35
+BTCB Price: $49,954.00
+WBNB Price: $484.17
+Staked: 0.0013 Cake-LP ($13.73)
+KONG Per Week: 1194.67 ($1.17)
+APR: Day 1.22% Week 8.51% Year 442.75%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 KONG ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,652.34 TVL: $261,815,407.97
+ETH Price: $3,330.87
+WBNB Price: $484.17
+Staked: 0.0014 Cake-LP ($3.82)
+KONG Per Week: 1194.67 ($1.17)
+APR: Day 4.37% Week 30.60% Year 1591.23%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 KONG ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[DAI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.04 TVL: $81,324,918.23
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+KONG Per Week: 1194.67 ($1.17)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 KONG ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+[USDC]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.06 TVL: $157,907,643.94
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 373.6212 Cake-LP ($768.87)
+KONG Per Week: 1194.67 ($1.17)
+APR: Day 0.02% Week 0.15% Year 7.90%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 KONG ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+[DOT]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $240.41 TVL: $82,662,009.69
+DOT Price: $28.00
+WBNB Price: $484.17
+Staked: 0.0954 Cake-LP ($22.92)
+KONG Per Week: 1194.67 ($1.17)
+APR: Day 0.73% Week 5.10% Year 265.12%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 KONG ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+KONG
+ Price: $0.000978 Market Cap: $503.15 
+[%]
+Staked: 157018.0856 KONG ($153.61)
+KONG Per Week: 3733.33 ($3.65)
+APR: Day 0.34% Week 2.38% Year 123.64%
+You are staking 0.00 KONG ($0.00), 0.00% of the pool.
+Stake 0.00 KONG
+Unstake 0.00 KONG
+Claim 0.00 KONG ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+BUSD
+ Price: $1.00 Market Cap: $4,196,088,431.70 
+[%]
+Staked: 13.4029 BUSD ($13.39)
+KONG Per Week: 746.67 ($0.73)
+APR: Day 0.78% Week 5.46% Year 283.74%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 KONG ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+WBNB
+ Price: $484.17 Market Cap: $3,428,406,950.93 
+[%]
+Staked: 1.0095 WBNB ($488.79)
+KONG Per Week: 746.67 ($0.73)
+APR: Day 0.02% Week 0.15% Year 7.77%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 KONG ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 11.0056 USDT ($11.00)
+KONG Per Week: 746.67 ($0.73)
+APR: Day 0.95% Week 6.64% Year 345.20%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 KONG ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.0001 BTCB ($6.99)
+KONG Per Week: 746.67 ($0.73)
+APR: Day 1.49% Week 10.45% Year 543.23%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 KONG ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+ETH
+ Price: $3,330.87 Market Cap: $4,346,785,350.00 
+[%]
+Staked: 0.0347 ETH ($115.53)
+KONG Per Week: 746.67 ($0.73)
+APR: Day 0.09% Week 0.63% Year 32.88%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 KONG ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 3.9408 DAI ($3.94)
+KONG Per Week: 746.67 ($0.73)
+APR: Day 2.65% Week 18.54% Year 963.88%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 KONG ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+USDC
+ Price: $1.00 Market Cap: $1,777,137,387.00 
+[%]
+Staked: 175.7513 USDC ($175.57)
+KONG Per Week: 746.67 ($0.73)
+APR: Day 0.06% Week 0.42% Year 21.64%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 KONG ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+DOT
+ Price: $28.00 Market Cap: $391,999,999.86 
+[%]
+Staked: 0.1290 DOT ($3.61)
+KONG Per Week: 746.67 ($0.73)
+APR: Day 2.89% Week 20.22% Year 1051.27%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 KONG ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $225.02 TVL: $1,029,880,284.51
+Cake Price: $25.01
+WBNB Price: $484.17
+Staked: 0.1236 Cake-LP ($27.80)
+KONG Per Week: 1194.67 ($1.17)
+APR: Day 0.60% Week 4.20% Year 218.60%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 KONG ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[ADA]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $77.11 TVL: $46,765,389.71
+ADA Price: $2.82
+WBNB Price: $484.17
+Staked: 0.5582 Cake-LP ($43.04)
+KONG Per Week: 1194.67 ($1.17)
+APR: Day 0.39% Week 2.72% Year 141.21%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 KONG ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+Cake
+ Price: $25.01 Market Cap: $10,407,352,430.13 
+[%]
+Staked: 4.8039 Cake ($120.15)
+KONG Per Week: 746.67 ($0.73)
+APR: Day 0.09% Week 0.61% Year 31.62%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 KONG ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+ADA
+ Price: $2.82 Market Cap: $789,600,000.00 
+[%]
+Staked: 6.4562 ADA ($18.21)
+KONG Per Week: 746.67 ($0.73)
+APR: Day 0.57% Week 4.01% Year 208.63%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 KONG ($0.00)
+Staking or unstaking also claims rewards.
+22 - 
+[GDZ]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.14 TVL: $267.69
+GDZ Price: $0.003875
+BUSD Price: $1.00
+Staked: 14.2117 Cake-LP ($1.97)
+KONG Per Week: 448.00 ($0.44)
+APR: Day 3.18% Week 22.29% Year 1159.29%
+You are staking 0.00 [GDZ]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GDZ]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [GDZ]-[BUSD] Cake LP
+Claim 0.00 KONG ($0.00)
+Staking or unstaking also claims rewards.
+23 - 
+[GDZ]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $3.02 TVL: $259.04
+GDZ Price: $0.003875
+WBNB Price: $484.17
+Staked: 4.2054 Cake-LP ($12.70)
+KONG Per Week: 448.00 ($0.44)
+APR: Day 0.49% Week 3.45% Year 179.43%
+You are staking 0.00 [GDZ]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GDZ]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [GDZ]-[WBNB] Cake LP
+Claim 0.00 KONG ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+GDZ
+ Price: $0.003875 Market Cap: $956.84 
+[%]
+Staked: 5860.9949 GDZ ($22.71)
+KONG Per Week: 298.67 ($0.29)
+APR: Day 0.18% Week 1.29% Year 66.91%
+You are staking 0.00 GDZ ($0.00), 0.00% of the pool.
+Stake 0.00 GDZ - Fee 2%
+Unstake 0.00 GDZ
+Claim 0.00 KONG ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+BUNNY
+ Price: $7.66 Market Cap: $85,062,664.73 
+[%]
+Staked: 0.8897 BUNNY ($6.82)
+KONG Per Week: 746.67 ($0.73)
+APR: Day 1.53% Week 10.72% Year 557.34%
+You are staking 0.00 BUNNY ($0.00), 0.00% of the pool.
+Stake 0.00 BUNNY - Fee 4%
+Unstake 0.00 BUNNY
+Claim 0.00 KONG ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+UNI
+ Price: $29.38 Market Cap: $108,706,000.00 
+[%]
+Staked: 1.7310 UNI ($50.86)
+KONG Per Week: 746.67 ($0.73)
+APR: Day 0.21% Week 1.44% Year 74.69%
+You are staking 0.00 UNI ($0.00), 0.00% of the pool.
+Stake 0.00 UNI - Fee 4%
+Unstake 0.00 UNI
+Claim 0.00 KONG ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $2,230.83

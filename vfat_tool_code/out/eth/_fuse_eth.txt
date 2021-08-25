@@ -1,0 +1,51 @@
+INFO  : https://fuse.io
+*************************************************************************
+
+Mon Aug 23 2021 15:47:11 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[FUSE]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $588,472.90 TVL: $80,203.48
+FUSE Price: $0.08
+USDC Price: $1.00
+Staked: 0.0002 UNI-V2 ($106.71)
+FUSE Per Week: 41666.67 ($3,205.04)
+APR: Day 429.09% Week 3003.62% Year 156188.27%
+You are staking 0.000000 [FUSE]-[USDC] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [FUSE]-[USDC] Uni LP
+Unstake 0.000000 [FUSE]-[USDC] Uni LP
+Claim 0.000000 FUSE ($0.00)
+Revoke (set approval to 0)
+Exit
+[FUSE]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $38.48 TVL: $926,797.95
+FUSE Price: $0.08
+WETH Price: $3,328.40
+Staked: 444.4736 UNI-V2 ($17,102.27)
+FUSE Per Week: 41666.67 ($3,205.04)
+APR: Day 2.68% Week 18.74% Year 974.50%
+You are staking 0.000000 [FUSE]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [FUSE]-[WETH] Uni LP
+Unstake 0.000000 [FUSE]-[WETH] Uni LP
+Claim 0.000000 FUSE ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $17,208.98

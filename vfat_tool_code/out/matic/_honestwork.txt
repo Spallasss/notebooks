@@ -1,0 +1,126 @@
+INFO  : https://www.honestwork.farm/
+        
+
+Telegram  : https://t.me/honestworkfarms
+
+🚜 Token Contract Address : 0x4dA646B71014332AE8370017d05205346d3ca50A
+
+👨‍🌾 HonestChef Address : 0xf43261d712cCa4aE55b34B77d9157e773254D1dF
+
+
+After all the farms of the inflationary tokens bring their price to 0 we wanted to create a farm where you know for sure the native token has a floor!
+
+This floor is calculated based on the 33% supply allocated to the farms, considering this in the worst case cenario the token drops 50% of the initial 
+price if ALL the tokens are farmed and sold with NO Buys.
+
+the initial 🚜 APR's will be low and will be increased in a logaritmic model based on the fibonnacci sequence!
+
+Thank y'all in advance it ain't much but you know it!!
+this ain't no financial advise consider this as a Meme farmable Token please Ape only what your degen minds consider SAFU 
+*******************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 11:48:00 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 10 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[🚜] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $352,452.04 TVL: $686.17
+USDC Price: $1.00
+🚜 Price: $0.01
+Staked: 0.0018 UNI-V2 ($624.73)
+HONEST Per Week: 4470.26 ($54.64)
+APR: Day 1.25% Week 8.75% Year 454.80%
+You are staking 0.00 [USDC]-[🚜] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[🚜] Uni LP
+Unstake 0.00 [USDC]-[🚜] Uni LP
+Claim 0.00 HONEST ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,616,565.25 TVL: $33,416,832.19
+WMATIC Price: $1.65
+USDC Price: $1.00
+Staked: 0.0001 UNI-V2 ($375.00)
+HONEST Per Week: 2767.30 ($33.82)
+APR: Day 1.29% Week 9.02% Year 469.03%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 2.33%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 HONEST ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[🚜] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.31 TVL: $5,109.78
+WMATIC Price: $1.65
+🚜 Price: $0.01
+Staked: 16500.7363 UNI-V2 ($5,056.91)
+HONEST Per Week: 2767.30 ($33.82)
+APR: Day 0.10% Week 0.67% Year 34.78%
+You are staking 0.00 [WMATIC]-[🚜] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[🚜] Uni LP
+Unstake 0.00 [WMATIC]-[🚜] Uni LP
+Claim 0.00 HONEST ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+🚜
+ Price: $0.01 Market Cap: $5,282.05 
+[%]
+Staked: 179089.5589 🚜 ($2,188.99)
+HONEST Per Week: 4470.26 ($54.64)
+APR: Day 0.36% Week 2.50% Year 129.80%
+You are staking 0.00 🚜 ($0.00), 0.00% of the pool.
+Stake 0.00 🚜
+Unstake 0.00 🚜
+Claim 0.00 HONEST ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[USDC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $74,908,513.80 TVL: $21,370,031.70
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 UNI-V2 ($591.22)
+HONEST Per Week: 212.87 ($2.60)
+APR: Day 0.06% Week 0.44% Year 22.88%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP - Fee 2.33%
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 HONEST ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $8,836.86

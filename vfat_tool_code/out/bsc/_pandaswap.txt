@@ -1,0 +1,18 @@
+INFO  : https://farms.pandaswap.xyz
+**************************************************************************************
+
+Mon Aug 23 2021 14:16:00 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+*** Read before depositing ***
+https://docs.bao.finance/franchises/panda/pandaswap-fees-penalties
+
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 95 pools.
+
+Showing incentivized pools only.

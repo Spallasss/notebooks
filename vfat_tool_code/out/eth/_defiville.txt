@@ -1,0 +1,31 @@
+INFO  : https://defiville.finance/
+***********************************************************************************
+
+Mon Aug 23 2021 15:36:37 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+Reading smart contracts...
+
+[ISLA]-[WETH] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $105.91 TVL: $136,709.45
+ISLA Price: $0.62
+WETH Price: $3,331.95
+Staked: 76.9650 UNI-V2 ($8,151.41)
+ISLA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [ISLA]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [ISLA]-[WETH] Uni LP
+Unstake 0.000000 [ISLA]-[WETH] Uni LP
+Claim 0.000000 ISLA ($0.00)
+Revoke (set approval to 0)
+Exit
+Total staked: $8,151.41

@@ -1,0 +1,212 @@
+INFO  : https://tripswap.finance
+****************************************************************************************
+
+Mon Aug 23 2021 14:08:19 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 12 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[TRIP]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.09 TVL: $57.79
+TRIP Price: $0.001509
+BUSD Price: $1.00
+Staked: 573.0972 Cake-LP ($48.83)
+TRIP Per Week: 5310.44 ($8.01)
+APR: Day 2.34% Week 16.41% Year 853.25%
+You are staking 0.00 [TRIP]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TRIP]-[BUSD] Cake LP
+Unstake 0.00 [TRIP]-[BUSD] Cake LP
+Claim 0.00 TRIP ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WBNB]-[TRIP] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.83 TVL: $66.95
+WBNB Price: $485.11
+TRIP Price: $0.001509
+Staked: 34.8194 Cake-LP ($63.73)
+TRIP Per Week: 3186.26 ($4.81)
+APR: Day 1.08% Week 7.54% Year 392.26%
+You are staking 0.00 [WBNB]-[TRIP] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[TRIP] Cake LP
+Unstake 0.00 [WBNB]-[TRIP] Cake LP
+Claim 0.00 TRIP ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $64.60 TVL: $3,333,341.40
+WBNB Price: $485.11
+BUSD Price: $1.00
+Staked: 0.9999 Cake-LP ($64.59)
+TRIP Per Week: 1327.61 ($2.00)
+APR: Day 0.44% Week 3.10% Year 161.27%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 TRIP ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[BTCB]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $10,906.06 TVL: $1,953,599.49
+BTCB Price: $50,135.00
+WBNB Price: $485.11
+Staked: 0.1167 Cake-LP ($1,272.41)
+TRIP Per Week: 1327.61 ($2.00)
+APR: Day 0.02% Week 0.16% Year 8.19%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 TRIP ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[ETH]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,864.46 TVL: $3,525,624.23
+ETH Price: $3,330.19
+WBNB Price: $485.11
+Staked: 0.0250 Cake-LP ($71.61)
+TRIP Per Week: 1327.61 ($2.00)
+APR: Day 0.40% Week 2.80% Year 145.46%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 TRIP ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[AUTO]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,738.65 TVL: $29,783,007.82
+AUTO Price: $1,418.21
+WBNB Price: $485.11
+Staked: 0.1337 Cake-LP ($232.50)
+TRIP Per Week: 663.80 ($1.00)
+APR: Day 0.06% Week 0.43% Year 22.40%
+You are staking 0.00 [AUTO]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AUTO]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [AUTO]-[WBNB] Cake LP
+Claim 0.00 TRIP ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[Cake]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $260.99 TVL: $8,051,479.03
+Cake Price: $25.00
+WBNB Price: $485.11
+Staked: 0.7552 Cake-LP ($197.11)
+TRIP Per Week: 663.80 ($1.00)
+APR: Day 0.07% Week 0.51% Year 26.42%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 TRIP ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+TRIP
+ Price: $0.001509 Market Cap: $424.04 
+[%]
+Staked: 173805.3656 TRIP ($262.25)
+TRIP Per Week: 1327.61 ($2.00)
+APR: Day 0.11% Week 0.76% Year 39.72%
+You are staking 0.00 TRIP ($0.00), 0.00% of the pool.
+Stake 0.00 TRIP
+Unstake 0.00 TRIP
+Claim 0.00 TRIP ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+WBNB
+ Price: $485.11 Market Cap: $3,437,408,324.61 
+[%]
+Staked: 23.7075 WBNB ($11,500.77)
+TRIP Per Week: 398.28 ($0.60)
+APR: Day 0.00% Week 0.01% Year 0.27%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 3%
+Unstake 0.00 WBNB
+Claim 0.00 TRIP ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+BUSD
+ Price: $1.00 Market Cap: $4,198,911,503.29 
+[%]
+Staked: 426.5173 BUSD ($426.31)
+TRIP Per Week: 265.52 ($0.40)
+APR: Day 0.01% Week 0.09% Year 4.89%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 3%
+Unstake 0.00 BUSD
+Claim 0.00 TRIP ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+BTCB
+ Price: $50,135.00 Market Cap: $4,286,592,635.00 
+[%]
+Staked: 0.0003 BTCB ($17.25)
+TRIP Per Week: 265.52 ($0.40)
+APR: Day 0.33% Week 2.32% Year 120.77%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 3%
+Unstake 0.00 BTCB
+Claim 0.00 TRIP ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+ETH
+ Price: $3,330.19 Market Cap: $4,345,897,950.00 
+[%]
+Staked: 0.0097 ETH ($32.30)
+TRIP Per Week: 265.52 ($0.40)
+APR: Day 0.18% Week 1.24% Year 64.49%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 3%
+Unstake 0.00 ETH
+Claim 0.00 TRIP ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $14,189.66

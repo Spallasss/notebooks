@@ -1,0 +1,195 @@
+************************* 👨‍🌾 PLANETSWAP MARS FARMING CALCULATOR 👨‍🌾 *************************
+
+Docs  : https://docs.planetswap.app
+Website: https://mars.planetswap.app
+TG: https://t.me/planetswap
+
+********************************************************************************************
+
+Mon Aug 23 2021 15:12:32 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading tasty smart contracts...
+
+Staking Contract
+Found 13 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+MARS
+ Price: $0.00 Market Cap: $0.00 
+Staked: 37.7988 MARS ($0.00)
+MARS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MARS ($0.00), NaN% of the pool.
+Stake 0.00 MARS
+Unstake 0.00 MARS
+Claim 0.00 MARS ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[MARS]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4.92 TVL: $96.73
+MARS Price: $0.01
+WBNB Price: $489.12
+Staked: 0.2665 Cake-LP ($1.31)
+MARS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [MARS]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MARS]-[WBNB] Cake LP
+Unstake 0.00 [MARS]-[WBNB] Cake LP
+Claim 0.00 MARS ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[MARS]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.24 TVL: $1.86
+MARS Price: $0.01
+BUSD Price: $1.00
+Staked: 5.3791 Cake-LP ($1.30)
+MARS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [MARS]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MARS]-[BUSD] Cake LP
+Unstake 0.00 [MARS]-[BUSD] Cake LP
+Claim 0.00 MARS ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[WBNB]-[MERCURY] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.75 TVL: $56.86
+WBNB Price: $489.12
+MERCURY Price: $0.000218
+Staked: 35.4901 Cake-LP ($26.59)
+MARS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[MERCURY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[MERCURY] Cake LP - Fee 1%
+Unstake 0.00 [WBNB]-[MERCURY] Cake LP
+Claim 0.00 MARS ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[WBNB]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $49.98 TVL: $526,663,677.42
+WBNB Price: $489.12
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+MARS Per Week: 0.00 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 3.5%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 MARS ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+WBNB
+ Price: $489.12 Market Cap: $3,448,040,260.04 
+[%]
+Staked: 1.2488 WBNB ($610.83)
+MARS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 3.5%
+Unstake 0.00 WBNB
+Claim 0.00 MARS ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+BUSD
+ Price: $1.00 Market Cap: $4,194,840,734.88 
+[%]
+Staked: 115.3772 BUSD ($115.21)
+MARS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 3.5%
+Unstake 0.00 BUSD
+Claim 0.00 MARS ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+BTCB
+ Price: $49,844.00 Market Cap: $4,261,711,844.00 
+[%]
+Staked: 0.0017 BTCB ($84.77)
+MARS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 3.5%
+Unstake 0.00 BTCB
+Claim 0.00 MARS ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+ETH
+ Price: $3,334.12 Market Cap: $4,351,026,600.00 
+[%]
+Staked: 0.0000 ETH ($0.11)
+MARS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 3.5%
+Unstake 0.00 ETH
+Claim 0.00 MARS ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+Cake
+ Price: $25.35 Market Cap: $10,549,132,480.34 
+[%]
+Staked: 4.8800 Cake ($123.71)
+MARS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 3.5%
+Unstake 0.00 Cake
+Claim 0.00 MARS ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 193.2748 USDT ($193.24)
+MARS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 3.5%
+Unstake 0.00 USDT
+Claim 0.00 MARS ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 0.4800 DAI ($0.48)
+MARS Per Week: 100800.00 ($1,228.32)
+APR: Day 36557.15% Week 255900.02% Year 13306800.82%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 MARS ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $1,157.55

@@ -1,0 +1,259 @@
+INFO  : http://farmwiki.xyz
+***************************************************************************************
+
+Mon Aug 23 2021 14:25:16 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 33 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[WIKI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.06 TVL: $306.41
+WIKI Price: $0.000683
+BUSD Price: $1.00
+Staked: 2780.7466 Cake-LP ($160.85)
+WIKI Per Week: 3372.49 ($2.30)
+APR: Day 0.20% Week 1.43% Year 74.49%
+You are staking 0.00 [WIKI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WIKI]-[BUSD] Cake LP
+Unstake 0.00 [WIKI]-[BUSD] Cake LP
+Claim 0.00 WIKI ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WIKI]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.24 TVL: $122.13
+WIKI Price: $0.000683
+WBNB Price: $483.87
+Staked: 42.3962 Cake-LP ($52.60)
+WIKI Per Week: 2810.41 ($1.92)
+APR: Day 0.52% Week 3.65% Year 189.80%
+You are staking 0.00 [WIKI]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WIKI]-[WBNB] Cake LP
+Unstake 0.00 [WIKI]-[WBNB] Cake LP
+Claim 0.00 WIKI ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+WIKI
+ Price: $0.000683 Market Cap: $774.13 
+[%]
+Staked: 96481.4189 WIKI ($65.91)
+WIKI Per Week: 2248.33 ($1.54)
+APR: Day 0.33% Week 2.33% Year 121.18%
+You are staking 0.00 WIKI ($0.00), 0.00% of the pool.
+Stake 0.00 WIKI - Fee 2%
+Unstake 0.00 WIKI
+Claim 0.00 WIKI ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[WIKI]-[JAGUAR] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $1.48
+WIKI Price: $0.000683
+JAGUAR Price: $0.04
+Staked: 120.2273 Cake-LP ($1.41)
+WIKI Per Week: 1686.25 ($1.15)
+APR: Day 11.68% Week 81.76% Year 4251.62%
+You are staking 0.00 [WIKI]-[JAGUAR] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WIKI]-[JAGUAR] Cake LP - Fee 1%
+Unstake 0.00 [WIKI]-[JAGUAR] Cake LP
+Claim 0.00 WIKI ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[PANTHER]-[WIKI] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $1.88
+PANTHER Price: $0.03
+WIKI Price: $0.000683
+Staked: 192.8647 Cake-LP ($1.81)
+WIKI Per Week: 1686.25 ($1.15)
+APR: Day 9.12% Week 63.82% Year 3318.77%
+You are staking 0.00 [PANTHER]-[WIKI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PANTHER]-[WIKI] Cake LP - Fee 1%
+Unstake 0.00 [PANTHER]-[WIKI] Cake LP
+Claim 0.00 WIKI ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[WIKI]-[Slion] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.01 TVL: $5.83
+WIKI Price: $0.000683
+Slion Price: $0.01
+Staked: 396.8446 Cake-LP ($2.43)
+WIKI Per Week: 1686.25 ($1.15)
+APR: Day 6.76% Week 47.31% Year 2460.30%
+You are staking 0.00 [WIKI]-[Slion] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WIKI]-[Slion] Cake LP - Fee 1%
+Unstake 0.00 [WIKI]-[Slion] Cake LP
+Claim 0.00 WIKI ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[WIKI]-[SHRIMP] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $1.02
+WIKI Price: $0.000683
+SHRIMP Price: $0.000335
+Staked: 777.8619 Cake-LP ($0.75)
+WIKI Per Week: 1686.25 ($1.15)
+APR: Day 21.97% Week 153.77% Year 7996.19%
+You are staking 0.00 [WIKI]-[SHRIMP] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WIKI]-[SHRIMP] Cake LP - Fee 2%
+Unstake 0.00 [WIKI]-[SHRIMP] Cake LP
+Claim 0.00 WIKI ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[sWIKI]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.83 TVL: $382.40
+sWIKI Price: $1.81
+BUSD Price: $1.00
+Staked: 0.9906 Cake-LP ($2.80)
+WIKI Per Week: 1967.29 ($1.34)
+APR: Day 6.85% Week 47.93% Year 2492.55%
+You are staking 0.00 [sWIKI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [sWIKI]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [sWIKI]-[BUSD] Cake LP
+Claim 0.00 WIKI ($0.00)
+Staking or unstaking also claims rewards.
+26 - 
+sWIKI
+ Price: $1.81 Market Cap: $3,613.12 
+[%]
+Staked: 4.6402 sWIKI ($8.38)
+WIKI Per Week: 2248.33 ($1.54)
+APR: Day 2.62% Week 18.32% Year 952.82%
+You are staking 0.00 sWIKI ($0.00), 0.00% of the pool.
+Stake 0.00 sWIKI - Fee 2%
+Unstake 0.00 sWIKI
+Claim 0.00 WIKI ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+[WIKI]-[USDC] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.05 TVL: $38.24
+WIKI Price: $0.000683
+USDC Price: $1.00
+Staked: 113.0202 Cake-LP ($5.97)
+WIKI Per Week: 3091.45 ($2.11)
+APR: Day 5.06% Week 35.39% Year 1840.20%
+You are staking 0.00 [WIKI]-[USDC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WIKI]-[USDC] Cake LP - Fee 1%
+Unstake 0.00 [WIKI]-[USDC] Cake LP
+Claim 0.00 WIKI ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+HALVAR
+ Price: $0.00 Market Cap: $0.00 
+Staked: 4010.6301 HALVAR ($0.00)
+WIKI Per Week: 1967.29 ($1.34)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 HALVAR ($0.00), NaN% of the pool.
+Stake 0.00 HALVAR - Fee 2%
+Unstake 0.00 HALVAR
+Claim 0.00 WIKI ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+mWIKI
+ Price: $0.00 Market Cap: $0.00 
+Staked: 260521234514268.0938 mWIKI ($0.00)
+WIKI Per Week: 2248.33 ($1.54)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 mWIKI ($0.00), NaN% of the pool.
+Stake 0.00 mWIKI - Fee 2%
+Unstake 0.00 mWIKI
+Claim 0.00 WIKI ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+FOX
+ Price: $0.00 Market Cap: $0.00 
+Staked: 1824000000.0000 FOX ($0.00)
+WIKI Per Week: 168.62 ($0.12)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FOX ($0.00), NaN% of the pool.
+Stake 0.00 FOX - Fee 3.8%
+Unstake 0.00 FOX
+Claim 0.00 WIKI ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+[FAXE]-[BUSD] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.09 TVL: $145.36
+FAXE Price: $0.001499
+BUSD Price: $1.00
+Staked: 16.4872 Cake-LP ($1.50)
+WIKI Per Week: 1686.25 ($1.15)
+APR: Day 11.00% Week 77.00% Year 4003.77%
+You are staking 0.00 [FAXE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FAXE]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [FAXE]-[BUSD] Cake LP
+Claim 0.00 WIKI ($0.00)
+Staking or unstaking also claims rewards.
+32 - 
+FAXE
+ Price: $0.001499 Market Cap: $459.06 
+[%]
+Staked: 1856.7821 FAXE ($2.78)
+WIKI Per Week: 1686.25 ($1.15)
+APR: Day 5.91% Week 41.38% Year 2151.80%
+You are staking 0.00 FAXE ($0.00), 0.00% of the pool.
+Stake 0.00 FAXE - Fee 3%
+Unstake 0.00 FAXE
+Claim 0.00 WIKI ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $307.20

@@ -1,0 +1,426 @@
+INFO  : https://mayoswap.com
+*****************************************************************************
+
+Mon Aug 23 2021 09:12:49 GMT+0000 (Coordinated Universal Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Staking Contract
+Found 32 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+MAYO
+ Price: $0.02 Market Cap: $20,507.11 
+[%]
+Staked: 412850.2070 MAYO ($7,661.76)
+MAYO Per Week: 22289.93 ($413.66)
+APR: Day 0.77% Week 5.40% Year 280.75%
+You are staking 0.00 MAYO ($0.00), 0.00% of the pool.
+Stake 0.00 MAYO
+Unstake 0.00 MAYO
+Claim 0.00 MAYO ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+LKM
+ Price: $0.00 Market Cap: $0.00 
+Staked: 90358.4139 LKM ($0.00)
+MAYO Per Week: 1486.00 ($27.58)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 LKM ($0.00), NaN% of the pool.
+Stake 0.00 LKM
+Unstake 0.00 LKM
+Claim 0.00 MAYO ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+WBNB
+ Price: $484.12 Market Cap: $3,426,554,977.85 
+[%]
+Staked: 3.2843 WBNB ($1,590.01)
+MAYO Per Week: 148.60 ($2.76)
+APR: Day 0.02% Week 0.17% Year 9.02%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 1%
+Unstake 0.00 WBNB
+Claim 0.00 MAYO ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+BUSD
+ Price: $1.00 Market Cap: $4,195,785,959.74 
+[%]
+Staked: 1371.6870 BUSD ($1,369.98)
+MAYO Per Week: 148.60 ($2.76)
+APR: Day 0.03% Week 0.20% Year 10.47%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 1%
+Unstake 0.00 BUSD
+Claim 0.00 MAYO ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+BTCB
+ Price: $49,954.00 Market Cap: $4,271,116,954.00 
+[%]
+Staked: 0.0006 BTCB ($28.58)
+MAYO Per Week: 148.60 ($2.76)
+APR: Day 1.38% Week 9.65% Year 501.82%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 1%
+Unstake 0.00 BTCB
+Claim 0.00 MAYO ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+ETH
+ Price: $3,330.80 Market Cap: $4,346,694,000.00 
+[%]
+Staked: 0.0078 ETH ($26.02)
+MAYO Per Week: 148.60 ($2.76)
+APR: Day 1.51% Week 10.60% Year 551.08%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 1%
+Unstake 0.00 ETH
+Claim 0.00 MAYO ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+Cake
+ Price: $25.01 Market Cap: $10,407,389,346.45 
+[%]
+Staked: 33.7146 Cake ($843.20)
+MAYO Per Week: 148.60 ($2.76)
+APR: Day 0.05% Week 0.33% Year 17.01%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 1%
+Unstake 0.00 Cake
+Claim 0.00 MAYO ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+BUNNY
+ Price: $7.66 Market Cap: $85,062,824.90 
+[%]
+Staked: 9.2693 BUNNY ($71.00)
+MAYO Per Week: 148.60 ($2.76)
+APR: Day 0.55% Week 3.88% Year 201.97%
+You are staking 0.00 BUNNY ($0.00), 0.00% of the pool.
+Stake 0.00 BUNNY - Fee 1%
+Unstake 0.00 BUNNY
+Claim 0.00 MAYO ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+DOT
+ Price: $28.00 Market Cap: $391,999,999.86 
+[%]
+Staked: 4.4029 DOT ($123.28)
+MAYO Per Week: 148.60 ($2.76)
+APR: Day 0.32% Week 2.24% Year 116.32%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 1%
+Unstake 0.00 DOT
+Claim 0.00 MAYO ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+UNI
+ Price: $29.37 Market Cap: $108,669,000.00 
+[%]
+Staked: 7.0593 UNI ($207.33)
+MAYO Per Week: 148.60 ($2.76)
+APR: Day 0.19% Week 1.33% Year 69.17%
+You are staking 0.00 UNI ($0.00), 0.00% of the pool.
+Stake 0.00 UNI - Fee 1%
+Unstake 0.00 UNI
+Claim 0.00 MAYO ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+DAI
+ Price: $1.00 Market Cap: $262,000,000.00 
+[%]
+Staked: 1700.3693 DAI ($1,700.37)
+MAYO Per Week: 148.60 ($2.76)
+APR: Day 0.02% Week 0.16% Year 8.43%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 1%
+Unstake 0.00 DAI
+Claim 0.00 MAYO ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+DOGE
+ Price: $0.33 Market Cap: $650,296,000.00 
+[%]
+Staked: 243.7849 DOGE ($79.27)
+MAYO Per Week: 148.60 ($2.76)
+APR: Day 0.50% Week 3.48% Year 180.91%
+You are staking 0.00 DOGE ($0.00), 0.00% of the pool.
+Stake 0.00 DOGE - Fee 1%
+Unstake 0.00 DOGE
+Claim 0.00 MAYO ($0.00)
+Staking or unstaking also claims rewards.
+14 - 
+ADA
+ Price: $2.82 Market Cap: $789,600,000.00 
+[%]
+Staked: 11.4693 ADA ($32.34)
+MAYO Per Week: 148.60 ($2.76)
+APR: Day 1.22% Week 8.53% Year 443.37%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 1%
+Unstake 0.00 ADA
+Claim 0.00 MAYO ($0.00)
+Staking or unstaking also claims rewards.
+15 - 
+BAKE
+ Price: $3.14 Market Cap: $2,289,778,835.91 
+[%]
+Staked: 4.5496 BAKE ($14.29)
+MAYO Per Week: 148.60 ($2.76)
+APR: Day 2.76% Week 19.30% Year 1003.82%
+You are staking 0.00 BAKE ($0.00), 0.00% of the pool.
+Stake 0.00 BAKE - Fee 1%
+Unstake 0.00 BAKE
+Claim 0.00 MAYO ($0.00)
+Staking or unstaking also claims rewards.
+16 - 
+[BTCB]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $9,965.62 TVL: $30,148.34
+BTCB Price: $49,954.00
+WBNB Price: $484.12
+Staked: 0.0298 Cafe-LP ($297.47)
+MAYO Per Week: 148.60 ($2.76)
+APR: Day 0.13% Week 0.93% Year 48.21%
+You are staking 0.00 [BTCB]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Uni LP - Fee 1%
+Unstake 0.00 [BTCB]-[WBNB] Uni LP
+Claim 0.00 MAYO ($0.00)
+Staking or unstaking also claims rewards.
+17 - 
+[WBNB]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $51.16 TVL: $141,921.11
+WBNB Price: $484.12
+BUSD Price: $1.00
+Staked: 16.5900 Cafe-LP ($848.75)
+MAYO Per Week: 148.60 ($2.76)
+APR: Day 0.05% Week 0.32% Year 16.90%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP - Fee 1%
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 MAYO ($0.00)
+Staking or unstaking also claims rewards.
+18 - 
+[ETH]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2,586.31 TVL: $261,665.56
+ETH Price: $3,330.80
+WBNB Price: $484.12
+Staked: 1.3827 Cafe-LP ($3,576.09)
+MAYO Per Week: 148.60 ($2.76)
+APR: Day 0.01% Week 0.08% Year 4.01%
+You are staking 0.00 [ETH]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Uni LP - Fee 1%
+Unstake 0.00 [ETH]-[WBNB] Uni LP
+Claim 0.00 MAYO ($0.00)
+Staking or unstaking also claims rewards.
+19 - 
+[MAYO]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $7.37 TVL: $8,664.92
+MAYO Price: $0.02
+WBNB Price: $484.12
+Staked: 396.3980 Cafe-LP ($2,922.11)
+MAYO Per Week: 14859.95 ($275.77)
+APR: Day 1.35% Week 9.44% Year 490.75%
+You are staking 0.00 [MAYO]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MAYO]-[WBNB] Uni LP
+Unstake 0.00 [MAYO]-[WBNB] Uni LP
+Claim 0.00 MAYO ($0.00)
+Staking or unstaking also claims rewards.
+20 - 
+[MAYO]-[BUSD] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.36 TVL: $3,043.09
+MAYO Price: $0.02
+BUSD Price: $1.00
+Staked: 8434.9796 Cafe-LP ($3,019.49)
+MAYO Per Week: 14859.95 ($275.77)
+APR: Day 1.30% Week 9.13% Year 474.92%
+You are staking 0.00 [MAYO]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MAYO]-[BUSD] Uni LP
+Unstake 0.00 [MAYO]-[BUSD] Uni LP
+Claim 0.00 MAYO ($0.00)
+Staking or unstaking also claims rewards.
+21 - 
+[LTC]-[WBNB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $605.07 TVL: $50.55
+LTC Price: $187.92
+WBNB Price: $484.12
+Staked: 0.0195 Cafe-LP ($11.79)
+MAYO Per Week: 148.60 ($2.76)
+APR: Day 3.34% Week 23.39% Year 1216.50%
+You are staking 0.00 [LTC]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LTC]-[WBNB] Uni LP - Fee 1%
+Unstake 0.00 [LTC]-[WBNB] Uni LP
+Claim 0.00 MAYO ($0.00)
+Staking or unstaking also claims rewards.
+24 - 
+[Cake]-[MAYO] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.59 TVL: $590.29
+Cake Price: $25.01
+MAYO Price: $0.02
+Staked: 370.6869 Cafe-LP ($588.12)
+MAYO Per Week: 743.00 ($13.79)
+APR: Day 0.33% Week 2.34% Year 121.92%
+You are staking 0.00 [Cake]-[MAYO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[MAYO] Uni LP - Fee 2%
+Unstake 0.00 [Cake]-[MAYO] Uni LP
+Claim 0.00 MAYO ($0.00)
+Staking or unstaking also claims rewards.
+25 - 
+[MAYO]-[DOT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.73 TVL: $175.09
+MAYO Price: $0.02
+DOT Price: $28.00
+Staked: 49.9079 Cafe-LP ($86.55)
+MAYO Per Week: 743.00 ($13.79)
+APR: Day 2.28% Week 15.93% Year 828.44%
+You are staking 0.00 [MAYO]-[DOT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MAYO]-[DOT] Uni LP - Fee 2%
+Unstake 0.00 [MAYO]-[DOT] Uni LP
+Claim 0.00 MAYO ($0.00)
+Staking or unstaking also claims rewards.
+27 - 
+[MAYO]-[BTCB] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $68.35 TVL: $213.24
+MAYO Price: $0.02
+BTCB Price: $49,954.00
+Staked: 2.7837 Cafe-LP ($190.26)
+MAYO Per Week: 743.00 ($13.79)
+APR: Day 1.04% Week 7.25% Year 376.87%
+You are staking 0.00 [MAYO]-[BTCB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MAYO]-[BTCB] Uni LP - Fee 2%
+Unstake 0.00 [MAYO]-[BTCB] Uni LP
+Claim 0.00 MAYO ($0.00)
+Staking or unstaking also claims rewards.
+28 - 
+USDT
+ Price: $1.00 Market Cap: $3,379,345,582.58 
+[%]
+Staked: 1762.8366 USDT ($1,762.50)
+MAYO Per Week: 148.60 ($2.76)
+APR: Day 0.02% Week 0.16% Year 8.14%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 1%
+Unstake 0.00 USDT
+Claim 0.00 MAYO ($0.00)
+Staking or unstaking also claims rewards.
+29 - 
+[ADA]-[MAYO] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.46 TVL: $193.73
+ADA Price: $2.82
+MAYO Price: $0.02
+Staked: 379.9629 Cafe-LP ($174.22)
+MAYO Per Week: 743.00 ($13.79)
+APR: Day 1.13% Week 7.91% Year 411.55%
+You are staking 0.00 [ADA]-[MAYO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[MAYO] Uni LP - Fee 2%
+Unstake 0.00 [ADA]-[MAYO] Uni LP
+Claim 0.00 MAYO ($0.00)
+Staking or unstaking also claims rewards.
+30 - 
+[MAYO]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.27 TVL: $158.33
+MAYO Price: $0.02
+USDT Price: $1.00
+Staked: 357.6369 Cafe-LP ($97.56)
+MAYO Per Week: 743.00 ($13.79)
+APR: Day 2.02% Week 14.13% Year 734.95%
+You are staking 0.00 [MAYO]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MAYO]-[USDT] Uni LP - Fee 2%
+Unstake 0.00 [MAYO]-[USDT] Uni LP
+Claim 0.00 MAYO ($0.00)
+Staking or unstaking also claims rewards.
+31 - 
+[LKM]-[WBNB] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $6.95 TVL: $5,918.54
+LKM Price: $0.02
+WBNB Price: $484.12
+Staked: 6.8645 Cake-LP ($47.71)
+MAYO Per Week: 743.00 ($13.79)
+APR: Day 4.13% Week 28.90% Year 1502.87%
+You are staking 0.00 [LKM]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LKM]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [LKM]-[WBNB] Cake LP
+Claim 0.00 MAYO ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $27,370.04

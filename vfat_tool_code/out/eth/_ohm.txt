@@ -1,0 +1,28 @@
+INFO  : https://olympusdao.eth.link/
+****************************************************************************
+
+Mon Aug 23 2021 15:39:14 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+[OHM]-[DAI] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,236,293.86 TVL: $47,685,775.78
+OHM Price: $287.95
+DAI Price: $1.00
+Staked: 0.0145 SLP ($17,981.85)
+OHM Per Week: 0.0000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.0000 [OHM]-[DAI] SLP ($0.00), 0.00% of the pool.
+Stake 0.0000 [OHM]-[DAI] SLP
+Unstake 0.0000 [OHM]-[DAI] SLP
+Claim 0.0000 OHM ($0.00)

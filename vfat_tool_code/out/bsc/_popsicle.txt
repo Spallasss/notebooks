@@ -1,0 +1,95 @@
+INFO  : https://popsicle.finance
+*************************************************************************************
+
+Mon Aug 23 2021 14:01:04 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+0 - 
+[WBNB]-[ICE] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $63.12 TVL: $1,546,229.37
+WBNB Price: $483.66
+ICE Price: $1.82
+Staked: 24114.1560 SLP ($1,522,101.27)
+ICE Per Week: 8036.35 ($14,626.16)
+APR: Day 0.14% Week 0.96% Year 49.97%
+You are staking 0.00 [WBNB]-[ICE] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[ICE] SLP
+Unstake 0.00 [WBNB]-[ICE] SLP
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WBNB]-[ICE] Cake LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $76.59 TVL: $1,401,125.27
+WBNB Price: $483.66
+ICE Price: $1.82
+Staked: 18271.4137 Cake-LP ($1,399,384.98)
+ICE Per Week: 8036.35 ($14,626.16)
+APR: Day 0.15% Week 1.05% Year 54.35%
+You are staking 0.00 [WBNB]-[ICE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[ICE] Cake LP
+Unstake 0.00 [WBNB]-[ICE] Cake LP
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+The following farms have been DISCONTINUED. You can unstake at any time.
+
+0 - 
+ICE
+ Price: $1.82 Market Cap: $4,565,675.93 
+[%]
+Staked: 63640.7558 ICE ($115,826.18)
+ICE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ICE ($0.00), 0.00% of the pool.
+Stake 0.00 ICE
+Unstake 0.00 ICE
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WBNB]-[ICE] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $63.12 TVL: $1,546,229.37
+WBNB Price: $483.66
+ICE Price: $1.82
+Staked: 90.9023 SLP ($5,737.81)
+ICE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[ICE] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[ICE] SLP
+Unstake 0.00 [WBNB]-[ICE] SLP
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+fUSDT
+ Price: $1.00 Market Cap: $6,792,352.48 
+[%]
+Staked: 3423.6366 fUSDT ($3,420.70)
+ICE Per Week: 47372.75 ($86,218.40)
+APR: Day 360.07% Week 2520.49% Year 131065.52%
+You are staking 0.00 fUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 fUSDT
+Unstake 0.00 fUSDT
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $3,046,470.93

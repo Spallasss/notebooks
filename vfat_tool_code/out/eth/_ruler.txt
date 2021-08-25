@@ -1,0 +1,1022 @@
+INFO  : https://app.rulerprotocol.com/app/farms
+*********************************************************************************
+
+Mon Aug 23 2021 15:34:14 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Finished reading smart contracts.
+
+[RULER]-[WETH] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $620.34 TVL: $2,495,079.13
+RULER Price: $25.29
+WETH Price: $3,330.89
+Staked: 1004.6304 SLP ($623,216.94)
+RULER Per Week: 150000000000.00 ($3,793,500,000,000.00)
+APR: Day 86956649.16% Week 608696544.09% Year 31652220292.44%
+You are staking 0.00 [RULER]-[WETH] SLP ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 [RULER]-[WETH] SLP
+Withdraw 0.00 [RULER]-[WETH] SLP
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+[RC_WBTC_25000_DAI_2021_3_31]-[DAI] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.00 TVL: $1,449.41
+RC_WBTC_25000_DAI_2021_3_31 Price: $0.98
+DAI Price: $1.00
+Staked: 665.5373 SLP ($1,327.75)
+RULER Per Week: 1000000000000000000.00 ($25,290,000,000,000,000,000.00)
+APR: Day 272103810989621536.00% Week 1904726676927350784.00% Year 99045787200222232576.00%
+You are staking 0.00 [RC_WBTC_25000_DAI_2021_3_31]-[DAI] SLP ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 [RC_WBTC_25000_DAI_2021_3_31]-[DAI] SLP
+Withdraw 0.00 [RC_WBTC_25000_DAI_2021_3_31]-[DAI] SLP
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+[DAI]-[RC_WETH_750_DAI_2021_3_31] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $2.05 TVL: $10,890.26
+DAI Price: $1.00
+RC_WETH_750_DAI_2021_3_31 Price: $1.04
+Staked: 1001.5153 SLP ($2,056.10)
+RULER Per Week: 1000000000000000000.00 ($25,290,000,000,000,000,000.00)
+APR: Day 175714303539595968.00% Week 1230000124777171712.00% Year 63960006488412930048.00%
+You are staking 0.00 [DAI]-[RC_WETH_750_DAI_2021_3_31] SLP ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 [DAI]-[RC_WETH_750_DAI_2021_3_31] SLP
+Withdraw 0.00 [DAI]-[RC_WETH_750_DAI_2021_3_31] SLP
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+[DAI]-[RC_COVER_250_DAI_2021_3_31] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.68 TVL: $6.77
+DAI Price: $1.00
+RC_COVER_250_DAI_2021_3_31 Price: $0.11
+Staked: 0.0000 SLP ($0.00)
+RULER Per Week: 1000000000000000000.00 ($25,290,000,000,000,000,000.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DAI]-[RC_COVER_250_DAI_2021_3_31] SLP ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 [DAI]-[RC_COVER_250_DAI_2021_3_31] SLP
+Withdraw 0.00 [DAI]-[RC_COVER_250_DAI_2021_3_31] SLP
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_INV3CRV-f
+ Price: $1.01 Market Cap: $112.36 
+Staked: 0.0000 RC_INV3CRV-f ($0.00)
+RULER Per Week: 50.00 ($1,264.50)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 RC_INV3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_INV3CRV-f
+Withdraw 0.00 RC_INV3CRV-f
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_vETH23CRV-f
+ Price: $1.01 Market Cap: $129.32 
+Staked: 0.0000 RC_vETH23CRV-f ($0.00)
+RULER Per Week: 1e+26 ($2.529e+27)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 RC_vETH23CRV-f ($0.00), NaN% of the pool.
+SGT Per Week: 132.00 ($5.14)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 RC_vETH23CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_vETH23CRV-f
+Withdraw 0.00 RC_vETH23CRV-f
+Claim 0.00 RULER ($0.00) 0.00 SGT ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_PICKLE3CRV-f
+ Price: $1.02 Market Cap: $165.68 
+Staked: 0.0000 RC_PICKLE3CRV-f ($0.00)
+PICKLE Per Week: 4500000000000.00 ($48,150,000,000,000.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 RC_PICKLE3CRV-f ($0.00), NaN% of the pool.
+RULER Per Week: 1e+26 ($2.529e+27)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 RC_PICKLE3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_PICKLE3CRV-f
+Withdraw 0.00 RC_PICKLE3CRV-f
+Claim 0.00 PICKLE ($0.00) 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_WBTC3CRV-f
+ Price: $1.00 Market Cap: $190.40 
+Staked: 53.7153 RC_WBTC3CRV-f ($53.84)
+RULER Per Week: 45000000000.00 ($1,138,050,000,000.00)
+APR: Day 301980963881.40% Week 2113866747169.83% Year 109921070852831.03%
+You are staking 0.00 RC_WBTC3CRV-f ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 RC_WBTC3CRV-f
+Withdraw 0.00 RC_WBTC3CRV-f
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_WETH3CRV-f
+ Price: $1.00 Market Cap: $11,605.22 
+Staked: 11542.8969 RC_WETH3CRV-f ($11,567.68)
+RULER Per Week: 450000000000.00 ($11,380,500,000,000.00)
+APR: Day 14054557448.66% Week 98381902140.65% Year 5115858911313.92%
+You are staking 0.00 RC_WETH3CRV-f ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 RC_WETH3CRV-f
+Withdraw 0.00 RC_WETH3CRV-f
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_xCOVER3CRV-f
+ Price: $1.78 Market Cap: $17.79 
+Staked: 0.0000 RC_xCOVER3CRV-f ($0.00)
+RULER Per Week: 200.00 ($5,058.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 RC_xCOVER3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_xCOVER3CRV-f
+Withdraw 0.00 RC_xCOVER3CRV-f
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_xRULER3CRV-f
+ Price: $1.00 Market Cap: $5,260.58 
+Staked: 0.0000 RC_xRULER3CRV-f ($0.00)
+RULER Per Week: 4500000000000000.00 ($113,805,000,000,000,000.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 RC_xRULER3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_xRULER3CRV-f
+Withdraw 0.00 RC_xRULER3CRV-f
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_bBADGER3CRV-f
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 RC_bBADGER3CRV-f ($0.00)
+RULER Per Week: 45000000000.00 ($1,138,050,000,000.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_bBADGER3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_bBADGER3CRV-f
+Withdraw 0.00 RC_bBADGER3CRV-f
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_RGT3CRV-f
+ Price: $1.00 Market Cap: $36.25 
+Staked: 0.0000 RC_RGT3CRV-f ($0.00)
+RULER Per Week: 45000000000.00 ($1,138,050,000,000.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 RC_RGT3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_RGT3CRV-f
+Withdraw 0.00 RC_RGT3CRV-f
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_MASK3CRV-f
+ Price: $1.00 Market Cap: $21.98 
+Staked: 0.0000 RC_MASK3CRV-f ($0.00)
+RULER Per Week: 45000000000.00 ($1,138,050,000,000.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 RC_MASK3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_MASK3CRV-f
+Withdraw 0.00 RC_MASK3CRV-f
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_PUNK-B3CRV-f
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 RC_PUNK-B3CRV-f ($0.00)
+RULER Per Week: 4500000000000.00 ($113,805,000,000,000.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_PUNK-B3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_PUNK-B3CRV-f
+Withdraw 0.00 RC_PUNK-B3CRV-f
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_INV3CRV-f
+ Price: $2.34 Market Cap: $23.27 
+Staked: 0.0000 RC_INV3CRV-f ($0.00)
+RULER Per Week: 45000000000.00 ($1,138,050,000,000.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 RC_INV3CRV-f ($0.00), NaN% of the pool.
+INV Per Week: 4500000000.00 ($784,485,000,000.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 RC_INV3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_INV3CRV-f
+Withdraw 0.00 RC_INV3CRV-f
+Claim 0.00 RULER ($0.00) 0.00 INV ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_BOR3CRV-f
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 RC_BOR3CRV-f ($0.00)
+RULER Per Week: 45000000000.00 ($1,138,050,000,000.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_BOR3CRV-f ($0.00), NaN% of the pool.
+BOR Per Week: 45000000000.00 ($8,628,300,000,000.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_BOR3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_BOR3CRV-f
+Withdraw 0.00 RC_BOR3CRV-f
+Claim 0.00 RULER ($0.00) 0.00 BOR ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_DEFI53CRV-f
+ Price: $1.32 Market Cap: $13.24 
+Staked: 0.0000 RC_DEFI53CRV-f ($0.00)
+RULER Per Week: 50.00 ($1,264.50)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 RC_DEFI53CRV-f ($0.00), NaN% of the pool.
+NDX Per Week: 4500000000000.00 ($19,890,000,000,000.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 RC_DEFI53CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_DEFI53CRV-f
+Withdraw 0.00 RC_DEFI53CRV-f
+Claim 0.00 RULER ($0.00) 0.00 NDX ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+SifuDegen3CRV-f
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 SifuDegen3CRV-f ($0.00)
+RULER Per Week: 51000000000.00 ($1,289,790,000,000.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SifuDegen3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 SifuDegen3CRV-f
+Withdraw 0.00 SifuDegen3CRV-f
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+SifuETH3CRV-f
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 SifuETH3CRV-f ($0.00)
+RULER Per Week: 4500000000000.00 ($113,805,000,000,000.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SifuETH3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 SifuETH3CRV-f
+Withdraw 0.00 SifuETH3CRV-f
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+[RC_DAI_0.25_TRIBE_2021_4_30]-[TRIBE] SLP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1.31 TVL: $519.63
+RC_DAI_0.25_TRIBE_2021_4_30 Price: $0.65
+TRIBE Price: $0.66
+Staked: 0.0000 SLP ($0.00)
+RULER Per Week: 50.00 ($1,264.50)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [RC_DAI_0.25_TRIBE_2021_4_30]-[TRIBE] SLP ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 [RC_DAI_0.25_TRIBE_2021_4_30]-[TRIBE] SLP
+Withdraw 0.00 [RC_DAI_0.25_TRIBE_2021_4_30]-[TRIBE] SLP
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+sifuxruler3CRV-f
+ Price: $1.00 Market Cap: $1,474.01 
+Staked: 1338.8888 sifuxruler3CRV-f ($1,342.70)
+RULER Per Week: 100.00 ($2,529.00)
+APR: Day 26.91% Week 188.35% Year 9794.26%
+You are staking 0.00 sifuxruler3CRV-f ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 sifuxruler3CRV-f
+Withdraw 0.00 sifuxruler3CRV-f
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_AAVE3CRV-f
+ Price: $1.00 Market Cap: $31.43 
+Staked: 1.0000 RC_AAVE3CRV-f ($1.00)
+RULER Per Week: 50.00 ($1,264.50)
+APR: Day 18035.88% Week 126251.13% Year 6565058.93%
+You are staking 0.00 RC_AAVE3CRV-f ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 RC_AAVE3CRV-f
+Withdraw 0.00 RC_AAVE3CRV-f
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_COMP3CRV-f
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 RC_COMP3CRV-f ($0.00)
+RULER Per Week: 50.00 ($1,264.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_COMP3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_COMP3CRV-f
+Withdraw 0.00 RC_COMP3CRV-f
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_xPREMIA3CRV-f
+ Price: $1.00 Market Cap: $1,184.41 
+Staked: 0.0000 RC_xPREMIA3CRV-f ($0.00)
+PREMIA Per Week: 6250.00 ($2,608.62)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 RC_xPREMIA3CRV-f ($0.00), NaN% of the pool.
+RULER Per Week: 17.00 ($429.93)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 RC_xPREMIA3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_xPREMIA3CRV-f
+Withdraw 0.00 RC_xPREMIA3CRV-f
+Claim 0.00 PREMIA ($0.00) 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_ALCX3CRV-f
+ Price: $1.00 Market Cap: $0.00 
+Staked: 0.0002 RC_ALCX3CRV-f ($0.00)
+RULER Per Week: 50.00 ($1,264.50)
+APR: Day 81116469.45% Week 567815286.18% Year 29526394881.47%
+You are staking 0.00 RC_ALCX3CRV-f ($0.00), 0.00% of the pool.
+ALCX Per Week: 10.00 ($3,610.50)
+APR: Day 231610132.83% Week 1621270929.82% Year 84306088350.77%
+You are staking 0.00 RC_ALCX3CRV-f ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 RC_ALCX3CRV-f
+Withdraw 0.00 RC_ALCX3CRV-f
+Claim 0.00 RULER ($0.00) 0.00 ALCX ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_WBTC3CRV-f
+ Price: $1.00 Market Cap: $0.00 
+Staked: 0.0000 RC_WBTC3CRV-f ($0.00)
+RULER Per Week: 300.00 ($7,587.00)
+APR: Day 107680646048.33% Week 753764522338.30% Year 39195755161591.61%
+You are staking 0.00 RC_WBTC3CRV-f ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 RC_WBTC3CRV-f
+Withdraw 0.00 RC_WBTC3CRV-f
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_WETH3CRV-f
+ Price: $1.00 Market Cap: $16.59 
+Staked: 0.0000 RC_WETH3CRV-f ($0.00)
+RULER Per Week: 500.00 ($12,645.00)
+APR: Day 4010092678194.13% Week 28070648747358.89% Year 1459673734862662.50%
+You are staking 0.00 RC_WETH3CRV-f ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 RC_WETH3CRV-f
+Withdraw 0.00 RC_WETH3CRV-f
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_xCOVER3CRV-f
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 RC_xCOVER3CRV-f ($0.00)
+RULER Per Week: 250.00 ($6,322.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_xCOVER3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_xCOVER3CRV-f
+Withdraw 0.00 RC_xCOVER3CRV-f
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_xRULER3CRV-f
+ Price: $3,493.34 Market Cap: $0.35 
+Staked: 0.0000 RC_xRULER3CRV-f ($0.00)
+RULER Per Week: 300.00 ($7,587.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 RC_xRULER3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_xRULER3CRV-f
+Withdraw 0.00 RC_xRULER3CRV-f
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_xSUSHI3CRV-f
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 RC_xSUSHI3CRV-f ($0.00)
+RULER Per Week: 50.00 ($1,264.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_xSUSHI3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_xSUSHI3CRV-f
+Withdraw 0.00 RC_xSUSHI3CRV-f
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+SifuETH3CRV-f
+ Price: $1.00 Market Cap: $163.36 
+Staked: 0.0000 SifuETH3CRV-f ($0.00)
+RULER Per Week: 150.00 ($3,793.50)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 SifuETH3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 SifuETH3CRV-f
+Withdraw 0.00 SifuETH3CRV-f
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_INV3CRV-f
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 RC_INV3CRV-f ($0.00)
+RULER Per Week: 65.00 ($1,643.85)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_INV3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_INV3CRV-f
+Withdraw 0.00 RC_INV3CRV-f
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_oLTC3CRV-f
+ Price: $1.00 Market Cap: $27.30 
+Staked: 0.0000 RC_oLTC3CRV-f ($0.00)
+RULER Per Week: 17.00 ($429.93)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 RC_oLTC3CRV-f ($0.00), NaN% of the pool.
+BOR Per Week: 5.00 ($958.70)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 RC_oLTC3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_oLTC3CRV-f
+Withdraw 0.00 RC_oLTC3CRV-f
+Claim 0.00 RULER ($0.00) 0.00 BOR ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_BOR3CRV-f
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 RC_BOR3CRV-f ($0.00)
+BOR Per Week: 2.26 ($433.33)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_BOR3CRV-f ($0.00), NaN% of the pool.
+RULER Per Week: 10.00 ($252.90)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_BOR3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_BOR3CRV-f
+Withdraw 0.00 RC_BOR3CRV-f
+Claim 0.00 BOR ($0.00) 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_DEFI53CRV-f
+ Price: $1.00 Market Cap: $0.26 
+Staked: 0.0000 RC_DEFI53CRV-f ($0.00)
+NDX Per Week: 791.80 ($3,499.76)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 RC_DEFI53CRV-f ($0.00), NaN% of the pool.
+RULER Per Week: 50.00 ($1,264.50)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 RC_DEFI53CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_DEFI53CRV-f
+Withdraw 0.00 RC_DEFI53CRV-f
+Claim 0.00 NDX ($0.00) 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_bBADGER3CRV-f
+ Price: $1.00 Market Cap: $100,509.93 
+Staked: 100299.9750 RC_bBADGER3CRV-f ($100,509.93)
+RULER Per Week: 50.00 ($1,264.50)
+APR: Day 0.18% Week 1.26% Year 65.42%
+You are staking 0.00 RC_bBADGER3CRV-f ($0.00), 0.00% of the pool.
+BADGER Per Week: 381.00 ($9,803.13)
+APR: Day 1.39% Week 9.75% Year 507.18%
+You are staking 0.00 RC_bBADGER3CRV-f ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 RC_bBADGER3CRV-f
+Withdraw 0.00 RC_bBADGER3CRV-f
+Claim 0.00 RULER ($0.00) 0.00 BADGER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_vETH23CRV-f
+ Price: $1.00 Market Cap: $8,226.53 
+Staked: 8212.5571 RC_vETH23CRV-f ($8,226.53)
+SGT Per Week: 429.50 ($16.73)
+APR: Day 0.03% Week 0.20% Year 10.58%
+You are staking 0.00 RC_vETH23CRV-f ($0.00), 0.00% of the pool.
+RULER Per Week: 36.00 ($910.44)
+APR: Day 1.58% Week 11.07% Year 575.49%
+You are staking 0.00 RC_vETH23CRV-f ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 RC_vETH23CRV-f
+Withdraw 0.00 RC_vETH23CRV-f
+Claim 0.00 SGT ($0.00) 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_vVSP3CRV-f
+ Price: $1.00 Market Cap: $0.00 
+Staked: 0.0000 RC_vVSP3CRV-f ($0.00)
+RULER Per Week: 25.00 ($632.25)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 RC_vVSP3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_vVSP3CRV-f
+Withdraw 0.00 RC_vVSP3CRV-f
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_iFARM3CRV-f
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 RC_iFARM3CRV-f ($0.00)
+RULER Per Week: 25.00 ($632.25)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_iFARM3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_iFARM3CRV-f
+Withdraw 0.00 RC_iFARM3CRV-f
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_yvYFI3CRV-f
+ Price: $1.00 Market Cap: $0.00 
+Staked: 0.0000 RC_yvYFI3CRV-f ($0.00)
+RULER Per Week: 25.00 ($632.25)
+APR: Day 113427572135697.48% Week 793993004949882.38% Year 41287636257393880.00%
+You are staking 0.00 RC_yvYFI3CRV-f ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 RC_yvYFI3CRV-f
+Withdraw 0.00 RC_yvYFI3CRV-f
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_RAI3CRV-f
+ Price: $1.00 Market Cap: $9,221.39 
+Staked: 9145.2856 RC_RAI3CRV-f ($9,159.06)
+RULER Per Week: 48.50 ($1,226.57)
+APR: Day 1.91% Week 13.39% Year 696.37%
+You are staking 0.00 RC_RAI3CRV-f ($0.00), 0.00% of the pool.
+FLX Per Week: 16.68 ($5,095.24)
+APR: Day 7.95% Week 55.63% Year 2892.79%
+You are staking 0.00 RC_RAI3CRV-f ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 RC_RAI3CRV-f
+Withdraw 0.00 RC_RAI3CRV-f
+Claim 0.00 RULER ($0.00) 0.00 FLX ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_bDPI3CRV-f
+ Price: $2.08 Market Cap: $12.58 
+Staked: 6.0580 RC_bDPI3CRV-f ($12.58)
+BASK Per Week: 18.09 ($791.98)
+APR: Day 899.54% Week 6296.76% Year 327431.49%
+You are staking 0.00 RC_bDPI3CRV-f ($0.00), 0.00% of the pool.
+RULER Per Week: 5000000000.00 ($126,450,000,000.00)
+APR: Day 143622861435.82% Week 1005360030050.73% Year 52278721562638.19%
+You are staking 0.00 RC_bDPI3CRV-f ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 RC_bDPI3CRV-f
+Withdraw 0.00 RC_bDPI3CRV-f
+Claim 0.00 BASK ($0.00) 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_PICKLE3CRV-f
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 RC_PICKLE3CRV-f ($0.00)
+RULER Per Week: 25.00 ($632.25)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_PICKLE3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_PICKLE3CRV-f
+Withdraw 0.00 RC_PICKLE3CRV-f
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_eXRD3CRV-f
+ Price: $1.00 Market Cap: $15.97 
+Staked: 0.0000 RC_eXRD3CRV-f ($0.00)
+eXRD Per Week: 54300.00 ($6,060.37)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 RC_eXRD3CRV-f ($0.00), NaN% of the pool.
+RULER Per Week: 50.00 ($1,264.50)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 RC_eXRD3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_eXRD3CRV-f
+Withdraw 0.00 RC_eXRD3CRV-f
+Claim 0.00 eXRD ($0.00) 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_ARMOR3CRV-f
+ Price: $1.00 Market Cap: $500.12 
+Staked: 499.4281 RC_ARMOR3CRV-f ($500.12)
+RULER Per Week: 25.00 ($632.25)
+APR: Day 18.06% Week 126.42% Year 6573.86%
+You are staking 0.00 RC_ARMOR3CRV-f ($0.00), 0.00% of the pool.
+ARMOR Per Week: 17549.50 ($5,436.82)
+APR: Day 155.30% Week 1087.11% Year 56529.70%
+You are staking 0.00 RC_ARMOR3CRV-f ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 RC_ARMOR3CRV-f
+Withdraw 0.00 RC_ARMOR3CRV-f
+Claim 0.00 RULER ($0.00) 0.00 ARMOR ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_WBTC3CRV-f
+ Price: $1.00 Market Cap: $1,001.76 
+Staked: 1000.3854 RC_WBTC3CRV-f ($1,001.76)
+RULER Per Week: 600.00 ($15,174.00)
+APR: Day 216.39% Week 1514.73% Year 78766.07%
+You are staking 0.00 RC_WBTC3CRV-f ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 RC_WBTC3CRV-f
+Withdraw 0.00 RC_WBTC3CRV-f
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_WETH3CRV-f
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 RC_WETH3CRV-f ($0.00)
+RULER Per Week: 200.00 ($5,058.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_WETH3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_WETH3CRV-f
+Withdraw 0.00 RC_WETH3CRV-f
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+SifuETH3CRV-f
+ Price: $1.00 Market Cap: $385.04 
+Staked: 300.6801 SifuETH3CRV-f ($301.25)
+RULER Per Week: 600.00 ($15,174.00)
+APR: Day 719.57% Week 5036.97% Year 261922.69%
+You are staking 0.00 SifuETH3CRV-f ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 SifuETH3CRV-f
+Withdraw 0.00 SifuETH3CRV-f
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_xRULER3CRV-f
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 RC_xRULER3CRV-f ($0.00)
+RULER Per Week: 400.00 ($10,116.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_xRULER3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_xRULER3CRV-f
+Withdraw 0.00 RC_xRULER3CRV-f
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_xCOVER3CRV-f
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 RC_xCOVER3CRV-f ($0.00)
+RULER Per Week: 400.00 ($10,116.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_xCOVER3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_xCOVER3CRV-f
+Withdraw 0.00 RC_xCOVER3CRV-f
+Claim 0.00 RULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_eXRD3CRV-f
+ Price: $1.00 Market Cap: $0.00 
+Staked: 0.0000 RC_eXRD3CRV-f ($0.00)
+RULER Per Week: 50.00 ($1,264.50)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 RC_eXRD3CRV-f ($0.00), NaN% of the pool.
+eXRD Per Week: 53660.00 ($5,988.94)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 RC_eXRD3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_eXRD3CRV-f
+Withdraw 0.00 RC_eXRD3CRV-f
+Claim 0.00 RULER ($0.00) 0.00 eXRD ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_bBADGER3CRV-f
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 RC_bBADGER3CRV-f ($0.00)
+RULER Per Week: 75.00 ($1,896.75)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_bBADGER3CRV-f ($0.00), NaN% of the pool.
+BADGER Per Week: 803.60 ($20,676.63)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_bBADGER3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_bBADGER3CRV-f
+Withdraw 0.00 RC_bBADGER3CRV-f
+Claim 0.00 RULER ($0.00) 0.00 BADGER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_ibBTC3CRV-f
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 RC_ibBTC3CRV-f ($0.00)
+RULER Per Week: 75.00 ($1,896.75)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_ibBTC3CRV-f ($0.00), NaN% of the pool.
+BADGER Per Week: 1205.40 ($31,014.94)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_ibBTC3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_ibBTC3CRV-f
+Withdraw 0.00 RC_ibBTC3CRV-f
+Claim 0.00 RULER ($0.00) 0.00 BADGER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_vETH23CRV-f
+ Price: $4.06 Market Cap: $2.53 
+Staked: 0.0000 RC_vETH23CRV-f ($0.00)
+RULER Per Week: 50000000000.00 ($1,264,500,000,000.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 RC_vETH23CRV-f ($0.00), NaN% of the pool.
+SGT Per Week: 1246.00 ($48.53)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 RC_vETH23CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_vETH23CRV-f
+Withdraw 0.00 RC_vETH23CRV-f
+Claim 0.00 RULER ($0.00) 0.00 SGT ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_iFARM3CRV-f
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 RC_iFARM3CRV-f ($0.00)
+RULER Per Week: 75.00 ($1,896.75)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_iFARM3CRV-f ($0.00), NaN% of the pool.
+iFARM Per Week: 23.40 ($6,749.26)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_iFARM3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_iFARM3CRV-f
+Withdraw 0.00 RC_iFARM3CRV-f
+Claim 0.00 RULER ($0.00) 0.00 iFARM ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_ARMOR3CRV-f
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 RC_ARMOR3CRV-f ($0.00)
+RULER Per Week: 50.00 ($1,264.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_ARMOR3CRV-f ($0.00), NaN% of the pool.
+ARMOR Per Week: 19859.00 ($6,152.30)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_ARMOR3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_ARMOR3CRV-f
+Withdraw 0.00 RC_ARMOR3CRV-f
+Claim 0.00 RULER ($0.00) 0.00 ARMOR ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_ALCX3CRV-f
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 RC_ALCX3CRV-f ($0.00)
+RULER Per Week: 75.00 ($1,896.75)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_ALCX3CRV-f ($0.00), NaN% of the pool.
+ALCX Per Week: 4.20 ($1,516.41)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_ALCX3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_ALCX3CRV-f
+Withdraw 0.00 RC_ALCX3CRV-f
+Claim 0.00 RULER ($0.00) 0.00 ALCX ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_BDI3CRV-f
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 RC_BDI3CRV-f ($0.00)
+RULER Per Week: 75.00 ($1,896.75)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_BDI3CRV-f ($0.00), NaN% of the pool.
+BASK Per Week: 46.70 ($2,044.53)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_BDI3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_BDI3CRV-f
+Withdraw 0.00 RC_BDI3CRV-f
+Claim 0.00 RULER ($0.00) 0.00 BASK ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_NEAR3CRV-f
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 RC_NEAR3CRV-f ($0.00)
+RULER Per Week: 75.00 ($1,896.75)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_NEAR3CRV-f ($0.00), NaN% of the pool.
+NEAR Per Week: 1968300000.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_NEAR3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_NEAR3CRV-f
+Withdraw 0.00 RC_NEAR3CRV-f
+Claim 0.00 RULER ($0.00) 0.00 NEAR ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_vVSP3CRV-f
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 RC_vVSP3CRV-f ($0.00)
+RULER Per Week: 25.00 ($632.25)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_vVSP3CRV-f ($0.00), NaN% of the pool.
+xRULER Per Week: 23.86 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_vVSP3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_vVSP3CRV-f
+Withdraw 0.00 RC_vVSP3CRV-f
+Claim 0.00 RULER ($0.00) 0.00 xRULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_INV3CRV-f
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 RC_INV3CRV-f ($0.00)
+RULER Per Week: 25.00 ($632.25)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_INV3CRV-f ($0.00), NaN% of the pool.
+INV Per Week: 16.36 ($2,852.04)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_INV3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_INV3CRV-f
+Withdraw 0.00 RC_INV3CRV-f
+Claim 0.00 RULER ($0.00) 0.00 INV ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_xRULER3CRV-f
+ Price: $1.00 Market Cap: $199.80 
+Staked: 0.0000 RC_xRULER3CRV-f ($0.00)
+xRULER Per Week: 400.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_xRULER3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_xRULER3CRV-f
+Withdraw 0.00 RC_xRULER3CRV-f
+Claim 0.00 xRULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_xCOVER3CRV-f
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 RC_xCOVER3CRV-f ($0.00)
+xRULER Per Week: 400.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_xCOVER3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_xCOVER3CRV-f
+Withdraw 0.00 RC_xCOVER3CRV-f
+Claim 0.00 xRULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_AMP3CRV-f
+ Price: $1.00 Market Cap: $45.82 
+Staked: 0.0000 RC_AMP3CRV-f ($0.00)
+AMP Per Week: 75927.57 ($4,956.78)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 RC_AMP3CRV-f ($0.00), NaN% of the pool.
+xRULER Per Week: 25.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_AMP3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_AMP3CRV-f
+Withdraw 0.00 RC_AMP3CRV-f
+Claim 0.00 AMP ($0.00) 0.00 xRULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_iFARM3CRV-f
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 RC_iFARM3CRV-f ($0.00)
+FARM Per Week: 29.25 ($7,023.80)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_iFARM3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_iFARM3CRV-f
+Withdraw 0.00 RC_iFARM3CRV-f
+Claim 0.00 FARM ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RC_ARMOR3CRV-f
+ Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 RC_ARMOR3CRV-f ($0.00)
+ARMOR Per Week: 24461.00 ($7,577.99)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_ARMOR3CRV-f ($0.00), NaN% of the pool.
+xRULER Per Week: 25.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RC_ARMOR3CRV-f ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 RC_ARMOR3CRV-f
+Withdraw 0.00 RC_ARMOR3CRV-f
+Claim 0.00 ARMOR ($0.00) 0.00 xRULER ($0.00) 
+Staking or unstaking also claims rewards.
+
+
+RULER
+ Price: $25.29 Market Cap: $25,290,000.00 
+[%]
+Staked: 146108.1862 RULER ($3,695,076.03)
+RULER Per Week: 700.00 ($17,703.00)
+APR: Day 0.07% Week 0.48% Year 24.91%
+You are staking 0.00 RULER ($0.00), 0.00% of the pool.
+xRULER Contract
+Deposit 0.00 RULER
+Withdraw 0.00 xRULER
+

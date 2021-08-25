@@ -1,0 +1,77 @@
+INFO  : https://bsc.valuedefi.io
+****************************************************************************
+
+Mon Aug 23 2021 13:44:19 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+-------------------------------------------------
+vBSWAP price $43.85
+-------------------------------------------------
+ 
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+-------------------------------------------------
+
+vFARM: https://bsc.valuedefi.io/#/vfarm 
+
+
+-------------------------------------------------
+Pool: vBSWAPWBNB
+ 
+Total Value Locked: $-4,136.67
+vBSWAPWBNB Price: $306.67
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 vBSWAPWBNB ($0.00), 0.00% of the pool.
+Approve 0.00000000  vBSWAPWBNB
+Stake 0.00000000  vBSWAPWBNB
+Unstake 0.00000000  vBSWAPWBNB
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+Pool: WBNBBUSD
+ 
+Total Value Locked: $36,752.53
+WBNBBUSD Price: $46.10
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 WBNBBUSD ($0.00), 0.00% of the pool.
+Approve 0.00000000  WBNBBUSD
+Stake 0.00000000  WBNBBUSD
+Unstake 0.00000000  WBNBBUSD
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+Pool: BTCBWBNB
+ 
+Total Value Locked: $10,373.77
+BTCBWBNB Price: $9969.08
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 BTCBWBNB ($0.00), 0.00% of the pool.
+Approve 0.00000000  BTCBWBNB
+Stake 0.00000000  BTCBWBNB
+Unstake 0.00000000  BTCBWBNB
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+Pool: ETHWBNB
+ 
+Total Value Locked: $241.38
+ETHWBNB Price: $2567.43
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 ETHWBNB ($0.00), 0.00% of the pool.
+Approve 0.00000000  ETHWBNB
+Stake 0.00000000  ETHWBNB
+Unstake 0.00000000  ETHWBNB
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------

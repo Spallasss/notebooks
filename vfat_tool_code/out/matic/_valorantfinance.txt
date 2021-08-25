@@ -1,0 +1,237 @@
+INFO  : https://valorant.life/
+********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Aug 23 2021 13:04:32 GMT+0530 (India Standard Time)
+[CHANGE WALLET]
+ -=- 
+[CLEAR BROWSER STORAGE]
+Initialized 0xbd106eeb1f0ed1528bc631e1616ea8aea59ad0fd
+
+Reading smart contracts...
+
+Found 15 pools.
+
+Showing incentivized pools only.
+
+Finished reading smart contracts.
+
+0 - 
+[USDC]-[RADIANITE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.02 TVL: $0.00
+USDC Price: $1.00
+RADIANITE Price: $0.0000000000
+Staked: 0.0000 UNI-V2 ($0.00)
+RADIANITE Per Week: 43308270676691728.00 ($0.03)
+APR: Day 672781.39% Week 4709469.74% Year 244892426.23%
+You are staking 0.00 [USDC]-[RADIANITE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[RADIANITE] Uni LP
+Unstake 0.00 [USDC]-[RADIANITE] Uni LP
+Claim 0.00 RADIANITE ($0.00)
+Staking or unstaking also claims rewards.
+1 - 
+[WMATIC]-[RADIANITE] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $0.00 TVL: $0.00
+WMATIC Price: $1.64
+RADIANITE Price: $0.0000000000
+Staked: 3100.1146 UNI-V2 ($0.00)
+RADIANITE Per Week: 43308270676691728.00 ($0.03)
+APR: Day 12037.09% Week 84259.62% Year 4381500.44%
+You are staking 0.00 [WMATIC]-[RADIANITE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[RADIANITE] Uni LP
+Unstake 0.00 [WMATIC]-[RADIANITE] Uni LP
+Claim 0.00 RADIANITE ($0.00)
+Staking or unstaking also claims rewards.
+2 - 
+[WMATIC]-[USDC] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $4,603,928.64 TVL: $33,313,484.27
+WMATIC Price: $1.64
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($96.82)
+RADIANITE Per Week: 12992481203007518.00 ($0.01)
+APR: Day 0.00% Week 0.01% Year 0.47%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 RADIANITE ($0.00)
+Staking or unstaking also claims rewards.
+3 - 
+[USDC]-[DAI] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $74,948,162.21 TVL: $21,381,364.49
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 UNI-V2 ($2.22)
+RADIANITE Per Week: 17323308270676690.00 ($0.01)
+APR: Day 0.07% Week 0.52% Year 27.29%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 RADIANITE ($0.00)
+Staking or unstaking also claims rewards.
+4 - 
+[DAI]-[USDT] Uni LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $27,060,140.57 TVL: $3,960,149.77
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($1.91)
+RADIANITE Per Week: 17323308270676690.00 ($0.01)
+APR: Day 0.09% Week 0.61% Year 31.65%
+You are staking 0.00 [DAI]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [DAI]-[USDT] Uni LP
+Claim 0.00 RADIANITE ($0.00)
+Staking or unstaking also claims rewards.
+5 - 
+[DAI]-[USDT] PolyCat LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $1,998,286.43 TVL: $10,629,710.99
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 CAT-LP ($0.00)
+RADIANITE Per Week: 17323308270676690.00 ($0.01)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DAI]-[USDT] PolyCat LP ($0.00), NaN% of the pool.
+Stake 0.00 [DAI]-[USDT] PolyCat LP - Fee 4%
+Unstake 0.00 [DAI]-[USDT] PolyCat LP
+Claim 0.00 RADIANITE ($0.00)
+Staking or unstaking also claims rewards.
+6 - 
+[USDC]-[DAI] PolyCat LP
+ 
+[+]
+ 
+[-]
+ 
+[<=>]
+ Price: $63,256,241.88 TVL: $11,454,832.66
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 CAT-LP ($0.00)
+RADIANITE Per Week: 17323308270676690.00 ($0.01)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[DAI] PolyCat LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[DAI] PolyCat LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] PolyCat LP
+Claim 0.00 RADIANITE ($0.00)
+Staking or unstaking also claims rewards.
+7 - 
+RADIANITE
+ Price: $0.0000000000 Market Cap: $0.01 
+[%]
+Staked: 6525945335309343.0000 RADIANITE ($0.00)
+RADIANITE Per Week: 28150375939849624.00 ($0.02)
+APR: Day 61.62% Week 431.36% Year 22430.77%
+You are staking 0.00 RADIANITE ($0.00), 0.00% of the pool.
+Stake 0.00 RADIANITE
+Unstake 0.00 RADIANITE
+Claim 0.00 RADIANITE ($0.00)
+Staking or unstaking also claims rewards.
+8 - 
+WMATIC
+ Price: $1.64 Market Cap: $603,130,893.29 
+[%]
+Staked: 3.6719 WMATIC ($6.02)
+RADIANITE Per Week: 12992481203007518.00 ($0.01)
+APR: Day 0.02% Week 0.15% Year 7.55%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 RADIANITE ($0.00)
+Staking or unstaking also claims rewards.
+9 - 
+WETH
+ Price: $3,317.32 Market Cap: $2,022,468,925.03 
+[%]
+Staked: 0.0000 WETH ($0.00)
+RADIANITE Per Week: 12992481203007518.00 ($0.01)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 WETH ($0.00), NaN% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 RADIANITE ($0.00)
+Staking or unstaking also claims rewards.
+10 - 
+WBTC
+ Price: $49,989.00 Market Cap: $696,539,589.29 
+[%]
+Staked: 0.0066 WBTC ($328.70)
+RADIANITE Per Week: 12992481203007518.00 ($0.01)
+APR: Day 0.00% Week 0.00% Year 0.14%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 RADIANITE ($0.00)
+Staking or unstaking also claims rewards.
+11 - 
+DAI
+ Price: $1.00 Market Cap: $376,545,250.79 
+[%]
+Staked: 0.0000 DAI ($0.00)
+RADIANITE Per Week: 17323308270676690.00 ($0.01)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DAI ($0.00), NaN% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 RADIANITE ($0.00)
+Staking or unstaking also claims rewards.
+12 - 
+USDT
+ Price: $1.00 Market Cap: $315,002,032.28 
+[%]
+Staked: 62.4078 USDT ($62.35)
+RADIANITE Per Week: 17323308270676690.00 ($0.01)
+APR: Day 0.00% Week 0.02% Year 0.97%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 RADIANITE ($0.00)
+Staking or unstaking also claims rewards.
+13 - 
+USDC
+ Price: $1.00 Market Cap: $1,042,367,534.97 
+[%]
+Staked: 4.8000 USDC ($4.79)
+RADIANITE Per Week: 17323308270676690.00 ($0.01)
+APR: Day 0.03% Week 0.24% Year 12.64%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 RADIANITE ($0.00)
+Staking or unstaking also claims rewards.
+Total Staked: $502.82
